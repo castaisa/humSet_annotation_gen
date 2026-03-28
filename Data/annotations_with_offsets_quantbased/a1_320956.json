@@ -1,0 +1,232 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31 percent",
+      "start": 125,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "increase in wheat flour price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,983/kg",
+      "start": 149,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "wheat flour price",
+      "start": 163,
+      "end": 180
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 145,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "279 percent",
+      "start": 199,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "year-on-year increase in wheat flour price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,320/kg",
+      "start": 272,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "highest wheat flour price in Tartous",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 268,
+      "end": 271
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "66 percent",
+      "start": 285,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "month-on-month increase in Tartous wheat flour price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,627/kg",
+      "start": 373,
+      "end": 381
+    },
+    "eventDescription": {
+      "text": "lowest governorate average wheat flour price in Ar-Raqqa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 369,
+      "end": 372
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "35 percent",
+      "start": 386,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "month-on-month increase in Ar-Raqqa wheat flour price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,218/kg",
+      "start": 536,
+      "end": 544
+    },
+    "eventDescription": {
+      "text": "highest retail wheat flour price in northwest Syria",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 532,
+      "end": 535
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33 percent",
+      "start": 549,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "month-on-month increase in northwest Syria wheat flour price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,140/kg",
+      "start": 609,
+      "end": 617
+    },
+    "eventDescription": {
+      "text": "wheat flour price in Syria’s middle region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 605,
+      "end": 608
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "32 percent",
+      "start": 622,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "month-on-month increase in Syria’s middle region wheat flour price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,684/kg",
+      "start": 725,
+      "end": 733
+    },
+    "eventDescription": {
+      "text": "lowest average retail wheat flour price in cross-border region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 721,
+      "end": 724
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20 percent",
+      "start": 738,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "month-on-month increase in cross-border region wheat flour price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,822/kg",
+      "start": 792,
+      "end": 800
+    },
+    "eventDescription": {
+      "text": "wheat flour price in northeast Syria",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 788,
+      "end": 791
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "41 percent",
+      "start": 805,
+      "end": 815
+    },
+    "eventDescription": {
+      "text": "month-on-month increase in northeast Syria wheat flour price",
+      "start": null,
+      "end": null
+    }
+  }
+]

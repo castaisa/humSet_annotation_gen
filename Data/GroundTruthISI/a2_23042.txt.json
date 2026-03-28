@@ -1,0 +1,190 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 121,
+      "end": 124
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 114,
+      "end": 120
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "soldier",
+      "begin": 125,
+      "end": 132
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 137,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 114,
+      "end": 120
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "civilian",
+      "begin": 141,
+      "end": 149
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 190,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 183,
+      "end": 189
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Boko Haram militants",
+      "begin": 196,
+      "end": 216
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 267,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 260,
+      "end": 266
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "suspected cultists",
+      "begin": 271,
+      "end": 289
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 349,
+      "end": 353
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 342,
+      "end": 348
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "fifteen",
+      "begin": 368,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "kidnapped",
+      "begin": 358,
+      "end": 367
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "sixty-six",
+      "begin": 434,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 427,
+      "end": 433
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 490,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 483,
+      "end": 489
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "university workers",
+      "begin": 512,
+      "end": 530
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 508,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "kidnapped",
+      "begin": 498,
+      "end": 507
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "university workers",
+      "begin": 512,
+      "end": 530
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 630,
+      "end": 634
+    },
+    "eventDescription": {
+      "text": "killing",
+      "begin": 622,
+      "end": 629
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Biafrans",
+      "begin": 635,
+      "end": 643
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 686,
+      "end": 689
+    },
+    "eventDescription": {
+      "text": "abducting",
+      "begin": 667,
+      "end": 676
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "at least",
+      "begin": 677,
+      "end": 685
+    },
+    "unit": {
+      "text": "Biafrans",
+      "begin": 690,
+      "end": 698
+    }
+  }
+]

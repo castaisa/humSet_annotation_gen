@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "15:00",
+      "begin": 84,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "fire broke out in Camp 8W",
+      "begin": 48,
+      "end": 73
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "around",
+      "begin": 77,
+      "end": 83
+    }
+  },
+  {
+    "quantity": {
+      "text": "48,300",
+      "begin": 294,
+      "end": 300
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 301,
+      "end": 312
+    },
+    "eventDescription": {
+      "text": "were directly affected",
+      "begin": 313,
+      "end": 335
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "92,000",
+      "begin": 350,
+      "end": 356
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 357,
+      "end": 368
+    },
+    "eventDescription": {
+      "text": "impacted",
+      "begin": 369,
+      "end": 377
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "75",
+      "begin": 570,
+      "end": 572
+    },
+    "unit": {
+      "text": "hectares of land",
+      "begin": 573,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "was impacted",
+      "begin": 590,
+      "end": 602
+    },
+    "eventType": "EventO"
+  }
+]

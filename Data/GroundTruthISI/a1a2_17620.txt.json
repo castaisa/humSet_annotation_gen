@@ -1,0 +1,254 @@
+[
+  {
+    "quantity": {
+      "text": "18,815",
+      "begin": 106,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "Psycho-social support services were provided",
+      "begin": 0,
+      "end": 44
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children and care-givers",
+      "begin": 113,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,106",
+      "begin": 139,
+      "end": 144
+    },
+    "eventDescription": {
+      "text": "Psycho-social support services were provided",
+      "begin": 0,
+      "end": 44
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 145,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "705",
+      "begin": 152,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "Psycho-social support services were provided",
+      "begin": 0,
+      "end": 44
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 156,
+      "end": 160
+    }
+  },
+  {
+    "quantity": {
+      "text": "11,801",
+      "begin": 162,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "Psycho-social support services were provided",
+      "begin": 0,
+      "end": 44
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 169,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,203",
+      "begin": 179,
+      "end": 184
+    },
+    "eventDescription": {
+      "text": "Psycho-social support services were provided",
+      "begin": 0,
+      "end": 44
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 185,
+      "end": 188
+    }
+  },
+  {
+    "quantity": {
+      "text": "18,815",
+      "begin": 276,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "Mine risk awareness sessions run",
+      "begin": 193,
+      "end": 225
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 283,
+      "end": 289
+    }
+  },
+  {
+    "quantity": {
+      "text": "146",
+      "begin": 335,
+      "end": 338
+    },
+    "eventDescription": {
+      "text": "Case management services were provided",
+      "begin": 293,
+      "end": 331
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 339,
+      "end": 347
+    }
+  },
+  {
+    "quantity": {
+      "text": "76",
+      "begin": 349,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "Case management services were provided",
+      "begin": 293,
+      "end": 331
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 352,
+      "end": 357
+    }
+  },
+  {
+    "quantity": {
+      "text": "70",
+      "begin": 362,
+      "end": 364
+    },
+    "eventDescription": {
+      "text": "Case management services were provided",
+      "begin": 293,
+      "end": 331
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 365,
+      "end": 369
+    }
+  },
+  {
+    "quantity": {
+      "text": "15,336",
+      "begin": 492,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 469,
+      "end": 476
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 499,
+      "end": 504
+    }
+  },
+  {
+    "quantity": {
+      "text": "46,778",
+      "begin": 477,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 469,
+      "end": 476
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 484,
+      "end": 490
+    }
+  },
+  {
+    "quantity": {
+      "text": "14,438",
+      "begin": 506,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 469,
+      "end": 476
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 513,
+      "end": 517
+    }
+  },
+  {
+    "quantity": {
+      "text": "11,801",
+      "begin": 519,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 469,
+      "end": 476
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 526,
+      "end": 531
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,203",
+      "begin": 536,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 469,
+      "end": 476
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 542,
+      "end": 545
+    }
+  }
+]

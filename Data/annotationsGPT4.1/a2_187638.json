@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "at least 70",
+    "unit": "health workers",
+    "eventType": "EventA",
+    "eventDescription": "supplied with PPEs",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "two",
+    "unit": "Health Care Facility/Maternal Child Health Centres",
+    "eventType": "EventO",
+    "eventDescription": "established triage stations"
+  },
+  {
+    "quantity": "over 10",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "gatherings discouraged",
+    "modifier": "over"
+  },
+  {
+    "quantity": "two",
+    "unit": "IDP sites",
+    "eventType": "EventO",
+    "eventDescription": "overcrowded sites piloted for decongestion"
+  }
+]

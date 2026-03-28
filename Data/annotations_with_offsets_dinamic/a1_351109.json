@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "supported price of granular nitrate fertilizer",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "200",
+      "start": 132,
+      "end": 135
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 136,
+      "end": 146
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "portion of fertilizer needs provided by the bank",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "a third",
+      "start": 499,
+      "end": 506
+    },
+    "unit": {
+      "text": "of the farmers’ needs",
+      "start": 507,
+      "end": 528
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "average price of fertilizer in the local market",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 657",
+      "start": 631,
+      "end": 636
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 637,
+      "end": 647
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "monthly decrease in fertilizer price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8 percent",
+      "start": 649,
+      "end": 658
+    },
+    "unit": {
+      "text": "m-o-m decrease",
+      "start": 659,
+      "end": 673
+    }
+  }
+]

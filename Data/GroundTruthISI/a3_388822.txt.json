@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "100%",
+      "begin": 75,
+      "end": 79
+    },
+    "unit": {
+      "text": "dengue patients",
+      "begin": 58,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "being infected with DEN-3",
+      "begin": 85,
+      "end": 110
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "90%",
+      "begin": 469,
+      "end": 472
+    },
+    "unit": {
+      "text": "dengue cases",
+      "begin": 473,
+      "end": 485
+    },
+    "eventDescription": {
+      "text": "were of this variant, Dr Tahmina Shirin said",
+      "begin": 494,
+      "end": 538
+    },
+    "eventType": "EventP"
+  }
+]

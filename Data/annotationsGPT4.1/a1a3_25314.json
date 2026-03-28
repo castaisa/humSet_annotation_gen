@@ -1,0 +1,165 @@
+[
+  {
+    "quantity": "twenty-three",
+    "unit": "Boko Haram militants",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "four",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "one",
+    "unit": "policeman",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "twenty",
+    "unit": "Independent National Electoral Commission (INEC) ad hoc staff",
+    "eventType": "EventP",
+    "eventDescription": "abducted"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "four",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "six",
+    "unit": "INEC staff",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped"
+  },
+  {
+    "quantity": "one",
+    "unit": "ballot box snatcher",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "four",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "five",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped",
+    "modifier": "about"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "resulted in deaths"
+  },
+  {
+    "quantity": "one",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "resulted in death"
+  },
+  {
+    "quantity": "five",
+    "unit": "sailors",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped"
+  }
+]

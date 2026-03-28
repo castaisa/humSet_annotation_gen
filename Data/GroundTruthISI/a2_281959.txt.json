@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": {
+      "text": "4,638",
+      "begin": 58,
+      "end": 63
+    },
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    }
+  },
+  {
+    "quantity": {
+      "text": "72%",
+      "begin": 201,
+      "end": 204
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 189,
+      "end": 197
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40%",
+      "begin": 278,
+      "end": 281
+    },
+    "eventDescription": {
+      "text": "internet and online",
+      "begin": 257,
+      "end": 276
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "respondents",
+      "begin": 285,
+      "end": 296
+    }
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 307,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "SMS",
+      "begin": 302,
+      "end": 305
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "respondents",
+      "begin": 314,
+      "end": 325
+    }
+  }
+]

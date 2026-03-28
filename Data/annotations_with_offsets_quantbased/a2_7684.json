@@ -1,0 +1,136 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "67%",
+      "start": 3,
+      "end": 6
+    },
+    "eventDescription": {
+      "text": "IDPs purchased food from the market as their main source of food",
+      "start": 20,
+      "end": 84
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 10,
+      "end": 19
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two percent",
+      "start": 101,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "decrease in IDPs purchasing food from the market",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16%",
+      "start": 214,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "IDPs obtaining food on credit",
+      "start": 165,
+      "end": 194
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 165,
+      "end": 169
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one percent",
+      "start": 233,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "decrease in IDPs obtaining food on credit",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16%",
+      "start": 282,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "main source of food was reported to be from charity or donations",
+      "start": 303,
+      "end": 367
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 289,
+      "end": 298
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 373,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "reporting family or friends as the main source of food",
+      "start": 384,
+      "end": 438
+    },
+    "unit": {
+      "text": "baladiya",
+      "start": 375,
+      "end": 383
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "94",
+      "start": 490,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "food was reported as too expensive",
+      "start": 452,
+      "end": 486
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 502,
+      "end": 511
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13%",
+      "start": 552,
+      "end": 555
+    },
+    "eventDescription": {
+      "text": "cases of malnutrition reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 559,
+      "end": 568
+    }
+  }
+]

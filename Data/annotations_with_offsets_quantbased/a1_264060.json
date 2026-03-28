@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4 – 8",
+      "start": 161,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "household size",
+      "start": 145,
+      "end": 159
+    },
+    "unit": {
+      "text": "HHs",
+      "start": 167,
+      "end": 170
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "80 percent",
+      "start": 304,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "food share of expenditure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food share",
+      "start": 270,
+      "end": 280
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 297,
+      "end": 303
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "zero",
+      "start": 321,
+      "end": 325
+    },
+    "eventDescription": {
+      "text": "expenses reported for water and education",
+      "start": 326,
+      "end": 367
+    },
+    "unit": {
+      "text": "expenses",
+      "start": 326,
+      "end": 334
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "zero",
+      "start": 380,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "savings put away",
+      "start": 385,
+      "end": 401
+    },
+    "unit": {
+      "text": "savings",
+      "start": 385,
+      "end": 392
+    }
+  }
+]

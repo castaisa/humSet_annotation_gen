@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 427,
+      "end": 429
+    },
+    "eventDescription": {
+      "text": "death",
+      "begin": 418,
+      "end": 423
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Nigerian soldiers",
+      "begin": 430,
+      "end": 447
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 460,
+      "end": 461
+    },
+    "unit": {
+      "text": "Nigerian soldiers",
+      "begin": 430,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 484,
+      "end": 491
+    },
+    "eventType": "EventP"
+  }
+]

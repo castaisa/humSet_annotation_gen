@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had at least one household member who was married before the age of 18",
+      "start": 99,
+      "end": 169
+    },
+    "quantity": {
+      "text": "42 per cent",
+      "start": 43,
+      "end": 54
+    },
+    "unit": {
+      "text": "households",
+      "start": 58,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "was married before the age of 18",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 103,
+      "end": 111
+    },
+    "quantity": {
+      "text": "one",
+      "start": 112,
+      "end": 115
+    },
+    "unit": {
+      "text": "household member",
+      "start": 116,
+      "end": 132
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "married before the age of 18",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18",
+      "start": 167,
+      "end": 169
+    },
+    "unit": {
+      "text": "age",
+      "start": 160,
+      "end": 163
+    }
+  }
+]

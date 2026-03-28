@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "9 million",
+      "begin": 554,
+      "end": 563
+    },
+    "eventDescription": {
+      "text": "Red Cross has more than doubled their budget for responding to the crisis",
+      "begin": 455,
+      "end": 528
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "CHF",
+      "begin": 564,
+      "end": 567
+    }
+  },
+  {
+    "quantity": {
+      "text": "19 million",
+      "begin": 571,
+      "end": 581
+    },
+    "eventDescription": {
+      "text": "Red Cross has more than doubled their budget for responding to the crisis",
+      "begin": 455,
+      "end": 528
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "CHF",
+      "begin": 582,
+      "end": 585
+    }
+  }
+]

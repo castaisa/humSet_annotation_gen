@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "0%",
+      "begin": 285,
+      "end": 287
+    },
+    "unit": {
+      "text": "proportion of assessed settlements reporting that most people were engaged in subsistence farming",
+      "begin": 115,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "proportion increased throughout the reporting period",
+      "begin": 227,
+      "end": 279
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 299,
+      "end": 302
+    },
+    "unit": {
+      "text": "proportion of assessed settlements reporting that most people were engaged in subsistence farming",
+      "begin": 115,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "proportion increased throughout the reporting period",
+      "begin": 227,
+      "end": 279
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "97%",
+      "begin": 481,
+      "end": 484
+    },
+    "unit": {
+      "text": "portions of assessed settlements",
+      "begin": 376,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "reporting that most people were not engaged in any livelihood activity",
+      "begin": 409,
+      "end": 479
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 496,
+      "end": 499
+    },
+    "unit": {
+      "text": "portions of assessed settlements",
+      "begin": 376,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "reporting that most people were not engaged in any livelihood activity",
+      "begin": 409,
+      "end": 479
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "55%-81%",
+      "begin": 649,
+      "end": 656
+    },
+    "unit": {
+      "text": "proportion of settlements",
+      "begin": 529,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "reporting most people were engaged in subsistence farming was the second lowest",
+      "begin": 555,
+      "end": 634
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "81%",
+      "begin": 653,
+      "end": 656
+    },
+    "unit": {
+      "text": "proportion of settlements",
+      "begin": 529,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "reporting most people were engaged in subsistence farming was the second lowest",
+      "begin": 555,
+      "end": 634
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "55%",
+      "begin": 649,
+      "end": 652
+    },
+    "unit": {
+      "text": "proportion of settlements",
+      "begin": 529,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "reporting most people were engaged in subsistence farming was the second lowest",
+      "begin": 555,
+      "end": 634
+    },
+    "eventType": "EventO"
+  }
+]

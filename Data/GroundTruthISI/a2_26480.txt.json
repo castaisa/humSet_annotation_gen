@@ -1,0 +1,99 @@
+[
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 126,
+      "end": 128
+    },
+    "unit": {
+      "text": "hospitals",
+      "begin": 129,
+      "end": 138
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 343,
+      "end": 344
+    },
+    "unit": {
+      "text": "medical staff",
+      "begin": 350,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 372,
+      "end": 375
+    },
+    "unit": {
+      "text": "hospitals",
+      "begin": 379,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "intermittent power outage and lack of safe drinking water",
+      "begin": 398,
+      "end": 455
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "79%",
+      "begin": 457,
+      "end": 460
+    },
+    "unit": {
+      "text": "public hospitals",
+      "begin": 464,
+      "end": 480
+    },
+    "eventDescription": {
+      "text": "lack regular water supply",
+      "begin": 481,
+      "end": 506
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 526,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "reported receiving no water at all",
+      "begin": 535,
+      "end": 569
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 762,
+      "end": 765
+    },
+    "unit": {
+      "text": "equipment",
+      "begin": 790,
+      "end": 799
+    }
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 968,
+      "end": 971
+    },
+    "unit": {
+      "text": "medical supplies",
+      "begin": 975,
+      "end": 991
+    }
+  }
+]

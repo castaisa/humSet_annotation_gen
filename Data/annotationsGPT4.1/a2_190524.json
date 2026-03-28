@@ -1,0 +1,16 @@
+[
+  {
+    "quantity": "more than 23,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "entered through Darien",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "over 2,000",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "remain in the Reception Centers",
+    "modifier": "over"
+  }
+]

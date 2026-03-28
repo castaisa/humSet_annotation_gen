@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "schools where personnel filled out a medical history form",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21%",
+      "start": 516,
+      "end": 519
+    },
+    "unit": {
+      "text": "schools",
+      "start": 524,
+      "end": 531
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "schools where personnel filled out a medical history form",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 521,
+      "end": 523
+    },
+    "unit": {
+      "text": "schools",
+      "start": 540,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "schools where personnel did not fill out a medical history form",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "79%",
+      "start": 649,
+      "end": 652
+    },
+    "unit": {
+      "text": "schools",
+      "start": 658,
+      "end": 665
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "schools where personnel did not fill out a medical history form",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "149",
+      "start": 654,
+      "end": 657
+    },
+    "unit": {
+      "text": "schools",
+      "start": 674,
+      "end": 681
+    }
+  }
+]

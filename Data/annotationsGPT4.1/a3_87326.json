@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "0%",
+    "unit": "assessed settlements",
+    "eventType": "EventP",
+    "eventDescription": "reporting most people engaged in subsistence farming"
+  },
+  {
+    "quantity": "39%",
+    "unit": "assessed settlements",
+    "eventType": "EventP",
+    "eventDescription": "reporting most people engaged in subsistence farming"
+  },
+  {
+    "quantity": "97%",
+    "unit": "assessed settlements",
+    "eventType": "EventP",
+    "eventDescription": "reporting most people not engaged in any livelihood activity"
+  },
+  {
+    "quantity": "25%",
+    "unit": "assessed settlements",
+    "eventType": "EventP",
+    "eventDescription": "reporting most people not engaged in any livelihood activity"
+  },
+  {
+    "quantity": "55%",
+    "unit": "settlements",
+    "eventType": "EventP",
+    "eventDescription": "reporting most people engaged in subsistence farming"
+  },
+  {
+    "quantity": "81%",
+    "unit": "settlements",
+    "eventType": "EventP",
+    "eventDescription": "reporting most people engaged in subsistence farming"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "served",
+      "start": 53,
+      "end": 59
+    },
+    "quantity": {
+      "text": "17,772",
+      "start": 32,
+      "end": 38
+    },
+    "unit": {
+      "text": "patients",
+      "start": 39,
+      "end": 47
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided health services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7",
+      "start": 69,
+      "end": 70
+    },
+    "unit": {
+      "text": "mobile health teams",
+      "start": 71,
+      "end": 90
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "conducted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,142",
+      "start": 105,
+      "end": 110
+    },
+    "unit": {
+      "text": "outpatient consultations",
+      "start": 111,
+      "end": 135
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received health education sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14,630",
+      "start": 167,
+      "end": 173
+    },
+    "unit": {
+      "text": "persons",
+      "start": 174,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received psychosocial counselling sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "607",
+      "start": 224,
+      "end": 227
+    },
+    "unit": {
+      "text": "patients",
+      "start": 228,
+      "end": 236
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened for tuberculosis",
+      "start": 353,
+      "end": 378
+    },
+    "quantity": {
+      "text": "10,954",
+      "start": 320,
+      "end": 326
+    },
+    "unit": {
+      "text": "undocumented Afghans",
+      "start": 327,
+      "end": 347
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": 510,
+      "end": 520
+    },
+    "quantity": {
+      "text": "235",
+      "start": 480,
+      "end": 483
+    },
+    "unit": {
+      "text": "presumptive TB cases",
+      "start": 484,
+      "end": 504
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed positive for TB",
+      "start": 686,
+      "end": 711
+    },
+    "quantity": {
+      "text": "1",
+      "start": 673,
+      "end": 674
+    },
+    "unit": {
+      "text": "person",
+      "start": 675,
+      "end": 681
+    }
+  }
+]

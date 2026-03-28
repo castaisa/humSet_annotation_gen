@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "evacuated",
+      "start": 31,
+      "end": 40
+    },
+    "modifier": {
+      "text": "over",
+      "start": 41,
+      "end": 45
+    },
+    "quantity": {
+      "text": "over 1,200",
+      "start": 41,
+      "end": 51
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "start": 52,
+      "end": 79
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "on board",
+      "start": 193,
+      "end": 201
+    },
+    "quantity": {
+      "text": "127",
+      "start": 161,
+      "end": 164
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "start": 165,
+      "end": 192
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "evacuated to UNHCR’s Emergency Transit Mechanism (ETM) in Niger",
+      "start": 259,
+      "end": 322
+    },
+    "quantity": {
+      "text": "897",
+      "start": 222,
+      "end": 225
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "start": 226,
+      "end": 253
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "departed to Italy",
+      "start": 328,
+      "end": 345
+    },
+    "quantity": {
+      "text": "312",
+      "start": 324,
+      "end": 327
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "departed to UNHCR’s Emergency Transit Centre in Romania",
+      "start": 354,
+      "end": 409
+    },
+    "quantity": {
+      "text": "two",
+      "start": 350,
+      "end": 353
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "processed and referred for resettlement",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "460",
+      "start": 555,
+      "end": 558
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 559,
+      "end": 570
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "submitted to different resettlement countries",
+      "start": 636,
+      "end": 681
+    },
+    "quantity": {
+      "text": "333",
+      "start": 602,
+      "end": 605
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 606,
+      "end": 617
+    }
+  }
+]

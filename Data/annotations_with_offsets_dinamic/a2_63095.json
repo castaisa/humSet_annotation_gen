@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "areas remained without water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15",
+      "start": 618,
+      "end": 620
+    },
+    "unit": {
+      "text": "days",
+      "start": 632,
+      "end": 636
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "practiced open defecation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29%",
+      "start": 1330,
+      "end": 1333
+    },
+    "unit": {
+      "text": "of rural population",
+      "start": 1334,
+      "end": 1353
+    }
+  }
+]

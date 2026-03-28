@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "1.6 percent",
+      "begin": 585,
+      "end": 596
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 604,
+      "end": 619
+    },
+    "eventDescription": {
+      "text": "confirmed cases",
+      "begin": 604,
+      "end": 619
+    },
+    "eventType": "EventP"
+  }
+]

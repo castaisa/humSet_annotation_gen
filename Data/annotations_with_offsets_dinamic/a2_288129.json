@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "living in crowded settlements",
+      "start": 52,
+      "end": 81
+    },
+    "modifier": {
+      "text": "over",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Over 1.87 million",
+      "start": 0,
+      "end": 17
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 18,
+      "end": 22
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "living in crowded settlements",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.1 million",
+      "start": 27,
+      "end": 38
+    },
+    "unit": {
+      "text": "refugees",
+      "start": 39,
+      "end": 47
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "placed in quarantine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two-week",
+      "start": 620,
+      "end": 628
+    },
+    "unit": {
+      "text": "quarantine",
+      "start": 629,
+      "end": 639
+    }
+  }
+]

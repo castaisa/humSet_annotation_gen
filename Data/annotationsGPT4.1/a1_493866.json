@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "12",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "137",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "AWD and cholera cases"
+  },
+  {
+    "quantity": "12",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "nine",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "LGAs affected"
+  },
+  {
+    "quantity": "50",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cumulative cases"
+  },
+  {
+    "quantity": "8",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "31",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "still in admission"
+  },
+  {
+    "quantity": "91",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "discharged from health facilities"
+  }
+]

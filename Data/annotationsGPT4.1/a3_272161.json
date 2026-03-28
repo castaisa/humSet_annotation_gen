@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "63.5%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "marked fear i.e. \u2265 7 out of 10"
+  },
+  {
+    "quantity": "56%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "admitted to modifying their habits recently in fear of contracting the virus"
+  },
+  {
+    "quantity": "77.77%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "agreed on cancellation of the lesser pilgrimage"
+  },
+  {
+    "quantity": "23.64%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "admitted that greater pilgrimage (Hajj) should proceed"
+  },
+  {
+    "quantity": "About 50%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "insisted on attending Friday congregational prayers despite social distancing",
+    "modifier": "about"
+  },
+  {
+    "quantity": "one in four",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "still harbored stigma towards a person who has recovered from the virus"
+  }
+]

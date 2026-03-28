@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "4,638",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "22%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reported consumption of seed stocks"
+  },
+  {
+    "quantity": "7%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reported selling of assets"
+  }
+]

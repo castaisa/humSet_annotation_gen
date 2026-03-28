@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "five",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age of children"
+  },
+  {
+    "quantity": "25",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces above emergency level threshold"
+  },
+  {
+    "quantity": "34",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "total provinces surveyed"
+  }
+]

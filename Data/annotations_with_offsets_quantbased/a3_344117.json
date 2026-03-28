@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10 percent",
+      "start": 149,
+      "end": 159
+    },
+    "eventDescription": {
+      "text": "represent vulnerable families",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the population",
+      "start": 160,
+      "end": 177
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 2 million",
+      "start": 181,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 196,
+      "end": 202
+    },
+    "modifier": {
+      "text": "over",
+      "start": 181,
+      "end": 185
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2.9 million",
+      "start": 305,
+      "end": 316
+    },
+    "eventDescription": {
+      "text": "expected to face a stage of crisis during the lean season",
+      "start": 321,
+      "end": 378
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "five",
+      "start": 460,
+      "end": 464
+    },
+    "eventDescription": {
+      "text": "children under five years old",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years old",
+      "start": 465,
+      "end": 474
+    }
+  }
+]

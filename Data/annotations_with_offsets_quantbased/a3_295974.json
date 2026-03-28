@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 98,
+      "end": 100
+    },
+    "eventDescription": {
+      "text": "case workers present",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 101,
+      "end": 110
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 202,
+      "end": 204
+    },
+    "eventDescription": {
+      "text": "case management assessments",
+      "start": 170,
+      "end": 197
+    },
+    "unit": {
+      "text": "PSN households",
+      "start": 209,
+      "end": 223
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 330,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "children at risk",
+      "start": 332,
+      "end": 348
+    },
+    "unit": {
+      "text": "children",
+      "start": 332,
+      "end": 340
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5",
+      "start": 350,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "people with serious medical conditions",
+      "start": 352,
+      "end": 390
+    },
+    "unit": {
+      "text": "people",
+      "start": 352,
+      "end": 358
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4",
+      "start": 392,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "women at risk",
+      "start": 394,
+      "end": 407
+    },
+    "unit": {
+      "text": "women",
+      "start": 394,
+      "end": 399
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 409,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "persons with disabilities",
+      "start": 411,
+      "end": 436
+    },
+    "unit": {
+      "text": "persons",
+      "start": 411,
+      "end": 418
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 442,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "older persons at risk",
+      "start": 444,
+      "end": 465
+    },
+    "unit": {
+      "text": "older persons",
+      "start": 444,
+      "end": 457
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,062",
+      "start": 489,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "cases ongoing",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 495,
+      "end": 500
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "130",
+      "start": 514,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "PSN individuals identified",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "PSN individuals",
+      "start": 518,
+      "end": 533
+    }
+  }
+]

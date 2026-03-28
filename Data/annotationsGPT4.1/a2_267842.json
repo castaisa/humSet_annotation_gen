@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "24,300",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "received farming inputs"
+  },
+  {
+    "quantity": "16,000",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "received farming inputs"
+  },
+  {
+    "quantity": "7,468",
+    "unit": "farming households",
+    "eventType": "EventA",
+    "eventDescription": "received cash"
+  },
+  {
+    "quantity": "3,600",
+    "unit": "metric tonnes of livestock feed",
+    "eventType": "EventA",
+    "eventDescription": "being delivered"
+  },
+  {
+    "quantity": "30,000",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "being delivered livestock feed"
+  },
+  {
+    "quantity": "2,450",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "registered for cash plus livestock inputs"
+  },
+  {
+    "quantity": "US$50.4 million",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "FAO has received"
+  },
+  {
+    "quantity": "$57 million",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "total requirement"
+  }
+]

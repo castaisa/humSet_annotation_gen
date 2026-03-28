@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "100 per cent",
+    "unit": "urban communities",
+    "eventType": "EventO",
+    "eventDescription": "water supply coverage"
+  },
+  {
+    "quantity": "95 per cent",
+    "unit": "rural populations",
+    "eventType": "EventO",
+    "eventDescription": "water supply coverage"
+  },
+  {
+    "quantity": "60 per cent",
+    "unit": "urban areas",
+    "eventType": "EventO",
+    "eventDescription": "sanitation coverage"
+  },
+  {
+    "quantity": "40 per cent",
+    "unit": "rural areas",
+    "eventType": "EventO",
+    "eventDescription": "sanitation coverage"
+  },
+  {
+    "quantity": "64 per cent",
+    "unit": "affected population",
+    "eventType": "EventP",
+    "eventDescription": "have access to adequate drinking water sources"
+  },
+  {
+    "quantity": "4-5 hours",
+    "unit": "most days",
+    "eventType": "EventO",
+    "eventDescription": "duration of electricity cuts"
+  },
+  {
+    "quantity": "14 hours",
+    "unit": "some areas such as Derna",
+    "eventType": "EventO",
+    "eventDescription": "peak duration of electricity cuts"
+  },
+  {
+    "quantity": "43 per cent",
+    "unit": "affected population",
+    "eventType": "EventP",
+    "eventDescription": "rely on water trucking as main source of drinking water"
+  }
+]

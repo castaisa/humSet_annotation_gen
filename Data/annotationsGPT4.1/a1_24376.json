@@ -1,0 +1,177 @@
+[
+  {
+    "quantity": "thirty-seven",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "10",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Edo",
+    "modifier": ""
+  },
+  {
+    "quantity": "12",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Ondo",
+    "modifier": ""
+  },
+  {
+    "quantity": "4",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Ebonyi",
+    "modifier": ""
+  },
+  {
+    "quantity": "4",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Plateau",
+    "modifier": ""
+  },
+  {
+    "quantity": "3",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Taraba",
+    "modifier": ""
+  },
+  {
+    "quantity": "1",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Benue",
+    "modifier": ""
+  },
+  {
+    "quantity": "1",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Gombe",
+    "modifier": ""
+  },
+  {
+    "quantity": "1",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Rivers",
+    "modifier": ""
+  },
+  {
+    "quantity": "1",
+    "unit": "new confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Kebbi",
+    "modifier": ""
+  },
+  {
+    "quantity": "ten",
+    "unit": "new deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "2",
+    "unit": "new deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported in Edo",
+    "modifier": ""
+  },
+  {
+    "quantity": "2",
+    "unit": "new deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported in Ondo",
+    "modifier": ""
+  },
+  {
+    "quantity": "4",
+    "unit": "new deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported in Ebonyi",
+    "modifier": ""
+  },
+  {
+    "quantity": "2",
+    "unit": "new deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported in Plateau",
+    "modifier": ""
+  },
+  {
+    "quantity": "947",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "20",
+    "unit": "States",
+    "eventType": "EventO",
+    "eventDescription": "reported suspected cases",
+    "modifier": ""
+  },
+  {
+    "quantity": "324",
+    "unit": "confirmed positive cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed",
+    "modifier": ""
+  },
+  {
+    "quantity": "3",
+    "unit": "probable cases",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "620",
+    "unit": "negatives (not a case)",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "67",
+    "unit": "deaths among confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "21.3%",
+    "unit": "Case Fatality Rate in confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "Twenty",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "recorded at least one confirmed case",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "one",
+    "unit": "confirmed case",
+    "eventType": "EventP",
+    "eventDescription": "recorded in each state",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "54",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "recorded confirmed cases",
+    "modifier": ""
+  }
+]

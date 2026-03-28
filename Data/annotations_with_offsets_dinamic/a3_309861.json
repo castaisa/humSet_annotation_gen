@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "assessed as moderately or highly vulnerable",
+      "start": 191,
+      "end": 234
+    },
+    "quantity": {
+      "text": "51 percent",
+      "start": 162,
+      "end": 172
+    },
+    "unit": {
+      "text": "of the population",
+      "start": 173,
+      "end": 190
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "assessed as moderately or highly vulnerable",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41 percent",
+      "start": 244,
+      "end": 254
+    },
+    "unit": {
+      "text": "of the population",
+      "start": null,
+      "end": null
+    }
+  }
+]

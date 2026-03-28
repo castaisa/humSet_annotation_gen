@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4",
+      "start": 244,
+      "end": 245
+    },
+    "eventDescription": {
+      "text": "expected to reach IPC AMN Phase 3 or 4",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 173,
+      "end": 177
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 472,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "classified under IPC AMN Phase 3 (Serious)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 485,
+      "end": 489
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 521,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "classified under IPC AMN Phase 2 (Alert)",
+      "start": 490,
+      "end": 530
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 485,
+      "end": 489
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36",
+      "start": 778,
+      "end": 780
+    },
+    "eventDescription": {
+      "text": "expected to worsen to IPC AMN Phase 3 or 4",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 781,
+      "end": 785
+    }
+  }
+]

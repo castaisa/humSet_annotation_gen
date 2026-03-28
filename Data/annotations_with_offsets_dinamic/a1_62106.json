@@ -1,0 +1,238 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "measles cases recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "a single",
+      "start": 245,
+      "end": 253
+    },
+    "unit": {
+      "text": "case",
+      "start": 254,
+      "end": 258
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "measles cases reported",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 297,
+      "end": 306
+    },
+    "quantity": {
+      "text": "9,900",
+      "start": 307,
+      "end": 312
+    },
+    "unit": {
+      "text": "cases",
+      "start": 313,
+      "end": 318
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "measles cases confirmed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6,700",
+      "start": 342,
+      "end": 347
+    },
+    "unit": {
+      "text": "cases",
+      "start": 386,
+      "end": 391
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "measles cases fatal",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "79",
+      "start": 374,
+      "end": 376
+    },
+    "unit": {
+      "text": "cases",
+      "start": 444,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diphtheria cases reported",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 491,
+      "end": 500
+    },
+    "quantity": {
+      "text": "2,800",
+      "start": 501,
+      "end": 506
+    },
+    "unit": {
+      "text": "cases",
+      "start": 507,
+      "end": 512
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diphtheria cases confirmed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,700",
+      "start": 536,
+      "end": 541
+    },
+    "unit": {
+      "text": "cases",
+      "start": 672,
+      "end": 677
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diphtheria cases fatal",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "286",
+      "start": 568,
+      "end": 571
+    },
+    "unit": {
+      "text": "cases",
+      "start": 737,
+      "end": 742
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "malaria cases recorded",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "close to",
+      "start": 656,
+      "end": 664
+    },
+    "quantity": {
+      "text": "36,000",
+      "start": 665,
+      "end": 671
+    },
+    "unit": {
+      "text": "cases",
+      "start": 779,
+      "end": 784
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "malaria cases",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 719,
+      "end": 728
+    },
+    "quantity": {
+      "text": "414,000",
+      "start": 729,
+      "end": 736
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "tuberculosis cases",
+      "start": 766,
+      "end": 784
+    },
+    "quantity": {
+      "text": "6,000",
+      "start": 814,
+      "end": 819
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "tuberculosis cases estimated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13,000",
+      "start": 831,
+      "end": 837
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "highest in years",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "forty",
+      "start": 873,
+      "end": 878
+    },
+    "unit": {
+      "text": "years",
+      "start": 879,
+      "end": 884
+    }
+  }
+]

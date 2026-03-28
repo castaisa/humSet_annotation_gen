@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "2,300",
+      "begin": 251,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "loss",
+      "begin": 237,
+      "end": 241
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 245,
+      "end": 250
+    },
+    "unit": {
+      "text": "square kilometers of agricultural lands",
+      "begin": 257,
+      "end": 296
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,500",
+      "begin": 309,
+      "end": 314
+    },
+    "unit": {
+      "text": "square kilometers",
+      "begin": 315,
+      "end": 332
+    },
+    "eventDescription": {
+      "text": "remained under the control of the opposition factions",
+      "begin": 333,
+      "end": 386
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 438,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "lost",
+      "begin": 433,
+      "end": 437
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "agricultural lands",
+      "begin": 458,
+      "end": 476
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,140",
+      "begin": 723,
+      "end": 728
+    },
+    "eventDescription": {
+      "text": "estimated",
+      "begin": 703,
+      "end": 712
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "km2",
+      "begin": 729,
+      "end": 732
+    }
+  }
+]

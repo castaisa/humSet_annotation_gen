@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 15,
+      "end": 18
+    },
+    "unit": {
+      "text": "people",
+      "begin": 19,
+      "end": 25
+    },
+    "eventDescription": {
+      "text": "crossing daily through the Colchane border",
+      "begin": 26,
+      "end": 68
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 78,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "crossing daily through the Colchane border",
+      "begin": 26,
+      "end": 68
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 86,
+      "end": 94
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 253,
+      "end": 256
+    },
+    "unit": {
+      "text": "people",
+      "begin": 257,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "entering are counted",
+      "begin": 264,
+      "end": 284
+    },
+    "eventType": "EventP"
+  }
+]

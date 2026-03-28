@@ -1,0 +1,176 @@
+[
+  {
+    "quantity": {
+      "text": "4, 6,872",
+      "begin": 41,
+      "end": 49
+    },
+    "unit": {
+      "text": "cases of acute respiratory infection",
+      "begin": 50,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 92,
+      "end": 100
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "263",
+      "begin": 139,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "254",
+      "begin": 181,
+      "end": 184
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "231",
+      "begin": 228,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "225",
+      "begin": 271,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "206",
+      "begin": 307,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "191",
+      "begin": 362,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "185",
+      "begin": 414,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "184",
+      "begin": 517,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 123,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "1000",
+      "begin": 434,
+      "end": 438
+    },
+    "unit": {
+      "text": "Housing Estate clinic",
+      "begin": 439,
+      "end": 460
+    }
+  }
+]

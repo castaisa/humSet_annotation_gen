@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "1.85 million",
+      "begin": 460,
+      "end": 472
+    },
+    "modifier": {
+      "text": "average",
+      "begin": 449,
+      "end": 456
+    },
+    "unit": {
+      "text": "people",
+      "begin": 473,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 480,
+      "end": 504
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "400,000",
+      "begin": 549,
+      "end": 556
+    },
+    "modifier": {
+      "text": "Approximately",
+      "begin": 535,
+      "end": 548
+    },
+    "unit": {
+      "text": "people",
+      "begin": 557,
+      "end": 563
+    },
+    "eventDescription": {
+      "text": "benefitted from government-led rural and urban safety net programmes",
+      "begin": 569,
+      "end": 637
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "20 to100 per cent",
+      "begin": 674,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "enacted",
+      "begin": 664,
+      "end": 671
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tax exemption on imported food commodities",
+      "begin": 692,
+      "end": 734
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 679,
+      "end": 682
+    },
+    "eventDescription": {
+      "text": "enacted",
+      "begin": 664,
+      "end": 671
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tax exemption on imported food commodities",
+      "begin": 692,
+      "end": 734
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 674,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "enacted",
+      "begin": 664,
+      "end": 671
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tax exemption on imported food commodities",
+      "begin": 692,
+      "end": 734
+    }
+  }
+]

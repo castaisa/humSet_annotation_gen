@@ -1,0 +1,150 @@
+[
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 67,
+      "end": 71
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 57,
+      "end": 66
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 79,
+      "end": 90
+    },
+    "eventDescription": {
+      "text": "they stayed in the reception centre before they (were) relocated to camps",
+      "begin": 105,
+      "end": 178
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "55.38%",
+      "begin": 92,
+      "end": 98
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 79,
+      "end": 90
+    },
+    "eventDescription": {
+      "text": "they stayed in the reception centre before they (were) relocated to camps",
+      "begin": 105,
+      "end": 178
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "44.62 per cent",
+      "begin": 186,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "they have never stayed in the reception centre",
+      "begin": 206,
+      "end": 252
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "91.09 per cent",
+      "begin": 254,
+      "end": 268
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 272,
+      "end": 283
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 388,
+      "end": 393
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 378,
+      "end": 387
+    },
+    "unit": {
+      "text": "days",
+      "begin": 394,
+      "end": 398
+    }
+  },
+  {
+    "quantity": {
+      "text": "one to two",
+      "begin": 477,
+      "end": 487
+    },
+    "unit": {
+      "text": "days",
+      "begin": 488,
+      "end": 492
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 477,
+      "end": 480
+    },
+    "unit": {
+      "text": "days",
+      "begin": 488,
+      "end": 492
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 484,
+      "end": 487
+    },
+    "unit": {
+      "text": "days",
+      "begin": 488,
+      "end": 492
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.61%",
+      "begin": 505,
+      "end": 510
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 519,
+      "end": 530
+    }
+  },
+  {
+    "quantity": {
+      "text": "72",
+      "begin": 582,
+      "end": 584
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 576,
+      "end": 581
+    },
+    "unit": {
+      "text": "hours",
+      "begin": 585,
+      "end": 590
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "74 per cent",
+    "unit": "sites",
+    "eventType": "EventA",
+    "eventDescription": "WASH facilities provided"
+  },
+  {
+    "quantity": "1%",
+    "unit": "sites",
+    "eventType": "EventA",
+    "eventDescription": "increase in WASH facilities provided"
+  },
+  {
+    "quantity": "26 per cent",
+    "unit": "sites",
+    "eventType": "EventA",
+    "eventDescription": "sites with no WASH facilities"
+  },
+  {
+    "quantity": "1%",
+    "unit": "sites",
+    "eventType": "EventA",
+    "eventDescription": "decrease in sites with no WASH facilities"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "locations",
+    "eventType": "EventA",
+    "eventDescription": "locations with hand pumps"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "locations",
+    "eventType": "EventA",
+    "eventDescription": "locations with communal boreholes"
+  },
+  {
+    "quantity": "1%",
+    "unit": "locations",
+    "eventType": "EventA",
+    "eventDescription": "increase in locations with communal boreholes"
+  },
+  {
+    "quantity": "11 per cent",
+    "unit": "locations",
+    "eventType": "EventA",
+    "eventDescription": "locations with communal wells"
+  }
+]

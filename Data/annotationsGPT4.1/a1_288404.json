@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "8.8 million",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "funding for WASH programming"
+  },
+  {
+    "quantity": "13",
+    "unit": "NGOs",
+    "eventType": "EventA",
+    "eventDescription": "partners supporting WASH activities"
+  }
+]

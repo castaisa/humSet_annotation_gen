@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "53 percent",
+      "begin": 732,
+      "end": 742
+    },
+    "eventDescription": {
+      "text": "monthly salaried jobs",
+      "begin": 683,
+      "end": 704
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Rohingya community",
+      "begin": 712,
+      "end": 730
+    }
+  }
+]

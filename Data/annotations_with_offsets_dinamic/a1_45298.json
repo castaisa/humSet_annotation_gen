@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with high or very high needs",
+      "start": 242,
+      "end": 270
+    },
+    "quantity": {
+      "text": "67%",
+      "start": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "households",
+      "start": 199,
+      "end": 209
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with high or very high needs",
+      "start": 290,
+      "end": 318
+    },
+    "quantity": {
+      "text": "52%",
+      "start": 286,
+      "end": 289
+    },
+    "unit": {
+      "text": "households",
+      "start": 360,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had high protection needs",
+      "start": 584,
+      "end": 609
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 556,
+      "end": 565
+    },
+    "quantity": {
+      "text": "more than 23%",
+      "start": 556,
+      "end": 569
+    },
+    "unit": {
+      "text": "households",
+      "start": 573,
+      "end": 583
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported killings/violence",
+      "start": 668,
+      "end": 694
+    },
+    "quantity": {
+      "text": "94%",
+      "start": 664,
+      "end": 667
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "start": 614,
+      "end": 653
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported destruction of property",
+      "start": 700,
+      "end": 732
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 696,
+      "end": 699
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported armed attacks",
+      "start": 741,
+      "end": 763
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 737,
+      "end": 740
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "start": null,
+      "end": null
+    }
+  }
+]

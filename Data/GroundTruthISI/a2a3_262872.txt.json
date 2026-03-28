@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 381,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "Public or private gatherings of people",
+      "begin": 320,
+      "end": 358
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "larger than",
+      "begin": 369,
+      "end": 380
+    }
+  }
+]

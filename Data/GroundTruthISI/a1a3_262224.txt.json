@@ -1,0 +1,278 @@
+[
+  {
+    "quantity": {
+      "text": "first",
+      "begin": 49,
+      "end": 54
+    },
+    "unit": {
+      "text": "Diphtheria case",
+      "begin": 55,
+      "end": 70
+    },
+    "eventDescription": {
+      "text": "detected",
+      "begin": 75,
+      "end": 83
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "first",
+      "begin": 109,
+      "end": 114
+    },
+    "unit": {
+      "text": "death",
+      "begin": 115,
+      "end": 120
+    },
+    "eventDescription": {
+      "text": "occurred",
+      "begin": 121,
+      "end": 129
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 220,
+      "end": 224
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 229,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 261,
+      "end": 269
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 226,
+      "end": 227
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 229,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 261,
+      "end": 269
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 280,
+      "end": 285
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 229,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "have been investigated",
+      "begin": 291,
+      "end": 313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "07",
+      "begin": 287,
+      "end": 289
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 229,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "have been investigated",
+      "begin": 291,
+      "end": 313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 383,
+      "end": 386
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 229,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "investigation is ongoing",
+      "begin": 354,
+      "end": 378
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "02",
+      "begin": 388,
+      "end": 390
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 229,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "investigation is ongoing",
+      "begin": 354,
+      "end": 378
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Three",
+      "begin": 393,
+      "end": 398
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 404,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "have been reclassified",
+      "begin": 411,
+      "end": 433
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "03",
+      "begin": 400,
+      "end": 402
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 404,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "have been reclassified",
+      "begin": 411,
+      "end": 433
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "49",
+      "begin": 471,
+      "end": 473
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 474,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 496,
+      "end": 509
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 550,
+      "end": 552
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "begin": 474,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "undergone investigation",
+      "begin": 553,
+      "end": 576
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 578,
+      "end": 581
+    },
+    "unit": {
+      "text": "death",
+      "begin": 587,
+      "end": 592
+    },
+    "eventDescription": {
+      "text": "was confirmed for COVID-19",
+      "begin": 593,
+      "end": 619
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "01",
+      "begin": 583,
+      "end": 585
+    },
+    "unit": {
+      "text": "death",
+      "begin": 587,
+      "end": 592
+    },
+    "eventDescription": {
+      "text": "was confirmed for COVID-19",
+      "begin": 593,
+      "end": 619
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 624,
+      "end": 627
+    },
+    "unit": {
+      "text": "considered probable",
+      "begin": 632,
+      "end": 651
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 629,
+      "end": 630
+    },
+    "unit": {
+      "text": "considered probable",
+      "begin": 632,
+      "end": 651
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22.1%",
+      "start": 225,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "took treatment for chronic diseases",
+      "start": 254,
+      "end": 289
+    },
+    "unit": {
+      "text": "households’ members",
+      "start": 234,
+      "end": 253
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23.8%",
+      "start": 387,
+      "end": 392
+    },
+    "eventDescription": {
+      "text": "got services for chronic diseases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people from urban areas",
+      "start": 291,
+      "end": 314
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20.9%",
+      "start": 397,
+      "end": 402
+    },
+    "eventDescription": {
+      "text": "got services for chronic diseases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "rural level people",
+      "start": 367,
+      "end": 385
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "69.3%",
+      "start": 525,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "conducted regular check-ups",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "patients with chronic diseases",
+      "start": 459,
+      "end": 489
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54.2%",
+      "start": 565,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "conducted the diagnostic test",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "patients with chronic diseases",
+      "start": 632,
+      "end": 662
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15.3%",
+      "start": 576,
+      "end": 581
+    },
+    "eventDescription": {
+      "text": "sought emergency treatment",
+      "start": 590,
+      "end": 616
+    },
+    "unit": {
+      "text": "patients with chronic diseases",
+      "start": 632,
+      "end": 662
+    }
+  }
+]

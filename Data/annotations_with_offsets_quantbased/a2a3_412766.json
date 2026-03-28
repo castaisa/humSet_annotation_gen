@@ -1,0 +1,192 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one-third",
+      "start": 35,
+      "end": 44
+    },
+    "eventDescription": {
+      "text": "carried out at home",
+      "start": 57,
+      "end": 76
+    },
+    "unit": {
+      "text": "of delivery",
+      "start": 45,
+      "end": 56
+    },
+    "modifier": {
+      "text": "around",
+      "start": 28,
+      "end": 34
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "106",
+      "start": 109,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "born during the pandemic situation",
+      "start": 125,
+      "end": 159
+    },
+    "unit": {
+      "text": "babies",
+      "start": 113,
+      "end": 119
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "Half",
+      "start": 161,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "carried out in private clinics",
+      "start": 186,
+      "end": 216
+    },
+    "unit": {
+      "text": "of the delivery",
+      "start": 166,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one-third",
+      "start": 228,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "done at home",
+      "start": 260,
+      "end": 272
+    },
+    "unit": {
+      "text": "of delivery",
+      "start": 238,
+      "end": 249
+    },
+    "modifier": {
+      "text": "around",
+      "start": 221,
+      "end": 227
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "29%",
+      "start": 251,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "done at home",
+      "start": 260,
+      "end": 272
+    },
+    "unit": {
+      "text": "of delivery",
+      "start": 238,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23%",
+      "start": 277,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "people went to government-owned health facilities",
+      "start": 291,
+      "end": 340
+    },
+    "unit": {
+      "text": "of cases",
+      "start": 281,
+      "end": 289
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13%",
+      "start": 375,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "people went to Upazila health complexes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of cases",
+      "start": 281,
+      "end": 289
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5%",
+      "start": 408,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "people went to medical college hospitals",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of cases",
+      "start": 281,
+      "end": 289
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3%",
+      "start": 447,
+      "end": 449
+    },
+    "eventDescription": {
+      "text": "people went to union family planning centres",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of cases",
+      "start": 281,
+      "end": 289
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "46.4%",
+      "start": 532,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "delivery at non-institutional places",
+      "start": 492,
+      "end": 528
+    },
+    "unit": {
+      "text": "of delivery",
+      "start": 489,
+      "end": 500
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "80",
+    "unit": "year-old woman",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "54",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "656",
+    "unit": "contacts",
+    "eventType": "EventP",
+    "eventDescription": "contacts of known cases"
+  },
+  {
+    "quantity": "371",
+    "unit": "contacts",
+    "eventType": "EventP",
+    "eventDescription": "tested"
+  },
+  {
+    "quantity": "4,605",
+    "unit": "tests",
+    "eventType": "EventA",
+    "eventDescription": "conducted"
+  },
+  {
+    "quantity": "Two",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "recovered"
+  }
+]

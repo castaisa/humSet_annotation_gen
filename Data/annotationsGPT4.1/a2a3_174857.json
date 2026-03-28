@@ -1,0 +1,93 @@
+[
+  {
+    "quantity": "160,000",
+    "unit": "pesos",
+    "eventType": "EventA",
+    "eventDescription": "transferred to households"
+  },
+  {
+    "quantity": "US$ 40",
+    "unit": "per household",
+    "eventType": "EventA",
+    "eventDescription": "transferred to households"
+  },
+  {
+    "quantity": "one-quarter",
+    "unit": "of the extreme poverty line",
+    "eventType": "EventO",
+    "eventDescription": "covered by transfer"
+  },
+  {
+    "quantity": "four",
+    "unit": "family members",
+    "eventType": "EventP",
+    "eventDescription": "in a family"
+  },
+  {
+    "quantity": "18",
+    "unit": "%",
+    "eventType": "EventP",
+    "eventDescription": "poverty rate"
+  },
+  {
+    "quantity": "32%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "poverty rate"
+  },
+  {
+    "quantity": "4.5%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "extreme poverty rate"
+  },
+  {
+    "quantity": "16.7%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "extreme poverty rate"
+  },
+  {
+    "quantity": "over four million",
+    "unit": "informal workers",
+    "eventType": "EventP",
+    "eventDescription": "lost labor income",
+    "modifier": "over"
+  },
+  {
+    "quantity": "three-month",
+    "unit": "universal basic income",
+    "eventType": "EventA",
+    "eventDescription": "proposed duration of basic income"
+  },
+  {
+    "quantity": "nine million",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "targeted for basic income"
+  },
+  {
+    "quantity": "dozens",
+    "unit": "politicians",
+    "eventType": "EventP",
+    "eventDescription": "signed open letter"
+  },
+  {
+    "quantity": "5.4 million",
+    "unit": "jobs",
+    "eventType": "EventO",
+    "eventDescription": "jobs lost during the crisis"
+  },
+  {
+    "quantity": "nine million",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households for minimum income"
+  },
+  {
+    "quantity": "240 000",
+    "unit": "pesos per households",
+    "eventType": "EventA",
+    "eventDescription": "monthly transfer extended"
+  }
+]

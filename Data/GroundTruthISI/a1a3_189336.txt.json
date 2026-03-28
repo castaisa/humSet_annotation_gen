@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "first",
+      "begin": 4,
+      "end": 9
+    },
+    "unit": {
+      "text": "case",
+      "begin": 10,
+      "end": 14
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 33,
+      "end": 43
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "first",
+      "begin": 66,
+      "end": 71
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 33,
+      "end": 43
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 72,
+      "end": 77
+    }
+  }
+]

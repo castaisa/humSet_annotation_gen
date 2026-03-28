@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "31400",
+    "unit": "naira",
+    "eventType": "EventO",
+    "eventDescription": "total monthly household expenditure"
+  },
+  {
+    "quantity": "1 \u2013 3",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "household size"
+  },
+  {
+    "quantity": "24,217",
+    "unit": "naira",
+    "eventType": "EventO",
+    "eventDescription": "monthly expenditures for smaller households"
+  },
+  {
+    "quantity": "4 \u2013 8",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "household size"
+  },
+  {
+    "quantity": "31,817",
+    "unit": "naira",
+    "eventType": "EventO",
+    "eventDescription": "monthly median expenditures for households with 4 \u2013 8 members"
+  },
+  {
+    "quantity": "eight",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "household size"
+  },
+  {
+    "quantity": "41,300",
+    "unit": "naira",
+    "eventType": "EventO",
+    "eventDescription": "monthly median expenditures for households with above eight members"
+  },
+  {
+    "quantity": "70 percent",
+    "unit": "median share",
+    "eventType": "EventO",
+    "eventDescription": "share of food in expenditure"
+  }
+]

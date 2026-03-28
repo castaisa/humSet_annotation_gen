@@ -1,0 +1,116 @@
+[
+  {
+    "quantity": {
+      "text": "1.3 million",
+      "begin": 116,
+      "end": 127
+    },
+    "unit": {
+      "text": "people",
+      "begin": 128,
+      "end": 134
+    },
+    "eventDescription": {
+      "text": "facing Crisis or worse (IPC Phase 3 or higher) outcomes",
+      "begin": 139,
+      "end": 194
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2.1 million",
+      "begin": 307,
+      "end": 318
+    },
+    "unit": {
+      "text": "people",
+      "begin": 319,
+      "end": 325
+    }
+  },
+  {
+    "quantity": {
+      "text": "2.5 million",
+      "begin": 406,
+      "end": 417
+    },
+    "unit": {
+      "text": "people",
+      "begin": 418,
+      "end": 424
+    },
+    "eventDescription": {
+      "text": "Stressed (IPC Phase 2)",
+      "begin": 429,
+      "end": 451
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3.8 million",
+      "begin": 527,
+      "end": 538
+    },
+    "unit": {
+      "text": "people",
+      "begin": 482,
+      "end": 488
+    },
+    "eventDescription": {
+      "text": "experiencing acute food insecurity",
+      "begin": 489,
+      "end": 523
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "849,900",
+      "begin": 553,
+      "end": 560
+    },
+    "unit": {
+      "text": "children under the age of five years",
+      "begin": 561,
+      "end": 597
+    },
+    "eventDescription": {
+      "text": "face acute malnutrition",
+      "begin": 598,
+      "end": 621
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "143,400",
+      "begin": 689,
+      "end": 696
+    },
+    "unit": {
+      "text": "children under the age of five years",
+      "begin": 561,
+      "end": 597
+    },
+    "eventDescription": {
+      "text": "likely to be severely malnourished",
+      "begin": 697,
+      "end": 731
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 636,
+      "end": 638
+    },
+    "unit": {
+      "text": "months",
+      "begin": 639,
+      "end": 645
+    }
+  }
+]

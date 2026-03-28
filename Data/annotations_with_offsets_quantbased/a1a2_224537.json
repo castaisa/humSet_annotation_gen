@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 49,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "permanent structures",
+      "start": 14,
+      "end": 34
+    },
+    "unit": {
+      "text": "blocks",
+      "start": 51,
+      "end": 57
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "8",
+      "start": 61,
+      "end": 62
+    },
+    "eventDescription": {
+      "text": "classrooms in permanent structures",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "classrooms",
+      "start": 63,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 78,
+      "end": 79
+    },
+    "eventDescription": {
+      "text": "offices in permanent structures",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "offices",
+      "start": 80,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 132,
+      "end": 133
+    },
+    "eventDescription": {
+      "text": "latrines in the school",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "segregated latrines",
+      "start": 134,
+      "end": 153
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "8",
+      "start": 159,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "stances in latrines",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "stances",
+      "start": 161,
+      "end": 168
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "about 10",
+      "start": 644,
+      "end": 652
+    },
+    "eventDescription": {
+      "text": "distance to river water source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "meters",
+      "start": 653,
+      "end": 659
+    },
+    "modifier": {
+      "text": "about",
+      "start": 644,
+      "end": 649
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "about 5",
+      "start": 800,
+      "end": 807
+    },
+    "eventDescription": {
+      "text": "walking distance to health facility",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "minutes",
+      "start": 808,
+      "end": 815
+    },
+    "modifier": {
+      "text": "about",
+      "start": 800,
+      "end": 805
+    }
+  }
+]

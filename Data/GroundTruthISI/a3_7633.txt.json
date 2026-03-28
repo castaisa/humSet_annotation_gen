@@ -1,0 +1,122 @@
+[
+  {
+    "quantity": {
+      "text": "69%",
+      "begin": 3,
+      "end": 6
+    },
+    "unit": {
+      "text": "baladiyas",
+      "begin": 10,
+      "end": 19
+    },
+    "eventDescription": {
+      "text": "IDPs were reported to purchase food from the market as their main source of food",
+      "begin": 21,
+      "end": 101
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 233,
+      "end": 236
+    },
+    "unit": {
+      "text": "proportion of IDPs",
+      "begin": 170,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "obtaining food on credit was reported",
+      "begin": 189,
+      "end": 226
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 289,
+      "end": 292
+    },
+    "unit": {
+      "text": "baladiyas",
+      "begin": 296,
+      "end": 305
+    },
+    "eventDescription": {
+      "text": "main source of food was reported to be from charity or donations",
+      "begin": 310,
+      "end": 374
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 396,
+      "end": 398
+    },
+    "unit": {
+      "text": "baladiyas",
+      "begin": 402,
+      "end": 411
+    },
+    "eventDescription": {
+      "text": "main source of food was from family or friends.",
+      "begin": 416,
+      "end": 463
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "96",
+      "begin": 557,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "The main problem associated with access to food was that it was too expensive as reported",
+      "begin": 464,
+      "end": 553
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "assessed baladiyas",
+      "begin": 560,
+      "end": 578
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 730,
+      "end": 733
+    },
+    "eventDescription": {
+      "text": "Cases of malnutrition were reported",
+      "begin": 580,
+      "end": 615
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "baladiya",
+      "begin": 734,
+      "end": 742
+    }
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 619,
+      "end": 622
+    },
+    "unit": {
+      "text": "baladiyas",
+      "begin": 626,
+      "end": 635
+    }
+  }
+]

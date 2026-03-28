@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "4,025",
+      "begin": 57,
+      "end": 62
+    },
+    "eventDescription": {
+      "text": "psychosocial support (PSS) activities",
+      "begin": 106,
+      "end": 143
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 63,
+      "end": 71
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,204",
+      "begin": 73,
+      "end": 78
+    },
+    "eventDescription": {
+      "text": "psychosocial support (PSS) activities",
+      "begin": 106,
+      "end": 143
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 79,
+      "end": 83
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,821",
+      "begin": 88,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "psychosocial support (PSS) activities",
+      "begin": 106,
+      "end": 143
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 94,
+      "end": 99
+    }
+  },
+  {
+    "quantity": {
+      "text": "19,935",
+      "begin": 306,
+      "end": 312
+    },
+    "unit": {
+      "text": "children",
+      "begin": 313,
+      "end": 321
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 322,
+      "end": 329
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "73",
+      "begin": 508,
+      "end": 510
+    },
+    "unit": {
+      "text": "children",
+      "begin": 511,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "identified, registered and documented as unaccompanied and separated children (UASC)",
+      "begin": 554,
+      "end": 638
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "44",
+      "begin": 521,
+      "end": 523
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 524,
+      "end": 528
+    },
+    "eventDescription": {
+      "text": "identified, registered and documented as unaccompanied and separated children (UASC)",
+      "begin": 554,
+      "end": 638
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "29",
+      "begin": 533,
+      "end": 535
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 536,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "identified, registered and documented as unaccompanied and separated children (UASC)",
+      "begin": 554,
+      "end": 638
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,336",
+      "begin": 697,
+      "end": 702
+    },
+    "unit": {
+      "text": "children",
+      "begin": 703,
+      "end": 711
+    },
+    "eventDescription": {
+      "text": "reached with MRE key messages in the communities",
+      "begin": 783,
+      "end": 831
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "675",
+      "begin": 713,
+      "end": 716
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 717,
+      "end": 721
+    },
+    "eventDescription": {
+      "text": "reached with MRE key messages in the communities",
+      "begin": 783,
+      "end": 831
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "661",
+      "begin": 726,
+      "end": 729
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 730,
+      "end": 735
+    },
+    "eventDescription": {
+      "text": "reached with MRE key messages in the communities",
+      "begin": 783,
+      "end": 831
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,369",
+      "begin": 741,
+      "end": 746
+    },
+    "unit": {
+      "text": "adults",
+      "begin": 747,
+      "end": 753
+    },
+    "eventDescription": {
+      "text": "reached with MRE key messages in the communities",
+      "begin": 783,
+      "end": 831
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "603",
+      "begin": 755,
+      "end": 758
+    },
+    "unit": {
+      "text": "men",
+      "begin": 759,
+      "end": 762
+    },
+    "eventDescription": {
+      "text": "reached with MRE key messages in the communities",
+      "begin": 783,
+      "end": 831
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "766",
+      "begin": 767,
+      "end": 770
+    },
+    "unit": {
+      "text": "women",
+      "begin": 771,
+      "end": 776
+    },
+    "eventDescription": {
+      "text": "reached with MRE key messages in the communities",
+      "begin": 783,
+      "end": 831
+    },
+    "eventType": "EventA"
+  }
+]

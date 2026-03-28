@@ -1,0 +1,204 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of urgent humanitarian assistance",
+      "start": 49,
+      "end": 90
+    },
+    "quantity": {
+      "text": "7.2 million",
+      "start": 9,
+      "end": 20
+    },
+    "unit": {
+      "text": "people",
+      "start": 21,
+      "end": 27
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase compared to 2019",
+      "start": 122,
+      "end": 147
+    },
+    "quantity": {
+      "text": "65 per cent",
+      "start": 110,
+      "end": 121
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "states of Sudan with acute food insecurity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 170,
+      "end": 172
+    },
+    "unit": {
+      "text": "states",
+      "start": 187,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total states of Sudan",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18",
+      "start": 184,
+      "end": 186
+    },
+    "unit": {
+      "text": "states",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in South Kordofan",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38 per cent",
+      "start": 251,
+      "end": 262
+    },
+    "unit": {
+      "text": "of the state population",
+      "start": 263,
+      "end": 286
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in Blue Nile",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34 per cent",
+      "start": 318,
+      "end": 329
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in North Darfur",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32 per cent",
+      "start": 360,
+      "end": 371
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in Central Darfur",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30 per cent",
+      "start": 404,
+      "end": 415
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in West Darfur",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30 per cent",
+      "start": 445,
+      "end": 456
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in Red Sea",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28 per cent",
+      "start": 482,
+      "end": 493
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in Kassala",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25 per cent",
+      "start": 519,
+      "end": 530
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in South Darfur",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21 per cent",
+      "start": 561,
+      "end": 572
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in North Kordofan",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21 per cent",
+      "start": 605,
+      "end": 616
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecure in East Darfur",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20 per cent",
+      "start": 649,
+      "end": 660
+    }
+  }
+]

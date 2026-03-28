@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 149,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "average number of doctors",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "doctors per 1,000 population",
+      "start": 153,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.5",
+      "start": 239,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "OECD average number of doctors",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "doctors per 1,000 population",
+      "start": 153,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "2.1",
+      "start": 341,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "average number of hospital beds",
+      "start": 299,
+      "end": 330
+    },
+    "unit": {
+      "text": "hospital beds per 1,000 population",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "4.7",
+      "start": 413,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "OECD average number of hospital beds",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "hospital beds per 1,000 population",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "one",
+      "start": 521,
+      "end": 524
+    },
+    "eventDescription": {
+      "text": "hospital bed stock in some countries",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "hospital bed per 1,000 population",
+      "start": 525,
+      "end": 558
+    }
+  }
+]

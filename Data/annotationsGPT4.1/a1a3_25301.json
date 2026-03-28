@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "84%",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "in need of health support"
+  },
+  {
+    "quantity": "82%",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "in need of health support"
+  },
+  {
+    "quantity": "87%",
+    "unit": "non-displaced",
+    "eventType": "EventP",
+    "eventDescription": "in need of health support"
+  },
+  {
+    "quantity": "7.3/10",
+    "unit": "statewide severity score",
+    "eventType": "EventO",
+    "eventDescription": "severity of health needs"
+  },
+  {
+    "quantity": "88%",
+    "unit": "non-displaced",
+    "eventType": "EventP",
+    "eventDescription": "in need of education support"
+  },
+  {
+    "quantity": "90%",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "in need of education support"
+  },
+  {
+    "quantity": "79%",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "in need of education support"
+  },
+  {
+    "quantity": "7.3/10",
+    "unit": "state-wide severity score",
+    "eventType": "EventO",
+    "eventDescription": "severity of education needs"
+  },
+  {
+    "quantity": "four",
+    "unit": "times",
+    "eventType": "EventO",
+    "eventDescription": "less likely to have unmet WASH needs"
+  },
+  {
+    "quantity": "twice",
+    "unit": "less likely",
+    "eventType": "EventO",
+    "eventDescription": "less likely to have unmet WASH needs"
+  }
+]

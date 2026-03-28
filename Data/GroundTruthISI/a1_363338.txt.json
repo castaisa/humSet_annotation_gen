@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "166",
+      "begin": 84,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "average selling price of bread went up",
+      "begin": 30,
+      "end": 68
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per pack",
+      "begin": 88,
+      "end": 100
+    }
+  },
+  {
+    "quantity": {
+      "text": "5 percent",
+      "begin": 102,
+      "end": 111
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 112,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 118,
+      "end": 126
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 219,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "recorded the highest selling price of bread",
+      "begin": 155,
+      "end": 198
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per pack",
+      "begin": 223,
+      "end": 235
+    }
+  },
+  {
+    "quantity": {
+      "text": "5 percent",
+      "begin": 237,
+      "end": 246
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 247,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 253,
+      "end": 261
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "22 percent",
+      "begin": 350,
+      "end": 360
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 361,
+      "end": 366
+    },
+    "eventDescription": {
+      "text": "increase was recorded",
+      "begin": 367,
+      "end": 388
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "195",
+      "begin": 451,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "selling price of bread reaching",
+      "begin": 419,
+      "end": 450
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per pack",
+      "begin": 455,
+      "end": 467
+    }
+  },
+  {
+    "quantity": {
+      "text": "160",
+      "begin": 473,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "selling price of bread reaching",
+      "begin": 419,
+      "end": 450
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per pack",
+      "begin": 477,
+      "end": 489
+    }
+  },
+  {
+    "quantity": {
+      "text": "18 percent",
+      "begin": 528,
+      "end": 538
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 544,
+      "end": 552
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-om",
+      "begin": 539,
+      "end": 543
+    }
+  }
+]

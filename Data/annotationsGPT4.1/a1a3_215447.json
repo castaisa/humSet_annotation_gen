@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "3.5",
+    "unit": "kg",
+    "eventType": "EventA",
+    "eventDescription": "weight of a malwa of sorghum"
+  },
+  {
+    "quantity": "1,680",
+    "unit": "SSP",
+    "eventType": "EventA",
+    "eventDescription": "cost of a malwa of sorghum in Wau"
+  },
+  {
+    "quantity": "1,440",
+    "unit": "SSP",
+    "eventType": "EventA",
+    "eventDescription": "cost of a malwa of sorghum in Aweil"
+  },
+  {
+    "quantity": "900",
+    "unit": "SSP",
+    "eventType": "EventA",
+    "eventDescription": "cost of a malwa of sorghum in Rumbek"
+  },
+  {
+    "quantity": "215-565",
+    "unit": "percent",
+    "eventType": "EventA",
+    "eventDescription": "percentage above the five-year average"
+  },
+  {
+    "quantity": "720",
+    "unit": "SSP",
+    "eventType": "EventA",
+    "eventDescription": "cost of a malwa of sorghum in Juba"
+  },
+  {
+    "quantity": "125",
+    "unit": "percent",
+    "eventType": "EventA",
+    "eventDescription": "percentage above the five-year average in Juba"
+  },
+  {
+    "quantity": "385",
+    "unit": "SSP/USD",
+    "eventType": "EventO",
+    "eventDescription": "exchange rate on the parallel market"
+  },
+  {
+    "quantity": "500",
+    "unit": "SSP/USD",
+    "eventType": "EventO",
+    "eventDescription": "exchange rate on the parallel market"
+  }
+]

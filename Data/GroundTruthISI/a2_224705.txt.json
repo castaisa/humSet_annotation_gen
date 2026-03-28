@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "182,341",
+      "begin": 436,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "providing humanitarian assistance in the form of cash and food",
+      "begin": 370,
+      "end": 432
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people (displaced persons, refugees, returnees)",
+      "begin": 444,
+      "end": 491
+    }
+  },
+  {
+    "quantity": {
+      "text": "325",
+      "begin": 524,
+      "end": 527
+    },
+    "unit": {
+      "text": "g of cereals",
+      "begin": 528,
+      "end": 540
+    }
+  },
+  {
+    "quantity": {
+      "text": "72",
+      "begin": 542,
+      "end": 544
+    },
+    "unit": {
+      "text": "g of pulses",
+      "begin": 545,
+      "end": 556
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 561,
+      "end": 563
+    },
+    "unit": {
+      "text": "g of oil",
+      "begin": 564,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,500",
+      "begin": 603,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "Cash payments",
+      "begin": 574,
+      "end": 587
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per person per month",
+      "begin": 609,
+      "end": 629
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,000",
+      "begin": 666,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "Cash payments",
+      "begin": 574,
+      "end": 587
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per person per month",
+      "begin": 672,
+      "end": 692
+    }
+  }
+]

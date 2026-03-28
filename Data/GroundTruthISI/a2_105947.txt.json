@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "1 056",
+      "begin": 17,
+      "end": 22
+    },
+    "unit": {
+      "text": "cattle producers",
+      "begin": 23,
+      "end": 39
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 244,
+      "end": 249
+    },
+    "eventDescription": {
+      "text": "increased livestock productivity and farmers’ incomes",
+      "begin": 187,
+      "end": 240
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "provinces",
+      "begin": 250,
+      "end": 259
+    }
+  },
+  {
+    "quantity": {
+      "text": "953 000",
+      "begin": 449,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 431,
+      "end": 439
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 440,
+      "end": 444
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 445,
+      "end": 448
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 000 250",
+      "begin": 609,
+      "end": 618
+    },
+    "unit": {
+      "text": "CO2 per year",
+      "begin": 632,
+      "end": 644
+    }
+  },
+  {
+    "quantity": {
+      "text": "two decades",
+      "begin": 809,
+      "end": 820
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 804,
+      "end": 808
+    }
+  }
+]

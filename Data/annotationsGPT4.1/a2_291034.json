@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "76%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with children aged 4-16 years"
+  },
+  {
+    "quantity": "4-16",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age range of children"
+  },
+  {
+    "quantity": "76%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with children attending school regularly"
+  },
+  {
+    "quantity": "\u22654",
+    "unit": "days/week",
+    "eventType": "EventP",
+    "eventDescription": "children attending school regularly"
+  },
+  {
+    "quantity": "77%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "non-displaced households with children attending school regularly"
+  },
+  {
+    "quantity": "62%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "IDP households with children attending school regularly"
+  },
+  {
+    "quantity": "49%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "refugee households with children attending school regularly"
+  },
+  {
+    "quantity": "98%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households declaring children would return to school"
+  },
+  {
+    "quantity": "40%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with children that continued learning activities remotely"
+  },
+  {
+    "quantity": "72%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with parents, caregivers or older siblings able to support home-based learning"
+  }
+]

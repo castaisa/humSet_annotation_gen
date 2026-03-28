@@ -1,0 +1,158 @@
+[
+  {
+    "quantity": "78",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported among Rohingya/FDMN"
+  },
+  {
+    "quantity": "one",
+    "unit": "COVID-19 case",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 1E"
+  },
+  {
+    "quantity": "six",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 1W"
+  },
+  {
+    "quantity": "four",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 2E"
+  },
+  {
+    "quantity": "eight",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 2W"
+  },
+  {
+    "quantity": "ten",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 3"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 4"
+  },
+  {
+    "quantity": "one",
+    "unit": "COVID-19 case",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 5"
+  },
+  {
+    "quantity": "ten",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 6"
+  },
+  {
+    "quantity": "five",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 7"
+  },
+  {
+    "quantity": "one",
+    "unit": "COVID-19 case",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 8E"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 8W"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 9"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 10"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 11"
+  },
+  {
+    "quantity": "one",
+    "unit": "COVID-19 case",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 12"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 14"
+  },
+  {
+    "quantity": "one",
+    "unit": "COVID-19 case",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 17"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 18"
+  },
+  {
+    "quantity": "one",
+    "unit": "COVID-19 case",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 21"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 22"
+  },
+  {
+    "quantity": "three",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 24"
+  },
+  {
+    "quantity": "one",
+    "unit": "COVID-19 case",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 25"
+  },
+  {
+    "quantity": "two",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Camp 27"
+  },
+  {
+    "quantity": "three",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Kutupalong RC"
+  },
+  {
+    "quantity": "four",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in Nayapara RC"
+  }
+]

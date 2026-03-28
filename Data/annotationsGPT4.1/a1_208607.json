@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "75 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "have poor and borderline food consumption"
+  },
+  {
+    "quantity": "23 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase compared to September 2020"
+  },
+  {
+    "quantity": "83 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase from the level recorded in June 2020",
+    "modifier": "close to"
+  },
+  {
+    "quantity": "77 percent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported medical healthcare inaccessibility and have inadequate food consumption"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase since June 2020"
+  },
+  {
+    "quantity": "5.3 percent",
+    "unit": "surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "reported difficulties receiving remittances and/or food assistance due to movement restrictions"
+  },
+  {
+    "quantity": "six percent",
+    "unit": "male-headed households",
+    "eventType": "EventP",
+    "eventDescription": "reported difficulties receiving remittances and/or food assistance"
+  },
+  {
+    "quantity": "two percent",
+    "unit": "femaleheaded households",
+    "eventType": "EventP",
+    "eventDescription": "reported difficulties receiving remittances and/or food assistance"
+  }
+]

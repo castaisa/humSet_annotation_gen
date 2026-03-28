@@ -1,0 +1,55 @@
+[
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 321,
+      "end": 325
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 311,
+      "end": 320
+    },
+    "unit": {
+      "text": "population",
+      "begin": 333,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "classified in IPC Phase 4 (Emergency)",
+      "begin": 383,
+      "end": 420
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 425,
+      "end": 427
+    },
+    "unit": {
+      "text": "districts",
+      "begin": 428,
+      "end": 437
+    }
+  },
+  {
+    "quantity": {
+      "text": "240,000",
+      "begin": 450,
+      "end": 457
+    },
+    "unit": {
+      "text": "population",
+      "begin": 458,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "classified in IPC Phase 5 (Catastrophe)",
+      "begin": 473,
+      "end": 512
+    },
+    "eventType": "EventP"
+  }
+]

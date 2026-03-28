@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "75 per cent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "unable to satisfy basic needs"
+  },
+  {
+    "quantity": "27 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "forced to reduce education expenses"
+  },
+  {
+    "quantity": "24 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "could not afford health services"
+  },
+  {
+    "quantity": "82 per cent",
+    "unit": "those surveyed",
+    "eventType": "EventP",
+    "eventDescription": "said living standards were much worse or worse"
+  }
+]

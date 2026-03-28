@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "48,878",
+      "begin": 167,
+      "end": 173
+    },
+    "eventDescription": {
+      "text": "Caregivers were sensitized",
+      "begin": 30,
+      "end": 56
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "males",
+      "begin": 174,
+      "end": 179
+    }
+  },
+  {
+    "quantity": {
+      "text": "114,959",
+      "begin": 184,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "Caregivers were sensitized",
+      "begin": 30,
+      "end": 56
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "females",
+      "begin": 192,
+      "end": 199
+    }
+  },
+  {
+    "quantity": {
+      "text": "278",
+      "begin": 201,
+      "end": 204
+    },
+    "unit": {
+      "text": "UNICEF-supported health facilities",
+      "begin": 205,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "provided integrated nutrition services",
+      "begin": 240,
+      "end": 278
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "40,152",
+      "begin": 303,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "admitted",
+      "begin": 283,
+      "end": 291
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys and girls",
+      "begin": 310,
+      "end": 324
+    }
+  },
+  {
+    "quantity": {
+      "text": "6-59",
+      "begin": 330,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "admitted",
+      "begin": 283,
+      "end": 291
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "months",
+      "begin": 335,
+      "end": 341
+    }
+  },
+  {
+    "quantity": {
+      "text": "643",
+      "begin": 623,
+      "end": 626
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 603,
+      "end": 611
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "males",
+      "begin": 627,
+      "end": 632
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,107",
+      "begin": 637,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 603,
+      "end": 611
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "females",
+      "begin": 643,
+      "end": 650
+    }
+  }
+]

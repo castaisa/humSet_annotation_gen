@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "92",
+    "unit": "quick impact projects",
+    "eventType": "EventA",
+    "eventDescription": "implemented"
+  },
+  {
+    "quantity": "12",
+    "unit": "municipalities",
+    "eventType": "EventA",
+    "eventDescription": "supported with sport kits and chairs"
+  },
+  {
+    "quantity": "eleven",
+    "unit": "municipalities",
+    "eventType": "EventA",
+    "eventDescription": "provided with generators"
+  }
+]

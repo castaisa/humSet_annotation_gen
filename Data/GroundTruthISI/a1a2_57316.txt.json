@@ -1,0 +1,66 @@
+[
+  {
+    "quantity": {
+      "text": "15,000",
+      "begin": 331,
+      "end": 337
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 326,
+      "end": 330
+    },
+    "unit": {
+      "text": "host community",
+      "begin": 338,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "benefit from innovative teaching and learning approaches implemented with UNICEF standards for ECD",
+      "begin": 408,
+      "end": 506
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "800",
+      "begin": 368,
+      "end": 371
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 363,
+      "end": 367
+    },
+    "unit": {
+      "text": "migrant children",
+      "begin": 372,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "benefit from innovative teaching and learning approaches implemented with UNICEF standards for ECD",
+      "begin": 408,
+      "end": 506
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "50:50",
+      "begin": 390,
+      "end": 395
+    },
+    "unit": {
+      "text": "boys/girls",
+      "begin": 396,
+      "end": 406
+    },
+    "eventDescription": {
+      "text": "benefit from innovative teaching and learning approaches implemented with UNICEF standards for ECD",
+      "begin": 408,
+      "end": 506
+    },
+    "eventType": "EventA"
+  }
+]

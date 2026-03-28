@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60%",
+      "start": 372,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "reported humanitarian behaviours as 'okay'",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 359,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20%",
+      "start": 430,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "reported humanitarian behaviour as worsening over three months",
+      "start": 449,
+      "end": 511
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 437,
+      "end": 448
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9%",
+      "start": 543,
+      "end": 545
+    },
+    "eventDescription": {
+      "text": "reported seeing humanitarian responders behaving badly, abusing, or harassing a woman or girl within the past three months",
+      "start": 561,
+      "end": 683
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 549,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "45%",
+      "start": 866,
+      "end": 869
+    },
+    "eventDescription": {
+      "text": "had made a complaint about services in the last three months",
+      "start": 886,
+      "end": 946
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 874,
+      "end": 885
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "56%",
+      "start": 1041,
+      "end": 1044
+    },
+    "eventDescription": {
+      "text": "stated that their problem was not resolved",
+      "start": 1045,
+      "end": 1087
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 874,
+      "end": 885
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "30%",
+      "start": 1100,
+      "end": 1103
+    },
+    "eventDescription": {
+      "text": "stated that they are still waiting for a response",
+      "start": 1104,
+      "end": 1153
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 874,
+      "end": 885
+    }
+  }
+]

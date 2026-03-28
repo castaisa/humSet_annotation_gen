@@ -1,0 +1,313 @@
+[
+  {
+    "quantity": {
+      "text": "14.9%",
+      "begin": 192,
+      "end": 197
+    },
+    "eventDescription": {
+      "text": "remained Serious (IPC AMN Phase 3)",
+      "begin": 153,
+      "end": 187
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "median prevalence of Global Acute Malnutrition (GAM)",
+      "begin": 96,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "10–14.9%",
+      "begin": 189,
+      "end": 197
+    },
+    "eventDescription": {
+      "text": "remained Serious (IPC AMN Phase 3)",
+      "begin": 153,
+      "end": 187
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "median prevalence of Global Acute Malnutrition (GAM)",
+      "begin": 96,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 189,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "remained Serious (IPC AMN Phase 3)",
+      "begin": 153,
+      "end": 187
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "median prevalence of Global Acute Malnutrition (GAM)",
+      "begin": 96,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "11.8%",
+      "begin": 228,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "remained Serious (IPC AMN Phase 3)",
+      "begin": 153,
+      "end": 187
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "median prevalence of Global Acute Malnutrition (GAM)",
+      "begin": 96,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "13.1%",
+      "begin": 246,
+      "end": 251
+    },
+    "eventDescription": {
+      "text": "remained Serious (IPC AMN Phase 3)",
+      "begin": 153,
+      "end": 187
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "median prevalence of Global Acute Malnutrition (GAM)",
+      "begin": 96,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "13.8%",
+      "begin": 269,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "remained Serious (IPC AMN Phase 3)",
+      "begin": 153,
+      "end": 187
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "median prevalence of Global Acute Malnutrition (GAM)",
+      "begin": 96,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 391,
+      "end": 394
+    },
+    "unit": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 400,
+      "end": 408
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "≥",
+      "begin": 389,
+      "end": 390
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 412,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 400,
+      "end": 408
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "population groups",
+      "begin": 428,
+      "end": 445
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven out of 37",
+      "begin": 412,
+      "end": 427
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 400,
+      "end": 408
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "population groups",
+      "begin": 428,
+      "end": 445
+    }
+  },
+  {
+    "quantity": {
+      "text": "37",
+      "begin": 425,
+      "end": 427
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 400,
+      "end": 408
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "population groups",
+      "begin": 428,
+      "end": 445
+    }
+  },
+  {
+    "quantity": {
+      "text": "18.8%",
+      "begin": 498,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Garowe IDPs",
+      "begin": 485,
+      "end": 496
+    }
+  },
+  {
+    "quantity": {
+      "text": "17.1%",
+      "begin": 522,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Mogadishu IDPs",
+      "begin": 506,
+      "end": 520
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.8%",
+      "begin": 544,
+      "end": 549
+    },
+    "eventDescription": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Bosaaso IDPs",
+      "begin": 530,
+      "end": 542
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.6%",
+      "begin": 567,
+      "end": 572
+    },
+    "eventDescription": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Galkacyo IDPs",
+      "begin": 552,
+      "end": 565
+    }
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 623,
+      "end": 626
+    },
+    "eventDescription": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Shabelle Riverine",
+      "begin": 604,
+      "end": 621
+    }
+  },
+  {
+    "quantity": {
+      "text": "16.2%",
+      "begin": 596,
+      "end": 601
+    },
+    "eventDescription": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "East Golis pastoral",
+      "begin": 575,
+      "end": 594
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.4%",
+      "begin": 651,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "prevalence of Global Acute Malnutrition",
+      "begin": 344,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Beletweyne urban",
+      "begin": 633,
+      "end": 649
+    }
+  }
+]

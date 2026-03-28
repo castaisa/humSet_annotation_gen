@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "five",
+    "unit": "times",
+    "eventType": "EventP",
+    "eventDescription": "more likely than women to hold a leadership position"
+  },
+  {
+    "quantity": "3 percent",
+    "unit": "of the women who are in cooperatives",
+    "eventType": "EventP",
+    "eventDescription": "hold leadership positions",
+    "modifier": "about"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "of male cooperative members",
+    "eventType": "EventP",
+    "eventDescription": "have some leadership roles"
+  },
+  {
+    "quantity": "25 percent",
+    "unit": "of the executive posts",
+    "eventType": "EventP",
+    "eventDescription": "held by women",
+    "modifier": "less than"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "forcibly closed",
+      "start": 531,
+      "end": 546
+    },
+    "quantity": {
+      "text": "722",
+      "start": 510,
+      "end": 513
+    },
+    "unit": {
+      "text": "schools",
+      "start": 120,
+      "end": 127
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "education affected",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "around",
+      "start": 613,
+      "end": 619
+    },
+    "quantity": {
+      "text": "328,094",
+      "start": 620,
+      "end": 627
+    },
+    "unit": {
+      "text": "children",
+      "start": 157,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "education affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "113,597",
+      "start": 638,
+      "end": 645
+    },
+    "unit": {
+      "text": "girls",
+      "start": 646,
+      "end": 651
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "education affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "214,497",
+      "start": 656,
+      "end": 663
+    },
+    "unit": {
+      "text": "boys",
+      "start": 664,
+      "end": 668
+    }
+  }
+]

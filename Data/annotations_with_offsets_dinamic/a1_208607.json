@@ -1,0 +1,136 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have poor and borderline food consumption",
+      "start": 128,
+      "end": 169
+    },
+    "quantity": {
+      "text": "75 percent",
+      "start": 69,
+      "end": 79
+    },
+    "unit": {
+      "text": "households",
+      "start": 83,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase compared to September 2020",
+      "start": 197,
+      "end": 232
+    },
+    "quantity": {
+      "text": "23 percent",
+      "start": 186,
+      "end": 196
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase from the level recorded in June 2020",
+      "start": 259,
+      "end": 304
+    },
+    "modifier": {
+      "text": "close to",
+      "start": 237,
+      "end": 245
+    },
+    "quantity": {
+      "text": "83 percent",
+      "start": 248,
+      "end": 258
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported medical healthcare inaccessibility and have inadequate food consumption",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "77 percent",
+      "start": 319,
+      "end": 329
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 333,
+      "end": 344
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase since June 2020",
+      "start": 467,
+      "end": 491
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 456,
+      "end": 466
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported difficulties receiving remittances and/or food assistance due to movement restrictions",
+      "start": 561,
+      "end": 656
+    },
+    "quantity": {
+      "text": "5.3 percent",
+      "start": 526,
+      "end": 537
+    },
+    "unit": {
+      "text": "surveyed households",
+      "start": 541,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported difficulties receiving remittances and/or food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six percent",
+      "start": 720,
+      "end": 731
+    },
+    "unit": {
+      "text": "male-headed households",
+      "start": 696,
+      "end": 718
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported difficulties receiving remittances and/or food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two percent",
+      "start": 745,
+      "end": 756
+    },
+    "unit": {
+      "text": "femaleheaded households",
+      "start": 760,
+      "end": 783
+    }
+  }
+]

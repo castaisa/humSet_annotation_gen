@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "50 percent",
+      "begin": 88,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "family members to beg",
+      "begin": 104,
+      "end": 125
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    }
+  },
+  {
+    "quantity": {
+      "text": "7 percent",
+      "begin": 127,
+      "end": 136
+    },
+    "eventDescription": {
+      "text": "engaged in illegal income activities",
+      "begin": 137,
+      "end": 173
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    }
+  },
+  {
+    "quantity": {
+      "text": "6 percent",
+      "begin": 178,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "sold their assets – particularly land and house",
+      "begin": 188,
+      "end": 235
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    }
+  },
+  {
+    "quantity": {
+      "text": "42 percent",
+      "begin": 269,
+      "end": 279
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "spent their savings",
+      "begin": 294,
+      "end": 313
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "24 percent",
+      "begin": 318,
+      "end": 328
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "withdrew their children from school",
+      "begin": 329,
+      "end": 364
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "69 percent",
+      "begin": 485,
+      "end": 495
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "Usage of these coping strategies",
+      "begin": 366,
+      "end": 398
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "58 percent",
+      "begin": 504,
+      "end": 514
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "Usage of these coping strategies",
+      "begin": 366,
+      "end": 398
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "52 percent",
+      "begin": 526,
+      "end": 536
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "Usage of these coping strategies",
+      "begin": 366,
+      "end": 398
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "47 percent",
+      "begin": 546,
+      "end": 556
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "Usage of these coping strategies",
+      "begin": 366,
+      "end": 398
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42 percent",
+      "begin": 572,
+      "end": 582
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "Usage of these coping strategies",
+      "begin": 366,
+      "end": 398
+    },
+    "eventType": "EventO"
+  }
+]

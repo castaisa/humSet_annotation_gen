@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 44,
+      "end": 48
+    },
+    "unit": {
+      "text": "humanitarians",
+      "start": 49,
+      "end": 62
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "recorded",
+      "start": 20,
+      "end": 28
+    },
+    "quantity": {
+      "text": "five",
+      "start": 66,
+      "end": 70
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 81,
+      "end": 90
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 119,
+      "end": 125
+    },
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "NGO security guard",
+      "start": 96,
+      "end": 114
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "targeted killings",
+      "start": 219,
+      "end": 236
+    },
+    "quantity": {
+      "text": "four",
+      "start": 199,
+      "end": 203
+    },
+    "unit": {
+      "text": "instances",
+      "start": 204,
+      "end": 213
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "targeted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 248,
+      "end": 251
+    },
+    "unit": {
+      "text": "armed IO escort",
+      "start": 272,
+      "end": 287
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "escorted",
+      "start": 362,
+      "end": 370
+    },
+    "quantity": {
+      "text": "two",
+      "start": 374,
+      "end": 377
+    },
+    "unit": {
+      "text": "DPS vehicles",
+      "start": 378,
+      "end": 390
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lost control",
+      "start": 537,
+      "end": 549
+    },
+    "quantity": {
+      "text": "one",
+      "start": 518,
+      "end": 521
+    },
+    "unit": {
+      "text": "escort vehicle",
+      "start": 522,
+      "end": 536
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "shot",
+      "start": 656,
+      "end": 660
+    },
+    "quantity": {
+      "text": "five",
+      "start": 616,
+      "end": 620
+    },
+    "unit": {
+      "text": "escort personnel",
+      "start": 621,
+      "end": 637
+    }
+  }
+]

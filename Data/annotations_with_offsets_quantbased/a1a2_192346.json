@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "9%",
+      "start": 188,
+      "end": 190
+    },
+    "eventDescription": {
+      "text": "reporting receiving remittances",
+      "start": 123,
+      "end": 154
+    },
+    "unit": {
+      "text": "households",
+      "start": 234,
+      "end": 244
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "4%",
+      "start": 194,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "reporting receiving remittances",
+      "start": 123,
+      "end": 154
+    },
+    "unit": {
+      "text": "households",
+      "start": 234,
+      "end": 244
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "7%",
+      "start": 342,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "indicating other forms of assistance from friends/relatives as a source of income",
+      "start": 245,
+      "end": 326
+    },
+    "unit": {
+      "text": "households",
+      "start": 377,
+      "end": 387
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "12%",
+      "start": 348,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "indicating other forms of assistance from friends/relatives as a source of income",
+      "start": 245,
+      "end": 326
+    },
+    "unit": {
+      "text": "households",
+      "start": 377,
+      "end": 387
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "2%",
+      "start": 443,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "reporting savings as a source of income",
+      "start": 388,
+      "end": 427
+    },
+    "unit": {
+      "text": "households",
+      "start": 478,
+      "end": 488
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10%",
+      "start": 449,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "reporting savings as a source of income",
+      "start": 388,
+      "end": 427
+    },
+    "unit": {
+      "text": "households",
+      "start": 478,
+      "end": 488
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "93%",
+      "start": 597,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "reported diminished income or loss of income sources",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 604,
+      "end": 614
+    }
+  }
+]

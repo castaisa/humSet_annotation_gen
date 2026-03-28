@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "100%",
+      "start": 75,
+      "end": 79
+    },
+    "eventDescription": {
+      "text": "infected with DEN-3",
+      "start": 91,
+      "end": 110
+    },
+    "unit": {
+      "text": "dengue patients",
+      "start": 58,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "90%",
+      "start": 469,
+      "end": 472
+    },
+    "eventDescription": {
+      "text": "were of DEN-3 variant",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "dengue cases",
+      "start": 473,
+      "end": 485
+    }
+  }
+]

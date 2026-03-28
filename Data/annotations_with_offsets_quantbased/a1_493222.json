@@ -1,0 +1,82 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "313",
+      "start": 127,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "price of bread",
+      "start": 164,
+      "end": 178
+    },
+    "unit": {
+      "text": "SYP per rabta",
+      "start": 131,
+      "end": 144
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "136 percent",
+      "start": 550,
+      "end": 561
+    },
+    "eventDescription": {
+      "text": "increase in the price of bread",
+      "start": 505,
+      "end": 535
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "460",
+      "start": 630,
+      "end": 633
+    },
+    "eventDescription": {
+      "text": "price of bread",
+      "start": 614,
+      "end": 628
+    },
+    "unit": {
+      "text": "SYP per rabta",
+      "start": 634,
+      "end": 647
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24 percent",
+      "start": 652,
+      "end": 662
+    },
+    "eventDescription": {
+      "text": "increase in the price of bread",
+      "start": 505,
+      "end": 535
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "325",
+      "start": 776,
+      "end": 779
+    },
+    "eventDescription": {
+      "text": "price of bread",
+      "start": 614,
+      "end": 628
+    },
+    "unit": {
+      "text": "SYP per rabta",
+      "start": 780,
+      "end": 793
+    }
+  }
+]

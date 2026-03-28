@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "17.7",
+    "unit": "rCSI",
+    "eventType": "EventO",
+    "eventDescription": "national average reduced Coping Strategy Index"
+  },
+  {
+    "quantity": "18.4",
+    "unit": "rCSI",
+    "eventType": "EventO",
+    "eventDescription": "national average reduced Coping Strategy Index"
+  },
+  {
+    "quantity": "7.3",
+    "unit": "points",
+    "eventType": "EventO",
+    "eventDescription": "average increase in rCSI for returnee households"
+  },
+  {
+    "quantity": "22.5",
+    "unit": "rCSI",
+    "eventType": "EventO",
+    "eventDescription": "rCSI for returnee households in October"
+  },
+  {
+    "quantity": "64 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households reported relying on less preferred and less expensive food",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "54 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households reduced the number of meals eaten per day",
+    "modifier": "around"
+  },
+  {
+    "quantity": "46 percent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "respondents restricted the consumption of adults to prioritize children\u2019s food consumption needs"
+  }
+]

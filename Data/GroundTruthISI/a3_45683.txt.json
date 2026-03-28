@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "21%",
+      "begin": 102,
+      "end": 105
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 109,
+      "end": 128
+    },
+    "eventDescription": {
+      "text": "in need of protection support",
+      "begin": 167,
+      "end": 196
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 133,
+      "end": 136
+    },
+    "unit": {
+      "text": "IDP households",
+      "begin": 140,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "in need of protection support",
+      "begin": 167,
+      "end": 196
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 215,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "in need of protection support",
+      "begin": 167,
+      "end": 196
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "non-displaced households",
+      "begin": 221,
+      "end": 245
+    }
+  },
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 360,
+      "end": 363
+    },
+    "eventDescription": {
+      "text": "likelier to report movement restrictions",
+      "begin": 317,
+      "end": 357
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnee households",
+      "begin": 367,
+      "end": 386
+    }
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 391,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "likelier to report movement restrictions",
+      "begin": 317,
+      "end": 357
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDP households",
+      "begin": 398,
+      "end": 412
+    }
+  },
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "likelier to report movement restrictions",
+      "begin": 317,
+      "end": 357
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "non-displaced households",
+      "begin": 424,
+      "end": 448
+    }
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 653,
+      "end": 655
+    },
+    "unit": {
+      "text": "IDP households",
+      "begin": 621,
+      "end": 635
+    },
+    "eventDescription": {
+      "text": "reported that they had at least one missing family member",
+      "begin": 658,
+      "end": 715
+    },
+    "eventType": "EventP"
+  }
+]

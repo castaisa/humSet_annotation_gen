@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "26",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "recorded cases of COVID-19"
+  },
+  {
+    "quantity": "535",
+    "unit": "tests",
+    "eventType": "EventA",
+    "eventDescription": "tests conducted"
+  }
+]

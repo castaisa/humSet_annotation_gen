@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "1 million",
+    "unit": "girls and boys",
+    "eventType": "EventP",
+    "eventDescription": "in need of care and protection from abuse, discrimination, exploitation, neglect and violence",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "53per cent",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "in need of care and protection"
+  },
+  {
+    "quantity": "47 per cent",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "in need of care and protection"
+  },
+  {
+    "quantity": "6 to 17",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age of girls and boys in need of child protection services"
+  },
+  {
+    "quantity": "28 per cent",
+    "unit": "estimated population",
+    "eventType": "EventP",
+    "eventDescription": "girls in need of child protection services"
+  },
+  {
+    "quantity": "25 per cent",
+    "unit": "estimated population",
+    "eventType": "EventP",
+    "eventDescription": "boys in need of child protection services"
+  },
+  {
+    "quantity": "13%",
+    "unit": "targeted population",
+    "eventType": "EventP",
+    "eventDescription": "Adamawa State representation"
+  },
+  {
+    "quantity": "77% cent",
+    "unit": "targeted population",
+    "eventType": "EventP",
+    "eventDescription": "Borno State representation"
+  },
+  {
+    "quantity": "10%",
+    "unit": "targeted population",
+    "eventType": "EventP",
+    "eventDescription": "Yobe State representation"
+  }
+]

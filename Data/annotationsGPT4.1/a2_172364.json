@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "over 35 per cent",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases among HCWs",
+    "modifier": "over"
+  },
+  {
+    "quantity": "25",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases among HCWs"
+  }
+]

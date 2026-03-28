@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.7 million",
+      "start": 38,
+      "end": 49
+    },
+    "eventDescription": {
+      "text": "fully dependent on water trucking",
+      "start": 123,
+      "end": 156
+    },
+    "unit": {
+      "text": "people",
+      "start": 50,
+      "end": 56
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "68 percent",
+      "start": 58,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "fully dependent on water trucking",
+      "start": 123,
+      "end": 156
+    },
+    "unit": {
+      "text": "people in camps",
+      "start": 72,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50 percent",
+      "start": 92,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "fully dependent on water trucking",
+      "start": 123,
+      "end": 156
+    },
+    "unit": {
+      "text": "people in communities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "at least 70 percent",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "found to be untreated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "wastewater disposed",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "50 percent",
+      "start": 231,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "found to be non-functional",
+      "start": 267,
+      "end": 293
+    },
+    "unit": {
+      "text": "sewerage systems",
+      "start": 245,
+      "end": 261
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "78 percent",
+      "start": 360,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "stated they did not have access to sufficient water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 374,
+      "end": 380
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "49 percent",
+      "start": 481,
+      "end": 491
+    },
+    "eventDescription": {
+      "text": "have access to both soap and water and handwashing facilities",
+      "start": 512,
+      "end": 573
+    },
+    "unit": {
+      "text": "camp populations",
+      "start": 495,
+      "end": 511
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22 percent",
+      "start": 581,
+      "end": 591
+    },
+    "eventDescription": {
+      "text": "have no soap at all",
+      "start": 612,
+      "end": 631
+    },
+    "unit": {
+      "text": "camp populations",
+      "start": 595,
+      "end": 611
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18 percent",
+      "start": 636,
+      "end": 646
+    },
+    "eventDescription": {
+      "text": "have no handwashing facilities",
+      "start": 647,
+      "end": 677
+    },
+    "unit": {
+      "text": "camp populations",
+      "start": 595,
+      "end": 611
+    }
+  }
+]

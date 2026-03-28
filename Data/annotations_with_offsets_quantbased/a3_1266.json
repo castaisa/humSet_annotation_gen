@@ -1,0 +1,120 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "707",
+      "start": 16,
+      "end": 19
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "start": 75,
+      "end": 86
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 20,
+      "end": 31
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "138",
+      "start": 43,
+      "end": 46
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "start": 75,
+      "end": 86
+    },
+    "unit": {
+      "text": "women",
+      "start": 47,
+      "end": 52
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "85",
+      "start": 57,
+      "end": 59
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "start": 75,
+      "end": 86
+    },
+    "unit": {
+      "text": "children",
+      "start": 60,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "143",
+      "start": 419,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "identified",
+      "start": 408,
+      "end": 418
+    },
+    "unit": {
+      "text": "refugees and asylumseekers",
+      "start": 423,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 620,
+      "end": 622
+    },
+    "eventDescription": {
+      "text": "reported as missing",
+      "start": 648,
+      "end": 667
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 631,
+      "end": 642
+    },
+    "modifier": {
+      "text": "between",
+      "start": 612,
+      "end": 619
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "100",
+      "start": 627,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "reported as missing",
+      "start": 648,
+      "end": 667
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 631,
+      "end": 642
+    },
+    "modifier": {
+      "text": "between",
+      "start": 612,
+      "end": 619
+    }
+  }
+]

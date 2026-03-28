@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "22,000",
+    "unit": "Nigerians",
+    "eventType": "EventP",
+    "eventDescription": "reported as missing",
+    "modifier": "Around"
+  },
+  {
+    "quantity": "60 per cent",
+    "unit": "minors",
+    "eventType": "EventP",
+    "eventDescription": "were minors at the time they went missing",
+    "modifier": "Nearly"
+  },
+  {
+    "quantity": "367",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases have been solved"
+  }
+]

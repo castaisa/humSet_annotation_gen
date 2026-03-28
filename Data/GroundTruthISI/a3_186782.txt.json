@@ -1,0 +1,205 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 105,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "government issued",
+      "begin": 87,
+      "end": 104
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "ministerial directives",
+      "begin": 109,
+      "end": 131
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 246,
+      "end": 248
+    },
+    "eventDescription": {
+      "text": "reduction",
+      "begin": 207,
+      "end": 216
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weekly work hours",
+      "begin": 220,
+      "end": 237
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 254,
+      "end": 257
+    },
+    "unit": {
+      "text": "months",
+      "begin": 258,
+      "end": 264
+    }
+  },
+  {
+    "quantity": {
+      "text": "sixty",
+      "begin": 635,
+      "end": 640
+    },
+    "eventDescription": {
+      "text": "reduce the waiting period for unemployment insurance",
+      "begin": 577,
+      "end": 629
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "days",
+      "begin": 650,
+      "end": 654
+    }
+  },
+  {
+    "quantity": {
+      "text": "sixty to seven",
+      "begin": 635,
+      "end": 649
+    },
+    "eventDescription": {
+      "text": "reduce the waiting period for unemployment insurance",
+      "begin": 577,
+      "end": 629
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "days",
+      "begin": 650,
+      "end": 654
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 644,
+      "end": 649
+    },
+    "eventDescription": {
+      "text": "reduce the waiting period for unemployment insurance",
+      "begin": 577,
+      "end": 629
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "days",
+      "begin": 650,
+      "end": 654
+    }
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 1048,
+      "end": 1050
+    },
+    "eventDescription": {
+      "text": "called for ‘solidarity contributions",
+      "begin": 992,
+      "end": 1028
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "contribution from companies with profits higher than one million US$",
+      "begin": 1051,
+      "end": 1119
+    }
+  },
+  {
+    "quantity": {
+      "text": "one million",
+      "begin": 1104,
+      "end": 1115
+    },
+    "unit": {
+      "text": "US$",
+      "begin": 1116,
+      "end": 1119
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 1155,
+      "end": 1158
+    },
+    "modifier": {
+      "text": "above",
+      "begin": 1149,
+      "end": 1154
+    },
+    "unit": {
+      "text": "US$",
+      "begin": 1159,
+      "end": 1162
+    },
+    "eventDescription": {
+      "text": "contribute a progressively higher share of their income",
+      "begin": 1195,
+      "end": 1250
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 1183,
+      "end": 1187
+    },
+    "unit": {
+      "text": "months",
+      "begin": 1188,
+      "end": 1194
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.4 billion",
+      "begin": 1296,
+      "end": 1307
+    },
+    "eventDescription": {
+      "text": "contribute a progressively higher share of their income",
+      "begin": 1195,
+      "end": 1250
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 1292,
+      "end": 1295
+    }
+  },
+  {
+    "quantity": {
+      "text": "thirty",
+      "begin": 2081,
+      "end": 2087
+    },
+    "unit": {
+      "text": "days",
+      "begin": 2088,
+      "end": 2092
+    },
+    "eventDescription": {
+      "text": "to vote",
+      "begin": 2093,
+      "end": 2100
+    },
+    "eventType": "EventO"
+  }
+]

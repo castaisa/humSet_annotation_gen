@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "own mobile phones",
+      "start": 132,
+      "end": 149
+    },
+    "quantity": {
+      "text": "84%",
+      "start": 104,
+      "end": 107
+    },
+    "unit": {
+      "text": "women in the country",
+      "start": 111,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "gender gap in access",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5%",
+      "start": 170,
+      "end": 172
+    },
+    "unit": {
+      "text": "gender gap between men and women’s access",
+      "start": 173,
+      "end": 214
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have access to internet",
+      "start": 243,
+      "end": 266
+    },
+    "quantity": {
+      "text": "35%",
+      "start": 230,
+      "end": 233
+    },
+    "unit": {
+      "text": "women",
+      "start": 237,
+      "end": 242
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have access to internet",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50%",
+      "start": 282,
+      "end": 285
+    },
+    "unit": {
+      "text": "men",
+      "start": 289,
+      "end": 292
+    }
+  }
+]

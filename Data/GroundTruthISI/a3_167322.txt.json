@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "15 per cent",
+      "begin": 450,
+      "end": 461
+    },
+    "eventDescription": {
+      "text": "projected revenue loss",
+      "begin": 357,
+      "end": 379
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "annual budget",
+      "begin": 469,
+      "end": 482
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.5 billion",
+      "begin": 386,
+      "end": 397
+    },
+    "eventDescription": {
+      "text": "projected revenue loss",
+      "begin": 357,
+      "end": 379
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "TT$",
+      "begin": 383,
+      "end": 386
+    }
+  }
+]

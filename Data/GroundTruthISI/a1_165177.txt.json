@@ -1,0 +1,115 @@
+[
+  {
+    "quantity": {
+      "text": "44 per",
+      "begin": 107,
+      "end": 113
+    },
+    "unit": {
+      "text": "Children",
+      "begin": 0,
+      "end": 8
+    },
+    "eventDescription": {
+      "text": "access to television",
+      "begin": 85,
+      "end": 105
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "75 per cent",
+      "begin": 133,
+      "end": 144
+    },
+    "unit": {
+      "text": "Children",
+      "begin": 0,
+      "end": 8
+    },
+    "eventDescription": {
+      "text": "access to television",
+      "begin": 85,
+      "end": 105
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7 per cent",
+      "begin": 204,
+      "end": 214
+    },
+    "unit": {
+      "text": "Children",
+      "begin": 0,
+      "end": 8
+    },
+    "eventDescription": {
+      "text": "internet",
+      "begin": 162,
+      "end": 170
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30 per cent",
+      "begin": 172,
+      "end": 183
+    },
+    "unit": {
+      "text": "Children",
+      "begin": 0,
+      "end": 8
+    },
+    "eventDescription": {
+      "text": "internet",
+      "begin": 162,
+      "end": 170
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3 per cent",
+      "begin": 255,
+      "end": 265
+    },
+    "unit": {
+      "text": "Children",
+      "begin": 0,
+      "end": 8
+    },
+    "eventDescription": {
+      "text": "computers",
+      "begin": 244,
+      "end": 253
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three million",
+      "begin": 591,
+      "end": 604
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 584,
+      "end": 590
+    },
+    "unit": {
+      "text": "children",
+      "begin": 605,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "risk of undernutrition",
+      "begin": 617,
+      "end": 639
+    },
+    "eventType": "EventP"
+  }
+]

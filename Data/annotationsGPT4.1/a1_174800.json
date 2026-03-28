@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": "145,000",
+    "unit": "pesos",
+    "eventType": "EventA",
+    "eventDescription": "extra cash transfer announced"
+  },
+  {
+    "quantity": "39",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "extra cash transfer announced"
+  },
+  {
+    "quantity": "334,000",
+    "unit": "pesos",
+    "eventType": "EventA",
+    "eventDescription": "average transfer a household received"
+  },
+  {
+    "quantity": "86",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "average transfer a household received"
+  },
+  {
+    "quantity": "90%",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "families had bank accounts and received transfers"
+  },
+  {
+    "quantity": "one million",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "poorest households received VAT reimbursement"
+  },
+  {
+    "quantity": "70,000",
+    "unit": "pesos",
+    "eventType": "EventA",
+    "eventDescription": "VAT reimbursement per household"
+  },
+  {
+    "quantity": "17",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "VAT reimbursement per household"
+  },
+  {
+    "quantity": "1.7 million",
+    "unit": "elderly people",
+    "eventType": "EventP",
+    "eventDescription": "regular cash transfer bolstered"
+  },
+  {
+    "quantity": "240 000",
+    "unit": "pesos",
+    "eventType": "EventA",
+    "eventDescription": "regular cash transfer to elderly people"
+  },
+  {
+    "quantity": "64",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "regular cash transfer to elderly people"
+  },
+  {
+    "quantity": "about 274,000",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "youth program provided additional transfers",
+    "modifier": "about"
+  },
+  {
+    "quantity": "85%",
+    "unit": "recipients",
+    "eventType": "EventP",
+    "eventDescription": "recipients reached by mid-June"
+  }
+]

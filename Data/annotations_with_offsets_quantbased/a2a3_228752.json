@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "dozens",
+      "start": 15,
+      "end": 21
+    },
+    "eventDescription": {
+      "text": "requested referrals and sick leave",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 41,
+      "end": 49
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,000",
+      "start": 216,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "registered during the month of November",
+      "start": 168,
+      "end": 207
+    },
+    "unit": {
+      "text": "sick leaves",
+      "start": 156,
+      "end": 167
+    }
+  }
+]

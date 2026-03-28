@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "47 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported a reduction of revenues from business activities or agricultural sales"
+  },
+  {
+    "quantity": "49 percent",
+    "unit": "male-headed households",
+    "eventType": "EventP",
+    "eventDescription": "reported a reduction of revenues from business activities or agricultural sales"
+  },
+  {
+    "quantity": "36 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "reported a reduction of revenues from business activities or agricultural sales"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported having been impacted by a reduction in working hours and thus receiving a partial salary"
+  },
+  {
+    "quantity": "42 percent",
+    "unit": "households in Homs",
+    "eventType": "EventP",
+    "eventDescription": "reported having been impacted by a reduction in working hours and thus receiving a partial salary"
+  },
+  {
+    "quantity": "42 percent",
+    "unit": "households in As-Sweida",
+    "eventType": "EventP",
+    "eventDescription": "reported having been impacted by a reduction in working hours and thus receiving a partial salary"
+  },
+  {
+    "quantity": "16 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "indicated job lay-offs"
+  },
+  {
+    "quantity": "25 percent",
+    "unit": "households in Deir-ez-Zor",
+    "eventType": "EventP",
+    "eventDescription": "indicated job lay-offs"
+  }
+]

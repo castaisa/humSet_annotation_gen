@@ -1,0 +1,149 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average selling price of tomato",
+      "start": 30,
+      "end": 61
+    },
+    "quantity": {
+      "text": "756",
+      "start": 120,
+      "end": 123
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 124,
+      "end": 134
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase on tomato prices",
+      "start": 238,
+      "end": 263
+    },
+    "quantity": {
+      "text": "29 percent",
+      "start": 221,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in selling price of tomatoes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "475",
+      "start": 568,
+      "end": 571
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 572,
+      "end": 582
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in selling price of tomatoes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34 percent",
+      "start": 584,
+      "end": 594
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "tomato selling price in April",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "800",
+      "start": 671,
+      "end": 674
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 675,
+      "end": 678
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "tomato selling price in May",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "756",
+      "start": 696,
+      "end": 699
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 700,
+      "end": 703
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in Hama Governorate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20 percent",
+      "start": 758,
+      "end": 768
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price in Hama Governorate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 787,
+      "end": 790
+    },
+    "unit": {
+      "text": "kilogram of tomatoes",
+      "start": 791,
+      "end": 811
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price in Hama Governorate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "630",
+      "start": 827,
+      "end": 830
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 831,
+      "end": 841
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 484,
+      "end": 488
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 489,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "have very different healthcare systems, as well as different prevention and primary care policies",
+      "begin": 499,
+      "end": 596
+    },
+    "eventType": "EventO"
+  }
+]

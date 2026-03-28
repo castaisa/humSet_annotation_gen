@@ -1,0 +1,87 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "73 000",
+      "start": 64,
+      "end": 70
+    },
+    "eventDescription": {
+      "text": "provided",
+      "start": 91,
+      "end": 99
+    },
+    "unit": {
+      "text": "ANC-1 services",
+      "start": 71,
+      "end": 85
+    },
+    "modifier": {
+      "text": "More than",
+      "start": 54,
+      "end": 63
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "17%",
+      "start": 246,
+      "end": 249
+    },
+    "eventDescription": {
+      "text": "increase in ANC-1 service utilization",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "6%",
+      "start": 321,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "decrease in ANC-1 service status",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "36 000",
+      "start": 464,
+      "end": 470
+    },
+    "eventDescription": {
+      "text": "provided",
+      "start": 503,
+      "end": 511
+    },
+    "unit": {
+      "text": "PNC-1 services",
+      "start": 471,
+      "end": 485
+    },
+    "modifier": {
+      "text": "About",
+      "start": 458,
+      "end": 463
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "11%",
+      "start": 617,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "decline in PNC service utilization",
+      "start": null,
+      "end": null
+    }
+  }
+]

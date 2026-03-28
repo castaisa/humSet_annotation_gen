@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "28,000",
+      "begin": 59,
+      "end": 65
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 45,
+      "end": 58
+    },
+    "unit": {
+      "text": "people",
+      "begin": 80,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 87,
+      "end": 96
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36,000",
+      "begin": 73,
+      "end": 79
+    },
+    "unit": {
+      "text": "people",
+      "begin": 80,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 87,
+      "end": 96
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,400",
+      "begin": 202,
+      "end": 207
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 87,
+      "end": 96
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "estimated",
+      "begin": 192,
+      "end": 201
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 208,
+      "end": 212
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,000",
+      "begin": 248,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 87,
+      "end": 96
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "residents",
+      "begin": 254,
+      "end": 263
+    }
+  }
+]

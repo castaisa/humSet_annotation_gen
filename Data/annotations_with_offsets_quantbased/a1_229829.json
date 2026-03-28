@@ -1,0 +1,121 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27 per cent",
+      "start": 35,
+      "end": 46
+    },
+    "eventDescription": {
+      "text": "had some or all of their enrolled children drop out of school",
+      "start": 61,
+      "end": 122
+    },
+    "unit": {
+      "text": "households",
+      "start": 50,
+      "end": 60
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36 per cent",
+      "start": 208,
+      "end": 219
+    },
+    "eventDescription": {
+      "text": "reported cost of school fees as main reason for dropping out",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33 per cent",
+      "start": 231,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "reported drought as main reason for dropping out",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17 per cent",
+      "start": 279,
+      "end": 290
+    },
+    "eventDescription": {
+      "text": "reported work to support the household as main reason for dropping out",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4 per cent",
+      "start": 299,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "stated early marriage as the main reason for dropping out",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6 per cent",
+      "start": 336,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "stated conflict as the main reason for dropping out",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50 per cent",
+      "start": 466,
+      "end": 477
+    },
+    "eventDescription": {
+      "text": "reported cost of school fees as main barrier to accessing education",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "non-displaced families",
+      "start": 481,
+      "end": 503
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "65 per cent",
+      "start": 508,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "reported cost of school fees as main barrier to accessing education",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "displaced families",
+      "start": 523,
+      "end": 541
+    }
+  }
+]

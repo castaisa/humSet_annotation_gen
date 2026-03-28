@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "9 million",
+    "unit": "CHF",
+    "eventType": "EventA",
+    "eventDescription": "budget for responding to the crisis"
+  },
+  {
+    "quantity": "19 million",
+    "unit": "CHF",
+    "eventType": "EventA",
+    "eventDescription": "budget for responding to the crisis"
+  }
+]

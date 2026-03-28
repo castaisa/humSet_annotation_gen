@@ -1,0 +1,66 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 227,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "NSAG elements attacked",
+      "begin": 204,
+      "end": 226
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "villages",
+      "begin": 231,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 268,
+      "end": 269
+    },
+    "eventDescription": {
+      "text": "NSAG elements attacked",
+      "begin": 204,
+      "end": 226
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "about",
+      "begin": 262,
+      "end": 267
+    },
+    "unit": {
+      "text": "kilometers",
+      "begin": 270,
+      "end": 280
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 345,
+      "end": 347
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 336,
+      "end": 344
+    },
+    "unit": {
+      "text": "people including military personnel",
+      "begin": 348,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "reportedly killed",
+      "begin": 389,
+      "end": 406
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "21%",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "schools where personnel filled out a medical history form"
+  },
+  {
+    "quantity": "40",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "schools where personnel filled out a medical history form"
+  },
+  {
+    "quantity": "79%",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "schools where personnel did not fill out a medical history form"
+  },
+  {
+    "quantity": "149",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "schools where personnel did not fill out a medical history form"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "40",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "70%",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "reported intermittent power outage and lack of safe drinking water"
+  },
+  {
+    "quantity": "79%",
+    "unit": "public hospitals",
+    "eventType": "EventO",
+    "eventDescription": "lack regular water supply"
+  },
+  {
+    "quantity": "25%",
+    "unit": "public hospitals",
+    "eventType": "EventO",
+    "eventDescription": "reported receiving no water at all"
+  },
+  {
+    "quantity": "95%",
+    "unit": "medical supplies and equipment",
+    "eventType": "EventA",
+    "eventDescription": "are imported"
+  },
+  {
+    "quantity": "70%",
+    "unit": "imports",
+    "eventType": "EventA",
+    "eventDescription": "fell"
+  },
+  {
+    "quantity": "about 50%",
+    "unit": "medical supplies",
+    "eventType": "EventA",
+    "eventDescription": "lacking on average",
+    "modifier": "about"
+  }
+]

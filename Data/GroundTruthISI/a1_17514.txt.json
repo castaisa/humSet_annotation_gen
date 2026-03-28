@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "8,000",
+      "begin": 60,
+      "end": 65
+    },
+    "unit": {
+      "text": "African refugees",
+      "begin": 66,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "live",
+      "begin": 83,
+      "end": 87
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "thousands",
+      "begin": 183,
+      "end": 192
+    },
+    "unit": {
+      "text": "refugees",
+      "begin": 196,
+      "end": 204
+    },
+    "eventDescription": {
+      "text": "were horribly killed",
+      "begin": 219,
+      "end": 239
+    },
+    "eventType": "EventP"
+  }
+]

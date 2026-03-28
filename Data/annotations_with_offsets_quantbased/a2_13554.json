@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "200",
+      "start": 281,
+      "end": 284
+    },
+    "eventDescription": {
+      "text": "took shelter",
+      "start": 294,
+      "end": 306
+    },
+    "unit": {
+      "text": "families",
+      "start": 285,
+      "end": 293
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5",
+      "start": 310,
+      "end": 311
+    },
+    "eventDescription": {
+      "text": "sheltered displaced families",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "schools",
+      "start": 312,
+      "end": 319
+    }
+  }
+]

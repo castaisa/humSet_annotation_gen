@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 475,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "carried out workshops on prevention of xenophobia and socioemotional support",
+      "begin": 395,
+      "end": 471
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "targeted schools",
+      "begin": 480,
+      "end": 496
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,618",
+      "begin": 532,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 521,
+      "end": 531
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children and adolescents",
+      "begin": 538,
+      "end": 562
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,501",
+      "begin": 564,
+      "end": 569
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 521,
+      "end": 531
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 570,
+      "end": 575
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,117",
+      "begin": 580,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 521,
+      "end": 531
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 586,
+      "end": 590
+    }
+  },
+  {
+    "quantity": {
+      "text": "678",
+      "begin": 596,
+      "end": 599
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 521,
+      "end": 531
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "teachers",
+      "begin": 600,
+      "end": 608
+    }
+  },
+  {
+    "quantity": {
+      "text": "434",
+      "begin": 610,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 521,
+      "end": 531
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 614,
+      "end": 619
+    }
+  },
+  {
+    "quantity": {
+      "text": "244",
+      "begin": 624,
+      "end": 627
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 521,
+      "end": 531
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 628,
+      "end": 631
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 752,
+      "end": 755
+    },
+    "unit": {
+      "text": "schools",
+      "begin": 765,
+      "end": 772
+    },
+    "eventDescription": {
+      "text": "reached with key messages on xenophobia prevention, unity and empathy",
+      "begin": 784,
+      "end": 853
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "175",
+      "begin": 866,
+      "end": 869
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 855,
+      "end": 865
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 870,
+      "end": 875
+    }
+  },
+  {
+    "quantity": {
+      "text": "116",
+      "begin": 880,
+      "end": 883
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "begin": 855,
+      "end": 865
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 884,
+      "end": 887
+    }
+  }
+]

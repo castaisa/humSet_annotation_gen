@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "80%",
+    "unit": "export orders",
+    "eventType": "EventO",
+    "eventDescription": "cancelled",
+    "modifier": "about"
+  },
+  {
+    "quantity": "$54m",
+    "unit": "export orders",
+    "eventType": "EventO",
+    "eventDescription": "worth"
+  },
+  {
+    "quantity": "zero",
+    "unit": "capital",
+    "eventType": "EventO",
+    "eventDescription": "lost"
+  }
+]

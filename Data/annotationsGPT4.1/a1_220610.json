@@ -1,0 +1,75 @@
+[
+  {
+    "quantity": "22",
+    "unit": "Acute Watery Diarrhea (AWD) Rapid Diagnostic Test (RDT) positive cases",
+    "eventType": "EventP",
+    "eventDescription": "verified for Cholera"
+  },
+  {
+    "quantity": "17",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "qualified for JAT investigation"
+  },
+  {
+    "quantity": "two",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "qualified for JAT investigation in the reported week"
+  },
+  {
+    "quantity": "three",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed by culture of Vibrio Cholerae"
+  },
+  {
+    "quantity": "one",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "confirmed among Ukhiya Host Community"
+  },
+  {
+    "quantity": "one",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "confirmed among Teknaf Host Community"
+  },
+  {
+    "quantity": "one",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "confirmed in the Rohingya Refugee camps"
+  },
+  {
+    "quantity": "One (1)",
+    "unit": "result",
+    "eventType": "EventO",
+    "eventDescription": "result is still pending"
+  },
+  {
+    "quantity": "Twenty (out of 23)",
+    "unit": "sentinel sites",
+    "eventType": "EventO",
+    "eventDescription": "sentinel sites for cholera surveillance are functional"
+  },
+  {
+    "quantity": "two",
+    "unit": "UHCs",
+    "eventType": "EventO",
+    "eventDescription": "UHCs included in functional sentinel sites"
+  },
+  {
+    "quantity": "one",
+    "unit": "DTC",
+    "eventType": "EventO",
+    "eventDescription": "DTC included in functional sentinel sites"
+  },
+  {
+    "quantity": "200",
+    "unit": "samples per month",
+    "eventType": "EventO",
+    "eventDescription": "testing samples per month",
+    "modifier": "around"
+  }
+]

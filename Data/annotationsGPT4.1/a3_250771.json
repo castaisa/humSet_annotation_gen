@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "213",
+    "unit": "interviewed",
+    "eventType": "EventP",
+    "eventDescription": "interviewed"
+  },
+  {
+    "quantity": "19%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "in direct contact with confirmed COVID 19 patient"
+  },
+  {
+    "quantity": "59%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "health workers in direct contact with confirmed COVID 19 patients"
+  },
+  {
+    "quantity": "37%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "present during Aerosol generating procedure (AGP)"
+  },
+  {
+    "quantity": "55%",
+    "unit": "health workers",
+    "eventType": "EventP",
+    "eventDescription": "have direct contact with the environment where the confirmed COVID 19 patient was cared for"
+  },
+  {
+    "quantity": "39%",
+    "unit": "health professionals",
+    "eventType": "EventP",
+    "eventDescription": "have to attend to other normal functions in the hospital or have their own private practice"
+  },
+  {
+    "quantity": "15%",
+    "unit": "overall survey responders",
+    "eventType": "EventP",
+    "eventDescription": "have to attend to other normal functions in the hospital or have their own private practice"
+  }
+]

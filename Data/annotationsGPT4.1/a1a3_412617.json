@@ -1,0 +1,76 @@
+[
+  {
+    "quantity": "60.8%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported sickness of themselves or family members",
+    "modifier": "about"
+  },
+  {
+    "quantity": "at least once",
+    "unit": "times",
+    "eventType": "EventP",
+    "eventDescription": "fell into sickness",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "72.4%",
+    "unit": "respondents and their family members",
+    "eventType": "EventP",
+    "eventDescription": "experienced common cold"
+  },
+  {
+    "quantity": "71.8%",
+    "unit": "respondents and their family members",
+    "eventType": "EventP",
+    "eventDescription": "experienced common fever"
+  },
+  {
+    "quantity": "14.8%",
+    "unit": "respondents and their family members",
+    "eventType": "EventP",
+    "eventDescription": "experienced high blood pressure"
+  },
+  {
+    "quantity": "12.9%",
+    "unit": "respondents and their family members",
+    "eventType": "EventP",
+    "eventDescription": "experienced diabetes"
+  },
+  {
+    "quantity": "8.0%",
+    "unit": "respondents and their family members",
+    "eventType": "EventP",
+    "eventDescription": "experienced hypertension"
+  },
+  {
+    "quantity": "2.1%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had coronavirus infected patients"
+  },
+  {
+    "quantity": "20",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age of family members who fell into sickness"
+  },
+  {
+    "quantity": "60",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age of family members who fell into sickness"
+  },
+  {
+    "quantity": "55.1%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "male household members affected by diseases"
+  },
+  {
+    "quantity": "64.6%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "female household members affected by diseases"
+  }
+]

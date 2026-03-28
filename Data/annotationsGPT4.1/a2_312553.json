@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "10%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in cereal production"
+  },
+  {
+    "quantity": "818,500",
+    "unit": "tons",
+    "eventType": "EventO",
+    "eventDescription": "cereal production estimated"
+  },
+  {
+    "quantity": "744,900",
+    "unit": "tons",
+    "eventType": "EventO",
+    "eventDescription": "cereal production estimated"
+  },
+  {
+    "quantity": "10%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in cereal production"
+  },
+  {
+    "quantity": "more than 5%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in harvested area",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "4%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "harvests below average"
+  },
+  {
+    "quantity": "482,500",
+    "unit": "tons",
+    "eventType": "EventO",
+    "eventDescription": "overall cereal deficit estimated"
+  },
+  {
+    "quantity": "7%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "deficit below previous year"
+  },
+  {
+    "quantity": "22%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "deficit above 2015-2019 average"
+  }
+]

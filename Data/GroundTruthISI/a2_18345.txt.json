@@ -1,0 +1,109 @@
+[
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 44,
+      "end": 49
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 35,
+      "end": 43
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 50,
+      "end": 67
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 395,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "reports",
+      "begin": 387,
+      "end": 394
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "primary public hospitals",
+      "begin": 421,
+      "end": 445
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 553,
+      "end": 555
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "begin": 543,
+      "end": 552
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "inpatient beds",
+      "begin": 556,
+      "end": 570
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 572,
+      "end": 576
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "begin": 543,
+      "end": 552
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "intensive care unit beds",
+      "begin": 577,
+      "end": 601
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.6 million",
+      "begin": 607,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "begin": 543,
+      "end": 552
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "liters of water",
+      "begin": 619,
+      "end": 634
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 638,
+      "end": 643
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "begin": 543,
+      "end": 552
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "public hospitals",
+      "begin": 644,
+      "end": 660
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "65%",
+      "begin": 231,
+      "end": 234
+    },
+    "unit": {
+      "text": "caregivers",
+      "begin": 41,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "reported that their children actually used them",
+      "begin": 162,
+      "end": 209
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "83%",
+      "begin": 266,
+      "end": 269
+    },
+    "unit": {
+      "text": "caregivers",
+      "begin": 41,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "reported that their children actually used them",
+      "begin": 162,
+      "end": 209
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "61%",
+      "begin": 283,
+      "end": 286
+    },
+    "unit": {
+      "text": "caregivers in camps",
+      "begin": 290,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "reported that their children had no access to any learning modalities and technologies",
+      "begin": 310,
+      "end": 396
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50%.",
+      "begin": 451,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "reported that their children had no access to any learning modalities and technologies",
+      "begin": 310,
+      "end": 396
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "host communitie",
+      "begin": 411,
+      "end": 426
+    }
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 611,
+      "end": 613
+    },
+    "unit": {
+      "text": "average number of learning hours per week",
+      "begin": 469,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "reportedly similar",
+      "begin": 547,
+      "end": 565
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 646,
+      "end": 648
+    },
+    "unit": {
+      "text": "average number of learning hours per week",
+      "begin": 469,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "reportedly similar",
+      "begin": 547,
+      "end": 565
+    },
+    "eventType": "EventO"
+  }
+]

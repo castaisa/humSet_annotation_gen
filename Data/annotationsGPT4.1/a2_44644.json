@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "39%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "categorized with high or very high needs"
+  },
+  {
+    "quantity": "84%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with unmet shelter/NFI needs"
+  },
+  {
+    "quantity": "71%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with unmet livelihoods needs"
+  },
+  {
+    "quantity": "63%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with unmet food security needs"
+  },
+  {
+    "quantity": "38%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with unmet protection needs"
+  },
+  {
+    "quantity": "16%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with unmet WASH needs"
+  },
+  {
+    "quantity": "15%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with unmet nutrition needs"
+  },
+  {
+    "quantity": "57%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported insecurity as a barrier to accessing agricultural land",
+    "modifier": "more than"
+  }
+]

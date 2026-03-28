@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened",
+      "start": 109,
+      "end": 117
+    },
+    "quantity": {
+      "text": "189",
+      "start": 68,
+      "end": 71
+    },
+    "unit": {
+      "text": "boys and girls aged 6-59 months",
+      "start": 72,
+      "end": 103
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total children screened",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "189",
+      "start": 263,
+      "end": 266
+    },
+    "unit": {
+      "text": "children",
+      "start": 267,
+      "end": 275
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "found with SAM",
+      "start": 292,
+      "end": 306
+    },
+    "quantity": {
+      "text": "11",
+      "start": 277,
+      "end": 279
+    },
+    "unit": {
+      "text": "children",
+      "start": 535,
+      "end": 543
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "found with SAM",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5.8%",
+      "start": 281,
+      "end": 285
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "found with MAM",
+      "start": 328,
+      "end": 342
+    },
+    "quantity": {
+      "text": "15",
+      "start": 313,
+      "end": 315
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "found with MAM",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.9%",
+      "start": 317,
+      "end": 321
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from other accessible LGAs",
+      "start": 370,
+      "end": 396
+    },
+    "quantity": {
+      "text": "47",
+      "start": 355,
+      "end": 357
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from other accessible LGAs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25%",
+      "start": 359,
+      "end": 362
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "came from neighboring countries",
+      "start": 408,
+      "end": 439
+    },
+    "quantity": {
+      "text": "105",
+      "start": 398,
+      "end": 401
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "came from neighboring countries",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "55%",
+      "start": 403,
+      "end": 406
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from inaccessible locations",
+      "start": 502,
+      "end": 529
+    },
+    "quantity": {
+      "text": "37",
+      "start": 488,
+      "end": 490
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from inaccessible locations",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20%",
+      "start": 492,
+      "end": 495
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  }
+]

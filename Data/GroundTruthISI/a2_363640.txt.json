@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": {
+      "text": "4,996",
+      "begin": 85,
+      "end": 90
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 90,
+      "end": 95
+    },
+    "eventDescription": {
+      "text": "highest cause of morbidity for the month",
+      "begin": 105,
+      "end": 145
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3,355",
+      "begin": 228,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "Acute Diarrheal Disease without dehydration",
+      "begin": 167,
+      "end": 210
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 234,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,698",
+      "begin": 319,
+      "end": 324
+    },
+    "unit": {
+      "text": "case",
+      "begin": 311,
+      "end": 315
+    }
+  },
+  {
+    "quantity": {
+      "text": "65",
+      "begin": 748,
+      "end": 750
+    },
+    "unit": {
+      "text": "patients",
+      "begin": 751,
+      "end": 759
+    },
+    "eventDescription": {
+      "text": "referred",
+      "begin": 765,
+      "end": 773
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 775,
+      "end": 777
+    },
+    "unit": {
+      "text": "patients",
+      "begin": 751,
+      "end": 759
+    },
+    "eventDescription": {
+      "text": "discharged",
+      "begin": 783,
+      "end": 793
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 799,
+      "end": 801
+    },
+    "unit": {
+      "text": "patients",
+      "begin": 802,
+      "end": 810
+    },
+    "eventDescription": {
+      "text": "on admission",
+      "begin": 817,
+      "end": 829
+    },
+    "eventType": "EventO"
+  }
+]

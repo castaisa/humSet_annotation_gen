@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "413,334",
+      "start": 164,
+      "end": 171
+    },
+    "eventDescription": {
+      "text": "assisted to go back to school",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 172,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "457",
+      "start": 299,
+      "end": 302
+    },
+    "eventDescription": {
+      "text": "trained",
+      "start": 291,
+      "end": 298
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 303,
+      "end": 311
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18,280",
+      "start": 614,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "benefited from preparatory activity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 621,
+      "end": 629
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "24",
+      "start": 790,
+      "end": 792
+    },
+    "eventDescription": {
+      "text": "participated in trainer-of-trainers activity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "directors, supervisors and coordinators",
+      "start": 793,
+      "end": 832
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,500",
+      "start": 908,
+      "end": 913
+    },
+    "eventDescription": {
+      "text": "reached by workshops",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 914,
+      "end": 922
+    }
+  }
+]

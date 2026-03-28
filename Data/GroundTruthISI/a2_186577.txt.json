@@ -1,0 +1,75 @@
+[
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 130,
+      "end": 140
+    },
+    "unit": {
+      "text": "general health personnel",
+      "begin": 144,
+      "end": 168
+    }
+  },
+  {
+    "quantity": {
+      "text": "81 percent",
+      "begin": 173,
+      "end": 183
+    },
+    "unit": {
+      "text": "nurses are women",
+      "begin": 187,
+      "end": 203
+    }
+  },
+  {
+    "quantity": {
+      "text": "45-60",
+      "begin": 372,
+      "end": 377
+    },
+    "eventDescription": {
+      "text": "availability of essential sexual and reproductive health care services",
+      "begin": 293,
+      "end": 363
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50 percent",
+      "begin": 560,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "Maternal mortality",
+      "begin": 523,
+      "end": 541
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "increase by",
+      "begin": 548,
+      "end": 559
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,282",
+      "begin": 589,
+      "end": 594
+    },
+    "unit": {
+      "text": "children under 5",
+      "begin": 595,
+      "end": 611
+    },
+    "eventDescription": {
+      "text": "could die",
+      "begin": 612,
+      "end": 621
+    },
+    "eventType": "EventP"
+  }
+]

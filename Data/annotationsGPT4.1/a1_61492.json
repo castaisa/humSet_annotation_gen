@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "$300",
+    "unit": "money",
+    "eventType": "EventO",
+    "eventDescription": "robbed"
+  },
+  {
+    "quantity": "two",
+    "unit": "nephews",
+    "eventType": "EventP",
+    "eventDescription": "traveling"
+  }
+]

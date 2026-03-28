@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported that some members of the community planted and harvested in the previous rainy season",
+      "start": 154,
+      "end": 248
+    },
+    "quantity": {
+      "text": "99%",
+      "start": 58,
+      "end": 61
+    },
+    "unit": {
+      "text": "of the assessed settlements in Adamawa",
+      "start": 62,
+      "end": 100
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported that some members of the community planted and harvested in the previous rainy season",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "97%",
+      "start": 108,
+      "end": 111
+    },
+    "unit": {
+      "text": "of the assessed settlements in Borno",
+      "start": 112,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "at least some people had reportedly planted and harvested in the previous rainy season",
+      "start": 369,
+      "end": 455
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 369,
+      "end": 377
+    },
+    "quantity": {
+      "text": "98%",
+      "start": 321,
+      "end": 324
+    },
+    "unit": {
+      "text": "of the assessed settlements in both states",
+      "start": 325,
+      "end": 367
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": {
+      "text": "3.5 billion",
+      "begin": 325,
+      "end": 336
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 321,
+      "end": 324
+    }
+  },
+  {
+    "quantity": {
+      "text": "90 percent",
+      "begin": 440,
+      "end": 450
+    },
+    "unit": {
+      "text": "rural population",
+      "begin": 458,
+      "end": 474
+    }
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 481,
+      "end": 491
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 495,
+      "end": 504
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "host families",
+      "begin": 525,
+      "end": 538
+    }
+  },
+  {
+    "quantity": {
+      "text": "85 percent",
+      "begin": 765,
+      "end": 775
+    },
+    "unit": {
+      "text": "women and girls",
+      "begin": 779,
+      "end": 794
+    },
+    "eventDescription": {
+      "text": "reporting",
+      "begin": 795,
+      "end": 804
+    },
+    "eventType": "EventP"
+  }
+]

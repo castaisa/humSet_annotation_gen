@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "stated that the long time consumed for fetching water results in reducing time usually spent on other daily tasks",
+      "start": 11,
+      "end": 124
+    },
+    "quantity": {
+      "text": "72%",
+      "start": 0,
+      "end": 3
+    },
+    "unit": {
+      "text": "HHs",
+      "start": 7,
+      "end": 10
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have issues related to taste, look and smell of the main water source",
+      "start": 142,
+      "end": 211
+    },
+    "quantity": {
+      "text": "35.42%",
+      "start": 128,
+      "end": 134
+    },
+    "unit": {
+      "text": "HHs",
+      "start": 138,
+      "end": 141
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "indicated that water has bad look",
+      "start": 283,
+      "end": 316
+    },
+    "quantity": {
+      "text": "71%",
+      "start": 260,
+      "end": 263
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 271,
+      "end": 282
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "indicated that water has bad taste",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40%",
+      "start": 322,
+      "end": 325
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "complained of water's bad smell",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15%",
+      "start": 365,
+      "end": 368
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "do not treat drinking water",
+      "start": 413,
+      "end": 440
+    },
+    "quantity": {
+      "text": "71%",
+      "start": 402,
+      "end": 405
+    },
+    "unit": {
+      "text": "HHs",
+      "start": 409,
+      "end": 412
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "indicated that the water they collect is clean and does not need to be treated",
+      "start": 458,
+      "end": 536
+    },
+    "quantity": {
+      "text": "48%",
+      "start": 446,
+      "end": 449
+    },
+    "unit": {
+      "text": "HHs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "don’t have materials for water purification/treatment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35%",
+      "start": 544,
+      "end": 547
+    },
+    "unit": {
+      "text": "HHs",
+      "start": null,
+      "end": null
+    }
+  }
+]

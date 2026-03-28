@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "99%",
+    "unit": "of the assessed settlements in Adamawa",
+    "eventType": "EventP",
+    "eventDescription": "reported that some members of the community planted and harvested in the previous rainy season"
+  },
+  {
+    "quantity": "97%",
+    "unit": "of the assessed settlements in Borno",
+    "eventType": "EventP",
+    "eventDescription": "reported that some members of the community planted and harvested in the previous rainy season"
+  },
+  {
+    "quantity": "98%",
+    "unit": "of the assessed settlements in both states",
+    "eventType": "EventP",
+    "eventDescription": "at least some people had reportedly planted and harvested in the previous rainy season",
+    "modifier": "at least"
+  }
+]

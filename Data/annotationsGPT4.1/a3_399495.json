@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "17",
+    "unit": "protection coordinators",
+    "eventType": "EventP",
+    "eventDescription": "community-based structure established"
+  },
+  {
+    "quantity": "100",
+    "unit": "protection monitors",
+    "eventType": "EventP",
+    "eventDescription": "community-based structure established"
+  },
+  {
+    "quantity": "50",
+    "unit": "human rights monitors",
+    "eventType": "EventP",
+    "eventDescription": "community-based structure established"
+  },
+  {
+    "quantity": "250",
+    "unit": "protection action group members",
+    "eventType": "EventP",
+    "eventDescription": "community-based structure established"
+  },
+  {
+    "quantity": "148,000",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "benefitted from awareness campaigns"
+  }
+]

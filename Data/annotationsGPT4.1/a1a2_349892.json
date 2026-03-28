@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "345",
+    "unit": "Nigerian IDPs and returning refugees",
+    "eventType": "EventP",
+    "eventDescription": "interviewed"
+  },
+  {
+    "quantity": "59 %",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "displaced once"
+  },
+  {
+    "quantity": "32 %",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "displaced two times"
+  },
+  {
+    "quantity": "7 %",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "displaced three times"
+  },
+  {
+    "quantity": "2 %",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "displaced four times"
+  },
+  {
+    "quantity": "73 %",
+    "unit": "IDPs living with host communities",
+    "eventType": "EventP",
+    "eventDescription": "displaced once"
+  },
+  {
+    "quantity": "22 %",
+    "unit": "IDPs living with host communities",
+    "eventType": "EventP",
+    "eventDescription": "displaced two times"
+  },
+  {
+    "quantity": "4 %",
+    "unit": "IDPs living with host communities",
+    "eventType": "EventP",
+    "eventDescription": "displaced three times"
+  },
+  {
+    "quantity": "1 %",
+    "unit": "IDPs living with host communities",
+    "eventType": "EventP",
+    "eventDescription": "displaced four times"
+  },
+  {
+    "quantity": "36 %",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "facing land or property challenges"
+  },
+  {
+    "quantity": "72 000",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "reported that they risked being evicted"
+  }
+]

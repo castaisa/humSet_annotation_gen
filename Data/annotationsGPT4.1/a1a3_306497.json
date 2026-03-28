@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "100%",
+    "unit": "commodities",
+    "eventType": "EventO",
+    "eventDescription": "price increase"
+  },
+  {
+    "quantity": "16.47%",
+    "unit": "consumer price index (CPI)",
+    "eventType": "EventO",
+    "eventDescription": "increase"
+  },
+  {
+    "quantity": "15.75%",
+    "unit": "consumer price index (CPI)",
+    "eventType": "EventO",
+    "eventDescription": "previous value"
+  },
+  {
+    "quantity": "20.57%",
+    "unit": "food index",
+    "eventType": "EventO",
+    "eventDescription": "increase"
+  },
+  {
+    "quantity": "19.56%",
+    "unit": "food index",
+    "eventType": "EventO",
+    "eventDescription": "previous value"
+  }
+]

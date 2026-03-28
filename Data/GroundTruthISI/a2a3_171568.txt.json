@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "66%",
+      "begin": 114,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "Radios were reported to exist",
+      "begin": 81,
+      "end": 110
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 121,
+      "end": 141
+    }
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 243,
+      "end": 246
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 121,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "lowest proportion of assessed settlements in which radios were reported",
+      "begin": 160,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40%",
+      "begin": 256,
+      "end": 259
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 121,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "lowest proportion of assessed settlements in which radios were reported",
+      "begin": 160,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 272,
+      "end": 275
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 121,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "lowest proportion of assessed settlements in which radios were reported",
+      "begin": 160,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "68%",
+      "begin": 331,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "Radio signal was similarly reported to be present in",
+      "begin": 278,
+      "end": 330
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 338,
+      "end": 358
+    }
+  },
+  {
+    "quantity": {
+      "text": "40%",
+      "begin": 449,
+      "end": 452
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 338,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "lowest proportion of settlements in which radio signals were reported",
+      "begin": 369,
+      "end": 438
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40%",
+      "begin": 465,
+      "end": 468
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 338,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "lowest proportion of settlements in which radio signals were reported",
+      "begin": 369,
+      "end": 438
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "66%",
+      "begin": 538,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "ettlements in which radios were reported to exist",
+      "begin": 479,
+      "end": 528
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 560,
+      "end": 580
+    }
+  },
+  {
+    "quantity": {
+      "text": "85%",
+      "begin": 553,
+      "end": 556
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 560,
+      "end": 580
+    },
+    "eventDescription": {
+      "text": "reported community members have access to radios",
+      "begin": 581,
+      "end": 629
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "45%",
+      "begin": 719,
+      "end": 722
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 560,
+      "end": 580
+    },
+    "eventDescription": {
+      "text": "lowest proportion of assessed settlements in which this was reported",
+      "begin": 640,
+      "end": 708
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "108,546",
+      "begin": 50,
+      "end": 57
+    },
+    "unit": {
+      "text": "people",
+      "begin": 58,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "FDMN/Rohingya camps were reached with COVID-19 messages",
+      "begin": 72,
+      "end": 127
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "40,095",
+      "begin": 136,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "FDMN/Rohingya camps were reached with COVID-19 messages",
+      "begin": 72,
+      "end": 127
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "neighbourhood-based sessions",
+      "begin": 143,
+      "end": 171
+    }
+  },
+  {
+    "quantity": {
+      "text": "27,869",
+      "begin": 173,
+      "end": 179
+    },
+    "unit": {
+      "text": "people",
+      "begin": 180,
+      "end": 186
+    },
+    "eventDescription": {
+      "text": "were consulted",
+      "begin": 187,
+      "end": 201
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10,831",
+      "begin": 235,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "were consulted",
+      "begin": 187,
+      "end": 201
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "community meetings",
+      "begin": 242,
+      "end": 260
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,521",
+      "begin": 262,
+      "end": 267
+    },
+    "unit": {
+      "text": "listener group sessions",
+      "begin": 268,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "organized",
+      "begin": 297,
+      "end": 306
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "9,064",
+      "begin": 311,
+      "end": 316
+    },
+    "eventDescription": {
+      "text": "organized",
+      "begin": 297,
+      "end": 306
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people;",
+      "begin": 317,
+      "end": 324
+    }
+  },
+  {
+    "quantity": {
+      "text": "347",
+      "begin": 329,
+      "end": 332
+    },
+    "unit": {
+      "text": "video/film show sessions",
+      "begin": 333,
+      "end": 357
+    },
+    "eventDescription": {
+      "text": "held",
+      "begin": 358,
+      "end": 362
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "8,748",
+      "begin": 405,
+      "end": 410
+    },
+    "unit": {
+      "text": "people",
+      "begin": 411,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 418,
+      "end": 430
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,716",
+      "begin": 439,
+      "end": 444
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 418,
+      "end": 430
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "community awareness session",
+      "begin": 445,
+      "end": 472
+    }
+  },
+  {
+    "quantity": {
+      "text": "Four",
+      "begin": 486,
+      "end": 490
+    },
+    "unit": {
+      "text": "information service centers",
+      "begin": 491,
+      "end": 518
+    },
+    "eventDescription": {
+      "text": "continue to receive community’s feedback and complains",
+      "begin": 519,
+      "end": 573
+    },
+    "eventType": "EventO"
+  }
+]

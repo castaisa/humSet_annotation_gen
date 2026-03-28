@@ -1,0 +1,230 @@
+[
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 153,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "UNICEF installed",
+      "begin": 136,
+      "end": 152
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "additional water filters",
+      "begin": 157,
+      "end": 181
+    }
+  },
+  {
+    "quantity": {
+      "text": "24/7",
+      "begin": 285,
+      "end": 289
+    },
+    "unit": {
+      "text": "toilet facilities open",
+      "begin": 262,
+      "end": 284
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 455,
+      "end": 458
+    },
+    "eventDescription": {
+      "text": "rehabilitation",
+      "begin": 433,
+      "end": 447
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sets of toilet facilities",
+      "begin": 459,
+      "end": 484
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,330",
+      "begin": 644,
+      "end": 649
+    },
+    "unit": {
+      "text": "people",
+      "begin": 650,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "begin": 657,
+      "end": 693
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 701,
+      "end": 706
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "begin": 657,
+      "end": 693
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "border points",
+      "begin": 707,
+      "end": 720
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,915",
+      "begin": 732,
+      "end": 737
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "begin": 657,
+      "end": 693
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 738,
+      "end": 743
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,961",
+      "begin": 745,
+      "end": 750
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "begin": 657,
+      "end": 693
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 751,
+      "end": 754
+    }
+  },
+  {
+    "quantity": {
+      "text": "769",
+      "begin": 756,
+      "end": 759
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "begin": 657,
+      "end": 693
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 760,
+      "end": 765
+    }
+  },
+  {
+    "quantity": {
+      "text": "685",
+      "begin": 770,
+      "end": 773
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "begin": 657,
+      "end": 693
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 774,
+      "end": 778
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,230",
+      "begin": 1020,
+      "end": 1025
+    },
+    "eventDescription": {
+      "text": "activities included the distribution",
+      "begin": 980,
+      "end": 1016
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "water containers and water purification tablets",
+      "begin": 1026,
+      "end": 1073
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,844",
+      "begin": 1087,
+      "end": 1092
+    },
+    "eventDescription": {
+      "text": "benefitting",
+      "begin": 1075,
+      "end": 1086
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 1093,
+      "end": 1099
+    }
+  },
+  {
+    "quantity": {
+      "text": "810",
+      "begin": 1151,
+      "end": 1154
+    },
+    "eventDescription": {
+      "text": "UNICEF received a donation",
+      "begin": 1121,
+      "end": 1147
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "family hygiene kits",
+      "begin": 1155,
+      "end": 1174
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 1209,
+      "end": 1214
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 1190,
+      "end": 1201
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "border points",
+      "begin": 1215,
+      "end": 1228
+    }
+  }
+]

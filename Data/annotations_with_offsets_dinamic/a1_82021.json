@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "54 percent",
+      "start": 245,
+      "end": 255
+    },
+    "unit": {
+      "text": "Venezuelan households",
+      "start": 259,
+      "end": 280
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration of hardest period for migrants",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 292,
+      "end": 295
+    },
+    "unit": {
+      "text": "months",
+      "start": 296,
+      "end": 302
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "having poor or limited access to food",
+      "start": 379,
+      "end": 416
+    },
+    "quantity": {
+      "text": "40 percent",
+      "start": 353,
+      "end": 363
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 367,
+      "end": 378
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecurity levels",
+      "start": 442,
+      "end": 464
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 471,
+      "end": 481
+    },
+    "unit": {
+      "text": "pendular migrants",
+      "start": 486,
+      "end": 503
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "food insecurity levels",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "as high as",
+      "start": 508,
+      "end": 518
+    },
+    "quantity": {
+      "text": "80 percent",
+      "start": 519,
+      "end": 529
+    },
+    "unit": {
+      "text": "people in transit",
+      "start": 534,
+      "end": 551
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "using negative strategies to cope",
+      "start": 583,
+      "end": 616
+    },
+    "quantity": {
+      "text": "55 percent",
+      "start": 553,
+      "end": 563
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 567,
+      "end": 578
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "report having begged on the streets",
+      "start": 662,
+      "end": 697
+    },
+    "quantity": {
+      "text": "half",
+      "start": 641,
+      "end": 645
+    },
+    "unit": {
+      "text": "surveyed",
+      "start": 653,
+      "end": 661
+    }
+  }
+]

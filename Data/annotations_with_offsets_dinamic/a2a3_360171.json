@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "detained",
+      "start": 56,
+      "end": 64
+    },
+    "quantity": {
+      "text": "15",
+      "start": 34,
+      "end": 36
+    },
+    "unit": {
+      "text": "Rohingya",
+      "start": 42,
+      "end": 50
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returned",
+      "start": 105,
+      "end": 113
+    },
+    "quantity": {
+      "text": "three",
+      "start": 163,
+      "end": 168
+    },
+    "unit": {
+      "text": "Rohingya",
+      "start": 169,
+      "end": 177
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returned",
+      "start": 222,
+      "end": 230
+    },
+    "quantity": {
+      "text": "two",
+      "start": 189,
+      "end": 192
+    },
+    "unit": {
+      "text": "women",
+      "start": 193,
+      "end": 198
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "detected",
+      "start": 337,
+      "end": 345
+    },
+    "quantity": {
+      "text": "40- year-old",
+      "start": 316,
+      "end": 328
+    },
+    "unit": {
+      "text": "man",
+      "start": 329,
+      "end": 332
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "detained",
+      "start": 420,
+      "end": 428
+    },
+    "quantity": {
+      "text": "ten",
+      "start": 402,
+      "end": 405
+    },
+    "unit": {
+      "text": "Rohingya",
+      "start": 406,
+      "end": 414
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "detained",
+      "start": 578,
+      "end": 586
+    },
+    "quantity": {
+      "text": "15-year-old",
+      "start": 549,
+      "end": 560
+    },
+    "unit": {
+      "text": "Rohingya boy",
+      "start": 561,
+      "end": 573
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 98,
+      "end": 100
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 101,
+      "end": 107
+    }
+  },
+  {
+    "quantity": {
+      "text": "137",
+      "begin": 241,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "rise in the number of acute watery diarrhea (AWD) and cholera cases",
+      "begin": 163,
+      "end": 230
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 245,
+      "end": 250
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 261,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "rise in the number of acute watery diarrhea (AWD) and cholera cases",
+      "begin": 163,
+      "end": 230
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 264,
+      "end": 270
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 278,
+      "end": 282
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 283,
+      "end": 287
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 329,
+      "end": 331
+    },
+    "unit": {
+      "text": "cumulative cases",
+      "begin": 332,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 362,
+      "end": 370
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 353,
+      "end": 354
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 355,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 362,
+      "end": 370
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 402,
+      "end": 404
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 395,
+      "end": 400
+    },
+    "eventDescription": {
+      "text": "are still in admission",
+      "begin": 405,
+      "end": 427
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "91",
+      "begin": 434,
+      "end": 436
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 437,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "discharged",
+      "begin": 453,
+      "end": 463
+    },
+    "eventType": "EventP"
+  }
+]

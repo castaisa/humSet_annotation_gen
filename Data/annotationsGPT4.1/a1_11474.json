@@ -1,0 +1,71 @@
+[
+  {
+    "quantity": "35",
+    "unit": "houses",
+    "eventType": "EventO",
+    "eventDescription": "destroyed"
+  },
+  {
+    "quantity": "15",
+    "unit": "small boats",
+    "eventType": "EventO",
+    "eventDescription": "destroyed"
+  },
+  {
+    "quantity": "56",
+    "unit": "camels",
+    "eventType": "EventO",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "1,260",
+    "unit": "goats and sheep",
+    "eventType": "EventO",
+    "eventDescription": "died",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "19",
+    "unit": "donkeys",
+    "eventType": "EventO",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "220",
+    "unit": "improvised shelters",
+    "eventType": "EventA",
+    "eventDescription": "washed away",
+    "modifier": "an estimated"
+  },
+  {
+    "quantity": "30",
+    "unit": "boats",
+    "eventType": "EventO",
+    "eventDescription": "destroyed"
+  },
+  {
+    "quantity": "20",
+    "unit": "small boats",
+    "eventType": "EventO",
+    "eventDescription": "destroyed"
+  },
+  {
+    "quantity": "Two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "one",
+    "unit": "injury",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "40",
+    "unit": "km",
+    "eventType": "EventO",
+    "eventDescription": "distance south of Bossaso",
+    "modifier": "approximately"
+  }
+]

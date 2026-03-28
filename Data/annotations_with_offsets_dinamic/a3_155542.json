@@ -1,0 +1,470 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported among Rohingya/FDMN",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "78",
+      "start": 33,
+      "end": 35
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": 36,
+      "end": 50
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 1E",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 91,
+      "end": 94
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 1W",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 107,
+      "end": 110
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 2E",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 123,
+      "end": 127
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 2W",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 140,
+      "end": 145
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 3",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "ten",
+      "start": 158,
+      "end": 161
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 4",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 172,
+      "end": 175
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 5",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 187,
+      "end": 190
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 6",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "ten",
+      "start": 202,
+      "end": 205
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 7",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 217,
+      "end": 221
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 8E",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 233,
+      "end": 236
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 8W",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 249,
+      "end": 252
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 9",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 265,
+      "end": 268
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 10",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 280,
+      "end": 283
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 11",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 296,
+      "end": 299
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 12",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 312,
+      "end": 315
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 14",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 328,
+      "end": 331
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 17",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 344,
+      "end": 347
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 18",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 360,
+      "end": 363
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 21",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 376,
+      "end": 379
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 22",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 392,
+      "end": 395
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 24",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 408,
+      "end": 413
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 25",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 426,
+      "end": 429
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Camp 27",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 441,
+      "end": 444
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Kutupalong RC",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 457,
+      "end": 462
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in Nayapara RC",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 484,
+      "end": 488
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": null,
+      "end": null
+    }
+  }
+]

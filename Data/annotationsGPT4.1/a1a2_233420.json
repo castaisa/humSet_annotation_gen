@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "111,500",
+    "unit": "metric tons of food items",
+    "eventType": "EventA",
+    "eventDescription": "pre-positioned",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "60 per cent",
+    "unit": "of the planned deliveries",
+    "eventType": "EventA",
+    "eventDescription": "pre-positioned"
+  }
+]

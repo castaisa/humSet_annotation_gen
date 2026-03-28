@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2.7 million",
+      "start": 483,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "compelled to rely on urgent humanitarian assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 506,
+      "end": 512
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "75",
+      "start": 649,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "time taken to reach 5,000 cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 652,
+      "end": 656
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5,000",
+      "start": 666,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "COVID-19 cases reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 672,
+      "end": 677
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30",
+      "start": 687,
+      "end": 689
+    },
+    "eventDescription": {
+      "text": "time taken to reach a caseload of 16,000",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 690,
+      "end": 694
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16,000",
+      "start": 718,
+      "end": 724
+    },
+    "eventDescription": {
+      "text": "COVID-19 caseload reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "caseload",
+      "start": 706,
+      "end": 714
+    }
+  }
+]

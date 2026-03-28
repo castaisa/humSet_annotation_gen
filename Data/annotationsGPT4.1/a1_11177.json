@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "approximately 50",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "displaced",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "four",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "civilian impact incidents"
+  },
+  {
+    "quantity": "two",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "civilian impact incidents"
+  },
+  {
+    "quantity": "three",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  }
+]

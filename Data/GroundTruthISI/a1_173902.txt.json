@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 421,
+      "end": 423
+    },
+    "unit": {
+      "text": "children",
+      "begin": 424,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "formerly associated with armed groups",
+      "begin": 459,
+      "end": 496
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 434,
+      "end": 437
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 438,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "formerly associated with armed groups",
+      "begin": 459,
+      "end": 496
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 448,
+      "end": 452
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 453,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "formerly associated with armed groups",
+      "begin": 459,
+      "end": 496
+    },
+    "eventType": "EventO"
+  }
+]

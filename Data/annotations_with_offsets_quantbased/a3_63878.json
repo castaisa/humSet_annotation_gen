@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70 per cent",
+      "start": 80,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "living in informal settlements",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the urban population",
+      "start": 92,
+      "end": 115
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10-day",
+      "start": 349,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "duration of visit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "visit",
+      "start": 356,
+      "end": 361
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "22 million",
+      "start": 551,
+      "end": 561
+    },
+    "eventDescription": {
+      "text": "housing deficit",
+      "start": 532,
+      "end": 547
+    },
+    "unit": {
+      "text": "units",
+      "start": 562,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "130 million",
+      "start": 573,
+      "end": 584
+    },
+    "eventDescription": {
+      "text": "lacking access to adequate sanitation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 585,
+      "end": 591
+    }
+  }
+]

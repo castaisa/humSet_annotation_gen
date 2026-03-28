@@ -1,0 +1,69 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "adopting consumption-based coping strategies",
+      "start": 206,
+      "end": 250
+    },
+    "quantity": {
+      "text": "80 percent",
+      "start": 123,
+      "end": 133
+    },
+    "unit": {
+      "text": "of Rohingya households",
+      "start": 134,
+      "end": 156
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "adopting consumption-based coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40 percent",
+      "start": 161,
+      "end": 171
+    },
+    "unit": {
+      "text": "of host community households",
+      "start": 172,
+      "end": 200
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "relying on less preferred foods",
+      "start": 355,
+      "end": 386
+    },
+    "quantity": {
+      "text": "7 percent",
+      "start": 300,
+      "end": 309
+    },
+    "unit": {
+      "text": "increase in the share of Rohingya households",
+      "start": 310,
+      "end": 354
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Trends in the adoption of different consumption-based coping strategies",
+      "start": 469,
+      "end": 540
+    },
+    "quantity": {
+      "text": "19",
+      "start": 466,
+      "end": 468
+    }
+  }
+]

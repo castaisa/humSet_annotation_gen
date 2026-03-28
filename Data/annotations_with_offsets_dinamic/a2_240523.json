@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "negative economic growth rate in the second quarter",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6.10 percent",
+      "start": 115,
+      "end": 127
+    },
+    "unit": {
+      "text": "growth rate",
+      "start": 100,
+      "end": 111
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "negative economic growth rate in the third quarter",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.62 percent",
+      "start": 154,
+      "end": 166
+    },
+    "unit": {
+      "text": "growth rate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "food inflation rate in November 2020",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18.3 percent",
+      "start": 493,
+      "end": 505
+    },
+    "unit": {
+      "text": "food inflation rate",
+      "start": 419,
+      "end": 438
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "highest food inflation level in about three years",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 545,
+      "end": 550
+    },
+    "quantity": {
+      "text": "three",
+      "start": 551,
+      "end": 556
+    },
+    "unit": {
+      "text": "years",
+      "start": 557,
+      "end": 562
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "exchange rate in October 2020",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "461",
+      "start": 617,
+      "end": 620
+    },
+    "unit": {
+      "text": "NGN/US dollar",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "exchange rate in November 2020",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "482",
+      "start": 654,
+      "end": 657
+    },
+    "unit": {
+      "text": "NGN/US dollar",
+      "start": null,
+      "end": null
+    }
+  }
+]

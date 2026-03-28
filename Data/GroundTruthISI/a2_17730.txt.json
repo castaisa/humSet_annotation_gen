@@ -1,0 +1,210 @@
+[
+  {
+    "quantity": {
+      "text": "(29%",
+      "begin": 247,
+      "end": 251
+    },
+    "unit": {
+      "text": "casualties",
+      "begin": 189,
+      "end": 199
+    }
+  },
+  {
+    "quantity": {
+      "text": "12%",
+      "begin": 278,
+      "end": 281
+    },
+    "unit": {
+      "text": "casualties",
+      "begin": 189,
+      "end": 199
+    }
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 262,
+      "end": 265
+    },
+    "unit": {
+      "text": "casualties",
+      "begin": 189,
+      "end": 199
+    }
+  },
+  {
+    "quantity": {
+      "text": "9%",
+      "begin": 303,
+      "end": 305
+    },
+    "unit": {
+      "text": "casualties",
+      "begin": 189,
+      "end": 199
+    }
+  },
+  {
+    "quantity": {
+      "text": "(7%",
+      "begin": 328,
+      "end": 331
+    },
+    "unit": {
+      "text": "casualties",
+      "begin": 189,
+      "end": 199
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 213,
+      "end": 217
+    },
+    "unit": {
+      "text": "months",
+      "begin": 218,
+      "end": 224
+    }
+  },
+  {
+    "quantity": {
+      "text": "480",
+      "begin": 478,
+      "end": 481
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 468,
+      "end": 477
+    },
+    "unit": {
+      "text": "incidents",
+      "begin": 482,
+      "end": 491
+    }
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 567,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "airstrikes",
+      "begin": 555,
+      "end": 565
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 586,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "shelling",
+      "begin": 576,
+      "end": 584
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 622,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "landmines, IEDs and UXOs",
+      "begin": 596,
+      "end": 620
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4%",
+      "begin": 644,
+      "end": 646
+    },
+    "eventDescription": {
+      "text": "small arms fire",
+      "begin": 627,
+      "end": 642
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4%",
+      "begin": 661,
+      "end": 663
+    },
+    "eventDescription": {
+      "text": "snipers",
+      "begin": 652,
+      "end": 659
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one-third",
+      "begin": 734,
+      "end": 743
+    },
+    "unit": {
+      "text": "civilian casualties",
+      "begin": 751,
+      "end": 770
+    },
+    "eventDescription": {
+      "text": "monitored",
+      "begin": 771,
+      "end": 780
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 860,
+      "end": 862
+    },
+    "unit": {
+      "text": "incidents",
+      "begin": 866,
+      "end": 875
+    },
+    "eventDescription": {
+      "text": "struck health, education, water, food and other protected sites",
+      "begin": 876,
+      "end": 939
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 957,
+      "end": 959
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 947,
+      "end": 956
+    },
+    "eventDescription": {
+      "text": "struck civilians while in their vehicles",
+      "begin": 960,
+      "end": 1000
+    },
+    "eventType": "EventO"
+  }
+]

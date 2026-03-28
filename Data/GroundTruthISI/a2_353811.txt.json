@@ -1,0 +1,53 @@
+[
+  {
+    "quantity": {
+      "text": "18.2 percent",
+      "begin": 206,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "headline inflation is likely to increase",
+      "begin": 162,
+      "end": 202
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18.12 percent",
+      "begin": 244,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "headline inflation is likely to increase",
+      "begin": 162,
+      "end": 202
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 357,
+      "end": 359
+    },
+    "unit": {
+      "text": "year",
+      "begin": 360,
+      "end": 364
+    }
+  },
+  {
+    "quantity": {
+      "text": "24.15 percent",
+      "begin": 590,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "Food inflation is projected to rise",
+      "begin": 551,
+      "end": 586
+    },
+    "eventType": "EventO"
+  }
+]

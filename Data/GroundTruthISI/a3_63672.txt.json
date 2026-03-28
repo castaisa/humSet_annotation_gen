@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 95,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "death",
+      "begin": 86,
+      "end": 91
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "INGO staff member",
+      "begin": 99,
+      "end": 116
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 118,
+      "end": 123
+    },
+    "eventDescription": {
+      "text": "death",
+      "begin": 86,
+      "end": 91
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 124,
+      "end": 132
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 138,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "death",
+      "begin": 86,
+      "end": 91
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "female",
+      "begin": 142,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 175,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 154,
+      "end": 161
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 185,
+      "end": 193
+    }
+  }
+]

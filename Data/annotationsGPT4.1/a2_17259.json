@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "21",
+    "unit": "villages",
+    "eventType": "EventO",
+    "eventDescription": "locations where ICRC distributed spare parts"
+  },
+  {
+    "quantity": "97,191",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "people with increased access to safe water"
+  },
+  {
+    "quantity": "120",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "hospital beds available"
+  },
+  {
+    "quantity": "two",
+    "unit": "tents",
+    "eventType": "EventA",
+    "eventDescription": "tents installed for mass casualty ward and triage area"
+  },
+  {
+    "quantity": "two",
+    "unit": "air conditions",
+    "eventType": "EventA",
+    "eventDescription": "air conditions installed for OT Foyer Suit"
+  },
+  {
+    "quantity": "135",
+    "unit": "solar panels",
+    "eventType": "EventA",
+    "eventDescription": "solar panels installed"
+  },
+  {
+    "quantity": "310",
+    "unit": "watt each",
+    "eventType": "EventA",
+    "eventDescription": "power of each solar panel"
+  },
+  {
+    "quantity": "27,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people benefiting from the projects"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "four",
+      "start": 155,
+      "end": 159
+    },
+    "eventDescription": {
+      "text": "settled Venezuelan migrants",
+      "start": 184,
+      "end": 211
+    },
+    "unit": {
+      "text": "targeted communities",
+      "start": 160,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "45,381",
+      "start": 313,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "average impressions per post",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "impressions",
+      "start": 320,
+      "end": 331
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,583",
+      "start": 336,
+      "end": 341
+    },
+    "eventDescription": {
+      "text": "engagements per post",
+      "start": 342,
+      "end": 362
+    },
+    "unit": {
+      "text": "engagements",
+      "start": 342,
+      "end": 353
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "19,468",
+      "start": 645,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "total reach of webinar",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "reach",
+      "start": 636,
+      "end": 641
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16,800",
+      "start": 663,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "video views of webinar",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "video views",
+      "start": 670,
+      "end": 681
+    }
+  }
+]

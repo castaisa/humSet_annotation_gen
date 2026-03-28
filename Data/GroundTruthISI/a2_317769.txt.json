@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 44,
+      "end": 48
+    },
+    "eventDescription": {
+      "text": "HAG recorded the killing",
+      "begin": 16,
+      "end": 40
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "humanitarians",
+      "begin": 49,
+      "end": 62
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 66,
+      "end": 70
+    },
+    "eventDescription": {
+      "text": "HAG recorded the killing",
+      "begin": 16,
+      "end": 40
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "different incidents",
+      "begin": 71,
+      "end": 90
+    }
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 92,
+      "end": 95
+    },
+    "unit": {
+      "text": "NGO security guard",
+      "begin": 96,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 119,
+      "end": 125
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 199,
+      "end": 203
+    },
+    "unit": {
+      "text": "instances",
+      "begin": 204,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "targeted killings",
+      "begin": 219,
+      "end": 236
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 374,
+      "end": 377
+    },
+    "unit": {
+      "text": "DPS vehicles",
+      "begin": 378,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "attacked",
+      "begin": 395,
+      "end": 403
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 616,
+      "end": 620
+    },
+    "unit": {
+      "text": "escort personnel",
+      "begin": 621,
+      "end": 637
+    },
+    "eventDescription": {
+      "text": "subsequently shot by Taliban members",
+      "begin": 643,
+      "end": 679
+    },
+    "eventType": "EventP"
+  }
+]

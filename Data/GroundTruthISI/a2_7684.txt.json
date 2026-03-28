@@ -1,0 +1,105 @@
+[
+  {
+    "quantity": {
+      "text": "67%",
+      "begin": 3,
+      "end": 6
+    },
+    "unit": {
+      "text": "baladiyas IDPs",
+      "begin": 10,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "purchased food from the market as their main source of food",
+      "begin": 25,
+      "end": 84
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 214,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "proportion of IDPs obtaining food on credit was reported",
+      "begin": 151,
+      "end": 207
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 282,
+      "end": 285
+    },
+    "unit": {
+      "text": "baladiyas",
+      "begin": 289,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "main source of food was reported to be from charity or donations",
+      "begin": 303,
+      "end": 367
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 373,
+      "end": 374
+    },
+    "unit": {
+      "text": "baladiya",
+      "begin": 375,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "reporting family or friends as the main source of food",
+      "begin": 384,
+      "end": 438
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "94",
+      "begin": 490,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "Food was reported as too expensive",
+      "begin": 452,
+      "end": 486
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "assessed baladiyas",
+      "begin": 493,
+      "end": 511
+    }
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 552,
+      "end": 555
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 578,
+      "end": 586
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "baladiyas",
+      "begin": 559,
+      "end": 568
+    }
+  }
+]

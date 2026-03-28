@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "Three",
+      "begin": 32,
+      "end": 37
+    },
+    "unit": {
+      "text": "amendment bills",
+      "begin": 38,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "passed in parliament",
+      "begin": 59,
+      "end": 79
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 579,
+      "end": 584
+    },
+    "eventDescription": {
+      "text": "promulgate",
+      "begin": 568,
+      "end": 578
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "ordinances",
+      "begin": 585,
+      "end": 595
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "62",
+      "start": 55,
+      "end": 57
+    },
+    "eventDescription": {
+      "text": "indicates that domestic and community violence",
+      "start": 120,
+      "end": 166
+    },
+    "unit": {
+      "text": "health workers, caregivers and community leaders",
+      "start": 71,
+      "end": 119
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 168,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "said family separation is the most problem affecting the community",
+      "start": 170,
+      "end": 236
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "42",
+      "start": 238,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "indicates that lack of livelihood opportunities",
+      "start": 241,
+      "end": 288
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 290,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "indicates problems related to access to basic services – health as the problems affecting the community",
+      "start": 293,
+      "end": 396
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27",
+      "start": 398,
+      "end": 400
+    },
+    "eventDescription": {
+      "text": "said problems related to food and water as a basic needs are the problems affecting the community",
+      "start": 409,
+      "end": 506
+    },
+    "unit": {
+      "text": "persons",
+      "start": 401,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 508,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "indicates that problems related to education as the basic services are the problems",
+      "start": 517,
+      "end": 600
+    },
+    "unit": {
+      "text": "person",
+      "start": 510,
+      "end": 516
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 602,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "said security problems are the main problems affecting the community",
+      "start": 611,
+      "end": 679
+    },
+    "unit": {
+      "text": "people",
+      "start": 604,
+      "end": 610
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23",
+      "start": 686,
+      "end": 688
+    },
+    "eventDescription": {
+      "text": "said shelter problems are the most affecting the community",
+      "start": 696,
+      "end": 754
+    },
+    "unit": {
+      "text": "people",
+      "start": 689,
+      "end": 695
+    }
+  }
+]

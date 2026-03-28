@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "9.6%",
+      "begin": 470,
+      "end": 474
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9.9%",
+      "begin": 490,
+      "end": 494
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4.7%",
+      "begin": 558,
+      "end": 562
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15.8%",
+      "begin": 240,
+      "end": 245
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    }
+  },
+  {
+    "quantity": {
+      "text": "10.7%",
+      "begin": 295,
+      "end": 300
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    }
+  },
+  {
+    "quantity": {
+      "text": "14.0%",
+      "begin": 319,
+      "end": 324
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    }
+  },
+  {
+    "quantity": {
+      "text": "10.2%",
+      "begin": 342,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    }
+  },
+  {
+    "quantity": {
+      "text": "14.7",
+      "begin": 368,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    }
+  },
+  {
+    "quantity": {
+      "text": "8.8%",
+      "begin": 448,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 132,
+      "end": 161
+    }
+  },
+  {
+    "quantity": {
+      "text": "6.2%",
+      "begin": 626,
+      "end": 630
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 577,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 577,
+      "end": 606
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10%",
+      "begin": 661,
+      "end": 664
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 577,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 577,
+      "end": 606
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12.3%",
+      "begin": 696,
+      "end": 701
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "begin": 577,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "acute malnutrition prevalence",
+      "begin": 577,
+      "end": 606
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "one in four",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "unable to wash their hands in the prior four weeks after dirty activities"
+  },
+  {
+    "quantity": "23.0%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "unable to wash their hands in the prior four weeks after dirty activities"
+  },
+  {
+    "quantity": "23.6%",
+    "unit": "households with children",
+    "eventType": "EventP",
+    "eventDescription": "unable to wash their young children\u2019s hands and faces because of problems with water"
+  },
+  {
+    "quantity": "Over a third",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "unable to wash their bodies",
+    "modifier": "over"
+  },
+  {
+    "quantity": "33.7%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "unable to wash their bodies"
+  },
+  {
+    "quantity": "4.1%",
+    "unit": "sampled households in Honda, Colombia",
+    "eventType": "EventP",
+    "eventDescription": "unable to wash their bodies"
+  },
+  {
+    "quantity": "94.8%",
+    "unit": "households in Punjab, Pakistan",
+    "eventType": "EventP",
+    "eventDescription": "unable to wash their bodies"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 155,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "prioritized",
+      "begin": 143,
+      "end": 154
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "LGAs",
+      "begin": 161,
+      "end": 165
+    }
+  },
+  {
+    "quantity": {
+      "text": "49",
+      "begin": 170,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "prioritized",
+      "begin": 143,
+      "end": 154
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "camps",
+      "begin": 173,
+      "end": 178
+    }
+  },
+  {
+    "quantity": {
+      "text": "83,000",
+      "begin": 184,
+      "end": 190
+    },
+    "eventDescription": {
+      "text": "prioritized",
+      "begin": 143,
+      "end": 154
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 191,
+      "end": 201
+    }
+  }
+]

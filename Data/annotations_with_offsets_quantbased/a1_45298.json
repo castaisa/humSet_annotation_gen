@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "67%",
+      "start": 238,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "with high or very high needs",
+      "start": 242,
+      "end": 270
+    },
+    "unit": {
+      "text": "households",
+      "start": 199,
+      "end": 209
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "52%",
+      "start": 286,
+      "end": 289
+    },
+    "eventDescription": {
+      "text": "with high or very high needs",
+      "start": 290,
+      "end": 318
+    },
+    "unit": {
+      "text": "households",
+      "start": 360,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 23%",
+      "start": 556,
+      "end": 569
+    },
+    "eventDescription": {
+      "text": "had high protection needs",
+      "start": 584,
+      "end": 609
+    },
+    "unit": {
+      "text": "households",
+      "start": 573,
+      "end": 583
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 556,
+      "end": 565
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "94%",
+      "start": 664,
+      "end": 667
+    },
+    "eventDescription": {
+      "text": "reported killings/violence",
+      "start": 668,
+      "end": 694
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "start": 614,
+      "end": 653
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "57%",
+      "start": 696,
+      "end": 699
+    },
+    "eventDescription": {
+      "text": "reported destruction of property",
+      "start": 700,
+      "end": 732
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "start": 614,
+      "end": 653
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41%",
+      "start": 737,
+      "end": 740
+    },
+    "eventDescription": {
+      "text": "reported armed attacks",
+      "start": 741,
+      "end": 763
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "start": 614,
+      "end": 653
+    }
+  }
+]

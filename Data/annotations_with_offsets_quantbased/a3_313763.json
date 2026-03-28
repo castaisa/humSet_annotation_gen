@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "400",
+      "start": 87,
+      "end": 90
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": 91,
+      "end": 100
+    },
+    "unit": {
+      "text": "displaced people",
+      "start": 91,
+      "end": 107
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "150",
+      "start": 119,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "under-five children",
+      "start": 123,
+      "end": 142
+    },
+    "unit": {
+      "text": "under-five children",
+      "start": 123,
+      "end": 142
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "45",
+      "start": 147,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "pregnant women",
+      "start": 150,
+      "end": 164
+    },
+    "unit": {
+      "text": "pregnant women",
+      "start": 150,
+      "end": 164
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "at least 500m",
+      "start": 383,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "walk to find untreated open well water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "distance",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 383,
+      "end": 391
+    }
+  }
+]

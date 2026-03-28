@@ -1,0 +1,176 @@
+[
+  {
+    "quantity": {
+      "text": "40 per cent",
+      "begin": 58,
+      "end": 69
+    },
+    "unit": {
+      "text": "locations assessed (both camps/camp-like settings and host communities)",
+      "begin": 77,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "most people had access to handwashing stations with soap and water",
+      "begin": 150,
+      "end": 216
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36%",
+      "begin": 235,
+      "end": 238
+    },
+    "unit": {
+      "text": "locations assessed (both camps/camp-like settings and host communities)",
+      "begin": 77,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "increase from",
+      "begin": 221,
+      "end": 234
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "24 per cent",
+      "begin": 249,
+      "end": 260
+    },
+    "unit": {
+      "text": "locations",
+      "begin": 264,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "about half of the people had access to with water and soap",
+      "begin": 275,
+      "end": 333
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "29%",
+      "begin": 351,
+      "end": 354
+    },
+    "unit": {
+      "text": "locations",
+      "begin": 264,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "decrease from",
+      "begin": 337,
+      "end": 350
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 281,
+      "end": 285
+    },
+    "unit": {
+      "text": "people",
+      "begin": 293,
+      "end": 299
+    }
+  },
+  {
+    "quantity": {
+      "text": "16 per cent",
+      "begin": 360,
+      "end": 371
+    },
+    "unit": {
+      "text": "locations",
+      "begin": 379,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "only a few people had access",
+      "begin": 390,
+      "end": 418
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 436,
+      "end": 439
+    },
+    "unit": {
+      "text": "locations",
+      "begin": 379,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 422,
+      "end": 430
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16 per cent",
+      "begin": 448,
+      "end": 459
+    },
+    "unit": {
+      "text": "locations",
+      "begin": 467,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "everyone had access to handwashing stations filled with water and soap",
+      "begin": 478,
+      "end": 548
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 566,
+      "end": 569
+    },
+    "unit": {
+      "text": "locations",
+      "begin": 467,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 552,
+      "end": 560
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3 per cent",
+      "begin": 580,
+      "end": 590
+    },
+    "unit": {
+      "text": "locations",
+      "begin": 598,
+      "end": 607
+    },
+    "eventDescription": {
+      "text": "respondents stated that nobody in their community had access to water and soap",
+      "begin": 618,
+      "end": 696
+    },
+    "eventType": "EventO"
+  }
+]

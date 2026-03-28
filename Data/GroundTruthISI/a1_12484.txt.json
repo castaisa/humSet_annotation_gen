@@ -1,0 +1,143 @@
+[
+  {
+    "quantity": {
+      "text": "22.2 million",
+      "begin": 55,
+      "end": 67
+    },
+    "modifier": {
+      "text": "Some",
+      "begin": 50,
+      "end": 54
+    },
+    "unit": {
+      "text": "people",
+      "begin": 68,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "begin": 113,
+      "end": 147
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "75 per cent",
+      "begin": 77,
+      "end": 88
+    },
+    "unit": {
+      "text": "population",
+      "begin": 96,
+      "end": 106
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "begin": 113,
+      "end": 147
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "17.8 million",
+      "begin": 149,
+      "end": 161
+    },
+    "unit": {
+      "text": "people",
+      "begin": 162,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 173,
+      "end": 186
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8.4 million",
+      "begin": 191,
+      "end": 202
+    },
+    "unit": {
+      "text": "people",
+      "begin": 203,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "do not know how they will obtain their next meal",
+      "begin": 210,
+      "end": 258
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "183",
+      "begin": 603,
+      "end": 606
+    },
+    "modifier": {
+      "text": "some",
+      "begin": 598,
+      "end": 602
+    },
+    "unit": {
+      "text": "international and national partners",
+      "begin": 607,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "actively coordinating to deliver assistance",
+      "begin": 672,
+      "end": 715
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 771,
+      "end": 773
+    },
+    "eventDescription": {
+      "text": "actively coordinating to deliver assistance",
+      "begin": 672,
+      "end": 715
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "governorates",
+      "begin": 774,
+      "end": 786
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.6 million",
+      "begin": 822,
+      "end": 833
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 808,
+      "end": 816
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 817,
+      "end": 821
+    },
+    "unit": {
+      "text": "people",
+      "begin": 834,
+      "end": 840
+    }
+  }
+]

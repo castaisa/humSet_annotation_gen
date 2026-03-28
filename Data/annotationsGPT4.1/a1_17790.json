@@ -1,0 +1,66 @@
+[
+  {
+    "quantity": "17 per cent",
+    "unit": "of the population",
+    "eventType": "EventP",
+    "eventDescription": "analyzed will be in IPC Phase 4 (Emergency)"
+  },
+  {
+    "quantity": "about 5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "analyzed will be in IPC Phase 4 (Emergency)",
+    "modifier": "about"
+  },
+  {
+    "quantity": "36 per cent",
+    "unit": "of the population",
+    "eventType": "EventP",
+    "eventDescription": "will be in IPC Phase 3 (Crisis)"
+  },
+  {
+    "quantity": "about 10.8 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "will be in IPC Phase 3 (Crisis)",
+    "modifier": "about"
+  },
+  {
+    "quantity": "65,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in IPC Phase 5 (Catastrophe)"
+  },
+  {
+    "quantity": "53 per cent",
+    "unit": "of the total population",
+    "eventType": "EventP",
+    "eventDescription": "constitutes the affected population"
+  },
+  {
+    "quantity": "approximately 15.9 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "constitutes the affected population",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "about 20 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "may be in need of urgent action to save lives and livelihoods",
+    "modifier": "about"
+  },
+  {
+    "quantity": "240,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in IPC Phase 5 (Catastrophe)"
+  },
+  {
+    "quantity": "threefold",
+    "unit": "the ual number",
+    "eventType": "EventO",
+    "eventDescription": "increase compared to usual"
+  }
+]

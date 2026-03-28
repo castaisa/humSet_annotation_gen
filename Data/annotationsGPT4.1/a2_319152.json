@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "90 percent",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "infected with the virus",
+    "modifier": "can reach"
+  },
+  {
+    "quantity": "75",
+    "unit": "dentists",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "about 10",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "died due to Corona",
+    "modifier": "about"
+  }
+]

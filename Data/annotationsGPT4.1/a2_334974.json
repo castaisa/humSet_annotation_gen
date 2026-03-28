@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "32 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "faced challenges in accessing medical facilities"
+  },
+  {
+    "quantity": "six",
+    "unit": "percentage points",
+    "eventType": "EventO",
+    "eventDescription": "increase in challenges accessing medical facilities"
+  },
+  {
+    "quantity": "30 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "faced challenges in accessing medical facilities"
+  },
+  {
+    "quantity": "19 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "indicated difficulties in accessing hospitals"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of money as impediment to receiving healthcare services"
+  },
+  {
+    "quantity": "39 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported not being able to purchase necessary medicines"
+  },
+  {
+    "quantity": "81 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of financial resources as reason for not purchasing medicines"
+  },
+  {
+    "quantity": "18 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported shortage of medicines in pharmacies as reason for not purchasing medicines"
+  }
+]

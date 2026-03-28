@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "on average nearly $2.00",
+      "start": 165,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "increase in monthly food expenditure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "per household member",
+      "start": 194,
+      "end": 214
+    },
+    "modifier": {
+      "text": "on average",
+      "start": 165,
+      "end": 175
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "half",
+      "start": 681,
+      "end": 685
+    },
+    "eventDescription": {
+      "text": "reporting receipt of food assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "refugee households",
+      "start": 137,
+      "end": 155
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "three-quarters",
+      "start": 690,
+      "end": 704
+    },
+    "eventDescription": {
+      "text": "reporting receipt of food assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 592,
+      "end": 606
+    }
+  }
+]

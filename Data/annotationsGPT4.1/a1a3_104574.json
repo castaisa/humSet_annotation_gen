@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "20 percent",
+    "unit": "refugees and migrants from Venezuela",
+    "eventType": "EventP",
+    "eventDescription": "do not have regular access to water or soap"
+  },
+  {
+    "quantity": "84 percent",
+    "unit": "refugees and migrants from Venezuela",
+    "eventType": "EventP",
+    "eventDescription": "reported challenges in accessing sufficient food"
+  },
+  {
+    "quantity": "every third",
+    "unit": "child",
+    "eventType": "EventP",
+    "eventDescription": "goes to bed hungry"
+  },
+  {
+    "quantity": "over 40 per cent",
+    "unit": "surveyed families",
+    "eventType": "EventP",
+    "eventDescription": "forced to look for cheaper housing",
+    "modifier": "over"
+  },
+  {
+    "quantity": "28 percent",
+    "unit": "surveyed families",
+    "eventType": "EventP",
+    "eventDescription": "facing the risk of eviction"
+  },
+  {
+    "quantity": "6.4 percent",
+    "unit": "surveyed families",
+    "eventType": "EventP",
+    "eventDescription": "moving to shelters"
+  }
+]

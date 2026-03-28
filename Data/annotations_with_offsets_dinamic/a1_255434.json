@@ -1,0 +1,174 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": 132,
+      "end": 141
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 43,
+      "end": 52
+    },
+    "quantity": {
+      "text": "940,000",
+      "start": 53,
+      "end": 60
+    },
+    "unit": {
+      "text": "people",
+      "start": 61,
+      "end": 67
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": 217,
+      "end": 226
+    },
+    "quantity": {
+      "text": "194,000",
+      "start": 78,
+      "end": 85
+    },
+    "unit": {
+      "text": "women",
+      "start": 90,
+      "end": 95
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "566,000",
+      "start": 100,
+      "end": 107
+    },
+    "unit": {
+      "text": "children",
+      "start": 112,
+      "end": 120
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "already displaced",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2.7 million",
+      "start": 181,
+      "end": 192
+    },
+    "unit": {
+      "text": "people",
+      "start": 193,
+      "end": 199
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "living in the northwest",
+      "start": 255,
+      "end": 278
+    },
+    "quantity": {
+      "text": "four million",
+      "start": 235,
+      "end": 247
+    },
+    "unit": {
+      "text": "people",
+      "start": 248,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "require urgent humanitarian assistance",
+      "start": 292,
+      "end": 330
+    },
+    "quantity": {
+      "text": "2.8 million",
+      "start": 280,
+      "end": 291
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 715,
+      "end": 721
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 676,
+      "end": 684
+    },
+    "quantity": {
+      "text": "five",
+      "start": 685,
+      "end": 689
+    },
+    "unit": {
+      "text": "children",
+      "start": 375,
+      "end": 383
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 860,
+      "end": 866
+    },
+    "quantity": {
+      "text": "four-year-old",
+      "start": 754,
+      "end": 767
+    },
+    "unit": {
+      "text": "child",
+      "start": 450,
+      "end": 455
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 816,
+      "end": 819
+    },
+    "unit": {
+      "text": "aid workers",
+      "start": 820,
+      "end": 831
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "22 per cent",
+    "unit": "of the population in BAY states",
+    "eventType": "EventP",
+    "eventDescription": "estimated to be food insecure"
+  },
+  {
+    "quantity": "nine per cent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "increase compared to the projection made in 2018"
+  },
+  {
+    "quantity": "five",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "children under the age of five with acute malnutrition"
+  },
+  {
+    "quantity": "a third",
+    "unit": "of the population targeted for assistance",
+    "eventType": "EventP",
+    "eventDescription": "reached by humanitarian partners"
+  }
+]

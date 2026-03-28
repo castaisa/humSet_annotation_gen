@@ -1,0 +1,100 @@
+[
+  {
+    "quantity": "3,364",
+    "unit": "health care sector personnel",
+    "eventType": "EventP",
+    "eventDescription": "still arrested/ detained or forcibly disappeared",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "3,329",
+    "unit": "health care sector personnel",
+    "eventType": "EventP",
+    "eventDescription": "arrested/ detained or forcibly disappeared by Syrian regime forces"
+  },
+  {
+    "quantity": "99%",
+    "unit": "arrests and enforced disappearances",
+    "eventType": "EventP",
+    "eventDescription": "responsibility of Syrian regime"
+  },
+  {
+    "quantity": "744",
+    "unit": "arrests/detention",
+    "eventType": "EventP",
+    "eventDescription": "in Damascus"
+  },
+  {
+    "quantity": "387",
+    "unit": "arrests/detention",
+    "eventType": "EventP",
+    "eventDescription": "in Rural Damascus"
+  },
+  {
+    "quantity": "373",
+    "unit": "arrests/detention",
+    "eventType": "EventP",
+    "eventDescription": "in Aleppo"
+  },
+  {
+    "quantity": "288",
+    "unit": "arrests/detention",
+    "eventType": "EventP",
+    "eventDescription": "in Hama"
+  },
+  {
+    "quantity": "257",
+    "unit": "arrests/detention",
+    "eventType": "EventP",
+    "eventDescription": "in Dara"
+  },
+  {
+    "quantity": "647",
+    "unit": "civilian trained in first aid",
+    "eventType": "EventP",
+    "eventDescription": "arrested or detained"
+  },
+  {
+    "quantity": "643",
+    "unit": "nurse",
+    "eventType": "EventP",
+    "eventDescription": "arrested or detained"
+  },
+  {
+    "quantity": "436",
+    "unit": "doctor",
+    "eventType": "EventP",
+    "eventDescription": "arrested or detained"
+  },
+  {
+    "quantity": "426",
+    "unit": "health technician",
+    "eventType": "EventP",
+    "eventDescription": "arrested or detained"
+  },
+  {
+    "quantity": "421",
+    "unit": "paramedic",
+    "eventType": "EventP",
+    "eventDescription": "arrested or detained"
+  },
+  {
+    "quantity": "about a quarter",
+    "unit": "arrests/detentions",
+    "eventType": "EventP",
+    "eventDescription": "took place while working in medical facilities",
+    "modifier": "about"
+  },
+  {
+    "quantity": "56",
+    "unit": "health care sector personnel",
+    "eventType": "EventP",
+    "eventDescription": "arrested by Syrian regime forces in 2020"
+  },
+  {
+    "quantity": "28",
+    "unit": "health care sector personnel",
+    "eventType": "EventP",
+    "eventDescription": "arrested by Syrian regime forces in 2021"
+  }
+]

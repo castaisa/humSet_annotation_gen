@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "actions continued",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 21,
+      "end": 25
+    },
+    "unit": {
+      "text": "regions",
+      "start": 26,
+      "end": 33
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "opened",
+      "start": 413,
+      "end": 419
+    },
+    "quantity": {
+      "text": "338",
+      "start": 297,
+      "end": 300
+    },
+    "unit": {
+      "text": "safe spaces",
+      "start": 191,
+      "end": 202
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "opened in the East",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "194",
+      "start": 315,
+      "end": 318
+    },
+    "unit": {
+      "text": "safe spaces",
+      "start": 301,
+      "end": 312
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "opened in the Sahel",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34",
+      "start": 332,
+      "end": 334
+    },
+    "unit": {
+      "text": "safe spaces",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "opened in the Boucle du Mouhoun",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "100",
+      "start": 349,
+      "end": 352
+    },
+    "unit": {
+      "text": "safe spaces",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "opened in the Center North",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 383,
+      "end": 385
+    },
+    "unit": {
+      "text": "safe spaces",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefited",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8,725",
+      "start": 431,
+      "end": 436
+    },
+    "unit": {
+      "text": "adolescents",
+      "start": 437,
+      "end": 448
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefited",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6,797",
+      "start": 450,
+      "end": 455
+    },
+    "unit": {
+      "text": "girls",
+      "start": 456,
+      "end": 461
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefited",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,928",
+      "start": 466,
+      "end": 471
+    },
+    "unit": {
+      "text": "boys",
+      "start": 472,
+      "end": 476
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": 613,
+      "end": 620
+    },
+    "quantity": {
+      "text": "22",
+      "start": 490,
+      "end": 492
+    },
+    "unit": {
+      "text": "actors",
+      "start": 493,
+      "end": 499
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "established",
+      "start": 888,
+      "end": 899
+    },
+    "quantity": {
+      "text": "32",
+      "start": 873,
+      "end": 875
+    },
+    "unit": {
+      "text": "spaces",
+      "start": 876,
+      "end": 882
+    }
+  }
+]

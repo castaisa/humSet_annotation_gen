@@ -1,0 +1,28 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30",
+      "start": 433,
+      "end": 435
+    },
+    "eventDescription": {
+      "text": "figure reference",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "37",
+      "start": 688,
+      "end": 690
+    },
+    "eventDescription": {
+      "text": "footnote or reference",
+      "start": null,
+      "end": null
+    }
+  }
+]

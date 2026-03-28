@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "tenth",
+      "begin": 41,
+      "end": 46
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 26,
+      "end": 36
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "case",
+      "begin": 47,
+      "end": 51
+    }
+  },
+  {
+    "quantity": {
+      "text": "18:00",
+      "begin": 577,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "Closure of restaurants, bars and entertainment spots",
+      "begin": 518,
+      "end": 570
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "hours",
+      "begin": 583,
+      "end": 588
+    }
+  },
+  {
+    "quantity": {
+      "text": "16:00",
+      "begin": 617,
+      "end": 622
+    },
+    "eventDescription": {
+      "text": "closure of stores",
+      "begin": 593,
+      "end": 610
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "hours",
+      "begin": 623,
+      "end": 628
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 674,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "Prohibition of the gathering",
+      "begin": 632,
+      "end": 660
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "more than",
+      "begin": 664,
+      "end": 673
+    },
+    "unit": {
+      "text": "people",
+      "begin": 677,
+      "end": 683
+    }
+  }
+]

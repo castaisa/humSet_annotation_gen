@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "111,500",
+      "start": 304,
+      "end": 311
+    },
+    "eventDescription": {
+      "text": "pre-positioned",
+      "start": 279,
+      "end": 293
+    },
+    "unit": {
+      "text": "metric tons of food items",
+      "start": 312,
+      "end": 337
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 294,
+      "end": 303
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "60 per cent",
+      "start": 346,
+      "end": 357
+    },
+    "eventDescription": {
+      "text": "pre-positioned",
+      "start": 279,
+      "end": 293
+    },
+    "unit": {
+      "text": "of the planned deliveries",
+      "start": 358,
+      "end": 383
+    }
+  }
+]

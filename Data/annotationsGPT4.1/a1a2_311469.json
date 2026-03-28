@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "93,000",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "targeted"
+  },
+  {
+    "quantity": "203, 198",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  },
+  {
+    "quantity": "4%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "reached by shelter interventions"
+  },
+  {
+    "quantity": "2%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "reached by CRI interventions"
+  },
+  {
+    "quantity": "3,031",
+    "unit": "emergency shelters",
+    "eventType": "EventA",
+    "eventDescription": "built"
+  }
+]

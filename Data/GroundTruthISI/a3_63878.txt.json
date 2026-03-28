@@ -1,0 +1,73 @@
+[
+  {
+    "quantity": {
+      "text": "70 per cent",
+      "begin": 80,
+      "end": 91
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 73,
+      "end": 79
+    },
+    "unit": {
+      "text": "urban population",
+      "begin": 99,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "live without access to even the most basic services like running water and toilets.",
+      "begin": 117,
+      "end": 200
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 349,
+      "end": 351
+    },
+    "unit": {
+      "text": "day visit",
+      "begin": 352,
+      "end": 361
+    }
+  },
+  {
+    "quantity": {
+      "text": "22 million",
+      "begin": 551,
+      "end": 561
+    },
+    "unit": {
+      "text": "units",
+      "begin": 562,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "lack access to adequate sanitation",
+      "begin": 592,
+      "end": 626
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "130 million",
+      "begin": 573,
+      "end": 584
+    },
+    "unit": {
+      "text": "people",
+      "begin": 585,
+      "end": 591
+    },
+    "eventDescription": {
+      "text": "lack access to adequate sanitation",
+      "begin": 592,
+      "end": 626
+    },
+    "eventType": "EventO"
+  }
+]

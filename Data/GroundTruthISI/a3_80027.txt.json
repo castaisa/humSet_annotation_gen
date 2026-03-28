@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 86,
+      "end": 88
+    },
+    "unit": {
+      "text": "States and the FCT",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "begin": 114,
+      "end": 168
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Sixteen",
+      "begin": 77,
+      "end": 84
+    },
+    "unit": {
+      "text": "States and the FCT",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "begin": 114,
+      "end": 168
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "thirteen (13) out of the Sixteen (16)",
+      "begin": 52,
+      "end": 89
+    },
+    "unit": {
+      "text": "States and the FCT",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "begin": 114,
+      "end": 168
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 62,
+      "end": 64
+    },
+    "unit": {
+      "text": "States and the FCT",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "begin": 114,
+      "end": 168
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "thirteen",
+      "begin": 52,
+      "end": 60
+    },
+    "unit": {
+      "text": "States and the FCT",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "begin": 114,
+      "end": 168
+    },
+    "eventType": "EventO"
+  }
+]

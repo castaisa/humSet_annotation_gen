@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "women employed at hospitals",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "56 per cent",
+      "start": 272,
+      "end": 283
+    },
+    "unit": {
+      "text": "employees at hospitals",
+      "start": 287,
+      "end": 309
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "hospitals not operational",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "17.5 per cent",
+      "start": 493,
+      "end": 506
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": 510,
+      "end": 519
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "primary health care facilities not operational",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20 per cent",
+      "start": 521,
+      "end": 532
+    },
+    "unit": {
+      "text": "primary health care facilities",
+      "start": 536,
+      "end": 566
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "other health facilities not operational",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eight per cent",
+      "start": 571,
+      "end": 585
+    },
+    "unit": {
+      "text": "other health facilities",
+      "start": 589,
+      "end": 612
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "health facilities with mental health and family planning services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one per cent",
+      "start": 906,
+      "end": 918
+    },
+    "unit": {
+      "text": "all health facilities",
+      "start": 922,
+      "end": 943
+    }
+  }
+]

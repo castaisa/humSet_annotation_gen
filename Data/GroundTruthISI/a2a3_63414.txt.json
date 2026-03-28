@@ -1,0 +1,309 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 173,
+      "end": 176
+    },
+    "unit": {
+      "text": "day",
+      "begin": 177,
+      "end": 180
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 195,
+      "end": 198
+    },
+    "unit": {
+      "text": "day",
+      "begin": 199,
+      "end": 202
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 212,
+      "end": 215
+    },
+    "unit": {
+      "text": "day",
+      "begin": 216,
+      "end": 219
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 360,
+      "end": 365
+    },
+    "unit": {
+      "text": "‘Jornadas’",
+      "begin": 366,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 377,
+      "end": 384
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "3,519",
+      "begin": 385,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 377,
+      "end": 384
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "participants",
+      "begin": 391,
+      "end": 403
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,081",
+      "begin": 415,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 377,
+      "end": 384
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 421,
+      "end": 429
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,078",
+      "begin": 431,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 377,
+      "end": 384
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 437,
+      "end": 445
+    }
+  },
+  {
+    "quantity": {
+      "text": "141",
+      "begin": 484,
+      "end": 487
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 377,
+      "end": 384
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 488,
+      "end": 496
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 547,
+      "end": 552
+    },
+    "unit": {
+      "text": "Jornadas",
+      "begin": 554,
+      "end": 562
+    }
+  },
+  {
+    "quantity": {
+      "text": "59",
+      "begin": 599,
+      "end": 601
+    },
+    "unit": {
+      "text": "activities",
+      "begin": 602,
+      "end": 612
+    }
+  },
+  {
+    "quantity": {
+      "text": "10,062",
+      "begin": 624,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "served",
+      "begin": 617,
+      "end": 623
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "beneficiaries",
+      "begin": 631,
+      "end": 644
+    }
+  },
+  {
+    "quantity": {
+      "text": "11,060",
+      "begin": 822,
+      "end": 828
+    },
+    "eventDescription": {
+      "text": "distribution",
+      "begin": 806,
+      "end": 818
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "water purification tablets",
+      "begin": 829,
+      "end": 855
+    }
+  },
+  {
+    "quantity": {
+      "text": "662",
+      "begin": 1277,
+      "end": 1280
+    },
+    "eventDescription": {
+      "text": "highest amount of malnutrition screenings carried out",
+      "begin": 1211,
+      "end": 1264
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 1268,
+      "end": 1271
+    },
+    "eventDescription": {
+      "text": "highest amount of malnutrition screenings carried out",
+      "begin": 1211,
+      "end": 1264
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "day",
+      "begin": 1272,
+      "end": 1275
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 1398,
+      "end": 1401
+    },
+    "eventDescription": {
+      "text": "issuance of birth certificates",
+      "begin": 1364,
+      "end": 1394
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "adults",
+      "begin": 1402,
+      "end": 1408
+    }
+  },
+  {
+    "quantity": {
+      "text": "310",
+      "begin": 1631,
+      "end": 1634
+    },
+    "unit": {
+      "text": "children",
+      "begin": 1635,
+      "end": 1643
+    },
+    "eventDescription": {
+      "text": "were benefitted from paediatric",
+      "begin": 1644,
+      "end": 1675
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "86",
+      "begin": 1677,
+      "end": 1679
+    },
+    "unit": {
+      "text": "children",
+      "begin": 1680,
+      "end": 1688
+    },
+    "eventDescription": {
+      "text": "received handwashing training",
+      "begin": 1689,
+      "end": 1718
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "78",
+      "begin": 1720,
+      "end": 1722
+    },
+    "unit": {
+      "text": "children",
+      "begin": 1723,
+      "end": 1731
+    },
+    "eventDescription": {
+      "text": "were registered and received birth certificate",
+      "begin": 1732,
+      "end": 1778
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "164",
+      "begin": 1784,
+      "end": 1787
+    },
+    "unit": {
+      "text": "families",
+      "begin": 1788,
+      "end": 1796
+    },
+    "eventDescription": {
+      "text": "received water purification tablets and training on how to use them",
+      "begin": 1797,
+      "end": 1864
+    },
+    "eventType": "EventA"
+  }
+]

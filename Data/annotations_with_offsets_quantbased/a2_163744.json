@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "75.1%",
+      "start": 24,
+      "end": 29
+    },
+    "eventDescription": {
+      "text": "proportion of confirmed cases in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of total confirmed cases",
+      "start": 30,
+      "end": 54
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16.6%",
+      "start": 74,
+      "end": 79
+    },
+    "eventDescription": {
+      "text": "proportion of confirmed cases in Jere LGA",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of total confirmed cases",
+      "start": 30,
+      "end": 54
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "88",
+      "start": 93,
+      "end": 95
+    },
+    "eventDescription": {
+      "text": "contacts being closely monitored in Borno State",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "contacts",
+      "start": 96,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "595",
+      "start": 152,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "households reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Households",
+      "start": 156,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,939",
+      "start": 172,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "persons reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "persons",
+      "start": 178,
+      "end": 185
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "45",
+      "start": 231,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "contacts monitored in Yobe State",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "contacts",
+      "start": 234,
+      "end": 242
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "116",
+      "start": 309,
+      "end": 312
+    },
+    "eventDescription": {
+      "text": "contacts being monitored in Adamawa State",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "contacts",
+      "start": 313,
+      "end": 321
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "164",
+      "start": 343,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "samples tested positive",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "samples",
+      "start": 360,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,306",
+      "start": 354,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "samples tested",
+      "start": 360,
+      "end": 374
+    },
+    "unit": {
+      "text": "samples",
+      "start": 360,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "12.6%",
+      "start": 417,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "positivity rate",
+      "start": 398,
+      "end": 413
+    },
+    "unit": {
+      "text": "positivity rate",
+      "start": 398,
+      "end": 413
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "38.4%",
+      "start": 430,
+      "end": 435
+    },
+    "eventDescription": {
+      "text": "proportion of confirmed cases that are known contacts",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of confirmed cases",
+      "start": 436,
+      "end": 454
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16.5%",
+      "start": 507,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "proportion of confirmed cases that are health workers in Adamawa State",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of confirmed cases",
+      "start": 513,
+      "end": 531
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five percent",
+      "start": 142,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "increase in ToT between wheat flour and wage labour",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3.8 kgs",
+      "start": 192,
+      "end": 199
+    },
+    "eventDescription": {
+      "text": "ToT between wheat flour and wage labour",
+      "start": 48,
+      "end": 87
+    },
+    "unit": {
+      "text": "wheat flour/non-skilled daily wage",
+      "start": 203,
+      "end": 237
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3.6 kgs",
+      "start": 250,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "ToT between wheat flour and wage labour",
+      "start": 48,
+      "end": 87
+    },
+    "unit": {
+      "text": "wheat flour",
+      "start": 261,
+      "end": 272
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five percent",
+      "start": 377,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "decrease in ToT compared to January 2021",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four percent",
+      "start": 397,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "decrease in ToT compared to July 2020",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3.8 kgs",
+      "start": 517,
+      "end": 524
+    },
+    "eventDescription": {
+      "text": "amount of wheat flour a non-skilled labourer could buy in July 2021",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "wheat flour",
+      "start": 528,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four kgs",
+      "start": 565,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "amount of wheat flour a non-skilled labourer could buy in January 2021",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "wheat flour",
+      "start": 528,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3.9 kgs",
+      "start": 595,
+      "end": 602
+    },
+    "eventDescription": {
+      "text": "amount of wheat flour a non-skilled labourer could buy in July 2020",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "wheat flour",
+      "start": 528,
+      "end": 539
+    }
+  }
+]

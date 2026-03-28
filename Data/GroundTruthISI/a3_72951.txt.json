@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "63,000",
+      "begin": 94,
+      "end": 100
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 84,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 106,
+      "end": 113
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "98,000",
+      "begin": 703,
+      "end": 709
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 693,
+      "end": 702
+    },
+    "unit": {
+      "text": "children",
+      "begin": 710,
+      "end": 718
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 724,
+      "end": 731
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": {
+      "text": "0/0",
+      "begin": 285,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "movement of cargo",
+      "begin": 70,
+      "end": 87
+    },
+    "eventType": "EventO"
+  }
+]

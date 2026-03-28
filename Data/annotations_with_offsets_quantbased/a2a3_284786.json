@@ -1,0 +1,95 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14 million",
+      "start": 275,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "start": 293,
+      "end": 327
+    },
+    "unit": {
+      "text": "people",
+      "start": 286,
+      "end": 292
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11.1 million",
+      "start": 368,
+      "end": 380
+    },
+    "eventDescription": {
+      "text": "prioritised to receive support",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 286,
+      "end": 292
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "US$1.1 billion",
+      "start": 419,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "required for humanitarian response",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7.6 million",
+      "start": 521,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "reached with some form of assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 533,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "48.6 per cent",
+      "start": 656,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "of requirements funded",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "$581m",
+      "start": 704,
+      "end": 709
+    },
+    "eventDescription": {
+      "text": "funding gap",
+      "start": null,
+      "end": null
+    }
+  }
+]

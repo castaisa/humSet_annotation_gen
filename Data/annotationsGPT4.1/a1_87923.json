@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "60 per cent",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "live in private rented accommodation"
+  },
+  {
+    "quantity": "2 per cent",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "increase in IDPs staying with host families"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "three",
+    "unit": "aid workers",
+    "eventType": "EventP",
+    "eventDescription": "reported funding cuts"
+  },
+  {
+    "quantity": "12",
+    "unit": "facilities",
+    "eventType": "EventA",
+    "eventDescription": "stopped supporting"
+  },
+  {
+    "quantity": "20",
+    "unit": "facilities",
+    "eventType": "EventA",
+    "eventDescription": "designated to treat Covid-19"
+  },
+  {
+    "quantity": "two",
+    "unit": "facilities",
+    "eventType": "EventA",
+    "eventDescription": "forced to shut"
+  },
+  {
+    "quantity": "six",
+    "unit": "facilities",
+    "eventType": "EventA",
+    "eventDescription": "left open"
+  }
+]

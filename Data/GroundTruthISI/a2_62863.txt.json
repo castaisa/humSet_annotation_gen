@@ -1,0 +1,77 @@
+[
+  {
+    "quantity": {
+      "text": "900",
+      "begin": 226,
+      "end": 229
+    },
+    "eventDescription": {
+      "text": "arbitrary arrests",
+      "begin": 230,
+      "end": 247
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "41",
+      "begin": 287,
+      "end": 289
+    },
+    "eventDescription": {
+      "text": "gunshot wounds",
+      "begin": 302,
+      "end": 316
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 290,
+      "end": 296
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 594,
+      "end": 596
+    },
+    "unit": {
+      "text": "people",
+      "begin": 597,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 609,
+      "end": 615
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "287",
+      "begin": 617,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "wounded",
+      "begin": 621,
+      "end": 628
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 664,
+      "end": 666
+    },
+    "eventDescription": {
+      "text": "detained",
+      "begin": 667,
+      "end": 675
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 244,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "houses",
+      "begin": 237,
+      "end": 243
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "adults",
+      "begin": 247,
+      "end": 253
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 258,
+      "end": 260
+    },
+    "eventDescription": {
+      "text": "houses",
+      "begin": 237,
+      "end": 243
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children",
+      "begin": 261,
+      "end": 269
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 407,
+      "end": 410
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 411,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "supported",
+      "begin": 434,
+      "end": 443
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 909,
+      "end": 914
+    },
+    "unit": {
+      "text": "locals",
+      "begin": 915,
+      "end": 921
+    }
+  }
+]

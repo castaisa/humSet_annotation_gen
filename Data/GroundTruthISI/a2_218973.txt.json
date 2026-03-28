@@ -1,0 +1,31 @@
+[
+  {
+    "quantity": {
+      "text": "12,000",
+      "begin": 908,
+      "end": 914
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 903,
+      "end": 907
+    },
+    "unit": {
+      "text": "settlements",
+      "begin": 915,
+      "end": 926
+    }
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 934,
+      "end": 936
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 937,
+      "end": 946
+    }
+  }
+]

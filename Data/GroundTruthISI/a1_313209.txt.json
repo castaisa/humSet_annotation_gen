@@ -1,0 +1,205 @@
+[
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 70,
+      "end": 72
+    },
+    "unit": {
+      "text": "cereal prices",
+      "begin": 38,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "declined",
+      "begin": 57,
+      "end": 65
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19 of the 42",
+      "begin": 77,
+      "end": 89
+    },
+    "unit": {
+      "text": "districts assessed",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "there was a decrease in the price of the main cereal consumed",
+      "begin": 110,
+      "end": 171
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 87,
+      "end": 89
+    },
+    "unit": {
+      "text": "districts assessed",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "there was a decrease in the price of the main cereal consumed",
+      "begin": 110,
+      "end": 171
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 77,
+      "end": 79
+    },
+    "unit": {
+      "text": "districts assessed",
+      "begin": 90,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "there was a decrease in the price of the main cereal consumed",
+      "begin": 110,
+      "end": 171
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 261,
+      "end": 263
+    },
+    "unit": {
+      "text": "districts",
+      "begin": 264,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "experienced an increase in prices",
+      "begin": 274,
+      "end": 307
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10%",
+      "begin": 338,
+      "end": 341
+    },
+    "unit": {
+      "text": "Price increases",
+      "begin": 309,
+      "end": 324
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 328,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 342,
+      "end": 355
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "59%",
+      "begin": 457,
+      "end": 460
+    },
+    "unit": {
+      "text": "largest price decreases",
+      "begin": 432,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 462,
+      "end": 475
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21%",
+      "begin": 531,
+      "end": 534
+    },
+    "unit": {
+      "text": "prices",
+      "begin": 502,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 518,
+      "end": 527
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18%",
+      "begin": 648,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "reported a significant decline",
+      "begin": 557,
+      "end": 587
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "prices",
+      "begin": 591,
+      "end": 597
+    }
+  },
+  {
+    "quantity": {
+      "text": "14%",
+      "begin": 653,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "reported a significant decline",
+      "begin": 557,
+      "end": 587
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "prices",
+      "begin": 591,
+      "end": 597
+    }
+  },
+  {
+    "quantity": {
+      "text": "12%",
+      "begin": 662,
+      "end": 665
+    },
+    "eventDescription": {
+      "text": "reported a significant decline",
+      "begin": 557,
+      "end": 587
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "prices",
+      "begin": 591,
+      "end": 597
+    }
+  }
+]

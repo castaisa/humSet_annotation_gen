@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "588,043",
+    "unit": "tons of wheat",
+    "eventType": "EventA",
+    "eventDescription": "imported"
+  },
+  {
+    "quantity": "227,471",
+    "unit": "tons of wheat",
+    "eventType": "EventA",
+    "eventDescription": "imported"
+  },
+  {
+    "quantity": "173,490",
+    "unit": "tons",
+    "eventType": "EventA",
+    "eventDescription": "imported"
+  },
+  {
+    "quantity": "31 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase"
+  },
+  {
+    "quantity": "thirty-six percent",
+    "unit": "stores in the North",
+    "eventType": "EventO",
+    "eventDescription": "had a stock coverage of less than two weeks"
+  },
+  {
+    "quantity": "two weeks",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "stock coverage"
+  },
+  {
+    "quantity": "18 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "national average"
+  }
+]

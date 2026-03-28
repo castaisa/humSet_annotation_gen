@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 242,
+      "end": 245
+    },
+    "unit": {
+      "text": "households",
+      "begin": 182,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "livestock as the main livelihood sources",
+      "begin": 249,
+      "end": 289
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "38%",
+      "begin": 171,
+      "end": 174
+    },
+    "unit": {
+      "text": "households",
+      "begin": 182,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "depend on crop production",
+      "begin": 212,
+      "end": 237
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8%",
+      "begin": 392,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "brewing and selling firewood",
+      "begin": 345,
+      "end": 373
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 402,
+      "end": 412
+    }
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 506,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "Food assistance in the form of donations",
+      "begin": 415,
+      "end": 455
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 516,
+      "end": 526
+    }
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 571,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "unting and gathering",
+      "begin": 534,
+      "end": 554
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 581,
+      "end": 591
+    }
+  }
+]

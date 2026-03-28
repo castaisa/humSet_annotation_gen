@@ -1,0 +1,378 @@
+[
+  {
+    "quantity": {
+      "text": "23.7%",
+      "begin": 144,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "overall weighted prevalence of global chronic malnutrition or Stunting per HAZ",
+      "begin": 34,
+      "end": 112
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children 6-59 months",
+      "begin": 119,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "20.4",
+      "begin": 151,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "overall weighted prevalence of global chronic malnutrition or Stunting per HAZ",
+      "begin": 34,
+      "end": 112
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "27.3",
+      "begin": 158,
+      "end": 162
+    },
+    "eventDescription": {
+      "text": "overall weighted prevalence of global chronic malnutrition or Stunting per HAZ",
+      "begin": 34,
+      "end": 112
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 128,
+      "end": 129
+    },
+    "unit": {
+      "text": "months",
+      "begin": 133,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "6-59",
+      "begin": 128,
+      "end": 132
+    },
+    "unit": {
+      "text": "months",
+      "begin": 133,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "59",
+      "begin": 130,
+      "end": 132
+    },
+    "unit": {
+      "text": "months",
+      "begin": 133,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 163,
+      "end": 166
+    },
+    "unit": {
+      "text": "C.I.",
+      "begin": 167,
+      "end": 171
+    }
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 201,
+      "end": 204
+    },
+    "unit": {
+      "text": "C.I.",
+      "begin": 205,
+      "end": 209
+    }
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 244,
+      "end": 247
+    },
+    "unit": {
+      "text": "C.I.",
+      "begin": 248,
+      "end": 252
+    }
+  },
+  {
+    "quantity": {
+      "text": "20.7%",
+      "begin": 182,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "are considered ‘High”",
+      "begin": 277,
+      "end": 298
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "25.6",
+      "begin": 196,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "are considered ‘High”",
+      "begin": 277,
+      "end": 298
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16.6",
+      "begin": 189,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "are considered ‘High”",
+      "begin": 277,
+      "end": 298
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "25.8%",
+      "begin": 225,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "are considered ‘High”",
+      "begin": 277,
+      "end": 298
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20.8",
+      "begin": 232,
+      "end": 236
+    },
+    "eventDescription": {
+      "text": "are considered ‘High”",
+      "begin": 277,
+      "end": 298
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "31.6",
+      "begin": 239,
+      "end": 243
+    },
+    "eventDescription": {
+      "text": "are considered ‘High”",
+      "begin": 277,
+      "end": 298
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3.0%",
+      "begin": 404,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1.9",
+      "begin": 410,
+      "end": 413
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4.8",
+      "begin": 416,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3.2%",
+      "begin": 450,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1.7",
+      "begin": 456,
+      "end": 459
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5.9",
+      "begin": 462,
+      "end": 465
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3.1%",
+      "begin": 490,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1.7",
+      "begin": 496,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5.4",
+      "begin": 502,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "overall weighted severe stunting prevalence",
+      "begin": 344,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 420,
+      "end": 423
+    },
+    "unit": {
+      "text": "C.I.",
+      "begin": 424,
+      "end": 428
+    }
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 466,
+      "end": 469
+    },
+    "unit": {
+      "text": "C.I.",
+      "begin": 470,
+      "end": 474
+    }
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 506,
+      "end": 509
+    },
+    "unit": {
+      "text": "C.I.",
+      "begin": 510,
+      "end": 514
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 641,
+      "end": 644
+    },
+    "unit": {
+      "text": "upazilas",
+      "begin": 645,
+      "end": 653
+    }
+  },
+  {
+    "quantity": {
+      "text": "0.05",
+      "begin": 657,
+      "end": 661
+    },
+    "unit": {
+      "text": "P",
+      "begin": 655,
+      "end": 656
+    },
+    "modifier": {
+      "text": ">",
+      "begin": 656,
+      "end": 657
+    }
+  }
+]

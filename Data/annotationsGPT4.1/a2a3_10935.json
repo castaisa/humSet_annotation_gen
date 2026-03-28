@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "78 per cent",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "increase in civilian impact incidents"
+  },
+  {
+    "quantity": "16",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "civilian impact incidents"
+  },
+  {
+    "quantity": "5-11",
+    "unit": "July",
+    "eventType": "EventO",
+    "eventDescription": "time period"
+  },
+  {
+    "quantity": "88 per cent",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "incidents recorded in At Tuhayat and Zabid districts"
+  },
+  {
+    "quantity": "59",
+    "unit": "civilian casualties",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties"
+  },
+  {
+    "quantity": "14,424",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households affected"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "incidents caused by airstrikes"
+  }
+]

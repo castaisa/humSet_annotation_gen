@@ -1,0 +1,34 @@
+[
+  {
+    "quantity": "178",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "ranked"
+  },
+  {
+    "quantity": "189",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "ranked"
+  },
+  {
+    "quantity": "at least 50 percent",
+    "unit": "of the population",
+    "eventType": "EventP",
+    "eventDescription": "estimated to be living in poverty",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "more than 90 percent",
+    "unit": "of food in Yemen",
+    "eventType": "EventA",
+    "eventDescription": "imported",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "1967",
+    "unit": "since",
+    "eventType": "EventO",
+    "eventDescription": "present in Yemen"
+  }
+]

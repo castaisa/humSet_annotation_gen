@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "27",
+    "unit": "health facilities",
+    "eventType": "EventA",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "14",
+    "unit": "health facilities",
+    "eventType": "EventA",
+    "eventDescription": "closed"
+  },
+  {
+    "quantity": "23",
+    "unit": "health facilities",
+    "eventType": "EventA",
+    "eventDescription": "at risk of closure"
+  },
+  {
+    "quantity": "ten",
+    "unit": "schools",
+    "eventType": "EventA",
+    "eventDescription": "reopened"
+  },
+  {
+    "quantity": "127,000",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "returned to school"
+  },
+  {
+    "quantity": "eight",
+    "unit": "schools",
+    "eventType": "EventA",
+    "eventDescription": "closed"
+  }
+]

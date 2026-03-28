@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "2,000",
+    "unit": "migrants and refugees",
+    "eventType": "EventP",
+    "eventDescription": "being detained in centres"
+  },
+  {
+    "quantity": "26 per cent",
+    "unit": "migrant and refugee children",
+    "eventType": "EventP",
+    "eventDescription": "children in need of protection assistance"
+  },
+  {
+    "quantity": "35 per cent",
+    "unit": "unaccompanied and separated children",
+    "eventType": "EventP",
+    "eventDescription": "migrant and refugee children who are unaccompanied and separated"
+  }
+]

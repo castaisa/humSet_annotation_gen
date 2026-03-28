@@ -1,0 +1,210 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "80%",
+      "start": 6,
+      "end": 9
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 26,
+      "end": 55
+    },
+    "unit": {
+      "text": "counties",
+      "start": 17,
+      "end": 25
+    },
+    "modifier": {
+      "text": "About",
+      "start": 0,
+      "end": 5
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17%",
+      "start": 104,
+      "end": 107
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 26,
+      "end": 55
+    },
+    "unit": {
+      "text": "counties",
+      "start": 144,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25",
+      "start": 141,
+      "end": 143
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 2 (Alert) and below",
+      "start": 185,
+      "end": 221
+    },
+    "unit": {
+      "text": "counties",
+      "start": 144,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "80%",
+      "start": 277,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 239,
+      "end": 268
+    },
+    "unit": {
+      "text": "counties",
+      "start": 230,
+      "end": 238
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 270,
+      "end": 276
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31%",
+      "start": 382,
+      "end": 385
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 239,
+      "end": 268
+    },
+    "unit": {
+      "text": "counties in Jonglei State",
+      "start": 355,
+      "end": 380
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31%",
+      "start": 406,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 239,
+      "end": 268
+    },
+    "unit": {
+      "text": "counties in Upper Nile State",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17%",
+      "start": 425,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 557,
+      "end": 586
+    },
+    "unit": {
+      "text": "counties in Unity State",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10%",
+      "start": 449,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 557,
+      "end": 586
+    },
+    "unit": {
+      "text": "counties in Warrap State",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 492,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 557,
+      "end": 586
+    },
+    "unit": {
+      "text": "counties in Eastern Equatoria State",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 528,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 557,
+      "end": 586
+    },
+    "unit": {
+      "text": "counties in Northern Bahr el Ghazal State",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 549,
+      "end": 551
+    },
+    "eventDescription": {
+      "text": "in IPC AMN Phase 4 (Critical)",
+      "start": 557,
+      "end": 586
+    },
+    "unit": {
+      "text": "counties in Lakes State",
+      "start": null,
+      "end": null
+    }
+  }
+]

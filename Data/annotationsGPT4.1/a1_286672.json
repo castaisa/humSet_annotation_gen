@@ -1,0 +1,75 @@
+[
+  {
+    "quantity": "11 per cent",
+    "unit": "wheat flour price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increased"
+  },
+  {
+    "quantity": "20 per cent",
+    "unit": "pulses price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increased"
+  },
+  {
+    "quantity": "18 per cent",
+    "unit": "sugar price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increased"
+  },
+  {
+    "quantity": "32 per cent",
+    "unit": "cooking oil price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increased"
+  },
+  {
+    "quantity": "20 per cent",
+    "unit": "rice price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increased"
+  },
+  {
+    "quantity": "over 10 per cent",
+    "unit": "purchasing power of casual labourers",
+    "eventType": "EventP",
+    "eventDescription": "purchasing power deteriorated",
+    "modifier": "over"
+  },
+  {
+    "quantity": "14 per cent",
+    "unit": "purchasing power of pastoralists",
+    "eventType": "EventP",
+    "eventDescription": "purchasing power deteriorated"
+  },
+  {
+    "quantity": "46,299",
+    "unit": "AFS average household debt",
+    "eventType": "EventO",
+    "eventDescription": "household debt"
+  },
+  {
+    "quantity": "US$602",
+    "unit": "average household debt",
+    "eventType": "EventO",
+    "eventDescription": "household debt"
+  },
+  {
+    "quantity": "9,813",
+    "unit": "AFS average household debt (previous)",
+    "eventType": "EventO",
+    "eventDescription": "household debt"
+  },
+  {
+    "quantity": "US$128",
+    "unit": "average household debt (previous)",
+    "eventType": "EventO",
+    "eventDescription": "household debt"
+  },
+  {
+    "quantity": "53 per cent",
+    "unit": "displaced households in debt (reason: food)",
+    "eventType": "EventP",
+    "eventDescription": "households in debt for food"
+  }
+]

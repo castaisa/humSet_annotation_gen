@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "non-government teachers present",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "66 percent",
+      "start": 132,
+      "end": 142
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 37,
+      "end": 45
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "salaries/incentives received",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "on average",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 372,
+      "end": 377
+    },
+    "unit": {
+      "text": "months’ salaries/incentives",
+      "start": 378,
+      "end": 405
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "salaries/incentives expected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 467,
+      "end": 468
+    },
+    "unit": {
+      "text": "months’ salaries or incentives",
+      "start": 469,
+      "end": 499
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "teachers had no access to full set of textbooks",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42 percent",
+      "start": 560,
+      "end": 570
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 537,
+      "end": 545
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "167,618",
+      "begin": 78,
+      "end": 85
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 86,
+      "end": 95
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 96,
+      "end": 110
+    }
+  },
+  {
+    "quantity": {
+      "text": "2120",
+      "begin": 115,
+      "end": 119
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 120,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 143,
+      "end": 151
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1.3 percent",
+      "begin": 187,
+      "end": 198
+    },
+    "unit": {
+      "text": "case fatality rate",
+      "begin": 159,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "begin": 159,
+      "end": 177
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3.5 million",
+      "begin": 220,
+      "end": 231
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 215,
+      "end": 219
+    },
+    "unit": {
+      "text": "people",
+      "begin": 232,
+      "end": 238
+    },
+    "eventDescription": {
+      "text": "received at least one dose of the COVID-19 vaccine",
+      "begin": 244,
+      "end": 294
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 551,
+      "end": 553
+    },
+    "eventDescription": {
+      "text": "public gatherings",
+      "begin": 518,
+      "end": 535
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "no larger than",
+      "begin": 536,
+      "end": 550
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 554,
+      "end": 561
+    }
+  }
+]

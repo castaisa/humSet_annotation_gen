@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "121",
+    "unit": "Afghan refugees",
+    "eventType": "EventP",
+    "eventDescription": "assisted the return"
+  },
+  {
+    "quantity": "101",
+    "unit": "Afghan refugees",
+    "eventType": "EventP",
+    "eventDescription": "assisted the return"
+  },
+  {
+    "quantity": "20",
+    "unit": "Afghan refugees",
+    "eventType": "EventP",
+    "eventDescription": "assisted the return"
+  },
+  {
+    "quantity": "on average USD 250",
+    "unit": "per person",
+    "eventType": "EventA",
+    "eventDescription": "multi-purpose cash grant",
+    "modifier": "on average"
+  }
+]

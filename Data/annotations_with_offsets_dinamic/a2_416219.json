@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": 509,
+      "end": 518
+    },
+    "quantity": {
+      "text": "1.2 million",
+      "start": 548,
+      "end": 559
+    },
+    "unit": {
+      "text": "people",
+      "start": 432,
+      "end": 438
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": 642,
+      "end": 651
+    },
+    "quantity": {
+      "text": "372 000",
+      "start": 580,
+      "end": 587
+    },
+    "unit": {
+      "text": "people",
+      "start": 519,
+      "end": 525
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "internally displaced",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "300 000",
+      "start": 612,
+      "end": 619
+    },
+    "unit": {
+      "text": "people",
+      "start": 620,
+      "end": 626
+    }
+  }
+]

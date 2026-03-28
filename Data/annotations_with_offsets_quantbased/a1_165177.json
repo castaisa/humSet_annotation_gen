@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "44 per",
+      "start": 107,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "children with access to television",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cent in rural areas",
+      "start": 179,
+      "end": 198
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "75 per cent",
+      "start": 133,
+      "end": 144
+    },
+    "eventDescription": {
+      "text": "children with access to television",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "in urban areas",
+      "start": 145,
+      "end": 159
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "30 per cent",
+      "start": 172,
+      "end": 183
+    },
+    "eventDescription": {
+      "text": "children with access to internet",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "in rural areas",
+      "start": 184,
+      "end": 198
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7 per cent",
+      "start": 204,
+      "end": 214
+    },
+    "eventDescription": {
+      "text": "children with access to internet",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the poorest quintile",
+      "start": 215,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3 per cent",
+      "start": 255,
+      "end": 265
+    },
+    "eventDescription": {
+      "text": "children with access to computers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "in rural areas",
+      "start": 266,
+      "end": 280
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three million",
+      "start": 591,
+      "end": 604
+    },
+    "eventDescription": {
+      "text": "children at risk of undernutrition",
+      "start": 605,
+      "end": 639
+    },
+    "unit": {
+      "text": "children",
+      "start": 605,
+      "end": 613
+    }
+  }
+]

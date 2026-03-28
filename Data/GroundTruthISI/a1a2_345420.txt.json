@@ -1,0 +1,254 @@
+[
+  {
+    "quantity": {
+      "text": "91%",
+      "begin": 48,
+      "end": 51
+    },
+    "unit": {
+      "text": "interviewees",
+      "begin": 56,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "could cite one or more symptoms associated with COVID-19",
+      "begin": 69,
+      "end": 125
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "58%",
+      "begin": 159,
+      "end": 162
+    },
+    "unit": {
+      "text": "interviewees",
+      "begin": 56,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "breathing difficulty",
+      "begin": 137,
+      "end": 157
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "55%",
+      "begin": 172,
+      "end": 175
+    },
+    "unit": {
+      "text": "interviewees",
+      "begin": 56,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "fever",
+      "begin": 165,
+      "end": 170
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "24%",
+      "begin": 185,
+      "end": 188
+    },
+    "unit": {
+      "text": "interviewees",
+      "begin": 56,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "cough",
+      "begin": 178,
+      "end": 183
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "24%",
+      "begin": 204,
+      "end": 207
+    },
+    "unit": {
+      "text": "interviewees",
+      "begin": 56,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "sore throat",
+      "begin": 191,
+      "end": 202
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 223,
+      "end": 226
+    },
+    "unit": {
+      "text": "interviewees",
+      "begin": 56,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "headache",
+      "begin": 213,
+      "end": 221
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54 per cent",
+      "begin": 292,
+      "end": 303
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 307,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "said that one should call the COVID-19 emergency",
+      "begin": 319,
+      "end": 367
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "51 per cent",
+      "begin": 376,
+      "end": 387
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 307,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "they should stay at home",
+      "begin": 393,
+      "end": 417
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42 per cent",
+      "begin": 422,
+      "end": 433
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 307,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "they should see a doctor",
+      "begin": 439,
+      "end": 463
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "84%",
+      "begin": 565,
+      "end": 568
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "begin": 503,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "were wearing face masks",
+      "begin": 540,
+      "end": 563
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42%",
+      "begin": 608,
+      "end": 611
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "begin": 503,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "carrying fewer passengers at a time",
+      "begin": 571,
+      "end": 606
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 644,
+      "end": 647
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "begin": 503,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "disinfectiing the vehicle",
+      "begin": 617,
+      "end": 642
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12 per cent",
+      "begin": 659,
+      "end": 670
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "begin": 674,
+      "end": 694
+    },
+    "eventDescription": {
+      "text": "took no preventive measures",
+      "begin": 695,
+      "end": 722
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Sixty-eight per cent",
+      "begin": 755,
+      "end": 775
+    },
+    "unit": {
+      "text": "surveyed travellers",
+      "begin": 779,
+      "end": 798
+    },
+    "eventDescription": {
+      "text": "mentioned the use of hand sanitizers as the main protective measure",
+      "begin": 799,
+      "end": 866
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "48,300",
+      "start": 294,
+      "end": 300
+    },
+    "eventDescription": {
+      "text": "directly affected",
+      "start": 318,
+      "end": 335
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 301,
+      "end": 312
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "92,000",
+      "start": 350,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "impacted",
+      "start": 369,
+      "end": 377
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 357,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "75",
+      "start": 570,
+      "end": 572
+    },
+    "eventDescription": {
+      "text": "impacted by the fire",
+      "start": 594,
+      "end": 614
+    },
+    "unit": {
+      "text": "hectares of land",
+      "start": 573,
+      "end": 589
+    }
+  }
+]

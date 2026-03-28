@@ -1,0 +1,64 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "IPC Phase of food insecurity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 110,
+      "end": 111
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "IPC Phase of food insecurity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 491,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "IPC Phase of food insecurity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": 516,
+      "end": 517
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received food assistance",
+      "start": 654,
+      "end": 678
+    },
+    "modifier": {
+      "text": "over",
+      "start": 592,
+      "end": 596
+    },
+    "quantity": {
+      "text": "over 2 million",
+      "start": 592,
+      "end": 606
+    },
+    "unit": {
+      "text": "people",
+      "start": 222,
+      "end": 228
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "hundreds",
+      "begin": 45,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "enforced disappearances, torture, killings and displacement",
+      "begin": 57,
+      "end": 116
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "entire families",
+      "begin": 120,
+      "end": 135
+    }
+  },
+  {
+    "quantity": {
+      "text": "dozens",
+      "begin": 442,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "reports of enforced disappearances and torture of civilians, including, but not limited to, civil society activists, journalists, migrants, and state officials",
+      "begin": 452,
+      "end": 611
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "civilians",
+      "begin": 502,
+      "end": 511
+    }
+  }
+]

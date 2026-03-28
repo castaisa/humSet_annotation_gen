@@ -1,0 +1,179 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 67,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "displaced households nominated shelter",
+      "begin": 9,
+      "end": 47
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "top",
+      "begin": 63,
+      "end": 66
+    },
+    "unit": {
+      "text": "priority needs",
+      "begin": 73,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "two-thirds",
+      "begin": 96,
+      "end": 106
+    },
+    "modifier": {
+      "text": "Around",
+      "begin": 89,
+      "end": 95
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 110,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "reported that they do not live in a permanent shelter",
+      "begin": 145,
+      "end": 198
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 132,
+      "end": 143
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 110,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "reported that they do not live in a permanent shelter",
+      "begin": 145,
+      "end": 198
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10 per cent",
+      "begin": 200,
+      "end": 211
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 110,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "live in tents",
+      "begin": 212,
+      "end": 225
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19 per cent",
+      "begin": 227,
+      "end": 238
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 110,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "in makeshift shelters",
+      "begin": 239,
+      "end": 260
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36 per cent",
+      "begin": 265,
+      "end": 276
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 110,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "in mud/brick shelters",
+      "begin": 277,
+      "end": 298
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "45 per cent",
+      "begin": 338,
+      "end": 349
+    },
+    "modifier": {
+      "text": "Almost",
+      "begin": 301,
+      "end": 307
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 316,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "report their shelter was damaged in the past six months",
+      "begin": 351,
+      "end": 406
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "80 per cent",
+      "begin": 456,
+      "end": 467
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 477,
+      "end": 497
+    },
+    "eventDescription": {
+      "text": "damaged shelters reported that they were unable to make repairs",
+      "begin": 503,
+      "end": 566
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41 per cent",
+      "begin": 781,
+      "end": 792
+    },
+    "unit": {
+      "text": "non-displaced, natural disaster-affected households",
+      "begin": 723,
+      "end": 774
+    },
+    "eventDescription": {
+      "text": "reporting shelter repair costs as the primary reason for taking on debt",
+      "begin": 793,
+      "end": 864
+    },
+    "eventType": "EventO"
+  }
+]

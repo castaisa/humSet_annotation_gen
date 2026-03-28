@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7,256",
+      "start": 120,
+      "end": 125
+    },
+    "unit": {
+      "text": "cases",
+      "start": 126,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "livelihoods sectors affected by the pandemic",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "91%",
+      "start": 176,
+      "end": 179
+    },
+    "unit": {
+      "text": "communities",
+      "start": 183,
+      "end": 194
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "markets reduced opening hours and days",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nearly 70%",
+      "start": 384,
+      "end": 394
+    },
+    "unit": {
+      "text": "communities",
+      "start": 398,
+      "end": 409
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "schools not functioning",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nearly 70%",
+      "start": 483,
+      "end": 493
+    },
+    "unit": {
+      "text": "communities",
+      "start": 497,
+      "end": 508
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "online education available",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "only one",
+      "start": 577,
+      "end": 585
+    },
+    "unit": {
+      "text": "assessed community",
+      "start": 586,
+      "end": 604
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "soap unaffordable",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "75%",
+      "start": 668,
+      "end": 671
+    },
+    "unit": {
+      "text": "communities",
+      "start": 675,
+      "end": 686
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "health facilities lacked sufficient equipment and medicines",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 709,
+      "end": 714
+    },
+    "quantity": {
+      "text": "about a third",
+      "start": 709,
+      "end": 722
+    },
+    "unit": {
+      "text": "communities",
+      "start": 726,
+      "end": 737
+    }
+  }
+]

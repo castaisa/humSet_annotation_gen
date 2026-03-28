@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 277,
+      "end": 282
+    },
+    "unit": {
+      "text": "aid workers",
+      "begin": 283,
+      "end": 294
+    },
+    "eventDescription": {
+      "text": "were among a group of civilians abducted",
+      "begin": 295,
+      "end": 335
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 410,
+      "end": 413
+    },
+    "unit": {
+      "text": "checkpoints",
+      "begin": 423,
+      "end": 434
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 452,
+      "end": 455
+    },
+    "unit": {
+      "text": "female aid workers",
+      "begin": 456,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "were brutally executed",
+      "begin": 475,
+      "end": 497
+    },
+    "eventType": "EventP"
+  }
+]

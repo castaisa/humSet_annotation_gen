@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "3,000",
+      "begin": 93,
+      "end": 98
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 88,
+      "end": 92
+    },
+    "unit": {
+      "text": "government registration cards",
+      "begin": 99,
+      "end": 128
+    }
+  },
+  {
+    "quantity": {
+      "text": "16,523",
+      "begin": 132,
+      "end": 138
+    },
+    "unit": {
+      "text": "adults",
+      "begin": 139,
+      "end": 145
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 186,
+      "end": 196
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,421",
+      "begin": 150,
+      "end": 155
+    },
+    "unit": {
+      "text": "children Venezuelans",
+      "begin": 156,
+      "end": 176
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 186,
+      "end": 196
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 208,
+      "end": 211
+    },
+    "unit": {
+      "text": "week",
+      "begin": 212,
+      "end": 216
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 403,
+      "end": 406
+    },
+    "unit": {
+      "text": "months",
+      "begin": 407,
+      "end": 413
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": {
+      "text": "115",
+      "begin": 77,
+      "end": 80
+    },
+    "unit": {
+      "text": "children",
+      "begin": 81,
+      "end": 89
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 90,
+      "end": 91
+    },
+    "unit": {
+      "text": "months of age",
+      "begin": 95,
+      "end": 108
+    }
+  },
+  {
+    "quantity": {
+      "text": "6-59",
+      "begin": 90,
+      "end": 94
+    },
+    "unit": {
+      "text": "months of age",
+      "begin": 95,
+      "end": 108
+    }
+  },
+  {
+    "quantity": {
+      "text": "59",
+      "begin": 92,
+      "end": 94
+    },
+    "unit": {
+      "text": "months of age",
+      "begin": 95,
+      "end": 108
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 245,
+      "end": 250
+    },
+    "unit": {
+      "text": "children",
+      "begin": 251,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "were at risk of acute malnutrition",
+      "begin": 285,
+      "end": 319
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7 percent",
+      "begin": 261,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "were at risk of acute malnutrition",
+      "begin": 285,
+      "end": 319
+    },
+    "eventType": "EventO"
+  }
+]

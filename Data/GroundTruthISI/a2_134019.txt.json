@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": {
+      "text": "4,266",
+      "begin": 121,
+      "end": 126
+    },
+    "unit": {
+      "text": "new views",
+      "begin": 127,
+      "end": 136
+    }
+  },
+  {
+    "quantity": {
+      "text": "106",
+      "begin": 577,
+      "end": 580
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 551,
+      "end": 559
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 581,
+      "end": 589
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 656,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "provisions",
+      "begin": 665,
+      "end": 675
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "food baskets",
+      "begin": 679,
+      "end": 691
+    }
+  }
+]

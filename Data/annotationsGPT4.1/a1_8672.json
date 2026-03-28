@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "89 percent",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "displaced for more than one year"
+  },
+  {
+    "quantity": "over 220,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached by protection monitoring",
+    "modifier": "over"
+  },
+  {
+    "quantity": "2017",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached by protection monitoring"
+  },
+  {
+    "quantity": "2018",
+    "unit": "IDP protection response",
+    "eventType": "EventO",
+    "eventDescription": "backbone of the IDP protection response"
+  },
+  {
+    "quantity": "31",
+    "unit": "Community-Based Protection Networks (CBPNs)",
+    "eventType": "EventO",
+    "eventDescription": "reinforced by UNHCR"
+  }
+]

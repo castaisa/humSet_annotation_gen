@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "4,638",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "94%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "report having tried to prevent or prepare for COVID19"
+  },
+  {
+    "quantity": "94%",
+    "unit": "respondents in the NW",
+    "eventType": "EventP",
+    "eventDescription": "report having tried to prevent or prepare"
+  },
+  {
+    "quantity": "93%",
+    "unit": "respondents in the SW",
+    "eventType": "EventP",
+    "eventDescription": "report having tried to prevent or prepare"
+  },
+  {
+    "quantity": "91%",
+    "unit": "respondents in the Littoral",
+    "eventType": "EventP",
+    "eventDescription": "report having tried to prevent or prepare"
+  },
+  {
+    "quantity": "98%",
+    "unit": "respondents in the West",
+    "eventType": "EventP",
+    "eventDescription": "report having tried to prevent or prepare"
+  },
+  {
+    "quantity": "66-75",
+    "unit": "year olds",
+    "eventType": "EventP",
+    "eventDescription": "age group least likely to prevent/prepare"
+  },
+  {
+    "quantity": "88%",
+    "unit": "66-75 year olds",
+    "eventType": "EventP",
+    "eventDescription": "report trying to prevent/prepare"
+  },
+  {
+    "quantity": "95%",
+    "unit": "26-35 year olds",
+    "eventType": "EventP",
+    "eventDescription": "report trying to prevent/prepare"
+  }
+]

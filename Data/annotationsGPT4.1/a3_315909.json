@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "315",
+    "unit": "candidate children",
+    "eventType": "EventP",
+    "eventDescription": "registered and wrote exams"
+  },
+  {
+    "quantity": "121",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "registered and wrote exams"
+  },
+  {
+    "quantity": "194",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "registered and wrote exams"
+  },
+  {
+    "quantity": "134",
+    "unit": "schools and examination centres",
+    "eventType": "EventA",
+    "eventDescription": "provided with handwashing facilities"
+  }
+]

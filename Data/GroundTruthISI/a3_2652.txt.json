@@ -1,0 +1,148 @@
+[
+  {
+    "quantity": {
+      "text": "1.35 million",
+      "begin": 5,
+      "end": 17
+    },
+    "modifier": {
+      "text": "Some",
+      "begin": 0,
+      "end": 4
+    },
+    "unit": {
+      "text": "children",
+      "begin": 18,
+      "end": 26
+    },
+    "eventDescription": {
+      "text": "vaccinated against polio and measles",
+      "begin": 32,
+      "end": 68
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "83,000",
+      "begin": 141,
+      "end": 147
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 131,
+      "end": 140
+    },
+    "unit": {
+      "text": "people",
+      "begin": 148,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "benefitted from improved access to safe drinking water and gender-appropriate sanitation facilities",
+      "begin": 183,
+      "end": 282
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "37,350",
+      "begin": 166,
+      "end": 172
+    },
+    "unit": {
+      "text": "children",
+      "begin": 173,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "benefitted from improved access to safe drinking water and gender-appropriate sanitation facilities",
+      "begin": 183,
+      "end": 282
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "23,000",
+      "begin": 289,
+      "end": 295
+    },
+    "modifier": {
+      "text": "Some",
+      "begin": 284,
+      "end": 288
+    },
+    "unit": {
+      "text": "crisis-affected school-aged children",
+      "begin": 296,
+      "end": 332
+    },
+    "eventDescription": {
+      "text": "gained access to non-formal education and recreational activities and received essential learning materials and supplies.",
+      "begin": 333,
+      "end": 454
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "6,000",
+      "begin": 489,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "School rehabilitation work helped",
+      "begin": 455,
+      "end": 488
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 495,
+      "end": 503
+    }
+  },
+  {
+    "quantity": {
+      "text": "27,000",
+      "begin": 585,
+      "end": 591
+    },
+    "modifier": {
+      "text": "Some",
+      "begin": 580,
+      "end": 584
+    },
+    "unit": {
+      "text": "children",
+      "begin": 592,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "participated in structured and sustained child protection and psychosocial support services",
+      "begin": 601,
+      "end": 692
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "125",
+      "begin": 822,
+      "end": 825
+    },
+    "eventDescription": {
+      "text": "benefitted from specialized services",
+      "begin": 880,
+      "end": 916
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 826,
+      "end": 834
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4.5 per cent",
+      "start": 87,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "children had access to e-learning platforms",
+      "start": 144,
+      "end": 187
+    },
+    "unit": {
+      "text": "of surveyed households",
+      "start": 100,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 70 per cent",
+      "start": 221,
+      "end": 238
+    },
+    "eventDescription": {
+      "text": "used at least one form of distance learning",
+      "start": 239,
+      "end": 282
+    },
+    "unit": {
+      "text": "of surveyed households",
+      "start": 100,
+      "end": 122
+    },
+    "modifier": {
+      "text": "about",
+      "start": 221,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about seven per cent",
+      "start": 385,
+      "end": 405
+    },
+    "eventDescription": {
+      "text": "child-labour reportedly increased",
+      "start": 348,
+      "end": 381
+    },
+    "modifier": {
+      "text": "about",
+      "start": 385,
+      "end": 390
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 82 per cent",
+      "start": 643,
+      "end": 660
+    },
+    "eventDescription": {
+      "text": "reported that children are engaged in child labour that prevents them from attending school",
+      "start": 691,
+      "end": 782
+    },
+    "unit": {
+      "text": "of interviewed key informants",
+      "start": 661,
+      "end": 690
+    },
+    "modifier": {
+      "text": "about",
+      "start": 643,
+      "end": 648
+    }
+  }
+]

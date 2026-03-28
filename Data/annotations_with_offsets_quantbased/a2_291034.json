@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "76%",
+      "start": 10,
+      "end": 13
+    },
+    "eventDescription": {
+      "text": "households with children aged 4-16 years",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4-16",
+      "start": 53,
+      "end": 57
+    },
+    "eventDescription": {
+      "text": "age range of children",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 58,
+      "end": 63
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "76%",
+      "start": 65,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "households with children attending school regularly",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "≥4",
+      "start": 133,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "children attending school regularly",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days/week",
+      "start": 136,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "77%",
+      "start": 260,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "non-displaced households with children attending school regularly",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "62%",
+      "start": 271,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "IDP households with children attending school regularly",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "49%",
+      "start": 286,
+      "end": 289
+    },
+    "eventDescription": {
+      "text": "refugee households with children attending school regularly",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "98%",
+      "start": 321,
+      "end": 324
+    },
+    "eventDescription": {
+      "text": "households declaring children would return to school",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "40%",
+      "start": 494,
+      "end": 497
+    },
+    "eventDescription": {
+      "text": "households with children that continued learning activities remotely",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "72%",
+      "start": 555,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "households with parents, caregivers or older siblings able to support home-based learning",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  }
+]

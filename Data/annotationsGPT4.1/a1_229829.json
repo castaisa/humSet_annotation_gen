@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "27 per cent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had some or all of their enrolled children drop out of school"
+  },
+  {
+    "quantity": "36 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reported cost of school fees as main reason for dropping out"
+  },
+  {
+    "quantity": "33 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reported drought as main reason for dropping out"
+  },
+  {
+    "quantity": "17 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reported work to support the household as main reason for dropping out"
+  },
+  {
+    "quantity": "4 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "stated early marriage as the main reason for dropping out"
+  },
+  {
+    "quantity": "6 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "stated conflict as the main reason for dropping out"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "non-displaced families",
+    "eventType": "EventP",
+    "eventDescription": "reported cost of school fees as main barrier to accessing education"
+  },
+  {
+    "quantity": "65 per cent",
+    "unit": "displaced families",
+    "eventType": "EventP",
+    "eventDescription": "reported cost of school fees as main barrier to accessing education"
+  }
+]

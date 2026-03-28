@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with needs for services in education",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "77%",
+      "start": 91,
+      "end": 94
+    },
+    "unit": {
+      "text": "households",
+      "start": 229,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with needs for services in health",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "71%",
+      "start": 108,
+      "end": 111
+    },
+    "unit": {
+      "text": "households",
+      "start": 408,
+      "end": 418
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with needs for food security support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "66%",
+      "start": 145,
+      "end": 148
+    },
+    "unit": {
+      "text": "households",
+      "start": 594,
+      "end": 604
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households demonstrating dual need for services in health and education",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 217,
+      "end": 220
+    },
+    "unit": {
+      "text": "households",
+      "start": 796,
+      "end": 806
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households reporting simultaneous food security and education needs",
+      "start": 408,
+      "end": 475
+    },
+    "quantity": {
+      "text": "54%",
+      "start": 392,
+      "end": 395
+    },
+    "unit": {
+      "text": "households",
+      "start": 1003,
+      "end": 1013
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with unmet needs in the education sector",
+      "start": 594,
+      "end": 645
+    },
+    "quantity": {
+      "text": "77%",
+      "start": 587,
+      "end": 590
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with unmet education needs registering a vulnerability",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "46%",
+      "start": 647,
+      "end": 650
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households hosting separated and unaccompanied children in Yobe",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6%",
+      "start": 853,
+      "end": 855
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households hosting separated and unaccompanied children in Borno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1%",
+      "start": 879,
+      "end": 881
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households hosting separated and unaccompanied children in Adamawa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 896,
+      "end": 898
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  }
+]

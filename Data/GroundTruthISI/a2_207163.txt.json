@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 208,
+      "end": 211
+    },
+    "eventDescription": {
+      "text": "Wasting (GAM WHZ<-2) prevalence’s",
+      "begin": 152,
+      "end": 185
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8%",
+      "begin": 349,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "Wasting (GAM WHZ<-2) prevalence’s",
+      "begin": 152,
+      "end": 185
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 393,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "Wasting (GAM WHZ<-2) prevalence’s",
+      "begin": 152,
+      "end": 185
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 477,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "Stunting (HAZ<-2) prevalence",
+      "begin": 421,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9%",
+      "begin": 561,
+      "end": 563
+    },
+    "eventDescription": {
+      "text": "Stunting (HAZ<-2) prevalence",
+      "begin": 421,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 692,
+      "end": 695
+    },
+    "eventDescription": {
+      "text": "nutritional assessments",
+      "begin": 667,
+      "end": 690
+    },
+    "eventType": "EventO"
+  }
+]

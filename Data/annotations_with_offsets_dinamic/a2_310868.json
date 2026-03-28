@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "observed with Critical (IPC Phase 4) prevalence of GAM (≥ 15%)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 117,
+      "end": 121
+    },
+    "unit": {
+      "text": "population groups",
+      "start": 132,
+      "end": 149
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total population groups observed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36",
+      "start": 129,
+      "end": 131
+    },
+    "unit": {
+      "text": "population groups",
+      "start": 506,
+      "end": 523
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence observed in Southern Inland Pastoral of Elberde district",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20.9%",
+      "start": 197,
+      "end": 202
+    },
+    "unit": {
+      "text": "GAM",
+      "start": 570,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence observed in Mogadishu IDPs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16.7%",
+      "start": 221,
+      "end": 226
+    },
+    "unit": {
+      "text": "GAM",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence observed in Huddur urban /IDPs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16.4%",
+      "start": 249,
+      "end": 254
+    },
+    "unit": {
+      "text": "GAM",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence observed in IDPs in Bossasso and Garowe",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15.8%",
+      "start": 286,
+      "end": 291
+    },
+    "unit": {
+      "text": "GAM",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence observed in Shabelle Riverine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15.4%",
+      "start": 313,
+      "end": 318
+    },
+    "unit": {
+      "text": "GAM",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "classified as Serious (IPC Phase 3)",
+      "start": 528,
+      "end": 563
+    },
+    "quantity": {
+      "text": "28",
+      "start": 503,
+      "end": 505
+    },
+    "unit": {
+      "text": "population groups",
+      "start": 636,
+      "end": 653
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence in population groups classified as Serious (IPC Phase 3)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10–14.9%",
+      "start": 577,
+      "end": 585
+    },
+    "unit": {
+      "text": "GAM",
+      "start": 684,
+      "end": 687
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence in population groups classified as Alert (IPC Phase 2)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5-9.9%",
+      "start": 691,
+      "end": 697
+    },
+    "unit": {
+      "text": "GAM",
+      "start": 766,
+      "end": 769
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence in Burao urban classified as Acceptable (IPC Phase 1)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "<5%",
+      "start": 773,
+      "end": 776
+    },
+    "unit": {
+      "text": "GAM",
+      "start": null,
+      "end": null
+    }
+  }
+]

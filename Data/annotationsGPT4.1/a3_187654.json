@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "722",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "forcibly closed"
+  },
+  {
+    "quantity": "328,094",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "education affected",
+    "modifier": "around"
+  },
+  {
+    "quantity": "113,597",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "education affected"
+  },
+  {
+    "quantity": "214,497",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "education affected"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "4 \u2013 8",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "household size"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "food share",
+    "eventType": "EventA",
+    "eventDescription": "food share of expenditure",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "zero",
+    "unit": "expenses",
+    "eventType": "EventA",
+    "eventDescription": "expenses reported for water and education"
+  },
+  {
+    "quantity": "zero",
+    "unit": "savings",
+    "eventType": "EventA",
+    "eventDescription": "savings put away"
+  }
+]

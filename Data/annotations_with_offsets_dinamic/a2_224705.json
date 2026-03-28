@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "receiving humanitarian assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "182,341",
+      "start": 436,
+      "end": 443
+    },
+    "unit": {
+      "text": "people",
+      "start": 444,
+      "end": 450
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided in average ration",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "325 g",
+      "start": 524,
+      "end": 529
+    },
+    "unit": {
+      "text": "cereals",
+      "start": 533,
+      "end": 540
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided in average ration",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "72 g",
+      "start": 542,
+      "end": 546
+    },
+    "unit": {
+      "text": "pulses",
+      "start": 550,
+      "end": 556
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided in average ration",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23 g",
+      "start": 561,
+      "end": 565
+    },
+    "unit": {
+      "text": "oil",
+      "start": 569,
+      "end": 572
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "cash payment for the averagely vulnerable",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,500",
+      "start": 603,
+      "end": 608
+    },
+    "unit": {
+      "text": "XAF per person per month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "cash payment for the most vulnerable",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6,000",
+      "start": 666,
+      "end": 671
+    },
+    "unit": {
+      "text": "XAF per person per month",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30 percent",
+      "start": 523,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "increase in prices",
+      "start": 371,
+      "end": 389
+    },
+    "unit": {
+      "text": "above quarter 1 2020 prices",
+      "start": 534,
+      "end": 561
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "60 percent",
+      "start": 938,
+      "end": 948
+    },
+    "eventDescription": {
+      "text": "increase in rice prices",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "above Q1 2020 prices",
+      "start": 949,
+      "end": 969
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "58 percent",
+      "start": 1321,
+      "end": 1331
+    },
+    "eventDescription": {
+      "text": "increase in lentils imports",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "higher than same period in 2019",
+      "start": 1332,
+      "end": 1363
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "2 million",
+      "begin": 597,
+      "end": 606
+    },
+    "unit": {
+      "text": "people",
+      "begin": 607,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 654,
+      "end": 678
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.7 million",
+      "start": 14,
+      "end": 25
+    },
+    "eventDescription": {
+      "text": "out of school",
+      "start": 39,
+      "end": 52
+    },
+    "unit": {
+      "text": "children",
+      "start": 26,
+      "end": 34
+    },
+    "modifier": {
+      "text": "Approximately",
+      "start": 0,
+      "end": 13
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60 percent",
+      "start": 58,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "female",
+      "start": 91,
+      "end": 97
+    },
+    "unit": {
+      "text": "children",
+      "start": 78,
+      "end": 86
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1 in every 3",
+      "start": 106,
+      "end": 118
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "start": 125,
+      "end": 141
+    },
+    "unit": {
+      "text": "girls",
+      "start": 119,
+      "end": 124
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "half",
+      "start": 247,
+      "end": 251
+    },
+    "eventDescription": {
+      "text": "provinces with less than 20 percent of teachers female",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Afghan provinces",
+      "start": 259,
+      "end": 275
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20 percent",
+      "start": 286,
+      "end": 296
+    },
+    "eventDescription": {
+      "text": "female",
+      "start": 317,
+      "end": 323
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 304,
+      "end": 312
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one third",
+      "start": 331,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "married before the age of 18",
+      "start": 354,
+      "end": 382
+    },
+    "unit": {
+      "text": "girls",
+      "start": 344,
+      "end": 349
+    },
+    "modifier": {
+      "text": "About",
+      "start": 325,
+      "end": 330
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18",
+      "start": 380,
+      "end": 382
+    },
+    "eventDescription": {
+      "text": "girls married before this age",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "age",
+      "start": 373,
+      "end": 376
+    }
+  }
+]

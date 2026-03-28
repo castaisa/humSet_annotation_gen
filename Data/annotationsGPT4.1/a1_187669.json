@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "two-thirds",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "do not live in a permanent shelter"
+  },
+  {
+    "quantity": "65 per cent",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "do not live in a permanent shelter"
+  },
+  {
+    "quantity": "10 per cent",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "live in tents"
+  },
+  {
+    "quantity": "19 per cent",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "live in makeshift shelters"
+  },
+  {
+    "quantity": "36 per cent",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "live in mud/brick shelters"
+  },
+  {
+    "quantity": "Almost half",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "report their shelter was damaged in the past six months"
+  },
+  {
+    "quantity": "45 per cent",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "report their shelter was damaged in the past six months"
+  },
+  {
+    "quantity": "80 per cent",
+    "unit": "displaced households with damaged shelters",
+    "eventType": "EventP",
+    "eventDescription": "were unable to make repairs"
+  },
+  {
+    "quantity": "41 per cent",
+    "unit": "non-displaced, natural disaster-affected households",
+    "eventType": "EventP",
+    "eventDescription": "reporting shelter repair costs as the primary reason for taking on debt"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "quantity": "24,986",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "facilitated access to a better learning environment"
+  },
+  {
+    "quantity": "14,990",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "facilitated access to a better learning environment"
+  },
+  {
+    "quantity": "9,996",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "facilitated access to a better learning environment"
+  },
+  {
+    "quantity": "six",
+    "unit": "classrooms",
+    "eventType": "EventA",
+    "eventDescription": "constructed"
+  },
+  {
+    "quantity": "two",
+    "unit": "schools",
+    "eventType": "EventA",
+    "eventDescription": "constructed classrooms in"
+  },
+  {
+    "quantity": "three",
+    "unit": "classrooms",
+    "eventType": "EventA",
+    "eventDescription": "constructed in each school"
+  },
+  {
+    "quantity": "32",
+    "unit": "schools",
+    "eventType": "EventA",
+    "eventDescription": "repaired latrines in"
+  },
+  {
+    "quantity": "417",
+    "unit": "schools",
+    "eventType": "EventA",
+    "eventDescription": "WASH facilities to be repaired"
+  },
+  {
+    "quantity": "around 145,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "will benefit",
+    "modifier": "around"
+  },
+  {
+    "quantity": "207",
+    "unit": "teachers and supervisors",
+    "eventType": "EventP",
+    "eventDescription": "trained on psychosocial support education"
+  },
+  {
+    "quantity": "114",
+    "unit": "male",
+    "eventType": "EventP",
+    "eventDescription": "teachers and supervisors trained"
+  },
+  {
+    "quantity": "93",
+    "unit": "female",
+    "eventType": "EventP",
+    "eventDescription": "teachers and supervisors trained"
+  },
+  {
+    "quantity": "5,384",
+    "unit": "conflict-affected students",
+    "eventType": "EventP",
+    "eventDescription": "teachers and supervisors attended to"
+  },
+  {
+    "quantity": "2,322",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "conflict-affected students attended to"
+  },
+  {
+    "quantity": "3,062",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "conflict-affected students attended to"
+  }
+]

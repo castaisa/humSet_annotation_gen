@@ -1,0 +1,254 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 112,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "facilitated three airlifts",
+      "begin": 37,
+      "end": 63
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "rotations",
+      "begin": 116,
+      "end": 125
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 212,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "facilitated three airlifts",
+      "begin": 37,
+      "end": 63
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "rotations",
+      "begin": 218,
+      "end": 227
+    }
+  },
+  {
+    "quantity": {
+      "text": "37.2",
+      "begin": 135,
+      "end": 139
+    },
+    "eventDescription": {
+      "text": "carrying",
+      "begin": 126,
+      "end": 134
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "MT/139 m3",
+      "begin": 140,
+      "end": 149
+    }
+  },
+  {
+    "quantity": {
+      "text": "47.5",
+      "begin": 237,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "carrying",
+      "begin": 228,
+      "end": 236
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "MT/247 m3",
+      "begin": 242,
+      "end": 251
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 283,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "airlift carried",
+      "begin": 267,
+      "end": 282
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "MT/69 m3",
+      "begin": 286,
+      "end": 294
+    }
+  },
+  {
+    "quantity": {
+      "text": "65",
+      "begin": 368,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "carried",
+      "begin": 360,
+      "end": 367
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "passengers",
+      "begin": 371,
+      "end": 381
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 387,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "carried",
+      "begin": 360,
+      "end": 367
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "organisations",
+      "begin": 390,
+      "end": 403
+    }
+  },
+  {
+    "quantity": {
+      "text": "180",
+      "begin": 443,
+      "end": 446
+    },
+    "eventDescription": {
+      "text": "carried",
+      "begin": 360,
+      "end": 367
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "MT/1,211 m3 of cargo",
+      "begin": 447,
+      "end": 467
+    }
+  },
+  {
+    "quantity": {
+      "text": "74",
+      "begin": 552,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "carried",
+      "begin": 544,
+      "end": 551
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "MT/610 m3 of relief items",
+      "begin": 555,
+      "end": 580
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 610,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "carried",
+      "begin": 544,
+      "end": 551
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "voyages",
+      "begin": 614,
+      "end": 621
+    }
+  },
+  {
+    "quantity": {
+      "text": "824",
+      "begin": 688,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "facilitated",
+      "begin": 650,
+      "end": 661
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "MT/3,851 m3 of relief items",
+      "begin": 692,
+      "end": 719
+    }
+  },
+  {
+    "quantity": {
+      "text": "81,874,486",
+      "begin": 745,
+      "end": 755
+    },
+    "eventDescription": {
+      "text": "distribution",
+      "begin": 729,
+      "end": 741
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "litres of diesel",
+      "begin": 756,
+      "end": 772
+    }
+  },
+  {
+    "quantity": {
+      "text": "33,812",
+      "begin": 777,
+      "end": 783
+    },
+    "eventDescription": {
+      "text": "distribution",
+      "begin": 729,
+      "end": 741
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "litres of petrol",
+      "begin": 784,
+      "end": 800
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 804,
+      "end": 806
+    },
+    "eventDescription": {
+      "text": "distribution",
+      "begin": 729,
+      "end": 741
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "organisations",
+      "begin": 807,
+      "end": 820
+    }
+  }
+]

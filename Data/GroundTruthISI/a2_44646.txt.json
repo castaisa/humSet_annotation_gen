@@ -1,0 +1,123 @@
+[
+  {
+    "quantity": {
+      "text": "one-third",
+      "begin": 20,
+      "end": 29
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 13,
+      "end": 19
+    },
+    "unit": {
+      "text": "households",
+      "begin": 33,
+      "end": 43
+    }
+  },
+  {
+    "quantity": {
+      "text": "32%",
+      "begin": 78,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "“high” or “very high” needs",
+      "begin": 49,
+      "end": 76
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "88%",
+      "begin": 111,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "greater protection",
+      "begin": 91,
+      "end": 109
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "77%",
+      "begin": 132,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "food security",
+      "begin": 117,
+      "end": 130
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 144,
+      "end": 147
+    },
+    "eventDescription": {
+      "text": "WASH",
+      "begin": 138,
+      "end": 142
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18%",
+      "begin": 165,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "nutrition",
+      "begin": 154,
+      "end": 163
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "64%",
+      "begin": 239,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "shelter/NFI needs",
+      "begin": 220,
+      "end": 237
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.8",
+      "begin": 412,
+      "end": 415
+    },
+    "eventDescription": {
+      "text": "WASH severity",
+      "begin": 397,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4.8",
+      "begin": 485,
+      "end": 488
+    },
+    "eventDescription": {
+      "text": "average WASH severity in East Borno",
+      "begin": 448,
+      "end": 483
+    },
+    "eventType": "EventO"
+  }
+]

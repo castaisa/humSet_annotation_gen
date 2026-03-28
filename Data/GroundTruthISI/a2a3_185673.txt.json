@@ -1,0 +1,131 @@
+[
+  {
+    "quantity": {
+      "text": "2362",
+      "begin": 71,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "mulƟpurpose Cash Based\nIntervenƟons (CBI) were provided",
+      "begin": 76,
+      "end": 131
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "83%",
+      "begin": 305,
+      "end": 308
+    },
+    "unit": {
+      "text": "cash\napplicants",
+      "begin": 312,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "reported not being able to meet their basic\nneeds",
+      "begin": 328,
+      "end": 377
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "33%",
+      "begin": 379,
+      "end": 382
+    },
+    "unit": {
+      "text": "cash applicants",
+      "begin": 386,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "were survivors of GBV",
+      "begin": 402,
+      "end": 423
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "75%",
+      "begin": 428,
+      "end": 431
+    },
+    "unit": {
+      "text": "cash applicants",
+      "begin": 386,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "cited serious medical concerns",
+      "begin": 432,
+      "end": 462
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 477,
+      "end": 480
+    },
+    "eventDescription": {
+      "text": "faced evicƟon",
+      "begin": 481,
+      "end": 494
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "38%",
+      "begin": 499,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "aƩributed their applicaƟon for cash assistance to job loss or reduced working hours due\nto COVID-19",
+      "begin": 503,
+      "end": 602
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "143",
+      "begin": 677,
+      "end": 680
+    },
+    "eventDescription": {
+      "text": "partners in Guyana provided\ntheir first CBI assistance",
+      "begin": 619,
+      "end": 673
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 681,
+      "end": 691
+    }
+  },
+  {
+    "quantity": {
+      "text": "43",
+      "begin": 696,
+      "end": 698
+    },
+    "unit": {
+      "text": "households",
+      "begin": 699,
+      "end": 709
+    },
+    "eventDescription": {
+      "text": "received their second CBI assistance to meet\ntheir basic needs",
+      "begin": 710,
+      "end": 772
+    },
+    "eventType": "EventA"
+  }
+]

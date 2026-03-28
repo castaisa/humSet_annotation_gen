@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "54 percent",
+    "unit": "Venezuelan households",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "duration of hardest period for migrants"
+  },
+  {
+    "quantity": "40 percent",
+    "unit": "Venezuelans",
+    "eventType": "EventP",
+    "eventDescription": "having poor or limited access to food"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "pendular migrants",
+    "eventType": "EventP",
+    "eventDescription": "food insecurity levels"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "people in transit",
+    "eventType": "EventP",
+    "eventDescription": "food insecurity levels",
+    "modifier": "as high as"
+  },
+  {
+    "quantity": "55 percent",
+    "unit": "Venezuelans",
+    "eventType": "EventP",
+    "eventDescription": "using negative strategies to cope"
+  },
+  {
+    "quantity": "half",
+    "unit": "surveyed",
+    "eventType": "EventP",
+    "eventDescription": "report having begged on the streets"
+  }
+]

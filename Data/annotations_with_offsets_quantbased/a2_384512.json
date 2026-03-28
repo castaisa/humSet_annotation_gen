@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70 per cent",
+      "start": 131,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "IDPs residing in camps with piped water as main source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 160,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "68%",
+      "start": 152,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "IDPs residing in camps with piped water as main source (previous round)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 160,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19 per cent",
+      "start": 226,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "IDPs residing in camps with hand pumps as main source of drinking water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 241,
+      "end": 246
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20%",
+      "start": 258,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "IDPs residing in camps with hand pumps as main source of drinking water (previous round)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 241,
+      "end": 246
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6%",
+      "start": 341,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "IDPs residing in camps with water trucks as main source of drinking water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 365,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1 per cent",
+      "start": 351,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "IDPs residing in camps with unprotected wells as main source of water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 365,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8 per cent",
+      "start": 540,
+      "end": 550
+    },
+    "eventDescription": {
+      "text": "IDPs residing in camps with unprotected wells as main source of water (previous round)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 554,
+      "end": 559
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least five",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "civilians",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 238,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 209,
+      "end": 213
+    },
+    "unit": {
+      "text": "children",
+      "start": 242,
+      "end": 250
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 256,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": 269,
+      "end": 276
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "four",
+      "start": 288,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": 269,
+      "end": 276
+    },
+    "unit": {
+      "text": "children",
+      "start": 293,
+      "end": 301
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "125,000",
+      "start": 523,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "affected by electricity and water cut off",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "residents",
+      "start": 531,
+      "end": 540
+    }
+  }
+]

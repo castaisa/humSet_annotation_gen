@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "20,000",
+    "unit": "Guyanese dollars",
+    "eventType": "EventO",
+    "eventDescription": "payment requested per incident"
+  },
+  {
+    "quantity": "96",
+    "unit": "USD",
+    "eventType": "EventO",
+    "eventDescription": "payment requested per incident"
+  },
+  {
+    "quantity": "two (2)",
+    "unit": "female police officers",
+    "eventType": "EventO",
+    "eventDescription": "female police officers available to assist"
+  }
+]

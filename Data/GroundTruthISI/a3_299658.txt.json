@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 235,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "confirmed cases of Coronavirus that is confirmed",
+      "begin": 135,
+      "end": 183
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 238,
+      "end": 243
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 351,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "infections were among the educational and administrative staff",
+      "begin": 353,
+      "end": 415
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "infections were among the educational and administrative staff",
+      "begin": 353,
+      "end": 415
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 421,
+      "end": 424
+    },
+    "eventDescription": {
+      "text": "injuries among the students",
+      "begin": 425,
+      "end": 452
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "injuries among the students",
+      "begin": 425,
+      "end": 452
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 470,
+      "end": 475
+    },
+    "unit": {
+      "text": "injuries",
+      "begin": 476,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "recovered",
+      "begin": 485,
+      "end": 494
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 516,
+      "end": 521
+    },
+    "unit": {
+      "text": "injuries",
+      "begin": 522,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "under home quarantine",
+      "begin": 535,
+      "end": 556
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 589,
+      "end": 591
+    },
+    "unit": {
+      "text": "suspected cases",
+      "begin": 592,
+      "end": 607
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 627,
+      "end": 635
+    },
+    "eventType": "EventP"
+  }
+]

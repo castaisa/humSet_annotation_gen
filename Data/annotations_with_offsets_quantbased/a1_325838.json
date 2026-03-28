@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "65 per cent",
+      "start": 599,
+      "end": 610
+    },
+    "eventDescription": {
+      "text": "probability that La Niña conditions would continue",
+      "start": 611,
+      "end": 661
+    },
+    "unit": {
+      "text": "probability",
+      "start": 611,
+      "end": 622
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "57 per cent",
+      "start": 697,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "probability that conditions will worsen due to increased precipitation",
+      "start": 709,
+      "end": 779
+    },
+    "unit": {
+      "text": "probability",
+      "start": 709,
+      "end": 720
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "80 per cent",
+      "start": 1190,
+      "end": 1201
+    },
+    "eventDescription": {
+      "text": "affected by higher-than-historical-average rains",
+      "start": 1241,
+      "end": 1289
+    },
+    "unit": {
+      "text": "of Valle del Cauca department",
+      "start": 1202,
+      "end": 1231
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 1305,
+      "end": 1310
+    },
+    "eventDescription": {
+      "text": "caused landslides",
+      "start": 1338,
+      "end": 1355
+    },
+    "unit": {
+      "text": "heavy rainfall events",
+      "start": 1311,
+      "end": 1332
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "1.1 million",
+      "begin": 69,
+      "end": 80
+    },
+    "unit": {
+      "text": "children and women",
+      "begin": 81,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "need of immediate nutrition services.",
+      "begin": 103,
+      "end": 140
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two-thirds",
+      "begin": 352,
+      "end": 362
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 366,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "remain damaged by the conflict",
+      "begin": 402,
+      "end": 432
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 548,
+      "end": 553
+    },
+    "eventDescription": {
+      "text": "level of acute malnutrition increased",
+      "begin": 499,
+      "end": 536
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "states",
+      "begin": 554,
+      "end": 560
+    }
+  },
+  {
+    "quantity": {
+      "text": "10.7 per cent",
+      "begin": 620,
+      "end": 633
+    },
+    "unit": {
+      "text": "Global acute malnutrition (GAM) rates",
+      "begin": 579,
+      "end": 616
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 639,
+      "end": 647
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7.5 per cent",
+      "begin": 658,
+      "end": 670
+    },
+    "unit": {
+      "text": "Global acute malnutrition (GAM) rates",
+      "begin": 579,
+      "end": 616
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 639,
+      "end": 647
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13.6 per cent",
+      "begin": 686,
+      "end": 699
+    },
+    "unit": {
+      "text": "Global acute malnutrition (GAM) rates",
+      "begin": 579,
+      "end": 616
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 639,
+      "end": 647
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15 per cent",
+      "begin": 742,
+      "end": 753
+    },
+    "unit": {
+      "text": "global emergency threshold",
+      "begin": 754,
+      "end": 780
+    },
+    "eventDescription": {
+      "text": "surpassing",
+      "begin": 727,
+      "end": 737
+    },
+    "eventType": "EventO"
+  }
+]

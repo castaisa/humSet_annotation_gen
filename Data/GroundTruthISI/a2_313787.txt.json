@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "hundred",
+      "begin": 85,
+      "end": 92
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 78,
+      "end": 82
+    },
+    "unit": {
+      "text": "people",
+      "begin": 93,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 100,
+      "end": 106
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "hundred",
+      "begin": 118,
+      "end": 125
+    },
+    "unit": {
+      "text": "people",
+      "begin": 93,
+      "end": 99
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 111,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 126,
+      "end": 133
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two/three",
+      "begin": 358,
+      "end": 367
+    },
+    "unit": {
+      "text": "communities",
+      "begin": 376,
+      "end": 387
+    }
+  },
+  {
+    "quantity": {
+      "text": "80",
+      "begin": 480,
+      "end": 482
+    },
+    "unit": {
+      "text": "km",
+      "begin": 483,
+      "end": 485
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 520,
+      "end": 522
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 523,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 523,
+      "end": 529
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 586,
+      "end": 588
+    },
+    "unit": {
+      "text": "km",
+      "begin": 589,
+      "end": 591
+    }
+  }
+]

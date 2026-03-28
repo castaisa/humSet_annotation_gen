@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "99%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "intend to return to their place of origin"
+  },
+  {
+    "quantity": "over 500",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "intend to return to their place of origin",
+    "modifier": "over"
+  },
+  {
+    "quantity": "1%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "remain undecided"
+  },
+  {
+    "quantity": "52%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "dwellings were destroyed"
+  },
+  {
+    "quantity": "1%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "homes remain intact"
+  },
+  {
+    "quantity": "11%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "homes were partially damaged"
+  },
+  {
+    "quantity": "3%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "household dwellings are currently occupied"
+  },
+  {
+    "quantity": "33%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "without information on the status of their dwellings"
+  },
+  {
+    "quantity": "33%",
+    "unit": "families",
+    "eventType": "EventO",
+    "eventDescription": "possess no documentation for their respective properties"
+  },
+  {
+    "quantity": "67%",
+    "unit": "families",
+    "eventType": "EventO",
+    "eventDescription": "possessing documentation confirming ownership"
+  }
+]

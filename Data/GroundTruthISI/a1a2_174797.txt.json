@@ -1,0 +1,246 @@
+[
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 51,
+      "end": 54
+    },
+    "unit": {
+      "text": "population",
+      "begin": 62,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "in poverty",
+      "begin": 73,
+      "end": 83
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "24%",
+      "begin": 107,
+      "end": 110
+    },
+    "unit": {
+      "text": "population",
+      "begin": 62,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "in poverty",
+      "begin": 73,
+      "end": 83
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 136,
+      "end": 139
+    },
+    "unit": {
+      "text": "population",
+      "begin": 62,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "in extreme poverty",
+      "begin": 116,
+      "end": 134
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 162,
+      "end": 164
+    },
+    "unit": {
+      "text": "population",
+      "begin": 62,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "in extreme poverty",
+      "begin": 116,
+      "end": 134
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 179,
+      "end": 182
+    },
+    "unit": {
+      "text": "workers",
+      "begin": 190,
+      "end": 197
+    },
+    "eventDescription": {
+      "text": "covered in social security",
+      "begin": 198,
+      "end": 224
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "42%",
+      "begin": 244,
+      "end": 247
+    },
+    "unit": {
+      "text": "workers",
+      "begin": 190,
+      "end": 197
+    },
+    "eventDescription": {
+      "text": "covered in social security",
+      "begin": 198,
+      "end": 224
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "98%",
+      "begin": 308,
+      "end": 311
+    },
+    "unit": {
+      "text": "households",
+      "begin": 262,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "access to electricity",
+      "begin": 278,
+      "end": 299
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "over",
+      "begin": 303,
+      "end": 307
+    }
+  },
+  {
+    "quantity": {
+      "text": "86%",
+      "begin": 367,
+      "end": 370
+    },
+    "unit": {
+      "text": "households",
+      "begin": 262,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "access to water",
+      "begin": 337,
+      "end": 352
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "90%",
+      "begin": 388,
+      "end": 391
+    },
+    "unit": {
+      "text": "households",
+      "begin": 262,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "access to water",
+      "begin": 337,
+      "end": 352
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 401,
+      "end": 405
+    },
+    "modifier": {
+      "text": "Exactly",
+      "begin": 393,
+      "end": 400
+    },
+    "unit": {
+      "text": "households",
+      "begin": 409,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "have access to internet",
+      "begin": 432,
+      "end": 455
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "37%",
+      "begin": 487,
+      "end": 490
+    },
+    "unit": {
+      "text": "households",
+      "begin": 409,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "have access to internet",
+      "begin": 432,
+      "end": 455
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36%",
+      "begin": 560,
+      "end": 563
+    },
+    "unit": {
+      "text": "urban population",
+      "begin": 514,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "lives in slums",
+      "begin": 542,
+      "end": 556
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 595,
+      "end": 598
+    },
+    "unit": {
+      "text": "urban population",
+      "begin": 514,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "lives in slums",
+      "begin": 542,
+      "end": 556
+    },
+    "eventType": "EventP"
+  }
+]

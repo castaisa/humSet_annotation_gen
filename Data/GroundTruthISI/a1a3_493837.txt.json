@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 44,
+      "end": 48
+    },
+    "unit": {
+      "text": "household respondents",
+      "begin": 52,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "less access to adequate healthcare",
+      "begin": 103,
+      "end": 137
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "51%",
+      "begin": 75,
+      "end": 78
+    },
+    "unit": {
+      "text": "household respondents",
+      "begin": 52,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "less access to adequate healthcare",
+      "begin": 103,
+      "end": 137
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 157,
+      "end": 160
+    },
+    "unit": {
+      "text": "household respondents",
+      "begin": 52,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "no access to adequate healthcare services",
+      "begin": 168,
+      "end": 209
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 1063,
+      "end": 1065
+    },
+    "unit": {
+      "text": "households",
+      "begin": 1081,
+      "end": 1091
+    },
+    "eventDescription": {
+      "text": "reported not spending any money on medication",
+      "begin": 1101,
+      "end": 1146
+    },
+    "eventType": "EventO"
+  }
+]

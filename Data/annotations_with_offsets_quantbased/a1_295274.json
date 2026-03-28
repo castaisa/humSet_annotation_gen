@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "121",
+      "start": 47,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "assisted the return",
+      "start": 24,
+      "end": 43
+    },
+    "unit": {
+      "text": "Afghan refugees",
+      "start": 51,
+      "end": 66
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "101",
+      "start": 78,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "assisted the return",
+      "start": 24,
+      "end": 43
+    },
+    "unit": {
+      "text": "Afghan refugees",
+      "start": 51,
+      "end": 66
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20",
+      "start": 97,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "assisted the return",
+      "start": 24,
+      "end": 43
+    },
+    "unit": {
+      "text": "Afghan refugees",
+      "start": 51,
+      "end": 66
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "on average USD 250",
+      "start": 227,
+      "end": 245
+    },
+    "eventDescription": {
+      "text": "multi-purpose cash grant",
+      "start": 201,
+      "end": 225
+    },
+    "unit": {
+      "text": "per person",
+      "start": 246,
+      "end": 256
+    },
+    "modifier": {
+      "text": "on average",
+      "start": 227,
+      "end": 237
+    }
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "quantity": "85",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new cases of Acute Flaccid Paralysis (AFP) reported"
+  },
+  {
+    "quantity": "18",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of cholera reported"
+  },
+  {
+    "quantity": "9",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of cholera in Ebonyi"
+  },
+  {
+    "quantity": "9",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of cholera in Kano"
+  },
+  {
+    "quantity": "116",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever reported"
+  },
+  {
+    "quantity": "12",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever in Bauchi"
+  },
+  {
+    "quantity": "58",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever in Edo"
+  },
+  {
+    "quantity": "11",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever in Ebonyi"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever in FCT"
+  },
+  {
+    "quantity": "27",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever in Ondo"
+  },
+  {
+    "quantity": "1",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "suspected case of Lassa fever in Nasarawa"
+  },
+  {
+    "quantity": "3",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever in Plateau"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Lassa fever in Taraba"
+  },
+  {
+    "quantity": "35",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "laboratory confirmed cases of Lassa fever"
+  },
+  {
+    "quantity": "eight",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths from Lassa fever"
+  },
+  {
+    "quantity": "22",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of Cerebrospinal Meningitis (CSM) reported"
+  },
+  {
+    "quantity": "14",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "LGAs reporting suspected cases of CSM"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of CSM in Cross River"
+  },
+  {
+    "quantity": "10",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of CSM in Katsina"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of CSM in Kwara"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of CSM in Taraba"
+  },
+  {
+    "quantity": "6",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of CSM in Zamfara"
+  },
+  {
+    "quantity": "503",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases of measles reported"
+  },
+  {
+    "quantity": "32",
+    "unit": "States",
+    "eventType": "EventO",
+    "eventDescription": "States reporting suspected cases of measles"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths from measles"
+  }
+]

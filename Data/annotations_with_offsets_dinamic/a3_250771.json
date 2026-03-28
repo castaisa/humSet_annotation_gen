@@ -1,0 +1,113 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "interviewed",
+      "start": 11,
+      "end": 22
+    },
+    "quantity": {
+      "text": "213",
+      "start": 7,
+      "end": 10
+    },
+    "unit": {
+      "text": "interviewed",
+      "start": 11,
+      "end": 22
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in direct contact with confirmed COVID 19 patient",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "19%",
+      "start": 29,
+      "end": 32
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "health workers in direct contact with confirmed COVID 19 patients",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "59%",
+      "start": 124,
+      "end": 127
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "present during Aerosol generating procedure (AGP)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "37%",
+      "start": 208,
+      "end": 211
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have direct contact with the environment where the confirmed COVID 19 patient was cared for",
+      "start": 395,
+      "end": 486
+    },
+    "quantity": {
+      "text": "55%",
+      "start": 306,
+      "end": 309
+    },
+    "unit": {
+      "text": "health workers",
+      "start": 138,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have to attend to other normal functions in the hospital or have their own private practice",
+      "start": 542,
+      "end": 633
+    },
+    "quantity": {
+      "text": "39%",
+      "start": 490,
+      "end": 493
+    },
+    "unit": {
+      "text": "health professionals",
+      "start": 501,
+      "end": 521
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have to attend to other normal functions in the hospital or have their own private practice",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15%",
+      "start": 650,
+      "end": 653
+    },
+    "unit": {
+      "text": "overall survey responders",
+      "start": 663,
+      "end": 688
+    }
+  }
+]

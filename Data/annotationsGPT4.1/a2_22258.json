@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "at least 60",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "hundreds",
+    "unit": "burned structures",
+    "eventType": "EventO",
+    "eventDescription": "burned"
+  }
+]

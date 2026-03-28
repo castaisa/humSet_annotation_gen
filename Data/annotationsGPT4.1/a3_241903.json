@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "38 percent",
+    "unit": "imports volume",
+    "eventType": "EventO",
+    "eventDescription": "decreased"
+  },
+  {
+    "quantity": "18 percent",
+    "unit": "food imports volume",
+    "eventType": "EventO",
+    "eventDescription": "decreased"
+  },
+  {
+    "quantity": "588,000",
+    "unit": "tons of wheat",
+    "eventType": "EventA",
+    "eventDescription": "imported"
+  },
+  {
+    "quantity": "25 percent",
+    "unit": "GDP",
+    "eventType": "EventO",
+    "eventDescription": "contracted"
+  },
+  {
+    "quantity": "19 percent",
+    "unit": "real GDP",
+    "eventType": "EventO",
+    "eventDescription": "decline"
+  }
+]

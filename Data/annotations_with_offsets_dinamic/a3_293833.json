@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "promised to build",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40,000",
+      "start": 28,
+      "end": 34
+    },
+    "unit": {
+      "text": "affordable homes",
+      "start": 35,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "target for homes to be built",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40,000",
+      "start": 205,
+      "end": 211
+    },
+    "unit": {
+      "text": "goal",
+      "start": 212,
+      "end": 216
+    }
+  }
+]

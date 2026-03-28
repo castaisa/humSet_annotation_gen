@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "50 percent",
+    "unit": "family members",
+    "eventType": "EventP",
+    "eventDescription": "sent to beg"
+  },
+  {
+    "quantity": "7 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "engaged in illegal income activities"
+  },
+  {
+    "quantity": "6 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "sold their assets"
+  },
+  {
+    "quantity": "42 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "spent their savings"
+  },
+  {
+    "quantity": "24 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "withdrew their children from school"
+  },
+  {
+    "quantity": "69 percent",
+    "unit": "households in Damboa",
+    "eventType": "EventP",
+    "eventDescription": "used emergency coping strategies"
+  },
+  {
+    "quantity": "58 percent",
+    "unit": "households in Bama",
+    "eventType": "EventP",
+    "eventDescription": "used emergency coping strategies"
+  },
+  {
+    "quantity": "52 percent",
+    "unit": "households in Konduga",
+    "eventType": "EventP",
+    "eventDescription": "used emergency coping strategies"
+  },
+  {
+    "quantity": "47 percent",
+    "unit": "households in Gwoza",
+    "eventType": "EventP",
+    "eventDescription": "used emergency coping strategies"
+  },
+  {
+    "quantity": "42 percent",
+    "unit": "households in Madagali",
+    "eventType": "EventP",
+    "eventDescription": "used emergency coping strategies"
+  }
+]

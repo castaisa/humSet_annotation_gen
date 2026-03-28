@@ -1,0 +1,85 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "average price of WFP’s national reference food basket",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "92,214",
+      "start": 106,
+      "end": 112
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 102,
+      "end": 105
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Aleppo 6-month increase in food basket price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "56 percent",
+      "start": 336,
+      "end": 346
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Tartous 6-month increase in food basket price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38 percent",
+      "start": 373,
+      "end": 383
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Homs 6-month increase in food basket price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "37 percent",
+      "start": 398,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Idleb food basket price higher than national average",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32 percent",
+      "start": 508,
+      "end": 518
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Deir-ez-Zor food basket price lower than national average",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12 percent",
+      "start": 614,
+      "end": 624
+    }
+  }
+]

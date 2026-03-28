@@ -1,0 +1,434 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened",
+      "start": 46,
+      "end": 54
+    },
+    "quantity": {
+      "text": "23,188",
+      "start": 55,
+      "end": 61
+    },
+    "unit": {
+      "text": "children under five",
+      "start": 62,
+      "end": 81
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "treated for acute malnutrition without complications",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "231",
+      "start": 94,
+      "end": 97
+    },
+    "unit": {
+      "text": "children",
+      "start": 98,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received deworming treatment",
+      "start": 895,
+      "end": 923
+    },
+    "quantity": {
+      "text": "6,795",
+      "start": 817,
+      "end": 822
+    },
+    "unit": {
+      "text": "children between 6 and 59 months and pregnant and lactating women (PLW)",
+      "start": 823,
+      "end": 894
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received micronutrient supplementation",
+      "start": 959,
+      "end": 997
+    },
+    "quantity": {
+      "text": "3,250",
+      "start": 925,
+      "end": 930
+    },
+    "unit": {
+      "text": "children under five and PLW",
+      "start": 931,
+      "end": 958
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received nutrition supplementation to prevent acute malnutrition",
+      "start": 1018,
+      "end": 1082
+    },
+    "quantity": {
+      "text": "3,571",
+      "start": 1003,
+      "end": 1008
+    },
+    "unit": {
+      "text": "children",
+      "start": 1009,
+      "end": 1017
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "received capacity building support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24",
+      "start": 1173,
+      "end": 1175
+    },
+    "unit": {
+      "text": "states",
+      "start": 1176,
+      "end": 1182
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in nutrition training workshops",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "475",
+      "start": 1184,
+      "end": 1187
+    },
+    "unit": {
+      "text": "health professionals",
+      "start": 1188,
+      "end": 1208
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "conducted",
+      "start": 1274,
+      "end": 1283
+    },
+    "quantity": {
+      "text": "13",
+      "start": 1225,
+      "end": 1227
+    },
+    "unit": {
+      "text": "UNICEF supported nutrition training workshops",
+      "start": 1228,
+      "end": 1273
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": 1367,
+      "end": 1374
+    },
+    "quantity": {
+      "text": "47",
+      "start": 1405,
+      "end": 1407
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 1408,
+      "end": 1415
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": 2381,
+      "end": 2388
+    },
+    "quantity": {
+      "text": "10",
+      "start": 1417,
+      "end": 1419
+    },
+    "unit": {
+      "text": "paediatricians",
+      "start": 1420,
+      "end": 1434
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "123",
+      "start": 1436,
+      "end": 1439
+    },
+    "unit": {
+      "text": "nurses",
+      "start": 1440,
+      "end": 1446
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 1448,
+      "end": 1453
+    },
+    "unit": {
+      "text": "nutritionists and dietitians",
+      "start": 1454,
+      "end": 1482
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "287",
+      "start": 1488,
+      "end": 1491
+    },
+    "unit": {
+      "text": "health technicians, volunteers and social workers",
+      "start": 1492,
+      "end": 1541
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in a training workshop",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38",
+      "start": 1946,
+      "end": 1948
+    },
+    "unit": {
+      "text": "health professionals",
+      "start": 1949,
+      "end": 1969
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "identified health professionals",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20",
+      "start": 1984,
+      "end": 1986
+    },
+    "unit": {
+      "text": "government health institutions",
+      "start": 1987,
+      "end": 2017
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "participated in a training workshop",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15",
+      "start": 2021,
+      "end": 2023
+    },
+    "unit": {
+      "text": "states",
+      "start": 2024,
+      "end": 2030
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "participated in a training workshop",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 2031,
+      "end": 2032
+    },
+    "unit": {
+      "text": "states",
+      "start": 2593,
+      "end": 2599
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "expected to receive replicated training sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "500",
+      "start": 2446,
+      "end": 2449
+    },
+    "unit": {
+      "text": "health workers",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "to receive nutritional assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "143,794",
+      "start": 2691,
+      "end": 2698
+    },
+    "unit": {
+      "text": "children under five and PLW",
+      "start": 2699,
+      "end": 2726
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "to receive micronutrient supplementation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "132,000",
+      "start": 2973,
+      "end": 2980
+    },
+    "unit": {
+      "text": "children under five",
+      "start": 2981,
+      "end": 3000
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "to receive micronutrient supplementation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11,380",
+      "start": 3005,
+      "end": 3011
+    },
+    "unit": {
+      "text": "PLW",
+      "start": 3012,
+      "end": 3015
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "to receive deworming",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "115,032",
+      "start": 3030,
+      "end": 3037
+    },
+    "unit": {
+      "text": "children between 24-59 months and PLW",
+      "start": 3038,
+      "end": 3075
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "to receive preventive management of acute malnutrition",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23,000",
+      "start": 3128,
+      "end": 3134
+    },
+    "unit": {
+      "text": "children at risk",
+      "start": 3135,
+      "end": 3151
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "to receive treatment for acute malnutrition without complications",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,000",
+      "start": 3170,
+      "end": 3175
+    },
+    "unit": {
+      "text": "children",
+      "start": 3176,
+      "end": 3184
+    }
+  }
+]

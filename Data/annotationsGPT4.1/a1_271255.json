@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "13%",
+    "unit": "vegetable oil price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increase"
+  },
+  {
+    "quantity": "11%",
+    "unit": "ghee price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increase"
+  },
+  {
+    "quantity": "15%",
+    "unit": "liquid petroleum gas price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increase"
+  },
+  {
+    "quantity": "7%",
+    "unit": "manually refined kerosene price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increase"
+  },
+  {
+    "quantity": "54%",
+    "unit": "fuel vendors reporting kerosene unavailable",
+    "eventType": "EventO",
+    "eventDescription": "reported as unavailable"
+  }
+]

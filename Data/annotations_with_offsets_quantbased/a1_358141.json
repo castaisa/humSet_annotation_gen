@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 25,000",
+      "start": 262,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "impacted by access constraints",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 274,
+      "end": 280
+    },
+    "modifier": {
+      "text": "over",
+      "start": 262,
+      "end": 266
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "230",
+      "start": 420,
+      "end": 423
+    },
+    "eventDescription": {
+      "text": "malnutrition cases recorded",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SAM cases",
+      "start": 424,
+      "end": 433
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "95",
+      "start": 474,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "discharged after treatment",
+      "start": 487,
+      "end": 513
+    },
+    "unit": {
+      "text": "SAM cases",
+      "start": 424,
+      "end": 433
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19",
+      "start": 518,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "transferred to Maiduguri for intensive care",
+      "start": 539,
+      "end": 582
+    },
+    "unit": {
+      "text": "complicated cases",
+      "start": 521,
+      "end": 538
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "950 tons",
+      "start": 628,
+      "end": 636
+    },
+    "eventDescription": {
+      "text": "prepositioned to Rann",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food",
+      "start": 640,
+      "end": 644
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "hundreds",
+      "start": 912,
+      "end": 920
+    },
+    "eventDescription": {
+      "text": "claimed by attacks and clashes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "civilian lives",
+      "start": 924,
+      "end": 938
+    }
+  }
+]

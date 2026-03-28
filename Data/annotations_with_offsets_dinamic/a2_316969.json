@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "positive growth rates in minimum dietary diversity among women",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16 to 22 percent",
+      "start": 492,
+      "end": 508
+    },
+    "unit": {
+      "text": "percent",
+      "start": 501,
+      "end": 508
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "decline in dietary diversity in Guinea",
+      "start": 570,
+      "end": 608
+    },
+    "quantity": {
+      "text": "100 percent",
+      "start": 610,
+      "end": 621
+    },
+    "unit": {
+      "text": "percent",
+      "start": 614,
+      "end": 621
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "decline in dietary diversity in Ghana",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "37 percent",
+      "start": 638,
+      "end": 648
+    },
+    "unit": {
+      "text": "percent",
+      "start": 641,
+      "end": 648
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported results for minimum dietary diversity in Burundi",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.7 percent",
+      "start": 687,
+      "end": 698
+    },
+    "unit": {
+      "text": "percent",
+      "start": 691,
+      "end": 698
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported results for minimum dietary diversity in Mauritania",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18 percent",
+      "start": 719,
+      "end": 729
+    },
+    "unit": {
+      "text": "percent",
+      "start": 722,
+      "end": 729
+    }
+  }
+]

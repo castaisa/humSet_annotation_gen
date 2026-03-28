@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8,239",
+      "start": 288,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "documented",
+      "start": 277,
+      "end": 287
+    },
+    "unit": {
+      "text": "civilian casualties",
+      "start": 294,
+      "end": 313
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,563",
+      "start": 315,
+      "end": 320
+    },
+    "eventDescription": {
+      "text": "documented",
+      "start": 277,
+      "end": 287
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 321,
+      "end": 327
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,676",
+      "start": 332,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "documented",
+      "start": 277,
+      "end": 287
+    },
+    "unit": {
+      "text": "injured",
+      "start": 338,
+      "end": 345
+    }
+  }
+]

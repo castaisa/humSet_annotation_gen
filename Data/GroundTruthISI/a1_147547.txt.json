@@ -1,0 +1,344 @@
+[
+  {
+    "quantity": {
+      "text": "146,033",
+      "begin": 62,
+      "end": 69
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "protection interventions",
+      "begin": 70,
+      "end": 94
+    }
+  },
+  {
+    "quantity": {
+      "text": "311",
+      "begin": 142,
+      "end": 145
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "communities",
+      "begin": 146,
+      "end": 157
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 161,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "governorates",
+      "begin": 167,
+      "end": 179
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,053",
+      "begin": 266,
+      "end": 271
+    },
+    "eventDescription": {
+      "text": "Key services provided were: psychological first aid",
+      "begin": 210,
+      "end": 261
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 272,
+      "end": 277
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,761",
+      "begin": 279,
+      "end": 284
+    },
+    "eventDescription": {
+      "text": "Key services provided were: psychological first aid",
+      "begin": 210,
+      "end": 261
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 285,
+      "end": 289
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,588",
+      "begin": 291,
+      "end": 296
+    },
+    "eventDescription": {
+      "text": "Key services provided were: psychological first aid",
+      "begin": 210,
+      "end": 261
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 297,
+      "end": 302
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,580",
+      "begin": 307,
+      "end": 312
+    },
+    "eventDescription": {
+      "text": "Key services provided were: psychological first aid",
+      "begin": 210,
+      "end": 261
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 313,
+      "end": 316
+    }
+  },
+  {
+    "quantity": {
+      "text": "192",
+      "begin": 428,
+      "end": 431
+    },
+    "eventDescription": {
+      "text": "legal awareness-raising sessions",
+      "begin": 318,
+      "end": 350
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 432,
+      "end": 437
+    }
+  },
+  {
+    "quantity": {
+      "text": "193",
+      "begin": 439,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "legal awareness-raising sessions",
+      "begin": 318,
+      "end": 350
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 443,
+      "end": 447
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,987",
+      "begin": 449,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "legal awareness-raising sessions",
+      "begin": 318,
+      "end": 350
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 455,
+      "end": 460
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,918",
+      "begin": 465,
+      "end": 470
+    },
+    "eventDescription": {
+      "text": "legal awareness-raising sessions",
+      "begin": 318,
+      "end": 350
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 471,
+      "end": 474
+    }
+  },
+  {
+    "quantity": {
+      "text": "90",
+      "begin": 530,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "integrated/comprehensive case management services",
+      "begin": 476,
+      "end": 525
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 533,
+      "end": 538
+    }
+  },
+  {
+    "quantity": {
+      "text": "142",
+      "begin": 540,
+      "end": 543
+    },
+    "eventDescription": {
+      "text": "integrated/comprehensive case management services",
+      "begin": 476,
+      "end": 525
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 544,
+      "end": 548
+    }
+  },
+  {
+    "quantity": {
+      "text": "281",
+      "begin": 550,
+      "end": 553
+    },
+    "eventDescription": {
+      "text": "integrated/comprehensive case management services",
+      "begin": 476,
+      "end": 525
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 554,
+      "end": 559
+    }
+  },
+  {
+    "quantity": {
+      "text": "169",
+      "begin": 564,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "integrated/comprehensive case management services",
+      "begin": 476,
+      "end": 525
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 568,
+      "end": 571
+    }
+  },
+  {
+    "quantity": {
+      "text": "879",
+      "begin": 609,
+      "end": 612
+    },
+    "eventDescription": {
+      "text": "referrals to other services",
+      "begin": 577,
+      "end": 604
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 613,
+      "end": 618
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,121",
+      "begin": 620,
+      "end": 625
+    },
+    "eventDescription": {
+      "text": "referrals to other services",
+      "begin": 577,
+      "end": 604
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 626,
+      "end": 630
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,637",
+      "begin": 632,
+      "end": 637
+    },
+    "eventDescription": {
+      "text": "referrals to other services",
+      "begin": 577,
+      "end": 604
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 638,
+      "end": 643
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,048",
+      "begin": 648,
+      "end": 653
+    },
+    "eventDescription": {
+      "text": "referrals to other services",
+      "begin": 577,
+      "end": 604
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 654,
+      "end": 657
+    }
+  }
+]

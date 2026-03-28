@@ -1,0 +1,95 @@
+[
+  {
+    "quantity": "more than half",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "having at least one vulnerability",
+    "modifier": "over"
+  },
+  {
+    "quantity": "57%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "having at least one vulnerability"
+  },
+  {
+    "quantity": "one-third",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had a pregnant or breastfeeding woman"
+  },
+  {
+    "quantity": "32%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had a pregnant or breastfeeding woman"
+  },
+  {
+    "quantity": "a quarter",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "were female-headed"
+  },
+  {
+    "quantity": "25%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "were female-headed"
+  },
+  {
+    "quantity": "16%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "had high age-dependency ratios"
+  },
+  {
+    "quantity": "nearly half",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reporting being under threat of eviction",
+    "modifier": "about"
+  },
+  {
+    "quantity": "41%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reporting being under threat of eviction"
+  },
+  {
+    "quantity": "70%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "not having adults with any documentation"
+  },
+  {
+    "quantity": "nearly half",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "having experienced a security incident in the last three months",
+    "modifier": "about"
+  },
+  {
+    "quantity": "44%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "having experienced a security incident in the last three months"
+  },
+  {
+    "quantity": "one-fifth",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reporting a household member being missing or detained"
+  },
+  {
+    "quantity": "19%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reporting a household member being missing or detained"
+  },
+  {
+    "quantity": "41%",
+    "unit": "IDPs in Damboa",
+    "eventType": "EventP",
+    "eventDescription": "reported actively making plans to leave within the next six months"
+  }
+]

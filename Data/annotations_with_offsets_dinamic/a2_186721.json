@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sensitized on key messages on infant and young child feeding practices integrating COVID-19 specific messages",
+      "start": 186,
+      "end": 295
+    },
+    "quantity": {
+      "text": "28,093",
+      "start": 133,
+      "end": 139
+    },
+    "unit": {
+      "text": "persons",
+      "start": 140,
+      "end": 147
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sensitized on key messages on infant and young child feeding practices integrating COVID-19 specific messages",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9,496",
+      "start": 149,
+      "end": 154
+    },
+    "unit": {
+      "text": "males",
+      "start": 155,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sensitized on key messages on infant and young child feeding practices integrating COVID-19 specific messages",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18,597",
+      "start": 165,
+      "end": 171
+    },
+    "unit": {
+      "text": "females",
+      "start": 172,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in training on Blanket Supplementary Feeding Programmes (BSFP)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 484,
+      "end": 486
+    },
+    "unit": {
+      "text": "health workers",
+      "start": 487,
+      "end": 501
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained to detect and refer children suffering from SAM to treatment services",
+      "start": 553,
+      "end": 630
+    },
+    "quantity": {
+      "text": "2,378",
+      "start": 531,
+      "end": 536
+    },
+    "unit": {
+      "text": "caregivers",
+      "start": 537,
+      "end": 547
+    }
+  }
+]

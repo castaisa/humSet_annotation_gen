@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported a reduction of revenues from business activities or agricultural sales",
+      "start": 182,
+      "end": 261
+    },
+    "quantity": {
+      "text": "47 percent",
+      "start": 170,
+      "end": 180
+    },
+    "unit": {
+      "text": "households",
+      "start": 55,
+      "end": 65
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported a reduction of revenues from business activities or agricultural sales",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "49 percent",
+      "start": 327,
+      "end": 337
+    },
+    "unit": {
+      "text": "male-headed households",
+      "start": 303,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported a reduction of revenues from business activities or agricultural sales",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36 percent",
+      "start": 377,
+      "end": 387
+    },
+    "unit": {
+      "text": "female-headed households",
+      "start": 351,
+      "end": 375
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported having been impacted by a reduction in working hours and thus receiving a partial salary",
+      "start": 467,
+      "end": 564
+    },
+    "quantity": {
+      "text": "33 percent",
+      "start": 419,
+      "end": 429
+    },
+    "unit": {
+      "text": "households",
+      "start": 445,
+      "end": 455
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported having been impacted by a reduction in working hours and thus receiving a partial salary",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42 percent",
+      "start": 595,
+      "end": 605
+    },
+    "unit": {
+      "text": "households in Homs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported having been impacted by a reduction in working hours and thus receiving a partial salary",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42 percent",
+      "start": 622,
+      "end": 632
+    },
+    "unit": {
+      "text": "households in As-Sweida",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "indicated job lay-offs",
+      "start": 682,
+      "end": 704
+    },
+    "quantity": {
+      "text": "16 percent",
+      "start": 648,
+      "end": 658
+    },
+    "unit": {
+      "text": "households",
+      "start": 671,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "indicated job lay-offs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25 percent",
+      "start": 743,
+      "end": 753
+    },
+    "unit": {
+      "text": "households in Deir-ez-Zor",
+      "start": null,
+      "end": null
+    }
+  }
+]

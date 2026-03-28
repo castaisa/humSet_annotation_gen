@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age range of children",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6-59",
+      "start": 77,
+      "end": 81
+    },
+    "unit": {
+      "text": "months",
+      "start": 82,
+      "end": 88
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "chronic malnutrition among children aged 6-59 months",
+      "start": 36,
+      "end": 88
+    },
+    "quantity": {
+      "text": "19 percent",
+      "start": 104,
+      "end": 114
+    },
+    "unit": {
+      "text": "prevalence of chronic malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "chronic malnutrition among children aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "33 percent",
+      "start": 118,
+      "end": 128
+    },
+    "unit": {
+      "text": "prevalence of chronic malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "chronic malnutrition among boys aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35percent",
+      "start": 130,
+      "end": 139
+    },
+    "unit": {
+      "text": "prevalence of chronic malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "chronic malnutrition among girls aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "31percent",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "prevalence of chronic malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute malnutrition among children aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 percent",
+      "start": 265,
+      "end": 274
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "start": 217,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute malnutrition among children aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 percent",
+      "start": 278,
+      "end": 287
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "start": 355,
+      "end": 387
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute malnutrition among Pregnant and Lactating Women (PLW)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11 percent",
+      "start": 417,
+      "end": 427
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute malnutrition among children aged 6-59 months in Idleb",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4 percent",
+      "start": 622,
+      "end": 631
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute malnutrition among children aged 6-59 months in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 percent",
+      "start": 636,
+      "end": 645
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute malnutrition among PLW in Idleb",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20 percent",
+      "start": 656,
+      "end": 666
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute malnutrition among PLW in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 percent",
+      "start": 671,
+      "end": 680
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "start": null,
+      "end": null
+    }
+  }
+]

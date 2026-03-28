@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "88%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "in need of education support"
+  },
+  {
+    "quantity": "7.3 out of 10",
+    "unit": "severity score",
+    "eventType": "EventO",
+    "eventDescription": "average severity score"
+  },
+  {
+    "quantity": "86%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported not owning school supplies"
+  }
+]

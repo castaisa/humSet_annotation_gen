@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported limited food access",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23%",
+      "start": 43,
+      "end": 46
+    },
+    "unit": {
+      "text": "households",
+      "start": 50,
+      "end": 60
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reduced spending on food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "66%",
+      "start": 100,
+      "end": 103
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  }
+]

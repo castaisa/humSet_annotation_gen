@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "45",
+    "unit": "districts",
+    "eventType": "EventO",
+    "eventDescription": "classified in IPC Phase 5 (Catastrophe)"
+  },
+  {
+    "quantity": "240,000",
+    "unit": "population",
+    "eventType": "EventP",
+    "eventDescription": "classified in IPC Phase 5 (Catastrophe)",
+    "modifier": "nearly"
+  }
+]

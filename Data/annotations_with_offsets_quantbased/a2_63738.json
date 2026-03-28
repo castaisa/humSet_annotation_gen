@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,577",
+      "start": 83,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "vaccinated",
+      "start": 72,
+      "end": 82
+    },
+    "unit": {
+      "text": "Venezuelans and returning Guyanese",
+      "start": 89,
+      "end": 123
+    }
+  }
+]

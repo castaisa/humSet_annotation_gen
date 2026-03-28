@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "health facility composition",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 34,
+      "end": 39
+    },
+    "unit": {
+      "text": "tents",
+      "start": 40,
+      "end": 45
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "patients received daily",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "70",
+      "start": 67,
+      "end": 69
+    },
+    "unit": {
+      "text": "patients",
+      "start": 78,
+      "end": 86
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "patients received daily",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "100",
+      "start": 74,
+      "end": 77
+    },
+    "unit": {
+      "text": "patients",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children's age",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 217,
+      "end": 221
+    },
+    "unit": {
+      "text": "years",
+      "start": 222,
+      "end": 227
+    }
+  }
+]

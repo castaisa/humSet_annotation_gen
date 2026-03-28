@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "868",
+      "begin": 135,
+      "end": 138
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 139,
+      "end": 149
+    }
+  },
+  {
+    "quantity": {
+      "text": "28 percent",
+      "begin": 192,
+      "end": 202
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 203,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "increase on tomato prices was recorded",
+      "begin": 209,
+      "end": 247
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "700",
+      "begin": 330,
+      "end": 333
+    },
+    "eventDescription": {
+      "text": "selling price of tomatoes decreased significantly in Rural Damascus",
+      "begin": 253,
+      "end": 320
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 334,
+      "end": 344
+    }
+  },
+  {
+    "quantity": {
+      "text": "42 percent",
+      "begin": 346,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "selling price of tomatoes decreased significantly in Rural Damascus",
+      "begin": 253,
+      "end": 320
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 357,
+      "end": 362
+    }
+  },
+  {
+    "quantity": {
+      "text": "Tomato selling prices in Aleppo also decreased significantly",
+      "begin": 374,
+      "end": 434
+    },
+    "unit": {
+      "text": "SYP",
+      "begin": 446,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "Tomato selling prices in Aleppo also decreased significantly",
+      "begin": 374,
+      "end": 434
+    },
+    "unit": {
+      "text": "SYP",
+      "begin": 471,
+      "end": 474
+    }
+  },
+  {
+    "quantity": {
+      "text": "33 percent",
+      "begin": 531,
+      "end": 541
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 542,
+      "end": 547
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 561,
+      "end": 564
+    },
+    "unit": {
+      "text": "tomatoes",
+      "begin": 577,
+      "end": 585
+    }
+  },
+  {
+    "quantity": {
+      "text": "868",
+      "begin": 601,
+      "end": 604
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 605,
+      "end": 615
+    }
+  }
+]

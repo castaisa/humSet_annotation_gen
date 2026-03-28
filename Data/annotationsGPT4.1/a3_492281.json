@@ -1,0 +1,55 @@
+[
+  {
+    "quantity": "1.7 million",
+    "unit": "internally displaced people (IDP)",
+    "eventType": "EventP",
+    "eventDescription": "reported in IDP sites"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "of these IDPs",
+    "eventType": "EventP",
+    "eventDescription": "being women and children"
+  },
+  {
+    "quantity": "more than 38,600",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displacement",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "around 15,000",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "displaced",
+    "modifier": "around"
+  },
+  {
+    "quantity": "over 3,200",
+    "unit": "men and elderly",
+    "eventType": "EventP",
+    "eventDescription": "displaced",
+    "modifier": "over"
+  },
+  {
+    "quantity": "over 20,400",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "displaced",
+    "modifier": "over"
+  },
+  {
+    "quantity": "around 1,500",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "accommodated in collective shelters",
+    "modifier": "around"
+  },
+  {
+    "quantity": "seven",
+    "unit": "collective shelters",
+    "eventType": "EventO",
+    "eventDescription": "accommodated IDPs"
+  }
+]

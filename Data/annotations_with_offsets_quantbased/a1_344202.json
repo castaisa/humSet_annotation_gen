@@ -1,0 +1,118 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "411,125",
+      "start": 124,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "value of the regional Survival Minimum Expenditure Basket (SMEB)",
+      "start": 39,
+      "end": 103
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 132,
+      "end": 135
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 139,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "decrease in SMEB value",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "74%",
+      "start": 181,
+      "end": 184
+    },
+    "eventDescription": {
+      "text": "long-term increase in SMEB value",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "113",
+      "start": 397,
+      "end": 400
+    },
+    "eventDescription": {
+      "text": "SMEB value in March",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 401,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "116",
+      "start": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "SMEB value in March",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 421,
+      "end": 424
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "113",
+      "start": 547,
+      "end": 550
+    },
+    "eventDescription": {
+      "text": "average SMEB value in USD",
+      "start": 498,
+      "end": 523
+    },
+    "unit": {
+      "text": "USD",
+      "start": 559,
+      "end": 562
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "116",
+      "start": 555,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "average SMEB value in USD",
+      "start": 498,
+      "end": 523
+    },
+    "unit": {
+      "text": "USD",
+      "start": 559,
+      "end": 562
+    }
+  }
+]

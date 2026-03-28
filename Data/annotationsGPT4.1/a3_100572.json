@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "16",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "6-59",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "age range"
+  },
+  {
+    "quantity": "16",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "5",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "in the Yellow category"
+  },
+  {
+    "quantity": "11",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "in the Green category"
+  },
+  {
+    "quantity": "2",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "reports received from"
+  }
+]

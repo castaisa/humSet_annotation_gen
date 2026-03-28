@@ -1,0 +1,53 @@
+[
+  {
+    "quantity": {
+      "text": "4,638",
+      "begin": 58,
+      "end": 63
+    },
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    }
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 239,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "receiving cash assistance",
+      "begin": 249,
+      "end": 274
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 276,
+      "end": 278
+    },
+    "eventDescription": {
+      "text": "receiving livelihoods assistance",
+      "begin": 286,
+      "end": 318
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 323,
+      "end": 325
+    },
+    "eventDescription": {
+      "text": "receiving employment assistance",
+      "begin": 333,
+      "end": 364
+    },
+    "eventType": "EventA"
+  }
+]

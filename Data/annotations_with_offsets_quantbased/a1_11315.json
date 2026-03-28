@@ -1,0 +1,380 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "three",
+      "start": 49,
+      "end": 54
+    },
+    "eventDescription": {
+      "text": "facilitated airlifts",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "airlifts",
+      "start": 55,
+      "end": 63
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "two",
+      "start": 112,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "airlift rotations",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "rotations",
+      "start": 116,
+      "end": 125
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "37.2 MT",
+      "start": 135,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "MT",
+      "start": 140,
+      "end": 142
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "139 m3",
+      "start": 143,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "m3",
+      "start": 147,
+      "end": 149
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "three",
+      "start": 212,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "airlift rotations",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "rotations",
+      "start": 218,
+      "end": 227
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "47.5 MT",
+      "start": 237,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "MT",
+      "start": 242,
+      "end": 244
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "247 m3",
+      "start": 245,
+      "end": 251
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "m3",
+      "start": 249,
+      "end": 251
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "13 MT",
+      "start": 283,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "MT",
+      "start": 286,
+      "end": 288
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "69 m3",
+      "start": 289,
+      "end": 294
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "m3",
+      "start": 292,
+      "end": 294
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "65",
+      "start": 368,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "passengers carried",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "passengers",
+      "start": 371,
+      "end": 381
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16",
+      "start": 387,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "organisations involved",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "organisations",
+      "start": 390,
+      "end": 403
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "180 MT",
+      "start": 443,
+      "end": 449
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "MT",
+      "start": 447,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,211 m3",
+      "start": 450,
+      "end": 458
+    },
+    "eventDescription": {
+      "text": "cargo transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "m3",
+      "start": 456,
+      "end": 458
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "74 MT",
+      "start": 552,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "relief items transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "MT",
+      "start": 555,
+      "end": 557
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "610 m3",
+      "start": 558,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "relief items transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "m3",
+      "start": 562,
+      "end": 564
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "two",
+      "start": 610,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "voyages made",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "voyages",
+      "start": 614,
+      "end": 621
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "824 MT",
+      "start": 688,
+      "end": 694
+    },
+    "eventDescription": {
+      "text": "relief items transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "MT",
+      "start": 692,
+      "end": 694
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "3,851 m3",
+      "start": 695,
+      "end": 703
+    },
+    "eventDescription": {
+      "text": "relief items transported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "m3",
+      "start": 701,
+      "end": 703
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "81,874,486 litres",
+      "start": 745,
+      "end": 762
+    },
+    "eventDescription": {
+      "text": "diesel distributed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "litres",
+      "start": 756,
+      "end": 762
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "33,812 litres",
+      "start": 777,
+      "end": 790
+    },
+    "eventDescription": {
+      "text": "petrol distributed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "litres",
+      "start": 784,
+      "end": 790
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20",
+      "start": 804,
+      "end": 806
+    },
+    "eventDescription": {
+      "text": "organisations received fuel",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "organisations",
+      "start": 807,
+      "end": 820
+    }
+  }
+]

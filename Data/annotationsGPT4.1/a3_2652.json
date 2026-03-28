@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "1.35 million",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "vaccinated against polio and measles"
+  },
+  {
+    "quantity": "6",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "children under 6 years achieved universal coverage"
+  },
+  {
+    "quantity": "83,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "benefitted from improved access to safe drinking water and gender-appropriate sanitation facilities",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "37,350",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "benefitted from improved access to safe drinking water and gender-appropriate sanitation facilities"
+  },
+  {
+    "quantity": "23,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "gained access to non-formal education and recreational activities and received essential learning materials and supplies"
+  },
+  {
+    "quantity": "6,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "helped return to learning in conflict-affected areas"
+  },
+  {
+    "quantity": "27,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "participated in structured and sustained child protection and psychosocial support services"
+  },
+  {
+    "quantity": "125",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "released from local armed groups"
+  }
+]

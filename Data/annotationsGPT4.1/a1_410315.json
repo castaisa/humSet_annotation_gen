@@ -1,0 +1,58 @@
+[
+  {
+    "quantity": "one out of five",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported challenges in accessing medical care services",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "21 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported challenges in accessing medical care services"
+  },
+  {
+    "quantity": "six percentage points",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase year-on-year"
+  },
+  {
+    "quantity": "second",
+    "unit": "national average level",
+    "eventType": "EventO",
+    "eventDescription": "recorded since April 2020"
+  },
+  {
+    "quantity": "28 percent",
+    "unit": "households in Lattakia",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of access to hospitals and healthcare facilities"
+  },
+  {
+    "quantity": "28 percent",
+    "unit": "households in Al-Hasakeh",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of access to hospitals and healthcare facilities"
+  },
+  {
+    "quantity": "25 percent",
+    "unit": "households in Dar'a",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of access to hospitals and healthcare facilities"
+  },
+  {
+    "quantity": "17 percent",
+    "unit": "surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "have elderly members with chronic diseases"
+  },
+  {
+    "quantity": "52 percent",
+    "unit": "public hospitals in Syria",
+    "eventType": "EventA",
+    "eventDescription": "were reportedly not fully functioning",
+    "modifier": "around"
+  }
+]

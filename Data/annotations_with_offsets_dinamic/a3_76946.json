@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "death",
+      "start": 418,
+      "end": 423
+    },
+    "quantity": {
+      "text": "10",
+      "start": 427,
+      "end": 429
+    },
+    "unit": {
+      "text": "Nigerian soldiers",
+      "start": 430,
+      "end": 447
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "seriously injured",
+      "start": 474,
+      "end": 491
+    },
+    "modifier": {
+      "text": "about",
+      "start": 454,
+      "end": 459
+    },
+    "quantity": {
+      "text": "about 9",
+      "start": 454,
+      "end": 461
+    },
+    "unit": {
+      "text": "others",
+      "start": 462,
+      "end": 468
+    }
+  }
+]

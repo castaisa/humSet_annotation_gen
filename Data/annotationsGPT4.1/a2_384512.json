@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "70 per cent",
+    "unit": "sites",
+    "eventType": "EventP",
+    "eventDescription": "IDPs residing in camps with piped water as main source"
+  },
+  {
+    "quantity": "68%",
+    "unit": "sites",
+    "eventType": "EventP",
+    "eventDescription": "IDPs residing in camps with piped water as main source (previous round)"
+  },
+  {
+    "quantity": "19 per cent",
+    "unit": "sites",
+    "eventType": "EventP",
+    "eventDescription": "IDPs residing in camps with hand pumps as main source of drinking water"
+  },
+  {
+    "quantity": "20%",
+    "unit": "sites",
+    "eventType": "EventP",
+    "eventDescription": "IDPs residing in camps with hand pumps as main source of drinking water (previous round)"
+  },
+  {
+    "quantity": "6%",
+    "unit": "sites",
+    "eventType": "EventP",
+    "eventDescription": "IDPs residing in camps with water trucks as main source of drinking water"
+  },
+  {
+    "quantity": "1 per cent",
+    "unit": "sites",
+    "eventType": "EventP",
+    "eventDescription": "IDPs residing in camps with unprotected wells as main source of water"
+  },
+  {
+    "quantity": "8 per cent",
+    "unit": "sites",
+    "eventType": "EventP",
+    "eventDescription": "IDPs residing in camps with unprotected wells as main source of water (previous round)"
+  }
+]

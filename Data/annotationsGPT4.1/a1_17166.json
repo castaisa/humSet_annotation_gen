@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "1,064",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "submitted for resettlement"
+  },
+  {
+    "quantity": "7",
+    "unit": "States",
+    "eventType": "EventO",
+    "eventDescription": "resettlement destination countries"
+  },
+  {
+    "quantity": "318",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "departed on resettlement"
+  },
+  {
+    "quantity": "130",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "accepted for resettlement and pending departure"
+  },
+  {
+    "quantity": "38",
+    "unit": "Canada",
+    "eventType": "EventP",
+    "eventDescription": "accepted for resettlement and pending departure"
+  },
+  {
+    "quantity": "4",
+    "unit": "France",
+    "eventType": "EventP",
+    "eventDescription": "accepted for resettlement and pending departure"
+  },
+  {
+    "quantity": "1",
+    "unit": "the Netherlands",
+    "eventType": "EventP",
+    "eventDescription": "accepted for resettlement and pending departure"
+  },
+  {
+    "quantity": "81",
+    "unit": "Norway",
+    "eventType": "EventP",
+    "eventDescription": "accepted for resettlement and pending departure"
+  },
+  {
+    "quantity": "6",
+    "unit": "Sweden",
+    "eventType": "EventP",
+    "eventDescription": "accepted for resettlement and pending departure"
+  },
+  {
+    "quantity": "638",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "submitted for resettlement and pending interview or decision"
+  }
+]

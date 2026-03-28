@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 118,
+      "end": 123
+    },
+    "eventDescription": {
+      "text": "Asset ownership data was collected",
+      "begin": 77,
+      "end": 111
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "broad categories for REVA-4",
+      "begin": 124,
+      "end": 151
+    }
+  }
+]

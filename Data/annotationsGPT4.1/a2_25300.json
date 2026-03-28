@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "88%",
+    "unit": "education",
+    "eventType": "EventO",
+    "eventDescription": "unmet needs"
+  },
+  {
+    "quantity": "87%",
+    "unit": "health",
+    "eventType": "EventO",
+    "eventDescription": "unmet needs"
+  },
+  {
+    "quantity": "62%",
+    "unit": "WASH",
+    "eventType": "EventO",
+    "eventDescription": "unmet needs"
+  },
+  {
+    "quantity": "76%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "needing simultaneous support in education and health"
+  },
+  {
+    "quantity": "Sixty percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had dual needs in food security and education"
+  }
+]

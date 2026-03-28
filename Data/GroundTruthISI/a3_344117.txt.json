@@ -1,0 +1,78 @@
+[
+  {
+    "quantity": {
+      "text": "10 percent",
+      "begin": 149,
+      "end": 159
+    },
+    "unit": {
+      "text": "population",
+      "begin": 167,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "have currently a very limited capacity to cover their overall food and nutritional needs.",
+      "begin": 206,
+      "end": 295
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2 million",
+      "begin": 186,
+      "end": 195
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 181,
+      "end": 185
+    },
+    "unit": {
+      "text": "people",
+      "begin": 196,
+      "end": 202
+    },
+    "eventDescription": {
+      "text": "have currently a very limited capacity to cover their overall food and nutritional needs.",
+      "begin": 206,
+      "end": 295
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2.9 million",
+      "begin": 305,
+      "end": 316
+    },
+    "unit": {
+      "text": "expected to face a stage of crisis during the lean season.",
+      "begin": 321,
+      "end": 379
+    },
+    "eventDescription": {
+      "text": "expected to face a stage of crisis during the lean season",
+      "begin": 321,
+      "end": 378
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 460,
+      "end": 464
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 454,
+      "end": 459
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 465,
+      "end": 474
+    }
+  }
+]

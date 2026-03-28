@@ -1,0 +1,171 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported in IDP sites",
+      "start": 68,
+      "end": 89
+    },
+    "quantity": {
+      "text": "1.7 million",
+      "start": 17,
+      "end": 28
+    },
+    "unit": {
+      "text": "internally displaced people (IDP)",
+      "start": 29,
+      "end": 62
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "being women and children",
+      "start": 144,
+      "end": 168
+    },
+    "quantity": {
+      "text": "80 percent",
+      "start": 119,
+      "end": 129
+    },
+    "unit": {
+      "text": "of these IDPs",
+      "start": 130,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displacement",
+      "start": 413,
+      "end": 425
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 429,
+      "end": 438
+    },
+    "quantity": {
+      "text": "more than 38,600",
+      "start": 429,
+      "end": 445
+    },
+    "unit": {
+      "text": "people",
+      "start": 446,
+      "end": 452
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": 474,
+      "end": 483
+    },
+    "modifier": {
+      "text": "around",
+      "start": 500,
+      "end": 506
+    },
+    "quantity": {
+      "text": "around 15,000",
+      "start": 500,
+      "end": 513
+    },
+    "unit": {
+      "text": "women",
+      "start": 514,
+      "end": 519
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 521,
+      "end": 525
+    },
+    "quantity": {
+      "text": "over 3,200",
+      "start": 521,
+      "end": 531
+    },
+    "unit": {
+      "text": "men and elderly",
+      "start": 532,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 553,
+      "end": 557
+    },
+    "quantity": {
+      "text": "over 20,400",
+      "start": 553,
+      "end": 564
+    },
+    "unit": {
+      "text": "children",
+      "start": 565,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "accommodated in collective shelters",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "around",
+      "start": 634,
+      "end": 640
+    },
+    "quantity": {
+      "text": "around 1,500",
+      "start": 634,
+      "end": 646
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 580,
+      "end": 584
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "accommodated IDPs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 673,
+      "end": 678
+    },
+    "unit": {
+      "text": "collective shelters",
+      "start": 679,
+      "end": 698
+    }
+  }
+]

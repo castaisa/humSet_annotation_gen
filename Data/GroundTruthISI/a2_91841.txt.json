@@ -1,0 +1,111 @@
+[
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 260,
+      "end": 262
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 263,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "have been damaged to varying degrees",
+      "begin": 281,
+      "end": 317
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 357,
+      "end": 359
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 360,
+      "end": 377
+    },
+    "eventDescription": {
+      "text": "have been closed",
+      "begin": 383,
+      "end": 399
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 412,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "which are at risk of closure",
+      "begin": 415,
+      "end": 443
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 500,
+      "end": 503
+    },
+    "unit": {
+      "text": "schools",
+      "begin": 504,
+      "end": 511
+    }
+  },
+  {
+    "quantity": {
+      "text": "127,000",
+      "begin": 614,
+      "end": 621
+    },
+    "unit": {
+      "text": "students",
+      "begin": 622,
+      "end": 630
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 665,
+      "end": 670
+    },
+    "unit": {
+      "text": "schools",
+      "begin": 671,
+      "end": 678
+    },
+    "eventDescription": {
+      "text": "were reported closed",
+      "begin": 679,
+      "end": 699
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 916,
+      "end": 919
+    },
+    "eventDescription": {
+      "text": "all schools in the country were closed",
+      "begin": 864,
+      "end": 902
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks",
+      "begin": 920,
+      "end": 925
+    }
+  }
+]

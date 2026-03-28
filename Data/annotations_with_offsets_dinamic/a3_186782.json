@@ -1,0 +1,195 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reduction of weekly work hours",
+      "start": 207,
+      "end": 237
+    },
+    "quantity": {
+      "text": "30",
+      "start": 246,
+      "end": 248
+    },
+    "unit": {
+      "text": "weekly work hours",
+      "start": 220,
+      "end": 237
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration of reduced work hours",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 254,
+      "end": 257
+    },
+    "unit": {
+      "text": "months",
+      "start": 258,
+      "end": 264
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "renewable period for reduced work hours",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 292,
+      "end": 295
+    },
+    "unit": {
+      "text": "months",
+      "start": 296,
+      "end": 302
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "previous waiting period for unemployment insurance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "sixty",
+      "start": 635,
+      "end": 640
+    },
+    "unit": {
+      "text": "days",
+      "start": 650,
+      "end": 654
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reduced waiting period for unemployment insurance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 644,
+      "end": 649
+    },
+    "unit": {
+      "text": "days",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "solidarity contribution from companies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5%",
+      "start": 1048,
+      "end": 1050
+    },
+    "unit": {
+      "text": "contribution",
+      "start": 1051,
+      "end": 1063
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "profit threshold for company contributions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one million",
+      "start": 1104,
+      "end": 1115
+    },
+    "unit": {
+      "text": "US$",
+      "start": 1116,
+      "end": 1119
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "salary threshold for worker contributions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "500",
+      "start": 1155,
+      "end": 1158
+    },
+    "unit": {
+      "text": "US$",
+      "start": 1159,
+      "end": 1162
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "duration of worker contributions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 1183,
+      "end": 1187
+    },
+    "unit": {
+      "text": "months",
+      "start": 1188,
+      "end": 1194
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "amount to be raised through contributions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "US$ 1.4 billion",
+      "start": 1292,
+      "end": 1307
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "period for Congress to vote on the reform",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "thirty",
+      "start": 2081,
+      "end": 2087
+    },
+    "unit": {
+      "text": "days",
+      "start": 2088,
+      "end": 2092
+    }
+  }
+]

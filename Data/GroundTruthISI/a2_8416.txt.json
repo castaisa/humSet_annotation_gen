@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 32,
+      "end": 34
+    },
+    "unit": {
+      "text": "day",
+      "begin": 35,
+      "end": 38
+    }
+  }
+]

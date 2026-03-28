@@ -1,0 +1,187 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 292,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "divided",
+      "begin": 281,
+      "end": 288
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "areas",
+      "begin": 296,
+      "end": 301
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,721",
+      "begin": 361,
+      "end": 366
+    },
+    "unit": {
+      "text": "people",
+      "begin": 367,
+      "end": 373
+    },
+    "eventDescription": {
+      "text": "received health cards",
+      "begin": 374,
+      "end": 395
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,866",
+      "begin": 459,
+      "end": 464
+    },
+    "eventDescription": {
+      "text": "received health cards",
+      "begin": 374,
+      "end": 395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 465,
+      "end": 470
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,769",
+      "begin": 472,
+      "end": 477
+    },
+    "eventDescription": {
+      "text": "received health cards",
+      "begin": 374,
+      "end": 395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 478,
+      "end": 482
+    }
+  },
+  {
+    "quantity": {
+      "text": "86",
+      "begin": 487,
+      "end": 489
+    },
+    "eventDescription": {
+      "text": "received health cards",
+      "begin": 374,
+      "end": 395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "pregnant women",
+      "begin": 490,
+      "end": 504
+    }
+  },
+  {
+    "quantity": {
+      "text": "40,000",
+      "begin": 541,
+      "end": 547
+    },
+    "unit": {
+      "text": "batch",
+      "begin": 532,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "donated",
+      "begin": 548,
+      "end": 555
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,256",
+      "begin": 911,
+      "end": 916
+    },
+    "eventDescription": {
+      "text": "health cards are being distributed",
+      "begin": 755,
+      "end": 789
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "baby kits",
+      "begin": 917,
+      "end": 926
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,110",
+      "begin": 979,
+      "end": 984
+    },
+    "eventDescription": {
+      "text": "health cards are being distributed",
+      "begin": 755,
+      "end": 789
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 985,
+      "end": 990
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,146",
+      "begin": 995,
+      "end": 1000
+    },
+    "eventDescription": {
+      "text": "health cards are being distributed",
+      "begin": 755,
+      "end": 789
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 1001,
+      "end": 1005
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 956,
+      "end": 957
+    },
+    "eventDescription": {
+      "text": "health cards are being distributed",
+      "begin": 755,
+      "end": 789
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "under",
+      "begin": 950,
+      "end": 955
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 958,
+      "end": 967
+    }
+  }
+]

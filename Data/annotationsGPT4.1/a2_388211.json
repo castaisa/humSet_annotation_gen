@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "138",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "dozens",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  },
+  {
+    "quantity": "more than 3,300",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "fled",
+    "modifier": "more than"
+  }
+]

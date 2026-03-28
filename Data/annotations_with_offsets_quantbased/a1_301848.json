@@ -1,0 +1,211 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "0.1%",
+      "start": 52,
+      "end": 56
+    },
+    "eventDescription": {
+      "text": "price decrease",
+      "start": 33,
+      "end": 47
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "8%",
+      "start": 111,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "price higher",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 170,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "price decrease",
+      "start": 33,
+      "end": 47
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1%",
+      "start": 194,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "price decrease",
+      "start": 33,
+      "end": 47
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1%",
+      "start": 308,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "price increase",
+      "start": 267,
+      "end": 281
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "105",
+      "start": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "highest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "100",
+      "start": 422,
+      "end": 425
+    },
+    "eventDescription": {
+      "text": "highest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "98",
+      "start": 427,
+      "end": 429
+    },
+    "eventDescription": {
+      "text": "highest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "98",
+      "start": 434,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "highest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "74",
+      "start": 601,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "lowest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "75",
+      "start": 605,
+      "end": 607
+    },
+    "eventDescription": {
+      "text": "lowest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "76",
+      "start": 609,
+      "end": 611
+    },
+    "eventDescription": {
+      "text": "lowest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "78",
+      "start": 616,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "lowest price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": null,
+      "end": null
+    }
+  }
+]

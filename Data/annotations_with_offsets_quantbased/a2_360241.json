@@ -1,0 +1,272 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "518,670",
+      "start": 166,
+      "end": 173
+    },
+    "eventDescription": {
+      "text": "registered to sit the exams",
+      "start": 187,
+      "end": 214
+    },
+    "unit": {
+      "text": "students",
+      "start": 174,
+      "end": 182
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16,507",
+      "start": 216,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "registered from areas outside government control",
+      "start": 237,
+      "end": 285
+    },
+    "unit": {
+      "text": "students",
+      "start": 174,
+      "end": 182
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8,557",
+      "start": 224,
+      "end": 229
+    },
+    "eventDescription": {
+      "text": "registered from areas outside government control",
+      "start": 237,
+      "end": 285
+    },
+    "unit": {
+      "text": "girls",
+      "start": 230,
+      "end": 235
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,783",
+      "start": 301,
+      "end": 306
+    },
+    "eventDescription": {
+      "text": "had travelled crossline and cross-border and are staying in the accommodation centres",
+      "start": 364,
+      "end": 449
+    },
+    "unit": {
+      "text": "students",
+      "start": 307,
+      "end": 315
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,993",
+      "start": 317,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "had travelled crossline and cross-border and are staying in the accommodation centres",
+      "start": 364,
+      "end": 449
+    },
+    "unit": {
+      "text": "girls",
+      "start": 323,
+      "end": 328
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4,495",
+      "start": 330,
+      "end": 335
+    },
+    "eventDescription": {
+      "text": "had travelled crossline and cross-border and are staying in the accommodation centres",
+      "start": 364,
+      "end": 449
+    },
+    "unit": {
+      "text": "Grade 9",
+      "start": 336,
+      "end": 343
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,288",
+      "start": 348,
+      "end": 353
+    },
+    "eventDescription": {
+      "text": "had travelled crossline and cross-border and are staying in the accommodation centres",
+      "start": 364,
+      "end": 449
+    },
+    "unit": {
+      "text": "Grade 12",
+      "start": 354,
+      "end": 362
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five",
+      "start": 453,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "accommodation centres located",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 458,
+      "end": 470
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4,632",
+      "start": 490,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "students staying in accommodation centres",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Aleppo",
+      "start": 482,
+      "end": 488
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "625",
+      "start": 508,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "students staying in accommodation centres",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Ar-Raqqa",
+      "start": 498,
+      "end": 506
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "131",
+      "start": 527,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "students staying in accommodation centres",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Dier-ez-Zor",
+      "start": 514,
+      "end": 525
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "134",
+      "start": 539,
+      "end": 542
+    },
+    "eventDescription": {
+      "text": "students staying in accommodation centres",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Hama",
+      "start": 533,
+      "end": 537
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "261",
+      "start": 564,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "students staying in accommodation centres",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Rural Damascus",
+      "start": 548,
+      "end": 562
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "55",
+      "start": 625,
+      "end": 627
+    },
+    "eventDescription": {
+      "text": "students from newly accessible areas of Idleb travelling crossline daily",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "students",
+      "start": 628,
+      "end": 636
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9,120",
+      "start": 678,
+      "end": 683
+    },
+    "eventDescription": {
+      "text": "students from NE of Syria travelling crossline daily",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "students",
+      "start": 684,
+      "end": 692
+    }
+  }
+]

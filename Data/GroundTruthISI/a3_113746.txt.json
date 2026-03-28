@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "410",
+      "begin": 146,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "continued distributing",
+      "begin": 17,
+      "end": 39
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hygiene kits",
+      "begin": 150,
+      "end": 162
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 164,
+      "end": 167
+    },
+    "eventDescription": {
+      "text": "continued distributing",
+      "begin": 17,
+      "end": 39
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "bars of soap",
+      "begin": 168,
+      "end": 180
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 182,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "continued distributing",
+      "begin": 17,
+      "end": 39
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "buckets",
+      "begin": 186,
+      "end": 193
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 275,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "hygiene kits, food and transportation were provided",
+      "begin": 209,
+      "end": 260
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people with special needs",
+      "begin": 278,
+      "end": 303
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 308,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "hygiene kits, food and transportation were provided",
+      "begin": 209,
+      "end": 260
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "outreach volunteers",
+      "begin": 311,
+      "end": 330
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 616,
+      "end": 619
+    },
+    "eventDescription": {
+      "text": "organised",
+      "begin": 606,
+      "end": 615
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "virtual trainings",
+      "begin": 620,
+      "end": 637
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "16%",
+    "unit": "psychological abuse",
+    "eventType": "EventP",
+    "eventDescription": "experienced psychological abuse"
+  },
+  {
+    "quantity": "5%",
+    "unit": "abuse",
+    "eventType": "EventP",
+    "eventDescription": "experienced abuse"
+  },
+  {
+    "quantity": "52%",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "felt discriminated against"
+  }
+]

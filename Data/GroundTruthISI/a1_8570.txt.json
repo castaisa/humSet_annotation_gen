@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 132,
+      "end": 134
+    },
+    "unit": {
+      "text": "donors",
+      "begin": 135,
+      "end": 141
+    }
+  },
+  {
+    "quantity": {
+      "text": "51.7 million",
+      "begin": 968,
+      "end": 980
+    },
+    "eventDescription": {
+      "text": "Stabilization Facility has reached",
+      "begin": 929,
+      "end": 963
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 964,
+      "end": 967
+    }
+  }
+]

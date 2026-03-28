@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "zero",
+      "begin": 318,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "refugees paying rent",
+      "begin": 283,
+      "end": 303
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "BDT per month",
+      "begin": 363,
+      "end": 376
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 355,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "refugees paying rent",
+      "begin": 283,
+      "end": 303
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "BDT per month",
+      "begin": 363,
+      "end": 376
+    }
+  },
+  {
+    "quantity": {
+      "text": "500-800",
+      "begin": 355,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "refugees paying rent",
+      "begin": 283,
+      "end": 303
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "BDT per month",
+      "begin": 363,
+      "end": 376
+    }
+  },
+  {
+    "quantity": {
+      "text": "800",
+      "begin": 359,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "refugees paying rent",
+      "begin": 283,
+      "end": 303
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "BDT per month",
+      "begin": 363,
+      "end": 376
+    }
+  }
+]

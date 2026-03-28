@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 15,000",
+      "start": 326,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "benefit from innovative teaching and learning approaches",
+      "start": 408,
+      "end": 464
+    },
+    "unit": {
+      "text": "host community",
+      "start": 338,
+      "end": 352
+    },
+    "modifier": {
+      "text": "over",
+      "start": 326,
+      "end": 330
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 800",
+      "start": 363,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "benefit from innovative teaching and learning approaches",
+      "start": 408,
+      "end": 464
+    },
+    "unit": {
+      "text": "migrant children",
+      "start": 372,
+      "end": 388
+    },
+    "modifier": {
+      "text": "over",
+      "start": 363,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50:50",
+      "start": 390,
+      "end": 395
+    },
+    "eventDescription": {
+      "text": "gender distribution of migrant children",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys/girls",
+      "start": 396,
+      "end": 406
+    }
+  }
+]

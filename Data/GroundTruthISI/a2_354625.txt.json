@@ -1,0 +1,71 @@
+[
+  {
+    "quantity": {
+      "text": "3 million",
+      "begin": 85,
+      "end": 94
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 78,
+      "end": 84
+    },
+    "unit": {
+      "text": "people",
+      "begin": 95,
+      "end": 101
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 113,
+      "end": 117
+    },
+    "unit": {
+      "text": "people",
+      "begin": 95,
+      "end": 101
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 103,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "depend on food aid",
+      "begin": 126,
+      "end": 144
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,000",
+      "begin": 222,
+      "end": 227
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 215,
+      "end": 221
+    },
+    "unit": {
+      "text": "U.N. trucks",
+      "begin": 228,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 397,
+      "end": 402
+    },
+    "unit": {
+      "text": "months",
+      "begin": 403,
+      "end": 409
+    }
+  }
+]

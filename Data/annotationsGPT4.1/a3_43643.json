@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": "six hundred and seventy-eight",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported"
+  },
+  {
+    "quantity": "678",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported"
+  },
+  {
+    "quantity": "137",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported from Gwange PHC in MMC"
+  },
+  {
+    "quantity": "137",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported from FHI360 clinic Banki in Bama"
+  },
+  {
+    "quantity": "45",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported from Banki Health clinic in Bama"
+  },
+  {
+    "quantity": "27",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported from PUI mobile clinics in MMC"
+  },
+  {
+    "quantity": "27",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported from General Hospital IDP camp clinic in Damboa"
+  },
+  {
+    "quantity": "25",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected measles cases reported from Herwa Peace PHC in MMC"
+  },
+  {
+    "quantity": "four",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "associated deaths reported from MSF Gwange PHC in MMC"
+  },
+  {
+    "quantity": "thirty-eight",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles cases reported through IDSR"
+  },
+  {
+    "quantity": "17",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles cases reported from Monguno"
+  },
+  {
+    "quantity": "11",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles cases reported from Gubio"
+  },
+  {
+    "quantity": "3",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles cases reported from Mafa"
+  },
+  {
+    "quantity": "3",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles cases reported from Kwaya Kusar"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles cases reported from Biu"
+  },
+  {
+    "quantity": "1",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles case reported from Hawul"
+  },
+  {
+    "quantity": "1",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "additional suspected measles case reported from Gwoza"
+  },
+  {
+    "quantity": "716",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "total suspected measles cases"
+  }
+]

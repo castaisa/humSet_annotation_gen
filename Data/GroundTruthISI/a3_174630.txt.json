@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "831",
+      "begin": 252,
+      "end": 255
+    },
+    "unit": {
+      "text": "NGN",
+      "begin": 256,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 210,
+      "end": 218
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "230",
+      "begin": 275,
+      "end": 278
+    },
+    "unit": {
+      "text": "NGN",
+      "begin": 279,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 210,
+      "end": 218
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 541,
+      "end": 544
+    },
+    "unit": {
+      "text": "households with at least one girl among their school-going children",
+      "begin": 408,
+      "end": 475
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 433,
+      "end": 436
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 424,
+      "end": 432
+    },
+    "unit": {
+      "text": "girl",
+      "begin": 437,
+      "end": 441
+    }
+  },
+  {
+    "quantity": {
+      "text": "(7%",
+      "begin": 608,
+      "end": 611
+    },
+    "eventDescription": {
+      "text": "commonly found to have higher education vulnerability",
+      "begin": 486,
+      "end": 539
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "households who reportedly only had boys attending school",
+      "begin": 551,
+      "end": 607
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 625,
+      "end": 626
+    },
+    "unit": {
+      "text": "assessed LGAs",
+      "begin": 627,
+      "end": 640
+    }
+  },
+  {
+    "quantity": {
+      "text": "673",
+      "begin": 721,
+      "end": 724
+    },
+    "eventDescription": {
+      "text": "reported lower monthly per capita education expenditure",
+      "begin": 664,
+      "end": 719
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "NGN",
+      "begin": 725,
+      "end": 728
+    }
+  },
+  {
+    "quantity": {
+      "text": "829",
+      "begin": 786,
+      "end": 789
+    },
+    "eventDescription": {
+      "text": "reported lower monthly per capita education expenditure",
+      "begin": 664,
+      "end": 719
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "NGN",
+      "begin": 790,
+      "end": 793
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "one",
+      "start": 182,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "received",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "dialysis session",
+      "start": 206,
+      "end": 222
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "three",
+      "start": 193,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "needed",
+      "start": 199,
+      "end": 205
+    },
+    "unit": {
+      "text": "dialysis sessions",
+      "start": 206,
+      "end": 223
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "receive",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "free dialysis session",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "75,000",
+      "start": 736,
+      "end": 742
+    },
+    "eventDescription": {
+      "text": "cost per dialysis session",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 743,
+      "end": 746
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "25",
+      "start": 748,
+      "end": 750
+    },
+    "eventDescription": {
+      "text": "cost per dialysis session",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 751,
+      "end": 754
+    }
+  }
+]

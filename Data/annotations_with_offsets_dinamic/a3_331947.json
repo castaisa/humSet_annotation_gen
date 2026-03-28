@@ -1,0 +1,195 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "subsidised fuel price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "180",
+      "start": 90,
+      "end": 93
+    },
+    "unit": {
+      "text": "SYP per litre",
+      "start": 94,
+      "end": 107
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in average diesel fuel price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "33 percent",
+      "start": 152,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diesel fuel price in local markets",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40 000",
+      "start": 231,
+      "end": 237
+    },
+    "unit": {
+      "text": "SYP per 20 litres",
+      "start": 238,
+      "end": 255
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "governorates with significant price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 262,
+      "end": 274
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total governorates considered",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 282,
+      "end": 287
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 380,
+      "end": 392
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "gallon size for diesel fuel price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20",
+      "start": 354,
+      "end": 356
+    },
+    "unit": {
+      "text": "litre gallon",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diesel fuel price in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50 000",
+      "start": 405,
+      "end": 411
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 412,
+      "end": 415
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diesel fuel price in Tartous",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45 833",
+      "start": 427,
+      "end": 433
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 434,
+      "end": 437
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diesel fuel price in Hama",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43 800",
+      "start": 446,
+      "end": 452
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 453,
+      "end": 456
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "diesel fuel price in Homs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43 800",
+      "start": 468,
+      "end": 474
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 562,
+      "end": 565
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lowest diesel fuel price in Al-Hasakeh",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 167",
+      "start": 556,
+      "end": 561
+    },
+    "unit": {
+      "text": "SYP for a 20 liter gallon",
+      "start": null,
+      "end": null
+    }
+  }
+]

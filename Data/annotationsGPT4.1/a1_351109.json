@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "200",
+    "unit": "SYP per kg",
+    "eventType": "EventA",
+    "eventDescription": "supported price of granular nitrate fertilizer"
+  },
+  {
+    "quantity": "a third",
+    "unit": "of the farmers\u2019 needs",
+    "eventType": "EventA",
+    "eventDescription": "portion of fertilizer needs provided by the bank"
+  },
+  {
+    "quantity": "1 657",
+    "unit": "SYP per kg",
+    "eventType": "EventA",
+    "eventDescription": "average price of fertilizer in the local market"
+  },
+  {
+    "quantity": "8 percent",
+    "unit": "m-o-m decrease",
+    "eventType": "EventA",
+    "eventDescription": "monthly decrease in fertilizer price"
+  }
+]

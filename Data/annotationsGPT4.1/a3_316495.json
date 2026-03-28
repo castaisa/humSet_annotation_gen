@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "10",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "progress made"
+  },
+  {
+    "quantity": "46%",
+    "unit": "healthcare coverage",
+    "eventType": "EventA",
+    "eventDescription": "coverage in Sebba health district"
+  },
+  {
+    "quantity": "55%",
+    "unit": "healthcare coverage",
+    "eventType": "EventA",
+    "eventDescription": "coverage in Sebba health district"
+  },
+  {
+    "quantity": "20%",
+    "unit": "cases of SAM",
+    "eventType": "EventP",
+    "eventDescription": "rate of referral"
+  },
+  {
+    "quantity": "50 km",
+    "unit": "distance",
+    "eventType": "EventO",
+    "eventDescription": "distance between village and CRENI",
+    "modifier": "more than"
+  }
+]

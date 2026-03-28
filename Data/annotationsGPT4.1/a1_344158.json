@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "87%",
+    "unit": "vendors",
+    "eventType": "EventO",
+    "eventDescription": "reported facing supply challenges"
+  },
+  {
+    "quantity": "75%",
+    "unit": "all surveyed vendors",
+    "eventType": "EventO",
+    "eventDescription": "reported price inflation as primary supply challenge"
+  },
+  {
+    "quantity": "24%",
+    "unit": "all surveyed vendors",
+    "eventType": "EventO",
+    "eventDescription": "reported supply unable to keep up with consumer demand"
+  },
+  {
+    "quantity": "15%",
+    "unit": "surveyed vendors",
+    "eventType": "EventO",
+    "eventDescription": "reported their suppliers had limited supply"
+  },
+  {
+    "quantity": "9%",
+    "unit": "surveyed vendors",
+    "eventType": "EventO",
+    "eventDescription": "reported their supply had been affected by border crossing closures"
+  }
+]

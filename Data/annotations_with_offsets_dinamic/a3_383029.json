@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "died from cholera",
+      "start": 59,
+      "end": 76
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30",
+      "start": 49,
+      "end": 51
+    },
+    "unit": {
+      "text": "people",
+      "start": 52,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "tested positive for the disease",
+      "start": 463,
+      "end": 494
+    },
+    "modifier": {
+      "text": "over",
+      "start": 439,
+      "end": 443
+    },
+    "quantity": {
+      "text": "2,000",
+      "start": 444,
+      "end": 449
+    },
+    "unit": {
+      "text": "patients",
+      "start": 450,
+      "end": 458
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected by cholera",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 498,
+      "end": 502
+    },
+    "unit": {
+      "text": "local government areas",
+      "start": 513,
+      "end": 535
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "in the state",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27",
+      "start": 510,
+      "end": 512
+    },
+    "unit": {
+      "text": "local government areas",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 200",
+      "start": 165,
+      "end": 173
+    },
+    "eventDescription": {
+      "text": "reported daily",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "dengue cases",
+      "start": 174,
+      "end": 186
+    },
+    "modifier": {
+      "text": "over",
+      "start": 165,
+      "end": 169
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,286",
+      "start": 203,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "reported in July",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "dengue cases",
+      "start": 209,
+      "end": 221
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "101,354",
+      "start": 362,
+      "end": 369
+    },
+    "eventDescription": {
+      "text": "recorded in 2019",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "dengue cases",
+      "start": 370,
+      "end": 382
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "179",
+      "start": 387,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "recorded in 2019",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 391,
+      "end": 397
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50,974",
+      "start": 485,
+      "end": 491
+    },
+    "eventDescription": {
+      "text": "infected with dengue in August 2019",
+      "start": 504,
+      "end": 539
+    },
+    "unit": {
+      "text": "people",
+      "start": 492,
+      "end": 498
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50,166",
+      "start": 552,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "recorded in the previous 18 years",
+      "start": 577,
+      "end": 610
+    },
+    "unit": {
+      "text": "dengue cases",
+      "start": 559,
+      "end": 571
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18",
+      "start": 602,
+      "end": 604
+    },
+    "eventDescription": {
+      "text": "period from 2000 to 2018",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 605,
+      "end": 610
+    }
+  }
+]

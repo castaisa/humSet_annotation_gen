@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15",
+      "start": 421,
+      "end": 423
+    },
+    "eventDescription": {
+      "text": "formerly associated with armed groups handed over",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 424,
+      "end": 432
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "six",
+      "start": 434,
+      "end": 437
+    },
+    "eventDescription": {
+      "text": "formerly associated with armed groups handed over",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 438,
+      "end": 443
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "nine",
+      "start": 448,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "formerly associated with armed groups handed over",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 453,
+      "end": 457
+    }
+  }
+]

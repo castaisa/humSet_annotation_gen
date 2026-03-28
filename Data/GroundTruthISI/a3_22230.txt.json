@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "35,000",
+      "begin": 13,
+      "end": 19
+    },
+    "unit": {
+      "text": "Nigerian refugees",
+      "begin": 20,
+      "end": 37
+    },
+    "eventDescription": {
+      "text": "safe in Cameroon",
+      "begin": 42,
+      "end": 58
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 285,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "fled Rann",
+      "begin": 263,
+      "end": 272
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "last",
+      "begin": 280,
+      "end": 284
+    },
+    "unit": {
+      "text": "weeks",
+      "begin": 289,
+      "end": 294
+    }
+  },
+  {
+    "quantity": {
+      "text": "Thousands",
+      "begin": 476,
+      "end": 485
+    },
+    "unit": {
+      "text": "people",
+      "begin": 489,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "killed, many summarily executed",
+      "begin": 568,
+      "end": 599
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "tens of thousands of",
+      "begin": 621,
+      "end": 641
+    },
+    "unit": {
+      "text": "people",
+      "begin": 489,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "destroyed in the insurgency",
+      "begin": 659,
+      "end": 686
+    },
+    "eventType": "EventP"
+  }
+]

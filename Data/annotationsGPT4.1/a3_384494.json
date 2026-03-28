@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "two",
+    "unit": "times",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "three",
+    "unit": "times",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "Fifty-four per cent",
+    "unit": "of IDPs",
+    "eventType": "EventP",
+    "eventDescription": "displaced two times"
+  },
+  {
+    "quantity": "66 per cent",
+    "unit": "of displaced persons",
+    "eventType": "EventP",
+    "eventDescription": "displaced before"
+  },
+  {
+    "quantity": "4%",
+    "unit": "of IDPs",
+    "eventType": "EventP",
+    "eventDescription": "displaced only once"
+  },
+  {
+    "quantity": "61%",
+    "unit": "of people",
+    "eventType": "EventP",
+    "eventDescription": "displaced more than three times"
+  }
+]

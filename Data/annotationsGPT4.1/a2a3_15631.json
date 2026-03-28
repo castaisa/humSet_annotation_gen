@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "14,795",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted"
+  },
+  {
+    "quantity": "10,346",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted"
+  },
+  {
+    "quantity": "2,172",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted"
+  },
+  {
+    "quantity": "1,421",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted"
+  },
+  {
+    "quantity": "115",
+    "unit": "sea operations",
+    "eventType": "EventO",
+    "eventDescription": "conducted"
+  },
+  {
+    "quantity": "2,162",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in Libya"
+  },
+  {
+    "quantity": "3,453",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in Libya"
+  },
+  {
+    "quantity": "2,167",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in Libya"
+  },
+  {
+    "quantity": "546",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in Libya"
+  },
+  {
+    "quantity": "27",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked at the Alkhums Naval Base"
+  },
+  {
+    "quantity": "110",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked at the Azzawya Refinery Port"
+  },
+  {
+    "quantity": "63",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in Zwara"
+  }
+]

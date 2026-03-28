@@ -1,0 +1,212 @@
+[
+  {
+    "quantity": {
+      "text": "47%",
+      "begin": 85,
+      "end": 88
+    },
+    "unit": {
+      "text": "formal schools",
+      "begin": 105,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "agree that their schools do not have a functional sickbay",
+      "begin": 120,
+      "end": 177
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 183,
+      "end": 186
+    },
+    "unit": {
+      "text": "formal schools",
+      "begin": 105,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "they have",
+      "begin": 192,
+      "end": 201
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18%",
+      "begin": 207,
+      "end": 210
+    },
+    "unit": {
+      "text": "formal schools",
+      "begin": 105,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "were uncertain",
+      "begin": 211,
+      "end": 225
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "43%",
+      "begin": 311,
+      "end": 314
+    },
+    "unit": {
+      "text": "non-formal schools",
+      "begin": 267,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "agreed that their schools have a sickbay",
+      "begin": 315,
+      "end": 355
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 357,
+      "end": 360
+    },
+    "unit": {
+      "text": "non-formal schools",
+      "begin": 267,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "disagree",
+      "begin": 361,
+      "end": 369
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 388,
+      "end": 391
+    },
+    "unit": {
+      "text": "unsure",
+      "begin": 396,
+      "end": 402
+    }
+  },
+  {
+    "quantity": {
+      "text": "45%",
+      "begin": 442,
+      "end": 445
+    },
+    "unit": {
+      "text": "stakeholders in the formal school",
+      "begin": 450,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "more willing to take or allow their wards take the COVID-19 vaccine",
+      "begin": 497,
+      "end": 564
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "38%",
+      "begin": 594,
+      "end": 597
+    },
+    "eventDescription": {
+      "text": "more willing to take or allow their wards take the COVID-19 vaccine",
+      "begin": 497,
+      "end": 564
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "non formal stakeholders",
+      "begin": 570,
+      "end": 593
+    }
+  },
+  {
+    "quantity": {
+      "text": "40%",
+      "begin": 694,
+      "end": 697
+    },
+    "eventDescription": {
+      "text": "not taking the vaccine",
+      "begin": 671,
+      "end": 693
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "F",
+      "begin": 698,
+      "end": 699
+    }
+  },
+  {
+    "quantity": {
+      "text": "46%",
+      "begin": 701,
+      "end": 704
+    },
+    "eventDescription": {
+      "text": "not taking the vaccine",
+      "begin": 671,
+      "end": 693
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "NFE",
+      "begin": 705,
+      "end": 708
+    }
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 744,
+      "end": 747
+    },
+    "eventDescription": {
+      "text": "have not made the decision yet",
+      "begin": 713,
+      "end": 743
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "F",
+      "begin": 748,
+      "end": 749
+    }
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 751,
+      "end": 754
+    },
+    "eventDescription": {
+      "text": "have not made the decision yet",
+      "begin": 713,
+      "end": 743
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "NFE",
+      "begin": 755,
+      "end": 758
+    }
+  }
+]

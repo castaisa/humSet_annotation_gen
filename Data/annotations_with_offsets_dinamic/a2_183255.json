@@ -1,0 +1,105 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "water tanks provided",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 95,
+      "end": 97
+    },
+    "unit": {
+      "text": "tanks",
+      "start": 98,
+      "end": 103
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "water supplied daily",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45,000",
+      "start": 162,
+      "end": 168
+    },
+    "unit": {
+      "text": "liters of water",
+      "start": 180,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "water supplied daily",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60,000",
+      "start": 173,
+      "end": 179
+    },
+    "unit": {
+      "text": "liters of water",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "temperature reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45º",
+      "start": 305,
+      "end": 308
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "frequency of water delivery",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 519,
+      "end": 522
+    },
+    "unit": {
+      "text": "days",
+      "start": 532,
+      "end": 536
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "frequency of water delivery",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 526,
+      "end": 531
+    },
+    "unit": {
+      "text": "days",
+      "start": null,
+      "end": null
+    }
+  }
+]

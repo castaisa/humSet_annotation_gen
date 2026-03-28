@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "5.24%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "growth rate"
+  },
+  {
+    "quantity": "2,064",
+    "unit": "dollars",
+    "eventType": "EventO",
+    "eventDescription": "per capita income"
+  },
+  {
+    "quantity": "4,15,548",
+    "unit": "crore",
+    "eventType": "EventO",
+    "eventDescription": "overall public expenditure"
+  },
+  {
+    "quantity": "6.03%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in public expenditure"
+  }
+]

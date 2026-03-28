@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "3,877",
+    "unit": "houses",
+    "eventType": "EventO",
+    "eventDescription": "destroyed"
+  },
+  {
+    "quantity": "18",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "23 per cent",
+    "unit": "internally displaced persons",
+    "eventType": "EventP",
+    "eventDescription": "live in collective shelters"
+  },
+  {
+    "quantity": "Over 70,000",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "settled in camps live in inadequate or self-made shelters",
+    "modifier": "over"
+  },
+  {
+    "quantity": "88 %",
+    "unit": "tarpaulins",
+    "eventType": "EventA",
+    "eventDescription": "most needed shelter material"
+  },
+  {
+    "quantity": "one quarter",
+    "unit": "internally displaced persons living outside of camp settings",
+    "eventType": "EventP",
+    "eventDescription": "live in inadequate shelters"
+  },
+  {
+    "quantity": "270,000",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "live in inadequate shelters"
+  }
+]

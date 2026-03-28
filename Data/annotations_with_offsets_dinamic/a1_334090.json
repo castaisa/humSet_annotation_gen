@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "agree their schools do not have a functional sickbay",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "47%",
+      "start": 85,
+      "end": 88
+    },
+    "unit": {
+      "text": "formal school respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "said their schools have a functional sickbay",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35%",
+      "start": 183,
+      "end": 186
+    },
+    "unit": {
+      "text": "formal school respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "were uncertain about the presence of a functional sickbay",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18%",
+      "start": 207,
+      "end": 210
+    },
+    "unit": {
+      "text": "formal school respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "agreed their schools have a sickbay",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43%",
+      "start": 311,
+      "end": 314
+    },
+    "unit": {
+      "text": "non-formal school respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "disagree their schools have a sickbay",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 357,
+      "end": 360
+    },
+    "unit": {
+      "text": "non-formal school respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "are unsure about the presence of a sickbay",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 388,
+      "end": 391
+    },
+    "unit": {
+      "text": "non-formal school respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "more willing to take or allow wards to take the COVID-19 vaccine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45%",
+      "start": 442,
+      "end": 445
+    },
+    "unit": {
+      "text": "formal school stakeholders",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "more willing to take or allow wards to take the COVID-19 vaccine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38%",
+      "start": 594,
+      "end": 597
+    },
+    "unit": {
+      "text": "non formal stakeholders",
+      "start": 570,
+      "end": 593
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "not taking the vaccine",
+      "start": 671,
+      "end": 693
+    },
+    "quantity": {
+      "text": "40%",
+      "start": 694,
+      "end": 697
+    },
+    "unit": {
+      "text": "formal school group",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "not taking the vaccine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "46%",
+      "start": 701,
+      "end": 704
+    },
+    "unit": {
+      "text": "NFE group",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have not made the decision yet",
+      "start": 713,
+      "end": 743
+    },
+    "quantity": {
+      "text": "15%",
+      "start": 744,
+      "end": 747
+    },
+    "unit": {
+      "text": "formal school group",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have not made the decision yet",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 751,
+      "end": 754
+    },
+    "unit": {
+      "text": "NFE group",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": {
+      "text": "first",
+      "begin": 211,
+      "end": 216
+    },
+    "unit": {
+      "text": "COVID-19 case",
+      "begin": 217,
+      "end": 230
+    }
+  },
+  {
+    "quantity": {
+      "text": "26",
+      "begin": 274,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 277,
+      "end": 285
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "cases",
+      "begin": 286,
+      "end": 291
+    }
+  },
+  {
+    "quantity": {
+      "text": "535",
+      "begin": 325,
+      "end": 328
+    },
+    "unit": {
+      "text": "tests",
+      "begin": 329,
+      "end": 334
+    }
+  }
+]

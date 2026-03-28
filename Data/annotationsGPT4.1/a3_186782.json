@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "30",
+    "unit": "weekly work hours",
+    "eventType": "EventO",
+    "eventDescription": "reduction of weekly work hours"
+  },
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "duration of reduced work hours"
+  },
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "renewable period for reduced work hours"
+  },
+  {
+    "quantity": "sixty",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "previous waiting period for unemployment insurance"
+  },
+  {
+    "quantity": "seven",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "reduced waiting period for unemployment insurance"
+  },
+  {
+    "quantity": "5%",
+    "unit": "contribution",
+    "eventType": "EventA",
+    "eventDescription": "solidarity contribution from companies"
+  },
+  {
+    "quantity": "one million",
+    "unit": "US$",
+    "eventType": "EventO",
+    "eventDescription": "profit threshold for company contributions"
+  },
+  {
+    "quantity": "500",
+    "unit": "US$",
+    "eventType": "EventP",
+    "eventDescription": "salary threshold for worker contributions"
+  },
+  {
+    "quantity": "nine",
+    "unit": "months",
+    "eventType": "EventP",
+    "eventDescription": "duration of worker contributions"
+  },
+  {
+    "quantity": "US$ 1.4 billion",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "amount to be raised through contributions"
+  },
+  {
+    "quantity": "thirty",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "period for Congress to vote on the reform"
+  }
+]

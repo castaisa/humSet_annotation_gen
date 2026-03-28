@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "107",
+      "start": 78,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "AWD cases tested positive",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 82,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "88",
+      "start": 89,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "AWD cases from Rohingya refugees tested positive",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 82,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19",
+      "start": 119,
+      "end": 121
+    },
+    "eventDescription": {
+      "text": "AWD cases from host community tested positive",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 82,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "127",
+      "start": 310,
+      "end": 313
+    },
+    "eventDescription": {
+      "text": "AWD cases in 2021",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 244,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "95",
+      "start": 315,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "AWD cases from Rohingya refugees in 2021",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 244,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "32",
+      "start": 345,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "AWD cases from host community in 2021",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 389,
+      "end": 394
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "40",
+      "start": 396,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "culture confirmed AWD cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 389,
+      "end": 394
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "35",
+      "start": 400,
+      "end": 402
+    },
+    "eventDescription": {
+      "text": "culture confirmed AWD cases from Rohingya refugees",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 389,
+      "end": 394
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5",
+      "start": 430,
+      "end": 431
+    },
+    "eventDescription": {
+      "text": "culture confirmed AWD cases from host community",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 389,
+      "end": 394
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20",
+      "start": 567,
+      "end": 569
+    },
+    "eventDescription": {
+      "text": "culture confirmed cases in the past three weeks",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 557,
+      "end": 562
+    }
+  }
+]

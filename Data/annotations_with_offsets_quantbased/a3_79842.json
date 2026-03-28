@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50%",
+      "start": 214,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "continue to Ecuador and neighboring countries",
+      "start": 223,
+      "end": 268
+    },
+    "unit": {
+      "text": "of those entering Colombia each month",
+      "start": 104,
+      "end": 141
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "80,000",
+      "start": 600,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "enter Ecuador on a monthly basis",
+      "start": 607,
+      "end": 639
+    },
+    "unit": {
+      "text": "people",
+      "start": 301,
+      "end": 307
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "85%",
+      "start": 688,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "enter mainly through Rumichaca International Bridge",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of people entering Ecuador",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20%",
+      "start": 724,
+      "end": 727
+    },
+    "eventDescription": {
+      "text": "stay in Ecuador",
+      "start": 699,
+      "end": 714
+    },
+    "unit": {
+      "text": "of people entering Ecuador",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approx.",
+      "start": 716,
+      "end": 723
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "178",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "ranked",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "countries",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "189",
+      "start": 79,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "ranked",
+      "start": 59,
+      "end": 65
+    },
+    "unit": {
+      "text": "countries",
+      "start": 83,
+      "end": 92
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least 50 percent",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "estimated to be living in poverty",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the population",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "more than 90 percent",
+      "start": 222,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "imported",
+      "start": 263,
+      "end": 271
+    },
+    "unit": {
+      "text": "of food in Yemen",
+      "start": 243,
+      "end": 259
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 222,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1967",
+      "start": 546,
+      "end": 550
+    },
+    "eventDescription": {
+      "text": "present in Yemen",
+      "start": 523,
+      "end": 539
+    },
+    "unit": {
+      "text": "since",
+      "start": 540,
+      "end": 545
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "9,227",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "were in Katsina"
+  },
+  {
+    "quantity": "37,555",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "were in Sokoto and Zamfara"
+  },
+  {
+    "quantity": "125, 289",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "were in Borno, Adamawa and Yobe states"
+  },
+  {
+    "quantity": "240,587",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "were supported with counselling on infant and young child feeding (IYCF) practices"
+  },
+  {
+    "quantity": "127,316",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "were in the north-west"
+  }
+]

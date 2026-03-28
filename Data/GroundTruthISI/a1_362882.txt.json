@@ -1,0 +1,66 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 95,
+      "end": 99
+    },
+    "unit": {
+      "text": "year",
+      "begin": 100,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "remain significantly above",
+      "begin": 64,
+      "end": 90
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "31 percent",
+      "begin": 852,
+      "end": 862
+    },
+    "unit": {
+      "text": "prices",
+      "begin": 834,
+      "end": 840
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 846,
+      "end": 851
+    },
+    "eventDescription": {
+      "text": "above average",
+      "begin": 863,
+      "end": 876
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 900,
+      "end": 910
+    },
+    "unit": {
+      "text": "maize",
+      "begin": 884,
+      "end": 889
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 894,
+      "end": 899
+    },
+    "eventDescription": {
+      "text": "market relative to the average",
+      "begin": 922,
+      "end": 952
+    },
+    "eventType": "EventO"
+  }
+]

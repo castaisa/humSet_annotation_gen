@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "23",
+    "unit": "PoEs",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "12",
+    "unit": "land borders",
+    "eventType": "EventO",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "8",
+    "unit": "airports",
+    "eventType": "EventO",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "3",
+    "unit": "blue borders",
+    "eventType": "EventO",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "19",
+    "unit": "PoEs",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "231",
+    "unit": "PoEs",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "10",
+    "unit": "PoEs",
+    "eventType": "EventO",
+    "eventDescription": "fully operational"
+  },
+  {
+    "quantity": "nine",
+    "unit": "PoEs",
+    "eventType": "EventO",
+    "eventDescription": "partially operational"
+  },
+  {
+    "quantity": "three",
+    "unit": "PoEs",
+    "eventType": "EventO",
+    "eventDescription": "fully closed"
+  },
+  {
+    "quantity": "one",
+    "unit": "PoEs",
+    "eventType": "EventO",
+    "eventDescription": "unknown status"
+  }
+]

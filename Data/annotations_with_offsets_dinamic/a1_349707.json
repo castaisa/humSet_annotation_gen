@@ -1,0 +1,214 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4 556",
+      "start": 71,
+      "end": 76
+    },
+    "unit": {
+      "text": "fatalities",
+      "start": 77,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "comparison value for fatalities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 188",
+      "start": 109,
+      "end": 114
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian fatalities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 858",
+      "start": 134,
+      "end": 139
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 173,
+      "end": 182
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "comparison value for civilian fatalities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 707",
+      "start": 153,
+      "end": 158
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities in Borno state",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 176",
+      "start": 378,
+      "end": 383
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities in Kaduna state",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "628",
+      "start": 412,
+      "end": 415
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lethal incidents recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 677",
+      "start": 441,
+      "end": 446
+    },
+    "unit": {
+      "text": "‘lethal incidents’",
+      "start": 447,
+      "end": 465
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12 318",
+      "start": 487,
+      "end": 493
+    },
+    "unit": {
+      "text": "people",
+      "start": 494,
+      "end": 500
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "violent deaths recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11 277",
+      "start": 526,
+      "end": 532
+    },
+    "unit": {
+      "text": "‘violent deaths’",
+      "start": 542,
+      "end": 558
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities in Borno state",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 069",
+      "start": 633,
+      "end": 638
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 639,
+      "end": 645
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities in Kaduna",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 346",
+      "start": 668,
+      "end": 673
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities in Katsina",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 099",
+      "start": 685,
+      "end": 690
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities in Zamfara",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "831",
+      "start": 702,
+      "end": 705
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatalities in Niger",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "547",
+      "start": 718,
+      "end": 721
+    }
+  }
+]

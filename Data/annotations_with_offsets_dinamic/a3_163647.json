@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "strengthened health authorities through additional staff",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 107,
+      "end": 108
+    },
+    "unit": {
+      "text": "hospital staff and medical professionals",
+      "start": 120,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided communications equipment and computers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22",
+      "start": 166,
+      "end": 168
+    },
+    "unit": {
+      "text": "pieces of communications equipment and computers",
+      "start": 169,
+      "end": 217
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided items to public hospitals and health institutions",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 251,
+      "end": 255
+    },
+    "quantity": {
+      "text": "over 11,600",
+      "start": 251,
+      "end": 262
+    },
+    "unit": {
+      "text": "distinct items",
+      "start": 263,
+      "end": 277
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "received infrastructure improvements and items",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 290,
+      "end": 292
+    },
+    "unit": {
+      "text": "public hospitals and health institutions",
+      "start": 293,
+      "end": 333
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "donated PPE to public hospitals and institutions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15,669",
+      "start": 458,
+      "end": 464
+    },
+    "unit": {
+      "text": "Personal Protective Items (PPE)",
+      "start": 465,
+      "end": 496
+    }
+  }
+]

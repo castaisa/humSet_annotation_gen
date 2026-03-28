@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 377,
+      "end": 379
+    },
+    "eventDescription": {
+      "text": "Issues of exploitation and intimidation at work",
+      "begin": 236,
+      "end": 283
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "less than",
+      "begin": 367,
+      "end": 376
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 380,
+      "end": 385
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 398,
+      "end": 402
+    },
+    "eventDescription": {
+      "text": "Issues of exploitation and intimidation at work",
+      "begin": 236,
+      "end": 283
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "years",
+      "begin": 403,
+      "end": 408
+    }
+  }
+]

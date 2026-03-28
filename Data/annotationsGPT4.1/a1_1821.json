@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "Thousands",
+    "unit": "Libyans",
+    "eventType": "EventP",
+    "eventDescription": "detained arbitrarily"
+  },
+  {
+    "quantity": "2011",
+    "unit": "",
+    "eventType": "",
+    "eventDescription": ""
+  },
+  {
+    "quantity": "2011",
+    "unit": "",
+    "eventType": "",
+    "eventDescription": ""
+  },
+  {
+    "quantity": "six",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "held without charge, trial or opportunity to challenge legality of detention"
+  },
+  {
+    "quantity": "Hundreds",
+    "unit": "released detainees",
+    "eventType": "EventP",
+    "eventDescription": "have no access to specialised medical, psychological and rehabilitation services"
+  }
+]

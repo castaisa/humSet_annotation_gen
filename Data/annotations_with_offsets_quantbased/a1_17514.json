@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8,000",
+      "start": 60,
+      "end": 65
+    },
+    "eventDescription": {
+      "text": "live in Mudaraba directorate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "African refugees",
+      "start": 66,
+      "end": 82
+    }
+  }
+]

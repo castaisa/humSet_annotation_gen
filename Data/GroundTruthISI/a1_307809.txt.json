@@ -1,0 +1,290 @@
+[
+  {
+    "quantity": {
+      "text": "0.2%",
+      "begin": 39,
+      "end": 43
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 12,
+      "end": 25
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 26,
+      "end": 35
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21%",
+      "begin": 96,
+      "end": 99
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 12,
+      "end": 25
+    },
+    "eventDescription": {
+      "text": "higher than 14 March",
+      "begin": 100,
+      "end": 120
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 151,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "Prices increased",
+      "begin": 122,
+      "end": 138
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Takhar",
+      "begin": 143,
+      "end": 149
+    }
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 163,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "Prices increased",
+      "begin": 122,
+      "end": 138
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Bamyan",
+      "begin": 156,
+      "end": 162
+    }
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 175,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "Prices increased",
+      "begin": 122,
+      "end": 138
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Zabul (",
+      "begin": 168,
+      "end": 175
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 215,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "Prices increased",
+      "begin": 122,
+      "end": 138
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Badakhshan, Nangarhar and Urozgan",
+      "begin": 180,
+      "end": 213
+    }
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 297,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "prices decreased",
+      "begin": 267,
+      "end": 283
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Kandahar",
+      "begin": 288,
+      "end": 296
+    }
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 311,
+      "end": 313
+    },
+    "eventDescription": {
+      "text": "prices decreased",
+      "begin": 267,
+      "end": 283
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Hilmand",
+      "begin": 302,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 327,
+      "end": 329
+    },
+    "eventDescription": {
+      "text": "prices decreased",
+      "begin": 267,
+      "end": 283
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Nimroz",
+      "begin": 319,
+      "end": 325
+    }
+  },
+  {
+    "quantity": {
+      "text": "122",
+      "begin": 525,
+      "end": 528
+    },
+    "eventDescription": {
+      "text": "Prices were highest",
+      "begin": 459,
+      "end": 478
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 548,
+      "end": 554
+    }
+  },
+  {
+    "quantity": {
+      "text": "114",
+      "begin": 530,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "Prices were highest",
+      "begin": 459,
+      "end": 478
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 548,
+      "end": 554
+    }
+  },
+  {
+    "quantity": {
+      "text": "106",
+      "begin": 535,
+      "end": 538
+    },
+    "eventDescription": {
+      "text": "Prices were highest",
+      "begin": 459,
+      "end": 478
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 548,
+      "end": 554
+    }
+  },
+  {
+    "quantity": {
+      "text": "105",
+      "begin": 544,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "Prices were highest",
+      "begin": 459,
+      "end": 478
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 548,
+      "end": 554
+    }
+  },
+  {
+    "quantity": {
+      "text": "68",
+      "begin": 667,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "Prices were lowest",
+      "begin": 613,
+      "end": 631
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 681,
+      "end": 687
+    }
+  },
+  {
+    "quantity": {
+      "text": "72",
+      "begin": 671,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "Prices were lowest",
+      "begin": 613,
+      "end": 631
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 681,
+      "end": 687
+    }
+  },
+  {
+    "quantity": {
+      "text": "72",
+      "begin": 678,
+      "end": 680
+    },
+    "eventDescription": {
+      "text": "Prices were lowest",
+      "begin": 613,
+      "end": 631
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 681,
+      "end": 687
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "13.1 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "facing acute food insecurity"
+  },
+  {
+    "quantity": "42%",
+    "unit": "of the total population",
+    "eventType": "EventP",
+    "eventDescription": "facing acute food insecurity"
+  },
+  {
+    "quantity": "3",
+    "unit": "IPC Phase",
+    "eventType": "EventO",
+    "eventDescription": "food insecurity classification"
+  },
+  {
+    "quantity": "16%",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "increase in people facing acute food insecurity"
+  }
+]

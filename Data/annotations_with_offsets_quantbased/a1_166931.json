@@ -1,0 +1,64 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30",
+      "start": 190,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "reference to a footnote",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "100 per cent",
+      "start": 339,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "online coverage of Equal Place learning modality",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 850",
+      "start": 523,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "officially registered on the Equal Place programme",
+      "start": 469,
+      "end": 519
+    },
+    "unit": {
+      "text": "children",
+      "start": 533,
+      "end": 541
+    },
+    "modifier": {
+      "text": "about",
+      "start": 523,
+      "end": 528
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "30 per cent",
+      "start": 543,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "increase in the number of children registered",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "167,618",
+      "start": 78,
+      "end": 85
+    },
+    "unit": {
+      "text": "confirmed COVID-19 cases",
+      "start": 86,
+      "end": 110
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths",
+      "start": 131,
+      "end": 137
+    },
+    "quantity": {
+      "text": "2120",
+      "start": 115,
+      "end": 119
+    },
+    "unit": {
+      "text": "associated deaths",
+      "start": 120,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": 159,
+      "end": 177
+    },
+    "modifier": {
+      "text": "about",
+      "start": 181,
+      "end": 186
+    },
+    "quantity": {
+      "text": "about 1.3 percent",
+      "start": 181,
+      "end": 198
+    },
+    "unit": {
+      "text": "case fatality rate",
+      "start": 159,
+      "end": 177
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received at least one dose of the COVID-19 vaccine",
+      "start": 244,
+      "end": 294
+    },
+    "modifier": {
+      "text": "over",
+      "start": 215,
+      "end": 219
+    },
+    "quantity": {
+      "text": "over 3.5 million",
+      "start": 215,
+      "end": 231
+    },
+    "unit": {
+      "text": "people",
+      "start": 232,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "public gatherings limit",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50",
+      "start": 551,
+      "end": 553
+    },
+    "unit": {
+      "text": "persons",
+      "start": 554,
+      "end": 561
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "curfew hours",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12 to 4",
+      "start": 618,
+      "end": 625
+    },
+    "unit": {
+      "text": "am",
+      "start": 626,
+      "end": 628
+    }
+  }
+]

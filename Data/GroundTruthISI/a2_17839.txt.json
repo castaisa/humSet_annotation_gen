@@ -1,0 +1,229 @@
+[
+  {
+    "quantity": {
+      "text": "14,949",
+      "begin": 58,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 38,
+      "end": 57
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 65,
+      "end": 86
+    }
+  },
+  {
+    "quantity": {
+      "text": "10,493",
+      "begin": 95,
+      "end": 101
+    },
+    "unit": {
+      "text": "men",
+      "begin": 102,
+      "end": 105
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,177",
+      "begin": 107,
+      "end": 112
+    },
+    "unit": {
+      "text": "women",
+      "begin": 113,
+      "end": 118
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,423",
+      "begin": 123,
+      "end": 128
+    },
+    "unit": {
+      "text": "children",
+      "begin": 129,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 146,
+      "end": 149
+    },
+    "unit": {
+      "text": "sea operations",
+      "begin": 150,
+      "end": 164
+    }
+  },
+  {
+    "quantity": {
+      "text": "62 per cent",
+      "begin": 269,
+      "end": 280
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 203,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 230,
+      "end": 241
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "19 per cent",
+      "begin": 325,
+      "end": 336
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 203,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 295,
+      "end": 306
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11 per cent",
+      "begin": 351,
+      "end": 362
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 203,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 295,
+      "end": 306
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 373,
+      "end": 378
+    },
+    "unit": {
+      "text": "nationalities",
+      "begin": 379,
+      "end": 392
+    }
+  },
+  {
+    "quantity": {
+      "text": "14 per cent",
+      "begin": 408,
+      "end": 419
+    },
+    "unit": {
+      "text": "nationalities",
+      "begin": 379,
+      "end": 392
+    }
+  },
+  {
+    "quantity": {
+      "text": "12 per cent",
+      "begin": 432,
+      "end": 443
+    },
+    "unit": {
+      "text": "nationalities",
+      "begin": 379,
+      "end": 392
+    }
+  },
+  {
+    "quantity": {
+      "text": "10 per cent",
+      "begin": 460,
+      "end": 471
+    },
+    "unit": {
+      "text": "nationalities",
+      "begin": 379,
+      "end": 392
+    }
+  },
+  {
+    "quantity": {
+      "text": "700",
+      "begin": 479,
+      "end": 482
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 474,
+      "end": 478
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 483,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "lost their lives or were declared missing",
+      "begin": 495,
+      "end": 536
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9,768",
+      "begin": 660,
+      "end": 665
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 651,
+      "end": 659
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "non-food item (NFI) sets",
+      "begin": 666,
+      "end": 690
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,604",
+      "begin": 695,
+      "end": 700
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 651,
+      "end": 659
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "medical consultations",
+      "begin": 701,
+      "end": 722
+    }
+  }
+]

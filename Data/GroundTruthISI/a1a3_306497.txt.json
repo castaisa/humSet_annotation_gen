@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "100%",
+      "begin": 175,
+      "end": 179
+    },
+    "unit": {
+      "text": "prices rose",
+      "begin": 149,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "prices rose",
+      "begin": 149,
+      "end": 160
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16.47%",
+      "begin": 450,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "reflected",
+      "begin": 387,
+      "end": 396
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "consumer price index (CPI)",
+      "begin": 404,
+      "end": 430
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.75%",
+      "begin": 486,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reflected",
+      "begin": 387,
+      "end": 396
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "consumer price index (CPI)",
+      "begin": 404,
+      "end": 430
+    }
+  },
+  {
+    "quantity": {
+      "text": "20.57%",
+      "begin": 536,
+      "end": 542
+    },
+    "unit": {
+      "text": "Food index",
+      "begin": 512,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 528,
+      "end": 532
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19.56%",
+      "begin": 571,
+      "end": 577
+    },
+    "unit": {
+      "text": "Food index",
+      "begin": 512,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 528,
+      "end": 532
+    },
+    "eventType": "EventO"
+  }
+]

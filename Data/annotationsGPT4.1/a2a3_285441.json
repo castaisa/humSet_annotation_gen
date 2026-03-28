@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "14 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported facing challenges to access medical care services"
+  },
+  {
+    "quantity": "one out of five",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "indicating difficulty in accessing hospitals"
+  },
+  {
+    "quantity": "19 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "indicating difficulty in accessing hospitals"
+  },
+  {
+    "quantity": "13 percent",
+    "unit": "male-headed households",
+    "eventType": "EventP",
+    "eventDescription": "indicating difficulty in accessing hospitals"
+  },
+  {
+    "quantity": "16 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "cited shortage of financial means as main impediment"
+  },
+  {
+    "quantity": "a third",
+    "unit": "interviewed households",
+    "eventType": "EventP",
+    "eventDescription": "reported not being able to purchase the necessary medicines"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "interviewed households",
+    "eventType": "EventP",
+    "eventDescription": "reported not being able to purchase the necessary medicines"
+  },
+  {
+    "quantity": "76 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of financial resources as reason for not purchasing medicines"
+  },
+  {
+    "quantity": "17 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported shortage of medicines in pharmacies as reason for not purchasing medicines"
+  }
+]

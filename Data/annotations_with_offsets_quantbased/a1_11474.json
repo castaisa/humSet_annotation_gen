@@ -1,0 +1,215 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "35",
+      "start": 300,
+      "end": 302
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "start": 334,
+      "end": 343
+    },
+    "unit": {
+      "text": "houses",
+      "start": 303,
+      "end": 309
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "15",
+      "start": 314,
+      "end": 316
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "start": 334,
+      "end": 343
+    },
+    "unit": {
+      "text": "small boats",
+      "start": 317,
+      "end": 328
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "56",
+      "start": 351,
+      "end": 353
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 406,
+      "end": 410
+    },
+    "unit": {
+      "text": "camels",
+      "start": 354,
+      "end": 360
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,260",
+      "start": 369,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 406,
+      "end": 410
+    },
+    "unit": {
+      "text": "goats and sheep",
+      "start": 375,
+      "end": 390
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 362,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "19",
+      "start": 395,
+      "end": 397
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 406,
+      "end": 410
+    },
+    "unit": {
+      "text": "donkeys",
+      "start": 398,
+      "end": 405
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "220",
+      "start": 672,
+      "end": 675
+    },
+    "eventDescription": {
+      "text": "washed away",
+      "start": 754,
+      "end": 765
+    },
+    "unit": {
+      "text": "improvised shelters",
+      "start": 676,
+      "end": 695
+    },
+    "modifier": {
+      "text": "an estimated",
+      "start": 659,
+      "end": 671
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30",
+      "start": 772,
+      "end": 774
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "start": 791,
+      "end": 800
+    },
+    "unit": {
+      "text": "boats",
+      "start": 775,
+      "end": 780
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20",
+      "start": 824,
+      "end": 826
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "start": 844,
+      "end": 853
+    },
+    "unit": {
+      "text": "small boats",
+      "start": 827,
+      "end": 838
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Two",
+      "start": 878,
+      "end": 881
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 909,
+      "end": 917
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 882,
+      "end": 888
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 893,
+      "end": 896
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 909,
+      "end": 917
+    },
+    "unit": {
+      "text": "injury",
+      "start": 897,
+      "end": 903
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "distance south of Bossaso",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "km",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": null,
+      "end": null
+    }
+  }
+]

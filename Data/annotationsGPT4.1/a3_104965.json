@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "two-month",
+    "unit": "extension of documentation",
+    "eventType": "EventA",
+    "eventDescription": "extension of documentation provided"
+  },
+  {
+    "quantity": "7-month",
+    "unit": "wait for documentation",
+    "eventType": "EventP",
+    "eventDescription": "waiting for documentation"
+  },
+  {
+    "quantity": "25,913",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases pending adjudication"
+  }
+]

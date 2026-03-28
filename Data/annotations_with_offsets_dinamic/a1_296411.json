@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "followers of the group",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 183,
+      "end": 192
+    },
+    "quantity": {
+      "text": "273,500",
+      "start": 193,
+      "end": 200
+    },
+    "unit": {
+      "text": "members",
+      "start": 201,
+      "end": 208
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "included in the group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11",
+      "start": 229,
+      "end": 231
+    },
+    "unit": {
+      "text": "supervisors",
+      "start": 232,
+      "end": 243
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "included in the group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50",
+      "start": 245,
+      "end": 247
+    },
+    "unit": {
+      "text": "volunteers",
+      "start": 248,
+      "end": 258
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "included in the group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20",
+      "start": 263,
+      "end": 265
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 266,
+      "end": 273
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided by the group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24-hour",
+      "start": 289,
+      "end": 296
+    },
+    "unit": {
+      "text": "telephone medical service",
+      "start": 297,
+      "end": 322
+    }
+  }
+]

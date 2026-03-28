@@ -1,0 +1,247 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reference to assessment round",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23",
+      "start": 123,
+      "end": 125
+    },
+    "unit": {
+      "text": "Round",
+      "start": 117,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reference to assessment round",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24",
+      "start": 136,
+      "end": 138
+    },
+    "unit": {
+      "text": "Round",
+      "start": 130,
+      "end": 135
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "severity level",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 149,
+      "end": 150
+    },
+    "unit": {
+      "text": "Level",
+      "start": 143,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "classified as Level 4",
+      "start": 201,
+      "end": 222
+    },
+    "quantity": {
+      "text": "50",
+      "start": 184,
+      "end": 186
+    },
+    "unit": {
+      "text": "counties",
+      "start": 187,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "classification level",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 221,
+      "end": 222
+    },
+    "unit": {
+      "text": "Level",
+      "start": 215,
+      "end": 220
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "classified as Level 3",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27",
+      "start": 224,
+      "end": 226
+    },
+    "unit": {
+      "text": "counties",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "classification level",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": 236,
+      "end": 237
+    },
+    "unit": {
+      "text": "Level",
+      "start": 230,
+      "end": 235
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "classified as Level 2",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 247,
+      "end": 250
+    },
+    "unit": {
+      "text": "county",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "classification level",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 268,
+      "end": 269
+    },
+    "unit": {
+      "text": "Level",
+      "start": 262,
+      "end": 267
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reference to Great Bahr el Ghazal (GBeG)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11",
+      "start": 438,
+      "end": 440
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reference to Greater Upper Nile (GUN)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12",
+      "start": 470,
+      "end": 472
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "severity ranking",
+      "start": 647,
+      "end": 663
+    },
+    "quantity": {
+      "text": "4",
+      "start": 509,
+      "end": 510
+    },
+    "unit": {
+      "text": "Level",
+      "start": 503,
+      "end": 508
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average severity ranking for GBeG",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.8",
+      "start": 522,
+      "end": 525
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average severity ranking for GUN",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.7",
+      "start": 530,
+      "end": 533
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "overall severity ranking for GE",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.4",
+      "start": 667,
+      "end": 670
+    }
+  }
+]

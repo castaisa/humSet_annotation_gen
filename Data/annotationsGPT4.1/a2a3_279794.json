@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "eight out of ten",
+    "unit": "health practitioners",
+    "eventType": "EventP",
+    "eventDescription": "surveyed practitioners who have witnessed attacks"
+  },
+  {
+    "quantity": "four",
+    "unit": "attacks",
+    "eventType": "EventP",
+    "eventDescription": "average number of attacks witnessed"
+  },
+  {
+    "quantity": "20",
+    "unit": "attacks",
+    "eventType": "EventP",
+    "eventDescription": "maximum number of attacks witnessed"
+  },
+  {
+    "quantity": "923",
+    "unit": "medical personnel",
+    "eventType": "EventP",
+    "eventDescription": "medical personnel killed"
+  },
+  {
+    "quantity": "43%",
+    "unit": "health care workers",
+    "eventType": "EventP",
+    "eventDescription": "know colleagues who were injured or killed in attacks"
+  }
+]

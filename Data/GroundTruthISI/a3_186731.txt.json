@@ -1,0 +1,200 @@
+[
+  {
+    "quantity": {
+      "text": "52,978",
+      "begin": 11,
+      "end": 17
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "reached by GBV prevention and response interventions",
+      "begin": 30,
+      "end": 82
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "44,254",
+      "begin": 181,
+      "end": 187
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "GBV and COVID-19 awareness raising and information on available services",
+      "begin": 107,
+      "end": 179
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,805",
+      "begin": 228,
+      "end": 233
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "women and girl safe space activities",
+      "begin": 190,
+      "end": 226
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,233",
+      "begin": 292,
+      "end": 297
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "psychosocial support and psychological first aid (PFA)",
+      "begin": 236,
+      "end": 290
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "777",
+      "begin": 336,
+      "end": 339
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "men and boys engagement activities",
+      "begin": 300,
+      "end": 334
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "68",
+      "begin": 372,
+      "end": 374
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "youth and adolescent program",
+      "begin": 342,
+      "end": 370
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "268",
+      "begin": 411,
+      "end": 414
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "life skill development for women",
+      "begin": 377,
+      "end": 409
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "665",
+      "begin": 497,
+      "end": 500
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "capacity building for community members, frontline workers on GBV concepts",
+      "begin": 421,
+      "end": 495
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,596",
+      "begin": 516,
+      "end": 521
+    },
+    "unit": {
+      "text": "women",
+      "begin": 522,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "supported with dignity kits",
+      "begin": 547,
+      "end": 574
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "764",
+      "begin": 532,
+      "end": 535
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 536,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "supported with dignity kits",
+      "begin": 547,
+      "end": 574
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "597",
+      "begin": 603,
+      "end": 606
+    },
+    "unit": {
+      "text": "dignity kits",
+      "begin": 607,
+      "end": 619
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 625,
+      "end": 636
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "641",
+      "start": 73,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "functional in SARI ITCs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 77,
+      "end": 81
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "13",
+      "start": 100,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "centers with functional beds",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Severe Acute Respiratory Infection Isolation and Treatment Centers (SARI ITCs)",
+      "start": 103,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "54%",
+      "start": 355,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "bed occupancy at SARI ITCs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "bed occupancy",
+      "start": 319,
+      "end": 332
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "517",
+      "start": 463,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "capacity in the district",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "general isolation beds",
+      "start": 421,
+      "end": 443
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "43",
+      "start": 575,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "ICU/HDU capacity at Cox’s Bazar Sadar Hospital",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 578,
+      "end": 582
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "hospital capacity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "500",
+      "start": 190,
+      "end": 193
+    },
+    "unit": {
+      "text": "bed",
+      "start": 194,
+      "end": 197
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "offered previously",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "twenty",
+      "start": 237,
+      "end": 243
+    },
+    "unit": {
+      "text": "medical specialties",
+      "start": 244,
+      "end": 263
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "currently offered",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 290,
+      "end": 294
+    },
+    "unit": {
+      "text": "medical specialties",
+      "start": null,
+      "end": null
+    }
+  }
+]

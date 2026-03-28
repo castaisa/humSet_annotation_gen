@@ -1,0 +1,127 @@
+[
+  {
+    "quantity": {
+      "text": "1.7 million",
+      "begin": 17,
+      "end": 28
+    },
+    "unit": {
+      "text": "internally displaced people (IDP)",
+      "begin": 29,
+      "end": 62
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 68,
+      "end": 76
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 119,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 68,
+      "end": 76
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "IDPs",
+      "begin": 139,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "15,000",
+      "begin": 507,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 68,
+      "end": 76
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "women",
+      "begin": 514,
+      "end": 519
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,200",
+      "begin": 526,
+      "end": 531
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 68,
+      "end": 76
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "men and elderly",
+      "begin": 532,
+      "end": 547
+    }
+  },
+  {
+    "quantity": {
+      "text": "38,600",
+      "begin": 439,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "resulting in civilian casualties and displacement",
+      "begin": 376,
+      "end": 425
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "more than",
+      "begin": 429,
+      "end": 438
+    },
+    "unit": {
+      "text": "people",
+      "begin": 446,
+      "end": 452
+    }
+  },
+  {
+    "quantity": {
+      "text": "20,400",
+      "begin": 558,
+      "end": 564
+    },
+    "unit": {
+      "text": "children",
+      "begin": 565,
+      "end": 573
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,500",
+      "begin": 641,
+      "end": 646
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 647,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "ccommodated in seven collective shelters",
+      "begin": 658,
+      "end": 698
+    },
+    "eventType": "EventP"
+  }
+]

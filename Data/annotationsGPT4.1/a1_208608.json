@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "53 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported loss of one or more sources of income"
+  },
+  {
+    "quantity": "one",
+    "unit": "sources of income",
+    "eventType": "EventP",
+    "eventDescription": "lost by households"
+  },
+  {
+    "quantity": "47 percent",
+    "unit": "breadwinners having university degrees",
+    "eventType": "EventP",
+    "eventDescription": "reported loss of one or more sources of income"
+  },
+  {
+    "quantity": "63 percent",
+    "unit": "displaced households",
+    "eventType": "EventP",
+    "eventDescription": "reported loss of one or more sources of income"
+  },
+  {
+    "quantity": "59 percent",
+    "unit": "returnees\u2019 households",
+    "eventType": "EventP",
+    "eventDescription": "reported loss of one or more sources of income"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "resident households",
+    "eventType": "EventP",
+    "eventDescription": "decrease in loss of income compared to a month earlier"
+  },
+  {
+    "quantity": "45 percent",
+    "unit": "resident households",
+    "eventType": "EventP",
+    "eventDescription": "reported loss of one or more sources of income"
+  }
+]

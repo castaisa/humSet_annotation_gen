@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "300",
+      "begin": 1114,
+      "end": 1117
+    },
+    "eventDescription": {
+      "text": "training on psychosocial support was provided",
+      "begin": 1055,
+      "end": 1100
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "staff, doctors, nurses and social workers",
+      "begin": 1118,
+      "end": 1159
+    }
+  }
+]

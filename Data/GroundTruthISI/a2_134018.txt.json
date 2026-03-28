@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 316,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "inc rease connectivity",
+      "begin": 290,
+      "end": 312
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "regions",
+      "begin": 318,
+      "end": 325
+    }
+  },
+  {
+    "quantity": {
+      "text": "74",
+      "begin": 335,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "reach",
+      "begin": 329,
+      "end": 334
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "rural communities",
+      "begin": 338,
+      "end": 355
+    }
+  },
+  {
+    "quantity": {
+      "text": "4 990",
+      "begin": 360,
+      "end": 365
+    },
+    "unit": {
+      "text": "students",
+      "begin": 366,
+      "end": 374
+    }
+  },
+  {
+    "quantity": {
+      "text": "8.7M",
+      "begin": 597,
+      "end": 601
+    },
+    "eventDescription": {
+      "text": "reach",
+      "begin": 591,
+      "end": 596
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "students",
+      "begin": 602,
+      "end": 610
+    }
+  }
+]

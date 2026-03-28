@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "50 000",
+    "unit": "tonnes of rice",
+    "eventType": "EventA",
+    "eventDescription": "imports of rice"
+  },
+  {
+    "quantity": "one-third",
+    "unit": "of the average imports in the previous five years",
+    "eventType": "EventO",
+    "eventDescription": "proportion of average imports"
+  },
+  {
+    "quantity": "35 percent",
+    "unit": "tariff",
+    "eventType": "EventO",
+    "eventDescription": "previous tariff rate"
+  },
+  {
+    "quantity": "6.5 percent",
+    "unit": "tariff",
+    "eventType": "EventO",
+    "eventDescription": "reduced tariff rate"
+  },
+  {
+    "quantity": "850 000",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "students receiving food kits"
+  },
+  {
+    "quantity": "200 000",
+    "unit": "CRC",
+    "eventType": "EventA",
+    "eventDescription": "monthly subsidy amount"
+  },
+  {
+    "quantity": "about 375 000",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households receiving subsidy",
+    "modifier": "about"
+  },
+  {
+    "quantity": "three",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "duration of subsidy"
+  }
+]

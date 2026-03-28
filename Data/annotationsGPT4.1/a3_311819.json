@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "7.2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in need of urgent humanitarian assistance"
+  },
+  {
+    "quantity": "65 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase compared to 2019"
+  },
+  {
+    "quantity": "10",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "states of Sudan with acute food insecurity"
+  },
+  {
+    "quantity": "18",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "total states of Sudan"
+  },
+  {
+    "quantity": "38 per cent",
+    "unit": "of the state population",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in South Kordofan"
+  },
+  {
+    "quantity": "34 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in Blue Nile"
+  },
+  {
+    "quantity": "32 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in North Darfur"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in Central Darfur"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in West Darfur"
+  },
+  {
+    "quantity": "28 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in Red Sea"
+  },
+  {
+    "quantity": "25 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in Kassala"
+  },
+  {
+    "quantity": "21 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in South Darfur"
+  },
+  {
+    "quantity": "21 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in North Kordofan"
+  },
+  {
+    "quantity": "20 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "food insecure in East Darfur"
+  }
+]

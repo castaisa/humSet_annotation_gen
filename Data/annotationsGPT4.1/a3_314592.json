@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "86",
+    "unit": "Community mobilizers",
+    "eventType": "EventP",
+    "eventDescription": "oriented on COVID-19 risk communication"
+  },
+  {
+    "quantity": "208",
+    "unit": "community influencers",
+    "eventType": "EventP",
+    "eventDescription": "oriented on COVID-19 risk communication"
+  },
+  {
+    "quantity": "40",
+    "unit": "radio stations",
+    "eventType": "EventO",
+    "eventDescription": "partnership programme with radio stations"
+  },
+  {
+    "quantity": "6,326",
+    "unit": "radio jingles",
+    "eventType": "EventO",
+    "eventDescription": "broadcasted on COVID-19"
+  },
+  {
+    "quantity": "10",
+    "unit": "languages",
+    "eventType": "EventO",
+    "eventDescription": "radio jingles broadcasted in languages"
+  },
+  {
+    "quantity": "169",
+    "unit": "talk shows",
+    "eventType": "EventO",
+    "eventDescription": "held focusing on COVID-19 and its impact"
+  },
+  {
+    "quantity": "10",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "distribution to partners ongoing in states"
+  },
+  {
+    "quantity": "5",
+    "unit": "languages",
+    "eventType": "EventO",
+    "eventDescription": "materials printed in languages"
+  },
+  {
+    "quantity": "1,700",
+    "unit": "posters",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "350",
+    "unit": "banners",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "35,000",
+    "unit": "fliers",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  }
+]

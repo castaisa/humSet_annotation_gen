@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "10,185",
+    "unit": "special NFI kits",
+    "eventType": "EventA",
+    "eventDescription": "provided to households with older persons"
+  },
+  {
+    "quantity": "77",
+    "unit": "NFI kits",
+    "eventType": "EventA",
+    "eventDescription": "provided to four quarantine centres"
+  },
+  {
+    "quantity": "four",
+    "unit": "quarantine centres",
+    "eventType": "EventO",
+    "eventDescription": "received NFI kits"
+  },
+  {
+    "quantity": "26",
+    "unit": "mid-term shelters",
+    "eventType": "EventA",
+    "eventDescription": "completed in June"
+  },
+  {
+    "quantity": "7,624",
+    "unit": "mid-term shelters",
+    "eventType": "EventA",
+    "eventDescription": "constructed since 2018"
+  },
+  {
+    "quantity": "4,213",
+    "unit": "partial Temporary Shelter Assistance 1 distributions",
+    "eventType": "EventA",
+    "eventDescription": "provided to assist households whose shelters were in poor conditions"
+  }
+]

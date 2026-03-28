@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "states where RCCE activities continued",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "ten",
+      "start": 117,
+      "end": 120
+    },
+    "unit": {
+      "text": "states",
+      "start": 121,
+      "end": 127
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people reached with COVID-19 key mitigation messages",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "516,424",
+      "start": 169,
+      "end": 176
+    },
+    "unit": {
+      "text": "people",
+      "start": 177,
+      "end": 183
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "males reached with COVID-19 key mitigation messages",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "224,593",
+      "start": 185,
+      "end": 192
+    },
+    "unit": {
+      "text": "males",
+      "start": 193,
+      "end": 198
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "females reached with COVID-19 key mitigation messages",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "291,831",
+      "start": 203,
+      "end": 210
+    },
+    "unit": {
+      "text": "females",
+      "start": 211,
+      "end": 218
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people reached through communication with megaphones",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "292,308",
+      "start": 341,
+      "end": 348
+    },
+    "unit": {
+      "text": "people",
+      "start": 349,
+      "end": 355
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "community mobilizers oriented on COVID-19 risk communication",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "179",
+      "start": 419,
+      "end": 422
+    },
+    "unit": {
+      "text": "community mobilizers",
+      "start": 423,
+      "end": 443
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "community influencers oriented on COVID-19 risk communication",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "659",
+      "start": 448,
+      "end": 451
+    },
+    "unit": {
+      "text": "community influencers",
+      "start": 452,
+      "end": 473
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "radio stations partnered with for COVID-19 communication",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 586,
+      "end": 588
+    },
+    "unit": {
+      "text": "radio stations",
+      "start": 589,
+      "end": 603
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "radio jingles on COVID-19 broadcasted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7,179",
+      "start": 616,
+      "end": 621
+    },
+    "unit": {
+      "text": "radio jingles",
+      "start": 622,
+      "end": 635
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "languages in which radio jingles were broadcasted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 668,
+      "end": 670
+    },
+    "unit": {
+      "text": "languages",
+      "start": 685,
+      "end": 694
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "talk shows focusing on COVID-19 held",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "155",
+      "start": 714,
+      "end": 717
+    },
+    "unit": {
+      "text": "talk shows",
+      "start": 718,
+      "end": 728
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "radio stations broadcasting the drama series",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 967,
+      "end": 971
+    },
+    "unit": {
+      "text": "radio stations",
+      "start": 972,
+      "end": 986
+    }
+  }
+]

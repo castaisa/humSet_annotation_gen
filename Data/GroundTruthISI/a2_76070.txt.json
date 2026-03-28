@@ -1,0 +1,121 @@
+[
+  {
+    "quantity": {
+      "text": "600",
+      "begin": 82,
+      "end": 85
+    },
+    "eventDescription": {
+      "text": "Humanitarian transportation, food and shelter services were provided",
+      "begin": 0,
+      "end": 68
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 72,
+      "end": 81
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 86,
+      "end": 97
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,200",
+      "begin": 227,
+      "end": 232
+    },
+    "unit": {
+      "text": "blankets",
+      "begin": 233,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "were delivered to people in transit at the Rumichaca International Bridge and in shelters",
+      "begin": 285,
+      "end": 374
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "370",
+      "begin": 243,
+      "end": 246
+    },
+    "unit": {
+      "text": "scarves",
+      "begin": 247,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "were delivered to people in transit at the Rumichaca International Bridge and in shelters",
+      "begin": 285,
+      "end": 374
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 256,
+      "end": 259
+    },
+    "unit": {
+      "text": "gloves",
+      "begin": 260,
+      "end": 266
+    },
+    "eventDescription": {
+      "text": "were delivered to people in transit at the Rumichaca International Bridge and in shelters",
+      "begin": 285,
+      "end": 374
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 271,
+      "end": 274
+    },
+    "unit": {
+      "text": "cold hats",
+      "begin": 275,
+      "end": 284
+    },
+    "eventDescription": {
+      "text": "were delivered to people in transit at the Rumichaca International Bridge and in shelters",
+      "begin": 285,
+      "end": 374
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 469,
+      "end": 473
+    },
+    "unit": {
+      "text": "new passport processing posts",
+      "begin": 474,
+      "end": 503
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 539,
+      "end": 541
+    },
+    "unit": {
+      "text": "-hour shifts",
+      "begin": 541,
+      "end": 553
+    }
+  }
+]

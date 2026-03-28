@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "13%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "wasting prevalence nationally"
+  },
+  {
+    "quantity": "8%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "lowest district wasting prevalence"
+  },
+  {
+    "quantity": "17%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "highest district wasting prevalence"
+  },
+  {
+    "quantity": "7%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "stunting prevalence nationally"
+  },
+  {
+    "quantity": "9%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "highest district stunting prevalence",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "25%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "previous nutritional assessments"
+  }
+]

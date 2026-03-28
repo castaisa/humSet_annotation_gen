@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "31.3%",
+    "unit": "inflation",
+    "eventType": "EventO",
+    "eventDescription": "inflation rate"
+  },
+  {
+    "quantity": "18%",
+    "unit": "inflation",
+    "eventType": "EventO",
+    "eventDescription": "inflation rate"
+  },
+  {
+    "quantity": "49.7%",
+    "unit": "food inflation",
+    "eventType": "EventO",
+    "eventDescription": "food inflation rate"
+  },
+  {
+    "quantity": "30.9%",
+    "unit": "food inflation",
+    "eventType": "EventO",
+    "eventDescription": "food inflation rate"
+  },
+  {
+    "quantity": "2bn",
+    "unit": "USD in letters of credit",
+    "eventType": "EventA",
+    "eventDescription": "approved letters of credit"
+  }
+]

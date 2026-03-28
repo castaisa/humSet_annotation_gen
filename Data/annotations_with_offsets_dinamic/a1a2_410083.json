@@ -1,0 +1,506 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 112,
+      "end": 120
+    },
+    "quantity": {
+      "text": "Two Hundred and Twelve",
+      "start": 54,
+      "end": 76
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "start": 83,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 143,
+      "end": 151
+    },
+    "quantity": {
+      "text": "212",
+      "start": 78,
+      "end": 81
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 690,
+      "end": 698
+    },
+    "quantity": {
+      "text": "116",
+      "start": 159,
+      "end": 162
+    },
+    "unit": {
+      "text": "cases",
+      "start": 152,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 876,
+      "end": 884
+    },
+    "quantity": {
+      "text": "12",
+      "start": 202,
+      "end": 204
+    },
+    "unit": {
+      "text": "cases",
+      "start": 321,
+      "end": 326
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11",
+      "start": 249,
+      "end": 251
+    },
+    "unit": {
+      "text": "cases",
+      "start": 386,
+      "end": 391
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 283,
+      "end": 284
+    },
+    "unit": {
+      "text": "cases",
+      "start": 679,
+      "end": 684
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 319,
+      "end": 320
+    },
+    "unit": {
+      "text": "cases",
+      "start": 838,
+      "end": 843
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": 384,
+      "end": 385
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Fifty-one",
+      "start": 635,
+      "end": 644
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "51",
+      "start": 646,
+      "end": 648
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 723,
+      "end": 724
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 734,
+      "end": 735
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 745,
+      "end": 746
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41",
+      "start": 755,
+      "end": 757
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 766,
+      "end": 767
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": 776,
+      "end": 777
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 790,
+      "end": 791
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "263",
+      "start": 816,
+      "end": 819
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Two",
+      "start": 845,
+      "end": 848
+    },
+    "unit": {
+      "text": "associated deaths",
+      "start": 853,
+      "end": 870
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 850,
+      "end": 851
+    },
+    "unit": {
+      "text": "associated deaths",
+      "start": null,
+      "end": null
+    }
+  }
+]

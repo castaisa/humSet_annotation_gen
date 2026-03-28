@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "80 per cent",
+      "begin": 155,
+      "end": 166
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 150,
+      "end": 154
+    },
+    "unit": {
+      "text": "food items",
+      "begin": 170,
+      "end": 180
+    }
+  },
+  {
+    "quantity": {
+      "text": "16.9 per cent",
+      "begin": 346,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "food prices have increased",
+      "begin": 316,
+      "end": 342
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9.93 per cent",
+      "begin": 420,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "Food inflation",
+      "begin": 394,
+      "end": 408
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8.9 per cent",
+      "begin": 486,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "Food inflation",
+      "begin": 394,
+      "end": 408
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "-12.12 per cent",
+      "begin": 545,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "Food inflation",
+      "begin": 394,
+      "end": 408
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "33.4 per cent",
+      "begin": 646,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "food inflation",
+      "begin": 623,
+      "end": 637
+    },
+    "eventType": "EventO"
+  }
+]

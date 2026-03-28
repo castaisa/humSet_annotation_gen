@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "interviewed households reporting poor or borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 37,
+      "end": 40
+    },
+    "unit": {
+      "text": "households",
+      "start": 65,
+      "end": 75
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households reported poor or borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43 percent",
+      "start": 77,
+      "end": 87
+    },
+    "unit": {
+      "text": "households",
+      "start": 277,
+      "end": 287
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in poor or borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 159,
+      "end": 165
+    },
+    "quantity": {
+      "text": "50 percent",
+      "start": 166,
+      "end": 176
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "highest levels recorded among female-headed households",
+      "start": 233,
+      "end": 287
+    },
+    "quantity": {
+      "text": "51 percent",
+      "start": 289,
+      "end": 299
+    },
+    "unit": {
+      "text": "female-headed households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in inadequate food consumption",
+      "start": 527,
+      "end": 566
+    },
+    "quantity": {
+      "text": "16 percent",
+      "start": 405,
+      "end": 415
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in inadequate food consumption compared to April 2020",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "almost",
+      "start": 469,
+      "end": 475
+    },
+    "quantity": {
+      "text": "half",
+      "start": 476,
+      "end": 480
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "households consumed animal-source protein on average",
+      "start": 911,
+      "end": 963
+    },
+    "modifier": {
+      "text": "on average",
+      "start": 953,
+      "end": 963
+    },
+    "quantity": {
+      "text": "three",
+      "start": 967,
+      "end": 972
+    },
+    "unit": {
+      "text": "times a week",
+      "start": 973,
+      "end": 985
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "highest national average consumption rate of protein over the past six months",
+      "start": 1006,
+      "end": 1083
+    },
+    "quantity": {
+      "text": "six",
+      "start": 1073,
+      "end": 1076
+    },
+    "unit": {
+      "text": "months",
+      "start": 1077,
+      "end": 1083
+    }
+  }
+]

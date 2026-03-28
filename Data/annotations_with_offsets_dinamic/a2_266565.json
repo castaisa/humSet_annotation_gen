@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 308,
+      "end": 312
+    },
+    "unit": {
+      "text": "camps",
+      "start": 313,
+      "end": 318
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had reduced the quantity of food they consumed",
+      "start": 377,
+      "end": 423
+    },
+    "quantity": {
+      "text": "81%",
+      "start": 342,
+      "end": 345
+    },
+    "unit": {
+      "text": "older people",
+      "start": 353,
+      "end": 365
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "121",
+      "start": 349,
+      "end": 352
+    },
+    "unit": {
+      "text": "older people",
+      "start": 561,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "aged",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60+",
+      "start": 372,
+      "end": 375
+    },
+    "unit": {
+      "text": "years",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported being unable to maintain distance from others",
+      "start": 579,
+      "end": 633
+    },
+    "quantity": {
+      "text": "27%",
+      "start": 554,
+      "end": 557
+    },
+    "unit": {
+      "text": "older people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "said they were unable to wash their hands properly",
+      "start": 700,
+      "end": 750
+    },
+    "quantity": {
+      "text": "31%",
+      "start": 696,
+      "end": 699
+    },
+    "unit": {
+      "text": "older people",
+      "start": null,
+      "end": null
+    }
+  }
+]

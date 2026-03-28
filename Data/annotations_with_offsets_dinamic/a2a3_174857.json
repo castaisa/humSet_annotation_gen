@@ -1,0 +1,262 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "transferred to households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "160,000",
+      "start": 107,
+      "end": 114
+    },
+    "unit": {
+      "text": "pesos",
+      "start": 115,
+      "end": 120
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "transferred to households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "US$ 40",
+      "start": 122,
+      "end": 128
+    },
+    "unit": {
+      "text": "per household",
+      "start": 130,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "covered by transfer",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one-quarter",
+      "start": 159,
+      "end": 170
+    },
+    "unit": {
+      "text": "of the extreme poverty line",
+      "start": 171,
+      "end": 198
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in a family",
+      "start": 226,
+      "end": 237
+    },
+    "quantity": {
+      "text": "four",
+      "start": 241,
+      "end": 245
+    },
+    "unit": {
+      "text": "family members",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "poverty rate",
+      "start": 400,
+      "end": 412
+    },
+    "quantity": {
+      "text": "18",
+      "start": 451,
+      "end": 453
+    },
+    "unit": {
+      "text": "%",
+      "start": 459,
+      "end": 460
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "poverty rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32%",
+      "start": 457,
+      "end": 460
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "extreme poverty rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4.5%",
+      "start": 486,
+      "end": 490
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "extreme poverty rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16.7%",
+      "start": 494,
+      "end": 499
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "lost labor income",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 549,
+      "end": 553
+    },
+    "quantity": {
+      "text": "over four million",
+      "start": 549,
+      "end": 566
+    },
+    "unit": {
+      "text": "informal workers",
+      "start": 567,
+      "end": 583
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "proposed duration of basic income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three-month",
+      "start": 780,
+      "end": 791
+    },
+    "unit": {
+      "text": "universal basic income",
+      "start": 792,
+      "end": 814
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "targeted for basic income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine million",
+      "start": 824,
+      "end": 836
+    },
+    "unit": {
+      "text": "households",
+      "start": 837,
+      "end": 847
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "signed open letter",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "dozens",
+      "start": 905,
+      "end": 911
+    },
+    "unit": {
+      "text": "politicians",
+      "start": 915,
+      "end": 926
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "jobs lost during the crisis",
+      "start": 1022,
+      "end": 1049
+    },
+    "quantity": {
+      "text": "5.4 million",
+      "start": 1010,
+      "end": 1021
+    },
+    "unit": {
+      "text": "jobs",
+      "start": 1022,
+      "end": 1026
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households for minimum income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine million",
+      "start": 1319,
+      "end": 1331
+    },
+    "unit": {
+      "text": "households",
+      "start": 1332,
+      "end": 1342
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "monthly transfer extended",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "240 000",
+      "start": 1437,
+      "end": 1444
+    },
+    "unit": {
+      "text": "pesos per households",
+      "start": 1445,
+      "end": 1465
+    }
+  }
+]

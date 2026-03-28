@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6-8 million",
+      "start": 498,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "receiving food assistance each month",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 510,
+      "end": 516
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "half",
+      "start": 724,
+      "end": 728
+    },
+    "eventDescription": {
+      "text": "covered by emergency food assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "those in need",
+      "start": 732,
+      "end": 745
+    },
+    "modifier": {
+      "text": "less than",
+      "start": 714,
+      "end": 723
+    }
+  }
+]

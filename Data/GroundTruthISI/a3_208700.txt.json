@@ -1,0 +1,156 @@
+[
+  {
+    "quantity": {
+      "text": "17.7 to 18.4",
+      "begin": 139,
+      "end": 151
+    },
+    "unit": {
+      "text": "reduced Coping Strategy Index (rCSI)",
+      "begin": 87,
+      "end": 123
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 124,
+      "end": 133
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17.7",
+      "begin": 139,
+      "end": 143
+    },
+    "unit": {
+      "text": "reduced Coping Strategy Index (rCSI)",
+      "begin": 87,
+      "end": 123
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 124,
+      "end": 133
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18.4",
+      "begin": 147,
+      "end": 151
+    },
+    "unit": {
+      "text": "reduced Coping Strategy Index (rCSI)",
+      "begin": 87,
+      "end": 123
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 124,
+      "end": 133
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7.3",
+      "begin": 301,
+      "end": 304
+    },
+    "eventDescription": {
+      "text": "recorded an average increase",
+      "begin": 269,
+      "end": 297
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "points",
+      "begin": 305,
+      "end": 311
+    }
+  },
+  {
+    "quantity": {
+      "text": "22.5",
+      "begin": 342,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "recorded an average increase",
+      "begin": 269,
+      "end": 297
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "points",
+      "begin": 305,
+      "end": 311
+    }
+  },
+  {
+    "quantity": {
+      "text": "64 percent",
+      "begin": 485,
+      "end": 495
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 475,
+      "end": 484
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 499,
+      "end": 521
+    },
+    "eventDescription": {
+      "text": "reported relying on less preferred and less expensive food",
+      "begin": 522,
+      "end": 580
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54 percent",
+      "begin": 589,
+      "end": 599
+    },
+    "modifier": {
+      "text": "Around",
+      "begin": 582,
+      "end": 588
+    },
+    "eventDescription": {
+      "text": "reduced the number of meals eaten per day",
+      "begin": 600,
+      "end": 641
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "respondents",
+      "begin": 660,
+      "end": 671
+    }
+  },
+  {
+    "quantity": {
+      "text": "46 percent",
+      "begin": 646,
+      "end": 656
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 660,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "restricted the consumption of adults",
+      "begin": 672,
+      "end": 708
+    },
+    "eventType": "EventO"
+  }
+]

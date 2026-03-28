@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided",
+      "start": 123,
+      "end": 131
+    },
+    "quantity": {
+      "text": "2362",
+      "start": 71,
+      "end": 75
+    },
+    "unit": {
+      "text": "mulƟpurpose Cash Based IntervenƟons (CBI)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported not being able to meet their basic needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "83%",
+      "start": 305,
+      "end": 308
+    },
+    "unit": {
+      "text": "of cash applicants",
+      "start": 383,
+      "end": 401
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were survivors of GBV",
+      "start": 402,
+      "end": 423
+    },
+    "quantity": {
+      "text": "33%",
+      "start": 379,
+      "end": 382
+    },
+    "unit": {
+      "text": "of cash applicants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cited serious medical concerns",
+      "start": 432,
+      "end": 462
+    },
+    "quantity": {
+      "text": "75%",
+      "start": 428,
+      "end": 431
+    },
+    "unit": {
+      "text": "of cash applicants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "faced eviction",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "39%",
+      "start": 477,
+      "end": 480
+    },
+    "unit": {
+      "text": "of cash applicants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attributed their application for cash assistance to job loss or reduced working hours",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38%",
+      "start": 499,
+      "end": 502
+    },
+    "unit": {
+      "text": "of cash applicants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided their first CBI assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "143",
+      "start": 677,
+      "end": 680
+    },
+    "unit": {
+      "text": "households",
+      "start": 681,
+      "end": 691
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received their second CBI assistance",
+      "start": 710,
+      "end": 746
+    },
+    "quantity": {
+      "text": "43",
+      "start": 696,
+      "end": 698
+    },
+    "unit": {
+      "text": "households",
+      "start": 699,
+      "end": 709
+    }
+  }
+]

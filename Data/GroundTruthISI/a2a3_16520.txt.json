@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "1,500",
+      "begin": 308,
+      "end": 313
+    },
+    "unit": {
+      "text": "food parcels",
+      "begin": 314,
+      "end": 326
+    }
+  },
+  {
+    "quantity": {
+      "text": "thousands",
+      "begin": 486,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "suffering from malnutrition, a lack of healthcare services and famine",
+      "begin": 544,
+      "end": 613
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "residents and children",
+      "begin": 499,
+      "end": 521
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11",
+      "start": 38,
+      "end": 40
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "new communities",
+      "start": 41,
+      "end": 56
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "130",
+      "start": 606,
+      "end": 609
+    },
+    "eventDescription": {
+      "text": "interviewed",
+      "start": 630,
+      "end": 641
+    },
+    "unit": {
+      "text": "key informants",
+      "start": 610,
+      "end": 624
+    }
+  }
+]

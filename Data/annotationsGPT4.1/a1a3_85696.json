@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "15",
+    "unit": "students",
+    "eventType": "EventA",
+    "eventDescription": "assisted by the Government of Guyana with uniforms, school meals, books and transportation"
+  },
+  {
+    "quantity": "108",
+    "unit": "Venezuelan children",
+    "eventType": "EventP",
+    "eventDescription": "enrolled in schools in the Mabaruma area"
+  },
+  {
+    "quantity": "46",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "enrolled at Mabaruma Primary School"
+  },
+  {
+    "quantity": "36",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "enrolled at Wauna Primary School"
+  },
+  {
+    "quantity": "26",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "enrolled at Whitewater Primary School"
+  },
+  {
+    "quantity": "45",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "enrolled"
+  },
+  {
+    "quantity": "63",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "enrolled"
+  },
+  {
+    "quantity": "12",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "pregnancies among girls as young as"
+  },
+  {
+    "quantity": "16",
+    "unit": "years old",
+    "eventType": "EventP",
+    "eventDescription": "Venezuelan adolescent girls being victims of trafficking"
+  },
+  {
+    "quantity": "17",
+    "unit": "years old",
+    "eventType": "EventP",
+    "eventDescription": "Venezuelan adolescent girls being victims of trafficking"
+  }
+]

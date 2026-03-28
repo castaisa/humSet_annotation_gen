@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "space available for isolation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 × 2",
+      "start": 903,
+      "end": 908
+    },
+    "unit": {
+      "text": "meter area",
+      "start": 909,
+      "end": 919
+    }
+  }
+]

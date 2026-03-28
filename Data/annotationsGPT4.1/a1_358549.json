@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "Millions",
+    "unit": "Nigerians",
+    "eventType": "EventP",
+    "eventDescription": "live in extreme poverty"
+  },
+  {
+    "quantity": "less than $1.90",
+    "unit": "per person per day",
+    "eventType": "EventP",
+    "eventDescription": "income threshold for extreme poverty"
+  },
+  {
+    "quantity": "millions",
+    "unit": "internally displaced persons",
+    "eventType": "EventP",
+    "eventDescription": "created"
+  }
+]

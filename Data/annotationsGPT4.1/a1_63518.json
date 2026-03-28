@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "500",
+    "unit": "bed",
+    "eventType": "EventA",
+    "eventDescription": "hospital capacity"
+  },
+  {
+    "quantity": "twenty",
+    "unit": "medical specialties",
+    "eventType": "EventA",
+    "eventDescription": "offered previously"
+  },
+  {
+    "quantity": "five",
+    "unit": "medical specialties",
+    "eventType": "EventA",
+    "eventDescription": "currently offered"
+  }
+]

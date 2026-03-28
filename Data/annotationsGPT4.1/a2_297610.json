@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "65%",
+    "unit": "caregivers",
+    "eventType": "EventP",
+    "eventDescription": "reported their children had no access to electricity for learning purposes"
+  },
+  {
+    "quantity": "82%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "had access to electricity for learning purposes"
+  },
+  {
+    "quantity": "at least 6 hrs/day",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "had access to electricity for learning purposes",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "six",
+    "unit": "caregiver KIs",
+    "eventType": "EventP",
+    "eventDescription": "reported facing electricity problems"
+  }
+]

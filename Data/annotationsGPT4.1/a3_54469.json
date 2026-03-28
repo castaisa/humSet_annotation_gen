@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "nine",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "targeted"
+  },
+  {
+    "quantity": "2,618",
+    "unit": "children and adolescents",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  },
+  {
+    "quantity": "1,501",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  },
+  {
+    "quantity": "1,117",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  },
+  {
+    "quantity": "678",
+    "unit": "teachers",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  },
+  {
+    "quantity": "434",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  },
+  {
+    "quantity": "244",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  },
+  {
+    "quantity": "two",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "communities reached"
+  },
+  {
+    "quantity": "175",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  },
+  {
+    "quantity": "116",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "benefiting"
+  }
+]

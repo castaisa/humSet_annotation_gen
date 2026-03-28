@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "conflict affected households received food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28,135",
+      "start": 60,
+      "end": 66
+    },
+    "unit": {
+      "text": "households",
+      "start": 85,
+      "end": 95
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "persons received food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "196,917",
+      "start": 97,
+      "end": 104
+    },
+    "unit": {
+      "text": "persons",
+      "start": 105,
+      "end": 112
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rice distributed as food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60kg",
+      "start": 200,
+      "end": 204
+    },
+    "unit": {
+      "text": "rice",
+      "start": 208,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "beans distributed as food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25kg",
+      "start": 214,
+      "end": 218
+    },
+    "unit": {
+      "text": "beans",
+      "start": 222,
+      "end": 227
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "lentils distributed as food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25kg",
+      "start": 229,
+      "end": 233
+    },
+    "unit": {
+      "text": "lentils",
+      "start": 237,
+      "end": 244
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sugar distributed as food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5kg",
+      "start": 246,
+      "end": 249
+    },
+    "unit": {
+      "text": "sugar",
+      "start": 250,
+      "end": 255
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "tomato paste distributed as food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3kg",
+      "start": 257,
+      "end": 260
+    },
+    "unit": {
+      "text": "tomato paste",
+      "start": 261,
+      "end": 273
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sunflower oil distributed as food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10L",
+      "start": 275,
+      "end": 278
+    },
+    "unit": {
+      "text": "sunflower oil",
+      "start": 279,
+      "end": 292
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "salt distributed as food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1kg",
+      "start": 294,
+      "end": 297
+    },
+    "unit": {
+      "text": "salt",
+      "start": 298,
+      "end": 302
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "nutritional supplement 'plumpy sup' sachets distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30",
+      "start": 308,
+      "end": 310
+    },
+    "unit": {
+      "text": "sachets",
+      "start": 311,
+      "end": 318
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "soaps distributed to each household",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 454,
+      "end": 456
+    },
+    "unit": {
+      "text": "soaps",
+      "start": 457,
+      "end": 462
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "food parcels donated to Yemen Red Crescent Society",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "500",
+      "start": 479,
+      "end": 482
+    },
+    "unit": {
+      "text": "food parcels",
+      "start": 483,
+      "end": 495
+    }
+  }
+]

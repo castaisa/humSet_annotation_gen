@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "implemented",
+      "start": 44,
+      "end": 55
+    },
+    "quantity": {
+      "text": "92",
+      "start": 56,
+      "end": 58
+    },
+    "unit": {
+      "text": "quick impact projects",
+      "start": 59,
+      "end": 80
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "supported with sport kits and chairs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12",
+      "start": 464,
+      "end": 466
+    },
+    "unit": {
+      "text": "municipalities",
+      "start": 467,
+      "end": 481
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided with generators",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eleven",
+      "start": 622,
+      "end": 628
+    },
+    "unit": {
+      "text": "municipalities",
+      "start": 629,
+      "end": 643
+    }
+  }
+]

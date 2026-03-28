@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "diphtheria cases reported",
+      "start": 154,
+      "end": 179
+    },
+    "quantity": {
+      "text": "9274",
+      "start": 183,
+      "end": 187
+    },
+    "unit": {
+      "text": "cases",
+      "start": 165,
+      "end": 170
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "diphtheria cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3016",
+      "start": 197,
+      "end": 201
+    },
+    "unit": {
+      "text": "cases",
+      "start": 294,
+      "end": 299
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "diphtheria cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5330",
+      "start": 211,
+      "end": 215
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "diphtheria cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "614",
+      "start": 225,
+      "end": 228
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "diphtheria cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "226",
+      "start": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "diphtheria cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "88",
+      "start": 254,
+      "end": 256
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases reported in the camps",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9029",
+      "start": 289,
+      "end": 293
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases reported from the host community",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "245",
+      "start": 331,
+      "end": 334
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths registered in the refugee camps",
+      "start": 368,
+      "end": 406
+    },
+    "quantity": {
+      "text": "47",
+      "start": 365,
+      "end": 367
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 368,
+      "end": 374
+    }
+  }
+]

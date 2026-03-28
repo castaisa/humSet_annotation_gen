@@ -1,0 +1,117 @@
+[
+  {
+    "quantity": {
+      "text": "70",
+      "begin": 343,
+      "end": 345
+    },
+    "eventDescription": {
+      "text": "a humanitarian convoy bound for Al Hudaydah counted",
+      "begin": 281,
+      "end": 332
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "more than",
+      "begin": 333,
+      "end": 342
+    },
+    "unit": {
+      "text": "vehicles carrying families leaving the city",
+      "begin": 346,
+      "end": 389
+    }
+  },
+  {
+    "quantity": {
+      "text": "10,000",
+      "begin": 820,
+      "end": 826
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 806,
+      "end": 814
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 815,
+      "end": 819
+    },
+    "unit": {
+      "text": "households",
+      "begin": 827,
+      "end": 837
+    }
+  },
+  {
+    "quantity": {
+      "text": "80,000",
+      "begin": 846,
+      "end": 852
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 806,
+      "end": 814
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "nearly",
+      "begin": 839,
+      "end": 845
+    },
+    "unit": {
+      "text": "people",
+      "begin": 853,
+      "end": 859
+    }
+  },
+  {
+    "quantity": {
+      "text": "17,350",
+      "begin": 886,
+      "end": 892
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 876,
+      "end": 885
+    },
+    "unit": {
+      "text": "households",
+      "begin": 893,
+      "end": 903
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 936,
+      "end": 946
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "121,000",
+      "begin": 910,
+      "end": 917
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 905,
+      "end": 909
+    },
+    "unit": {
+      "text": "people",
+      "begin": 918,
+      "end": 924
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 936,
+      "end": 946
+    },
+    "eventType": "EventP"
+  }
+]

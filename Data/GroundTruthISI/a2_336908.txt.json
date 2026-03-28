@@ -1,0 +1,117 @@
+[
+  {
+    "quantity": {
+      "text": "rst",
+      "begin": 121,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 108,
+      "end": 116
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "case",
+      "begin": 126,
+      "end": 130
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 338,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "measures of countries ability to respond to COVID-19",
+      "begin": 341,
+      "end": 393
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 440,
+      "end": 442
+    },
+    "unit": {
+      "text": "ventilators",
+      "begin": 443,
+      "end": 454
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 456,
+      "end": 458
+    },
+    "unit": {
+      "text": "ICU beds",
+      "begin": 459,
+      "end": 467
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.5",
+      "begin": 476,
+      "end": 479
+    },
+    "unit": {
+      "text": "doctors per 10,000 people",
+      "begin": 480,
+      "end": 505
+    }
+  },
+  {
+    "quantity": {
+      "text": "202",
+      "begin": 773,
+      "end": 776
+    },
+    "eventDescription": {
+      "text": "COVID-19 cases con rmed",
+      "begin": 777,
+      "end": 800
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "COVID-19 cases con rmed",
+      "begin": 777,
+      "end": 800
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,362",
+      "begin": 808,
+      "end": 813
+    },
+    "unit": {
+      "text": "tests",
+      "begin": 814,
+      "end": 819
+    }
+  },
+  {
+    "quantity": {
+      "text": "41",
+      "begin": 864,
+      "end": 866
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 867,
+      "end": 873
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 867,
+      "end": 873
+    }
+  }
+]

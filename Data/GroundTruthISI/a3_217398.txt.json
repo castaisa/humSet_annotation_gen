@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 710,
+      "end": 712
+    },
+    "unit": {
+      "text": "per person",
+      "begin": 713,
+      "end": 723
+    },
+    "eventDescription": {
+      "text": "very costly",
+      "begin": 729,
+      "end": 740
+    },
+    "eventType": "EventO"
+  }
+]

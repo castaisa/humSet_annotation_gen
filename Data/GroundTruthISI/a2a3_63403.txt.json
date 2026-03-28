@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "413,334",
+      "begin": 164,
+      "end": 171
+    },
+    "eventDescription": {
+      "text": "UNICEF will massively support this campaign and plans to assist",
+      "begin": 100,
+      "end": 163
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 172,
+      "end": 180
+    }
+  },
+  {
+    "quantity": {
+      "text": "457",
+      "begin": 299,
+      "end": 302
+    },
+    "eventDescription": {
+      "text": "UNICEF and its implementing partners trained",
+      "begin": 254,
+      "end": 298
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "teachers",
+      "begin": 303,
+      "end": 311
+    }
+  },
+  {
+    "quantity": {
+      "text": "18,280",
+      "begin": 614,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "will benefit",
+      "begin": 601,
+      "end": 613
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 621,
+      "end": 629
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 790,
+      "end": 792
+    },
+    "eventDescription": {
+      "text": "participation of",
+      "begin": 773,
+      "end": 789
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "irectors, supervisors and coordinators",
+      "begin": 794,
+      "end": 832
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,500",
+      "begin": 908,
+      "end": 913
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 899,
+      "end": 907
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "teachers",
+      "begin": 914,
+      "end": 922
+    }
+  }
+]

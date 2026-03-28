@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "22.2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in need of humanitarian assistance",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "75 per cent",
+    "unit": "of the population",
+    "eventType": "EventP",
+    "eventDescription": "in need of humanitarian assistance"
+  },
+  {
+    "quantity": "17.8 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "food insecure"
+  },
+  {
+    "quantity": "8.4 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "do not know how they will obtain their next meal"
+  },
+  {
+    "quantity": "234",
+    "unit": "international and national partners",
+    "eventType": "EventO",
+    "eventDescription": "actively coordinating to assist people"
+  },
+  {
+    "quantity": "22",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "priority districts across Yemen"
+  },
+  {
+    "quantity": "over 7.8 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "assisted monthly with some form of humanitarian assistance",
+    "modifier": "over"
+  }
+]

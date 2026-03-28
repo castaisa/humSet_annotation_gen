@@ -1,0 +1,308 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,072",
+      "start": 37,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 53,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "401",
+      "start": 86,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases from Idleb",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 53,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "671",
+      "start": 105,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases from Aleppo governorate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 53,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "six",
+      "start": 145,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "medically confirmed deaths",
+      "start": 149,
+      "end": 175
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 169,
+      "end": 175
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0.6 per cent",
+      "start": 197,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": 177,
+      "end": 195
+    },
+    "unit": {
+      "text": "Case Fatality Rate",
+      "start": 177,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "980",
+      "start": 221,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "cases developed mild symptoms",
+      "start": 225,
+      "end": 254
+    },
+    "unit": {
+      "text": "cases",
+      "start": 225,
+      "end": 230
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "58",
+      "start": 256,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "cases developed moderate/severe symptoms",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 225,
+      "end": 230
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "34",
+      "start": 299,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "cases were asymptomatic",
+      "start": 302,
+      "end": 325
+    },
+    "unit": {
+      "text": "cases",
+      "start": 302,
+      "end": 307
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "526",
+      "start": 338,
+      "end": 341
+    },
+    "eventDescription": {
+      "text": "cases have already recovered",
+      "start": 363,
+      "end": 391
+    },
+    "unit": {
+      "text": "cases",
+      "start": 363,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "49 per cent",
+      "start": 343,
+      "end": 354
+    },
+    "eventDescription": {
+      "text": "cases have already recovered",
+      "start": 363,
+      "end": 391
+    },
+    "unit": {
+      "text": "cases",
+      "start": 363,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "629",
+      "start": 410,
+      "end": 413
+    },
+    "eventDescription": {
+      "text": "male cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "males",
+      "start": 419,
+      "end": 424
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "443",
+      "start": 429,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "female cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "females",
+      "start": 438,
+      "end": 445
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "34.7",
+      "start": 475,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "mean case age",
+      "start": 451,
+      "end": 464
+    },
+    "unit": {
+      "text": "years",
+      "start": 480,
+      "end": 485
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10",
+      "start": 493,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "cases under five years of age",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 496,
+      "end": 501
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "five",
+      "start": 513,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "age threshold for cases under five years",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 518,
+      "end": 523
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "67",
+      "start": 536,
+      "end": 538
+    },
+    "eventDescription": {
+      "text": "cases over 60 years of age",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 539,
+      "end": 544
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 555,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "age threshold for cases over 60 years",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 558,
+      "end": 563
+    }
+  }
+]

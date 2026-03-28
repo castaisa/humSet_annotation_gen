@@ -1,0 +1,134 @@
+[
+  {
+    "quantity": {
+      "text": "98",
+      "begin": 557,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 548,
+      "end": 556
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "civilian casualties",
+      "begin": 560,
+      "end": 579
+    }
+  },
+  {
+    "quantity": {
+      "text": "29",
+      "begin": 581,
+      "end": 583
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 584,
+      "end": 590
+    }
+  },
+  {
+    "quantity": {
+      "text": "69",
+      "begin": 595,
+      "end": 597
+    },
+    "unit": {
+      "text": "injured",
+      "begin": 598,
+      "end": 605
+    }
+  },
+  {
+    "quantity": {
+      "text": "64",
+      "begin": 618,
+      "end": 620
+    },
+    "unit": {
+      "text": "men",
+      "begin": 621,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "whose age could not be determined",
+      "begin": 669,
+      "end": 702
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 626,
+      "end": 628
+    },
+    "unit": {
+      "text": "women",
+      "begin": 629,
+      "end": 634
+    },
+    "eventDescription": {
+      "text": "whose age could not be determined",
+      "begin": 669,
+      "end": 702
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 636,
+      "end": 638
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 639,
+      "end": 643
+    },
+    "eventDescription": {
+      "text": "whose age could not be determined",
+      "begin": 669,
+      "end": 702
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 645,
+      "end": 648
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 649,
+      "end": 654
+    },
+    "eventDescription": {
+      "text": "whose age could not be determined",
+      "begin": 669,
+      "end": 702
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 660,
+      "end": 663
+    },
+    "unit": {
+      "text": "male",
+      "begin": 664,
+      "end": 668
+    },
+    "eventDescription": {
+      "text": "whose age could not be determined",
+      "begin": 669,
+      "end": 702
+    },
+    "eventType": "EventP"
+  }
+]

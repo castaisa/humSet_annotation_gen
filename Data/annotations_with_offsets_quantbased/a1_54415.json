@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "ten",
+      "start": 153,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "installed",
+      "start": 143,
+      "end": 152
+    },
+    "unit": {
+      "text": "water filters",
+      "start": 168,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24/7",
+      "start": 285,
+      "end": 289
+    },
+    "eventDescription": {
+      "text": "kept open",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "toilet facilities",
+      "start": 262,
+      "end": 279
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,330",
+      "start": 644,
+      "end": 649
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "start": 657,
+      "end": 693
+    },
+    "unit": {
+      "text": "people",
+      "start": 650,
+      "end": 656
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,915",
+      "start": 732,
+      "end": 737
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "start": 657,
+      "end": 693
+    },
+    "unit": {
+      "text": "women",
+      "start": 738,
+      "end": 743
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,961",
+      "start": 745,
+      "end": 750
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "start": 657,
+      "end": 693
+    },
+    "unit": {
+      "text": "men",
+      "start": 751,
+      "end": 754
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "769",
+      "start": 756,
+      "end": 759
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "start": 657,
+      "end": 693
+    },
+    "unit": {
+      "text": "girls",
+      "start": 760,
+      "end": 765
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "685",
+      "start": 770,
+      "end": 773
+    },
+    "eventDescription": {
+      "text": "attended hygiene promotion workshops",
+      "start": 657,
+      "end": 693
+    },
+    "unit": {
+      "text": "boys",
+      "start": 774,
+      "end": 778
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,230",
+      "start": 1020,
+      "end": 1025
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": 1190,
+      "end": 1201
+    },
+    "unit": {
+      "text": "water containers",
+      "start": 1026,
+      "end": 1042
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,844",
+      "start": 1087,
+      "end": 1092
+    },
+    "eventDescription": {
+      "text": "benefitted from distribution",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 1093,
+      "end": 1099
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "810",
+      "start": 1151,
+      "end": 1154
+    },
+    "eventDescription": {
+      "text": "received as donation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "family hygiene kits",
+      "start": 1155,
+      "end": 1174
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "rehabilitated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sets of toilet facilities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 1209,
+      "end": 1214
+    },
+    "eventDescription": {
+      "text": "workshops held/distribution sites",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "border points",
+      "start": 1215,
+      "end": 1228
+    }
+  }
+]

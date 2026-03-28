@@ -1,0 +1,115 @@
+[
+  {
+    "quantity": {
+      "text": "48 per cent",
+      "begin": 231,
+      "end": 242
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 205,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "cite separated children as a concern",
+      "begin": 277,
+      "end": 313
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "44 per cent",
+      "begin": 261,
+      "end": 272
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 205,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "cite separated children as a concern",
+      "begin": 277,
+      "end": 313
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7 per cent",
+      "begin": 344,
+      "end": 354
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 205,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "cite separated children as a concern",
+      "begin": 277,
+      "end": 313
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 415,
+      "end": 419
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 405,
+      "end": 414
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 441,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "was losing parents/ children",
+      "begin": 453,
+      "end": 481
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "68 per cent",
+      "begin": 421,
+      "end": 432
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 441,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "was losing parents/ children",
+      "begin": 453,
+      "end": 481
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "62 per cent",
+      "begin": 559,
+      "end": 570
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 546,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "cited that caregivers willingly send their children to work far from home",
+      "begin": 572,
+      "end": 645
+    },
+    "eventType": "EventP"
+  }
+]

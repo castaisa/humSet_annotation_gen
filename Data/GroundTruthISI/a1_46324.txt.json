@@ -1,0 +1,61 @@
+[
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 533,
+      "end": 544
+    },
+    "unit": {
+      "text": "population",
+      "begin": 552,
+      "end": 562
+    },
+    "eventDescription": {
+      "text": "estimated to be food insecure",
+      "begin": 581,
+      "end": 610
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 690,
+      "end": 694
+    },
+    "eventDescription": {
+      "text": "Acute malnutrition in children",
+      "begin": 642,
+      "end": 672
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "under the",
+      "begin": 673,
+      "end": 682
+    },
+    "unit": {
+      "text": "age",
+      "begin": 683,
+      "end": 686
+    }
+  },
+  {
+    "quantity": {
+      "text": "third",
+      "begin": 838,
+      "end": 843
+    },
+    "unit": {
+      "text": "population",
+      "begin": 851,
+      "end": 861
+    },
+    "eventDescription": {
+      "text": "targeted for assistance",
+      "begin": 862,
+      "end": 885
+    },
+    "eventType": "EventP"
+  }
+]

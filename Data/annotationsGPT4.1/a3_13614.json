@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "340",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "received core-relief items",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "140",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "received core-relief items"
+  },
+  {
+    "quantity": "three",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "used as temporary shelter"
+  }
+]

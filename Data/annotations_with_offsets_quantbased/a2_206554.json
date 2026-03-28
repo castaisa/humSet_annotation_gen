@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30%",
+      "start": 209,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "reported using a piped system",
+      "start": 178,
+      "end": 207
+    },
+    "unit": {
+      "text": "households",
+      "start": 156,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10%",
+      "start": 256,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "reported using wells",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 156,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 276,
+      "end": 278
+    },
+    "eventDescription": {
+      "text": "reported using boreholes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 156,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "15%",
+      "start": 394,
+      "end": 397
+    },
+    "eventDescription": {
+      "text": "reported using water kiosks",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 156,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "9%",
+      "start": 409,
+      "end": 411
+    },
+    "eventDescription": {
+      "text": "reported using vendors",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 156,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 426,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "reported using trucks",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 156,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40%",
+      "start": 510,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "reported using wells, boreholes, kiosks, vendors, or trucks",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 156,
+      "end": 166
+    }
+  }
+]

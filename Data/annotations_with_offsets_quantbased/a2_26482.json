@@ -1,0 +1,239 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "205%",
+      "start": 144,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "increase in malaria cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,500",
+      "start": 246,
+      "end": 251
+    },
+    "eventDescription": {
+      "text": "deaths of people requiring dialysis",
+      "start": 252,
+      "end": 287
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 252,
+      "end": 258
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6,400",
+      "start": 390,
+      "end": 395
+    },
+    "eventDescription": {
+      "text": "cases of measles",
+      "start": 396,
+      "end": 412
+    },
+    "unit": {
+      "text": "cases",
+      "start": 396,
+      "end": 401
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "76",
+      "start": 423,
+      "end": 425
+    },
+    "eventDescription": {
+      "text": "measles deaths",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 426,
+      "end": 432
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1.2%",
+      "start": 438,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "case fatality rate for measles",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,400",
+      "start": 501,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "cases of dengue fever",
+      "start": 507,
+      "end": 528
+    },
+    "unit": {
+      "text": "cases",
+      "start": 507,
+      "end": 512
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "150",
+      "start": 562,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "people died of diphtheria",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 566,
+      "end": 572
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6%",
+      "start": 659,
+      "end": 661
+    },
+    "eventDescription": {
+      "text": "case fatality rate for diphtheria",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20%",
+      "start": 673,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "case fatality rate for diphtheria",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "79,000",
+      "start": 817,
+      "end": 823
+    },
+    "eventDescription": {
+      "text": "people stopped getting HIV treatment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 824,
+      "end": 830
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 5,000",
+      "start": 915,
+      "end": 925
+    },
+    "eventDescription": {
+      "text": "HIV patients died",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "patients",
+      "start": 930,
+      "end": 938
+    },
+    "modifier": {
+      "text": "over",
+      "start": 915,
+      "end": 919
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,800",
+      "start": 996,
+      "end": 1001
+    },
+    "eventDescription": {
+      "text": "HIV deaths",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 1002,
+      "end": 1008
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23,000",
+      "start": 1439,
+      "end": 1445
+    },
+    "eventDescription": {
+      "text": "people in psychiatric institutions",
+      "start": 1387,
+      "end": 1421
+    },
+    "unit": {
+      "text": "people",
+      "start": 1387,
+      "end": 1393
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,500",
+      "start": 1449,
+      "end": 1454
+    },
+    "eventDescription": {
+      "text": "people in psychiatric institutions",
+      "start": 1387,
+      "end": 1421
+    },
+    "unit": {
+      "text": "people",
+      "start": 1387,
+      "end": 1393
+    }
+  }
+]

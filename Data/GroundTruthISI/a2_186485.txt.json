@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": {
+      "text": "84%",
+      "begin": 104,
+      "end": 107
+    },
+    "unit": {
+      "text": "women",
+      "begin": 111,
+      "end": 116
+    },
+    "eventDescription": {
+      "text": "own mobile phones",
+      "begin": 132,
+      "end": 149
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 170,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "gender gap",
+      "begin": 173,
+      "end": 183
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 230,
+      "end": 233
+    },
+    "unit": {
+      "text": "women",
+      "begin": 237,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "access to internet",
+      "begin": 248,
+      "end": 266
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 282,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "access to internet",
+      "begin": 248,
+      "end": 266
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "men",
+      "begin": 289,
+      "end": 292
+    }
+  }
+]

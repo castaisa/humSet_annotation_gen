@@ -1,0 +1,125 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over a hundred",
+      "start": 78,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": 100,
+      "end": 106
+    },
+    "unit": {
+      "text": "people",
+      "start": 93,
+      "end": 99
+    },
+    "modifier": {
+      "text": "over",
+      "start": 78,
+      "end": 82
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over a hundred",
+      "start": 111,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": 126,
+      "end": 133
+    },
+    "unit": {
+      "text": "people",
+      "start": 93,
+      "end": 99
+    },
+    "modifier": {
+      "text": "over",
+      "start": 111,
+      "end": 115
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two/three",
+      "start": 358,
+      "end": 367
+    },
+    "eventDescription": {
+      "text": "present in villages",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "warring communities",
+      "start": 368,
+      "end": 387
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "80",
+      "start": 480,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "distance from Am-Timan",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "km",
+      "start": 483,
+      "end": 485
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 20",
+      "start": 514,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 523,
+      "end": 529
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 523,
+      "end": 529
+    },
+    "modifier": {
+      "text": "about",
+      "start": 514,
+      "end": 519
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20",
+      "start": 586,
+      "end": 588
+    },
+    "eventDescription": {
+      "text": "distance from Mouraye",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "km",
+      "start": 589,
+      "end": 591
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.6 million",
+      "start": 13,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "affected by the current conflict",
+      "start": 48,
+      "end": 80
+    },
+    "unit": {
+      "text": "Libyan individuals",
+      "start": 25,
+      "end": 43
+    },
+    "modifier": {
+      "text": "estimated",
+      "start": 3,
+      "end": 12
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one million",
+      "start": 94,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "in need (PIN) of health assistance",
+      "start": 135,
+      "end": 169
+    },
+    "unit": {
+      "text": "of the Libyan population",
+      "start": 106,
+      "end": 130
+    },
+    "modifier": {
+      "text": "More than",
+      "start": 84,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36. 8 per cent",
+      "start": 260,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "overall general service readiness",
+      "start": 177,
+      "end": 210
+    },
+    "unit": {
+      "text": "public primary health care facilities",
+      "start": 219,
+      "end": 256
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "71 per cent",
+      "start": 707,
+      "end": 718
+    },
+    "eventDescription": {
+      "text": "facing shortage in drugs",
+      "start": 762,
+      "end": 786
+    },
+    "unit": {
+      "text": "people living with chronic diseases",
+      "start": 722,
+      "end": 757
+    },
+    "modifier": {
+      "text": "More than",
+      "start": 697,
+      "end": 706
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one out of five",
+      "start": 791,
+      "end": 806
+    },
+    "eventDescription": {
+      "text": "reporting that medicines are their priority non-food needs",
+      "start": 829,
+      "end": 887
+    },
+    "unit": {
+      "text": "Libyan households",
+      "start": 807,
+      "end": 824
+    }
+  }
+]

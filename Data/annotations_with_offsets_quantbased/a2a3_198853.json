@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "12 percent",
+      "start": 253,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "price increase",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "red sorghum price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5,200",
+      "start": 287,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "price of red sorghum in first week of June",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SOS",
+      "start": 283,
+      "end": 286
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5,800",
+      "start": 310,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "price of red sorghum in fourth week of June",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SOS",
+      "start": 306,
+      "end": 309
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "nine percent",
+      "start": 358,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "price comparison to June 2019",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "higher than June 2019",
+      "start": 371,
+      "end": 392
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "eight percent",
+      "start": 450,
+      "end": 463
+    },
+    "eventDescription": {
+      "text": "price comparison to five-year average",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "below the five-year average",
+      "start": 464,
+      "end": 491
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20 kg",
+      "start": 578,
+      "end": 583
+    },
+    "eventDescription": {
+      "text": "daily wage-to-sorghum terms of trade in May",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "per daily wage",
+      "start": 584,
+      "end": 598
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18 kg",
+      "start": 616,
+      "end": 621
+    },
+    "eventDescription": {
+      "text": "daily wage-to-sorghum terms of trade in June",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "per daily wage",
+      "start": 584,
+      "end": 598
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 609,
+      "end": 615
+    }
+  }
+]

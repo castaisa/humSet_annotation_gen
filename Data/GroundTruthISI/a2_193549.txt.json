@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "39 per cent",
+      "begin": 138,
+      "end": 149
+    },
+    "unit": {
+      "text": "IDPs living in camps and camp-like settings",
+      "begin": 39,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "reportedly had access to soap and water",
+      "begin": 95,
+      "end": 134
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "34%",
+      "begin": 159,
+      "end": 162
+    },
+    "unit": {
+      "text": "IDPs living in camps and camp-like settings",
+      "begin": 39,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "reportedly had access to soap and water",
+      "begin": 95,
+      "end": 134
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 197,
+      "end": 201
+    },
+    "unit": {
+      "text": "people",
+      "begin": 206,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "begin": 213,
+      "end": 241
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18 per cent",
+      "begin": 245,
+      "end": 256
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 260,
+      "end": 265
+    }
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 275,
+      "end": 278
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 260,
+      "end": 265
+    }
+  },
+  {
+    "quantity": {
+      "text": "17 per cent",
+      "begin": 331,
+      "end": 342
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 362,
+      "end": 367
+    }
+  },
+  {
+    "quantity": {
+      "text": "22%",
+      "begin": 354,
+      "end": 357
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 362,
+      "end": 367
+    }
+  },
+  {
+    "quantity": {
+      "text": "14 per cent",
+      "begin": 381,
+      "end": 392
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 412,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "reportedly",
+      "begin": 418,
+      "end": 428
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 404,
+      "end": 407
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 412,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "reportedly",
+      "begin": 418,
+      "end": 428
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 496,
+      "end": 499
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 504,
+      "end": 509
+    }
+  },
+  {
+    "quantity": {
+      "text": "12 per cent",
+      "begin": 473,
+      "end": 484
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 504,
+      "end": 509
+    }
+  }
+]

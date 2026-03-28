@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "94.8 million",
+      "start": 152,
+      "end": 164
+    },
+    "eventDescription": {
+      "text": "sought for COVID-19 preparedness and response",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "US$",
+      "start": 149,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six",
+      "start": 169,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "duration of appeal",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "months",
+      "start": 173,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "52.7 million",
+      "start": 208,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "received for urgent preparedness and response activities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "US$",
+      "start": 205,
+      "end": 208
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "23.2 million",
+      "start": 307,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "channeled through the World Health Organization (WHO)",
+      "start": 320,
+      "end": 373
+    },
+    "unit": {
+      "text": "US$",
+      "start": 304,
+      "end": 307
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "29.5 million",
+      "start": 381,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "channeled directly to PAHO",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "US$",
+      "start": 378,
+      "end": 381
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "52",
+      "start": 652,
+      "end": 654
+    },
+    "eventDescription": {
+      "text": "countries and territories in the Americas",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "countries and territories",
+      "start": 655,
+      "end": 680
+    }
+  }
+]

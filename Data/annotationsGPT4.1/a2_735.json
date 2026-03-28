@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "12.5%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "scoring \u2018borderline\u2019 FCS"
+  },
+  {
+    "quantity": "7.9%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "scoring \u2018poor\u2019 FCS"
+  },
+  {
+    "quantity": "3.8%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "scoring \u2018borderline\u2019 FCS"
+  },
+  {
+    "quantity": "0.8%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "scoring \u2018poor\u2019 FCS"
+  },
+  {
+    "quantity": "1.9%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "scoring \u2018borderline\u2019 FCS"
+  },
+  {
+    "quantity": "1.3%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "scoring \u2018poor\u2019 FCS"
+  },
+  {
+    "quantity": "21.3%",
+    "unit": "households in Sebha",
+    "eventType": "EventP",
+    "eventDescription": "identified with \u2018poor\u2019 and \u2018borderline\u2019 FCS"
+  },
+  {
+    "quantity": "37.8%",
+    "unit": "households in Tripoli",
+    "eventType": "EventP",
+    "eventDescription": "identified with \u2018poor\u2019 and \u2018borderline\u2019 FCS"
+  },
+  {
+    "quantity": "41.8%",
+    "unit": "households in Al Margab",
+    "eventType": "EventP",
+    "eventDescription": "identified with \u2018poor\u2019 and \u2018borderline\u2019 FCS"
+  },
+  {
+    "quantity": "5.0%",
+    "unit": "overall households",
+    "eventType": "EventP",
+    "eventDescription": "identified with \u2018poor\u2019 and \u2018borderline\u2019 FCS"
+  },
+  {
+    "quantity": "79.2",
+    "unit": "returnee households in Al Jabal Al Gharbi",
+    "eventType": "EventP",
+    "eventDescription": "average FCS score"
+  },
+  {
+    "quantity": "95.6",
+    "unit": "non-displaced households in Al Jabal Al Gharbi",
+    "eventType": "EventP",
+    "eventDescription": "average FCS score"
+  },
+  {
+    "quantity": "72.7",
+    "unit": "returnee households in Ghat",
+    "eventType": "EventP",
+    "eventDescription": "average FCS score"
+  },
+  {
+    "quantity": "82.1",
+    "unit": "non-displaced households in Ghat",
+    "eventType": "EventP",
+    "eventDescription": "average FCS score"
+  }
+]

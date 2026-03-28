@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "household size",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6.6",
+      "start": 184,
+      "end": 187
+    },
+    "unit": {
+      "text": "members",
+      "start": 188,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "household size",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5.5",
+      "start": 228,
+      "end": 231
+    },
+    "unit": {
+      "text": "members",
+      "start": 232,
+      "end": 239
+    }
+  }
+]

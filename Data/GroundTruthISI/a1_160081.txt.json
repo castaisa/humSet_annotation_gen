@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "3 per cent",
+      "begin": 2,
+      "end": 12
+    },
+    "eventDescription": {
+      "text": "decrement was noted in the perception",
+      "begin": 13,
+      "end": 50
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "health centers",
+      "begin": 56,
+      "end": 70
+    }
+  },
+  {
+    "quantity": {
+      "text": "Eighty-four per cent",
+      "begin": 226,
+      "end": 246
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 250,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "felt that health centers were not prepared for handling the threat of COVID-19",
+      "begin": 262,
+      "end": 340
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "87 per cent",
+      "begin": 373,
+      "end": 384
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 250,
+      "end": 261
+    },
+    "modifier": {
+      "text": "decrease from",
+      "begin": 355,
+      "end": 368
+    },
+    "eventDescription": {
+      "text": "health centers were not prepared during the last round of assessment",
+      "begin": 407,
+      "end": 475
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16 per cent",
+      "begin": 483,
+      "end": 494
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 498,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "health centers were prepared to handle the threat of COVID-19",
+      "begin": 520,
+      "end": 581
+    },
+    "eventType": "EventO"
+  }
+]

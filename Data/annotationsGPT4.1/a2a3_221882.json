@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "16",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "missing"
+  },
+  {
+    "quantity": "eight",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "found alive"
+  },
+  {
+    "quantity": "five",
+    "unit": "shelters",
+    "eventType": "EventA",
+    "eventDescription": "set up for affected people"
+  },
+  {
+    "quantity": "3",
+    "unit": "deceased",
+    "eventType": "EventP",
+    "eventDescription": "deceased"
+  },
+  {
+    "quantity": "eight",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "missing"
+  },
+  {
+    "quantity": "497",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "201",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "20",
+    "unit": "injured",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  },
+  {
+    "quantity": "67",
+    "unit": "homes",
+    "eventType": "EventO",
+    "eventDescription": "destroyed"
+  },
+  {
+    "quantity": "104",
+    "unit": "homes",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "3",
+    "unit": "educational centers",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "5.5",
+    "unit": "kilometers of road",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  }
+]

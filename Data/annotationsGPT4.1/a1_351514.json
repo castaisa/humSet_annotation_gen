@@ -1,0 +1,23 @@
+[
+  {
+    "quantity": "more than 1,470",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "more than 2,200",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "abducted",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "more than 200",
+    "unit": "schoolgirls",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped",
+    "modifier": "more than"
+  }
+]

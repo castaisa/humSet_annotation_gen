@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "13,273",
+      "begin": 50,
+      "end": 56
+    },
+    "eventDescription": {
+      "text": "FHI360 provided",
+      "begin": 34,
+      "end": 49
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "outpatient curative consultations",
+      "begin": 57,
+      "end": 90
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,807",
+      "begin": 237,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "Acute Respiratory Infection (ARI) was the leading cause of communicable disease morbidity",
+      "begin": 142,
+      "end": 231
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 243,
+      "end": 248
+    }
+  },
+  {
+    "quantity": {
+      "text": "99",
+      "begin": 334,
+      "end": 336
+    },
+    "unit": {
+      "text": "cumulative cases",
+      "begin": 337,
+      "end": 353
+    },
+    "eventDescription": {
+      "text": "was the second major cause of morbidity",
+      "begin": 355,
+      "end": 394
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 406,
+      "end": 411
+    },
+    "eventDescription": {
+      "text": "was the second major cause of morbidity",
+      "begin": 355,
+      "end": 394
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "reported sites",
+      "begin": 412,
+      "end": 426
+    }
+  },
+  {
+    "quantity": {
+      "text": "969",
+      "begin": 574,
+      "end": 577
+    },
+    "unit": {
+      "text": "persons with peptic ulcer",
+      "begin": 578,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "treated",
+      "begin": 609,
+      "end": 616
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "519",
+      "begin": 706,
+      "end": 709
+    },
+    "eventDescription": {
+      "text": "Cases of hypertension was also seen in significant numbers",
+      "begin": 643,
+      "end": 701
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 710,
+      "end": 715
+    }
+  },
+  {
+    "quantity": {
+      "text": "245",
+      "begin": 717,
+      "end": 720
+    },
+    "unit": {
+      "text": "health facility deliveries by skilled birth attendants",
+      "begin": 721,
+      "end": 775
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "begin": 781,
+      "end": 790
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 837,
+      "end": 840
+    },
+    "eventDescription": {
+      "text": "provided family planning services",
+      "begin": 800,
+      "end": 833
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "new clients",
+      "begin": 841,
+      "end": 852
+    }
+  }
+]

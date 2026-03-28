@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "65 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported consuming less expensive food"
+  },
+  {
+    "quantity": "88 percent",
+    "unit": "households in Quneitra",
+    "eventType": "EventP",
+    "eventDescription": "reported consuming less expensive food"
+  },
+  {
+    "quantity": "74 percent",
+    "unit": "households in Al-Hasakeh",
+    "eventType": "EventP",
+    "eventDescription": "reported consuming less expensive food"
+  },
+  {
+    "quantity": "56 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported reduction in number of meals consumed per day"
+  },
+  {
+    "quantity": "41 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported reducing consumption of adult household members"
+  },
+  {
+    "quantity": "half",
+    "unit": "interviewed IDP households",
+    "eventType": "EventP",
+    "eventDescription": "mentioned relying more frequently on reducing adult consumption"
+  },
+  {
+    "quantity": "41 percent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "mentioned relying more frequently on reducing adult consumption"
+  },
+  {
+    "quantity": "37 percent",
+    "unit": "residents",
+    "eventType": "EventP",
+    "eventDescription": "mentioned relying more frequently on reducing adult consumption"
+  },
+  {
+    "quantity": "more than two-thirds",
+    "unit": "Syrian interviewed households at national level",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "81 percent",
+    "unit": "households in As-Sweida",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit"
+  }
+]

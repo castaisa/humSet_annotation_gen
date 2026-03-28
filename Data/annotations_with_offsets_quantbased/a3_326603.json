@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "about 14",
+      "start": 245,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "covered by fresh food corners",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "retail outlets",
+      "start": 254,
+      "end": 268
+    },
+    "modifier": {
+      "text": "about",
+      "start": 245,
+      "end": 250
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "100 percent",
+      "start": 283,
+      "end": 294
+    },
+    "eventDescription": {
+      "text": "shopping in those locations",
+      "start": 312,
+      "end": 339
+    },
+    "unit": {
+      "text": "beneficiaries",
+      "start": 298,
+      "end": 311
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "3 USD",
+      "start": 478,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "additional targeted assistance",
+      "start": 446,
+      "end": 476
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "30 percent",
+      "start": 492,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "received additional targeted assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "most vulnerable households",
+      "start": 503,
+      "end": 529
+    }
+  }
+]

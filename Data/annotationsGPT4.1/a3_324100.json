@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "28%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported it takes less than 15 minutes to reach to the nearest education facility"
+  },
+  {
+    "quantity": "15 minutes",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "time to reach to the nearest education facility"
+  },
+  {
+    "quantity": "37%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported it takes 15-30 minutes to reach to the nearest education facility"
+  },
+  {
+    "quantity": "15-30 minutes",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "time to reach to the nearest education facility"
+  },
+  {
+    "quantity": "1%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported it takes 30-60minutes to reach to the nearest education facility"
+  },
+  {
+    "quantity": "30-60minutes",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "time to reach to the nearest education facility"
+  },
+  {
+    "quantity": "3%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported that it takes 1-3 hours to reach to the nearest education facility"
+  },
+  {
+    "quantity": "1-3 hours",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "time to reach to the nearest education facility"
+  },
+  {
+    "quantity": "1%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported that it takes more than 3 hours to reach to the nearest education facility"
+  },
+  {
+    "quantity": "3 hours",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "time to reach to the nearest education facility",
+    "modifier": "more than"
+  }
+]

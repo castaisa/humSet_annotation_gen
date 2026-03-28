@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": {
+      "text": "60%)",
+      "begin": 138,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "recruitment requirement by Bangladeshi teachers was a university degree",
+      "begin": 65,
+      "end": 136
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "0.05%",
+      "begin": 156,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "recruitment requirement by Bangladeshi teachers was a university degree",
+      "begin": 65,
+      "end": 136
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Rohingya teachers",
+      "begin": 165,
+      "end": 182
+    }
+  },
+  {
+    "quantity": {
+      "text": "52%",
+      "begin": 615,
+      "end": 618
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 622,
+      "end": 633
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 729,
+      "end": 732
+    },
+    "unit": {
+      "text": "teacher",
+      "begin": 733,
+      "end": 740
+    }
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 767,
+      "end": 770
+    },
+    "unit": {
+      "text": "men",
+      "begin": 809,
+      "end": 812
+    }
+  },
+  {
+    "quantity": {
+      "text": "76%",
+      "begin": 817,
+      "end": 820
+    },
+    "unit": {
+      "text": "women",
+      "begin": 862,
+      "end": 867
+    }
+  }
+]

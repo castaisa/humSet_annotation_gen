@@ -1,0 +1,213 @@
+[
+  {
+    "quantity": {
+      "text": "48%",
+      "begin": 12,
+      "end": 15
+    },
+    "unit": {
+      "text": "households",
+      "begin": 19,
+      "end": 29
+    },
+    "eventDescription": {
+      "text": "in need of shelter and/or non-food items.",
+      "begin": 35,
+      "end": 76
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "63%",
+      "begin": 173,
+      "end": 176
+    },
+    "unit": {
+      "text": "households",
+      "begin": 109,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "not owning at least half of the basic NFI kit items",
+      "begin": 120,
+      "end": 171
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54%",
+      "begin": 225,
+      "end": 228
+    },
+    "unit": {
+      "text": "households",
+      "begin": 109,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "sharing their shelter with another family",
+      "begin": 182,
+      "end": 223
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 296,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "Needs were considerably higher",
+      "begin": 231,
+      "end": 261
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDP",
+      "begin": 303,
+      "end": 306
+    }
+  },
+  {
+    "quantity": {
+      "text": "67%",
+      "begin": 311,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "Needs were considerably higher",
+      "begin": 231,
+      "end": 261
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnee households",
+      "begin": 318,
+      "end": 337
+    }
+  },
+  {
+    "quantity": {
+      "text": "47%",
+      "begin": 362,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "Needs were considerably higher",
+      "begin": 231,
+      "end": 261
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "non-displaced",
+      "begin": 369,
+      "end": 382
+    }
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 508,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "reported not having adequate shelter",
+      "begin": 446,
+      "end": 482
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "population groups",
+      "begin": 519,
+      "end": 536
+    }
+  },
+  {
+    "quantity": {
+      "text": "55%",
+      "begin": 581,
+      "end": 584
+    },
+    "unit": {
+      "text": "households",
+      "begin": 589,
+      "end": 599
+    },
+    "eventDescription": {
+      "text": "unmet shelter/NFI need",
+      "begin": 615,
+      "end": 637
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54%",
+      "begin": 773,
+      "end": 776
+    },
+    "unit": {
+      "text": "households",
+      "begin": 664,
+      "end": 674
+    },
+    "eventDescription": {
+      "text": "sharing a shelter with another family",
+      "begin": 734,
+      "end": 771
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "61%",
+      "begin": 725,
+      "end": 728
+    },
+    "eventDescription": {
+      "text": "lacking at least half of the basic NFI kit items",
+      "begin": 675,
+      "end": 723
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "56%",
+      "begin": 888,
+      "end": 891
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 882,
+      "end": 886
+    }
+  },
+  {
+    "quantity": {
+      "text": "55%",
+      "begin": 909,
+      "end": 912
+    },
+    "unit": {
+      "text": "non-displaced",
+      "begin": 894,
+      "end": 907
+    }
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 928,
+      "end": 931
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 917,
+      "end": 926
+    }
+  }
+]

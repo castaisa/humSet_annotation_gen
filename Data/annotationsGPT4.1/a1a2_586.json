@@ -1,0 +1,64 @@
+[
+  {
+    "quantity": "19.6%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported a \u2018medium\u2019 use of food-related coping strategies"
+  },
+  {
+    "quantity": "4",
+    "unit": "rCSI score",
+    "eventType": "EventO",
+    "eventDescription": "lower bound of rCSI score for medium coping"
+  },
+  {
+    "quantity": "9",
+    "unit": "rCSI score",
+    "eventType": "EventO",
+    "eventDescription": "upper bound of rCSI score for medium coping"
+  },
+  {
+    "quantity": "16.3%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported \u2018high\u2019 use of coping strategies"
+  },
+  {
+    "quantity": "10",
+    "unit": "rCSI score",
+    "eventType": "EventO",
+    "eventDescription": "minimum rCSI score for high coping"
+  },
+  {
+    "quantity": "27",
+    "unit": "household score",
+    "eventType": "EventO",
+    "eventDescription": "maximum household rCSI score recorded"
+  },
+  {
+    "quantity": "on average two",
+    "unit": "days",
+    "eventType": "EventP",
+    "eventDescription": "used food coping strategy in the previous seven days"
+  },
+  {
+    "quantity": "seven",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "reference period for food coping strategy use"
+  },
+  {
+    "quantity": "on average more than 3",
+    "unit": "days a week",
+    "eventType": "EventP",
+    "eventDescription": "IDP and returnee households reported using food coping strategy",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "up to 4.6",
+    "unit": "days a week",
+    "eventType": "EventP",
+    "eventDescription": "returnee households in Misrata reported using food coping strategy",
+    "modifier": "up to"
+  }
+]

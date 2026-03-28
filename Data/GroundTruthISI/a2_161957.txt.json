@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "69",
+      "begin": 31,
+      "end": 33
+    },
+    "unit": {
+      "text": "confirmed Coronavirus cases",
+      "begin": 41,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "confirmed Coronavirus cases",
+      "begin": 41,
+      "end": 68
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 424,
+      "end": 428
+    },
+    "unit": {
+      "text": "doctors",
+      "begin": 429,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 456,
+      "end": 460
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 441,
+      "end": 444
+    },
+    "unit": {
+      "text": "pharmacist",
+      "begin": 445,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 456,
+      "end": 460
+    },
+    "eventType": "EventP"
+  }
+]

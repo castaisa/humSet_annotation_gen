@@ -1,0 +1,185 @@
+[
+  {
+    "quantity": {
+      "text": "80,000",
+      "begin": 175,
+      "end": 181
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 165,
+      "end": 174
+    },
+    "unit": {
+      "text": "Information, Education and Communication (IEC) materials",
+      "begin": 191,
+      "end": 247
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 326,
+      "end": 329
+    },
+    "unit": {
+      "text": "posters",
+      "begin": 330,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 398,
+      "end": 409
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "15,000",
+      "begin": 339,
+      "end": 345
+    },
+    "unit": {
+      "text": "traveler information cards",
+      "begin": 346,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 398,
+      "end": 409
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10,000",
+      "begin": 377,
+      "end": 383
+    },
+    "unit": {
+      "text": "leaflets",
+      "begin": 384,
+      "end": 392
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 398,
+      "end": 409
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "34,683",
+      "begin": 440,
+      "end": 446
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 435,
+      "end": 439
+    },
+    "unit": {
+      "text": "radio jingles",
+      "begin": 447,
+      "end": 460
+    },
+    "eventDescription": {
+      "text": "were broadcasted",
+      "begin": 461,
+      "end": 477
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 481,
+      "end": 483
+    },
+    "unit": {
+      "text": "radio stations",
+      "begin": 484,
+      "end": 498
+    }
+  },
+  {
+    "quantity": {
+      "text": "40 percent",
+      "begin": 523,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 500,
+      "end": 508
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "approximately",
+      "begin": 509,
+      "end": 522
+    },
+    "unit": {
+      "text": "population",
+      "begin": 541,
+      "end": 551
+    }
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 640,
+      "end": 643
+    },
+    "eventDescription": {
+      "text": "supported the running of a toll-free hotline",
+      "begin": 579,
+      "end": 623
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "calls per week",
+      "begin": 648,
+      "end": 662
+    }
+  },
+  {
+    "quantity": {
+      "text": "200-300",
+      "begin": 640,
+      "end": 647
+    },
+    "eventDescription": {
+      "text": "supported the running of a toll-free hotline",
+      "begin": 579,
+      "end": 623
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "calls per week",
+      "begin": 648,
+      "end": 662
+    }
+  },
+  {
+    "quantity": {
+      "text": "300",
+      "begin": 644,
+      "end": 647
+    },
+    "eventDescription": {
+      "text": "supported the running of a toll-free hotline",
+      "begin": 579,
+      "end": 623
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "calls per week",
+      "begin": 648,
+      "end": 662
+    }
+  }
+]

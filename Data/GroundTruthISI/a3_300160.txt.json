@@ -1,0 +1,200 @@
+[
+  {
+    "quantity": {
+      "text": "20.2 percent",
+      "begin": 65,
+      "end": 77
+    },
+    "unit": {
+      "text": "women (15 to 64 years old)",
+      "begin": 81,
+      "end": 107
+    },
+    "eventDescription": {
+      "text": "unemployed",
+      "begin": 113,
+      "end": 123
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "64",
+      "begin": 94,
+      "end": 96
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 97,
+      "end": 106
+    }
+  },
+  {
+    "quantity": {
+      "text": "15 to 64",
+      "begin": 88,
+      "end": 96
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 97,
+      "end": 106
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 88,
+      "end": 90
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 97,
+      "end": 106
+    }
+  },
+  {
+    "quantity": {
+      "text": "8 percent",
+      "begin": 131,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "unemployed",
+      "begin": 113,
+      "end": 123
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "men",
+      "begin": 144,
+      "end": 147
+    }
+  },
+  {
+    "quantity": {
+      "text": "9.3 percent",
+      "begin": 192,
+      "end": 203
+    },
+    "unit": {
+      "text": "unemployed women",
+      "begin": 207,
+      "end": 223
+    },
+    "eventDescription": {
+      "text": "actively looking for a job",
+      "begin": 224,
+      "end": 250
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4.1 percent",
+      "begin": 259,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "actively looking for a job",
+      "begin": 224,
+      "end": 250
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "men",
+      "begin": 274,
+      "end": 277
+    }
+  },
+  {
+    "quantity": {
+      "text": "48 percent",
+      "begin": 310,
+      "end": 320
+    },
+    "eventDescription": {
+      "text": "unemployed women",
+      "begin": 286,
+      "end": 302
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "housewives",
+      "begin": 325,
+      "end": 335
+    }
+  },
+  {
+    "quantity": {
+      "text": "20 percent",
+      "begin": 337,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "unemployed women",
+      "begin": 286,
+      "end": 302
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "students",
+      "begin": 352,
+      "end": 360
+    }
+  },
+  {
+    "quantity": {
+      "text": "11.7 percent",
+      "begin": 366,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "unemployed women",
+      "begin": 286,
+      "end": 302
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "too old to work",
+      "begin": 383,
+      "end": 398
+    }
+  },
+  {
+    "quantity": {
+      "text": "26.5 percent",
+      "begin": 534,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "unemployment rate",
+      "begin": 500,
+      "end": 517
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "women",
+      "begin": 551,
+      "end": 556
+    }
+  },
+  {
+    "quantity": {
+      "text": "9.9 percent",
+      "begin": 561,
+      "end": 572
+    },
+    "eventDescription": {
+      "text": "unemployment rate",
+      "begin": 500,
+      "end": 517
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "men",
+      "begin": 577,
+      "end": 580
+    }
+  }
+]

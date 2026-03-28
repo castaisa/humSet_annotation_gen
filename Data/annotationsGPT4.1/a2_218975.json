@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "17,772",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "served"
+  },
+  {
+    "quantity": "7",
+    "unit": "mobile health teams",
+    "eventType": "EventA",
+    "eventDescription": "provided health services"
+  },
+  {
+    "quantity": "3,142",
+    "unit": "outpatient consultations",
+    "eventType": "EventA",
+    "eventDescription": "conducted"
+  },
+  {
+    "quantity": "14,630",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "received health education sessions"
+  },
+  {
+    "quantity": "607",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "received psychosocial counselling sessions"
+  },
+  {
+    "quantity": "10,954",
+    "unit": "undocumented Afghans",
+    "eventType": "EventP",
+    "eventDescription": "screened for tuberculosis"
+  },
+  {
+    "quantity": "235",
+    "unit": "presumptive TB cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "1",
+    "unit": "person",
+    "eventType": "EventP",
+    "eventDescription": "confirmed positive for TB"
+  }
+]

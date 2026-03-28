@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "5.1",
+    "unit": "household dietary diversity score",
+    "eventType": "EventP",
+    "eventDescription": "household dietary diversity score among nonregistered Rohingya"
+  },
+  {
+    "quantity": "5.3",
+    "unit": "household dietary diversity score",
+    "eventType": "EventP",
+    "eventDescription": "household dietary diversity score among registered Rohingya"
+  },
+  {
+    "quantity": "5.4",
+    "unit": "household dietary diversity score",
+    "eventType": "EventP",
+    "eventDescription": "household dietary diversity score in the host community (previous value)"
+  },
+  {
+    "quantity": "5.1",
+    "unit": "household dietary diversity score",
+    "eventType": "EventP",
+    "eventDescription": "household dietary diversity score in the host community (current value)"
+  },
+  {
+    "quantity": "15",
+    "unit": "consumption frequency",
+    "eventType": "EventP",
+    "eventDescription": "consumption frequency"
+  }
+]

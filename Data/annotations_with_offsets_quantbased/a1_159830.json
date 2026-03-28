@@ -1,0 +1,102 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.28 million",
+      "start": 193,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "projected to be food security phase 3- 5",
+      "start": 217,
+      "end": 257
+    },
+    "unit": {
+      "text": "people",
+      "start": 206,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16",
+      "start": 289,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "in phase 3 (crisis)",
+      "start": 306,
+      "end": 325
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 292,
+      "end": 301
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 330,
+      "end": 333
+    },
+    "eventDescription": {
+      "text": "in an emergency situation (phase 4)",
+      "start": 398,
+      "end": 433
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 334,
+      "end": 343
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 5,000",
+      "start": 555,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "in phase 5 (catastrophe) in Soum",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 566,
+      "end": 572
+    },
+    "modifier": {
+      "text": "over",
+      "start": 555,
+      "end": 559
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 6,000",
+      "start": 585,
+      "end": 596
+    },
+    "eventDescription": {
+      "text": "in phase 5 (catastrophe) in Oudalan",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 566,
+      "end": 572
+    },
+    "modifier": {
+      "text": "about",
+      "start": 585,
+      "end": 590
+    }
+  }
+]

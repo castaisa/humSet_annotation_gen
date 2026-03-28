@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affected by flooding",
+      "start": 50,
+      "end": 70
+    },
+    "modifier": {
+      "text": "More than",
+      "start": 0,
+      "end": 9
+    },
+    "quantity": {
+      "text": "700,000",
+      "start": 10,
+      "end": 17
+    },
+    "unit": {
+      "text": "people",
+      "start": 18,
+      "end": 24
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected by flooding",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34",
+      "start": 28,
+      "end": 30
+    },
+    "unit": {
+      "text": "counties",
+      "start": 31,
+      "end": 39
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in Jonglei, Lakes, and Unity",
+      "start": 126,
+      "end": 154
+    },
+    "modifier": {
+      "text": "Nearly",
+      "start": 72,
+      "end": 78
+    },
+    "quantity": {
+      "text": "90 percent",
+      "start": 79,
+      "end": 89
+    },
+    "unit": {
+      "text": "of the flood-affected population",
+      "start": 90,
+      "end": 122
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 217,
+      "end": 222
+    },
+    "unit": {
+      "text": "years of custody",
+      "begin": 223,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 1058,
+      "end": 1063
+    },
+    "eventDescription": {
+      "text": "new timeframe gives the person",
+      "begin": 1022,
+      "end": 1052
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "days to challenge the administrative decision",
+      "begin": 1064,
+      "end": 1109
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 1152,
+      "end": 1157
+    },
+    "modifier": {
+      "text": "more",
+      "begin": 1158,
+      "end": 1162
+    },
+    "unit": {
+      "text": "days",
+      "begin": 1163,
+      "end": 1167
+    },
+    "eventDescription": {
+      "text": "dispute the rejection in court",
+      "begin": 1171,
+      "end": 1201
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "fifteen",
+      "begin": 1259,
+      "end": 1266
+    },
+    "eventDescription": {
+      "text": "reduction of the timeframe",
+      "begin": 1207,
+      "end": 1233
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "days",
+      "begin": 1267,
+      "end": 1271
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 1550,
+      "end": 1555
+    },
+    "eventDescription": {
+      "text": "person has to ask for a public defense lawyer and must prove the lack of economic means",
+      "begin": 1438,
+      "end": 1525
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "within",
+      "begin": 1539,
+      "end": 1545
+    },
+    "unit": {
+      "text": "day timeframe",
+      "begin": 1556,
+      "end": 1569
+    }
+  }
+]

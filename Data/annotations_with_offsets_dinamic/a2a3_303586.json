@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported recruitment requirement was a university degree",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60%",
+      "start": 138,
+      "end": 141
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 104,
+      "end": 112
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported recruitment requirement was a university degree",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.05%",
+      "start": 156,
+      "end": 161
+    },
+    "unit": {
+      "text": "Rohingya teachers",
+      "start": 165,
+      "end": 182
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were female",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "52%",
+      "start": 615,
+      "end": 618
+    },
+    "unit": {
+      "text": "respondents to the teacher survey",
+      "start": 622,
+      "end": 655
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were men",
+      "start": 804,
+      "end": 812
+    },
+    "quantity": {
+      "text": "80%",
+      "start": 767,
+      "end": 770
+    },
+    "unit": {
+      "text": "interviewed Rohingya teachers",
+      "start": 774,
+      "end": 803
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were women",
+      "start": 857,
+      "end": 867
+    },
+    "quantity": {
+      "text": "76%",
+      "start": 817,
+      "end": 820
+    },
+    "unit": {
+      "text": "interviewed Bangladeshi teachers",
+      "start": 824,
+      "end": 856
+    }
+  }
+]

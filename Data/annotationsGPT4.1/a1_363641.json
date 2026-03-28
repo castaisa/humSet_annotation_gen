@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "13,273",
+    "unit": "outpatient curative consultations",
+    "eventType": "EventA",
+    "eventDescription": "provided"
+  },
+  {
+    "quantity": "3,807",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "Acute Respiratory Infection (ARI) cases"
+  },
+  {
+    "quantity": "99",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "malaria cases"
+  },
+  {
+    "quantity": "969",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "peptic ulcer treated"
+  },
+  {
+    "quantity": "519",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "hypertension cases"
+  },
+  {
+    "quantity": "245",
+    "unit": "health facility deliveries",
+    "eventType": "EventP",
+    "eventDescription": "deliveries by skilled birth attendants"
+  },
+  {
+    "quantity": "120",
+    "unit": "new clients",
+    "eventType": "EventP",
+    "eventDescription": "provided family planning services"
+  }
+]

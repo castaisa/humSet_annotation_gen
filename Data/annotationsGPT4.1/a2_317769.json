@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "nine",
+    "unit": "humanitarians",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "five",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "one",
+    "unit": "NGO security guard",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "four",
+    "unit": "instances",
+    "eventType": "EventO",
+    "eventDescription": "targeted killings"
+  },
+  {
+    "quantity": "one",
+    "unit": "armed IO escort",
+    "eventType": "EventP",
+    "eventDescription": "targeted"
+  },
+  {
+    "quantity": "two",
+    "unit": "DPS vehicles",
+    "eventType": "EventO",
+    "eventDescription": "escorted"
+  },
+  {
+    "quantity": "one",
+    "unit": "escort vehicle",
+    "eventType": "EventO",
+    "eventDescription": "lost control"
+  },
+  {
+    "quantity": "five",
+    "unit": "escort personnel",
+    "eventType": "EventP",
+    "eventDescription": "shot"
+  }
+]

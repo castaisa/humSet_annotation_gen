@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "47%",
+      "start": 36,
+      "end": 39
+    },
+    "eventDescription": {
+      "text": "mentioned understanding better what COVID 19 is as way to help them implement preventive measures",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "discussants",
+      "start": 53,
+      "end": 64
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "28%",
+      "start": 238,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "said improving access to water and sanitation would help them in implementing preventive measures",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "discussants",
+      "start": 53,
+      "end": 64
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19%",
+      "start": 355,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "indicates that reminders and messages (tips) could help in implementing preventive measures",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "discussants",
+      "start": 53,
+      "end": 64
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5%",
+      "start": 454,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "said support from family and community could help them implement preventive measures",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "discussants",
+      "start": 53,
+      "end": 64
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1%",
+      "start": 566,
+      "end": 568
+    },
+    "eventDescription": {
+      "text": "mentioned others which includes reminders during religious services",
+      "start": 569,
+      "end": 636
+    },
+    "unit": {
+      "text": "discussants",
+      "start": 53,
+      "end": 64
+    }
+  }
+]

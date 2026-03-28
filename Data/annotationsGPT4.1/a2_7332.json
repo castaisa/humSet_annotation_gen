@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "72%",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "stated that the long time consumed for fetching water results in reducing time usually spent on other daily tasks"
+  },
+  {
+    "quantity": "35.42%",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "have issues related to taste, look and smell of the main water source"
+  },
+  {
+    "quantity": "71%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "indicated that water has bad look"
+  },
+  {
+    "quantity": "40%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "indicated that water has bad taste"
+  },
+  {
+    "quantity": "15%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "complained of water's bad smell"
+  },
+  {
+    "quantity": "71%",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "do not treat drinking water"
+  },
+  {
+    "quantity": "48%",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "indicated that the water they collect is clean and does not need to be treated"
+  },
+  {
+    "quantity": "35%",
+    "unit": "HHs",
+    "eventType": "EventA",
+    "eventDescription": "don\u2019t have materials for water purification/treatment"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "4,638",
+      "begin": 58,
+      "end": 63
+    },
+    "eventDescription": {
+      "text": "Survey in NW, SW, Littoral and West region, conducted",
+      "begin": 1,
+      "end": 54
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    }
+  },
+  {
+    "quantity": {
+      "text": "46%",
+      "begin": 486,
+      "end": 489
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 493,
+      "end": 504
+    },
+    "eventDescription": {
+      "text": "report they are reducing the number or amount of meals",
+      "begin": 505,
+      "end": 559
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 575,
+      "end": 578
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 493,
+      "end": 504
+    },
+    "eventDescription": {
+      "text": "report restricting adults’ food so that children can eat",
+      "begin": 579,
+      "end": 635
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "76%",
+      "begin": 650,
+      "end": 653
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 657,
+      "end": 668
+    },
+    "eventDescription": {
+      "text": "report borrowing or receiving food and/or borrowing or receiving cash",
+      "begin": 669,
+      "end": 738
+    },
+    "eventType": "EventO"
+  }
+]

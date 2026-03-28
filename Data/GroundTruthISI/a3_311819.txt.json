@@ -1,0 +1,272 @@
+[
+  {
+    "quantity": {
+      "text": "7.2 million",
+      "begin": 9,
+      "end": 20
+    },
+    "unit": {
+      "text": "people",
+      "begin": 21,
+      "end": 27
+    },
+    "eventDescription": {
+      "text": "estimated to be in need of urgent humanitarian assistance",
+      "begin": 33,
+      "end": 90
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 110,
+      "end": 121
+    },
+    "unit": {
+      "text": "people",
+      "begin": 21,
+      "end": 27
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 122,
+      "end": 130
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 184,
+      "end": 186
+    },
+    "unit": {
+      "text": "states",
+      "begin": 187,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "with acute food insecurity",
+      "begin": 204,
+      "end": 230
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10 out of the 18",
+      "begin": 170,
+      "end": 186
+    },
+    "unit": {
+      "text": "states",
+      "begin": 187,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "with acute food insecurity",
+      "begin": 204,
+      "end": 230
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 170,
+      "end": 172
+    },
+    "unit": {
+      "text": "states",
+      "begin": 187,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "with acute food insecurity",
+      "begin": 204,
+      "end": 230
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "38 per cent",
+      "begin": 251,
+      "end": 262
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 291,
+      "end": 304
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "34 per cent",
+      "begin": 318,
+      "end": 329
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 330,
+      "end": 343
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "32 per cent",
+      "begin": 360,
+      "end": 371
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 372,
+      "end": 385
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "30 per cent",
+      "begin": 404,
+      "end": 415
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 416,
+      "end": 429
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "30 per cent",
+      "begin": 445,
+      "end": 456
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 457,
+      "end": 470
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "28 per cent",
+      "begin": 482,
+      "end": 493
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 494,
+      "end": 507
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "25 per cent",
+      "begin": 519,
+      "end": 530
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 531,
+      "end": 544
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21 per cent",
+      "begin": 561,
+      "end": 572
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 573,
+      "end": 586
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21 per cent",
+      "begin": 605,
+      "end": 616
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 617,
+      "end": 630
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 649,
+      "end": 660
+    },
+    "unit": {
+      "text": "state population",
+      "begin": 270,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 661,
+      "end": 674
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "10%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "required gynecology services"
+  },
+  {
+    "quantity": "58%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "could not access gynecology services"
+  },
+  {
+    "quantity": "7%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "expressed needs related to contraceptive services"
+  },
+  {
+    "quantity": "35%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "could not access contraceptive services"
+  },
+  {
+    "quantity": "6%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "required attention for pregnant women"
+  },
+  {
+    "quantity": "31%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "did not access attention for pregnant women"
+  },
+  {
+    "quantity": "4%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "expressed needs in condoms or other actions in prevention and treatment of sexually transmitted infections (STI) and/or HIV"
+  },
+  {
+    "quantity": "25%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "could not access prevention and treatment of STI and/or HIV services"
+  }
+]

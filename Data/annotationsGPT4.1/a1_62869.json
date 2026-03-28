@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "10,422",
+    "unit": "homicides",
+    "eventType": "EventO",
+    "eventDescription": "homicides reported"
+  },
+  {
+    "quantity": "7,523",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "having died from police and military violence"
+  },
+  {
+    "quantity": "16,026",
+    "unit": "homicide numbers",
+    "eventType": "EventO",
+    "eventDescription": "homicides reported"
+  },
+  {
+    "quantity": "5,535",
+    "unit": "casualties",
+    "eventType": "EventP",
+    "eventDescription": "victims of police and military brutality"
+  }
+]

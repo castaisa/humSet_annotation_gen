@@ -1,0 +1,163 @@
+[
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 249,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "around",
+      "begin": 242,
+      "end": 248
+    },
+    "unit": {
+      "text": "SSP",
+      "begin": 253,
+      "end": 256
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 286,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP",
+      "begin": 289,
+      "end": 292
+    }
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 323,
+      "end": 326
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP",
+      "begin": 327,
+      "end": 330
+    }
+  },
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 362,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP",
+      "begin": 366,
+      "end": 369
+    }
+  },
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 436,
+      "end": 439
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP",
+      "begin": 440,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 481,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP",
+      "begin": 483,
+      "end": 486
+    }
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 510,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP",
+      "begin": 513,
+      "end": 516
+    }
+  },
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 559,
+      "end": 562
+    },
+    "eventDescription": {
+      "text": "few items which are in the market have their prices doubled which cannot be afforded by the affected population",
+      "begin": 106,
+      "end": 217
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP",
+      "begin": 562,
+      "end": 565
+    }
+  },
+  {
+    "quantity": {
+      "text": "125",
+      "begin": 546,
+      "end": 549
+    },
+    "unit": {
+      "text": "ml",
+      "begin": 549,
+      "end": 551
+    }
+  }
+]

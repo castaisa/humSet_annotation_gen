@@ -1,0 +1,232 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in retail price of Egyptian white rice",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30 percent",
+      "start": 96,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "retail price of Egyptian white rice",
+      "start": 47,
+      "end": 82
+    },
+    "quantity": {
+      "text": "2,757/kg",
+      "start": 120,
+      "end": 128
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 116,
+      "end": 119
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price of Egyptian white rice",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "213 percent",
+      "start": 190,
+      "end": 201
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "highest price of Egyptian white rice in Quneitra",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,279/kg",
+      "start": 252,
+      "end": 260
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 248,
+      "end": 251
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price of Egyptian white rice in Quneitra",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "33 percent",
+      "start": 265,
+      "end": 275
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lowest average retail price of Egyptian white rice in Deir-ez-Zor",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,406/kg",
+      "start": 351,
+      "end": 359
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 347,
+      "end": 350
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price of Egyptian white rice in Deir-ez-Zor",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32 percent",
+      "start": 364,
+      "end": 374
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "highest price of Egyptian white rice in coastal region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,025/kg",
+      "start": 501,
+      "end": 509
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 497,
+      "end": 500
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price of Egyptian white rice in coastal region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29 percent",
+      "start": 514,
+      "end": 524
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price of Egyptian white rice in southern region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,007/kg",
+      "start": 572,
+      "end": 580
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 568,
+      "end": 571
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price of Egyptian white rice in southern region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29 percent",
+      "start": 585,
+      "end": 595
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lowest price of Egyptian white rice in northeast Syria",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,538/kg",
+      "start": 672,
+      "end": 680
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 668,
+      "end": 671
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price of Egyptian white rice in northeast Syria",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23 percent",
+      "start": 685,
+      "end": 695
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price of Egyptian white rice in middle region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,610/kg",
+      "start": 741,
+      "end": 749
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 737,
+      "end": 740
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price of Egyptian white rice in middle region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36 percent",
+      "start": 754,
+      "end": 764
+    }
+  }
+]

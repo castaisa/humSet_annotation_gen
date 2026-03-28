@@ -1,0 +1,135 @@
+[
+  {
+    "quantity": "thirty-five",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed cases reported"
+  },
+  {
+    "quantity": "12",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed cases in Edo"
+  },
+  {
+    "quantity": "12",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed cases in Ondo"
+  },
+  {
+    "quantity": "3",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed cases in Bauchi"
+  },
+  {
+    "quantity": "1",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed case in FCT"
+  },
+  {
+    "quantity": "5",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed cases in Ebonyi"
+  },
+  {
+    "quantity": "1",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed case in Plateau"
+  },
+  {
+    "quantity": "1",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new confirmed case in Taraba"
+  },
+  {
+    "quantity": "eight",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "new deaths"
+  },
+  {
+    "quantity": "3",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "new deaths in Ondo"
+  },
+  {
+    "quantity": "1",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "new death in Edo"
+  },
+  {
+    "quantity": "1",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "new death in Ebonyi"
+  },
+  {
+    "quantity": "1",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "new death in FCT"
+  },
+  {
+    "quantity": "1",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "new death in Plateau"
+  },
+  {
+    "quantity": "1",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "new death in Taraba"
+  },
+  {
+    "quantity": "172",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases reported"
+  },
+  {
+    "quantity": "60",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed positive cases"
+  },
+  {
+    "quantity": "112",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "negative cases (not a case)"
+  },
+  {
+    "quantity": "16",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths among confirmed cases"
+  },
+  {
+    "quantity": "26.7%",
+    "unit": "Case Fatality Rate",
+    "eventType": "EventP",
+    "eventDescription": "case fatality rate in confirmed cases"
+  },
+  {
+    "quantity": "eight",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "states with at least one confirmed case",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "17",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "LGAs with confirmed cases"
+  }
+]

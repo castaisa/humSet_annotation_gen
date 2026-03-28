@@ -1,0 +1,258 @@
+[
+  {
+    "quantity": {
+      "text": "13.8 per cent",
+      "begin": 82,
+      "end": 95
+    },
+    "unit": {
+      "text": "prevalence of global acute malnutrition (GAM)",
+      "begin": 20,
+      "end": 65
+    },
+    "eventDescription": {
+      "text": "prevalence of global acute malnutrition (GAM)",
+      "begin": 20,
+      "end": 65
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14 per cent",
+      "begin": 117,
+      "end": 128
+    },
+    "unit": {
+      "text": "prevalence of global acute malnutrition (GAM)",
+      "begin": 20,
+      "end": 65
+    },
+    "eventDescription": {
+      "text": "prevalence of global acute malnutrition (GAM)",
+      "begin": 20,
+      "end": 65
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "17.4 per cent",
+      "begin": 140,
+      "end": 153
+    },
+    "unit": {
+      "text": "prevalence of global acute malnutrition (GAM)",
+      "begin": 20,
+      "end": 65
+    }
+  },
+  {
+    "quantity": {
+      "text": "15 per cent",
+      "begin": 243,
+      "end": 254
+    },
+    "unit": {
+      "text": "GAM",
+      "begin": 221,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 221,
+      "end": 224
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "above",
+      "begin": 233,
+      "end": 238
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 278,
+      "end": 280
+    },
+    "unit": {
+      "text": "areas affected by below-average rainfall",
+      "begin": 295,
+      "end": 335
+    }
+  },
+  {
+    "quantity": {
+      "text": "10 out of the 33",
+      "begin": 278,
+      "end": 294
+    },
+    "unit": {
+      "text": "areas affected by below-average rainfall",
+      "begin": 295,
+      "end": 335
+    }
+  },
+  {
+    "quantity": {
+      "text": "33",
+      "begin": 292,
+      "end": 294
+    },
+    "unit": {
+      "text": "areas affected by below-average rainfall",
+      "begin": 295,
+      "end": 335
+    }
+  },
+  {
+    "quantity": {
+      "text": "51.7 per cent",
+      "begin": 395,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "malnourished children cases",
+      "begin": 366,
+      "end": 393
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "malnourished children cases",
+      "begin": 366,
+      "end": 393
+    }
+  },
+  {
+    "quantity": {
+      "text": "15 per cent",
+      "begin": 536,
+      "end": 547
+    },
+    "unit": {
+      "text": "GAM",
+      "begin": 506,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "above",
+      "begin": 530,
+      "end": 535
+    }
+  },
+  {
+    "quantity": {
+      "text": "20.2 per cent",
+      "begin": 602,
+      "end": 615
+    },
+    "unit": {
+      "text": "GAM",
+      "begin": 506,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "18.6 per cent",
+      "begin": 626,
+      "end": 639
+    },
+    "unit": {
+      "text": "GAM",
+      "begin": 506,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 551,
+      "end": 556
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "areas hosting IDPs",
+      "begin": 571,
+      "end": 589
+    }
+  },
+  {
+    "quantity": {
+      "text": "three out of the 13",
+      "begin": 551,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "out of the",
+      "begin": 557,
+      "end": 567
+    },
+    "unit": {
+      "text": "areas hosting IDPs",
+      "begin": 571,
+      "end": 589
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 568,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "areas hosting IDPs",
+      "begin": 571,
+      "end": 589
+    }
+  },
+  {
+    "quantity": {
+      "text": "16.0 per cent",
+      "begin": 656,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP"
+  }
+]

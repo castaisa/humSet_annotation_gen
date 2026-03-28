@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "11,322",
+      "begin": 19,
+      "end": 25
+    },
+    "eventDescription": {
+      "text": "witnessed",
+      "begin": 9,
+      "end": 18
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "movements",
+      "begin": 26,
+      "end": 35
+    }
+  },
+  {
+    "quantity": {
+      "text": "8,653",
+      "begin": 84,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "witnessed",
+      "begin": 9,
+      "end": 18
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "arrivals",
+      "begin": 95,
+      "end": 103
+    }
+  },
+  {
+    "quantity": {
+      "text": "2, 669",
+      "begin": 108,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "witnessed",
+      "begin": 9,
+      "end": 18
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "departures",
+      "begin": 115,
+      "end": 125
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 47,
+      "end": 52
+    },
+    "eventDescription": {
+      "text": "movements",
+      "begin": 26,
+      "end": 35
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "northeast states",
+      "begin": 53,
+      "end": 69
+    }
+  }
+]

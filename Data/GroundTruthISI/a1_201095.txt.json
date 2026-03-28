@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "15,755",
+      "begin": 19,
+      "end": 25
+    },
+    "unit": {
+      "text": "children",
+      "begin": 26,
+      "end": 34
+    },
+    "eventDescription": {
+      "text": "treated with severe acute malnutrition (SAM)",
+      "begin": 40,
+      "end": 84
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "21,340",
+      "begin": 469,
+      "end": 475
+    },
+    "unit": {
+      "text": "number of pregnant and lactating women",
+      "begin": 350,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "reached with preventative services",
+      "begin": 389,
+      "end": 423
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "13.4 per cent",
+      "begin": 678,
+      "end": 691
+    },
+    "unit": {
+      "text": "primary caregivers of children under two years",
+      "begin": 495,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "receiving appropriate counselling on infant and young child feeding reached",
+      "begin": 542,
+      "end": 617
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "93,561",
+      "begin": 636,
+      "end": 642
+    },
+    "unit": {
+      "text": "primary caregivers of children under two years",
+      "begin": 495,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "receiving appropriate counselling on infant and young child feeding reached",
+      "begin": 542,
+      "end": 617
+    },
+    "eventType": "EventO"
+  }
+]

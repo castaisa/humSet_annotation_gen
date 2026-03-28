@@ -1,0 +1,25 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 205,
+      "end": 210
+    },
+    "modifier": {
+      "text": "minimum",
+      "begin": 197,
+      "end": 204
+    },
+    "unit": {
+      "text": "month provision of antiretroviral therapy and viral load services",
+      "begin": 211,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 282,
+      "end": 290
+    },
+    "eventType": "EventO"
+  }
+]

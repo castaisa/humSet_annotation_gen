@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "151",
+    "unit": "vessels",
+    "eventType": "EventO",
+    "eventDescription": "discharged cargo"
+  },
+  {
+    "quantity": "70",
+    "unit": "vessels",
+    "eventType": "EventO",
+    "eventDescription": "transporting food items"
+  },
+  {
+    "quantity": "81",
+    "unit": "vessels",
+    "eventType": "EventO",
+    "eventDescription": "transporting fuel"
+  },
+  {
+    "quantity": "17",
+    "unit": "commercial vessels",
+    "eventType": "EventO",
+    "eventDescription": "discharged supplies"
+  },
+  {
+    "quantity": "19 per cent",
+    "unit": "decrease",
+    "eventType": "EventO",
+    "eventDescription": "decrease in number of vessels berthed"
+  },
+  {
+    "quantity": "18 per cent",
+    "unit": "decline",
+    "eventType": "EventA",
+    "eventDescription": "decline in food imports"
+  },
+  {
+    "quantity": "20 per cent",
+    "unit": "decline",
+    "eventType": "EventA",
+    "eventDescription": "decline in fuel imports"
+  },
+  {
+    "quantity": "one",
+    "unit": "containerized cargo vessel",
+    "eventType": "EventO",
+    "eventDescription": "arrived at Al Hudaydah"
+  },
+  {
+    "quantity": "43 per cent",
+    "unit": "decrease",
+    "eventType": "EventO",
+    "eventDescription": "decrease in vessels berthing at Al Hudaydah and Saleef ports",
+    "modifier": "on average"
+  }
+]

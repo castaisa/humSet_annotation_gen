@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "start": 28,
+      "end": 47
+    },
+    "quantity": {
+      "text": "1,756",
+      "start": 5,
+      "end": 10
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 11,
+      "end": 22
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,463",
+      "start": 56,
+      "end": 61
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 112,
+      "end": 123
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,054",
+      "start": 75,
+      "end": 80
+    },
+    "unit": {
+      "text": "individuals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "disembarked",
+      "start": 129,
+      "end": 140
+    },
+    "quantity": {
+      "text": "310",
+      "start": 108,
+      "end": 111
+    },
+    "unit": {
+      "text": "individuals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "distance east of Tripoli",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "120",
+      "start": 159,
+      "end": 162
+    },
+    "unit": {
+      "text": "km",
+      "start": 163,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "included in group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "238",
+      "start": 230,
+      "end": 233
+    },
+    "unit": {
+      "text": "men",
+      "start": 234,
+      "end": 237
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "included in group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41",
+      "start": 239,
+      "end": 241
+    },
+    "unit": {
+      "text": "women",
+      "start": 242,
+      "end": 247
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "included in group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "31",
+      "start": 252,
+      "end": 254
+    },
+    "unit": {
+      "text": "children",
+      "start": 255,
+      "end": 263
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "60%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported humanitarian behaviours as 'okay'"
+  },
+  {
+    "quantity": "20%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported humanitarian behaviour as worsening over three months"
+  },
+  {
+    "quantity": "9%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported seeing humanitarian responders behaving badly, abusing, or harassing a woman or girl within the past three months"
+  },
+  {
+    "quantity": "45%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "had made a complaint about services in the last three months"
+  },
+  {
+    "quantity": "56%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "stated that their problem was not resolved"
+  },
+  {
+    "quantity": "30%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "stated that they are still waiting for a response"
+  }
+]

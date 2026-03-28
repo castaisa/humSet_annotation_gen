@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "1,601",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "submitted for resettlement"
+  },
+  {
+    "quantity": "11",
+    "unit": "resettlement States",
+    "eventType": "EventO",
+    "eventDescription": "resettlement States involved"
+  },
+  {
+    "quantity": "974",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "departed on resettlement"
+  },
+  {
+    "quantity": "285",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "accepted for resettlement and pending departure"
+  },
+  {
+    "quantity": "222",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "submitted for resettlement and pending interview or decision"
+  }
+]

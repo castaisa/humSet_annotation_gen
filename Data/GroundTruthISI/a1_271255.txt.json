@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 269,
+      "end": 272
+    },
+    "unit": {
+      "text": "Median regional prices",
+      "begin": 170,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 253,
+      "end": 257
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 261,
+      "end": 264
+    },
+    "unit": {
+      "text": "Median regional prices",
+      "begin": 170,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 253,
+      "end": 257
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 595,
+      "end": 598
+    },
+    "unit": {
+      "text": "median price",
+      "begin": 544,
+      "end": 556
+    },
+    "eventDescription": {
+      "text": "liquid petroleum gas increasing",
+      "begin": 560,
+      "end": 591
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 643,
+      "end": 645
+    },
+    "unit": {
+      "text": "median price",
+      "begin": 544,
+      "end": 556
+    },
+    "eventDescription": {
+      "text": "manually refined kerosene increasing",
+      "begin": 603,
+      "end": 639
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54%",
+      "begin": 764,
+      "end": 767
+    },
+    "eventDescription": {
+      "text": "reported as unavailable",
+      "begin": 737,
+      "end": 760
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "surveyed fuel vendors",
+      "begin": 771,
+      "end": 792
+    }
+  }
+]

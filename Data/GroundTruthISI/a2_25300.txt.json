@@ -1,0 +1,77 @@
+[
+  {
+    "quantity": {
+      "text": "88%",
+      "begin": 72,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "education",
+      "begin": 61,
+      "end": 70
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "87%",
+      "begin": 86,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "health",
+      "begin": 78,
+      "end": 84
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "62%",
+      "begin": 101,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "WASH",
+      "begin": 95,
+      "end": 99
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "76%",
+      "begin": 189,
+      "end": 192
+    },
+    "unit": {
+      "text": "households",
+      "begin": 196,
+      "end": 206
+    },
+    "eventDescription": {
+      "text": "needing simultaneous support",
+      "begin": 243,
+      "end": 271
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Sixty percent",
+      "begin": 294,
+      "end": 307
+    },
+    "unit": {
+      "text": "households",
+      "begin": 311,
+      "end": 321
+    },
+    "eventDescription": {
+      "text": "dual needs in food security and education",
+      "begin": 337,
+      "end": 378
+    },
+    "eventType": "EventO"
+  }
+]

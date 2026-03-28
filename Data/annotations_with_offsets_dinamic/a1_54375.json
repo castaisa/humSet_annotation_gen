@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received health cards",
+      "start": 374,
+      "end": 395
+    },
+    "quantity": {
+      "text": "3,721",
+      "start": 361,
+      "end": 366
+    },
+    "unit": {
+      "text": "people",
+      "start": 119,
+      "end": 125
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received health cards",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,866",
+      "start": 459,
+      "end": 464
+    },
+    "unit": {
+      "text": "girls",
+      "start": 465,
+      "end": 470
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received health cards",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,769",
+      "start": 472,
+      "end": 477
+    },
+    "unit": {
+      "text": "boys",
+      "start": 478,
+      "end": 482
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received health cards",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "86",
+      "start": 487,
+      "end": 489
+    },
+    "unit": {
+      "text": "pregnant women",
+      "start": 490,
+      "end": 504
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "donated",
+      "start": 548,
+      "end": 555
+    },
+    "quantity": {
+      "text": "40,000",
+      "start": 541,
+      "end": 547
+    },
+    "unit": {
+      "text": "health cards",
+      "start": 755,
+      "end": 767
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distributed",
+      "start": 778,
+      "end": 789
+    },
+    "quantity": {
+      "text": "2,256",
+      "start": 911,
+      "end": 916
+    },
+    "unit": {
+      "text": "baby kits",
+      "start": 917,
+      "end": 926
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received baby kits",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,110",
+      "start": 979,
+      "end": 984
+    },
+    "unit": {
+      "text": "girls",
+      "start": 985,
+      "end": 990
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received baby kits",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,146",
+      "start": 995,
+      "end": 1000
+    },
+    "unit": {
+      "text": "boys",
+      "start": 1001,
+      "end": 1005
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "1,260",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "visited"
+  },
+  {
+    "quantity": "7,411",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "1,710",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "2,461",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "1, 411",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "1,829",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "10",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "10",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "10",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "5",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "5",
+    "unit": "TV jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  }
+]

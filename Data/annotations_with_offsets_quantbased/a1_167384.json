@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 100",
+      "start": 90,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "unaccompanied children",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "unaccompanied/ children",
+      "start": 99,
+      "end": 122
+    },
+    "modifier": {
+      "text": "over",
+      "start": 90,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70 per cent",
+      "start": 180,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "female and aged between 15 and 17",
+      "start": 204,
+      "end": 237
+    },
+    "unit": {
+      "text": "of them",
+      "start": 192,
+      "end": 199
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 170,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four",
+      "start": 451,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "reported cases of potential trafficking of migrant children",
+      "start": 456,
+      "end": 515
+    },
+    "unit": {
+      "text": "cases",
+      "start": 465,
+      "end": 470
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10",
+      "start": 520,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "cases of potential sexual exploitation",
+      "start": 529,
+      "end": 567
+    },
+    "unit": {
+      "text": "other cases",
+      "start": 523,
+      "end": 534
+    }
+  }
+]

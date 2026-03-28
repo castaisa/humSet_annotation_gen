@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "6,019",
+      "begin": 11,
+      "end": 16
+    },
+    "unit": {
+      "text": "children and adolescents",
+      "begin": 17,
+      "end": 41
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 115,
+      "end": 127
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,432",
+      "begin": 43,
+      "end": 48
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 49,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 115,
+      "end": 127
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,727",
+      "begin": 55,
+      "end": 60
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 61,
+      "end": 66
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 115,
+      "end": 127
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "860",
+      "begin": 72,
+      "end": 75
+    },
+    "unit": {
+      "text": "community members",
+      "begin": 76,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 115,
+      "end": 127
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "464",
+      "begin": 95,
+      "end": 98
+    },
+    "unit": {
+      "text": "women",
+      "begin": 99,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 115,
+      "end": 127
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "396",
+      "begin": 106,
+      "end": 109
+    },
+    "unit": {
+      "text": "men",
+      "begin": 110,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "were reached",
+      "begin": 115,
+      "end": 127
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 501,
+      "end": 503
+    },
+    "unit": {
+      "text": "victims of violence",
+      "begin": 504,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "were reached with support services",
+      "begin": 550,
+      "end": 584
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 525,
+      "end": 526
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 527,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "were reached with support services",
+      "begin": 550,
+      "end": 584
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 534,
+      "end": 535
+    },
+    "unit": {
+      "text": "boy",
+      "begin": 536,
+      "end": 539
+    },
+    "eventDescription": {
+      "text": "were reached with support services",
+      "begin": 550,
+      "end": 584
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 541,
+      "end": 542
+    },
+    "unit": {
+      "text": "women",
+      "begin": 543,
+      "end": 548
+    },
+    "eventDescription": {
+      "text": "were reached with support services",
+      "begin": 550,
+      "end": 584
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 60%",
+      "start": 83,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "reduced",
+      "start": 72,
+      "end": 79
+    },
+    "unit": {
+      "text": "food production",
+      "start": 52,
+      "end": 67
+    },
+    "modifier": {
+      "text": "over",
+      "start": 83,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 70%",
+      "start": 116,
+      "end": 124
+    },
+    "eventDescription": {
+      "text": "dropped",
+      "start": 105,
+      "end": 112
+    },
+    "unit": {
+      "text": "imports",
+      "start": 97,
+      "end": 104
+    },
+    "modifier": {
+      "text": "over",
+      "start": 116,
+      "end": 120
+    }
+  }
+]

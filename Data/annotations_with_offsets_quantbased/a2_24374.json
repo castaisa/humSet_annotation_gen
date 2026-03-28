@@ -1,0 +1,578 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21",
+      "start": 61,
+      "end": 63
+    },
+    "eventDescription": {
+      "text": "suspected cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "suspected Cerebrospinal Meningitis (CSM) cases",
+      "start": 64,
+      "end": 110
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 116,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "laboratory confirmed case",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "laboratory confirmed",
+      "start": 120,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 145,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "death",
+      "start": 149,
+      "end": 154
+    },
+    "unit": {
+      "text": "death",
+      "start": 149,
+      "end": 154
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4.8%",
+      "start": 161,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "CFR",
+      "start": 156,
+      "end": 159
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "14",
+      "start": 186,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "LGAs reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 189,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "nine",
+      "start": 197,
+      "end": 201
+    },
+    "eventDescription": {
+      "text": "States reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "States",
+      "start": 202,
+      "end": 208
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 218,
+      "end": 219
+    },
+    "eventDescription": {
+      "text": "cases in Ebonyi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Ebonyi",
+      "start": 209,
+      "end": 215
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 229,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "cases in Gombe",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Gombe",
+      "start": 221,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 241,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "cases in Kaduna",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Kaduna",
+      "start": 232,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4",
+      "start": 254,
+      "end": 255
+    },
+    "eventDescription": {
+      "text": "cases in Katsina",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Katsina",
+      "start": 244,
+      "end": 251
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6",
+      "start": 265,
+      "end": 266
+    },
+    "eventDescription": {
+      "text": "cases in Kebbi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Kebbi",
+      "start": 257,
+      "end": 262
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 275,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "cases in Ondo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Ondo",
+      "start": 268,
+      "end": 272
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 287,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "cases in Sokoto",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Sokoto",
+      "start": 278,
+      "end": 284
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 299,
+      "end": 300
+    },
+    "eventDescription": {
+      "text": "cases in Taraba",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Taraba",
+      "start": 290,
+      "end": 296
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 313,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "cases in Zamfara",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Zamfara",
+      "start": 303,
+      "end": 310
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "87",
+      "start": 330,
+      "end": 332
+    },
+    "eventDescription": {
+      "text": "suspected cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": 333,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 353,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 359,
+      "end": 365
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 359,
+      "end": 365
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3.4%",
+      "start": 372,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "CFR",
+      "start": 367,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "41",
+      "start": 394,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "LGAs reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 397,
+      "end": 401
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16",
+      "start": 403,
+      "end": 405
+    },
+    "eventDescription": {
+      "text": "States reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "States",
+      "start": 406,
+      "end": 412
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "173",
+      "start": 486,
+      "end": 489
+    },
+    "eventDescription": {
+      "text": "suspected cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "suspected meningitis cases",
+      "start": 490,
+      "end": 516
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "nine",
+      "start": 522,
+      "end": 526
+    },
+    "eventDescription": {
+      "text": "laboratory confirmed cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "laboratory confirmed",
+      "start": 527,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "eight",
+      "start": 552,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 558,
+      "end": 564
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 558,
+      "end": 564
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4.62%",
+      "start": 571,
+      "end": 576
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "CFR",
+      "start": 566,
+      "end": 569
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "75",
+      "start": 583,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "LGAs reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 586,
+      "end": 590
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20",
+      "start": 592,
+      "end": 594
+    },
+    "eventDescription": {
+      "text": "States reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "States",
+      "start": 595,
+      "end": 601
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "557",
+      "start": 631,
+      "end": 634
+    },
+    "eventDescription": {
+      "text": "suspected cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": 635,
+      "end": 650
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "71",
+      "start": 656,
+      "end": 658
+    },
+    "eventDescription": {
+      "text": "laboratory confirmed cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Laboratory confirmed",
+      "start": 659,
+      "end": 679
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "37",
+      "start": 684,
+      "end": 686
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 687,
+      "end": 693
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 687,
+      "end": 693
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6.64%",
+      "start": 700,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "CFR",
+      "start": 695,
+      "end": 698
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "122",
+      "start": 712,
+      "end": 715
+    },
+    "eventDescription": {
+      "text": "LGAs reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 716,
+      "end": 720
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24",
+      "start": 724,
+      "end": 726
+    },
+    "eventDescription": {
+      "text": "states reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "states",
+      "start": 727,
+      "end": 733
+    }
+  }
+]

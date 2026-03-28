@@ -1,0 +1,116 @@
+[
+  {
+    "quantity": {
+      "text": "thousands",
+      "begin": 16,
+      "end": 25
+    },
+    "unit": {
+      "text": "internally displaced people",
+      "begin": 29,
+      "end": 56
+    },
+    "eventDescription": {
+      "text": "fled violent clashes",
+      "begin": 61,
+      "end": 81
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "30,000",
+      "begin": 176,
+      "end": 182
+    },
+    "unit": {
+      "text": "people",
+      "begin": 183,
+      "end": 189
+    }
+  },
+  {
+    "quantity": {
+      "text": "Thousands",
+      "begin": 491,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "fled",
+      "begin": 506,
+      "end": 510
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "87 per cent",
+      "begin": 582,
+      "end": 593
+    },
+    "unit": {
+      "text": "newly displaced population",
+      "begin": 601,
+      "end": 627
+    }
+  },
+  {
+    "quantity": {
+      "text": "20,000",
+      "begin": 674,
+      "end": 680
+    },
+    "unit": {
+      "text": "new arrivals",
+      "begin": 681,
+      "end": 693
+    }
+  },
+  {
+    "quantity": {
+      "text": "30,000",
+      "begin": 784,
+      "end": 790
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 774,
+      "end": 783
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 791,
+      "end": 802
+    }
+  },
+  {
+    "quantity": {
+      "text": "10,000",
+      "begin": 839,
+      "end": 845
+    },
+    "unit": {
+      "text": "people",
+      "begin": 846,
+      "end": 852
+    }
+  },
+  {
+    "quantity": {
+      "text": "thousands",
+      "begin": 1042,
+      "end": 1051
+    },
+    "unit": {
+      "text": "people",
+      "begin": 1055,
+      "end": 1061
+    },
+    "eventDescription": {
+      "text": "sleeping outside in the open and living in extremely overcrowded and deplorable conditions",
+      "begin": 1062,
+      "end": 1152
+    },
+    "eventType": "EventO"
+  }
+]

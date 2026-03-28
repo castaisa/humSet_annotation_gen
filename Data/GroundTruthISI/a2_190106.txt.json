@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "87.6%",
+      "begin": 72,
+      "end": 77
+    },
+    "unit": {
+      "text": "students",
+      "begin": 82,
+      "end": 90
+    },
+    "eventDescription": {
+      "text": "remain intellectually active",
+      "begin": 91,
+      "end": 119
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 631,
+      "end": 634
+    },
+    "unit": {
+      "text": "students",
+      "begin": 621,
+      "end": 629
+    },
+    "eventDescription": {
+      "text": "maintaining a physical relationship with their teacher",
+      "begin": 640,
+      "end": 694
+    },
+    "eventType": "EventO"
+  }
+]

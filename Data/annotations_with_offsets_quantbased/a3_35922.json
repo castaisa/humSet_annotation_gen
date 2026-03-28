@@ -1,0 +1,272 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "930",
+      "start": 39,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 69,
+      "end": 77
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": 43,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "447",
+      "start": 81,
+      "end": 84
+    },
+    "eventDescription": {
+      "text": "reported in",
+      "start": 69,
+      "end": 80
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 93,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "57.8%",
+      "start": 86,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "percentage of LGAs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 93,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "35",
+      "start": 161,
+      "end": 163
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 121,
+      "end": 129
+    },
+    "unit": {
+      "text": "presumptive positive cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "twelve",
+      "start": 189,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 121,
+      "end": 129
+    },
+    "unit": {
+      "text": "inconclusive cases",
+      "start": 196,
+      "end": 214
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "12",
+      "start": 220,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "cases from",
+      "start": 209,
+      "end": 219
+    },
+    "unit": {
+      "text": "states",
+      "start": 223,
+      "end": 229
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "32",
+      "start": 233,
+      "end": 235
+    },
+    "eventDescription": {
+      "text": "cases from",
+      "start": 209,
+      "end": 219
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 236,
+      "end": 240
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 252,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 276,
+      "end": 284
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 255,
+      "end": 270
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7",
+      "start": 333,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "confirmed in Edo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "confirmed",
+      "start": 336,
+      "end": 345
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 350,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "inconclusive in Edo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "inconclusive",
+      "start": 352,
+      "end": 364
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 372,
+      "end": 373
+    },
+    "eventDescription": {
+      "text": "confirmed in Ondo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "confirmed",
+      "start": 336,
+      "end": 345
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 381,
+      "end": 382
+    },
+    "eventDescription": {
+      "text": "confirmed in Imo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "confirmed",
+      "start": 336,
+      "end": 345
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 394,
+      "end": 395
+    },
+    "eventDescription": {
+      "text": "confirmed in Osun",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "confirmed",
+      "start": 336,
+      "end": 345
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "One",
+      "start": 400,
+      "end": 403
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "start": 450,
+      "end": 458
+    },
+    "unit": {
+      "text": "death",
+      "start": 404,
+      "end": 409
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0.11%",
+      "start": 502,
+      "end": 507
+    },
+    "eventDescription": {
+      "text": "CFR",
+      "start": 494,
+      "end": 497
+    },
+    "unit": {
+      "text": "Case fatality rate (CFR)",
+      "start": 474,
+      "end": 498
+    }
+  }
+]

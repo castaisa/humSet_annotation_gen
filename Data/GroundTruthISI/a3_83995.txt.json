@@ -1,0 +1,37 @@
+[
+  {
+    "quantity": {
+      "text": "1.84 million",
+      "begin": 10,
+      "end": 22
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 0,
+      "end": 9
+    },
+    "unit": {
+      "text": "people",
+      "begin": 23,
+      "end": 29
+    },
+    "eventDescription": {
+      "text": "now internally displaced",
+      "begin": 34,
+      "end": 58
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,483,566",
+      "begin": 320,
+      "end": 329
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 314,
+      "end": 318
+    }
+  }
+]

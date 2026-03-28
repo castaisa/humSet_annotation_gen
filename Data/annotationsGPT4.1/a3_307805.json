@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": "0.4%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "average price increase"
+  },
+  {
+    "quantity": "12%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price higher than 14 March"
+  },
+  {
+    "quantity": "7%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Baghlan and Kunduz"
+  },
+  {
+    "quantity": "6%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Urozgan"
+  },
+  {
+    "quantity": "3%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Ghor and Ghazni"
+  },
+  {
+    "quantity": "2%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Badghis"
+  },
+  {
+    "quantity": "7%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price decrease in Kandahar"
+  },
+  {
+    "quantity": "5%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price decrease in Nuristan"
+  },
+  {
+    "quantity": "1%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price decrease in Takhar"
+  },
+  {
+    "quantity": "36",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Daykundi"
+  },
+  {
+    "quantity": "36",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Urozgan"
+  },
+  {
+    "quantity": "36",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Badakhshan"
+  },
+  {
+    "quantity": "35",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Ghazni"
+  },
+  {
+    "quantity": "23",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price in Hirat"
+  },
+  {
+    "quantity": "29",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price in Kandahar"
+  },
+  {
+    "quantity": "29",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price in Farah"
+  },
+  {
+    "quantity": "30",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price in Samangan"
+  }
+]

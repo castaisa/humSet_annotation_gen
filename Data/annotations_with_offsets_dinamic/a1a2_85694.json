@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arrived in Mabaruma",
+      "start": 669,
+      "end": 688
+    },
+    "quantity": {
+      "text": "1,000",
+      "start": 623,
+      "end": 628
+    },
+    "unit": {
+      "text": "Warao indigenous community members",
+      "start": 629,
+      "end": 663
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "not been vaccinated",
+      "start": 1470,
+      "end": 1489
+    },
+    "modifier": {
+      "text": "over",
+      "start": 1511,
+      "end": 1515
+    },
+    "quantity": {
+      "text": "4",
+      "start": 1516,
+      "end": 1517
+    },
+    "unit": {
+      "text": "months",
+      "start": 1518,
+      "end": 1524
+    }
+  }
+]

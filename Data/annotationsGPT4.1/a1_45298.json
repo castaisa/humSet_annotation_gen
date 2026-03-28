@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "67%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with high or very high needs"
+  },
+  {
+    "quantity": "52%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "with high or very high needs"
+  },
+  {
+    "quantity": "more than 23%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had high protection needs",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "94%",
+    "unit": "households reporting security incidents",
+    "eventType": "EventP",
+    "eventDescription": "reported killings/violence"
+  },
+  {
+    "quantity": "57%",
+    "unit": "households reporting security incidents",
+    "eventType": "EventP",
+    "eventDescription": "reported destruction of property"
+  },
+  {
+    "quantity": "41%",
+    "unit": "households reporting security incidents",
+    "eventType": "EventP",
+    "eventDescription": "reported armed attacks"
+  }
+]

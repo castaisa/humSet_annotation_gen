@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "4,996",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "Acute Respiratory Infection cases"
+  },
+  {
+    "quantity": "3,355",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "Acute Diarrheal Disease cases"
+  },
+  {
+    "quantity": "2,698",
+    "unit": "case",
+    "eventType": "EventO",
+    "eventDescription": "Malaria cases"
+  },
+  {
+    "quantity": "65",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "referred"
+  },
+  {
+    "quantity": "50",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "discharged"
+  },
+  {
+    "quantity": "15",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "still on admission"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Ninety-three percent",
+      "start": 72,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "have not completed secondary education",
+      "start": 170,
+      "end": 208
+    },
+    "unit": {
+      "text": "Rohingya household heads",
+      "start": 96,
+      "end": 120
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "98 percent",
+      "start": 125,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "have not completed secondary education",
+      "start": 170,
+      "end": 208
+    },
+    "unit": {
+      "text": "host community household heads",
+      "start": 139,
+      "end": 169
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "24 percent",
+      "start": 333,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "have an educational qualification above secondary level",
+      "start": 377,
+      "end": 432
+    },
+    "unit": {
+      "text": "Rohingya male household heads",
+      "start": 347,
+      "end": 376
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6 percent",
+      "start": 460,
+      "end": 469
+    },
+    "eventDescription": {
+      "text": "have an educational qualification above secondary level",
+      "start": 377,
+      "end": 432
+    },
+    "unit": {
+      "text": "host community male household heads",
+      "start": 473,
+      "end": 508
+    }
+  }
+]

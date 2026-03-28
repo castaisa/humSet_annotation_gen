@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "one and a half",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "increase in the Venezuelan presence"
+  },
+  {
+    "quantity": "15",
+    "unit": "Venezuelan women",
+    "eventType": "EventP",
+    "eventDescription": "present themselves to the health centers weekly",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "two",
+    "unit": "confirmed cases of multidrug resistant tuberculosis",
+    "eventType": "EventP",
+    "eventDescription": "known by the health facility"
+  }
+]

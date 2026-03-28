@@ -1,0 +1,53 @@
+[
+  {
+    "quantity": "two",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "interviewed households reporting poor or borderline food consumption"
+  },
+  {
+    "quantity": "43 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households reported poor or borderline food consumption"
+  },
+  {
+    "quantity": "50 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in poor or borderline food consumption",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "51 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "highest levels recorded among female-headed households"
+  },
+  {
+    "quantity": "16 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in inadequate food consumption"
+  },
+  {
+    "quantity": "half",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in inadequate food consumption compared to April 2020",
+    "modifier": "almost"
+  },
+  {
+    "quantity": "three",
+    "unit": "times a week",
+    "eventType": "EventO",
+    "eventDescription": "households consumed animal-source protein on average",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "highest national average consumption rate of protein over the past six months"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "10 percent",
+      "begin": 79,
+      "end": 89
+    },
+    "unit": {
+      "text": "livestock production",
+      "begin": 30,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "down",
+      "begin": 74,
+      "end": 78
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 121,
+      "end": 131
+    },
+    "unit": {
+      "text": "livestock production",
+      "begin": 30,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "down",
+      "begin": 74,
+      "end": 78
+    },
+    "eventType": "EventO"
+  }
+]

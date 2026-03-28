@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "29 per cent",
+      "begin": 65,
+      "end": 76
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 80,
+      "end": 85
+    },
+    "eventDescription": {
+      "text": "reportedly attending school",
+      "begin": 110,
+      "end": 137
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35 per cent",
+      "begin": 90,
+      "end": 101
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 105,
+      "end": 109
+    },
+    "eventDescription": {
+      "text": "reportedly attending school",
+      "begin": 110,
+      "end": 137
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35 per cent",
+      "begin": 515,
+      "end": 526
+    },
+    "eventDescription": {
+      "text": "qualified",
+      "begin": 571,
+      "end": 580
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "primary school teachers",
+      "begin": 543,
+      "end": 566
+    }
+  },
+  {
+    "quantity": {
+      "text": "1:74",
+      "begin": 686,
+      "end": 690
+    },
+    "eventDescription": {
+      "text": "poor",
+      "begin": 678,
+      "end": 682
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "pupil textbook ratio",
+      "begin": 635,
+      "end": 655
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": "626",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "34",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "reported from"
+  },
+  {
+    "quantity": "258",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "reported from"
+  },
+  {
+    "quantity": "13",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Adamawa"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Akwa Ibom"
+  },
+  {
+    "quantity": "47",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Anambra"
+  },
+  {
+    "quantity": "25",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Bauchi"
+  },
+  {
+    "quantity": "14",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Bayelsa"
+  },
+  {
+    "quantity": "15",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Benue"
+  },
+  {
+    "quantity": "82",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Borno"
+  },
+  {
+    "quantity": "9",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Cross River"
+  },
+  {
+    "quantity": "14",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Delta"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Ebonyi"
+  },
+  {
+    "quantity": "28",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Edo"
+  },
+  {
+    "quantity": "2",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Ekiti"
+  },
+  {
+    "quantity": "30",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Enugu"
+  },
+  {
+    "quantity": "6",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from FCT Abuja"
+  },
+  {
+    "quantity": "16",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Imo"
+  },
+  {
+    "quantity": "23",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Jigawa"
+  },
+  {
+    "quantity": "14",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Kano"
+  },
+  {
+    "quantity": "52",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Katsina"
+  },
+  {
+    "quantity": "15",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Kebbi"
+  },
+  {
+    "quantity": "7",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Kogi"
+  },
+  {
+    "quantity": "18",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Kwara"
+  },
+  {
+    "quantity": "3",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Lagos"
+  },
+  {
+    "quantity": "11",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Nasarawa"
+  },
+  {
+    "quantity": "32",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Niger"
+  },
+  {
+    "quantity": "11",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Ogun"
+  },
+  {
+    "quantity": "13",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Ondo"
+  },
+  {
+    "quantity": "14",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Osun"
+  },
+  {
+    "quantity": "19",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Oyo"
+  },
+  {
+    "quantity": "8",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Plateau"
+  },
+  {
+    "quantity": "5",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Rivers"
+  },
+  {
+    "quantity": "4",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Sokoto"
+  },
+  {
+    "quantity": "7",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Taraba"
+  },
+  {
+    "quantity": "56",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Yobe"
+  },
+  {
+    "quantity": "9",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported from Zamfara"
+  },
+  {
+    "quantity": "259",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "reported from"
+  },
+  {
+    "quantity": "34",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "reported from"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "verified for Cholera",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22",
+      "start": 44,
+      "end": 46
+    },
+    "unit": {
+      "text": "Acute Watery Diarrhea (AWD) Rapid Diagnostic Test (RDT) positive cases",
+      "start": 47,
+      "end": 117
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "qualified for JAT investigation",
+      "start": 161,
+      "end": 192
+    },
+    "quantity": {
+      "text": "17",
+      "start": 158,
+      "end": 160
+    },
+    "unit": {
+      "text": "cases",
+      "start": 260,
+      "end": 265
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "qualified for JAT investigation in the reported week",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 204,
+      "end": 207
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed by culture of Vibrio Cholerae",
+      "start": 276,
+      "end": 315
+    },
+    "quantity": {
+      "text": "three",
+      "start": 254,
+      "end": 259
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed among Ukhiya Host Community",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 353,
+      "end": 356
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed among Teknaf Host Community",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 386,
+      "end": 389
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed in the Rohingya Refugee camps",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 422,
+      "end": 425
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "result is still pending",
+      "start": 465,
+      "end": 488
+    },
+    "quantity": {
+      "text": "One (1)",
+      "start": 457,
+      "end": 464
+    },
+    "unit": {
+      "text": "result",
+      "start": 465,
+      "end": 471
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "sentinel sites for cholera surveillance are functional",
+      "start": 549,
+      "end": 603
+    },
+    "quantity": {
+      "text": "Twenty (out of 23)",
+      "start": 530,
+      "end": 548
+    },
+    "unit": {
+      "text": "sentinel sites",
+      "start": 549,
+      "end": 563
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "UHCs included in functional sentinel sites",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 614,
+      "end": 617
+    },
+    "unit": {
+      "text": "UHCs",
+      "start": 618,
+      "end": 622
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "DTC included in functional sentinel sites",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 627,
+      "end": 630
+    },
+    "unit": {
+      "text": "DTC",
+      "start": 631,
+      "end": 634
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "testing samples per month",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "around",
+      "start": 695,
+      "end": 701
+    },
+    "quantity": {
+      "text": "200",
+      "start": 702,
+      "end": 705
+    },
+    "unit": {
+      "text": "samples per month",
+      "start": 706,
+      "end": 723
+    }
+  }
+]

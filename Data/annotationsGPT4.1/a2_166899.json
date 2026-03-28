@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "130",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "40",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "came from a single cruise ship"
+  },
+  {
+    "quantity": "8",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "10",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  }
+]

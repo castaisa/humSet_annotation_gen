@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "5",
+    "unit": "solar fridges",
+    "eventType": "EventA",
+    "eventDescription": "donated"
+  },
+  {
+    "quantity": "50,000 kilograms",
+    "unit": "fodder",
+    "eventType": "EventA",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "9,300kg",
+    "unit": "concentrate",
+    "eventType": "EventA",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "240",
+    "unit": "dairy cows",
+    "eventType": "EventO",
+    "eventDescription": "owned"
+  },
+  {
+    "quantity": "10",
+    "unit": "sprayer tanks",
+    "eventType": "EventA",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "100 liters",
+    "unit": "each",
+    "eventType": "EventA",
+    "eventDescription": "capacity of sprayer tanks"
+  },
+  {
+    "quantity": "5",
+    "unit": "sprayer tanks",
+    "eventType": "EventA",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "10",
+    "unit": "sprayer tanks",
+    "eventType": "EventA",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "600 liters",
+    "unit": "capacity",
+    "eventType": "EventA",
+    "eventDescription": "capacity of sprayer tanks"
+  },
+  {
+    "quantity": "about 5,000",
+    "unit": "farmers",
+    "eventType": "EventP",
+    "eventDescription": "supported",
+    "modifier": "about"
+  }
+]

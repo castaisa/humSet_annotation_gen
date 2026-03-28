@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "69%",
+      "start": 3,
+      "end": 6
+    },
+    "eventDescription": {
+      "text": "IDPs purchasing food from the market as main source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 10,
+      "end": 19
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17%",
+      "start": 233,
+      "end": 236
+    },
+    "eventDescription": {
+      "text": "IDPs obtaining food on credit",
+      "start": 184,
+      "end": 213
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 296,
+      "end": 305
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13%",
+      "start": 289,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "main source of food from charity or donations",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 296,
+      "end": 305
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1%",
+      "start": 396,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "main source of food from family or friends",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 402,
+      "end": 411
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "96",
+      "start": 557,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "baladiyas reporting food as too expensive",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 569,
+      "end": 578
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17%",
+      "start": 619,
+      "end": 622
+    },
+    "eventDescription": {
+      "text": "baladiyas reporting cases of malnutrition",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "baladiyas",
+      "start": 626,
+      "end": 635
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": 730,
+      "end": 733
+    },
+    "eventDescription": {
+      "text": "baladiya in the East reporting malnutrition",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "baladiya",
+      "start": 734,
+      "end": 742
+    }
+  }
+]

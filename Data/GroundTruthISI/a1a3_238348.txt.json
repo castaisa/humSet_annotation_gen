@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "268,000",
+      "begin": 545,
+      "end": 552
+    },
+    "unit": {
+      "text": "male and female students",
+      "begin": 553,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "have taken the exam from the first grade of primary to the third secondary school",
+      "begin": 578,
+      "end": 659
+    },
+    "eventType": "EventP"
+  }
+]

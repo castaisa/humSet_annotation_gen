@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "providing in-patient management",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 21,
+      "end": 25
+    },
+    "unit": {
+      "text": "Therapeutic Feeding Centres (TFCs)",
+      "start": 26,
+      "end": 60
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "supported by WHO",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 305,
+      "end": 310
+    },
+    "unit": {
+      "text": "stabilization centres",
+      "start": 311,
+      "end": 332
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "admitted to OTPs",
+      "start": 470,
+      "end": 486
+    },
+    "quantity": {
+      "text": "68 per cent",
+      "start": 432,
+      "end": 443
+    },
+    "unit": {
+      "text": "children with SAM",
+      "start": 447,
+      "end": 464
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received support with Infant and Young Child Feeding (IYCF)",
+      "start": 507,
+      "end": 566
+    },
+    "quantity": {
+      "text": "79 per cent",
+      "start": 488,
+      "end": 499
+    },
+    "unit": {
+      "text": "PLW",
+      "start": 503,
+      "end": 506
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received micronutrient supplements",
+      "start": 595,
+      "end": 629
+    },
+    "quantity": {
+      "text": "65 per cent",
+      "start": 571,
+      "end": 582
+    },
+    "unit": {
+      "text": "children",
+      "start": 586,
+      "end": 594
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "supported to 14 TFCs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "608",
+      "start": 674,
+      "end": 677
+    },
+    "unit": {
+      "text": "admissions",
+      "start": 678,
+      "end": 688
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received admissions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14",
+      "start": 692,
+      "end": 694
+    },
+    "unit": {
+      "text": "TFCs",
+      "start": 695,
+      "end": 699
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Al Thawra Hospital in Al Hudaydah City",
+      "start": 768,
+      "end": 811
+    },
+    "quantity": {
+      "text": "42",
+      "start": 750,
+      "end": 752
+    },
+    "unit": {
+      "text": "referrals",
+      "start": 753,
+      "end": 762
+    }
+  }
+]

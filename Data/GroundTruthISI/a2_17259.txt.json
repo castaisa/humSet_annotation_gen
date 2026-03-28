@@ -1,0 +1,116 @@
+[
+  {
+    "quantity": {
+      "text": "21",
+      "begin": 27,
+      "end": 29
+    },
+    "unit": {
+      "text": "villages",
+      "begin": 30,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "ICRC distributed spare parts",
+      "begin": 66,
+      "end": 94
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "97,191",
+      "begin": 165,
+      "end": 171
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 172,
+      "end": 183
+    }
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 318,
+      "end": 321
+    },
+    "unit": {
+      "text": "beds",
+      "begin": 322,
+      "end": 326
+    }
+  },
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 408,
+      "end": 411
+    },
+    "unit": {
+      "text": "tents",
+      "begin": 435,
+      "end": 440
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 682,
+      "end": 685
+    },
+    "unit": {
+      "text": "air conditions",
+      "begin": 686,
+      "end": 700
+    },
+    "eventDescription": {
+      "text": "installed",
+      "begin": 701,
+      "end": 710
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "135",
+      "begin": 790,
+      "end": 793
+    },
+    "eventDescription": {
+      "text": "install",
+      "begin": 782,
+      "end": 789
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "solar panels",
+      "begin": 794,
+      "end": 806
+    }
+  },
+  {
+    "quantity": {
+      "text": "310",
+      "begin": 808,
+      "end": 811
+    },
+    "unit": {
+      "text": "watt",
+      "begin": 812,
+      "end": 816
+    }
+  },
+  {
+    "quantity": {
+      "text": "27,000",
+      "begin": 844,
+      "end": 850
+    },
+    "unit": {
+      "text": "people",
+      "begin": 851,
+      "end": 857
+    }
+  }
+]

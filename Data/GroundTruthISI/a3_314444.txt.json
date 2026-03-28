@@ -1,0 +1,187 @@
+[
+  {
+    "quantity": {
+      "text": "84",
+      "begin": 44,
+      "end": 46
+    },
+    "unit": {
+      "text": "people",
+      "begin": 47,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "engaged in social norms transformation discussions and action courses",
+      "begin": 96,
+      "end": 165
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 55,
+      "end": 56
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 57,
+      "end": 62
+    },
+    "eventDescription": {
+      "text": "engaged in social norms transformation discussions and action courses",
+      "begin": 96,
+      "end": 165
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 64,
+      "end": 66
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 67,
+      "end": 71
+    },
+    "eventDescription": {
+      "text": "engaged in social norms transformation discussions and action courses",
+      "begin": 96,
+      "end": 165
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "37",
+      "begin": 73,
+      "end": 75
+    },
+    "unit": {
+      "text": "women",
+      "begin": 76,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "engaged in social norms transformation discussions and action courses",
+      "begin": 96,
+      "end": 165
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "29",
+      "begin": 83,
+      "end": 85
+    },
+    "unit": {
+      "text": "men",
+      "begin": 86,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "engaged in social norms transformation discussions and action courses",
+      "begin": 96,
+      "end": 165
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "90,000",
+      "begin": 353,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "child protections services",
+      "begin": 372,
+      "end": 398
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 348,
+      "end": 352
+    },
+    "unit": {
+      "text": "people",
+      "begin": 360,
+      "end": 366
+    }
+  },
+  {
+    "quantity": {
+      "text": "10,135",
+      "begin": 414,
+      "end": 420
+    },
+    "unit": {
+      "text": "children",
+      "begin": 421,
+      "end": 429
+    },
+    "eventDescription": {
+      "text": "received psycho -social support services",
+      "begin": 434,
+      "end": 474
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,212",
+      "begin": 476,
+      "end": 481
+    },
+    "unit": {
+      "text": "children",
+      "begin": 482,
+      "end": 490
+    },
+    "eventDescription": {
+      "text": "supported through case management and family tracing and reunification",
+      "begin": 500,
+      "end": 570
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "64,480",
+      "begin": 575,
+      "end": 581
+    },
+    "unit": {
+      "text": "people",
+      "begin": 582,
+      "end": 588
+    },
+    "eventDescription": {
+      "text": "reached with lifesaving messages including risk education.",
+      "begin": 598,
+      "end": 656
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 668,
+      "end": 670
+    },
+    "unit": {
+      "text": "state level referral pathways",
+      "begin": 671,
+      "end": 700
+    },
+    "eventDescription": {
+      "text": "updated",
+      "begin": 706,
+      "end": 713
+    },
+    "eventType": "EventA"
+  }
+]

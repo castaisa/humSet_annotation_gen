@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "One out of three",
+      "begin": 43,
+      "end": 59
+    },
+    "unit": {
+      "text": "host community households",
+      "begin": 60,
+      "end": 85
+    },
+    "eventDescription": {
+      "text": "classed as less vulnerable",
+      "begin": 102,
+      "end": 128
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "22 percent",
+      "begin": 232,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "assessed as less vulnerable",
+      "begin": 322,
+      "end": 349
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "host population",
+      "begin": 250,
+      "end": 265
+    }
+  },
+  {
+    "quantity": {
+      "text": "13 percent",
+      "begin": 412,
+      "end": 422
+    },
+    "unit": {
+      "text": "population",
+      "begin": 430,
+      "end": 440
+    },
+    "eventDescription": {
+      "text": "deemed moderately vulnerable",
+      "begin": 499,
+      "end": 527
+    },
+    "eventType": "EventP"
+  }
+]

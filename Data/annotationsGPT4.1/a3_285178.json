@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "27",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "within the emergency threshold for acute malnutrition"
+  },
+  {
+    "quantity": "34",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "total provinces surveyed"
+  },
+  {
+    "quantity": "half",
+    "unit": "children under five",
+    "eventType": "EventP",
+    "eventDescription": "need life-saving nutrition support",
+    "modifier": "almost"
+  },
+  {
+    "quantity": "a quarter",
+    "unit": "pregnant and lactating women (PLW)",
+    "eventType": "EventP",
+    "eventDescription": "need life-saving nutrition support"
+  },
+  {
+    "quantity": "16 per cent",
+    "unit": "nutrition needs",
+    "eventType": "EventA",
+    "eventDescription": "increase of nutrition needs"
+  },
+  {
+    "quantity": "15.3 per cent",
+    "unit": "infants under six months",
+    "eventType": "EventP",
+    "eventDescription": "affected by wasting"
+  },
+  {
+    "quantity": "6.2 per cent",
+    "unit": "infants under six months",
+    "eventType": "EventP",
+    "eventDescription": "severely wasted"
+  }
+]

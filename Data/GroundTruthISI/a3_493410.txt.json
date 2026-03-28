@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "13104",
+      "begin": 300,
+      "end": 305
+    },
+    "eventDescription": {
+      "text": "Hygiene Promotion Sessions and Cleaning campaign reaching",
+      "begin": 242,
+      "end": 299
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "persons",
+      "begin": 306,
+      "end": 313
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,450,000",
+      "begin": 328,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "Supplied",
+      "begin": 319,
+      "end": 327
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "liters of safe water",
+      "begin": 338,
+      "end": 358
+    }
+  },
+  {
+    "quantity": {
+      "text": "245,000",
+      "begin": 458,
+      "end": 465
+    },
+    "eventDescription": {
+      "text": "Supplied",
+      "begin": 319,
+      "end": 327
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "liters of water",
+      "begin": 466,
+      "end": 481
+    }
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 388,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "routine chlorination",
+      "begin": 364,
+      "end": 384
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boreholes",
+      "begin": 391,
+      "end": 400
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 405,
+      "end": 406
+    },
+    "eventDescription": {
+      "text": "routine chlorination",
+      "begin": 364,
+      "end": 384
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hand pumps",
+      "begin": 407,
+      "end": 417
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 541,
+      "end": 542
+    },
+    "eventDescription": {
+      "text": "Rehabilitation",
+      "begin": 523,
+      "end": 537
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "blocks of latrine",
+      "begin": 543,
+      "end": 560
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 565,
+      "end": 566
+    },
+    "eventDescription": {
+      "text": "Rehabilitation",
+      "begin": 523,
+      "end": 537
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "blocks of bathroom",
+      "begin": 567,
+      "end": 585
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 602,
+      "end": 604
+    },
+    "eventDescription": {
+      "text": "Disinfected",
+      "begin": 590,
+      "end": 601
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "blocks of latrine",
+      "begin": 605,
+      "end": 622
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,115",
+      "begin": 687,
+      "end": 692
+    },
+    "eventDescription": {
+      "text": "hygiene promotion messaging through home visits",
+      "begin": 710,
+      "end": 757
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 693,
+      "end": 704
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,778",
+      "begin": 837,
+      "end": 842
+    },
+    "eventDescription": {
+      "text": "trained Community volunteers reaching",
+      "begin": 799,
+      "end": 836
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 843,
+      "end": 854
+    }
+  }
+]

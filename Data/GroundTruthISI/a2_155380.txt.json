@@ -1,0 +1,105 @@
+[
+  {
+    "quantity": {
+      "text": "10,185",
+      "begin": 104,
+      "end": 110
+    },
+    "unit": {
+      "text": "NFI kits",
+      "begin": 119,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 133,
+      "end": 141
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "77",
+      "begin": 178,
+      "end": 180
+    },
+    "unit": {
+      "text": "NFI kits",
+      "begin": 181,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 288,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "quarantine centres",
+      "begin": 293,
+      "end": 311
+    }
+  },
+  {
+    "quantity": {
+      "text": "26",
+      "begin": 315,
+      "end": 317
+    },
+    "unit": {
+      "text": "mid-term shelters",
+      "begin": 318,
+      "end": 335
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 360,
+      "end": 368
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "7,624",
+      "begin": 380,
+      "end": 385
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 360,
+      "end": 368
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mid-term shelters",
+      "begin": 386,
+      "end": 403
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,213",
+      "begin": 427,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "partial Temporary Shelter Assistance",
+      "begin": 433,
+      "end": 469
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "Half",
+      "begin": 44,
+      "end": 48
+    },
+    "unit": {
+      "text": "children",
+      "begin": 56,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 65,
+      "end": 69
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "45%",
+      "begin": 136,
+      "end": 139
+    },
+    "unit": {
+      "text": "cases of fatal drowning",
+      "begin": 141,
+      "end": 164
+    }
+  }
+]

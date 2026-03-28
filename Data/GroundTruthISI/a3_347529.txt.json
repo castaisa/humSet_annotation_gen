@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "9274",
+      "begin": 183,
+      "end": 187
+    },
+    "unit": {
+      "text": "diphtheria cases",
+      "begin": 154,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 171,
+      "end": 179
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3016",
+      "begin": 197,
+      "end": 201
+    },
+    "unit": {
+      "text": "diphtheria cases",
+      "begin": 154,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 171,
+      "end": 179
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5330",
+      "begin": 211,
+      "end": 215
+    },
+    "unit": {
+      "text": "diphtheria cases",
+      "begin": 154,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 171,
+      "end": 179
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "614",
+      "begin": 225,
+      "end": 228
+    },
+    "unit": {
+      "text": "diphtheria cases",
+      "begin": 154,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 171,
+      "end": 179
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "226",
+      "begin": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "diphtheria cases",
+      "begin": 154,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 171,
+      "end": 179
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "88",
+      "begin": 254,
+      "end": 256
+    },
+    "unit": {
+      "text": "diphtheria cases",
+      "begin": 154,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 171,
+      "end": 179
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9029",
+      "begin": 289,
+      "end": 293
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 294,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 305,
+      "end": 313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "245",
+      "begin": 331,
+      "end": 334
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 294,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 305,
+      "end": 313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "47",
+      "begin": 365,
+      "end": 367
+    },
+    "unit": {
+      "text": "deaths registered",
+      "begin": 368,
+      "end": 385
+    },
+    "eventDescription": {
+      "text": "deaths registered",
+      "begin": 368,
+      "end": 385
+    },
+    "eventType": "EventP"
+  }
+]

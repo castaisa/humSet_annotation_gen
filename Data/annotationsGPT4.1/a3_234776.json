@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "1.85 million",
+    "unit": "people",
+    "eventType": "EventA",
+    "eventDescription": "received food assistance",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "400,000",
+    "unit": "people",
+    "eventType": "EventA",
+    "eventDescription": "benefitted from government-led rural and urban safety net programmes"
+  },
+  {
+    "quantity": "20 to100 per cent",
+    "unit": "tax exemption",
+    "eventType": "EventO",
+    "eventDescription": "enacted on imported food commodities"
+  }
+]

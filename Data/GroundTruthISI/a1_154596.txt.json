@@ -1,0 +1,389 @@
+[
+  {
+    "quantity": {
+      "text": "101",
+      "begin": 33,
+      "end": 36
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 37,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 87,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 89,
+      "end": 94
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 115,
+      "end": 116
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 131,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 147,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 163,
+      "end": 164
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 179,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 195,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 210,
+      "end": 211
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 223,
+      "end": 225
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 239,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 254,
+      "end": 255
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 270,
+      "end": 271
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 286,
+      "end": 287
+    },
+    "eventDescription": {
+      "text": "COVID-19 cases",
+      "begin": 37,
+      "end": 51
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 301,
+      "end": 302
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 317,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 333,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 349,
+      "end": 350
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 365,
+      "end": 366
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 381,
+      "end": 382
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 397,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 413,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 429,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 445,
+      "end": 446
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 461,
+      "end": 462
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 477,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 493,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 509,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 528,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 62,
+      "end": 70
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "151",
+      "start": 61,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "discharged cargo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "vessels",
+      "start": 65,
+      "end": 72
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "70",
+      "start": 135,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "transporting food items",
+      "start": 153,
+      "end": 176
+    },
+    "unit": {
+      "text": "vessels",
+      "start": 145,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "81",
+      "start": 181,
+      "end": 183
+    },
+    "eventDescription": {
+      "text": "transporting fuel",
+      "start": 184,
+      "end": 201
+    },
+    "unit": {
+      "text": "vessels",
+      "start": 145,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17",
+      "start": 212,
+      "end": 214
+    },
+    "eventDescription": {
+      "text": "discharged supplies",
+      "start": 234,
+      "end": 253
+    },
+    "unit": {
+      "text": "commercial vessels",
+      "start": 215,
+      "end": 233
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "19 per cent",
+      "start": 294,
+      "end": 305
+    },
+    "eventDescription": {
+      "text": "decrease in number of vessels berthed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "decrease",
+      "start": 306,
+      "end": 314
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "18 per cent",
+      "start": 425,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "decline in food imports",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "decline",
+      "start": 413,
+      "end": 420
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "20 per cent",
+      "start": 441,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "decline in fuel imports",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "decline",
+      "start": 413,
+      "end": 420
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": 473,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "arrived at Al Hudaydah",
+      "start": 508,
+      "end": 530
+    },
+    "unit": {
+      "text": "containerized cargo vessel",
+      "start": 477,
+      "end": 503
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "43 per cent",
+      "start": 589,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "decrease in vessels berthing at Al Hudaydah and Saleef ports",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "decrease",
+      "start": 601,
+      "end": 609
+    },
+    "modifier": {
+      "text": "on average",
+      "start": 671,
+      "end": 681
+    }
+  }
+]

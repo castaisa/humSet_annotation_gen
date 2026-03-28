@@ -1,0 +1,326 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": 52,
+      "end": 62
+    },
+    "quantity": {
+      "text": "51",
+      "start": 127,
+      "end": 129
+    },
+    "unit": {
+      "text": "cases",
+      "start": 24,
+      "end": 29
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "recovered",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "44",
+      "start": 169,
+      "end": 171
+    },
+    "unit": {
+      "text": "recoveries",
+      "start": 172,
+      "end": 182
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "active",
+      "start": 193,
+      "end": 199
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 187,
+      "end": 192
+    },
+    "unit": {
+      "text": "active cases",
+      "start": 193,
+      "end": 205
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "active in Idleb district",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 228,
+      "end": 231
+    },
+    "unit": {
+      "text": "active case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "active in northern Aleppo governorate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 281,
+      "end": 284
+    },
+    "unit": {
+      "text": "active cases",
+      "start": 214,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "active in A’zaz",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 331,
+      "end": 336
+    },
+    "unit": {
+      "text": "active cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "active in Al Bab",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 347,
+      "end": 350
+    },
+    "unit": {
+      "text": "active case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "active in Afrin",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 362,
+      "end": 365
+    },
+    "unit": {
+      "text": "active case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "active in Jebel Saman",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 380,
+      "end": 383
+    },
+    "unit": {
+      "text": "active case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases among healthcare workers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22",
+      "start": 469,
+      "end": 471
+    },
+    "unit": {
+      "text": "healthcare workers",
+      "start": 490,
+      "end": 508
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases among healthcare workers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43 per cent",
+      "start": 473,
+      "end": 484
+    },
+    "unit": {
+      "text": "cases",
+      "start": 520,
+      "end": 525
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases among males",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29",
+      "start": 527,
+      "end": 529
+    },
+    "unit": {
+      "text": "males",
+      "start": 535,
+      "end": 540
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases among females",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22",
+      "start": 545,
+      "end": 547
+    },
+    "unit": {
+      "text": "females",
+      "start": 553,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mean age of cases",
+      "start": 566,
+      "end": 583
+    },
+    "quantity": {
+      "text": "32",
+      "start": 587,
+      "end": 589
+    },
+    "unit": {
+      "text": "years old",
+      "start": 590,
+      "end": 599
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases under five years of age",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 607,
+      "end": 610
+    },
+    "unit": {
+      "text": "cases",
+      "start": 611,
+      "end": 616
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age threshold for cases under five",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 627,
+      "end": 631
+    },
+    "unit": {
+      "text": "years of age",
+      "start": 632,
+      "end": 644
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases over 60 years of age",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 649,
+      "end": 652
+    },
+    "unit": {
+      "text": "cases",
+      "start": 653,
+      "end": 658
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age threshold for cases over 60",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60",
+      "start": 668,
+      "end": 670
+    },
+    "unit": {
+      "text": "years of age",
+      "start": 671,
+      "end": 683
+    }
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20 percent",
+      "start": 841,
+      "end": 851
+    },
+    "eventDescription": {
+      "text": "do not have regular access to water or soap",
+      "start": 892,
+      "end": 935
+    },
+    "unit": {
+      "text": "refugees and migrants from Venezuela",
+      "start": 855,
+      "end": 891
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "84 percent",
+      "start": 937,
+      "end": 947
+    },
+    "eventDescription": {
+      "text": "reported challenges in accessing sufficient food",
+      "start": 956,
+      "end": 1004
+    },
+    "unit": {
+      "text": "refugees and migrants from Venezuela",
+      "start": 855,
+      "end": 891
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "every third",
+      "start": 1009,
+      "end": 1020
+    },
+    "eventDescription": {
+      "text": "goes to bed hungry",
+      "start": 1027,
+      "end": 1045
+    },
+    "unit": {
+      "text": "child",
+      "start": 1021,
+      "end": 1026
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 40 per cent",
+      "start": 1100,
+      "end": 1116
+    },
+    "eventDescription": {
+      "text": "forced to look for cheaper housing",
+      "start": 1138,
+      "end": 1172
+    },
+    "unit": {
+      "text": "surveyed families",
+      "start": 1120,
+      "end": 1137
+    },
+    "modifier": {
+      "text": "over",
+      "start": 1100,
+      "end": 1104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "28 percent",
+      "start": 1174,
+      "end": 1184
+    },
+    "eventDescription": {
+      "text": "facing the risk of eviction",
+      "start": 1185,
+      "end": 1212
+    },
+    "unit": {
+      "text": "surveyed families",
+      "start": 1120,
+      "end": 1137
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6.4 percent",
+      "start": 1217,
+      "end": 1228
+    },
+    "eventDescription": {
+      "text": "moving to shelters",
+      "start": 1229,
+      "end": 1247
+    },
+    "unit": {
+      "text": "surveyed families",
+      "start": 1120,
+      "end": 1137
+    }
+  }
+]

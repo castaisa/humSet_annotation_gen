@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "100%",
+      "begin": 221,
+      "end": 225
+    },
+    "eventDescription": {
+      "text": "targeting",
+      "begin": 211,
+      "end": 220
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Rohingya population living inside the camps",
+      "begin": 229,
+      "end": 272
+    }
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 277,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "targeting",
+      "begin": 211,
+      "end": 220
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "host community population",
+      "begin": 284,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 650,
+      "end": 652
+    },
+    "unit": {
+      "text": "partners",
+      "begin": 653,
+      "end": 661
+    },
+    "eventDescription": {
+      "text": "reported 5Ws",
+      "begin": 662,
+      "end": 674
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 671,
+      "end": 672
+    },
+    "unit": {
+      "text": "Ws",
+      "begin": 672,
+      "end": 674
+    }
+  }
+]

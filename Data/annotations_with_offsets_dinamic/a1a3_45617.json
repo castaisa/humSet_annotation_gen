@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of education support",
+      "start": 337,
+      "end": 365
+    },
+    "quantity": {
+      "text": "88%",
+      "start": 302,
+      "end": 305
+    },
+    "unit": {
+      "text": "households",
+      "start": 169,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average severity score",
+      "start": 371,
+      "end": 393
+    },
+    "quantity": {
+      "text": "7.3 out of 10",
+      "start": 454,
+      "end": 467
+    },
+    "unit": {
+      "text": "severity score",
+      "start": 379,
+      "end": 393
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported not owning school supplies",
+      "start": 596,
+      "end": 631
+    },
+    "quantity": {
+      "text": "86%",
+      "start": 578,
+      "end": 581
+    },
+    "unit": {
+      "text": "households",
+      "start": 585,
+      "end": 595
+    }
+  }
+]

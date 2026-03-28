@@ -1,0 +1,272 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "313",
+      "start": 29,
+      "end": 32
+    },
+    "eventDescription": {
+      "text": "confirmed as positive with the COVID-19",
+      "start": 68,
+      "end": 107
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "start": 44,
+      "end": 62
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,186",
+      "start": 120,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "confirmed as positive with the COVID-19",
+      "start": 68,
+      "end": 107
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "start": 126,
+      "end": 144
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,687",
+      "start": 146,
+      "end": 151
+    },
+    "eventDescription": {
+      "text": "living in camps",
+      "start": 178,
+      "end": 193
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "start": 126,
+      "end": 144
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "53 per cent",
+      "start": 153,
+      "end": 164
+    },
+    "eventDescription": {
+      "text": "living in camps",
+      "start": 178,
+      "end": 193
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "start": 126,
+      "end": 144
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "122",
+      "start": 257,
+      "end": 260
+    },
+    "eventDescription": {
+      "text": "deaths among Palestine refugees",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 261,
+      "end": 267
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "304",
+      "start": 306,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "in home-isolation",
+      "start": 322,
+      "end": 339
+    },
+    "unit": {
+      "text": "people",
+      "start": 310,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "42",
+      "start": 341,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "in hospitals",
+      "start": 344,
+      "end": 356
+    },
+    "unit": {
+      "text": "people",
+      "start": 310,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "six",
+      "start": 362,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "in Sibline isolation centre",
+      "start": 366,
+      "end": 393
+    },
+    "unit": {
+      "text": "people",
+      "start": 310,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,030",
+      "start": 432,
+      "end": 437
+    },
+    "eventDescription": {
+      "text": "tested positive for the COVID-19",
+      "start": 498,
+      "end": 530
+    },
+    "unit": {
+      "text": "Syrian refugees",
+      "start": 438,
+      "end": 453
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16",
+      "start": 458,
+      "end": 460
+    },
+    "eventDescription": {
+      "text": "tested positive for the COVID-19",
+      "start": 498,
+      "end": 530
+    },
+    "unit": {
+      "text": "refugees of other nationalities",
+      "start": 461,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,529",
+      "start": 542,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "recoveries among refugees",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "recoveries",
+      "start": 548,
+      "end": 558
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "68",
+      "start": 563,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "deaths among refugees",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 566,
+      "end": 572
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "175",
+      "start": 594,
+      "end": 597
+    },
+    "eventDescription": {
+      "text": "increase in cases during the reporting period",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 598,
+      "end": 603
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "140",
+      "start": 641,
+      "end": 644
+    },
+    "eventDescription": {
+      "text": "detected in informal settlements",
+      "start": 661,
+      "end": 693
+    },
+    "unit": {
+      "text": "cases",
+      "start": 645,
+      "end": 650
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "53",
+      "start": 703,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "recovered in informal settlements",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 645,
+      "end": 650
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "64",
+      "begin": 72,
+      "end": 74
+    },
+    "unit": {
+      "text": "chlorinators",
+      "begin": 75,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "engaged",
+      "begin": 88,
+      "end": 95
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 160,
+      "end": 162
+    },
+    "eventDescription": {
+      "text": "engaged",
+      "begin": 88,
+      "end": 95
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "water points",
+      "begin": 163,
+      "end": 175
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 206,
+      "end": 208
+    },
+    "unit": {
+      "text": "House-to-House Hygiene Promoters",
+      "begin": 209,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "engaged",
+      "begin": 242,
+      "end": 249
+    },
+    "eventType": "EventO"
+  }
+]

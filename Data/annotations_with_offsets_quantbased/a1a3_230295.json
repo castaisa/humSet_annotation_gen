@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "48 per cent",
+      "start": 231,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "cited separated children as a concern",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents in IDP camps",
+      "start": 205,
+      "end": 229
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "44 per cent",
+      "start": 261,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "cited separated children as a concern",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents in urban areas",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7 per cent",
+      "start": 344,
+      "end": 354
+    },
+    "eventDescription": {
+      "text": "cited separated children as a concern",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents in rural locations",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "68 per cent",
+      "start": 421,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "reported losing parents/children when moving to safer areas as the main cause of family separation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 441,
+      "end": 452
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 405,
+      "end": 414
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "62 per cent",
+      "start": 559,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "cited that caregivers willingly send their children to work far from home",
+      "start": 572,
+      "end": 645
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 546,
+      "end": 557
+    }
+  }
+]

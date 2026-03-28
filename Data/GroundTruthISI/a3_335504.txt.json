@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 77,
+      "end": 82
+    },
+    "unit": {
+      "text": "years",
+      "begin": 83,
+      "end": 88
+    }
+  }
+]

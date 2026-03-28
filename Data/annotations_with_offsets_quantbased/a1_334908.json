@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six",
+      "start": 107,
+      "end": 110
+    },
+    "eventDescription": {
+      "text": "occurred",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "nor’wester",
+      "start": 111,
+      "end": 121
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 228,
+      "end": 229
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 237,
+      "end": 241
+    },
+    "unit": {
+      "text": "person",
+      "start": 230,
+      "end": 236
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4",
+      "start": 252,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 438,
+      "end": 446
+    },
+    "unit": {
+      "text": "upazilas",
+      "start": 278,
+      "end": 286
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10",
+      "start": 318,
+      "end": 320
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 328,
+      "end": 332
+    },
+    "unit": {
+      "text": "person",
+      "start": 321,
+      "end": 327
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "13",
+      "start": 447,
+      "end": 449
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 438,
+      "end": 446
+    },
+    "unit": {
+      "text": "upazilas",
+      "start": 450,
+      "end": 458
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25,325",
+      "start": 487,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "damaged",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Hactor Boro rice field",
+      "start": 494,
+      "end": 516
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 539,
+      "end": 540
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 548,
+      "end": 552
+    },
+    "unit": {
+      "text": "people",
+      "start": 541,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10",
+      "start": 578,
+      "end": 580
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 595,
+      "end": 603
+    },
+    "unit": {
+      "text": "villages",
+      "start": 581,
+      "end": 589
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6",
+      "start": 605,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 595,
+      "end": 603
+    },
+    "unit": {
+      "text": "upazilas",
+      "start": 607,
+      "end": 615
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "117",
+      "start": 705,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "damaged",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Hactor Rice field",
+      "start": 709,
+      "end": 726
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 865,
+      "end": 866
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 874,
+      "end": 878
+    },
+    "unit": {
+      "text": "person",
+      "start": 867,
+      "end": 873
+    }
+  }
+]

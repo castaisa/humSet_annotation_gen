@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "86 per cent",
+      "start": 404,
+      "end": 415
+    },
+    "eventDescription": {
+      "text": "highly vulnerable to poverty and hunger",
+      "start": 442,
+      "end": 481
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "start": 419,
+      "end": 436
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70 per cent",
+      "start": 491,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "highly vulnerable to poverty and hunger",
+      "start": 442,
+      "end": 481
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "start": 419,
+      "end": 436
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "51 per cent",
+      "start": 564,
+      "end": 575
+    },
+    "eventDescription": {
+      "text": "considered moderately or highly vulnerable",
+      "start": 576,
+      "end": 618
+    },
+    "unit": {
+      "text": "local community",
+      "start": 542,
+      "end": 557
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41 per cent",
+      "start": 631,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "considered moderately or highly vulnerable",
+      "start": 576,
+      "end": 618
+    },
+    "unit": {
+      "text": "local community",
+      "start": 542,
+      "end": 557
+    }
+  }
+]

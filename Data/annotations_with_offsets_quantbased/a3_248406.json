@@ -1,0 +1,187 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 70 percent",
+      "start": 293,
+      "end": 308
+    },
+    "eventDescription": {
+      "text": "increase among children aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases of severe acute malnutrition",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 293,
+      "end": 297
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "38 percent",
+      "start": 313,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "increase among children aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases of moderate acute malnutrition",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2 percent",
+      "start": 471,
+      "end": 480
+    },
+    "eventDescription": {
+      "text": "increase among children aged 6-59 months",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "proxy prevalence of chronic malnutrition (stunting)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one-third",
+      "start": 538,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "affected by chronic malnutrition (stunting)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children aged 6-59 months",
+      "start": 551,
+      "end": 576
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2.2 million",
+      "start": 608,
+      "end": 619
+    },
+    "eventDescription": {
+      "text": "reached with nutrition services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children aged 6-59 months and pregnant and lactating women (PLW)",
+      "start": 620,
+      "end": 684
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "31",
+      "start": 706,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "provided nutrition services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "partners",
+      "start": 709,
+      "end": 717
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "588",
+      "start": 745,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "nutrition services provided in",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "communities",
+      "start": 749,
+      "end": 760
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "42",
+      "start": 765,
+      "end": 767
+    },
+    "eventDescription": {
+      "text": "nutrition services provided in",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sub-districts",
+      "start": 768,
+      "end": 781
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "95 percent",
+      "start": 825,
+      "end": 835
+    },
+    "eventDescription": {
+      "text": "reached with nutrition services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "population in need",
+      "start": 843,
+      "end": 861
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "9 percent",
+      "start": 865,
+      "end": 874
+    },
+    "eventDescription": {
+      "text": "increase in coverage",
+      "start": 875,
+      "end": 895
+    },
+    "unit": {
+      "text": "coverage",
+      "start": 887,
+      "end": 895
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "15 percent",
+      "begin": 44,
+      "end": 54
+    },
+    "unit": {
+      "text": "households",
+      "begin": 58,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "who reported living in tents",
+      "begin": 80,
+      "end": 108
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15 percent",
+      "begin": 115,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 126,
+      "end": 134
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 165,
+      "end": 168
+    },
+    "modifier": {
+      "text": "less than",
+      "begin": 155,
+      "end": 164
+    },
+    "unit": {
+      "text": "year old",
+      "begin": 169,
+      "end": 177
+    }
+  },
+  {
+    "quantity": {
+      "text": "85 percent",
+      "begin": 201,
+      "end": 211
+    },
+    "unit": {
+      "text": "households",
+      "begin": 215,
+      "end": 225
+    }
+  },
+  {
+    "quantity": {
+      "text": "87 percent",
+      "begin": 445,
+      "end": 455
+    },
+    "unit": {
+      "text": "Households",
+      "begin": 358,
+      "end": 368
+    }
+  },
+  {
+    "quantity": {
+      "text": "79 percent",
+      "begin": 469,
+      "end": 479
+    },
+    "unit": {
+      "text": "Households",
+      "begin": 358,
+      "end": 368
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 431,
+      "end": 434
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 426,
+      "end": 430
+    },
+    "unit": {
+      "text": "year old",
+      "begin": 435,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "48 percent",
+      "begin": 588,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "households in Aleppo had higher rates of living in tents",
+      "begin": 501,
+      "end": 557
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 611,
+      "end": 621
+    },
+    "eventDescription": {
+      "text": "households in Aleppo had higher rates of living in tents",
+      "begin": 501,
+      "end": 557
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 573,
+      "end": 576
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 568,
+      "end": 572
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 577,
+      "end": 586
+    }
+  }
+]

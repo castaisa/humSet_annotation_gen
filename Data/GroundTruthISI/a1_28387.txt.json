@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "34%",
+      "begin": 103,
+      "end": 106
+    },
+    "eventDescription": {
+      "text": "highest rate of households with “high” or “very high” needs",
+      "begin": 25,
+      "end": 84
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 41,
+      "end": 51
+    }
+  },
+  {
+    "quantity": {
+      "text": "84%",
+      "begin": 184,
+      "end": 187
+    },
+    "unit": {
+      "text": "households",
+      "begin": 41,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "shelter/NFI",
+      "begin": 171,
+      "end": 182
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "68%",
+      "begin": 203,
+      "end": 206
+    },
+    "unit": {
+      "text": "households",
+      "begin": 41,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "livelihoods",
+      "begin": 190,
+      "end": 201
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "18%",
+      "begin": 224,
+      "end": 227
+    },
+    "unit": {
+      "text": "households",
+      "begin": 41,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "nutrition",
+      "begin": 213,
+      "end": 222
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "93%",
+      "begin": 165,
+      "end": 168
+    },
+    "unit": {
+      "text": "households",
+      "begin": 119,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "exhibiting needs in food security",
+      "begin": 130,
+      "end": 163
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21.2",
+      "begin": 263,
+      "end": 267
+    },
+    "unit": {
+      "text": "Severity of needs was also high",
+      "begin": 230,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "Severity of needs was also high",
+      "begin": 230,
+      "end": 261
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.7",
+      "begin": 326,
+      "end": 329
+    },
+    "eventDescription": {
+      "text": "above average severities reported",
+      "begin": 275,
+      "end": 308
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "shelter/NFI",
+      "begin": 313,
+      "end": 324
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.6",
+      "begin": 350,
+      "end": 353
+    },
+    "eventDescription": {
+      "text": "above average severities reported",
+      "begin": 275,
+      "end": 308
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "food security",
+      "begin": 335,
+      "end": 348
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.7",
+      "begin": 445,
+      "end": 448
+    },
+    "unit": {
+      "text": "shelter/NFI needs",
+      "begin": 397,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "were quite severe",
+      "begin": 426,
+      "end": 443
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "79%",
+      "begin": 500,
+      "end": 503
+    },
+    "unit": {
+      "text": "households",
+      "begin": 462,
+      "end": 472
+    },
+    "eventDescription": {
+      "text": "inadequate shelter",
+      "begin": 480,
+      "end": 498
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "75%",
+      "begin": 556,
+      "end": 559
+    },
+    "unit": {
+      "text": "households",
+      "begin": 462,
+      "end": 472
+    },
+    "eventDescription": {
+      "text": "sharing accommodations with multiple families",
+      "begin": 509,
+      "end": 554
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 638,
+      "end": 641
+    },
+    "unit": {
+      "text": "Households",
+      "begin": 562,
+      "end": 572
+    },
+    "eventDescription": {
+      "text": "were less likely to have one or more vulnerabilities",
+      "begin": 584,
+      "end": 636
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "53%",
+      "begin": 683,
+      "end": 686
+    },
+    "unit": {
+      "text": "Households",
+      "begin": 562,
+      "end": 572
+    },
+    "eventDescription": {
+      "text": "were less likely to have one or more vulnerabilities",
+      "begin": 584,
+      "end": 636
+    },
+    "eventType": "EventO"
+  }
+]

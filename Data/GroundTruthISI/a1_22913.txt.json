@@ -1,0 +1,518 @@
+[
+  {
+    "quantity": {
+      "text": "85",
+      "begin": 60,
+      "end": 62
+    },
+    "unit": {
+      "text": "new cases of Acute Flaccid Paralysis (AFP)",
+      "begin": 63,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 106,
+      "end": 114
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 314,
+      "end": 316
+    },
+    "unit": {
+      "text": "suspected cases of cholera",
+      "begin": 317,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 344,
+      "end": 352
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 393,
+      "end": 394
+    },
+    "unit": {
+      "text": "suspected cases of cholera",
+      "begin": 317,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 344,
+      "end": 352
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 404,
+      "end": 405
+    },
+    "unit": {
+      "text": "suspected cases of cholera",
+      "begin": 317,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 344,
+      "end": 352
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 358,
+      "end": 363
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 344,
+      "end": 352
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 364,
+      "end": 368
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 372,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 344,
+      "end": 352
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "States",
+      "begin": 376,
+      "end": 382
+    }
+  },
+  {
+    "quantity": {
+      "text": "116",
+      "begin": 474,
+      "end": 477
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 556,
+      "end": 558
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "58",
+      "begin": 565,
+      "end": 567
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 578,
+      "end": 580
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 588,
+      "end": 589
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 598,
+      "end": 600
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 613,
+      "end": 614
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 626,
+      "end": 627
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 639,
+      "end": 640
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 643,
+      "end": 645
+    },
+    "unit": {
+      "text": "suspected cases of Lassa fever",
+      "begin": 478,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 662,
+      "end": 671
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 523,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 509,
+      "end": 517
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 526,
+      "end": 530
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 534,
+      "end": 539
+    },
+    "unit": {
+      "text": "States",
+      "begin": 540,
+      "end": 546
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 676,
+      "end": 681
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 682,
+      "end": 688
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 694,
+      "end": 702
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 717,
+      "end": 719
+    },
+    "unit": {
+      "text": "suspected cases of Cerebrospinal Meningitis (CSM)",
+      "begin": 720,
+      "end": 769
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 784,
+      "end": 786
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 787,
+      "end": 791
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 795,
+      "end": 799
+    },
+    "unit": {
+      "text": "States",
+      "begin": 800,
+      "end": 806
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 822,
+      "end": 823
+    },
+    "unit": {
+      "text": "suspected cases of Cerebrospinal Meningitis (CSM)",
+      "begin": 720,
+      "end": 769
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 835,
+      "end": 837
+    },
+    "unit": {
+      "text": "suspected cases of Cerebrospinal Meningitis (CSM)",
+      "begin": 720,
+      "end": 769
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 847,
+      "end": 848
+    },
+    "unit": {
+      "text": "suspected cases of Cerebrospinal Meningitis (CSM)",
+      "begin": 720,
+      "end": 769
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 859,
+      "end": 860
+    },
+    "unit": {
+      "text": "suspected cases of Cerebrospinal Meningitis (CSM)",
+      "begin": 720,
+      "end": 769
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 873,
+      "end": 874
+    },
+    "unit": {
+      "text": "suspected cases of Cerebrospinal Meningitis (CSM)",
+      "begin": 720,
+      "end": 769
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 770,
+      "end": 778
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "503",
+      "begin": 956,
+      "end": 959
+    },
+    "unit": {
+      "text": "suspected cases of measles",
+      "begin": 960,
+      "end": 986
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 987,
+      "end": 995
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 1046,
+      "end": 1049
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 1050,
+      "end": 1056
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 1062,
+      "end": 1070
+    },
+    "eventType": "EventP"
+  }
+]

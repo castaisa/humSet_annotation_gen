@@ -1,0 +1,71 @@
+[
+  {
+    "quantity": {
+      "text": "1,470",
+      "begin": 69,
+      "end": 74
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 59,
+      "end": 68
+    },
+    "unit": {
+      "text": "people",
+      "begin": 75,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 92,
+      "end": 98
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,200",
+      "begin": 123,
+      "end": 128
+    },
+    "unit": {
+      "text": "people",
+      "begin": 75,
+      "end": 81
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 113,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "begin": 129,
+      "end": 137
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 390,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "supervised the kidnapping",
+      "begin": 351,
+      "end": 376
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "more than",
+      "begin": 380,
+      "end": 389
+    },
+    "unit": {
+      "text": "schoolgirls",
+      "begin": 394,
+      "end": 405
+    }
+  }
+]

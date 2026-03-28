@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "2,000 kilometres",
+      "begin": 527,
+      "end": 543
+    },
+    "eventDescription": {
+      "text": "could not be used “due to insecurity”",
+      "begin": 636,
+      "end": 673
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "over",
+      "begin": 522,
+      "end": 526
+    },
+    "unit": {
+      "text": "roads, thousands of classrooms",
+      "begin": 547,
+      "end": 577
+    }
+  },
+  {
+    "quantity": {
+      "text": "716",
+      "begin": 582,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "could not be used “due to insecurity”",
+      "begin": 636,
+      "end": 673
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "health centres",
+      "begin": 586,
+      "end": 600
+    }
+  }
+]

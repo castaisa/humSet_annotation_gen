@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "56 per cent",
+    "unit": "employees at hospitals",
+    "eventType": "EventP",
+    "eventDescription": "women employed at hospitals"
+  },
+  {
+    "quantity": "17.5 per cent",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "hospitals not operational"
+  },
+  {
+    "quantity": "20 per cent",
+    "unit": "primary health care facilities",
+    "eventType": "EventO",
+    "eventDescription": "primary health care facilities not operational"
+  },
+  {
+    "quantity": "eight per cent",
+    "unit": "other health facilities",
+    "eventType": "EventO",
+    "eventDescription": "other health facilities not operational"
+  },
+  {
+    "quantity": "one per cent",
+    "unit": "all health facilities",
+    "eventType": "EventO",
+    "eventDescription": "health facilities with mental health and family planning services"
+  }
+]

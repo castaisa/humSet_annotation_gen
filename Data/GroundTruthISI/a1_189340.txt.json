@@ -1,0 +1,130 @@
+[
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 242,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "government announced a one billion colón Protection Plan",
+      "begin": 154,
+      "end": 210
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "equivalent to",
+      "begin": 228,
+      "end": 241
+    },
+    "unit": {
+      "text": "GDP",
+      "begin": 248,
+      "end": 251
+    }
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 745,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "Congress approved a law",
+      "begin": 628,
+      "end": 651
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "reduction of work hours and a corresponding reduction of salaries",
+      "begin": 672,
+      "end": 737
+    },
+    "modifier": {
+      "text": "up to",
+      "begin": 739,
+      "end": 744
+    }
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 782,
+      "end": 785
+    },
+    "eventDescription": {
+      "text": "Congress approved a law",
+      "begin": 628,
+      "end": 651
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "reduction of work hours and a corresponding reduction of salaries",
+      "begin": 672,
+      "end": 737
+    }
+  },
+  {
+    "quantity": {
+      "text": "75%",
+      "begin": 843,
+      "end": 846
+    },
+    "eventDescription": {
+      "text": "Congress approved a law",
+      "begin": 628,
+      "end": 651
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "reduction of work hours and a corresponding reduction of salaries",
+      "begin": 672,
+      "end": 737
+    },
+    "modifier": {
+      "text": "up to",
+      "begin": 837,
+      "end": 842
+    }
+  },
+  {
+    "quantity": {
+      "text": "60%",
+      "begin": 880,
+      "end": 883
+    },
+    "eventDescription": {
+      "text": "Congress approved a law",
+      "begin": 628,
+      "end": 651
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "reduction of work hours and a corresponding reduction of salaries",
+      "begin": 672,
+      "end": 737
+    },
+    "modifier": {
+      "text": "up to",
+      "begin": 837,
+      "end": 842
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 905,
+      "end": 910
+    },
+    "eventDescription": {
+      "text": "Congress approved a law",
+      "begin": 628,
+      "end": 651
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "months",
+      "begin": 911,
+      "end": 917
+    }
+  }
+]

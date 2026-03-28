@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "96%",
+      "begin": 9,
+      "end": 12
+    },
+    "unit": {
+      "text": "households",
+      "begin": 16,
+      "end": 26
+    },
+    "eventDescription": {
+      "text": "reported some form of assistance received",
+      "begin": 27,
+      "end": 68
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "22%",
+      "begin": 515,
+      "end": 518
+    },
+    "eventDescription": {
+      "text": "Regular assistance was received in the form of shelter, food and psychosocial support (PSS)",
+      "begin": 422,
+      "end": 513
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sample population",
+      "begin": 539,
+      "end": 556
+    }
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 520,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "Regular assistance was received in the form of shelter, food and psychosocial support (PSS)",
+      "begin": 422,
+      "end": 513
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sample population",
+      "begin": 539,
+      "end": 556
+    }
+  },
+  {
+    "quantity": {
+      "text": "12%",
+      "begin": 528,
+      "end": 531
+    },
+    "eventDescription": {
+      "text": "Regular assistance was received in the form of shelter, food and psychosocial support (PSS)",
+      "begin": 422,
+      "end": 513
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sample population",
+      "begin": 539,
+      "end": 556
+    }
+  },
+  {
+    "quantity": {
+      "text": "274",
+      "begin": 561,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "Regular assistance was received in the form of shelter, food and psychosocial support (PSS)",
+      "begin": 422,
+      "end": 513
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 565,
+      "end": 575
+    }
+  }
+]

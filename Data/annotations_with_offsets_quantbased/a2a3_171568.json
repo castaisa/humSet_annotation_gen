@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "66%",
+      "start": 114,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "radios reported to exist",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 121,
+      "end": 141
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30%",
+      "start": 243,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "radios reported to exist",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements in Abadam",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40%",
+      "start": 256,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "radios reported to exist",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements in Dikwa",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20%",
+      "start": 272,
+      "end": 275
+    },
+    "eventDescription": {
+      "text": "radios reported to exist",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements in Marte",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "68%",
+      "start": 331,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "radio signal reported to be present",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 338,
+      "end": 358
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40%",
+      "start": 449,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "radio signals reported to be present",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "settlements in Dikwa",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40%",
+      "start": 465,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "radio signals reported to be present",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "settlements in Marte",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "66%",
+      "start": 538,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "radios reported to exist",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "settlements",
+      "start": 569,
+      "end": 580
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "85%",
+      "start": 553,
+      "end": 556
+    },
+    "eventDescription": {
+      "text": "community members have access to radios",
+      "start": 590,
+      "end": 629
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 560,
+      "end": 580
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "45%",
+      "start": 719,
+      "end": 722
+    },
+    "eventDescription": {
+      "text": "community members have access to radios",
+      "start": 590,
+      "end": 629
+    },
+    "unit": {
+      "text": "assessed settlements in Gwoza",
+      "start": null,
+      "end": null
+    }
+  }
+]

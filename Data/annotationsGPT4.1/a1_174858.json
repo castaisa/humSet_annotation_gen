@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "1.9 million",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "identified as poor and vulnerable households in need of government assistance"
+  },
+  {
+    "quantity": "740 000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "now have bank accounts through receiving the IS transfer"
+  },
+  {
+    "quantity": "600,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "had still not been reached by the end of June"
+  },
+  {
+    "quantity": "four",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "family size used as a goal for meeting basic necessities during the quarantine"
+  },
+  {
+    "quantity": "337,000",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reached with additional cash and in-kind assistance in Bogot\u00e1 by late May"
+  },
+  {
+    "quantity": "130 000",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "registered for and received aid in Medell\u00edn by mid-April"
+  },
+  {
+    "quantity": "300,000",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "received aid in Medell\u00edn by mid-May"
+  }
+]

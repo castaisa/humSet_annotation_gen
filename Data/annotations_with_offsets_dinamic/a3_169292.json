@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "ranked in the human development index",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "89",
+      "start": 42,
+      "end": 44
+    },
+    "unit": {
+      "text": "rank",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "informality rate in the region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "72.5 percent",
+      "start": 465,
+      "end": 477
+    },
+    "unit": {
+      "text": "informality rate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "among the top countries with confirmed COVID-19 cases in the region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 654,
+      "end": 659
+    },
+    "unit": {
+      "text": "countries",
+      "start": 660,
+      "end": 669
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "among the top countries with confirmed COVID-19 cases worldwide",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "ten",
+      "start": 732,
+      "end": 735
+    },
+    "unit": {
+      "text": "countries",
+      "start": null,
+      "end": null
+    }
+  }
+]

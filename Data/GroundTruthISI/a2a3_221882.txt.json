@@ -1,0 +1,197 @@
+[
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 165,
+      "end": 167
+    },
+    "eventDescription": {
+      "text": "missing",
+      "begin": 184,
+      "end": 191
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people",
+      "begin": 168,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 193,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "found alive",
+      "begin": 204,
+      "end": 215
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 237,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 144,
+      "end": 152
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "shelters",
+      "begin": 242,
+      "end": 250
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 423,
+      "end": 424
+    },
+    "eventDescription": {
+      "text": "deceased",
+      "begin": 425,
+      "end": 433
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 438,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "missing persons",
+      "begin": 444,
+      "end": 459
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "missing persons",
+      "begin": 444,
+      "end": 459
+    }
+  },
+  {
+    "quantity": {
+      "text": "497",
+      "begin": 481,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "affected people",
+      "begin": 485,
+      "end": 500
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "affected people",
+      "begin": 485,
+      "end": 500
+    }
+  },
+  {
+    "quantity": {
+      "text": "201",
+      "begin": 506,
+      "end": 509
+    },
+    "unit": {
+      "text": "families",
+      "begin": 510,
+      "end": 518
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 520,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 523,
+      "end": 530
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "injured",
+      "begin": 523,
+      "end": 530
+    }
+  },
+  {
+    "quantity": {
+      "text": "67",
+      "begin": 532,
+      "end": 534
+    },
+    "unit": {
+      "text": "homes",
+      "begin": 535,
+      "end": 540
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "begin": 541,
+      "end": 550
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "104",
+      "begin": 555,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "damaged",
+      "begin": 559,
+      "end": 566
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 568,
+      "end": 569
+    },
+    "unit": {
+      "text": "educational centers",
+      "begin": 570,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 590,
+      "end": 598
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.5",
+      "begin": 611,
+      "end": 614
+    },
+    "unit": {
+      "text": "kilometers",
+      "begin": 615,
+      "end": 625
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 634,
+      "end": 642
+    },
+    "eventType": "EventO"
+  }
+]

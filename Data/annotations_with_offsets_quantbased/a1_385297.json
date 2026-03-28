@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least five",
+      "start": 80,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "dead",
+      "start": 106,
+      "end": 110
+    },
+    "unit": {
+      "text": "female IDPs",
+      "start": 94,
+      "end": 105
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 80,
+      "end": 88
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "200,000",
+      "start": 683,
+      "end": 690
+    },
+    "eventDescription": {
+      "text": "hosting",
+      "start": 668,
+      "end": 675
+    },
+    "unit": {
+      "text": "people",
+      "start": 691,
+      "end": 697
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21,247",
+      "start": 49,
+      "end": 55
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 66,
+      "end": 71
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "637",
+      "start": 104,
+      "end": 107
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 66,
+      "end": 71
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "33",
+      "start": 133,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases in the last seven days",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 157,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,214",
+      "start": 281,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "COVID-19 cases from IDP camps",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 256,
+      "end": 261
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10.5 per cent",
+      "start": 288,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "percentage of COVID-19 cases from IDP camps",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 311,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,849",
+      "start": 318,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "COVID-19 cases from health care workers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 311,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8.7 per cent",
+      "start": 325,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "percentage of COVID-19 cases from health care workers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 311,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "869",
+      "start": 467,
+      "end": 470
+    },
+    "eventDescription": {
+      "text": "COVID-19 cases from other staff working in healthcare facilities/community health workers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 311,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4.1 per cent",
+      "start": 472,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "percentage of COVID-19 cases from other staff working in healthcare facilities/community health workers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 311,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "90,438",
+      "start": 618,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "samples tested",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "samples",
+      "start": 625,
+      "end": 632
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "23.4 per cent",
+      "start": 682,
+      "end": 695
+    },
+    "eventDescription": {
+      "text": "test positivity rate",
+      "start": 658,
+      "end": 678
+    },
+    "unit": {
+      "text": "samples",
+      "start": 625,
+      "end": 632
+    }
+  }
+]

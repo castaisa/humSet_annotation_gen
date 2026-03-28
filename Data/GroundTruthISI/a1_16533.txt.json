@@ -1,0 +1,71 @@
+[
+  {
+    "quantity": {
+      "text": "50 percent",
+      "begin": 45,
+      "end": 55
+    },
+    "eventDescription": {
+      "text": "reduction in civilian casualty incidents",
+      "begin": 56,
+      "end": 96
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "nearly",
+      "begin": 38,
+      "end": 44
+    },
+    "unit": {
+      "text": "reduction in civilian casualty incidents",
+      "begin": 56,
+      "end": 96
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,500",
+      "begin": 685,
+      "end": 690
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 671,
+      "end": 684
+    },
+    "unit": {
+      "text": "civilian casualties",
+      "begin": 691,
+      "end": 710
+    },
+    "eventDescription": {
+      "text": "civilian casualties",
+      "begin": 691,
+      "end": 710
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 760,
+      "end": 763
+    },
+    "eventDescription": {
+      "text": "with fighting damaging",
+      "begin": 724,
+      "end": 746
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "estimated",
+      "begin": 750,
+      "end": 759
+    },
+    "unit": {
+      "text": "civilian shelters",
+      "begin": 764,
+      "end": 781
+    }
+  }
+]

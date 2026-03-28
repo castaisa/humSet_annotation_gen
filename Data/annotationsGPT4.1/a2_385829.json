@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "2,000",
+    "unit": "SYL per litre",
+    "eventType": "EventO",
+    "eventDescription": "previous price of petrol (octane 95) distributed via smart card"
+  },
+  {
+    "quantity": "3000",
+    "unit": "SYL per litre",
+    "eventType": "EventO",
+    "eventDescription": "new price of petrol (octane 95) distributed via smart card"
+  },
+  {
+    "quantity": "over 100%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in prices of oil and bread",
+    "modifier": "over"
+  },
+  {
+    "quantity": "185",
+    "unit": "SYL per litre",
+    "eventType": "EventO",
+    "eventDescription": "previous price of oil"
+  },
+  {
+    "quantity": "500",
+    "unit": "SYL per litre",
+    "eventType": "EventO",
+    "eventDescription": "new price of oil"
+  },
+  {
+    "quantity": "100",
+    "unit": "SYL",
+    "eventType": "EventO",
+    "eventDescription": "previous price of a pack of bread"
+  },
+  {
+    "quantity": "200",
+    "unit": "SYL",
+    "eventType": "EventO",
+    "eventDescription": "new price of a pack of bread"
+  }
+]

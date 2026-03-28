@@ -1,0 +1,126 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "166",
+      "start": 84,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "selling price of bread",
+      "start": 38,
+      "end": 60
+    },
+    "unit": {
+      "text": "SYP per pack",
+      "start": 88,
+      "end": 100
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5 percent",
+      "start": 102,
+      "end": 111
+    },
+    "eventDescription": {
+      "text": "m-o-m increase",
+      "start": 112,
+      "end": 126
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "250",
+      "start": 219,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "selling price of bread",
+      "start": 176,
+      "end": 198
+    },
+    "unit": {
+      "text": "SYP per pack",
+      "start": 223,
+      "end": 235
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5 percent",
+      "start": 237,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "m-o-m decrease",
+      "start": 247,
+      "end": 261
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22 percent",
+      "start": 350,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "m-o-m increase",
+      "start": 361,
+      "end": 375
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "195",
+      "start": 451,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "selling price of bread",
+      "start": 419,
+      "end": 441
+    },
+    "unit": {
+      "text": "SYP per pack",
+      "start": 455,
+      "end": 467
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "160",
+      "start": 473,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "selling price of bread",
+      "start": 419,
+      "end": 441
+    },
+    "unit": {
+      "text": "SYP per pack",
+      "start": 477,
+      "end": 489
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18 percent",
+      "start": 528,
+      "end": 538
+    },
+    "eventDescription": {
+      "text": "m-om increase",
+      "start": 539,
+      "end": 552
+    }
+  }
+]

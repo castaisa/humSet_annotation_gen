@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "30",
+    "unit": "liters per day",
+    "eventType": "EventA",
+    "eventDescription": "water available per person"
+  },
+  {
+    "quantity": "35",
+    "unit": "liters per day",
+    "eventType": "EventA",
+    "eventDescription": "water available per person"
+  }
+]

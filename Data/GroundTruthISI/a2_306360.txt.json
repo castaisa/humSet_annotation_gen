@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "5,816",
+      "begin": 117,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 176,
+      "end": 184
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "unaccompanied children",
+      "begin": 123,
+      "end": 145
+    }
+  },
+  {
+    "quantity": {
+      "text": "16,240",
+      "begin": 150,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 176,
+      "end": 184
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "separated children",
+      "begin": 157,
+      "end": 175
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,500",
+      "begin": 193,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "a growing number of UASC has been reported",
+      "begin": 65,
+      "end": 107
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "UASC identified",
+      "begin": 199,
+      "end": 214
+    }
+  }
+]

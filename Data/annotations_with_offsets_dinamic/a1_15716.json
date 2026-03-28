@@ -1,0 +1,69 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "location name (Kilo 10)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 81,
+      "end": 83
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "location name (Kilo 16)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16",
+      "start": 90,
+      "end": 92
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "injured in an air attack",
+      "start": 380,
+      "end": 404
+    },
+    "quantity": {
+      "text": "11",
+      "start": 347,
+      "end": 349
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 350,
+      "end": 359
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 499,
+      "end": 505
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 469,
+      "end": 474
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 475,
+      "end": 484
+    }
+  }
+]

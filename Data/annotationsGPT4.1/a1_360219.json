@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "40 per cent",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "people had access to handwashing stations with soap and water"
+  },
+  {
+    "quantity": "36%",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "people had access to handwashing stations with soap and water"
+  },
+  {
+    "quantity": "24 per cent",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "about half of the people had access to water and soap"
+  },
+  {
+    "quantity": "about half",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "had access to water and soap",
+    "modifier": "about"
+  },
+  {
+    "quantity": "29%",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "about half of the people had access to water and soap"
+  },
+  {
+    "quantity": "16 per cent",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "only a few people had access"
+  },
+  {
+    "quantity": "17%",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "only a few people had access"
+  },
+  {
+    "quantity": "16 per cent",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "everyone had access to handwashing stations filled with water and soap"
+  },
+  {
+    "quantity": "17%",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "everyone had access to handwashing stations filled with water and soap"
+  },
+  {
+    "quantity": "3 per cent",
+    "unit": "locations",
+    "eventType": "EventP",
+    "eventDescription": "nobody in their community had access to water and soap"
+  }
+]

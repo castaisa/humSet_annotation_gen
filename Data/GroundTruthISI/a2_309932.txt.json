@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 90,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "PoEs",
+      "begin": 93,
+      "end": 97
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 154,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "most common type of PoE reported",
+      "begin": 103,
+      "end": 135
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "land borders",
+      "begin": 140,
+      "end": 152
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 181,
+      "end": 182
+    },
+    "eventDescription": {
+      "text": "most common type of PoE reported",
+      "begin": 103,
+      "end": 135
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "airports",
+      "begin": 171,
+      "end": 179
+    }
+  },
+  {
+    "quantity": {
+      "text": "(3",
+      "begin": 201,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "most common type of PoE reported",
+      "begin": 103,
+      "end": 135
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "blue borders",
+      "begin": 188,
+      "end": 200
+    }
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 407,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "umber of assessed PoEs in Bangladesh increased",
+      "begin": 355,
+      "end": 401
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "PoEs",
+      "begin": 417,
+      "end": 421
+    }
+  },
+  {
+    "quantity": {
+      "text": "231",
+      "begin": 413,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "umber of assessed PoEs in Bangladesh increased",
+      "begin": 355,
+      "end": 401
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "PoEs",
+      "begin": 417,
+      "end": 421
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 566,
+      "end": 568
+    },
+    "unit": {
+      "text": "PoEs",
+      "begin": 569,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "were fully operational",
+      "begin": 574,
+      "end": 596
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 598,
+      "end": 602
+    },
+    "unit": {
+      "text": "PoEs",
+      "begin": 569,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "were partially operational",
+      "begin": 603,
+      "end": 629
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 631,
+      "end": 636
+    },
+    "unit": {
+      "text": "PoEs",
+      "begin": 569,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "were fully closed",
+      "begin": 637,
+      "end": 654
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 659,
+      "end": 662
+    },
+    "unit": {
+      "text": "PoEs",
+      "begin": 569,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "was unknown",
+      "begin": 663,
+      "end": 674
+    },
+    "eventType": "EventO"
+  }
+]

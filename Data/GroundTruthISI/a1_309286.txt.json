@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "400",
+      "begin": 99,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "fire outbreak was recorded",
+      "begin": 69,
+      "end": 95
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Housing Estate Camp",
+      "begin": 103,
+      "end": 122
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 214,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "destroyed belongings and food",
+      "begin": 181,
+      "end": 210
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDP households",
+      "begin": 216,
+      "end": 230
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 262,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "fully destroyed",
+      "begin": 246,
+      "end": 261
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "solid structure",
+      "begin": 264,
+      "end": 279
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 284,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "fully destroyed",
+      "begin": 246,
+      "end": 261
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "makeshift shelter",
+      "begin": 286,
+      "end": 303
+    }
+  },
+  {
+    "quantity": {
+      "text": "48",
+      "begin": 341,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "affecting",
+      "begin": 320,
+      "end": 329
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "individuals",
+      "begin": 344,
+      "end": 355
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 359,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "affecting",
+      "begin": 320,
+      "end": 329
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 361,
+      "end": 371
+    }
+  },
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 406,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 377,
+      "end": 385
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children",
+      "begin": 409,
+      "end": 417
+    }
+  },
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 419,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 377,
+      "end": 385
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "women",
+      "begin": 422,
+      "end": 427
+    }
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 432,
+      "end": 434
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 377,
+      "end": 385
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "men",
+      "begin": 435,
+      "end": 438
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 446,
+      "end": 447
+    },
+    "unit": {
+      "text": "livestock",
+      "begin": 448,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 463,
+      "end": 469
+    },
+    "eventType": "EventO"
+  }
+]

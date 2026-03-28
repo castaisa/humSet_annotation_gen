@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5",
+      "start": 561,
+      "end": 562
+    },
+    "eventDescription": {
+      "text": "fatalities to children under",
+      "start": 532,
+      "end": 560
+    },
+    "unit": {
+      "text": "children",
+      "start": 546,
+      "end": 554
+    }
+  }
+]

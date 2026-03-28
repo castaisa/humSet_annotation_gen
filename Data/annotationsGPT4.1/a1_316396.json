@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "one in five",
+    "unit": "jobs in private businesses",
+    "eventType": "EventP",
+    "eventDescription": "provided by NGOs",
+    "modifier": "about"
+  },
+  {
+    "quantity": "three in four",
+    "unit": "NGOs",
+    "eventType": "EventO",
+    "eventDescription": "said their level of activity had decreased"
+  },
+  {
+    "quantity": "76%",
+    "unit": "NGOs",
+    "eventType": "EventO",
+    "eventDescription": "said their level of activity had decreased"
+  },
+  {
+    "quantity": "one in five",
+    "unit": "NGOs",
+    "eventType": "EventO",
+    "eventDescription": "said activity had declined by more than half"
+  },
+  {
+    "quantity": "21%",
+    "unit": "NGOs",
+    "eventType": "EventO",
+    "eventDescription": "said activity had declined by more than half"
+  },
+  {
+    "quantity": "5%",
+    "unit": "NGOs",
+    "eventType": "EventO",
+    "eventDescription": "said activity had stayed the same"
+  },
+  {
+    "quantity": "18%",
+    "unit": "NGOs",
+    "eventType": "EventO",
+    "eventDescription": "reported an increase in activity"
+  },
+  {
+    "quantity": "87%",
+    "unit": "NGOs",
+    "eventType": "EventP",
+    "eventDescription": "were unlikely to have moved any staff"
+  },
+  {
+    "quantity": "2%",
+    "unit": "NGOs",
+    "eventType": "EventP",
+    "eventDescription": "said they had moved half or more of their staff"
+  }
+]

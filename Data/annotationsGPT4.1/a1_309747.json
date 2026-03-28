@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "2019",
+    "unit": "",
+    "eventType": "",
+    "eventDescription": ""
+  },
+  {
+    "quantity": "2020",
+    "unit": "",
+    "eventType": "",
+    "eventDescription": ""
+  },
+  {
+    "quantity": "3",
+    "unit": "Phase",
+    "eventType": "EventO",
+    "eventDescription": "classified as IPC AMN Phase"
+  },
+  {
+    "quantity": "9",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "classified as IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "4",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "in Jonglei State"
+  },
+  {
+    "quantity": "1",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "in Jonglei State"
+  },
+  {
+    "quantity": "3",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "in Unity State"
+  },
+  {
+    "quantity": "1",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "in Lakes State"
+  },
+  {
+    "quantity": "2",
+    "unit": "Phase",
+    "eventType": "EventO",
+    "eventDescription": "deteriorated to IPC AMN Phase"
+  }
+]

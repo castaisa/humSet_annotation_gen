@@ -1,0 +1,116 @@
+[
+  {
+    "quantity": {
+      "text": "24,300",
+      "begin": 133,
+      "end": 139
+    },
+    "unit": {
+      "text": "households",
+      "begin": 140,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "16,000",
+      "begin": 166,
+      "end": 172
+    },
+    "unit": {
+      "text": "households",
+      "begin": 173,
+      "end": 183
+    }
+  },
+  {
+    "quantity": {
+      "text": "7,468",
+      "begin": 202,
+      "end": 207
+    },
+    "unit": {
+      "text": "households",
+      "begin": 216,
+      "end": 226
+    },
+    "eventDescription": {
+      "text": "received cash",
+      "begin": 227,
+      "end": 240
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "3,600",
+      "begin": 302,
+      "end": 307
+    },
+    "unit": {
+      "text": "metric tonnes",
+      "begin": 308,
+      "end": 321
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "begin": 350,
+      "end": 359
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "30,000",
+      "begin": 363,
+      "end": 369
+    },
+    "unit": {
+      "text": "households",
+      "begin": 370,
+      "end": 380
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,450",
+      "begin": 387,
+      "end": 392
+    },
+    "unit": {
+      "text": "households",
+      "begin": 393,
+      "end": 403
+    }
+  },
+  {
+    "quantity": {
+      "text": "50.4 million",
+      "begin": 475,
+      "end": 487
+    },
+    "eventDescription": {
+      "text": "FAO has received",
+      "begin": 455,
+      "end": 471
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 472,
+      "end": 475
+    }
+  },
+  {
+    "quantity": {
+      "text": "57 million",
+      "begin": 598,
+      "end": 608
+    },
+    "unit": {
+      "text": "$",
+      "begin": 597,
+      "end": 598
+    }
+  }
+]

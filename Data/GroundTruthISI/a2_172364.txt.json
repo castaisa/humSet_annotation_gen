@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": {
+      "text": "35 per cent",
+      "begin": 143,
+      "end": 154
+    },
+    "unit": {
+      "text": "HCWs",
+      "begin": 179,
+      "end": 183
+    }
+  },
+  {
+    "quantity": {
+      "text": "(25)",
+      "begin": 155,
+      "end": 159
+    },
+    "unit": {
+      "text": "HCWs",
+      "begin": 179,
+      "end": 183
+    }
+  }
+]

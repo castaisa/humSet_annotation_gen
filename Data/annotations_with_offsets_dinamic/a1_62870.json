@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "budget for responding to the crisis",
+      "start": 493,
+      "end": 528
+    },
+    "quantity": {
+      "text": "9 million",
+      "start": 554,
+      "end": 563
+    },
+    "unit": {
+      "text": "CHF",
+      "start": 564,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "budget for responding to the crisis",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "19 million",
+      "start": 571,
+      "end": 581
+    },
+    "unit": {
+      "text": "CHF",
+      "start": 582,
+      "end": 585
+    }
+  }
+]

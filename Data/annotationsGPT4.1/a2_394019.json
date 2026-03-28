@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "over 200",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "reported daily",
+    "modifier": "over"
+  },
+  {
+    "quantity": "2,286",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "reported in July"
+  },
+  {
+    "quantity": "101,354",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "recorded in 2019"
+  },
+  {
+    "quantity": "179",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "recorded in 2019"
+  },
+  {
+    "quantity": "50,974",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "infected with dengue in August 2019"
+  },
+  {
+    "quantity": "50,166",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "recorded in the previous 18 years"
+  },
+  {
+    "quantity": "18",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "period from 2000 to 2018"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "quantity": "21",
+    "unit": "suspected Cerebrospinal Meningitis (CSM) cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases reported"
+  },
+  {
+    "quantity": "one",
+    "unit": "laboratory confirmed",
+    "eventType": "EventP",
+    "eventDescription": "laboratory confirmed case"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "death"
+  },
+  {
+    "quantity": "4.8%",
+    "unit": "CFR",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate"
+  },
+  {
+    "quantity": "14",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "LGAs reported"
+  },
+  {
+    "quantity": "nine",
+    "unit": "States",
+    "eventType": "EventO",
+    "eventDescription": "States reported"
+  },
+  {
+    "quantity": "1",
+    "unit": "Ebonyi",
+    "eventType": "EventO",
+    "eventDescription": "cases in Ebonyi"
+  },
+  {
+    "quantity": "1",
+    "unit": "Gombe",
+    "eventType": "EventO",
+    "eventDescription": "cases in Gombe"
+  },
+  {
+    "quantity": "2",
+    "unit": "Kaduna",
+    "eventType": "EventO",
+    "eventDescription": "cases in Kaduna"
+  },
+  {
+    "quantity": "4",
+    "unit": "Katsina",
+    "eventType": "EventO",
+    "eventDescription": "cases in Katsina"
+  },
+  {
+    "quantity": "6",
+    "unit": "Kebbi",
+    "eventType": "EventO",
+    "eventDescription": "cases in Kebbi"
+  },
+  {
+    "quantity": "2",
+    "unit": "Ondo",
+    "eventType": "EventO",
+    "eventDescription": "cases in Ondo"
+  },
+  {
+    "quantity": "1",
+    "unit": "Sokoto",
+    "eventType": "EventO",
+    "eventDescription": "cases in Sokoto"
+  },
+  {
+    "quantity": "1",
+    "unit": "Taraba",
+    "eventType": "EventO",
+    "eventDescription": "cases in Taraba"
+  },
+  {
+    "quantity": "3",
+    "unit": "Zamfara",
+    "eventType": "EventO",
+    "eventDescription": "cases in Zamfara"
+  },
+  {
+    "quantity": "87",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases reported"
+  },
+  {
+    "quantity": "three",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "3.4%",
+    "unit": "CFR",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate"
+  },
+  {
+    "quantity": "41",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "LGAs reported"
+  },
+  {
+    "quantity": "16",
+    "unit": "States",
+    "eventType": "EventO",
+    "eventDescription": "States reported"
+  },
+  {
+    "quantity": "173",
+    "unit": "suspected meningitis cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases reported"
+  },
+  {
+    "quantity": "nine",
+    "unit": "laboratory confirmed",
+    "eventType": "EventP",
+    "eventDescription": "laboratory confirmed cases"
+  },
+  {
+    "quantity": "eight",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "4.62%",
+    "unit": "CFR",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate"
+  },
+  {
+    "quantity": "75",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "LGAs reported"
+  },
+  {
+    "quantity": "20",
+    "unit": "States",
+    "eventType": "EventO",
+    "eventDescription": "States reported"
+  },
+  {
+    "quantity": "557",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases reported"
+  },
+  {
+    "quantity": "71",
+    "unit": "Laboratory confirmed",
+    "eventType": "EventP",
+    "eventDescription": "laboratory confirmed cases"
+  },
+  {
+    "quantity": "37",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "6.64%",
+    "unit": "CFR",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate"
+  },
+  {
+    "quantity": "122",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "LGAs reported"
+  },
+  {
+    "quantity": "24",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "states reported"
+  }
+]

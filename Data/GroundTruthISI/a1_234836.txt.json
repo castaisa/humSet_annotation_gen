@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "61 per cent",
+      "begin": 442,
+      "end": 453
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "begin": 461,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "comprise physical assault",
+      "begin": 475,
+      "end": 500
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13 per cent",
+      "begin": 502,
+      "end": 513
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "begin": 461,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "rape",
+      "begin": 514,
+      "end": 518
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12 per cent",
+      "begin": 520,
+      "end": 531
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "begin": 461,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "sexual assault",
+      "begin": 532,
+      "end": 546
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6 per cent",
+      "begin": 548,
+      "end": 558
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "begin": 461,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "psychological/emotional abuse",
+      "begin": 559,
+      "end": 588
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5 per cent",
+      "begin": 590,
+      "end": 600
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "begin": 461,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "experienced denial of resources",
+      "begin": 601,
+      "end": 632
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3 per cent",
+      "begin": 637,
+      "end": 647
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "begin": 461,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "forced/early marriage",
+      "begin": 648,
+      "end": 669
+    },
+    "eventType": "EventP"
+  }
+]

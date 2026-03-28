@@ -1,0 +1,187 @@
+[
+  {
+    "quantity": {
+      "text": "55 percent",
+      "begin": 512,
+      "end": 522
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 505,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "primarily used for livestock grazing",
+      "begin": 542,
+      "end": 578
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40 percent",
+      "begin": 780,
+      "end": 790
+    },
+    "eventDescription": {
+      "text": "wheat grain is cultivated",
+      "begin": 794,
+      "end": 819
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 932,
+      "end": 942
+    },
+    "eventDescription": {
+      "text": "wheat grain is cultivated",
+      "begin": 794,
+      "end": 819
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2.2 million",
+      "begin": 1392,
+      "end": 1403
+    },
+    "eventDescription": {
+      "text": "wheat production",
+      "begin": 1371,
+      "end": 1387
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tonnes",
+      "begin": 1404,
+      "end": 1410
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.5 million",
+      "begin": 1465,
+      "end": 1476
+    },
+    "eventDescription": {
+      "text": "wheat production",
+      "begin": 1371,
+      "end": 1387
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tonnes",
+      "begin": 1477,
+      "end": 1483
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.5 million",
+      "begin": 1494,
+      "end": 1505
+    },
+    "unit": {
+      "text": "tonnes",
+      "begin": 1506,
+      "end": 1512
+    },
+    "eventDescription": {
+      "text": "food use)",
+      "begin": 1520,
+      "end": 1529
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4.1 million",
+      "begin": 1544,
+      "end": 1555
+    },
+    "modifier": {
+      "text": "below",
+      "begin": 1534,
+      "end": 1539
+    },
+    "unit": {
+      "text": "tonnes",
+      "begin": 1556,
+      "end": 1562
+    }
+  },
+  {
+    "quantity": {
+      "text": "2.8 million",
+      "begin": 1690,
+      "end": 1701
+    },
+    "unit": {
+      "text": "tonnes",
+      "begin": 1702,
+      "end": 1708
+    }
+  },
+  {
+    "quantity": {
+      "text": "0.8 million",
+      "begin": 1726,
+      "end": 1737
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 1719,
+      "end": 1725
+    },
+    "unit": {
+      "text": "tonnes",
+      "begin": 1738,
+      "end": 1744
+    }
+  },
+  {
+    "quantity": {
+      "text": "50 percent",
+      "begin": 1855,
+      "end": 1865
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 1850,
+      "end": 1854
+    },
+    "unit": {
+      "text": "Syrians",
+      "begin": 1869,
+      "end": 1876
+    },
+    "eventDescription": {
+      "text": "living in urban areas",
+      "begin": 1897,
+      "end": 1918
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "89 percent",
+      "begin": 1998,
+      "end": 2008
+    },
+    "unit": {
+      "text": "Syrians",
+      "begin": 2012,
+      "end": 2019
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 2020,
+      "end": 2028
+    },
+    "eventType": "EventO"
+  }
+]

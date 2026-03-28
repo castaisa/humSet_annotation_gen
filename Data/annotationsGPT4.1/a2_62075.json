@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "more than 60 percent",
+    "unit": "food production",
+    "eventType": "EventO",
+    "eventDescription": "decreased",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "a quarter",
+    "unit": "national demand",
+    "eventType": "EventO",
+    "eventDescription": "satisfied"
+  },
+  {
+    "quantity": "eleven",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "declining steadily"
+  },
+  {
+    "quantity": "70 percent",
+    "unit": "food imports",
+    "eventType": "EventO",
+    "eventDescription": "fell"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "food insecure"
+  }
+]

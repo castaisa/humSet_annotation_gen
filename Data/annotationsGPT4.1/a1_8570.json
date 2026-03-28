@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "13",
+    "unit": "donors",
+    "eventType": "EventA",
+    "eventDescription": "contributed"
+  },
+  {
+    "quantity": "US$ 51.7 million",
+    "unit": "donation",
+    "eventType": "EventA",
+    "eventDescription": "reached"
+  }
+]

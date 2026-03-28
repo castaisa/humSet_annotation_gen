@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "28, 751",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "received outpatient care"
+  },
+  {
+    "quantity": "11, 841",
+    "unit": "M",
+    "eventType": "EventP",
+    "eventDescription": "received outpatient care"
+  },
+  {
+    "quantity": "16, 910",
+    "unit": "F",
+    "eventType": "EventP",
+    "eventDescription": "received outpatient care"
+  },
+  {
+    "quantity": "5, 628",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with sexual and reproductive health services"
+  },
+  {
+    "quantity": "346",
+    "unit": "M",
+    "eventType": "EventP",
+    "eventDescription": "reached with sexual and reproductive health services"
+  },
+  {
+    "quantity": "5, 282",
+    "unit": "F",
+    "eventType": "EventP",
+    "eventDescription": "reached with sexual and reproductive health services"
+  },
+  {
+    "quantity": "20, 785",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with Health promotion services"
+  },
+  {
+    "quantity": "7, 809",
+    "unit": "M",
+    "eventType": "EventP",
+    "eventDescription": "reached with Health promotion services"
+  },
+  {
+    "quantity": "12, 976",
+    "unit": "F",
+    "eventType": "EventP",
+    "eventDescription": "reached with Health promotion services"
+  },
+  {
+    "quantity": "64",
+    "unit": "MOH staff",
+    "eventType": "EventP",
+    "eventDescription": "trained on COVID-19 vaccination and IPC measures"
+  },
+  {
+    "quantity": "49",
+    "unit": "M",
+    "eventType": "EventP",
+    "eventDescription": "trained on COVID-19 vaccination and IPC measures"
+  },
+  {
+    "quantity": "15",
+    "unit": "F",
+    "eventType": "EventP",
+    "eventDescription": "trained on COVID-19 vaccination and IPC measures"
+  }
+]

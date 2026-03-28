@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": "30%",
+    "unit": "of the population",
+    "eventType": "EventP",
+    "eventDescription": "in poverty"
+  },
+  {
+    "quantity": "24%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "in poverty"
+  },
+  {
+    "quantity": "11%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "in extreme poverty"
+  },
+  {
+    "quantity": "7%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "in extreme poverty"
+  },
+  {
+    "quantity": "39%",
+    "unit": "of its workers",
+    "eventType": "EventP",
+    "eventDescription": "covered in social security"
+  },
+  {
+    "quantity": "42%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "covered in social security"
+  },
+  {
+    "quantity": "over 98%",
+    "unit": "of households",
+    "eventType": "EventP",
+    "eventDescription": "with access to electricity",
+    "modifier": "over"
+  },
+  {
+    "quantity": "86%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "with access to water"
+  },
+  {
+    "quantity": "90%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "with access to water"
+  },
+  {
+    "quantity": "half",
+    "unit": "of households",
+    "eventType": "EventP",
+    "eventDescription": "with access to internet"
+  },
+  {
+    "quantity": "37%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "with access to internet"
+  },
+  {
+    "quantity": "36%",
+    "unit": "of the urban population",
+    "eventType": "EventP",
+    "eventDescription": "lives in slums"
+  },
+  {
+    "quantity": "13%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "lives in slums"
+  }
+]

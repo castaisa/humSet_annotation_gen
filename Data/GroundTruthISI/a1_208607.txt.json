@@ -1,0 +1,151 @@
+[
+  {
+    "quantity": {
+      "text": "75 percent",
+      "begin": 69,
+      "end": 79
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 62,
+      "end": 68
+    },
+    "unit": {
+      "text": "households",
+      "begin": 83,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "no regular access to markets have poor and borderline food consumption",
+      "begin": 99,
+      "end": 169
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23 percent",
+      "begin": 186,
+      "end": 196
+    },
+    "unit": {
+      "text": "households",
+      "begin": 83,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "no regular access to markets have poor and borderline food consumption",
+      "begin": 99,
+      "end": 169
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "83 percent",
+      "begin": 248,
+      "end": 258
+    },
+    "unit": {
+      "text": "households",
+      "begin": 83,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "no regular access to markets have poor and borderline food consumption",
+      "begin": 99,
+      "end": 169
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "77 percent",
+      "begin": 319,
+      "end": 329
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 333,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "reported medical healthcare inaccessibility",
+      "begin": 349,
+      "end": 392
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 456,
+      "end": 466
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 333,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "reported medical healthcare inaccessibility",
+      "begin": 349,
+      "end": 392
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.3 percent",
+      "begin": 526,
+      "end": 537
+    },
+    "unit": {
+      "text": "households",
+      "begin": 550,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "reported difficulties receiving remittances and/or food assistance",
+      "begin": 561,
+      "end": 627
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "six percent",
+      "begin": 720,
+      "end": 731
+    },
+    "eventDescription": {
+      "text": "reported difficulties receiving remittances and/or food assistance",
+      "begin": 561,
+      "end": 627
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "male-headed households",
+      "begin": 696,
+      "end": 718
+    }
+  },
+  {
+    "quantity": {
+      "text": "two percent",
+      "begin": 745,
+      "end": 756
+    },
+    "eventDescription": {
+      "text": "reported difficulties receiving remittances and/or food assistance",
+      "begin": 561,
+      "end": 627
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "femaleheaded households",
+      "begin": 760,
+      "end": 783
+    }
+  }
+]

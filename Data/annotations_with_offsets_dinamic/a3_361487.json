@@ -1,0 +1,120 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "damaged or destroyed",
+      "start": 166,
+      "end": 186
+    },
+    "quantity": {
+      "text": "40 per cent",
+      "start": 105,
+      "end": 116
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 120,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "closed",
+      "start": 364,
+      "end": 370
+    },
+    "quantity": {
+      "text": "935",
+      "start": 352,
+      "end": 355
+    },
+    "unit": {
+      "text": "schools",
+      "start": 356,
+      "end": 363
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "out of school",
+      "start": 427,
+      "end": 440
+    },
+    "modifier": {
+      "text": "over",
+      "start": 372,
+      "end": 376
+    },
+    "quantity": {
+      "text": "over 1.4 million",
+      "start": 372,
+      "end": 388
+    },
+    "unit": {
+      "text": "girls",
+      "start": 389,
+      "end": 394
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "out of school",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 399,
+      "end": 405
+    },
+    "quantity": {
+      "text": "nearly 1.3 million",
+      "start": 399,
+      "end": 417
+    },
+    "unit": {
+      "text": "boys",
+      "start": 418,
+      "end": 422
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "mobilized",
+      "start": 726,
+      "end": 735
+    },
+    "quantity": {
+      "text": "$622.5 million",
+      "start": 736,
+      "end": 750
+    },
+    "unit": {
+      "text": "funds",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "met",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "58 per cent",
+      "start": 761,
+      "end": 772
+    },
+    "unit": {
+      "text": "HRP requirements",
+      "start": 776,
+      "end": 792
+    }
+  }
+]

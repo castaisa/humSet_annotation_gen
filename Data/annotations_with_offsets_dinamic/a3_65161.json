@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "providing direct emergency assistance",
+      "start": 32,
+      "end": 69
+    },
+    "quantity": {
+      "text": "13",
+      "start": 11,
+      "end": 13
+    },
+    "unit": {
+      "text": "organizations",
+      "start": 14,
+      "end": 27
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "average arrivals in May",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,800",
+      "start": 612,
+      "end": 617
+    },
+    "unit": {
+      "text": "arrivals",
+      "start": 296,
+      "end": 304
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arrivals before the introduction of the humanitarian visa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,000",
+      "start": 628,
+      "end": 633
+    },
+    "unit": {
+      "text": "arrivals",
+      "start": 718,
+      "end": 726
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "peak arrivals on 14 June",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 702,
+      "end": 711
+    },
+    "quantity": {
+      "text": "more than 8,000",
+      "start": 702,
+      "end": 717
+    },
+    "unit": {
+      "text": "arrivals",
+      "start": 767,
+      "end": 775
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "average arrivals in the last seven days of the month",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "less than",
+      "start": 871,
+      "end": 880
+    },
+    "quantity": {
+      "text": "less than 400",
+      "start": 871,
+      "end": 884
+    },
+    "unit": {
+      "text": "arrivals per day",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "involved in the response",
+      "start": 1073,
+      "end": 1097
+    },
+    "quantity": {
+      "text": "17",
+      "start": 1004,
+      "end": 1006
+    },
+    "unit": {
+      "text": "humanitarian organizations",
+      "start": 1007,
+      "end": 1033
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "involved in the response",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 1038,
+      "end": 1043
+    },
+    "unit": {
+      "text": "government institutions",
+      "start": 1044,
+      "end": 1067
+    }
+  }
+]

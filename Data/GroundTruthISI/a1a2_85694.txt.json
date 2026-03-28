@@ -1,0 +1,65 @@
+[
+  {
+    "quantity": {
+      "text": "1,000",
+      "begin": 623,
+      "end": 628
+    },
+    "modifier": {
+      "text": "Approximately",
+      "begin": 609,
+      "end": 622
+    },
+    "unit": {
+      "text": "Warao indigenous community members",
+      "begin": 629,
+      "end": 663
+    },
+    "eventDescription": {
+      "text": "have arrived",
+      "begin": 664,
+      "end": 676
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 842,
+      "end": 845
+    },
+    "eventDescription": {
+      "text": "Some of them still travel regularly",
+      "begin": 794,
+      "end": 829
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "between",
+      "begin": 830,
+      "end": 837
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 846,
+      "end": 855
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 1516,
+      "end": 1517
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 1511,
+      "end": 1515
+    },
+    "unit": {
+      "text": "months",
+      "begin": 1518,
+      "end": 1524
+    }
+  }
+]

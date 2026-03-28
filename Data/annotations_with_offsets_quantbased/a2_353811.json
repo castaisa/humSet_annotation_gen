@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18.2 percent",
+      "start": 206,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "headline inflation",
+      "start": 162,
+      "end": 180
+    },
+    "unit": {
+      "text": "percent",
+      "start": 211,
+      "end": 218
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18.12 percent",
+      "start": 244,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "headline inflation",
+      "start": 162,
+      "end": 180
+    },
+    "unit": {
+      "text": "percent",
+      "start": 250,
+      "end": 257
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10-year",
+      "start": 357,
+      "end": 364
+    },
+    "eventDescription": {
+      "text": "global food prices high",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "year",
+      "start": 360,
+      "end": 364
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4.8 percent",
+      "start": 373,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "global food prices",
+      "start": 329,
+      "end": 347
+    },
+    "unit": {
+      "text": "percent",
+      "start": 377,
+      "end": 384
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24.15 percent",
+      "start": 590,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "food inflation",
+      "start": 551,
+      "end": 565
+    },
+    "unit": {
+      "text": "percent",
+      "start": 596,
+      "end": 603
+    }
+  }
+]

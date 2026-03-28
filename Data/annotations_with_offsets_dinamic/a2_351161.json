@@ -1,0 +1,152 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average selling price of fungicides",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "51 960",
+      "start": 126,
+      "end": 132
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 133,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price of fungicides in Dará",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "90 000",
+      "start": 256,
+      "end": 262
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 263,
+      "end": 273
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m increase in fungicide price in Dará",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "80 percent",
+      "start": 275,
+      "end": 285
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "number of governorates with decrease in fungicide price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 379,
+      "end": 382
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 383,
+      "end": 395
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in Hasakeh",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15 percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13 percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in Homs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12 percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in Tartous",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11 percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in Hama",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8 percent",
+      "start": 464,
+      "end": 473
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average selling price for fungicides in Rural Damascus",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "55 000",
+      "start": 584,
+      "end": 590
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 591,
+      "end": 601
+    }
+  }
+]

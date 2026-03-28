@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "10",
+    "unit": "Nigerian soldiers",
+    "eventType": "EventP",
+    "eventDescription": "death"
+  },
+  {
+    "quantity": "about 9",
+    "unit": "others",
+    "eventType": "EventP",
+    "eventDescription": "seriously injured",
+    "modifier": "about"
+  }
+]

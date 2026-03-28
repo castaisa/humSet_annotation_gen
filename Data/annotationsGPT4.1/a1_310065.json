@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "one out of three",
+    "unit": "host community households",
+    "eventType": "EventP",
+    "eventDescription": "classed as less vulnerable"
+  },
+  {
+    "quantity": "22 percent",
+    "unit": "host population",
+    "eventType": "EventP",
+    "eventDescription": "falling into the moderately vulnerable group"
+  },
+  {
+    "quantity": "13 percent",
+    "unit": "population",
+    "eventType": "EventP",
+    "eventDescription": "transitioning to the less vulnerable category"
+  }
+]

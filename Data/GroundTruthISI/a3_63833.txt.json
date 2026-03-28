@@ -1,0 +1,543 @@
+[
+  {
+    "quantity": {
+      "text": "23,188",
+      "begin": 55,
+      "end": 61
+    },
+    "eventDescription": {
+      "text": "screened",
+      "begin": 46,
+      "end": 54
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children under five",
+      "begin": 62,
+      "end": 81
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 77,
+      "end": 81
+    },
+    "unit": {
+      "text": "children",
+      "begin": 62,
+      "end": 70
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 71,
+      "end": 76
+    }
+  },
+  {
+    "quantity": {
+      "text": "231",
+      "begin": 94,
+      "end": 97
+    },
+    "unit": {
+      "text": "children",
+      "begin": 98,
+      "end": 106
+    },
+    "eventDescription": {
+      "text": "identified with acute malnutrition without complications were treated using the CMAM approach",
+      "begin": 107,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6,795",
+      "begin": 817,
+      "end": 822
+    },
+    "unit": {
+      "text": "children between 6 and 59 months and pregnant and lactating women (PLW)",
+      "begin": 823,
+      "end": 894
+    },
+    "eventDescription": {
+      "text": "received deworming treatment",
+      "begin": 895,
+      "end": 923
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "59",
+      "begin": 846,
+      "end": 848
+    },
+    "unit": {
+      "text": "months",
+      "begin": 849,
+      "end": 855
+    }
+  },
+  {
+    "quantity": {
+      "text": "6 and 59",
+      "begin": 840,
+      "end": 848
+    },
+    "unit": {
+      "text": "months",
+      "begin": 849,
+      "end": 855
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 840,
+      "end": 841
+    },
+    "unit": {
+      "text": "months",
+      "begin": 849,
+      "end": 855
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,250",
+      "begin": 925,
+      "end": 930
+    },
+    "unit": {
+      "text": "children under five and PLW",
+      "begin": 931,
+      "end": 958
+    },
+    "eventDescription": {
+      "text": "received micronutrient supplementation",
+      "begin": 959,
+      "end": 997
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 946,
+      "end": 950
+    },
+    "unit": {
+      "text": "children",
+      "begin": 931,
+      "end": 939
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 940,
+      "end": 945
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,571",
+      "begin": 1003,
+      "end": 1008
+    },
+    "unit": {
+      "text": "children",
+      "begin": 1009,
+      "end": 1017
+    },
+    "eventDescription": {
+      "text": "received nutrition supplementation to prevent acute malnutrition.",
+      "begin": 1018,
+      "end": 1083
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 1173,
+      "end": 1175
+    },
+    "eventDescription": {
+      "text": "capacity building support",
+      "begin": 1109,
+      "end": 1134
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "states",
+      "begin": 1176,
+      "end": 1182
+    }
+  },
+  {
+    "quantity": {
+      "text": "475",
+      "begin": 1184,
+      "end": 1187
+    },
+    "unit": {
+      "text": "health professionals",
+      "begin": 1188,
+      "end": 1208
+    },
+    "eventDescription": {
+      "text": "participated in 13 UNICEF supported nutrition training workshops",
+      "begin": 1209,
+      "end": 1273
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "47",
+      "begin": 1405,
+      "end": 1407
+    },
+    "eventDescription": {
+      "text": "trained health professionals",
+      "begin": 1367,
+      "end": 1395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "doctors",
+      "begin": 1408,
+      "end": 1415
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 1417,
+      "end": 1419
+    },
+    "eventDescription": {
+      "text": "trained health professionals",
+      "begin": 1367,
+      "end": 1395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "paediatricians",
+      "begin": 1420,
+      "end": 1434
+    }
+  },
+  {
+    "quantity": {
+      "text": "123",
+      "begin": 1436,
+      "end": 1439
+    },
+    "eventDescription": {
+      "text": "trained health professionals",
+      "begin": 1367,
+      "end": 1395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "nurses",
+      "begin": 1440,
+      "end": 1446
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 1448,
+      "end": 1453
+    },
+    "eventDescription": {
+      "text": "trained health professionals",
+      "begin": 1367,
+      "end": 1395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "nutritionists and dietitians",
+      "begin": 1454,
+      "end": 1482
+    }
+  },
+  {
+    "quantity": {
+      "text": "287",
+      "begin": 1488,
+      "end": 1491
+    },
+    "eventDescription": {
+      "text": "trained health professionals",
+      "begin": 1367,
+      "end": 1395
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "health technicians, volunteers and social workers.",
+      "begin": 1492,
+      "end": 1542
+    }
+  },
+  {
+    "quantity": {
+      "text": "38",
+      "begin": 1946,
+      "end": 1948
+    },
+    "unit": {
+      "text": "health professionals",
+      "begin": 1949,
+      "end": 1969
+    },
+    "eventDescription": {
+      "text": "participated in a training workshop",
+      "begin": 2033,
+      "end": 2068
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 1984,
+      "end": 1986
+    },
+    "unit": {
+      "text": "government health institutions",
+      "begin": 1987,
+      "end": 2017
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 2021,
+      "end": 2023
+    },
+    "unit": {
+      "text": "states",
+      "begin": 2024,
+      "end": 2030
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 2309,
+      "end": 2310
+    },
+    "unit": {
+      "text": "Children",
+      "begin": 2294,
+      "end": 2302
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 2303,
+      "end": 2308
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 2446,
+      "end": 2449
+    },
+    "eventDescription": {
+      "text": "expected that these trained health professionals replicate the training sessions",
+      "begin": 2361,
+      "end": 2441
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "health workers",
+      "begin": 2450,
+      "end": 2464
+    }
+  },
+  {
+    "quantity": {
+      "text": "143,794",
+      "begin": 2691,
+      "end": 2698
+    },
+    "eventDescription": {
+      "text": "provide nutritional assistance",
+      "begin": 2657,
+      "end": 2687
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children under five and PLW",
+      "begin": 2699,
+      "end": 2726
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 2714,
+      "end": 2718
+    },
+    "unit": {
+      "text": "children",
+      "begin": 2699,
+      "end": 2707
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 2708,
+      "end": 2713
+    }
+  },
+  {
+    "quantity": {
+      "text": "132,000",
+      "begin": 2973,
+      "end": 2980
+    },
+    "eventDescription": {
+      "text": "Supplies delivered will support the micronutrient supplementation",
+      "begin": 2904,
+      "end": 2969
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children under five",
+      "begin": 2981,
+      "end": 3000
+    }
+  },
+  {
+    "quantity": {
+      "text": "11,380",
+      "begin": 3005,
+      "end": 3011
+    },
+    "eventDescription": {
+      "text": "Supplies delivered will support the micronutrient supplementation",
+      "begin": 2904,
+      "end": 2969
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "PLW",
+      "begin": 3012,
+      "end": 3015
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 2996,
+      "end": 3000
+    },
+    "unit": {
+      "text": "children",
+      "begin": 2981,
+      "end": 2989
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 2990,
+      "end": 2995
+    }
+  },
+  {
+    "quantity": {
+      "text": "115,032",
+      "begin": 3030,
+      "end": 3037
+    },
+    "eventDescription": {
+      "text": "deworming",
+      "begin": 3017,
+      "end": 3026
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children between 24-59 months and PLW",
+      "begin": 3038,
+      "end": 3075
+    }
+  },
+  {
+    "quantity": {
+      "text": "59",
+      "begin": 3058,
+      "end": 3060
+    },
+    "unit": {
+      "text": "months",
+      "begin": 3061,
+      "end": 3067
+    }
+  },
+  {
+    "quantity": {
+      "text": "24-59",
+      "begin": 3055,
+      "end": 3060
+    },
+    "unit": {
+      "text": "months",
+      "begin": 3061,
+      "end": 3067
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 3055,
+      "end": 3057
+    },
+    "unit": {
+      "text": "months",
+      "begin": 3061,
+      "end": 3067
+    }
+  },
+  {
+    "quantity": {
+      "text": "23,000",
+      "begin": 3128,
+      "end": 3134
+    },
+    "eventDescription": {
+      "text": "preventive management of acute malnutrition",
+      "begin": 3081,
+      "end": 3124
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children at risk",
+      "begin": 3135,
+      "end": 3151
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,000",
+      "begin": 3170,
+      "end": 3175
+    },
+    "eventDescription": {
+      "text": "treatment",
+      "begin": 3157,
+      "end": 3166
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children with acute malnutrition without complications.",
+      "begin": 3176,
+      "end": 3231
+    }
+  }
+]

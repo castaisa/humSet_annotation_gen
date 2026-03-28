@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "1,772",
+    "unit": "Rohingyas",
+    "eventType": "EventP",
+    "eventDescription": "expected to travel to their new home in Bhashan Char"
+  },
+  {
+    "quantity": "1,645",
+    "unit": "Rohingyas",
+    "eventType": "EventP",
+    "eventDescription": "already living there"
+  },
+  {
+    "quantity": "more than 1,000",
+    "unit": "Rohingyas",
+    "eventType": "EventP",
+    "eventDescription": "to be transferred from the camps in Cox's Bazar to Bhashan Char",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "1,645",
+    "unit": "fellow citizens",
+    "eventType": "EventP",
+    "eventDescription": "relocated to the island"
+  },
+  {
+    "quantity": "1,642",
+    "unit": "Rohingyas",
+    "eventType": "EventP",
+    "eventDescription": "arrived in Bhashan Char on that day"
+  },
+  {
+    "quantity": "three",
+    "unit": "babies",
+    "eventType": "EventP",
+    "eventDescription": "were born"
+  }
+]

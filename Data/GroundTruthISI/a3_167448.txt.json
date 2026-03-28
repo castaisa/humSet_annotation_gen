@@ -1,0 +1,48 @@
+[
+  {
+    "quantity": {
+      "text": "300",
+      "begin": 223,
+      "end": 226
+    },
+    "modifier": {
+      "text": "Around",
+      "begin": 216,
+      "end": 222
+    },
+    "unit": {
+      "text": "migrant children under five years",
+      "begin": 227,
+      "end": 260
+    },
+    "eventDescription": {
+      "text": "screened for nutritional deficiencies",
+      "begin": 278,
+      "end": 315
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one quarter",
+      "begin": 334,
+      "end": 345
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 327,
+      "end": 333
+    },
+    "unit": {
+      "text": "migrants",
+      "begin": 349,
+      "end": 357
+    },
+    "eventDescription": {
+      "text": "not eating three times a day",
+      "begin": 363,
+      "end": 391
+    },
+    "eventType": "EventP"
+  }
+]

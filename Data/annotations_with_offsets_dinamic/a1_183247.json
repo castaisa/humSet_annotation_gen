@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "crossing daily through the Colchane border",
+      "start": 26,
+      "end": 68
+    },
+    "quantity": {
+      "text": "100",
+      "start": 15,
+      "end": 18
+    },
+    "unit": {
+      "text": "people",
+      "start": 19,
+      "end": 25
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are children among those crossing",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30%",
+      "start": 78,
+      "end": 81
+    },
+    "unit": {
+      "text": "children",
+      "start": 86,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "entering and counted due to self-reports",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "100",
+      "start": 253,
+      "end": 256
+    },
+    "unit": {
+      "text": "people",
+      "start": 153,
+      "end": 159
+    }
+  }
+]

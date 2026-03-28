@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "9 per cent",
+    "unit": "camps/camp-like settings",
+    "eventType": "EventP",
+    "eventDescription": "no children attending school"
+  },
+  {
+    "quantity": "6%",
+    "unit": "camps/camp-like settings",
+    "eventType": "EventP",
+    "eventDescription": "no children attending school"
+  },
+  {
+    "quantity": "39 per cent",
+    "unit": "camps/camp-like settings",
+    "eventType": "EventP",
+    "eventDescription": "less than 25 per cent of children attending school"
+  },
+  {
+    "quantity": "25%",
+    "unit": "camps/camp-like settings",
+    "eventType": "EventP",
+    "eventDescription": "less than 25 per cent of children attending school"
+  },
+  {
+    "quantity": "28 per cent",
+    "unit": "camps/camp-like settings",
+    "eventType": "EventP",
+    "eventDescription": "between 25 and 50 per cent of children attending school"
+  },
+  {
+    "quantity": "25",
+    "unit": "per cent",
+    "eventType": "EventP",
+    "eventDescription": "children attending school"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "attending school"
+  },
+  {
+    "quantity": "29%",
+    "unit": "camps/camp-like settings",
+    "eventType": "EventP",
+    "eventDescription": "between 25 and 50 per cent of children attending school"
+  },
+  {
+    "quantity": "3 per cent",
+    "unit": "camps/camp-like settings",
+    "eventType": "EventP",
+    "eventDescription": "more than 75 per cent of children attending school"
+  },
+  {
+    "quantity": "75 per cent",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "attending school",
+    "modifier": "more than"
+  }
+]

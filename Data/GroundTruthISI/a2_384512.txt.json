@@ -1,0 +1,112 @@
+[
+  {
+    "quantity": {
+      "text": "70 per cent",
+      "begin": 131,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "Piped water was the main source of water",
+      "begin": 87,
+      "end": 127
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "sites",
+      "begin": 160,
+      "end": 165
+    }
+  },
+  {
+    "quantity": {
+      "text": "68%",
+      "begin": 152,
+      "end": 155
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 160,
+      "end": 165
+    }
+  },
+  {
+    "quantity": {
+      "text": "19 per cent",
+      "begin": 226,
+      "end": 237
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 241,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "hand pumps were the main source of drinking water",
+      "begin": 264,
+      "end": 313
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 258,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "hand pumps were the main source of drinking water",
+      "begin": 264,
+      "end": 313
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 341,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "water trucks",
+      "begin": 327,
+      "end": 339
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1 per cent",
+      "begin": 351,
+      "end": 361
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 365,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "unprotected wells as main source of water",
+      "begin": 381,
+      "end": 422
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8 per cent",
+      "begin": 540,
+      "end": 550
+    },
+    "eventDescription": {
+      "text": "unprotected wells were main source of water",
+      "begin": 493,
+      "end": 536
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "sites",
+      "begin": 554,
+      "end": 559
+    }
+  }
+]

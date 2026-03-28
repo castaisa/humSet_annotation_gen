@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "25,000",
+      "begin": 81,
+      "end": 87
+    },
+    "unit": {
+      "text": "L",
+      "begin": 88,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 91,
+      "end": 100
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16 percent",
+      "begin": 104,
+      "end": 114
+    },
+    "unit": {
+      "text": "formal butane gas cylinder price",
+      "begin": 47,
+      "end": 79
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 91,
+      "end": 100
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 175,
+      "end": 178
+    },
+    "unit": {
+      "text": "butane gas cylinder",
+      "begin": 179,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "priced",
+      "begin": 224,
+      "end": 230
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4,079",
+      "begin": 238,
+      "end": 243
+    },
+    "eventDescription": {
+      "text": "priced",
+      "begin": 224,
+      "end": 230
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/ refill",
+      "begin": 243,
+      "end": 251
+    }
+  },
+  {
+    "quantity": {
+      "text": "25,000",
+      "begin": 317,
+      "end": 323
+    },
+    "unit": {
+      "text": "L",
+      "begin": 324,
+      "end": 325
+    },
+    "eventDescription": {
+      "text": "ncreased",
+      "begin": 337,
+      "end": 345
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "eight percent",
+      "begin": 349,
+      "end": 362
+    },
+    "unit": {
+      "text": "average price of one butane gas cylinder",
+      "begin": 275,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "ncreased",
+      "begin": 337,
+      "end": 345
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "123 percent",
+      "begin": 376,
+      "end": 387
+    },
+    "unit": {
+      "text": "average price of one butane gas cylinder",
+      "begin": 275,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "ncreased",
+      "begin": 337,
+      "end": 345
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "28,643",
+      "begin": 418,
+      "end": 424
+    },
+    "unit": {
+      "text": "/refill",
+      "begin": 424,
+      "end": 431
+    },
+    "eventDescription": {
+      "text": "ncreased",
+      "begin": 337,
+      "end": 345
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35,828",
+      "begin": 486,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 452,
+      "end": 460
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/refill",
+      "begin": 492,
+      "end": 499
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 504,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 452,
+      "end": 460
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "percent m-o-m",
+      "begin": 510,
+      "end": 523
+    }
+  },
+  {
+    "quantity": {
+      "text": "11,417",
+      "begin": 576,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 543,
+      "end": 551
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 572,
+      "end": 575
+    }
+  },
+  {
+    "quantity": {
+      "text": "ten percent",
+      "begin": 587,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 543,
+      "end": 551
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "lowest price",
+      "begin": 556,
+      "end": 568
+    }
+  }
+]

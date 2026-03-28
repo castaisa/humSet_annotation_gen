@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 29 million",
+      "start": 381,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "face hunger and are in need of urgent assistance",
+      "start": 58,
+      "end": 106
+    },
+    "unit": {
+      "text": "people",
+      "start": 293,
+      "end": 299
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 381,
+      "end": 390
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 29 million",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "at risk of food insecurity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "811,000",
+      "start": 575,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "face emergency levels of hunger and require urgent assistance",
+      "start": 590,
+      "end": 651
+    },
+    "unit": {
+      "text": "people",
+      "start": 583,
+      "end": 589
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "eightfold",
+      "start": 662,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "increase in people facing emergency levels of hunger",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "increase",
+      "start": 672,
+      "end": 680
+    }
+  }
+]

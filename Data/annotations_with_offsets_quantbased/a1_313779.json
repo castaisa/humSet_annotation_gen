@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "166",
+      "start": 454,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "crossed the Sudanese border to find refuge in Adré",
+      "start": 497,
+      "end": 547
+    },
+    "unit": {
+      "text": "households",
+      "start": 458,
+      "end": 468
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,860",
+      "start": 472,
+      "end": 477
+    },
+    "eventDescription": {
+      "text": "crossed the Sudanese border to find refuge in Adré",
+      "start": 497,
+      "end": 547
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 478,
+      "end": 489
+    }
+  }
+]

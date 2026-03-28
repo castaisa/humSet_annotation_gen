@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "37",
+      "start": 188,
+      "end": 190
+    },
+    "eventDescription": {
+      "text": "virus spread",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "states",
+      "start": 191,
+      "end": 197
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7.9 million",
+      "start": 455,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "needing humanitarian assistance",
+      "start": 408,
+      "end": 439
+    },
+    "unit": {
+      "text": "people",
+      "start": 401,
+      "end": 407
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10.6 million",
+      "start": 470,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "needing humanitarian assistance",
+      "start": 408,
+      "end": 439
+    },
+    "unit": {
+      "text": "people",
+      "start": 534,
+      "end": 540
+    }
+  }
+]

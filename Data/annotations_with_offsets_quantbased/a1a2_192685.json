@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4.1 per cent",
+      "start": 206,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "increase in GAM",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "GAM",
+      "start": 222,
+      "end": 225
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "23",
+      "start": 242,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "provinces with increase in GAM",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 245,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 302,
+      "end": 303
+    },
+    "eventDescription": {
+      "text": "provinces with no change in GAM",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 304,
+      "end": 313
+    }
+  }
+]

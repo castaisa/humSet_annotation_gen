@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "65",
+      "start": 228,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "COVID-19 testing fee",
+      "start": 204,
+      "end": 224
+    },
+    "unit": {
+      "text": "USD",
+      "start": 231,
+      "end": 234
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six",
+      "start": 415,
+      "end": 418
+    },
+    "eventDescription": {
+      "text": "reported delays",
+      "start": 384,
+      "end": 399
+    },
+    "unit": {
+      "text": "days",
+      "start": 419,
+      "end": 423
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22 percent",
+      "start": 583,
+      "end": 593
+    },
+    "eventDescription": {
+      "text": "declined",
+      "start": 571,
+      "end": 579
+    },
+    "unit": {
+      "text": "trade volumes of maize",
+      "start": 548,
+      "end": 570
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30 percent",
+      "start": 658,
+      "end": 668
+    },
+    "eventDescription": {
+      "text": "above the same period",
+      "start": 669,
+      "end": 690
+    },
+    "unit": {
+      "text": "trade volumes of maize",
+      "start": 548,
+      "end": 570
+    }
+  }
+]

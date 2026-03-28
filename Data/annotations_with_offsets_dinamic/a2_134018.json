@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "connectivity proposal coverage",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": 316,
+      "end": 317
+    },
+    "unit": {
+      "text": "regions",
+      "start": 318,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "communities to be reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "74",
+      "start": 335,
+      "end": 337
+    },
+    "unit": {
+      "text": "rural communities",
+      "start": 338,
+      "end": 355
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "students in urban areas to be reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4 990",
+      "start": 360,
+      "end": 365
+    },
+    "unit": {
+      "text": "students",
+      "start": 366,
+      "end": 374
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "students to be reached by strategic plan",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8.7M",
+      "start": 597,
+      "end": 601
+    },
+    "unit": {
+      "text": "students",
+      "start": 602,
+      "end": 610
+    }
+  }
+]

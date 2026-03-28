@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 83,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "WHO only sporadically supports",
+      "begin": 52,
+      "end": 82
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "laboratory",
+      "begin": 87,
+      "end": 97
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 101,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "WHO only sporadically supports",
+      "begin": 52,
+      "end": 82
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "government-run hospital",
+      "begin": 105,
+      "end": 128
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 197,
+      "end": 199
+    },
+    "eventDescription": {
+      "text": "hospital carries out",
+      "begin": 170,
+      "end": 190
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 191,
+      "end": 196
+    },
+    "unit": {
+      "text": "coronavirus tests",
+      "begin": 200,
+      "end": 217
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 447,
+      "end": 450
+    },
+    "eventDescription": {
+      "text": "carries out",
+      "begin": 429,
+      "end": 440
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 441,
+      "end": 446
+    },
+    "unit": {
+      "text": "coronavirus tests",
+      "begin": 451,
+      "end": 468
+    }
+  }
+]

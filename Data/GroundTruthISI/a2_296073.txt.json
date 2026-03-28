@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 85,
+      "end": 88
+    },
+    "unit": {
+      "text": "year old male sheep",
+      "begin": 89,
+      "end": 108
+    }
+  },
+  {
+    "quantity": {
+      "text": "284",
+      "begin": 129,
+      "end": 132
+    },
+    "unit": {
+      "text": "kg/sheep",
+      "begin": 133,
+      "end": 141
+    }
+  },
+  {
+    "quantity": {
+      "text": "five percent",
+      "begin": 148,
+      "end": 160
+    },
+    "modifier": {
+      "text": "down",
+      "begin": 143,
+      "end": 147
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 161,
+      "end": 166
+    }
+  },
+  {
+    "quantity": {
+      "text": "45 percent",
+      "begin": 437,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "the terms of trade has worsened",
+      "begin": 402,
+      "end": 433
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "517",
+      "begin": 473,
+      "end": 476
+    },
+    "unit": {
+      "text": "kg",
+      "begin": 477,
+      "end": 479
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 518,
+      "end": 521
+    },
+    "unit": {
+      "text": "year old alive male sheep",
+      "begin": 522,
+      "end": 547
+    }
+  }
+]

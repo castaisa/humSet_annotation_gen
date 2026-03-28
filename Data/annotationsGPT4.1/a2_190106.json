@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "87.6%",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "remain intellectually active"
+  },
+  {
+    "quantity": "53.4%",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "leveraging mainly on ICT"
+  },
+  {
+    "quantity": "15%",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "maintaining a physical relationship with their teacher"
+  }
+]

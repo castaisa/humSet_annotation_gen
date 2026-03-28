@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "586",
+    "unit": "individuals",
+    "eventType": "EventA",
+    "eventDescription": "provided with temporary accommodations and emergency shelter"
+  },
+  {
+    "quantity": "1,648",
+    "unit": "Venezuelans",
+    "eventType": "EventA",
+    "eventDescription": "provided with food assistance"
+  },
+  {
+    "quantity": "43",
+    "unit": "caregivers",
+    "eventType": "EventP",
+    "eventDescription": "counselled on Infant and Young Child Feeding (IYCF)"
+  },
+  {
+    "quantity": "0-23",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "age range of children of caregivers counselled"
+  },
+  {
+    "quantity": "68",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "engaged in early childhood development sessions"
+  },
+  {
+    "quantity": "27",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "girls engaged in early childhood development sessions"
+  },
+  {
+    "quantity": "41",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "boys engaged in early childhood development sessions"
+  },
+  {
+    "quantity": "12",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "adults engaged in early childhood development sessions"
+  },
+  {
+    "quantity": "eight",
+    "unit": "female",
+    "eventType": "EventP",
+    "eventDescription": "female adults engaged in early childhood development sessions"
+  },
+  {
+    "quantity": "four",
+    "unit": "male",
+    "eventType": "EventP",
+    "eventDescription": "male adults engaged in early childhood development sessions"
+  },
+  {
+    "quantity": "1",
+    "unit": "Region",
+    "eventType": "EventO",
+    "eventDescription": "region where sessions were held"
+  },
+  {
+    "quantity": "9",
+    "unit": "Region",
+    "eventType": "EventO",
+    "eventDescription": "region where sessions were held"
+  }
+]

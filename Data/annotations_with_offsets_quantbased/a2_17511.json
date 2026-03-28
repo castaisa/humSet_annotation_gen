@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40 thousand",
+      "start": 662,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "planted",
+      "start": 644,
+      "end": 651
+    },
+    "unit": {
+      "text": "mines",
+      "start": 674,
+      "end": 679
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "200 thousand",
+      "start": 767,
+      "end": 779
+    },
+    "eventDescription": {
+      "text": "removed",
+      "start": 745,
+      "end": 752
+    },
+    "unit": {
+      "text": "mines",
+      "start": 795,
+      "end": 800
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "226209",
+      "start": 788,
+      "end": 794
+    },
+    "eventDescription": {
+      "text": "removed",
+      "start": 745,
+      "end": 752
+    },
+    "unit": {
+      "text": "mines, explosive devices, and shells",
+      "start": 795,
+      "end": 831
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 149,
+      "end": 150
+    },
+    "eventDescription": {
+      "text": "average severity of WASH needs across South Sudan remained",
+      "begin": 51,
+      "end": 109
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Level",
+      "begin": 143,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 123,
+      "end": 125
+    },
+    "unit": {
+      "text": "Round",
+      "begin": 117,
+      "end": 122
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 136,
+      "end": 138
+    },
+    "unit": {
+      "text": "Round",
+      "begin": 130,
+      "end": 135
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 184,
+      "end": 186
+    },
+    "unit": {
+      "text": "counties",
+      "begin": 187,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "were classified",
+      "begin": 196,
+      "end": 211
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 224,
+      "end": 226
+    },
+    "unit": {
+      "text": "counties",
+      "begin": 187,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "were classified",
+      "begin": 196,
+      "end": 211
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 247,
+      "end": 250
+    },
+    "unit": {
+      "text": "counties",
+      "begin": 187,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "were classified",
+      "begin": 196,
+      "end": 211
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 221,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "were classified",
+      "begin": 196,
+      "end": 211
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Level",
+      "begin": 215,
+      "end": 220
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 236,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "were classified",
+      "begin": 196,
+      "end": 211
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Level",
+      "begin": 230,
+      "end": 235
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 268,
+      "end": 269
+    },
+    "eventDescription": {
+      "text": "were classified",
+      "begin": 196,
+      "end": 211
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Level",
+      "begin": 262,
+      "end": 267
+    }
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 438,
+      "end": 440
+    },
+    "unit": {
+      "text": "Great Bahr el Ghazal (GBeG)",
+      "begin": 410,
+      "end": 437
+    },
+    "eventDescription": {
+      "text": "severity rankings",
+      "begin": 482,
+      "end": 499
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 470,
+      "end": 472
+    },
+    "unit": {
+      "text": "Greater Upper Nile (GUN)",
+      "begin": 445,
+      "end": 469
+    },
+    "eventDescription": {
+      "text": "severity rankings",
+      "begin": 482,
+      "end": 499
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 509,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "severity rankings",
+      "begin": 482,
+      "end": 499
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Level",
+      "begin": 503,
+      "end": 508
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.8",
+      "begin": 522,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "severity rankings",
+      "begin": 482,
+      "end": 499
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "severity rankings",
+      "begin": 482,
+      "end": 499
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.7",
+      "begin": 530,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "severity rankings",
+      "begin": 482,
+      "end": 499
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "severity rankings",
+      "begin": 482,
+      "end": 499
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.4",
+      "begin": 667,
+      "end": 670
+    },
+    "eventDescription": {
+      "text": "lowest overall severity ranking",
+      "begin": 632,
+      "end": 663
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "lowest overall severity ranking",
+      "begin": 632,
+      "end": 663
+    }
+  }
+]

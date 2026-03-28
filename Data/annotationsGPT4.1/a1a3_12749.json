@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": "over 5 million",
+    "unit": "square meters",
+    "eventType": "EventO",
+    "eventDescription": "land released through survey and clearance",
+    "modifier": "over"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "of the target",
+    "eventType": "EventO",
+    "eventDescription": "land released through survey and clearance"
+  },
+  {
+    "quantity": "15",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "land released through survey and clearance"
+  },
+  {
+    "quantity": "36 per cent",
+    "unit": "of the 400,000 target",
+    "eventType": "EventO",
+    "eventDescription": "explosive ordnance disposal achieved"
+  },
+  {
+    "quantity": "400,000",
+    "unit": "target",
+    "eventType": "EventO",
+    "eventDescription": "explosive ordnance disposal"
+  },
+  {
+    "quantity": "1,183",
+    "unit": "households (HHs)",
+    "eventType": "EventP",
+    "eventDescription": "reached with small and micro business creation/recovery"
+  },
+  {
+    "quantity": "11",
+    "unit": "governorates",
+    "eventType": "EventP",
+    "eventDescription": "households reached with small and micro business creation/recovery"
+  },
+  {
+    "quantity": "9,703",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "had access to income through emergency employment opportunities activities"
+  },
+  {
+    "quantity": "11",
+    "unit": "governorates",
+    "eventType": "EventP",
+    "eventDescription": "households had access to income through emergency employment opportunities activities"
+  },
+  {
+    "quantity": "93",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "received assistance to end displacement"
+  },
+  {
+    "quantity": "2,294",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "had access to new skills for livelihoods through vocational/skills training"
+  },
+  {
+    "quantity": "817",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "participated in capacity building activities"
+  },
+  {
+    "quantity": "82",
+    "unit": "local NGOs and authorities",
+    "eventType": "EventO",
+    "eventDescription": "represented in capacity building activities"
+  }
+]

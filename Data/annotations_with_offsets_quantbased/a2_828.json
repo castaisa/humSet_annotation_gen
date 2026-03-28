@@ -1,0 +1,125 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22.2 million",
+      "start": 113,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "require humanitarian assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 126,
+      "end": 132
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 2 million",
+      "start": 216,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "internally displaced",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 231,
+      "end": 237
+    },
+    "modifier": {
+      "text": "over",
+      "start": 216,
+      "end": 220
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.25 million",
+      "start": 244,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "without pay for a year",
+      "start": 279,
+      "end": 301
+    },
+    "unit": {
+      "text": "public sector workers",
+      "start": 257,
+      "end": 278
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16 million",
+      "start": 423,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "lack access to safe water",
+      "start": 441,
+      "end": 466
+    },
+    "unit": {
+      "text": "people",
+      "start": 434,
+      "end": 440
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 1 million",
+      "start": 481,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "acute watery diarrhoea (AWD) and cholera",
+      "start": 515,
+      "end": 555
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": 496,
+      "end": 511
+    },
+    "modifier": {
+      "text": "over",
+      "start": 481,
+      "end": 485
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 1,100",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "killed or maimed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": null,
+      "end": null
+    }
+  }
+]

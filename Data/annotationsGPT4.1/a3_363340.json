@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "5 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in average selling price"
+  },
+  {
+    "quantity": "2 678",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average selling price reached"
+  },
+  {
+    "quantity": "3 700",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "price of rice remained constant"
+  },
+  {
+    "quantity": "2 275",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "price of rice remained constant"
+  },
+  {
+    "quantity": "14 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in Hama Governorate"
+  },
+  {
+    "quantity": "2 070",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average selling price in Hama Governorate"
+  },
+  {
+    "quantity": "2 150",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "observed price in Homs"
+  },
+  {
+    "quantity": "3 900",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "observed price in Aleppo"
+  },
+  {
+    "quantity": "2 150",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "observed price in Tartous"
+  },
+  {
+    "quantity": "3 700",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "observed price in Rural Damascus"
+  }
+]

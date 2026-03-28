@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported farming/cultivation as people’s main source of food",
+      "start": 62,
+      "end": 122
+    },
+    "quantity": {
+      "text": "8/9",
+      "start": 148,
+      "end": 151
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 43,
+      "end": 46
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mentioned irrigation farming as a source of food",
+      "start": 191,
+      "end": 239
+    },
+    "quantity": {
+      "text": "6",
+      "start": 183,
+      "end": 184
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 178,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "described forced labour in exchange of food as a source of food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 341,
+      "end": 342
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 427,
+      "end": 430
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "described foraging as a source of food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 355,
+      "end": 356
+    },
+    "unit": {
+      "text": "KI",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "described food assistance as a source of food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 376,
+      "end": 377
+    },
+    "unit": {
+      "text": "KI",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "described buying things in the market as a source of food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 412,
+      "end": 413
+    },
+    "unit": {
+      "text": "KI",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported that people in their settlement only had one source of food",
+      "start": 588,
+      "end": 656
+    },
+    "quantity": {
+      "text": "6",
+      "start": 582,
+      "end": 583
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 584,
+      "end": 587
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people in their settlement only had one source of food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 638,
+      "end": 641
+    },
+    "unit": {
+      "text": "source of food",
+      "start": 642,
+      "end": 656
+    }
+  }
+]

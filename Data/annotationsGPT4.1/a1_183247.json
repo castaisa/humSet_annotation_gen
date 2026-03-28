@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "100",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "crossing daily through the Colchane border"
+  },
+  {
+    "quantity": "30%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "are children among those crossing"
+  },
+  {
+    "quantity": "100",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "entering and counted due to self-reports"
+  }
+]

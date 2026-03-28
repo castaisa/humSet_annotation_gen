@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "7.7 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "80%",
+    "unit": "of the country",
+    "eventType": "EventO",
+    "eventDescription": "flooded",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "four",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "declared state of emergency"
+  },
+  {
+    "quantity": "five",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "state of emergency expanded"
+  },
+  {
+    "quantity": "six",
+    "unit": "main risk factors",
+    "eventType": "EventO",
+    "eventDescription": "identified"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "75%",
+    "unit": "adolescents",
+    "eventType": "EventP",
+    "eventDescription": "reported feeling scared or worried about covid-19"
+  },
+  {
+    "quantity": "80%",
+    "unit": "adolescents",
+    "eventType": "EventP",
+    "eventDescription": "reported an increase in household stress"
+  }
+]

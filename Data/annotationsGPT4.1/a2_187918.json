@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "1,057",
+    "unit": "casualties",
+    "eventType": "EventP",
+    "eventDescription": "explosives-related casualties recorded"
+  },
+  {
+    "quantity": "77 per cent",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "proportion of casualties who were children"
+  },
+  {
+    "quantity": "897",
+    "unit": "men and boys",
+    "eventType": "EventP",
+    "eventDescription": "casualties among men and boys"
+  },
+  {
+    "quantity": "five-fold",
+    "unit": "casualties",
+    "eventType": "EventP",
+    "eventDescription": "increase in mine and ERW casualties among women and girls"
+  },
+  {
+    "quantity": "eleven",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces significantly impacted"
+  },
+  {
+    "quantity": "70 per cent",
+    "unit": "mine and ERW casualties",
+    "eventType": "EventP",
+    "eventDescription": "proportion of casualties in eleven provinces"
+  }
+]

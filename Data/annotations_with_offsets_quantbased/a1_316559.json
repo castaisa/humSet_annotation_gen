@@ -1,0 +1,151 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "four",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "reported that a household member operated a family business",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "in ten respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41%",
+      "start": 130,
+      "end": 133
+    },
+    "eventDescription": {
+      "text": "reported that a household member operated a family business",
+      "start": 135,
+      "end": 194
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 93,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than half",
+      "start": 243,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "indicated income from the family business was less than usual or no income",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 93,
+      "end": 104
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 243,
+      "end": 252
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "58%",
+      "start": 259,
+      "end": 262
+    },
+    "eventDescription": {
+      "text": "indicated income from the family business was less than usual or no income",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 93,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "42%",
+      "start": 375,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "indicated income from the family business was less than usual",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 93,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16%",
+      "start": 416,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "indicated there was no income at all",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 93,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "52%",
+      "start": 553,
+      "end": 556
+    },
+    "eventDescription": {
+      "text": "attributed revenue loss to a lack of customers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 93,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "49%",
+      "start": 665,
+      "end": 668
+    },
+    "eventDescription": {
+      "text": "attributed revenue loss to the usual place of business being closed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 93,
+      "end": 104
+    }
+  }
+]

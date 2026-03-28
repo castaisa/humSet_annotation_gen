@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,560",
+      "start": 177,
+      "end": 182
+    },
+    "eventDescription": {
+      "text": "participated in the study",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "participants",
+      "start": 183,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16",
+      "start": 201,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "study conducted in upazilas",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "upazilas",
+      "start": 204,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "eight",
+      "start": 216,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "study conducted in divisions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "divisions",
+      "start": 222,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 236,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "study conducted in city corporations",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Dhaka city corporations",
+      "start": 240,
+      "end": 263
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "52%",
+      "start": 325,
+      "end": 328
+    },
+    "eventDescription": {
+      "text": "did not want to take the vaccine immediately",
+      "start": 348,
+      "end": 392
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 336,
+      "end": 347
+    },
+    "modifier": {
+      "text": "around",
+      "start": 318,
+      "end": 324
+    }
+  }
+]

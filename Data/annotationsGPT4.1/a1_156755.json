@@ -1,0 +1,99 @@
+[
+  {
+    "quantity": "334",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "1 034",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "40",
+    "unit": "new cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "55",
+    "unit": "new cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "49",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "40",
+    "unit": "new cases",
+    "eventType": "EventP",
+    "eventDescription": "added"
+  },
+  {
+    "quantity": "33",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "32",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "66",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "60",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "41",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "37",
+    "unit": "new cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "over 30",
+    "unit": "new cases",
+    "eventType": "EventP",
+    "eventDescription": "identified",
+    "modifier": "over"
+  },
+  {
+    "quantity": "334",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "700",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "24",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "duration"
+  }
+]

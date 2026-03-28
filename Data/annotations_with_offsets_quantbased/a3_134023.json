@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "93",
+      "start": 43,
+      "end": 45
+    },
+    "eventDescription": {
+      "text": "media mentions generated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "media mentions",
+      "start": 46,
+      "end": 60
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "US$182,000",
+      "start": 187,
+      "end": 197
+    },
+    "eventDescription": {
+      "text": "value of free press",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "free press",
+      "start": 201,
+      "end": 211
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "66 per cent",
+      "start": 823,
+      "end": 834
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 815,
+      "end": 822
+    },
+    "unit": {
+      "text": "target audience of adults aged 25 and over",
+      "start": 842,
+      "end": 884
+    }
+  }
+]

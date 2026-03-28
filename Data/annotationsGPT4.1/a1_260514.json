@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "9,400",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "targeted"
+  },
+  {
+    "quantity": "four",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "targeted"
+  },
+  {
+    "quantity": "500",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "targeted with cash assistance"
+  }
+]

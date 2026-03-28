@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 155,
+      "end": 159
+    },
+    "eventDescription": {
+      "text": "Warmi Huasi continued sharing communication pieces aimed at preventing disc rimination and promoting mutual care",
+      "begin": 39,
+      "end": 151
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "targeted communities",
+      "begin": 160,
+      "end": 180
+    }
+  },
+  {
+    "quantity": {
+      "text": "45,381",
+      "begin": 313,
+      "end": 319
+    },
+    "unit": {
+      "text": "impressions",
+      "begin": 320,
+      "end": 331
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,583",
+      "begin": 336,
+      "end": 341
+    },
+    "unit": {
+      "text": "engagements per post",
+      "begin": 342,
+      "end": 362
+    }
+  },
+  {
+    "quantity": {
+      "text": "19,468",
+      "begin": 645,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "had a total reach",
+      "begin": 624,
+      "end": 641
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "16,800",
+      "begin": 663,
+      "end": 669
+    },
+    "unit": {
+      "text": "video views",
+      "begin": 670,
+      "end": 681
+    }
+  }
+]

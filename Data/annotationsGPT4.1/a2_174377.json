@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": "1,072",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases"
+  },
+  {
+    "quantity": "401",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases from Idleb"
+  },
+  {
+    "quantity": "671",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases from Aleppo governorate"
+  },
+  {
+    "quantity": "six",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "medically confirmed deaths"
+  },
+  {
+    "quantity": "0.6 per cent",
+    "unit": "Case Fatality Rate",
+    "eventType": "EventP",
+    "eventDescription": "case fatality rate"
+  },
+  {
+    "quantity": "980",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases developed mild symptoms"
+  },
+  {
+    "quantity": "58",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases developed moderate/severe symptoms"
+  },
+  {
+    "quantity": "34",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases were asymptomatic"
+  },
+  {
+    "quantity": "526",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases have already recovered"
+  },
+  {
+    "quantity": "49 per cent",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases have already recovered"
+  },
+  {
+    "quantity": "629",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "male cases"
+  },
+  {
+    "quantity": "443",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "female cases"
+  },
+  {
+    "quantity": "34.7",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "mean case age"
+  },
+  {
+    "quantity": "10",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases under five years of age"
+  },
+  {
+    "quantity": "five",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age threshold for cases under five years"
+  },
+  {
+    "quantity": "67",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases over 60 years of age"
+  },
+  {
+    "quantity": "60",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age threshold for cases over 60 years"
+  }
+]

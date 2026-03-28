@@ -1,0 +1,151 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "negatively affected by COVID-related restrictions and economic impact",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "63.5 percent",
+      "start": 113,
+      "end": 125
+    },
+    "unit": {
+      "text": "households",
+      "start": 133,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "mentioning complete loss of income source",
+      "start": 260,
+      "end": 301
+    },
+    "quantity": {
+      "text": "17.6 percent",
+      "start": 232,
+      "end": 244
+    },
+    "unit": {
+      "text": "households",
+      "start": 249,
+      "end": 259
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "deterioration in income",
+      "start": 314,
+      "end": 337
+    },
+    "quantity": {
+      "text": "30 percent",
+      "start": 303,
+      "end": 313
+    },
+    "unit": {
+      "text": "households",
+      "start": 435,
+      "end": 445
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "disproportionate increase in the cost of living",
+      "start": 354,
+      "end": 401
+    },
+    "quantity": {
+      "text": "15.9 percent",
+      "start": 339,
+      "end": 351
+    },
+    "unit": {
+      "text": "households",
+      "start": 598,
+      "end": 608
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "witnessed no difference or a change in income source",
+      "start": 446,
+      "end": 498
+    },
+    "quantity": {
+      "text": "35 percent",
+      "start": 417,
+      "end": 427
+    },
+    "unit": {
+      "text": "households",
+      "start": 652,
+      "end": 662
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "mentioned that it has improved income",
+      "start": 529,
+      "end": 566
+    },
+    "quantity": {
+      "text": "1.8 percent",
+      "start": 517,
+      "end": 528
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "received remittances",
+      "start": 609,
+      "end": 629
+    },
+    "quantity": {
+      "text": "four percent",
+      "start": 582,
+      "end": 594
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "mentioned a reduction in amounts",
+      "start": 688,
+      "end": 720
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 631,
+      "end": 637
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 638,
+      "end": 648
+    },
+    "unit": {
+      "text": "households who received remittances",
+      "start": null,
+      "end": null
+    }
+  }
+]

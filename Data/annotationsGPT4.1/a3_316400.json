@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "two thirds",
+    "unit": "businesses",
+    "eventType": "EventO",
+    "eventDescription": "proportion of businesses reporting public and non-profit entities as important customers"
+  },
+  {
+    "quantity": "64%",
+    "unit": "businesses",
+    "eventType": "EventO",
+    "eventDescription": "businesses reporting public and non-profit entities as important customers"
+  },
+  {
+    "quantity": "seven in ten",
+    "unit": "businesses",
+    "eventType": "EventO",
+    "eventDescription": "businesses reporting decreased demand from public and non-profit customers"
+  },
+  {
+    "quantity": "69%",
+    "unit": "businesses",
+    "eventType": "EventO",
+    "eventDescription": "businesses reporting decreased demand from public and non-profit customers"
+  },
+  {
+    "quantity": "nearly half",
+    "unit": "respondents",
+    "eventType": "EventO",
+    "eventDescription": "respondents experiencing a decline in demand by at least half"
+  },
+  {
+    "quantity": "49%",
+    "unit": "respondents",
+    "eventType": "EventO",
+    "eventDescription": "respondents experiencing a decline in demand by at least half",
+    "modifier": "at least"
+  }
+]

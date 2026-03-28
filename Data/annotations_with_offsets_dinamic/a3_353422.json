@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received outpatient care",
+      "start": 91,
+      "end": 115
+    },
+    "quantity": {
+      "text": "28, 751",
+      "start": 60,
+      "end": 67
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received outpatient care",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11, 841",
+      "start": 69,
+      "end": 76
+    },
+    "unit": {
+      "text": "M",
+      "start": 77,
+      "end": 78
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received outpatient care",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16, 910",
+      "start": 80,
+      "end": 87
+    },
+    "unit": {
+      "text": "F",
+      "start": 88,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with sexual and reproductive health services",
+      "start": 180,
+      "end": 232
+    },
+    "quantity": {
+      "text": "5, 628",
+      "start": 117,
+      "end": 123
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with sexual and reproductive health services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "346",
+      "start": 125,
+      "end": 128
+    },
+    "unit": {
+      "text": "M",
+      "start": 129,
+      "end": 130
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with sexual and reproductive health services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5, 282",
+      "start": 132,
+      "end": 138
+    },
+    "unit": {
+      "text": "F",
+      "start": 139,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with Health promotion services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20, 785",
+      "start": 146,
+      "end": 153
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with Health promotion services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7, 809",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "M",
+      "start": 161,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with Health promotion services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12, 976",
+      "start": 164,
+      "end": 171
+    },
+    "unit": {
+      "text": "F",
+      "start": 172,
+      "end": 173
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained on COVID-19 vaccination and IPC measures",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "64",
+      "start": 565,
+      "end": 567
+    },
+    "unit": {
+      "text": "MOH staff",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained on COVID-19 vaccination and IPC measures",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "49",
+      "start": 569,
+      "end": 571
+    },
+    "unit": {
+      "text": "M",
+      "start": 572,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained on COVID-19 vaccination and IPC measures",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "F",
+      "start": 577,
+      "end": 578
+    }
+  }
+]

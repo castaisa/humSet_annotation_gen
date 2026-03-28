@@ -1,0 +1,243 @@
+[
+  {
+    "quantity": {
+      "text": "287,600",
+      "begin": 24,
+      "end": 31
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 10,
+      "end": 23
+    },
+    "unit": {
+      "text": "refugees",
+      "begin": 32,
+      "end": 40
+    },
+    "eventDescription": {
+      "text": "urgent need of nutrition interventions",
+      "begin": 44,
+      "end": 82
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "140,374",
+      "begin": 100,
+      "end": 107
+    },
+    "unit": {
+      "text": "children below five years old",
+      "begin": 108,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 123,
+      "end": 127
+    },
+    "modifier": {
+      "text": "below",
+      "begin": 117,
+      "end": 122
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 128,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "91,702",
+      "begin": 139,
+      "end": 145
+    },
+    "unit": {
+      "text": "pregnant and lactating women",
+      "begin": 146,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "32,605",
+      "begin": 176,
+      "end": 182
+    },
+    "unit": {
+      "text": "infants and young children",
+      "begin": 183,
+      "end": 209
+    }
+  },
+  {
+    "quantity": {
+      "text": "22,919",
+      "begin": 215,
+      "end": 221
+    },
+    "unit": {
+      "text": "others",
+      "begin": 222,
+      "end": 228
+    }
+  },
+  {
+    "quantity": {
+      "text": "13 per cent",
+      "begin": 321,
+      "end": 332
+    },
+    "eventDescription": {
+      "text": "SENS survey indicates",
+      "begin": 285,
+      "end": 306
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "GAM rate",
+      "begin": 309,
+      "end": 317
+    }
+  },
+  {
+    "quantity": {
+      "text": "11 per cent",
+      "begin": 365,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "SENS survey indicates",
+      "begin": 285,
+      "end": 306
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "GAM rate",
+      "begin": 309,
+      "end": 317
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 360,
+      "end": 364
+    }
+  },
+  {
+    "quantity": {
+      "text": "53 per cent",
+      "begin": 451,
+      "end": 462
+    },
+    "unit": {
+      "text": "Stunting prevalence",
+      "begin": 398,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "Stunting prevalence",
+      "begin": 398,
+      "end": 417
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "45 per cent",
+      "begin": 510,
+      "end": 521
+    },
+    "eventDescription": {
+      "text": "Stunting prevalence",
+      "begin": 398,
+      "end": 417
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Stunting prevalence",
+      "begin": 398,
+      "end": 417
+    }
+  },
+  {
+    "quantity": {
+      "text": "40 per cent",
+      "begin": 577,
+      "end": 588
+    },
+    "eventDescription": {
+      "text": "indicate",
+      "begin": 544,
+      "end": 552
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "rates of anaemia",
+      "begin": 558,
+      "end": 574
+    },
+    "modifier": {
+      "text": ">",
+      "begin": 576,
+      "end": 577
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 611,
+      "end": 615
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 605,
+      "end": 610
+    },
+    "unit": {
+      "text": "years",
+      "begin": 616,
+      "end": 621
+    }
+  },
+  {
+    "quantity": {
+      "text": "49",
+      "begin": 640,
+      "end": 642
+    },
+    "unit": {
+      "text": "years",
+      "begin": 643,
+      "end": 648
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 637,
+      "end": 639
+    },
+    "unit": {
+      "text": "years",
+      "begin": 643,
+      "end": 648
+    }
+  },
+  {
+    "quantity": {
+      "text": "15-49",
+      "begin": 637,
+      "end": 642
+    },
+    "unit": {
+      "text": "years",
+      "begin": 643,
+      "end": 648
+    }
+  }
+]

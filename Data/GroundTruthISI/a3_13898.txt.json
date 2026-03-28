@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "30,647",
+      "begin": 553,
+      "end": 559
+    },
+    "unit": {
+      "text": "displaced households (HH)",
+      "begin": 560,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "assisted through the rapid response mechanism (RRM)",
+      "begin": 625,
+      "end": 676
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "39,995",
+      "begin": 695,
+      "end": 701
+    },
+    "unit": {
+      "text": "HHs registered",
+      "begin": 702,
+      "end": 716
+    }
+  }
+]

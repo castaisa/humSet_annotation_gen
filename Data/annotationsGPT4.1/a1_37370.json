@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "7.1 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in need of humanitarian assistance"
+  },
+  {
+    "quantity": "1.8 million",
+    "unit": "internally displaced people",
+    "eventType": "EventP",
+    "eventDescription": "internally displaced"
+  },
+  {
+    "quantity": "more than 800,000",
+    "unit": "women, children and men",
+    "eventType": "EventP",
+    "eventDescription": "living in inaccessible areas",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "more than 27,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "more than"
+  }
+]

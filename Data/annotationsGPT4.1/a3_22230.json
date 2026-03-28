@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "35,000",
+    "unit": "Nigerian refugees",
+    "eventType": "EventP",
+    "eventDescription": "safe in Cameroon"
+  },
+  {
+    "quantity": "a few",
+    "unit": "personal possessions",
+    "eventType": "EventO",
+    "eventDescription": "collected"
+  },
+  {
+    "quantity": "over a decade",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "Boko Haram active",
+    "modifier": "over"
+  },
+  {
+    "quantity": "Thousands",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "tens of thousands",
+    "unit": "others",
+    "eventType": "EventP",
+    "eventDescription": "livelihoods destroyed"
+  }
+]

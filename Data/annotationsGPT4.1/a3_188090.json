@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "two",
+    "unit": "doctors per 1,000 population",
+    "eventType": "EventP",
+    "eventDescription": "average number of doctors"
+  },
+  {
+    "quantity": "3.5",
+    "unit": "doctors per 1,000 population",
+    "eventType": "EventP",
+    "eventDescription": "OECD average number of doctors"
+  },
+  {
+    "quantity": "2.1",
+    "unit": "hospital beds per 1,000 population",
+    "eventType": "EventA",
+    "eventDescription": "average number of hospital beds"
+  },
+  {
+    "quantity": "4.7",
+    "unit": "hospital beds per 1,000 population",
+    "eventType": "EventA",
+    "eventDescription": "OECD average number of hospital beds"
+  },
+  {
+    "quantity": "one",
+    "unit": "hospital bed per 1,000 population",
+    "eventType": "EventA",
+    "eventDescription": "hospital bed stock in some countries"
+  }
+]

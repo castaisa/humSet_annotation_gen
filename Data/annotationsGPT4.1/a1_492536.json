@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "28,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "returned to their places of origin",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "36,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced from Dar\u2019a Al-Balad and other areas"
+  },
+  {
+    "quantity": "1,400",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "in shelters in Dar\u2019a AlMahatta",
+    "modifier": "estimated"
+  },
+  {
+    "quantity": "2,000",
+    "unit": "residents",
+    "eventType": "EventP",
+    "eventDescription": "residents of the camps in Dar\u2019a Al-Balad"
+  }
+]

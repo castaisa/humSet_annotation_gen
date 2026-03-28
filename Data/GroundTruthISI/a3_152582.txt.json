@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 296,
+      "end": 298
+    },
+    "unit": {
+      "text": "positive COVID-19 cases",
+      "begin": 299,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 333,
+      "end": 341
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 343,
+      "end": 344
+    },
+    "unit": {
+      "text": "positive COVID-19 cases",
+      "begin": 299,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "moderate",
+      "begin": 375,
+      "end": 383
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 386,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "recovered",
+      "begin": 399,
+      "end": 408
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "recovered",
+      "begin": 399,
+      "end": 408
+    }
+  },
+  {
+    "quantity": {
+      "text": "116",
+      "begin": 414,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "remain in MRS Lajas Blancas",
+      "begin": 418,
+      "end": 445
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "remain in MRS Lajas Blancas",
+      "begin": 418,
+      "end": 445
+    }
+  },
+  {
+    "quantity": {
+      "text": "322",
+      "begin": 484,
+      "end": 487
+    },
+    "unit": {
+      "text": "swab tests",
+      "begin": 488,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "performed",
+      "begin": 509,
+      "end": 518
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 691,
+      "end": 694
+    },
+    "unit": {
+      "text": "birth",
+      "begin": 695,
+      "end": 700
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 705,
+      "end": 713
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 806,
+      "end": 809
+    },
+    "eventDescription": {
+      "text": "cases of leishmaniasis were also reported",
+      "begin": 810,
+      "end": 851
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "adults",
+      "begin": 855,
+      "end": 861
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 866,
+      "end": 869
+    },
+    "eventDescription": {
+      "text": "cases of leishmaniasis were also reported",
+      "begin": 810,
+      "end": 851
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "child",
+      "begin": 870,
+      "end": 875
+    }
+  },
+  {
+    "quantity": {
+      "text": "zero",
+      "begin": 926,
+      "end": 930
+    },
+    "unit": {
+      "text": "cases of COVID-19",
+      "begin": 931,
+      "end": 948
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 959,
+      "end": 967
+    },
+    "eventType": "EventP"
+  }
+]

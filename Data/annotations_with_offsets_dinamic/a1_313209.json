@@ -1,0 +1,187 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "declined",
+      "start": 57,
+      "end": 65
+    },
+    "quantity": {
+      "text": "-3%",
+      "start": 69,
+      "end": 72
+    },
+    "unit": {
+      "text": "cereal prices",
+      "start": 38,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "assessed",
+      "start": 100,
+      "end": 108
+    },
+    "quantity": {
+      "text": "19",
+      "start": 77,
+      "end": 79
+    },
+    "unit": {
+      "text": "districts",
+      "start": 90,
+      "end": 99
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "assessed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42",
+      "start": 87,
+      "end": 89
+    },
+    "unit": {
+      "text": "districts",
+      "start": 264,
+      "end": 273
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "experienced an increase in prices",
+      "start": 274,
+      "end": 307
+    },
+    "quantity": {
+      "text": "19",
+      "start": 261,
+      "end": 263
+    },
+    "unit": {
+      "text": "districts",
+      "start": 363,
+      "end": 372
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported",
+      "start": 347,
+      "end": 355
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 328,
+      "end": 337
+    },
+    "quantity": {
+      "text": "more than 10%",
+      "start": 328,
+      "end": 341
+    },
+    "unit": {
+      "text": "price increases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported",
+      "start": 467,
+      "end": 475
+    },
+    "quantity": {
+      "text": "59%",
+      "start": 457,
+      "end": 460
+    },
+    "unit": {
+      "text": "price decreases",
+      "start": 440,
+      "end": 455
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decreased",
+      "start": 518,
+      "end": 527
+    },
+    "quantity": {
+      "text": "21%",
+      "start": 531,
+      "end": 534
+    },
+    "unit": {
+      "text": "prices",
+      "start": 502,
+      "end": 508
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decline",
+      "start": 580,
+      "end": 587
+    },
+    "quantity": {
+      "text": "18%",
+      "start": 648,
+      "end": 651
+    },
+    "unit": {
+      "text": "prices",
+      "start": 591,
+      "end": 597
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decline",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14%",
+      "start": 653,
+      "end": 656
+    },
+    "unit": {
+      "text": "prices",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decline",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12%",
+      "start": 662,
+      "end": 665
+    },
+    "unit": {
+      "text": "prices",
+      "start": null,
+      "end": null
+    }
+  }
+]

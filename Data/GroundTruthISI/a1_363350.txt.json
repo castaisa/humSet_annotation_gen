@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "756",
+      "begin": 120,
+      "end": 123
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 124,
+      "end": 134
+    },
+    "eventDescription": {
+      "text": "recorded across most Governorates",
+      "begin": 141,
+      "end": 174
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "29 percent",
+      "begin": 221,
+      "end": 231
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 232,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "increase on tomato prices was recorded",
+      "begin": 238,
+      "end": 276
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "475",
+      "begin": 568,
+      "end": 571
+    },
+    "eventDescription": {
+      "text": "selling price of tomatoes decreased",
+      "begin": 505,
+      "end": 540
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 572,
+      "end": 582
+    }
+  },
+  {
+    "quantity": {
+      "text": "34 percent",
+      "begin": 584,
+      "end": 594
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 595,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 601,
+      "end": 609
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "800",
+      "begin": 671,
+      "end": 674
+    },
+    "eventDescription": {
+      "text": "Tomato selling prices in Dará also decreased",
+      "begin": 612,
+      "end": 656
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 675,
+      "end": 678
+    }
+  },
+  {
+    "quantity": {
+      "text": "756",
+      "begin": 696,
+      "end": 699
+    },
+    "eventDescription": {
+      "text": "Tomato selling prices in Dará also decreased",
+      "begin": 612,
+      "end": 656
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 700,
+      "end": 703
+    }
+  },
+  {
+    "quantity": {
+      "text": "20 percent",
+      "begin": 758,
+      "end": 768
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 774,
+      "end": 782
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-om",
+      "begin": 769,
+      "end": 773
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 787,
+      "end": 790
+    },
+    "unit": {
+      "text": "kilogram of tomatoes",
+      "begin": 791,
+      "end": 811
+    },
+    "eventDescription": {
+      "text": "selling",
+      "begin": 816,
+      "end": 823
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "630",
+      "begin": 827,
+      "end": 830
+    },
+    "eventDescription": {
+      "text": "selling",
+      "begin": 816,
+      "end": 823
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 831,
+      "end": 841
+    }
+  }
+]

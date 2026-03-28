@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 137,
+      "end": 140
+    },
+    "unit": {
+      "text": "discussants",
+      "begin": 154,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "indicated displacement as the problem that most affects the community",
+      "begin": 166,
+      "end": 235
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 245,
+      "end": 248
+    },
+    "unit": {
+      "text": "discussants",
+      "begin": 154,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "indicate lack of adequate shelter as the problem that most affects their communities",
+      "begin": 254,
+      "end": 338
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "14%",
+      "begin": 340,
+      "end": 343
+    },
+    "unit": {
+      "text": "discussants",
+      "begin": 154,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "said insecurity is the problem that most affects their community",
+      "begin": 344,
+      "end": 408
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 410,
+      "end": 413
+    },
+    "unit": {
+      "text": "discussants",
+      "begin": 154,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "said over population",
+      "begin": 419,
+      "end": 439
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 449,
+      "end": 452
+    },
+    "unit": {
+      "text": "discussants",
+      "begin": 154,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "mentioned insufficient of adequate Non – food Items (NFIs) as the problems that most affects the community",
+      "begin": 461,
+      "end": 567
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 569,
+      "end": 572
+    },
+    "unit": {
+      "text": "discussants",
+      "begin": 154,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "mentioned Lack of facemasks, hand sanitizers, soap and adequate water supplies as the problem that most affects the community",
+      "begin": 573,
+      "end": 698
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 713,
+      "end": 715
+    },
+    "unit": {
+      "text": "discussants",
+      "begin": 154,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "demonstrates that restrictions of movement and school closure as a result of COVID 19 are the problems that most affects the community.",
+      "begin": 716,
+      "end": 851
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "75 per cent",
+      "begin": 23,
+      "end": 34
+    },
+    "unit": {
+      "text": "households",
+      "begin": 38,
+      "end": 48
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "begin": 49,
+      "end": 57
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "27 per cent",
+      "begin": 288,
+      "end": 299
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 303,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "indicated",
+      "begin": 315,
+      "end": 324
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "24 per cent",
+      "begin": 474,
+      "end": 485
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 489,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "could not afford",
+      "begin": 511,
+      "end": 527
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "82 per cent",
+      "begin": 635,
+      "end": 646
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 489,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "begin": 656,
+      "end": 664
+    },
+    "eventType": "EventO"
+  }
+]

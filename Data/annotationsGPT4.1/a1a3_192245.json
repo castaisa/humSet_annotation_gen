@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "2,153",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "armed clashes reported"
+  },
+  {
+    "quantity": "95 per cent",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "security-related incidents attributed to anti-government elements"
+  },
+  {
+    "quantity": "92 per cent",
+    "unit": "armed clashes",
+    "eventType": "EventO",
+    "eventDescription": "armed clashes attributed to anti-government elements"
+  },
+  {
+    "quantity": "13",
+    "unit": "international military air strikes",
+    "eventType": "EventO",
+    "eventDescription": "air strikes during the reporting period"
+  },
+  {
+    "quantity": "299",
+    "unit": "international military air strikes",
+    "eventType": "EventO",
+    "eventDescription": "air strikes in the same period in 2019"
+  },
+  {
+    "quantity": "65 per cent",
+    "unit": "air strikes",
+    "eventType": "EventO",
+    "eventDescription": "increase in air strikes by the Afghan Air Force"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rehabilitated",
+      "start": 218,
+      "end": 231
+    },
+    "quantity": {
+      "text": "25",
+      "start": 232,
+      "end": 234
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": 235,
+      "end": 245
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rehabilitated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14",
+      "start": 256,
+      "end": 258
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": 330,
+      "end": 340
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rehabilitated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7",
+      "start": 268,
+      "end": 269
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rehabilitated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 283,
+      "end": 284
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "target for rehabilitation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24",
+      "start": 327,
+      "end": 329
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "at 75%% completion",
+      "start": 371,
+      "end": 389
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 361,
+      "end": 366
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "completion percentage",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "75%%",
+      "start": 374,
+      "end": 378
+    },
+    "unit": {
+      "text": "completion",
+      "start": 379,
+      "end": 389
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "work in progress",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 458,
+      "end": 459
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "work in progress",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 474,
+      "end": 475
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "work in progress",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 490,
+      "end": 491
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "work in progress",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 506,
+      "end": 507
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "work in progress",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 526,
+      "end": 527
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handed over for rehabilitation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12",
+      "start": 546,
+      "end": 548
+    },
+    "unit": {
+      "text": "mechanized water points",
+      "start": 549,
+      "end": 572
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handed over for rehabilitation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 628,
+      "end": 629
+    },
+    "unit": {
+      "text": "mechanized water points",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handed over for rehabilitation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 641,
+      "end": 642
+    },
+    "unit": {
+      "text": "mechanized water points",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handed over for rehabilitation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 657,
+      "end": 658
+    },
+    "unit": {
+      "text": "mechanized water points",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handed over for rehabilitation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 673,
+      "end": 674
+    },
+    "unit": {
+      "text": "mechanized water points",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handed over for rehabilitation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 693,
+      "end": 694
+    },
+    "unit": {
+      "text": "mechanized water point",
+      "start": null,
+      "end": null
+    }
+  }
+]

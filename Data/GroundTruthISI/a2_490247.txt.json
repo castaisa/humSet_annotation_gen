@@ -1,0 +1,118 @@
+[
+  {
+    "quantity": {
+      "text": "3.8",
+      "begin": 192,
+      "end": 195
+    },
+    "unit": {
+      "text": "wheat flour/non-skilled daily wage",
+      "begin": 203,
+      "end": 237
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.6",
+      "begin": 250,
+      "end": 253
+    },
+    "unit": {
+      "text": "kgs of wheat flour",
+      "begin": 254,
+      "end": 272
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 322,
+      "end": 325
+    },
+    "unit": {
+      "text": "months",
+      "begin": 326,
+      "end": 332
+    }
+  },
+  {
+    "quantity": {
+      "text": "five percent",
+      "begin": 377,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "national average ToT decreased",
+      "begin": 343,
+      "end": 373
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four percent",
+      "begin": 397,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "national average ToT decreased",
+      "begin": 343,
+      "end": 373
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3.8",
+      "begin": 517,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "national average daily wage of a non-skilled labourer could buy",
+      "begin": 453,
+      "end": 516
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "kgs of wheat flour",
+      "begin": 521,
+      "end": 539
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 565,
+      "end": 569
+    },
+    "eventDescription": {
+      "text": "national average daily wage of a non-skilled labourer could buy",
+      "begin": 453,
+      "end": 516
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "kgs",
+      "begin": 570,
+      "end": 573
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.9",
+      "begin": 595,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "national average daily wage of a non-skilled labourer could buy",
+      "begin": 453,
+      "end": 516
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "kgs",
+      "begin": 599,
+      "end": 602
+    }
+  }
+]

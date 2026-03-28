@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "Four",
+      "start": 91,
+      "end": 95
+    },
+    "eventDescription": {
+      "text": "remain completely inaccessible",
+      "start": 101,
+      "end": 131
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 96,
+      "end": 100
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "263",
+      "start": 544,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "suffering from severe acute malnutrition (SAM)",
+      "start": 582,
+      "end": 628
+    },
+    "unit": {
+      "text": "children",
+      "start": 559,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "460",
+      "start": 555,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "screened",
+      "start": 568,
+      "end": 576
+    },
+    "unit": {
+      "text": "children",
+      "start": 559,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "five",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "children under five screened",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": {
+      "text": "dozens",
+      "begin": 15,
+      "end": 21
+    },
+    "unit": {
+      "text": "male and female teachers",
+      "begin": 25,
+      "end": 49
+    },
+    "eventDescription": {
+      "text": "went to school health building to request referrals and sick leave",
+      "begin": 54,
+      "end": 120
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,000",
+      "begin": 216,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "number of sick leaves registered",
+      "begin": 146,
+      "end": 178
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "quantity": {
+      "text": "4.8 million",
+      "begin": 18,
+      "end": 29
+    },
+    "modifier": {
+      "text": "some",
+      "begin": 13,
+      "end": 17
+    },
+    "unit": {
+      "text": "children",
+      "begin": 30,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "received polio vaccination",
+      "begin": 39,
+      "end": 65
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "405,000",
+      "begin": 81,
+      "end": 88
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 71,
+      "end": 80
+    },
+    "unit": {
+      "text": "pregnant and lactating women",
+      "begin": 89,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "accessed health care",
+      "begin": 118,
+      "end": 138
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "167,300",
+      "begin": 154,
+      "end": 161
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 149,
+      "end": 153
+    },
+    "unit": {
+      "text": "children with SAM",
+      "begin": 162,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "received treatment",
+      "begin": 180,
+      "end": 198
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "88 per cent",
+      "begin": 285,
+      "end": 296
+    },
+    "eventDescription": {
+      "text": "able to verify and document",
+      "begin": 257,
+      "end": 284
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "child protection cases",
+      "begin": 304,
+      "end": 326
+    }
+  },
+  {
+    "quantity": {
+      "text": "404,400",
+      "begin": 422,
+      "end": 429
+    },
+    "eventDescription": {
+      "text": "provided psychosocial support",
+      "begin": 379,
+      "end": 408
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 412,
+      "end": 421
+    },
+    "unit": {
+      "text": "children",
+      "begin": 430,
+      "end": 438
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.1 million",
+      "begin": 477,
+      "end": 488
+    },
+    "modifier": {
+      "text": "Nearly",
+      "begin": 470,
+      "end": 476
+    },
+    "unit": {
+      "text": "people",
+      "begin": 489,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "accessed mine-risk awareness education.",
+      "begin": 496,
+      "end": 535
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "119,000",
+      "begin": 601,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "UNICEF distributed",
+      "begin": 582,
+      "end": 600
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "school bags",
+      "begin": 609,
+      "end": 620
+    }
+  },
+  {
+    "quantity": {
+      "text": "375,000",
+      "begin": 666,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "opened safe learning spaces that benefitted",
+      "begin": 622,
+      "end": 665
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 674,
+      "end": 682
+    }
+  },
+  {
+    "quantity": {
+      "text": "256,000",
+      "begin": 720,
+      "end": 727
+    },
+    "eventDescription": {
+      "text": "provided psychosocial support",
+      "begin": 687,
+      "end": 716
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "students",
+      "begin": 728,
+      "end": 736
+    }
+  }
+]

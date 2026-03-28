@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "182,341",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "receiving humanitarian assistance"
+  },
+  {
+    "quantity": "325 g",
+    "unit": "cereals",
+    "eventType": "EventA",
+    "eventDescription": "provided in average ration"
+  },
+  {
+    "quantity": "72 g",
+    "unit": "pulses",
+    "eventType": "EventA",
+    "eventDescription": "provided in average ration"
+  },
+  {
+    "quantity": "23 g",
+    "unit": "oil",
+    "eventType": "EventA",
+    "eventDescription": "provided in average ration"
+  },
+  {
+    "quantity": "3,500",
+    "unit": "XAF per person per month",
+    "eventType": "EventA",
+    "eventDescription": "cash payment for the averagely vulnerable"
+  },
+  {
+    "quantity": "6,000",
+    "unit": "XAF per person per month",
+    "eventType": "EventA",
+    "eventDescription": "cash payment for the most vulnerable"
+  }
+]

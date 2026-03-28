@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "94.8 million",
+      "begin": 152,
+      "end": 164
+    },
+    "eventDescription": {
+      "text": "seeking",
+      "begin": 141,
+      "end": 148
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "US$",
+      "begin": 149,
+      "end": 152
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 169,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "seeking",
+      "begin": 141,
+      "end": 148
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "months",
+      "begin": 173,
+      "end": 179
+    }
+  },
+  {
+    "quantity": {
+      "text": "52.7 million",
+      "begin": 208,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 196,
+      "end": 204
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 205,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "29.5 million",
+      "begin": 381,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 196,
+      "end": 204
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 378,
+      "end": 381
+    }
+  },
+  {
+    "quantity": {
+      "text": "23.2 million",
+      "begin": 307,
+      "end": 319
+    },
+    "unit": {
+      "text": "US$",
+      "begin": 304,
+      "end": 307
+    },
+    "eventDescription": {
+      "text": "channeled through the World Health Organization (WHO)",
+      "begin": 320,
+      "end": 373
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "52",
+      "begin": 652,
+      "end": 654
+    },
+    "eventDescription": {
+      "text": "specialized health agency in the Americas and the Regional Office of is WHO providing critical leadership, coordination and assistance to fight the spread of COVID-19",
+      "begin": 425,
+      "end": 591
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "countries and territories of the America",
+      "begin": 655,
+      "end": 695
+    }
+  }
+]

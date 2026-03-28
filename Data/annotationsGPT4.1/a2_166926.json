@@ -1,0 +1,35 @@
+[
+  {
+    "quantity": "90 per cent",
+    "unit": "parents with school-age children",
+    "eventType": "EventP",
+    "eventDescription": "indicated their children did not have access to formal education"
+  },
+  {
+    "quantity": "over 1,300",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "were pursuing their education at CFS",
+    "modifier": "over"
+  },
+  {
+    "quantity": "around 600",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "were pursuing their education at CFS operated by LWC",
+    "modifier": "around"
+  },
+  {
+    "quantity": "around 70 per cent",
+    "unit": "school-age migrant children",
+    "eventType": "EventP",
+    "eventDescription": "were pursuing their education at CFS",
+    "modifier": "around"
+  },
+  {
+    "quantity": "771",
+    "unit": "migrant children",
+    "eventType": "EventP",
+    "eventDescription": "had been granted student permits by the Ministry of National Security"
+  }
+]

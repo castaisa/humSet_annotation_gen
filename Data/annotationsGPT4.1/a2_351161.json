@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "51 960",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average selling price of fungicides"
+  },
+  {
+    "quantity": "90 000",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price of fungicides in Dar\u00e1"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m increase in fungicide price in Dar\u00e1"
+  },
+  {
+    "quantity": "six",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "number of governorates with decrease in fungicide price"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in Hasakeh"
+  },
+  {
+    "quantity": "13 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in Aleppo"
+  },
+  {
+    "quantity": "12 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in Homs"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in Tartous"
+  },
+  {
+    "quantity": "8 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in Hama"
+  },
+  {
+    "quantity": "55 000",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average selling price for fungicides in Rural Damascus"
+  }
+]

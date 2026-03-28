@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "dispatched",
+      "start": 85,
+      "end": 95
+    },
+    "quantity": {
+      "text": "1,500",
+      "start": 308,
+      "end": 313
+    },
+    "unit": {
+      "text": "food parcels",
+      "start": 314,
+      "end": 326
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "dispatched",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,500",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food supplements for children",
+      "start": 349,
+      "end": 378
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suffering from malnutrition",
+      "start": 544,
+      "end": 571
+    },
+    "quantity": {
+      "text": "thousands",
+      "start": 486,
+      "end": 495
+    },
+    "unit": {
+      "text": "residents and children",
+      "start": 499,
+      "end": 521
+    }
+  }
+]

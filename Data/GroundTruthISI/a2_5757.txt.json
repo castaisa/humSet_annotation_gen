@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 193,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 175,
+      "end": 183
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mobile clinic",
+      "begin": 197,
+      "end": 210
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "live in extreme poverty",
+      "start": 47,
+      "end": 70
+    },
+    "quantity": {
+      "text": "Millions",
+      "start": 25,
+      "end": 33
+    },
+    "unit": {
+      "text": "Nigerians",
+      "start": 37,
+      "end": 46
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "income threshold for extreme poverty",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "less than $1.90",
+      "start": 74,
+      "end": 89
+    },
+    "unit": {
+      "text": "per person per day",
+      "start": 90,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "created",
+      "start": 404,
+      "end": 411
+    },
+    "quantity": {
+      "text": "millions",
+      "start": 412,
+      "end": 420
+    },
+    "unit": {
+      "text": "internally displaced persons",
+      "start": 424,
+      "end": 452
+    }
+  }
+]

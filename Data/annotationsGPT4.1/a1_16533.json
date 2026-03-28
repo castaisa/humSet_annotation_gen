@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "50 percent",
+    "unit": "reduction in civilian casualty incidents",
+    "eventType": "EventP",
+    "eventDescription": "reduction in civilian casualty incidents"
+  },
+  {
+    "quantity": "1,500",
+    "unit": "civilian casualties",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "200",
+    "unit": "civilian shelters",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  }
+]

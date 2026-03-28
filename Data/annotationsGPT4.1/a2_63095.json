@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "15",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "areas remained without water"
+  },
+  {
+    "quantity": "29%",
+    "unit": "of rural population",
+    "eventType": "EventP",
+    "eventDescription": "practiced open defecation"
+  }
+]

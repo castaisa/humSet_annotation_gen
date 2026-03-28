@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "48,300",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "directly affected"
+  },
+  {
+    "quantity": "92,000",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "impacted"
+  },
+  {
+    "quantity": "75",
+    "unit": "hectares of land",
+    "eventType": "EventO",
+    "eventDescription": "impacted by the fire"
+  }
+]

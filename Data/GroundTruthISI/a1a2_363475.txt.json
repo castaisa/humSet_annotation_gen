@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 242,
+      "end": 243
+    },
+    "unit": {
+      "text": "collective settlement",
+      "begin": 244,
+      "end": 265
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "begin": 406,
+      "end": 414
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 270,
+      "end": 271
+    },
+    "unit": {
+      "text": "host community",
+      "begin": 272,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "begin": 406,
+      "end": 414
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 340,
+      "end": 341
+    },
+    "unit": {
+      "text": "host community",
+      "begin": 342,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "begin": 406,
+      "end": 414
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "400",
+      "begin": 473,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "begin": 460,
+      "end": 468
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Housing Estate camp",
+      "begin": 477,
+      "end": 496
+    }
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 564,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "damaged",
+      "begin": 556,
+      "end": 563
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "shelters",
+      "begin": 566,
+      "end": 574
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 599,
+      "end": 602
+    },
+    "eventDescription": {
+      "text": "estimated",
+      "begin": 589,
+      "end": 598
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "individuals",
+      "begin": 603,
+      "end": 614
+    }
+  }
+]

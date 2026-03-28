@@ -1,0 +1,205 @@
+[
+  {
+    "quantity": {
+      "text": "209,939",
+      "begin": 267,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "messages reached",
+      "begin": 250,
+      "end": 266
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 275,
+      "end": 281
+    }
+  },
+  {
+    "quantity": {
+      "text": "152,235",
+      "begin": 293,
+      "end": 300
+    },
+    "eventDescription": {
+      "text": "messages reached",
+      "begin": 250,
+      "end": 266
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 301,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "82,164",
+      "begin": 311,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "messages reached",
+      "begin": 250,
+      "end": 266
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 318,
+      "end": 322
+    }
+  },
+  {
+    "quantity": {
+      "text": "70,071",
+      "begin": 324,
+      "end": 330
+    },
+    "eventDescription": {
+      "text": "messages reached",
+      "begin": 250,
+      "end": 266
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 331,
+      "end": 336
+    }
+  },
+  {
+    "quantity": {
+      "text": "57,704",
+      "begin": 342,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "messages reached",
+      "begin": 250,
+      "end": 266
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "adults",
+      "begin": 349,
+      "end": 355
+    }
+  },
+  {
+    "quantity": {
+      "text": "30,352",
+      "begin": 357,
+      "end": 363
+    },
+    "eventDescription": {
+      "text": "messages reached",
+      "begin": 250,
+      "end": 266
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "male",
+      "begin": 364,
+      "end": 368
+    }
+  },
+  {
+    "quantity": {
+      "text": "27,352",
+      "begin": 370,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "messages reached",
+      "begin": 250,
+      "end": 266
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "female",
+      "begin": 377,
+      "end": 383
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 394,
+      "end": 397
+    },
+    "eventDescription": {
+      "text": "covering",
+      "begin": 385,
+      "end": 393
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "governorates",
+      "begin": 398,
+      "end": 410
+    }
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 716,
+      "end": 718
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 706,
+      "end": 714
+    },
+    "unit": {
+      "text": "children",
+      "begin": 719,
+      "end": 727
+    },
+    "eventDescription": {
+      "text": "provided with medical and other services",
+      "begin": 753,
+      "end": 793
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 729,
+      "end": 731
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 732,
+      "end": 736
+    },
+    "eventDescription": {
+      "text": "provided with medical and other services",
+      "begin": 753,
+      "end": 793
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 738,
+      "end": 740
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 741,
+      "end": 746
+    },
+    "eventDescription": {
+      "text": "provided with medical and other services",
+      "begin": 753,
+      "end": 793
+    },
+    "eventType": "EventA"
+  }
+]

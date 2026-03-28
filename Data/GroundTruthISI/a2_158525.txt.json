@@ -1,0 +1,40 @@
+[
+  {
+    "quantity": {
+      "text": "37",
+      "begin": 188,
+      "end": 190
+    },
+    "unit": {
+      "text": "states",
+      "begin": 191,
+      "end": 197
+    }
+  },
+  {
+    "quantity": {
+      "text": "10.6 million",
+      "begin": 470,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "number of people needing humanitarian assistance",
+      "begin": 391,
+      "end": 439
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "7.9 million",
+      "begin": 455,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "number of people needing humanitarian assistance",
+      "begin": 391,
+      "end": 439
+    },
+    "eventType": "EventA"
+  }
+]

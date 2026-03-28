@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "Fifty-four per cent",
+      "begin": 270,
+      "end": 289
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 293,
+      "end": 304
+    },
+    "eventDescription": {
+      "text": "house in which the household lived prior to their displacement was totally burnt or destroyed.",
+      "begin": 323,
+      "end": 417
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Twenty-eight per cent",
+      "begin": 418,
+      "end": 439
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 443,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "house was partially burnt or damaged, but still repairable",
+      "begin": 475,
+      "end": 533
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Six per cent",
+      "begin": 535,
+      "end": 547
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 551,
+      "end": 562
+    },
+    "eventDescription": {
+      "text": "houses were not damaged at all",
+      "begin": 581,
+      "end": 611
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12 per cent",
+      "begin": 620,
+      "end": 631
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 639,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "house in their location of origin was unknown",
+      "begin": 679,
+      "end": 724
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 111,
+      "end": 113
+    },
+    "unit": {
+      "text": "members of the staff of Ministry of Public Health (MoPH)",
+      "begin": 114,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "trained as Trainers of Trainers.",
+      "begin": 236,
+      "end": 268
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 273,
+      "end": 275
+    },
+    "unit": {
+      "text": "members",
+      "begin": 276,
+      "end": 283
+    },
+    "eventDescription": {
+      "text": "trained",
+      "begin": 284,
+      "end": 291
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "48",
+      "begin": 292,
+      "end": 294
+    },
+    "eventDescription": {
+      "text": "trained",
+      "begin": 284,
+      "end": 291
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "counsellors",
+      "begin": 295,
+      "end": 306
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,530",
+      "begin": 430,
+      "end": 435
+    },
+    "unit": {
+      "text": "children between 0-24 months.",
+      "begin": 436,
+      "end": 465
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 455,
+      "end": 457
+    },
+    "unit": {
+      "text": "months",
+      "begin": 458,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "0-24",
+      "begin": 453,
+      "end": 457
+    },
+    "unit": {
+      "text": "months",
+      "begin": 458,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "0",
+      "begin": 453,
+      "end": 454
+    },
+    "unit": {
+      "text": "months",
+      "begin": 458,
+      "end": 464
+    }
+  }
+]

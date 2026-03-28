@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": {
+      "text": "318",
+      "begin": 145,
+      "end": 148
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 149,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "regularized",
+      "begin": 166,
+      "end": 177
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21",
+      "begin": 200,
+      "end": 202
+    },
+    "unit": {
+      "text": "officials",
+      "begin": 203,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "received training",
+      "begin": 247,
+      "end": 264
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 502,
+      "end": 504
+    },
+    "unit": {
+      "text": "Costa Rican officials",
+      "begin": 505,
+      "end": 526
+    }
+  }
+]

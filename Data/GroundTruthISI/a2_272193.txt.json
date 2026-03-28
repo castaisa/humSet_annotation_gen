@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": {
+      "text": "6.6",
+      "begin": 184,
+      "end": 187
+    },
+    "unit": {
+      "text": "members",
+      "begin": 188,
+      "end": 195
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.5",
+      "begin": 228,
+      "end": 231
+    },
+    "unit": {
+      "text": "members",
+      "begin": 232,
+      "end": 239
+    }
+  }
+]

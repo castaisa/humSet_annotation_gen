@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7.7 million",
+      "start": 142,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 154,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "80%",
+      "start": 339,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "flooded",
+      "start": 358,
+      "end": 365
+    },
+    "unit": {
+      "text": "of the country",
+      "start": 343,
+      "end": 357
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 325,
+      "end": 338
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four",
+      "start": 479,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "declared state of emergency",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "states",
+      "start": 484,
+      "end": 490
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five",
+      "start": 595,
+      "end": 599
+    },
+    "eventDescription": {
+      "text": "state of emergency expanded",
+      "start": 554,
+      "end": 581
+    },
+    "unit": {
+      "text": "states",
+      "start": 600,
+      "end": 606
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six",
+      "start": 676,
+      "end": 679
+    },
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "main risk factors",
+      "start": 680,
+      "end": 697
+    }
+  }
+]

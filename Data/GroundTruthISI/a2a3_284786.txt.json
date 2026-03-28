@@ -1,0 +1,87 @@
+[
+  {
+    "quantity": {
+      "text": "14 million",
+      "begin": 275,
+      "end": 285
+    },
+    "unit": {
+      "text": "people",
+      "begin": 286,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "begin": 293,
+      "end": 327
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "11.1 million",
+      "begin": 368,
+      "end": 380
+    },
+    "eventDescription": {
+      "text": "receive support",
+      "begin": 384,
+      "end": 399
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1.1 billion",
+      "begin": 422,
+      "end": 433
+    },
+    "unit": {
+      "text": "US$",
+      "begin": 419,
+      "end": 422
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 460,
+      "end": 465
+    },
+    "unit": {
+      "text": "quarters",
+      "begin": 466,
+      "end": 474
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.6 million",
+      "begin": 521,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "humanitarians were able to reach",
+      "begin": 488,
+      "end": 520
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 533,
+      "end": 539
+    }
+  },
+  {
+    "quantity": {
+      "text": "581m",
+      "begin": 705,
+      "end": 709
+    },
+    "unit": {
+      "text": "$",
+      "begin": 704,
+      "end": 705
+    }
+  }
+]

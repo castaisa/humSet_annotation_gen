@@ -1,0 +1,452 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "new cases of Acute Flaccid Paralysis (AFP) reported",
+      "start": 63,
+      "end": 114
+    },
+    "quantity": {
+      "text": "85",
+      "start": 60,
+      "end": 62
+    },
+    "unit": {
+      "text": "cases",
+      "start": 67,
+      "end": 72
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of cholera reported",
+      "start": 317,
+      "end": 352
+    },
+    "quantity": {
+      "text": "18",
+      "start": 314,
+      "end": 316
+    },
+    "unit": {
+      "text": "cases",
+      "start": 327,
+      "end": 332
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of cholera in Ebonyi",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 393,
+      "end": 394
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of cholera in Kano",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 404,
+      "end": 405
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever reported",
+      "start": 478,
+      "end": 517
+    },
+    "quantity": {
+      "text": "116",
+      "start": 474,
+      "end": 477
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever in Bauchi",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12",
+      "start": 556,
+      "end": 558
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever in Edo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "58",
+      "start": 565,
+      "end": 567
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever in Ebonyi",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11",
+      "start": 578,
+      "end": 580
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever in FCT",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 588,
+      "end": 589
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever in Ondo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27",
+      "start": 598,
+      "end": 600
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected case of Lassa fever in Nasarawa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 613,
+      "end": 614
+    },
+    "unit": {
+      "text": "case",
+      "start": 442,
+      "end": 446
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever in Plateau",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3",
+      "start": 626,
+      "end": 627
+    },
+    "unit": {
+      "text": "cases",
+      "start": 488,
+      "end": 493
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Lassa fever in Taraba",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 639,
+      "end": 640
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "laboratory confirmed cases of Lassa fever",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35",
+      "start": 643,
+      "end": 645
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths from Lassa fever",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 676,
+      "end": 681
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 682,
+      "end": 688
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of Cerebrospinal Meningitis (CSM) reported",
+      "start": 720,
+      "end": 778
+    },
+    "quantity": {
+      "text": "22",
+      "start": 717,
+      "end": 719
+    },
+    "unit": {
+      "text": "cases",
+      "start": 730,
+      "end": 735
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "LGAs reporting suspected cases of CSM",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14",
+      "start": 784,
+      "end": 786
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 787,
+      "end": 791
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of CSM in Cross River",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 822,
+      "end": 823
+    },
+    "unit": {
+      "text": "cases",
+      "start": 970,
+      "end": 975
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of CSM in Katsina",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 835,
+      "end": 837
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of CSM in Kwara",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 847,
+      "end": 848
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of CSM in Taraba",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 859,
+      "end": 860
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of CSM in Zamfara",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 873,
+      "end": 874
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases of measles reported",
+      "start": 960,
+      "end": 995
+    },
+    "quantity": {
+      "text": "503",
+      "start": 956,
+      "end": 959
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "States reporting suspected cases of measles",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32",
+      "start": 1001,
+      "end": 1003
+    },
+    "unit": {
+      "text": "States",
+      "start": 1004,
+      "end": 1010
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths from measles",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 1046,
+      "end": 1049
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 1050,
+      "end": 1056
+    }
+  }
+]

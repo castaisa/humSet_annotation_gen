@@ -1,0 +1,61 @@
+[
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 112,
+      "end": 114
+    },
+    "modifier": {
+      "text": "Over the last",
+      "begin": 98,
+      "end": 111
+    },
+    "unit": {
+      "text": "years",
+      "begin": 115,
+      "end": 120
+    },
+    "eventDescription": {
+      "text": "state has been dependent on and affected by severe rain decrease",
+      "begin": 126,
+      "end": 190
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25th",
+      "begin": 454,
+      "end": 458
+    },
+    "unit": {
+      "text": "most-vulnerable country",
+      "begin": 459,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "begin": 492,
+      "end": 500
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 530,
+      "end": 533
+    },
+    "unit": {
+      "text": "first African countries",
+      "begin": 541,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "to commit in signing the United Nations Framework Convention on Climate Change in 1993 and the Kyoto Protocol in 2005",
+      "begin": 565,
+      "end": 682
+    },
+    "eventType": "EventO"
+  }
+]

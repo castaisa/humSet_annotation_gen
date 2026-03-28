@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "65",
+      "begin": 228,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "mandatory COVID-19 testing fee",
+      "begin": 194,
+      "end": 224
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 231,
+      "end": 234
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 415,
+      "end": 418
+    },
+    "eventDescription": {
+      "text": "traders importing goods from Uganda and Sudan reported delays",
+      "begin": 338,
+      "end": 399
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "median of",
+      "begin": 405,
+      "end": 414
+    },
+    "unit": {
+      "text": "days",
+      "begin": 419,
+      "end": 423
+    }
+  },
+  {
+    "quantity": {
+      "text": "22 percent",
+      "begin": 583,
+      "end": 593
+    },
+    "eventDescription": {
+      "text": "weekly trade volumes of maize declined",
+      "begin": 541,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weekly trade volumes of maize",
+      "begin": 541,
+      "end": 570
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 658,
+      "end": 668
+    },
+    "eventDescription": {
+      "text": "weekly trade volumes of maize declined",
+      "begin": 541,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weekly trade volumes of maize",
+      "begin": 541,
+      "end": 570
+    }
+  },
+  {
+    "quantity": {
+      "text": "second",
+      "begin": 603,
+      "end": 609
+    },
+    "eventDescription": {
+      "text": "weekly trade volumes of maize declined",
+      "begin": 541,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "week",
+      "begin": 619,
+      "end": 623
+    }
+  },
+  {
+    "quantity": {
+      "text": "second to third",
+      "begin": 603,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "weekly trade volumes of maize declined",
+      "begin": 541,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "week",
+      "begin": 619,
+      "end": 623
+    }
+  },
+  {
+    "quantity": {
+      "text": "third",
+      "begin": 613,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "weekly trade volumes of maize declined",
+      "begin": 541,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "week",
+      "begin": 619,
+      "end": 623
+    }
+  }
+]

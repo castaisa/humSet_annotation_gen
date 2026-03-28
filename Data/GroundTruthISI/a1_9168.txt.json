@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "900,000",
+      "begin": 138,
+      "end": 145
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 125,
+      "end": 132
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "over",
+      "begin": 133,
+      "end": 137
+    },
+    "unit": {
+      "text": "people",
+      "begin": 146,
+      "end": 152
+    }
+  },
+  {
+    "quantity": {
+      "text": "80,000",
+      "begin": 358,
+      "end": 364
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 353,
+      "end": 357
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 365,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "have been reached",
+      "begin": 373,
+      "end": 390
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "642,317",
+      "begin": 444,
+      "end": 451
+    },
+    "unit": {
+      "text": "children and community members",
+      "begin": 452,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 488,
+      "end": 496
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "4,708",
+      "begin": 606,
+      "end": 611
+    },
+    "eventDescription": {
+      "text": "Community-based responses continue to be strengthened",
+      "begin": 544,
+      "end": 597
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "community-based protection network volunteers",
+      "begin": 612,
+      "end": 657
+    }
+  }
+]

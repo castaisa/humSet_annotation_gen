@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "8,248",
+    "unit": "internally displaced persons (IDPs)",
+    "eventType": "EventP",
+    "eventDescription": "arrived/displaced"
+  },
+  {
+    "quantity": "4",
+    "unit": "kilometers",
+    "eventType": "EventO",
+    "eventDescription": "distance advanced"
+  },
+  {
+    "quantity": "133",
+    "unit": "humanitarian personnel",
+    "eventType": "EventA",
+    "eventDescription": "temporarily relocated"
+  },
+  {
+    "quantity": "about 3819",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "arrived",
+    "modifier": "about"
+  },
+  {
+    "quantity": "95 percent",
+    "unit": "of the new arrivals",
+    "eventType": "EventP",
+    "eventDescription": "relocated due to ongoing conflict"
+  },
+  {
+    "quantity": "3 percent",
+    "unit": "of the new arrivals",
+    "eventType": "EventP",
+    "eventDescription": "voluntarily relocated"
+  },
+  {
+    "quantity": "2 percent",
+    "unit": "of the new arrivals",
+    "eventType": "EventP",
+    "eventDescription": "relocated due to poor living condition"
+  }
+]

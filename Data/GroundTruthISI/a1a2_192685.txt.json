@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 118,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "nutritional status",
+      "begin": 70,
+      "end": 88
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children under the age",
+      "begin": 92,
+      "end": 114
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.1 per cent",
+      "begin": 206,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 194,
+      "end": 202
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "GAM",
+      "begin": 222,
+      "end": 225
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 242,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 194,
+      "end": 202
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "provinces",
+      "begin": 245,
+      "end": 254
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 302,
+      "end": 303
+    },
+    "eventDescription": {
+      "text": "situation remaining the same",
+      "begin": 265,
+      "end": 293
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "only",
+      "begin": 297,
+      "end": 301
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 304,
+      "end": 313
+    }
+  }
+]

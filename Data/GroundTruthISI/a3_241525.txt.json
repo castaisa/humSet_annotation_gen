@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "33 per cent",
+      "begin": 17,
+      "end": 28
+    },
+    "unit": {
+      "text": "infants below six months",
+      "begin": 32,
+      "end": 56
+    },
+    "eventDescription": {
+      "text": "exclusively breastfed",
+      "begin": 61,
+      "end": 82
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "46 per cent",
+      "begin": 94,
+      "end": 105
+    },
+    "unit": {
+      "text": "mothers",
+      "begin": 109,
+      "end": 116
+    },
+    "eventDescription": {
+      "text": "breastfeed their infants up to 12 months",
+      "begin": 129,
+      "end": 169
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15 per cent",
+      "begin": 176,
+      "end": 187
+    },
+    "unit": {
+      "text": "mothers",
+      "begin": 109,
+      "end": 116
+    },
+    "eventDescription": {
+      "text": "breastfeed the child up to 24 months",
+      "begin": 200,
+      "end": 236
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15 per cent",
+      "begin": 296,
+      "end": 307
+    },
+    "unit": {
+      "text": "children 6-23 months",
+      "begin": 311,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "receiving the minimum dietary diversity",
+      "begin": 332,
+      "end": 371
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9 per cent",
+      "begin": 382,
+      "end": 392
+    },
+    "unit": {
+      "text": "children 6-23 months",
+      "begin": 311,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "consuming the minimum acceptable diet.",
+      "begin": 393,
+      "end": 431
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 466,
+      "end": 477
+    },
+    "unit": {
+      "text": "infants 0-23 months",
+      "begin": 481,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "bottle-fed.",
+      "begin": 501,
+      "end": 512
+    },
+    "eventType": "EventO"
+  }
+]

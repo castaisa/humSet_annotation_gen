@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "100%",
+    "unit": "dengue patients",
+    "eventType": "EventP",
+    "eventDescription": "infected with DEN-3"
+  },
+  {
+    "quantity": "90%",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "were of DEN-3 variant"
+  }
+]

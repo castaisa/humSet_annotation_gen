@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "destroyed or closed",
+      "start": 160,
+      "end": 179
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 131,
+      "end": 140
+    },
+    "quantity": {
+      "text": "more than 4,000",
+      "start": 131,
+      "end": 146
+    },
+    "unit": {
+      "text": "schools",
+      "start": 147,
+      "end": 154
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "without access to education",
+      "start": 206,
+      "end": 233
+    },
+    "quantity": {
+      "text": "700,000",
+      "start": 189,
+      "end": 196
+    },
+    "unit": {
+      "text": "students",
+      "start": 197,
+      "end": 205
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "school attendance",
+      "start": 461,
+      "end": 478
+    },
+    "modifier": {
+      "text": "less than",
+      "start": 483,
+      "end": 492
+    },
+    "quantity": {
+      "text": "less than 30 percent",
+      "start": 483,
+      "end": 503
+    },
+    "unit": {
+      "text": "of the number of children that should be enrolled in both regions",
+      "start": 504,
+      "end": 569
+    }
+  }
+]

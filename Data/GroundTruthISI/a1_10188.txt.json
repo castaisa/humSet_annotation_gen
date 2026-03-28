@@ -1,0 +1,151 @@
+[
+  {
+    "quantity": {
+      "text": "1,756",
+      "begin": 5,
+      "end": 10
+    },
+    "modifier": {
+      "text": "Some",
+      "begin": 0,
+      "end": 4
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 11,
+      "end": 22
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 28,
+      "end": 47
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,463",
+      "begin": 56,
+      "end": 61
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 11,
+      "end": 22
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 28,
+      "end": 47
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,054",
+      "begin": 75,
+      "end": 80
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 11,
+      "end": 22
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 28,
+      "end": 47
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "310",
+      "begin": 108,
+      "end": 111
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 112,
+      "end": 123
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 129,
+      "end": 140
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 159,
+      "end": 162
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 129,
+      "end": 140
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "km",
+      "begin": 163,
+      "end": 165
+    }
+  },
+  {
+    "quantity": {
+      "text": "238",
+      "begin": 230,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "included",
+      "begin": 221,
+      "end": 229
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "men",
+      "begin": 234,
+      "end": 237
+    }
+  },
+  {
+    "quantity": {
+      "text": "41",
+      "begin": 239,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "included",
+      "begin": 221,
+      "end": 229
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "women",
+      "begin": 242,
+      "end": 247
+    }
+  },
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 252,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "included",
+      "begin": 221,
+      "end": 229
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 255,
+      "end": 263
+    }
+  }
+]

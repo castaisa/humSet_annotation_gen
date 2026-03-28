@@ -1,0 +1,272 @@
+[
+  {
+    "quantity": {
+      "text": "two percent",
+      "begin": 138,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "price of WFP’s standard reference food basket decreased",
+      "begin": 50,
+      "end": 105
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "price of WFP’s standard reference food basket",
+      "begin": 50,
+      "end": 95
+    }
+  },
+  {
+    "quantity": {
+      "text": "176,471",
+      "begin": 164,
+      "end": 171
+    },
+    "eventDescription": {
+      "text": "price of WFP’s standard reference food basket decreased",
+      "begin": 50,
+      "end": 105
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 160,
+      "end": 163
+    }
+  },
+  {
+    "quantity": {
+      "text": "71",
+      "begin": 177,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "price of WFP’s standard reference food basket decreased",
+      "begin": 50,
+      "end": 105
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 173,
+      "end": 176
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,500",
+      "begin": 217,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "price of WFP’s standard reference food basket decreased",
+      "begin": 50,
+      "end": 105
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/USD",
+      "begin": 222,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "26 percent",
+      "begin": 392,
+      "end": 402
+    },
+    "unit": {
+      "text": "improvement in the informal exchange rate",
+      "begin": 347,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "improvement in the informal exchange rate",
+      "begin": 347,
+      "end": 388
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Eight",
+      "begin": 433,
+      "end": 438
+    },
+    "unit": {
+      "text": "governorates",
+      "begin": 439,
+      "end": 451
+    },
+    "eventDescription": {
+      "text": "recorded a decreasing average reference food basket pric",
+      "begin": 452,
+      "end": 508
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17 percent",
+      "begin": 555,
+      "end": 565
+    },
+    "unit": {
+      "text": "highest m-o-m decrease",
+      "begin": 529,
+      "end": 551
+    },
+    "eventDescription": {
+      "text": "re-ported",
+      "begin": 570,
+      "end": 579
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16 percent",
+      "begin": 640,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "re-ported",
+      "begin": 570,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "down",
+      "begin": 635,
+      "end": 639
+    }
+  },
+  {
+    "quantity": {
+      "text": "183,563",
+      "begin": 602,
+      "end": 609
+    },
+    "eventDescription": {
+      "text": "re-ported",
+      "begin": 570,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 598,
+      "end": 601
+    }
+  },
+  {
+    "quantity": {
+      "text": "127,870",
+      "begin": 666,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "re-ported",
+      "begin": 570,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 662,
+      "end": 665
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 689,
+      "end": 692
+    },
+    "unit": {
+      "text": "governorates",
+      "begin": 693,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "recorded an increasing reference food basket price",
+      "begin": 706,
+      "end": 756
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "11 percent",
+      "begin": 783,
+      "end": 793
+    },
+    "unit": {
+      "text": "food basket price",
+      "begin": 739,
+      "end": 756
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 798,
+      "end": 806
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "181,118",
+      "begin": 833,
+      "end": 840
+    },
+    "unit": {
+      "text": "SYP",
+      "begin": 829,
+      "end": 832
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 798,
+      "end": 806
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "nine percent",
+      "begin": 874,
+      "end": 886
+    },
+    "unit": {
+      "text": "food basket price",
+      "begin": 739,
+      "end": 756
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 798,
+      "end": 806
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "180,589",
+      "begin": 901,
+      "end": 908
+    },
+    "unit": {
+      "text": "SYP",
+      "begin": 897,
+      "end": 900
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 798,
+      "end": 806
+    },
+    "eventType": "EventO"
+  }
+]

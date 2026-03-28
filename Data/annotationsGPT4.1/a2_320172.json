@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "14",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "recorded an increasing average reference food basket price"
+  },
+  {
+    "quantity": "43 percent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "reported m-o-m increase"
+  },
+  {
+    "quantity": "198,582",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "reference food basket price reached"
+  },
+  {
+    "quantity": "24 percent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "reported m-o-m increase"
+  },
+  {
+    "quantity": "175,503",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "reference food basket price reached"
+  },
+  {
+    "quantity": "221,186",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average food basket price"
+  },
+  {
+    "quantity": "26 percent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "reported m-o-m increase"
+  },
+  {
+    "quantity": "14",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "price of the reference food basket increased across"
+  },
+  {
+    "quantity": "367 percent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "recorded highest y-o-y increase"
+  },
+  {
+    "quantity": "242 percent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "recorded lowest y-o-y increase"
+  }
+]

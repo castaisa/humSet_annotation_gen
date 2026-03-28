@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "70,000",
+      "start": 107,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "assisted with a one-off blanket commodity voucher distribution",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 114,
+      "end": 124
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "900",
+      "start": 371,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "provided to families in Hudaydah city",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "pieces of bread",
+      "start": 375,
+      "end": 390
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "30",
+      "start": 392,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "provided to families in Hudaydah city",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "pieces of bread per day",
+      "start": 395,
+      "end": 418
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "52,000",
+      "start": 488,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "receive a one-off blanket commodity voucher ration",
+      "start": 572,
+      "end": 622
+    },
+    "unit": {
+      "text": "households",
+      "start": 495,
+      "end": 505
+    }
+  }
+]

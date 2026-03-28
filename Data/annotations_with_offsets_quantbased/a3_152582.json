@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "34",
+      "start": 296,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 333,
+      "end": 341
+    },
+    "unit": {
+      "text": "positive COVID-19 cases",
+      "start": 299,
+      "end": 322
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 343,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "currently in Panama for being moderate",
+      "start": 345,
+      "end": 383
+    },
+    "unit": {
+      "text": "currently in Panama for being moderate",
+      "start": 345,
+      "end": 383
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22",
+      "start": 386,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "recovered",
+      "start": 399,
+      "end": 408
+    },
+    "unit": {
+      "text": "have been recovered",
+      "start": 389,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "116",
+      "start": 414,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "remain in MRS Lajas Blancas because of possible contacts",
+      "start": 418,
+      "end": 474
+    },
+    "unit": {
+      "text": "remain in MRS Lajas Blancas because of possible contacts",
+      "start": 418,
+      "end": 474
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "322",
+      "start": 484,
+      "end": 487
+    },
+    "eventDescription": {
+      "text": "performed",
+      "start": 509,
+      "end": 518
+    },
+    "unit": {
+      "text": "swab tests",
+      "start": 488,
+      "end": 498
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 691,
+      "end": 694
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 705,
+      "end": 713
+    },
+    "unit": {
+      "text": "birth",
+      "start": 695,
+      "end": 700
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Two",
+      "start": 806,
+      "end": 809
+    },
+    "eventDescription": {
+      "text": "reported in adults",
+      "start": 843,
+      "end": 861
+    },
+    "unit": {
+      "text": "cases of leishmaniasis",
+      "start": 810,
+      "end": 832
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 866,
+      "end": 869
+    },
+    "eventDescription": {
+      "text": "reported with leishmaniasis",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "child",
+      "start": 870,
+      "end": 875
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "zero",
+      "start": 926,
+      "end": 930
+    },
+    "eventDescription": {
+      "text": "reported in MRS Los Planes",
+      "start": 959,
+      "end": 985
+    },
+    "unit": {
+      "text": "cases of COVID-19",
+      "start": 931,
+      "end": 948
+    }
+  }
+]

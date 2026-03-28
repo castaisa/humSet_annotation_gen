@@ -1,0 +1,95 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 149,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "LAC region has",
+      "begin": 120,
+      "end": 134
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "average of",
+      "begin": 138,
+      "end": 148
+    },
+    "unit": {
+      "text": "doctors per 1,000 population",
+      "begin": 153,
+      "end": 181
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.5",
+      "begin": 239,
+      "end": 242
+    },
+    "unit": {
+      "text": "doctors per 1,000 population",
+      "begin": 153,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "most countries stand well below",
+      "begin": 187,
+      "end": 218
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2.1",
+      "begin": 341,
+      "end": 344
+    },
+    "unit": {
+      "text": "per 1,000 population",
+      "begin": 345,
+      "end": 365
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.7",
+      "begin": 413,
+      "end": 416
+    },
+    "unit": {
+      "text": "per 1,000 population",
+      "begin": 345,
+      "end": 365
+    },
+    "modifier": {
+      "text": "average of",
+      "begin": 402,
+      "end": 412
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 521,
+      "end": 524
+    },
+    "eventDescription": {
+      "text": "stock is",
+      "begin": 506,
+      "end": 514
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "below",
+      "begin": 515,
+      "end": 520
+    },
+    "unit": {
+      "text": "hospital bed per 1,000 population",
+      "begin": 525,
+      "end": 558
+    }
+  }
+]

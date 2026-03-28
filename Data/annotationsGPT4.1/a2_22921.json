@@ -1,0 +1,266 @@
+[
+  {
+    "quantity": "403",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "363",
+    "unit": "Influenza like-illness (ILI)",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "40",
+    "unit": "Severe Acute Respiratory Infection (SARI)",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "ten",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "recruited"
+  },
+  {
+    "quantity": "403",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "396",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "356",
+    "unit": "ILI cases",
+    "eventType": "EventP",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "89.8%",
+    "unit": "ILI cases",
+    "eventType": "EventP",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "40",
+    "unit": "Severe Acute Respiratory Infection (SARI)",
+    "eventType": "EventP",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "10.1%",
+    "unit": "Severe Acute Respiratory Infection (SARI)",
+    "eventType": "EventP",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "356",
+    "unit": "processed ILI samples",
+    "eventType": "EventO",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "39",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza A"
+  },
+  {
+    "quantity": "11.0%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza A"
+  },
+  {
+    "quantity": "33",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza B"
+  },
+  {
+    "quantity": "9.3%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza B"
+  },
+  {
+    "quantity": "284",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "negative"
+  },
+  {
+    "quantity": "79.9%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "negative"
+  },
+  {
+    "quantity": "40",
+    "unit": "processed SARI samples",
+    "eventType": "EventO",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "7",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza A"
+  },
+  {
+    "quantity": "17.5%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza A"
+  },
+  {
+    "quantity": "2",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza B"
+  },
+  {
+    "quantity": "5.0%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza B"
+  },
+  {
+    "quantity": "31",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "negative"
+  },
+  {
+    "quantity": "77.5%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "negative"
+  },
+  {
+    "quantity": "396",
+    "unit": "processed samples",
+    "eventType": "EventO",
+    "eventDescription": "processed"
+  },
+  {
+    "quantity": "81",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza"
+  },
+  {
+    "quantity": "21.8%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza"
+  },
+  {
+    "quantity": "46",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza A"
+  },
+  {
+    "quantity": "56.8%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza A"
+  },
+  {
+    "quantity": "35",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza B"
+  },
+  {
+    "quantity": "43.2%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "positive for Influenza B"
+  },
+  {
+    "quantity": "8",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "A seasonal H3 subtype"
+  },
+  {
+    "quantity": "17.4%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "A seasonal H3 subtype"
+  },
+  {
+    "quantity": "28",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "2009A/H1N1 subtype"
+  },
+  {
+    "quantity": "60.9%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "2009A/H1N1 subtype"
+  },
+  {
+    "quantity": "10",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "A/not subtyped"
+  },
+  {
+    "quantity": "21.7%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "A/not subtyped"
+  },
+  {
+    "quantity": "24",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "B VICTORIA subtype"
+  },
+  {
+    "quantity": "70.6%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "B VICTORIA subtype"
+  },
+  {
+    "quantity": "8",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "B Not subtyped"
+  },
+  {
+    "quantity": "20.6%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "B Not subtyped"
+  },
+  {
+    "quantity": "3",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "B Yamagata subtype"
+  },
+  {
+    "quantity": "8.8%",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "B Yamagata subtype"
+  },
+  {
+    "quantity": "100.0%",
+    "unit": "influenza positive",
+    "eventType": "EventO",
+    "eventDescription": "highest percentage"
+  }
+]

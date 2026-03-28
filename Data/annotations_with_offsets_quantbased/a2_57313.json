@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70+",
+      "start": 391,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "engaged",
+      "start": 404,
+      "end": 411
+    },
+    "unit": {
+      "text": "migrants",
+      "start": 395,
+      "end": 403
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 443,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "travelled",
+      "start": 416,
+      "end": 425
+    },
+    "unit": {
+      "text": "days",
+      "start": 449,
+      "end": 453
+    },
+    "modifier": {
+      "text": "minimum",
+      "start": 432,
+      "end": 439
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20 to 40",
+      "start": 529,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "age range of migrants",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "ages",
+      "start": 521,
+      "end": 525
+    }
+  }
+]

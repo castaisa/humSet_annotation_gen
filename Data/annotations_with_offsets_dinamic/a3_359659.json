@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "compulsory level of education",
+      "start": 332,
+      "end": 361
+    },
+    "quantity": {
+      "text": "8",
+      "start": 429,
+      "end": 430
+    },
+    "unit": {
+      "text": "grade",
+      "start": 423,
+      "end": 428
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled in primary education",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "97.97 per cent",
+      "start": 524,
+      "end": 538
+    },
+    "unit": {
+      "text": "net enrolment rate for primary education in Bangladesh",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled in primary education",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "97.2 per cent",
+      "start": 557,
+      "end": 570
+    },
+    "unit": {
+      "text": "net enrolment rate for primary education in Nepal",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "gender parity in primary school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.075",
+      "start": 668,
+      "end": 673
+    },
+    "unit": {
+      "text": "Gender Parity Index (GPI) at primary school in Bangladesh",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "gender parity in primary school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.06",
+      "start": 690,
+      "end": 694
+    },
+    "unit": {
+      "text": "Gender Parity Index (GPI) at primary school in Nepal",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "gender parity in secondary school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.19",
+      "start": 868,
+      "end": 872
+    },
+    "unit": {
+      "text": "GPI value for secondary school education in Bangladesh",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "gender parity in secondary school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.95",
+      "start": 904,
+      "end": 908
+    },
+    "unit": {
+      "text": "GPI value for secondary school education in Nepal",
+      "start": null,
+      "end": null
+    }
+  }
+]

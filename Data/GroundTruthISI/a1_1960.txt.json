@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "637,000",
+      "begin": 85,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "humanitarian situation deteriorates",
+      "begin": 43,
+      "end": 78
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "people",
+      "begin": 93,
+      "end": 99
+    }
+  },
+  {
+    "quantity": {
+      "text": "75 per cent",
+      "begin": 1556,
+      "end": 1567
+    },
+    "unit": {
+      "text": "households",
+      "begin": 1544,
+      "end": 1554
+    },
+    "eventDescription": {
+      "text": "resorted to negative coping mechanisms such as cutting meals, reducing number of meals per day, among others.",
+      "begin": 1629,
+      "end": 1738
+    },
+    "eventType": "EventP"
+  }
+]

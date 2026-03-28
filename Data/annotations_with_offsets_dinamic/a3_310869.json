@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "morbidity prevalence remained high",
+      "start": 454,
+      "end": 488
+    },
+    "quantity": {
+      "text": "20%",
+      "start": 492,
+      "end": 495
+    },
+    "unit": {
+      "text": "morbidity prevalence",
+      "start": 454,
+      "end": 474
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": 537,
+      "end": 545
+    },
+    "quantity": {
+      "text": "15",
+      "start": 500,
+      "end": 502
+    },
+    "unit": {
+      "text": "rural population groups",
+      "start": 513,
+      "end": 536
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25",
+      "start": 510,
+      "end": 512
+    },
+    "unit": {
+      "text": "rural population groups",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "highest prevalence reported in East Golis Pastoral",
+      "start": 556,
+      "end": 606
+    },
+    "quantity": {
+      "text": "42.7%",
+      "start": 608,
+      "end": 613
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": 564,
+      "end": 574
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "highest prevalence reported in Bay Agropastoral",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34.9%",
+      "start": 634,
+      "end": 639
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "highest prevalence reported in North Gedo Riverine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "31.1%",
+      "start": 666,
+      "end": 671
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": null,
+      "end": null
+    }
+  }
+]

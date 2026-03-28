@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported incidents",
+      "start": 250,
+      "end": 268
+    },
+    "quantity": {
+      "text": "five",
+      "start": 245,
+      "end": 249
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 259,
+      "end": 268
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "drop from the previous week",
+      "start": 284,
+      "end": 311
+    },
+    "quantity": {
+      "text": "55 per cent",
+      "start": 272,
+      "end": 283
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "incidents caused by airstrikes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 317,
+      "end": 321
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 322,
+      "end": 331
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties",
+      "start": 382,
+      "end": 401
+    },
+    "quantity": {
+      "text": "four",
+      "start": 377,
+      "end": 381
+    },
+    "unit": {
+      "text": "civilian casualties",
+      "start": 382,
+      "end": 401
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "casualties in the previous week",
+      "start": 449,
+      "end": 480
+    },
+    "quantity": {
+      "text": "112",
+      "start": 445,
+      "end": 448
+    },
+    "unit": {
+      "text": "casualties",
+      "start": 449,
+      "end": 459
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households potentially lost livelihoods",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "as many as",
+      "start": 578,
+      "end": 588
+    },
+    "quantity": {
+      "text": "100",
+      "start": 589,
+      "end": 592
+    },
+    "unit": {
+      "text": "households",
+      "start": 593,
+      "end": 603
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households experienced restricted access to gas supply",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "as many as",
+      "start": 735,
+      "end": 745
+    },
+    "quantity": {
+      "text": "2,000",
+      "start": 746,
+      "end": 751
+    },
+    "unit": {
+      "text": "households",
+      "start": 752,
+      "end": 762
+    }
+  }
+]

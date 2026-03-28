@@ -1,0 +1,48 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "15",
+      "start": 197,
+      "end": 199
+    },
+    "eventDescription": {
+      "text": "carried out per day",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "coronavirus tests",
+      "start": 200,
+      "end": 217
+    },
+    "modifier": {
+      "text": "about",
+      "start": 191,
+      "end": 196
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "500",
+      "start": 447,
+      "end": 450
+    },
+    "eventDescription": {
+      "text": "carried out per day",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "coronavirus tests",
+      "start": 451,
+      "end": 468
+    },
+    "modifier": {
+      "text": "about",
+      "start": 441,
+      "end": 446
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 21,
+      "end": 25
+    },
+    "unit": {
+      "text": "regions",
+      "begin": 26,
+      "end": 33
+    }
+  },
+  {
+    "quantity": {
+      "text": "338",
+      "begin": 297,
+      "end": 300
+    },
+    "unit": {
+      "text": "safe spaces",
+      "begin": 301,
+      "end": 312
+    }
+  },
+  {
+    "quantity": {
+      "text": "194",
+      "begin": 315,
+      "end": 318
+    },
+    "unit": {
+      "text": "safe spaces",
+      "begin": 301,
+      "end": 312
+    }
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 332,
+      "end": 334
+    },
+    "unit": {
+      "text": "safe spaces",
+      "begin": 301,
+      "end": 312
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 349,
+      "end": 352
+    },
+    "unit": {
+      "text": "safe spaces",
+      "begin": 301,
+      "end": 312
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 383,
+      "end": 385
+    },
+    "unit": {
+      "text": "safe spaces",
+      "begin": 301,
+      "end": 312
+    }
+  },
+  {
+    "quantity": {
+      "text": "8,725",
+      "begin": 431,
+      "end": 436
+    },
+    "unit": {
+      "text": "adolescents",
+      "begin": 437,
+      "end": 448
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,797",
+      "begin": 450,
+      "end": 455
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 456,
+      "end": 461
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,928",
+      "begin": 466,
+      "end": 471
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 472,
+      "end": 476
+    }
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 490,
+      "end": 492
+    },
+    "unit": {
+      "text": "actors (so- cial workers, frontline health workers, security agents and justice agents)",
+      "begin": 493,
+      "end": 580
+    },
+    "eventDescription": {
+      "text": "were trained",
+      "begin": 608,
+      "end": 620
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 873,
+      "end": 875
+    },
+    "unit": {
+      "text": "spaces",
+      "begin": 876,
+      "end": 882
+    },
+    "eventDescription": {
+      "text": "established",
+      "begin": 888,
+      "end": 899
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "40,000",
+      "begin": 28,
+      "end": 34
+    },
+    "eventDescription": {
+      "text": "promise to build",
+      "begin": 11,
+      "end": 27
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "affordable homes",
+      "begin": 35,
+      "end": 51
+    }
+  },
+  {
+    "quantity": {
+      "text": "40,000",
+      "begin": 205,
+      "end": 211
+    },
+    "unit": {
+      "text": "goal",
+      "begin": 212,
+      "end": 216
+    }
+  }
+]

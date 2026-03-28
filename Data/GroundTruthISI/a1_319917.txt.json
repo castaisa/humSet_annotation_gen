@@ -1,0 +1,187 @@
+[
+  {
+    "quantity": {
+      "text": "46",
+      "begin": 29,
+      "end": 31
+    },
+    "unit": {
+      "text": "unaccompanied and separated children",
+      "begin": 32,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "reunified with their biological families by Protection Partners",
+      "begin": 74,
+      "end": 137
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,742",
+      "begin": 149,
+      "end": 154
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 139,
+      "end": 148
+    },
+    "unit": {
+      "text": "children",
+      "begin": 155,
+      "end": 163
+    },
+    "eventDescription": {
+      "text": "participated in a series of psychosocial support activities",
+      "begin": 226,
+      "end": 285
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,191",
+      "begin": 165,
+      "end": 170
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 171,
+      "end": 175
+    },
+    "eventDescription": {
+      "text": "participated in a series of psychosocial support activities",
+      "begin": 226,
+      "end": 285
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,551",
+      "begin": 177,
+      "end": 182
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 183,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "participated in a series of psychosocial support activities",
+      "begin": 226,
+      "end": 285
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "979",
+      "begin": 194,
+      "end": 197
+    },
+    "unit": {
+      "text": "adults",
+      "begin": 198,
+      "end": 204
+    },
+    "eventDescription": {
+      "text": "participated in a series of psychosocial support activities",
+      "begin": 226,
+      "end": 285
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "406",
+      "begin": 206,
+      "end": 209
+    },
+    "unit": {
+      "text": "men",
+      "begin": 210,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "participated in a series of psychosocial support activities",
+      "begin": 226,
+      "end": 285
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "573",
+      "begin": 215,
+      "end": 218
+    },
+    "unit": {
+      "text": "women",
+      "begin": 219,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "participated in a series of psychosocial support activities",
+      "begin": 226,
+      "end": 285
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Forty-one",
+      "begin": 387,
+      "end": 396
+    },
+    "unit": {
+      "text": "case workers",
+      "begin": 397,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "participated in a CP training on case management and child protection in emergencies topics",
+      "begin": 432,
+      "end": 523
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "28",
+      "begin": 411,
+      "end": 413
+    },
+    "unit": {
+      "text": "women",
+      "begin": 414,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "participated in a CP training on case management and child protection in emergencies topics",
+      "begin": 432,
+      "end": 523
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 424,
+      "end": 426
+    },
+    "unit": {
+      "text": "men",
+      "begin": 427,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "participated in a CP training on case management and child protection in emergencies topics",
+      "begin": 432,
+      "end": 523
+    },
+    "eventType": "EventO"
+  }
+]

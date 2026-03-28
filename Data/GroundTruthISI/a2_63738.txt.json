@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "1,577",
+      "begin": 83,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "for yellow fever, tetanus, diphtheria, measles, mumps, and rubella",
+      "begin": 124,
+      "end": 190
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Venezuelans and returning Guyanese",
+      "begin": 89,
+      "end": 123
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "quantity": {
+      "text": "22.1%",
+      "begin": 225,
+      "end": 230
+    },
+    "unit": {
+      "text": "households’ members",
+      "begin": 234,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "took treatment for chronic diseases",
+      "begin": 254,
+      "end": 289
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23.8%",
+      "begin": 387,
+      "end": 392
+    },
+    "unit": {
+      "text": "People from urban areas",
+      "begin": 291,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "got more services for chronic diseases",
+      "begin": 315,
+      "end": 353
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20.9%",
+      "begin": 397,
+      "end": 402
+    },
+    "eventDescription": {
+      "text": "got more services for chronic diseases",
+      "begin": 315,
+      "end": 353
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rural level people",
+      "begin": 367,
+      "end": 385
+    }
+  },
+  {
+    "quantity": {
+      "text": "69.3%",
+      "begin": 525,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "conducting regular check-ups",
+      "begin": 495,
+      "end": 523
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54.2%",
+      "begin": 565,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "conducting the diagnostic test",
+      "begin": 533,
+      "end": 563
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15.3%",
+      "begin": 576,
+      "end": 581
+    },
+    "eventDescription": {
+      "text": "sought emergency treatment",
+      "begin": 590,
+      "end": 616
+    },
+    "eventType": "EventO"
+  }
+]

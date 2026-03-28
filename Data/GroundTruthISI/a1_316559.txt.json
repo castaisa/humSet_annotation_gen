@@ -1,0 +1,181 @@
+[
+  {
+    "quantity": {
+      "text": "Four in ten",
+      "begin": 81,
+      "end": 92
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "reported that a household member operated a family business",
+      "begin": 135,
+      "end": 194
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "Four",
+      "begin": 81,
+      "end": 85
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "reported that a household member operated a family business",
+      "begin": 135,
+      "end": 194
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 89,
+      "end": 92
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "reported that a household member operated a family business",
+      "begin": 135,
+      "end": 194
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 130,
+      "end": 133
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "reported that a household member operated a family business",
+      "begin": 135,
+      "end": 194
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "58%",
+      "begin": 259,
+      "end": 262
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "income from the family business was less than usual",
+      "begin": 322,
+      "end": 373
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 253,
+      "end": 257
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 243,
+      "end": 252
+    }
+  },
+  {
+    "quantity": {
+      "text": "42%",
+      "begin": 375,
+      "end": 378
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "income from the family business was less than usual",
+      "begin": 322,
+      "end": 373
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 416,
+      "end": 419
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "there was no income at all",
+      "begin": 388,
+      "end": 414
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "52%",
+      "begin": 553,
+      "end": 556
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "This revenue loss was attributed to several different factors, but the most significant by far were a lack of customers",
+      "begin": 432,
+      "end": 551
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "49%",
+      "begin": 665,
+      "end": 668
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 93,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "usual place of business being closed",
+      "begin": 566,
+      "end": 602
+    },
+    "eventType": "EventO"
+  }
+]

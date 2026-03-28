@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "11 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "drop in value of the Rial"
+  },
+  {
+    "quantity": "two per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "drop in value of the Rial"
+  },
+  {
+    "quantity": "505",
+    "unit": "Rials to the US dollar",
+    "eventType": "EventO",
+    "eventDescription": "exchange rate"
+  },
+  {
+    "quantity": "49 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "drop in value of the currency"
+  },
+  {
+    "quantity": "314",
+    "unit": "Rials to the dollar",
+    "eventType": "EventO",
+    "eventDescription": "exchange rate"
+  }
+]

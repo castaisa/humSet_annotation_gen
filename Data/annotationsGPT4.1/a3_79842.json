@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "50%",
+    "unit": "of those entering Colombia each month",
+    "eventType": "EventP",
+    "eventDescription": "continue to Ecuador and neighboring countries"
+  },
+  {
+    "quantity": "80,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "enter Ecuador on a monthly basis"
+  },
+  {
+    "quantity": "85%",
+    "unit": "of people entering Ecuador",
+    "eventType": "EventP",
+    "eventDescription": "enter mainly through Rumichaca International Bridge"
+  },
+  {
+    "quantity": "20%",
+    "unit": "of people entering Ecuador",
+    "eventType": "EventP",
+    "eventDescription": "stay in Ecuador",
+    "modifier": "approx."
+  }
+]

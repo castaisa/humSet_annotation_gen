@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17.7",
+      "start": 139,
+      "end": 143
+    },
+    "eventDescription": {
+      "text": "national average reduced Coping Strategy Index",
+      "start": 70,
+      "end": 116
+    },
+    "unit": {
+      "text": "rCSI",
+      "start": 118,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18.4",
+      "start": 147,
+      "end": 151
+    },
+    "eventDescription": {
+      "text": "national average reduced Coping Strategy Index",
+      "start": 70,
+      "end": 116
+    },
+    "unit": {
+      "text": "rCSI",
+      "start": 118,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7.3",
+      "start": 301,
+      "end": 304
+    },
+    "eventDescription": {
+      "text": "average increase in rCSI for returnee households",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "points",
+      "start": 305,
+      "end": 311
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22.5",
+      "start": 342,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "rCSI for returnee households in October",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "rCSI",
+      "start": 118,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "64 percent",
+      "start": 485,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "households reported relying on less preferred and less expensive food",
+      "start": 511,
+      "end": 580
+    },
+    "unit": {
+      "text": "households",
+      "start": 511,
+      "end": 521
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 475,
+      "end": 484
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54 percent",
+      "start": 589,
+      "end": 599
+    },
+    "eventDescription": {
+      "text": "households reduced the number of meals eaten per day",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 511,
+      "end": 521
+    },
+    "modifier": {
+      "text": "around",
+      "start": 582,
+      "end": 588
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "46 percent",
+      "start": 646,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "respondents restricted the consumption of adults to prioritize children’s food consumption needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 660,
+      "end": 671
+    }
+  }
+]

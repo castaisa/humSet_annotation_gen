@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 632,
+      "end": 634
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 635,
+      "end": 639
+    }
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 626,
+      "end": 628
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 635,
+      "end": 639
+    }
+  }
+]

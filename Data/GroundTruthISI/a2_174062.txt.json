@@ -1,0 +1,73 @@
+[
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 210,
+      "end": 211
+    },
+    "unit": {
+      "text": "camps",
+      "begin": 212,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 223,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "115",
+      "begin": 382,
+      "end": 385
+    },
+    "unit": {
+      "text": "makeshift shelters",
+      "begin": 386,
+      "end": 404
+    },
+    "eventDescription": {
+      "text": "damaged",
+      "begin": 405,
+      "end": 412
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "345",
+      "begin": 430,
+      "end": 433
+    },
+    "modifier": {
+      "text": "estimated",
+      "begin": 420,
+      "end": 429
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 434,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "without shelter",
+      "begin": 446,
+      "end": 461
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "400",
+      "begin": 627,
+      "end": 630
+    },
+    "unit": {
+      "text": "Housing Estate",
+      "begin": 631,
+      "end": 645
+    }
+  }
+]

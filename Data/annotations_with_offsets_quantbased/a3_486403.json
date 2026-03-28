@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over half",
+      "start": 118,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "reported cold and damp conditions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 135,
+      "end": 145
+    },
+    "modifier": {
+      "text": "over",
+      "start": 118,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54 percent",
+      "start": 158,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "reported cold and damp conditions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 135,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "38 percent",
+      "start": 234,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "reported lack of heating",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 135,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "33 percent",
+      "start": 293,
+      "end": 303
+    },
+    "eventDescription": {
+      "text": "reported lack of space inside the shelter",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 135,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60 percent",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "reported cold and damp conditions in finished houses and apartments",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "64 percent",
+      "start": 442,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "reported cold and damp conditions in unfinished houses and apartments",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 456,
+      "end": 466
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "61 percent",
+      "start": 581,
+      "end": 591
+    },
+    "eventDescription": {
+      "text": "reported lack of space in tents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 529,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "49 percent",
+      "start": 625,
+      "end": 635
+    },
+    "eventDescription": {
+      "text": "reported lack of privacy in tents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 529,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41 percent",
+      "start": 663,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "reported leakages during rain in tents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 529,
+      "end": 539
+    }
+  }
+]

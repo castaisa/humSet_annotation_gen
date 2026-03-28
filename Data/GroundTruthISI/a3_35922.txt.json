@@ -1,0 +1,254 @@
+[
+  {
+    "quantity": {
+      "text": "930",
+      "begin": 39,
+      "end": 42
+    },
+    "unit": {
+      "text": "suspected cases",
+      "begin": 43,
+      "end": 58
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 69,
+      "end": 77
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "447 (57.8%)",
+      "begin": 81,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 69,
+      "end": 77
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 93,
+      "end": 97
+    }
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 161,
+      "end": 163
+    },
+    "eventDescription": {
+      "text": "blood samples collected",
+      "begin": 134,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 209,
+      "end": 214
+    }
+  },
+  {
+    "quantity": {
+      "text": "twelve",
+      "begin": 189,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "blood samples collected",
+      "begin": 134,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 209,
+      "end": 214
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 220,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "blood samples collected",
+      "begin": 134,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "states",
+      "begin": 223,
+      "end": 229
+    }
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 233,
+      "end": 235
+    },
+    "eventDescription": {
+      "text": "blood samples collected",
+      "begin": 134,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 236,
+      "end": 240
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 252,
+      "end": 254
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 265,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 333,
+      "end": 334
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 265,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 350,
+      "end": 351
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 265,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 372,
+      "end": 373
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 265,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 381,
+      "end": 382
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 265,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 394,
+      "end": 395
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 265,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 276,
+      "end": 284
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 400,
+      "end": 403
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 450,
+      "end": 458
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "yellow fever case",
+      "begin": 423,
+      "end": 440
+    }
+  },
+  {
+    "quantity": {
+      "text": "0.11%",
+      "begin": 502,
+      "end": 507
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 450,
+      "end": 458
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Case fatality rate (CFR)",
+      "begin": 474,
+      "end": 498
+    }
+  }
+]

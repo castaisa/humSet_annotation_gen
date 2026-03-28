@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,260",
+      "start": 130,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "visited",
+      "start": 122,
+      "end": 129
+    },
+    "unit": {
+      "text": "households",
+      "start": 136,
+      "end": 146
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7,411",
+      "start": 148,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 167,
+      "end": 174
+    },
+    "unit": {
+      "text": "persons",
+      "start": 154,
+      "end": 161
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,710",
+      "start": 201,
+      "end": 206
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 167,
+      "end": 174
+    },
+    "unit": {
+      "text": "men",
+      "start": 207,
+      "end": 210
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,461",
+      "start": 212,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 167,
+      "end": 174
+    },
+    "unit": {
+      "text": "women",
+      "start": 218,
+      "end": 223
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1, 411",
+      "start": 225,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 167,
+      "end": 174
+    },
+    "unit": {
+      "text": "boys",
+      "start": 232,
+      "end": 236
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,829",
+      "start": 241,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 167,
+      "end": 174
+    },
+    "unit": {
+      "text": "girls",
+      "start": 247,
+      "end": 252
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10",
+      "start": 572,
+      "end": 574
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 559,
+      "end": 568
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 575,
+      "end": 590
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10",
+      "start": 620,
+      "end": 622
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 559,
+      "end": 568
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 623,
+      "end": 638
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10",
+      "start": 655,
+      "end": 657
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 559,
+      "end": 568
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 658,
+      "end": 673
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "5",
+      "start": 688,
+      "end": 689
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 559,
+      "end": 568
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 690,
+      "end": 705
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "5",
+      "start": 724,
+      "end": 725
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 559,
+      "end": 568
+    },
+    "unit": {
+      "text": "TV jingles per day",
+      "start": 726,
+      "end": 744
+    }
+  }
+]

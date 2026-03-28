@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 160,
+      "end": 163
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 164,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "reported a high proportion of households in very high or high needs",
+      "begin": 169,
+      "end": 236
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "67%",
+      "begin": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 164,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "high or very high needs",
+      "begin": 247,
+      "end": 270
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "52%",
+      "begin": 286,
+      "end": 289
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 164,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "high or very high needs",
+      "begin": 295,
+      "end": 318
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23%",
+      "begin": 566,
+      "end": 569
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 556,
+      "end": 565
+    },
+    "unit": {
+      "text": "households",
+      "begin": 573,
+      "end": 583
+    },
+    "eventDescription": {
+      "text": "high protection needs",
+      "begin": 588,
+      "end": 609
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "94%",
+      "begin": 664,
+      "end": 667
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "begin": 614,
+      "end": 653
+    },
+    "eventDescription": {
+      "text": "reported killings/violence",
+      "begin": 668,
+      "end": 694
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 696,
+      "end": 699
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "begin": 614,
+      "end": 653
+    },
+    "eventDescription": {
+      "text": "reported destruction of property",
+      "begin": 700,
+      "end": 732
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 737,
+      "end": 740
+    },
+    "unit": {
+      "text": "households reporting security incidents",
+      "begin": 614,
+      "end": 653
+    },
+    "eventDescription": {
+      "text": "reported armed attacks",
+      "begin": 741,
+      "end": 763
+    },
+    "eventType": "EventO"
+  }
+]

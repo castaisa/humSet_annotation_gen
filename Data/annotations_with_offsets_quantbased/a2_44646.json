@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one-third",
+      "start": 20,
+      "end": 29
+    },
+    "eventDescription": {
+      "text": "households with high or very high needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 33,
+      "end": 43
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 13,
+      "end": 19
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "32%",
+      "start": 78,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "households with high or very high needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 33,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "88%",
+      "start": 111,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "protection needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "protection",
+      "start": 99,
+      "end": 109
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "77%",
+      "start": 132,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "food security needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food security",
+      "start": 117,
+      "end": 130
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17%",
+      "start": 144,
+      "end": 147
+    },
+    "eventDescription": {
+      "text": "WASH needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "WASH",
+      "start": 138,
+      "end": 142
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18%",
+      "start": 165,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "nutrition needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "nutrition",
+      "start": 154,
+      "end": 163
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "64%",
+      "start": 239,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "shelter/NFI needs",
+      "start": 220,
+      "end": 237
+    },
+    "unit": {
+      "text": "shelter/NFI",
+      "start": 220,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5.8",
+      "start": 412,
+      "end": 415
+    },
+    "eventDescription": {
+      "text": "WASH severity",
+      "start": 397,
+      "end": 410
+    },
+    "unit": {
+      "text": "WASH severity",
+      "start": 397,
+      "end": 410
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4.8",
+      "start": 485,
+      "end": 488
+    },
+    "eventDescription": {
+      "text": "average WASH severity in East Borno",
+      "start": 448,
+      "end": 483
+    },
+    "unit": {
+      "text": "average WASH severity",
+      "start": 448,
+      "end": 469
+    }
+  }
+]

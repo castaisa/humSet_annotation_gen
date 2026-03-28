@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "23%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported limited food access"
+  },
+  {
+    "quantity": "66%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reduced spending on food"
+  }
+]

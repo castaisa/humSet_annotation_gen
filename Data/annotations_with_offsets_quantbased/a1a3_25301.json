@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "84%",
+      "start": 158,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "in need of health support",
+      "start": 213,
+      "end": 238
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 165,
+      "end": 169
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "82%",
+      "start": 171,
+      "end": 174
+    },
+    "eventDescription": {
+      "text": "in need of health support",
+      "start": 213,
+      "end": 238
+    },
+    "unit": {
+      "text": "returnees",
+      "start": 178,
+      "end": 187
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "87%",
+      "start": 192,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "in need of health support",
+      "start": 213,
+      "end": 238
+    },
+    "unit": {
+      "text": "non-displaced",
+      "start": 199,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7.3/10",
+      "start": 273,
+      "end": 279
+    },
+    "eventDescription": {
+      "text": "severity of health needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "statewide severity score",
+      "start": 245,
+      "end": 269
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "88%",
+      "start": 284,
+      "end": 287
+    },
+    "eventDescription": {
+      "text": "in need of education support",
+      "start": 339,
+      "end": 367
+    },
+    "unit": {
+      "text": "non-displaced",
+      "start": 291,
+      "end": 304
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "90%",
+      "start": 306,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "in need of education support",
+      "start": 339,
+      "end": 367
+    },
+    "unit": {
+      "text": "returnees",
+      "start": 313,
+      "end": 322
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "79%",
+      "start": 327,
+      "end": 330
+    },
+    "eventDescription": {
+      "text": "in need of education support",
+      "start": 339,
+      "end": 367
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 334,
+      "end": 338
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7.3/10",
+      "start": 404,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "severity of education needs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "state-wide severity score",
+      "start": 375,
+      "end": 400
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four",
+      "start": 529,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "less likely to have unmet WASH needs",
+      "start": 540,
+      "end": 576
+    },
+    "unit": {
+      "text": "times",
+      "start": 534,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "twice",
+      "start": 632,
+      "end": 637
+    },
+    "eventDescription": {
+      "text": "less likely to have unmet WASH needs",
+      "start": 540,
+      "end": 576
+    },
+    "unit": {
+      "text": "less likely",
+      "start": 638,
+      "end": 649
+    }
+  }
+]

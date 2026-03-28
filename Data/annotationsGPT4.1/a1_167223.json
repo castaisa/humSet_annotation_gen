@@ -1,0 +1,9 @@
+[
+  {
+    "quantity": "less than 40",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "reported to the authorities",
+    "modifier": "less than"
+  }
+]

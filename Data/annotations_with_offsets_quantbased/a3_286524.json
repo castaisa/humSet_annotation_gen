@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1%",
+      "start": 375,
+      "end": 377
+    },
+    "eventDescription": {
+      "text": "children with Minimum Acceptable Diets",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children having Minimum Acceptable Diets (MAD) in Adamawa",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0.9%",
+      "start": 390,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "children with Minimum Acceptable Diets",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children having Minimum Acceptable Diets (MAD) in Borno",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0.4%",
+      "start": 408,
+      "end": 412
+    },
+    "eventDescription": {
+      "text": "children with Minimum Acceptable Diets",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children having Minimum Acceptable Diets (MAD) in Yobe",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "56.3%",
+      "start": 544,
+      "end": 549
+    },
+    "eventDescription": {
+      "text": "children exclusively breastfed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "exclusive breastfeeding in Adamawa",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "64.3%",
+      "start": 559,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "children exclusively breastfed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "exclusive breastfeeding in Borno",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "37.6%",
+      "start": 576,
+      "end": 581
+    },
+    "eventDescription": {
+      "text": "children exclusively breastfed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "exclusive breastfeeding in Yobe",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6-59",
+      "start": 972,
+      "end": 976
+    },
+    "eventDescription": {
+      "text": "children with anaemia",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "months (age of children with anaemia)",
+      "start": null,
+      "end": null
+    }
+  }
+]

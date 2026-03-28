@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "engaged for water point chlorination",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "64",
+      "start": 72,
+      "end": 74
+    },
+    "unit": {
+      "text": "chlorinators",
+      "start": 75,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "water point chlorination conducted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32",
+      "start": 160,
+      "end": 162
+    },
+    "unit": {
+      "text": "water points",
+      "start": 163,
+      "end": 175
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "engaged for hygiene promotions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 206,
+      "end": 208
+    },
+    "unit": {
+      "text": "House-to-House Hygiene Promoters",
+      "start": 209,
+      "end": 241
+    }
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of care and protection from abuse, discrimination, exploitation, neglect and violence",
+      "start": 96,
+      "end": 189
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 million",
+      "start": 44,
+      "end": 53
+    },
+    "unit": {
+      "text": "girls and boys",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of care and protection",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "53per cent",
+      "start": 61,
+      "end": 71
+    },
+    "unit": {
+      "text": "girls",
+      "start": 54,
+      "end": 59
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of care and protection",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "47 per cent",
+      "start": 83,
+      "end": 94
+    },
+    "unit": {
+      "text": "boys",
+      "start": 77,
+      "end": 81
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age of girls and boys in need of child protection services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6 to 17",
+      "start": 546,
+      "end": 553
+    },
+    "unit": {
+      "text": "years",
+      "start": 554,
+      "end": 559
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "girls in need of child protection services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28 per cent",
+      "start": 589,
+      "end": 600
+    },
+    "unit": {
+      "text": "estimated population",
+      "start": 624,
+      "end": 644
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "boys in need of child protection services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25 per cent",
+      "start": 605,
+      "end": 616
+    },
+    "unit": {
+      "text": "estimated population",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Adamawa State representation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13%",
+      "start": 810,
+      "end": 813
+    },
+    "unit": {
+      "text": "targeted population",
+      "start": 862,
+      "end": 881
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Borno State representation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "77% cent",
+      "start": 827,
+      "end": 835
+    },
+    "unit": {
+      "text": "targeted population",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Yobe State representation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10%",
+      "start": 851,
+      "end": 854
+    },
+    "unit": {
+      "text": "targeted population",
+      "start": null,
+      "end": null
+    }
+  }
+]

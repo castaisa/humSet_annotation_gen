@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "60",
+    "unit": "per cent",
+    "eventType": "EventP",
+    "eventDescription": "percentage of rural work force that are women"
+  },
+  {
+    "quantity": "79",
+    "unit": "per cent",
+    "eventType": "EventP",
+    "eventDescription": "percentage of rural work force that are women"
+  },
+  {
+    "quantity": "five",
+    "unit": "times",
+    "eventType": "EventP",
+    "eventDescription": "likelihood of males owning land compared to females"
+  }
+]

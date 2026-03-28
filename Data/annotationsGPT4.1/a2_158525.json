@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "37",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "virus spread"
+  },
+  {
+    "quantity": "7.9 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "needing humanitarian assistance"
+  },
+  {
+    "quantity": "10.6 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "needing humanitarian assistance"
+  }
+]

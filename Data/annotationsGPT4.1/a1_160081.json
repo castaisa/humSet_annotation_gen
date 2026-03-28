@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "3 per cent",
+    "unit": "decrement",
+    "eventType": "EventO",
+    "eventDescription": "decrement in perception"
+  },
+  {
+    "quantity": "Eighty-four per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "felt health centers were not prepared"
+  },
+  {
+    "quantity": "87 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "had said health centers were not prepared"
+  },
+  {
+    "quantity": "16 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "said health centers were prepared"
+  }
+]

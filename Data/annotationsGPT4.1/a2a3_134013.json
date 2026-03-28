@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "four",
+    "unit": "targeted communities",
+    "eventType": "EventP",
+    "eventDescription": "settled Venezuelan migrants"
+  },
+  {
+    "quantity": "45,381",
+    "unit": "impressions",
+    "eventType": "EventO",
+    "eventDescription": "average impressions per post"
+  },
+  {
+    "quantity": "1,583",
+    "unit": "engagements",
+    "eventType": "EventO",
+    "eventDescription": "engagements per post"
+  },
+  {
+    "quantity": "19,468",
+    "unit": "reach",
+    "eventType": "EventO",
+    "eventDescription": "total reach of webinar"
+  },
+  {
+    "quantity": "16,800",
+    "unit": "video views",
+    "eventType": "EventO",
+    "eventDescription": "video views of webinar"
+  }
+]

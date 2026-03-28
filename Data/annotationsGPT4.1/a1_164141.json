@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "13",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "new Coronavirus cases recorded"
+  },
+  {
+    "quantity": "8",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases distributed in Al-Bab"
+  },
+  {
+    "quantity": "two",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases in Jarablus"
+  },
+  {
+    "quantity": "one",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "case in Azaz"
+  },
+  {
+    "quantity": "one",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "case in Afrin"
+  },
+  {
+    "quantity": "one",
+    "unit": "infection",
+    "eventType": "EventP",
+    "eventDescription": "infection in Idlib"
+  },
+  {
+    "quantity": "151",
+    "unit": "casualties",
+    "eventType": "EventP",
+    "eventDescription": "number of casualties since the 9th of July"
+  },
+  {
+    "quantity": "two",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "doctors who were residing in Turkey"
+  },
+  {
+    "quantity": "58",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people including medical personnel in Hayat Tahrir Al-Sham areas"
+  },
+  {
+    "quantity": "91",
+    "unit": "infected",
+    "eventType": "EventP",
+    "eventDescription": "infected in areas of the pro-Turkish factions north of Aleppo"
+  }
+]

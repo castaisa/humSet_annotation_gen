@@ -1,0 +1,89 @@
+[
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 151,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "amount of water available per person",
+      "begin": 99,
+      "end": 135
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "between",
+      "begin": 143,
+      "end": 150
+    },
+    "unit": {
+      "text": "liters per day",
+      "begin": 160,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 157,
+      "end": 159
+    },
+    "eventDescription": {
+      "text": "amount of water available per person",
+      "begin": 99,
+      "end": 135
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "between",
+      "begin": 143,
+      "end": 150
+    },
+    "unit": {
+      "text": "liters per day",
+      "begin": 160,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 or 35",
+      "begin": 151,
+      "end": 159
+    },
+    "eventDescription": {
+      "text": "amount of water available per person",
+      "begin": 99,
+      "end": 135
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "between",
+      "begin": 143,
+      "end": 150
+    },
+    "unit": {
+      "text": "liters per day",
+      "begin": 160,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 271,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "available quantities of water become greater, and the water allocated",
+      "begin": 198,
+      "end": 267
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "family",
+      "begin": 275,
+      "end": 281
+    }
+  }
+]

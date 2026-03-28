@@ -1,0 +1,248 @@
+[
+  {
+    "quantity": {
+      "text": "656",
+      "begin": 19,
+      "end": 22
+    },
+    "unit": {
+      "text": "contacts",
+      "begin": 23,
+      "end": 31
+    },
+    "eventDescription": {
+      "text": "identified",
+      "begin": 37,
+      "end": 47
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "0",
+      "begin": 58,
+      "end": 59
+    },
+    "unit": {
+      "text": "contacts",
+      "begin": 23,
+      "end": 31
+    },
+    "eventDescription": {
+      "text": "identified as new in the past 24 hours.",
+      "begin": 65,
+      "end": 104
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "371",
+      "begin": 153,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "samples were collected",
+      "begin": 125,
+      "end": 147
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "individuals",
+      "begin": 157,
+      "end": 168
+    }
+  },
+  {
+    "quantity": {
+      "text": "0",
+      "begin": 175,
+      "end": 176
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 157,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "new contacts sampled in the past 24 hours.",
+      "begin": 177,
+      "end": 219
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4,611",
+      "begin": 228,
+      "end": 233
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 234,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "collected",
+      "begin": 247,
+      "end": 256
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,110",
+      "begin": 274,
+      "end": 279
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 234,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "collected",
+      "begin": 247,
+      "end": 256
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,501",
+      "begin": 290,
+      "end": 295
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 234,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "collected",
+      "begin": 247,
+      "end": 256
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4,605",
+      "begin": 306,
+      "end": 311
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 312,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "tested by RT-PCR",
+      "begin": 330,
+      "end": 346
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 353,
+      "end": 354
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 312,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "pending",
+      "begin": 355,
+      "end": 362
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "79",
+      "begin": 427,
+      "end": 429
+    },
+    "unit": {
+      "text": "new samples",
+      "begin": 380,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "collected",
+      "begin": 392,
+      "end": 401
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 438,
+      "end": 440
+    },
+    "unit": {
+      "text": "new samples",
+      "begin": 380,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "collected",
+      "begin": 392,
+      "end": 401
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "52",
+      "begin": 451,
+      "end": 453
+    },
+    "unit": {
+      "text": "new samples",
+      "begin": 380,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "collected",
+      "begin": 392,
+      "end": 401
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,523",
+      "begin": 484,
+      "end": 489
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 490,
+      "end": 497
+    },
+    "eventDescription": {
+      "text": "tested",
+      "begin": 508,
+      "end": 514
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2.0 per cent",
+      "begin": 590,
+      "end": 602
+    },
+    "unit": {
+      "text": "test positivity rate",
+      "begin": 566,
+      "end": 586
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "300",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported cholera cases"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "additional deaths"
+  },
+  {
+    "quantity": "457",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "total cholera cases"
+  },
+  {
+    "quantity": "four",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "total deaths"
+  },
+  {
+    "quantity": "0.87%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate"
+  }
+]

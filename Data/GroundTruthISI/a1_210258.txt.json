@@ -1,0 +1,147 @@
+[
+  {
+    "quantity": {
+      "text": "3.7 million",
+      "begin": 14,
+      "end": 25
+    },
+    "modifier": {
+      "text": "Approximately",
+      "begin": 0,
+      "end": 13
+    },
+    "unit": {
+      "text": "children",
+      "begin": 26,
+      "end": 34
+    },
+    "eventDescription": {
+      "text": "out of school",
+      "begin": 39,
+      "end": 52
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 58,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "out of school",
+      "begin": 39,
+      "end": 52
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "of those children are female",
+      "begin": 69,
+      "end": 97
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 106,
+      "end": 107
+    },
+    "modifier": {
+      "text": "in every",
+      "begin": 108,
+      "end": 116
+    },
+    "unit": {
+      "text": "girls attending school",
+      "begin": 119,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "low enrollment of girls",
+      "begin": 219,
+      "end": 242
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 117,
+      "end": 118
+    },
+    "modifier": {
+      "text": "in every",
+      "begin": 108,
+      "end": 116
+    },
+    "unit": {
+      "text": "girls attending school",
+      "begin": 119,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "low enrollment of girls",
+      "begin": 219,
+      "end": 242
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 247,
+      "end": 251
+    },
+    "unit": {
+      "text": "all Afghan provinces",
+      "begin": 255,
+      "end": 275
+    },
+    "eventDescription": {
+      "text": "all teachers are female",
+      "begin": 300,
+      "end": 323
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20 percent",
+      "begin": 286,
+      "end": 296
+    },
+    "modifier": {
+      "text": "less than",
+      "begin": 276,
+      "end": 285
+    },
+    "unit": {
+      "text": "all teachers are female",
+      "begin": 300,
+      "end": 323
+    }
+  },
+  {
+    "quantity": {
+      "text": "one third",
+      "begin": 331,
+      "end": 340
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 325,
+      "end": 330
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 344,
+      "end": 349
+    },
+    "eventDescription": {
+      "text": "married before the age of 18 and are then urged to discontinue their education",
+      "begin": 354,
+      "end": 432
+    },
+    "eventType": "EventP"
+  }
+]

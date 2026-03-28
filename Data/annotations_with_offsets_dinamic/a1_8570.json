@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "contributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13",
+      "start": 132,
+      "end": 134
+    },
+    "unit": {
+      "text": "donors",
+      "start": 135,
+      "end": 141
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reached",
+      "start": 956,
+      "end": 963
+    },
+    "quantity": {
+      "text": "US$ 51.7 million",
+      "start": 964,
+      "end": 980
+    },
+    "unit": {
+      "text": "donation",
+      "start": 915,
+      "end": 923
+    }
+  }
+]

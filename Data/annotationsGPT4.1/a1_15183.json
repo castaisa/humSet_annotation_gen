@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "14,249",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "9,893",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "2,126",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "1,374",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "109",
+    "unit": "operations",
+    "eventType": "EventO",
+    "eventDescription": "sea rescue/interception operations"
+  },
+  {
+    "quantity": "93",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "disembarked at the Tripoli Naval Base"
+  },
+  {
+    "quantity": "351",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in Libya in October"
+  },
+  {
+    "quantity": "45 per cent",
+    "unit": "decrease",
+    "eventType": "EventO",
+    "eventDescription": "decrease in disembarkations in October compared to previous months"
+  },
+  {
+    "quantity": "713",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in September"
+  },
+  {
+    "quantity": "552",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked in August"
+  }
+]

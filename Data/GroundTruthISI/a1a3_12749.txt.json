@@ -1,0 +1,241 @@
+[
+  {
+    "quantity": {
+      "text": "5 million",
+      "begin": 31,
+      "end": 40
+    },
+    "eventDescription": {
+      "text": "Cluster partners released",
+      "begin": 0,
+      "end": 25
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "over",
+      "begin": 26,
+      "end": 30
+    },
+    "unit": {
+      "text": "square meters",
+      "begin": 41,
+      "end": 54
+    }
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 56,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "Cluster partners released",
+      "begin": 0,
+      "end": 25
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "target",
+      "begin": 75,
+      "end": 81
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 123,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "clearance",
+      "begin": 110,
+      "end": 119
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "governorates",
+      "begin": 126,
+      "end": 138
+    }
+  },
+  {
+    "quantity": {
+      "text": "36 per cent",
+      "begin": 150,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "achieving",
+      "begin": 140,
+      "end": 149
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "target",
+      "begin": 177,
+      "end": 183
+    }
+  },
+  {
+    "quantity": {
+      "text": "400,000",
+      "begin": 169,
+      "end": 176
+    },
+    "eventDescription": {
+      "text": "achieving",
+      "begin": 140,
+      "end": 149
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "target",
+      "begin": 177,
+      "end": 183
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,183",
+      "begin": 217,
+      "end": 222
+    },
+    "unit": {
+      "text": "households (HHs)",
+      "begin": 223,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "reached with small and micro business creation/recovery",
+      "begin": 245,
+      "end": 300
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 304,
+      "end": 306
+    },
+    "eventDescription": {
+      "text": "reached with small and micro business creation/recovery",
+      "begin": 245,
+      "end": 300
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "governorates",
+      "begin": 307,
+      "end": 319
+    }
+  },
+  {
+    "quantity": {
+      "text": "9,703",
+      "begin": 321,
+      "end": 326
+    },
+    "unit": {
+      "text": "HHs",
+      "begin": 327,
+      "end": 330
+    },
+    "eventDescription": {
+      "text": "had access to income",
+      "begin": 331,
+      "end": 351
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 409,
+      "end": 411
+    },
+    "eventDescription": {
+      "text": "had access to income",
+      "begin": 331,
+      "end": 351
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "governorates",
+      "begin": 412,
+      "end": 424
+    }
+  },
+  {
+    "quantity": {
+      "text": "93",
+      "begin": 426,
+      "end": 428
+    },
+    "unit": {
+      "text": "HHs",
+      "begin": 429,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "received assistance to end displacement",
+      "begin": 433,
+      "end": 472
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,294",
+      "begin": 494,
+      "end": 499
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 500,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "had access to new skills for livelihoods",
+      "begin": 512,
+      "end": 552
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "817",
+      "begin": 589,
+      "end": 592
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 593,
+      "end": 604
+    },
+    "eventDescription": {
+      "text": "participated in capacity building activities",
+      "begin": 648,
+      "end": 692
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "82",
+      "begin": 618,
+      "end": 620
+    },
+    "unit": {
+      "text": "local NGOs and authorities",
+      "begin": 621,
+      "end": 647
+    },
+    "eventDescription": {
+      "text": "participated in capacity building activities",
+      "begin": 648,
+      "end": 692
+    },
+    "eventType": "EventO"
+  }
+]

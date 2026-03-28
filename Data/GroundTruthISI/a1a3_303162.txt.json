@@ -1,0 +1,120 @@
+[
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 129,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "undernutrition situation in North Darfur, Red Sea, River Nile and East Darfur states affects",
+      "begin": 5,
+      "end": 97
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "most",
+      "begin": 98,
+      "end": 102
+    },
+    "unit": {
+      "text": "vulnerable children under",
+      "begin": 103,
+      "end": 128
+    }
+  },
+  {
+    "quantity": {
+      "text": "90 percent",
+      "begin": 188,
+      "end": 198
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 183,
+      "end": 187
+    },
+    "unit": {
+      "text": "people in need of nutrition support",
+      "begin": 218,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "are in localities with severe to high WASH needs",
+      "begin": 254,
+      "end": 302
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2.5 million",
+      "begin": 206,
+      "end": 217
+    },
+    "unit": {
+      "text": "people in need of nutrition support",
+      "begin": 218,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "are in localities with severe to high WASH needs",
+      "begin": 254,
+      "end": 302
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "45 per cent",
+      "begin": 365,
+      "end": 376
+    },
+    "unit": {
+      "text": "high GAM rate",
+      "begin": 348,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "has been linked to poor WASH conditions",
+      "begin": 377,
+      "end": 416
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40 per cent",
+      "begin": 421,
+      "end": 432
+    },
+    "unit": {
+      "text": "people",
+      "begin": 436,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "do not have access to improved water",
+      "begin": 443,
+      "end": 479
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "91 per cent",
+      "begin": 485,
+      "end": 496
+    },
+    "unit": {
+      "text": "people",
+      "begin": 436,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "do not have access to improved sanitation",
+      "begin": 497,
+      "end": 538
+    },
+    "eventType": "EventO"
+  }
+]

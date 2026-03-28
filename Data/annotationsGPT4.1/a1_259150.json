@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "8/9",
+    "unit": "KIs",
+    "eventType": "EventP",
+    "eventDescription": "reported farming/cultivation as people\u2019s main source of food"
+  },
+  {
+    "quantity": "6",
+    "unit": "KIs",
+    "eventType": "EventP",
+    "eventDescription": "mentioned irrigation farming as a source of food"
+  },
+  {
+    "quantity": "2",
+    "unit": "KIs",
+    "eventType": "EventP",
+    "eventDescription": "described forced labour in exchange of food as a source of food"
+  },
+  {
+    "quantity": "1",
+    "unit": "KI",
+    "eventType": "EventP",
+    "eventDescription": "described foraging as a source of food"
+  },
+  {
+    "quantity": "1",
+    "unit": "KI",
+    "eventType": "EventA",
+    "eventDescription": "described food assistance as a source of food"
+  },
+  {
+    "quantity": "1",
+    "unit": "KI",
+    "eventType": "EventP",
+    "eventDescription": "described buying things in the market as a source of food"
+  },
+  {
+    "quantity": "6",
+    "unit": "KIs",
+    "eventType": "EventP",
+    "eventDescription": "reported that people in their settlement only had one source of food"
+  },
+  {
+    "quantity": "one",
+    "unit": "source of food",
+    "eventType": "EventP",
+    "eventDescription": "people in their settlement only had one source of food"
+  }
+]

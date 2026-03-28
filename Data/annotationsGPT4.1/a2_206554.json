@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "30%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reported using a piped system"
+  },
+  {
+    "quantity": "10%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reported using wells"
+  },
+  {
+    "quantity": "3%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reported using boreholes"
+  },
+  {
+    "quantity": "15%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reported using water kiosks"
+  },
+  {
+    "quantity": "9%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reported using vendors"
+  },
+  {
+    "quantity": "3%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reported using trucks"
+  },
+  {
+    "quantity": "40%",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "reported using wells, boreholes, kiosks, vendors, or trucks"
+  }
+]

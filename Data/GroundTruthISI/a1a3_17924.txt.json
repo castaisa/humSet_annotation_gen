@@ -1,0 +1,277 @@
+[
+  {
+    "quantity": {
+      "text": "24,986",
+      "begin": 102,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "UNICEF, along with its partners in the field, facilitated access",
+      "begin": 33,
+      "end": 97
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "students",
+      "begin": 109,
+      "end": 117
+    }
+  },
+  {
+    "quantity": {
+      "text": "14,990",
+      "begin": 119,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "UNICEF, along with its partners in the field, facilitated access",
+      "begin": 33,
+      "end": 97
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 126,
+      "end": 130
+    }
+  },
+  {
+    "quantity": {
+      "text": "9,996",
+      "begin": 132,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "UNICEF, along with its partners in the field, facilitated access",
+      "begin": 33,
+      "end": 97
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 138,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 206,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "construction of",
+      "begin": 190,
+      "end": 205
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "new classrooms",
+      "begin": 210,
+      "end": 224
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 228,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "construction of",
+      "begin": 190,
+      "end": 205
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 232,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 251,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "construction of",
+      "begin": 190,
+      "end": 205
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "classrooms",
+      "begin": 257,
+      "end": 267
+    }
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 310,
+      "end": 312
+    },
+    "eventDescription": {
+      "text": "repair of latrines",
+      "begin": 288,
+      "end": 306
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 313,
+      "end": 320
+    }
+  },
+  {
+    "quantity": {
+      "text": "417",
+      "begin": 537,
+      "end": 540
+    },
+    "eventDescription": {
+      "text": "repair of WASH facilities",
+      "begin": 508,
+      "end": 533
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 541,
+      "end": 548
+    }
+  },
+  {
+    "quantity": {
+      "text": "145,000",
+      "begin": 614,
+      "end": 621
+    },
+    "eventDescription": {
+      "text": "nterventions will benefit",
+      "begin": 581,
+      "end": 606
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "around",
+      "begin": 607,
+      "end": 613
+    },
+    "unit": {
+      "text": "children",
+      "begin": 622,
+      "end": 630
+    }
+  },
+  {
+    "quantity": {
+      "text": "207",
+      "begin": 664,
+      "end": 667
+    },
+    "unit": {
+      "text": "teachers and supervisors",
+      "begin": 668,
+      "end": 692
+    },
+    "eventDescription": {
+      "text": "were trained on psychosocial support education",
+      "begin": 715,
+      "end": 761
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "114",
+      "begin": 694,
+      "end": 697
+    },
+    "unit": {
+      "text": "male",
+      "begin": 698,
+      "end": 702
+    },
+    "eventDescription": {
+      "text": "were trained on psychosocial support education",
+      "begin": 715,
+      "end": 761
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "93",
+      "begin": 704,
+      "end": 706
+    },
+    "unit": {
+      "text": "female",
+      "begin": 707,
+      "end": 713
+    },
+    "eventDescription": {
+      "text": "were trained on psychosocial support education",
+      "begin": 715,
+      "end": 761
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5,384",
+      "begin": 813,
+      "end": 818
+    },
+    "eventDescription": {
+      "text": "needs",
+      "begin": 804,
+      "end": 809
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "conflict-affected students",
+      "begin": 819,
+      "end": 845
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,322",
+      "begin": 847,
+      "end": 852
+    },
+    "eventDescription": {
+      "text": "needs",
+      "begin": 804,
+      "end": 809
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "boys",
+      "begin": 853,
+      "end": 857
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,062",
+      "begin": 859,
+      "end": 864
+    },
+    "eventDescription": {
+      "text": "needs",
+      "begin": 804,
+      "end": 809
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "girls",
+      "begin": 865,
+      "end": 870
+    }
+  }
+]

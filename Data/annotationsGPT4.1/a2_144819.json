@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "1,500",
+    "unit": "coat kits",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "3,800",
+    "unit": "blankets",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "four",
+    "unit": "Venezuelan community organizations",
+    "eventType": "EventO",
+    "eventDescription": "managed to open delivery points"
+  },
+  {
+    "quantity": "30",
+    "unit": "delivery points",
+    "eventType": "EventO",
+    "eventDescription": "opened"
+  },
+  {
+    "quantity": "450",
+    "unit": "kits",
+    "eventType": "EventA",
+    "eventDescription": "handed out",
+    "modifier": "some"
+  }
+]

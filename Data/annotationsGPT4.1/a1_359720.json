@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": "6-59",
+    "unit": "months",
+    "eventType": "EventP",
+    "eventDescription": "age range of children"
+  },
+  {
+    "quantity": "9.9%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Ukhiya by WHZ"
+  },
+  {
+    "quantity": "0.7%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Ukhiya by MUAC"
+  },
+  {
+    "quantity": "8.9%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Teknaf by WHZ"
+  },
+  {
+    "quantity": "3.5%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Teknaf by MUAC"
+  },
+  {
+    "quantity": "43",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases of acute malnutrition in Ukhiya"
+  },
+  {
+    "quantity": "42",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases of acute malnutrition in Teknaf"
+  },
+  {
+    "quantity": "7.0%",
+    "unit": "GAM cases",
+    "eventType": "EventP",
+    "eventDescription": "GAM cases identified by both WHZ and MUAC in Ukhiya"
+  },
+  {
+    "quantity": "26.2%",
+    "unit": "GAM cases",
+    "eventType": "EventP",
+    "eventDescription": "GAM cases identified by both WHZ and MUAC in Teknaf"
+  },
+  {
+    "quantity": "93.0%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children acutely malnourished by WHZ only in Ukhiya"
+  },
+  {
+    "quantity": "64.3%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children acutely malnourished by WHZ only in Teknaf"
+  },
+  {
+    "quantity": "40",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children acutely malnourished by WHZ only in Ukhiya"
+  },
+  {
+    "quantity": "27",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children acutely malnourished by WHZ only in Teknaf"
+  },
+  {
+    "quantity": "9.5%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children acutely malnourished by MUAC only in Teknaf"
+  },
+  {
+    "quantity": "4",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children acutely malnourished by MUAC only in Teknaf"
+  },
+  {
+    "quantity": "93.0%",
+    "unit": "acutely malnourished children",
+    "eventType": "EventP",
+    "eventDescription": "acutely malnourished children in Ukhiya undiagnosed or undetected by MUAC only"
+  },
+  {
+    "quantity": "64.3%",
+    "unit": "acutely malnourished children",
+    "eventType": "EventP",
+    "eventDescription": "acutely malnourished children in Teknaf undiagnosed or undetected by MUAC only"
+  }
+]

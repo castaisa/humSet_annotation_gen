@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "3.28 million",
+      "begin": 193,
+      "end": 205
+    },
+    "unit": {
+      "text": "people",
+      "begin": 206,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "projected to be food security phase 3- 5",
+      "begin": 217,
+      "end": 257
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 289,
+      "end": 291
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 292,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "phase 3 (crisis)",
+      "begin": 309,
+      "end": 325
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 330,
+      "end": 333
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 334,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "emergency situation (phase 4) and need rapid assistance",
+      "begin": 404,
+      "end": 459
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5,000",
+      "begin": 560,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "phase 5 (catastrophe) are being reported",
+      "begin": 487,
+      "end": 527
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "over",
+      "begin": 555,
+      "end": 559
+    },
+    "unit": {
+      "text": "people",
+      "begin": 566,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,000",
+      "begin": 591,
+      "end": 596
+    },
+    "eventDescription": {
+      "text": "phase 5 (catastrophe) are being reported",
+      "begin": 487,
+      "end": 527
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people",
+      "begin": 566,
+      "end": 572
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 585,
+      "end": 590
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "182,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "benefited from the PEP"
+  },
+  {
+    "quantity": "700,000",
+    "unit": "Venezuelans",
+    "eventType": "EventP",
+    "eventDescription": "have legalised their status in Colombia",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "59%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "have legalised their status in Colombia"
+  },
+  {
+    "quantity": "500,000",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "are in an irregular situation",
+    "modifier": "almost"
+  },
+  {
+    "quantity": "41%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "are in an irregular situation"
+  },
+  {
+    "quantity": "2,7 million",
+    "unit": "Venezuelan people",
+    "eventType": "EventP",
+    "eventDescription": "hold a Border Mobility Card (TMF)"
+  },
+  {
+    "quantity": "one",
+    "unit": "week",
+    "eventType": "EventO",
+    "eventDescription": "allowed to stay in Colombia with TMF"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 93,
+      "end": 103
+    },
+    "eventDescription": {
+      "text": "food production decreased",
+      "begin": 54,
+      "end": 79
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "more tha",
+      "begin": 83,
+      "end": 91
+    }
+  },
+  {
+    "quantity": {
+      "text": "eleven",
+      "begin": 573,
+      "end": 579
+    },
+    "unit": {
+      "text": "years",
+      "begin": 580,
+      "end": 585
+    }
+  },
+  {
+    "quantity": {
+      "text": "70 percent",
+      "begin": 659,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "decrease in food imports",
+      "begin": 619,
+      "end": 643
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 885,
+      "end": 895
+    },
+    "unit": {
+      "text": "households",
+      "begin": 899,
+      "end": 909
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 910,
+      "end": 923
+    },
+    "eventType": "EventO"
+  }
+]

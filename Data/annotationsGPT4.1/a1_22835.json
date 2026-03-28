@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "2.4 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced",
+    "modifier": "an estimated"
+  },
+  {
+    "quantity": "11 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "require humanitarian assistance",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "7.7 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "require humanitarian assistance"
+  },
+  {
+    "quantity": "three",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "most-affected"
+  }
+]

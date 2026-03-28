@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "20.2 percent",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "unemployed"
+  },
+  {
+    "quantity": "8 percent",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "unemployed"
+  },
+  {
+    "quantity": "9.3 percent",
+    "unit": "unemployed women",
+    "eventType": "EventP",
+    "eventDescription": "actively looking for a job"
+  },
+  {
+    "quantity": "4.1 percent",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "actively looking for a job"
+  },
+  {
+    "quantity": "about 48 percent",
+    "unit": "unemployed women",
+    "eventType": "EventP",
+    "eventDescription": "are housewives",
+    "modifier": "about"
+  },
+  {
+    "quantity": "20 percent",
+    "unit": "unemployed women",
+    "eventType": "EventP",
+    "eventDescription": "are students"
+  },
+  {
+    "quantity": "11.7 percent",
+    "unit": "unemployed women",
+    "eventType": "EventP",
+    "eventDescription": "are too old to work"
+  },
+  {
+    "quantity": "26.5 percent",
+    "unit": "women in rural areas",
+    "eventType": "EventP",
+    "eventDescription": "unemployed"
+  },
+  {
+    "quantity": "9.9 percent",
+    "unit": "men in rural areas",
+    "eventType": "EventP",
+    "eventDescription": "unemployed"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "38%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported dependence on crop production as main livelihood source",
+    "modifier": "about"
+  },
+  {
+    "quantity": "13%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported dependence on livestock as main livelihood source"
+  },
+  {
+    "quantity": "8%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported dependence on brewing as main livelihood source"
+  },
+  {
+    "quantity": "8%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported dependence on selling firewood as main livelihood source"
+  },
+  {
+    "quantity": "7%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported dependence on food assistance as main livelihood source"
+  },
+  {
+    "quantity": "5%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported dependence on hunting and gathering as main livelihood source"
+  }
+]

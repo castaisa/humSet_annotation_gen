@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "23",
+      "start": 90,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "start": 81,
+      "end": 89
+    },
+    "unit": {
+      "text": "PoEs",
+      "start": 93,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "12",
+      "start": 154,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 127,
+      "end": 135
+    },
+    "unit": {
+      "text": "land borders",
+      "start": 140,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "8",
+      "start": 181,
+      "end": 182
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 127,
+      "end": 135
+    },
+    "unit": {
+      "text": "airports",
+      "start": 171,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 202,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 127,
+      "end": 135
+    },
+    "unit": {
+      "text": "blue borders",
+      "start": 188,
+      "end": 200
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "19",
+      "start": 407,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "start": 364,
+      "end": 372
+    },
+    "unit": {
+      "text": "PoEs",
+      "start": 417,
+      "end": 421
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "231",
+      "start": 413,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "assessed",
+      "start": 364,
+      "end": 372
+    },
+    "unit": {
+      "text": "PoEs",
+      "start": 417,
+      "end": 421
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10",
+      "start": 566,
+      "end": 568
+    },
+    "eventDescription": {
+      "text": "fully operational",
+      "start": 579,
+      "end": 596
+    },
+    "unit": {
+      "text": "PoEs",
+      "start": 569,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "nine",
+      "start": 598,
+      "end": 602
+    },
+    "eventDescription": {
+      "text": "partially operational",
+      "start": 608,
+      "end": 629
+    },
+    "unit": {
+      "text": "PoEs",
+      "start": 569,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 631,
+      "end": 636
+    },
+    "eventDescription": {
+      "text": "fully closed",
+      "start": 642,
+      "end": 654
+    },
+    "unit": {
+      "text": "PoEs",
+      "start": 569,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": 659,
+      "end": 662
+    },
+    "eventDescription": {
+      "text": "unknown status",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "PoEs",
+      "start": 569,
+      "end": 573
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 55,
+      "end": 59
+    },
+    "unit": {
+      "text": "year average",
+      "begin": 59,
+      "end": 71
+    }
+  },
+  {
+    "quantity": {
+      "text": "12 percent",
+      "begin": 253,
+      "end": 263
+    },
+    "unit": {
+      "text": "a kilogram of red sorghum rose",
+      "begin": 222,
+      "end": 252
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,200",
+      "begin": 287,
+      "end": 292
+    },
+    "unit": {
+      "text": "SOS",
+      "begin": 283,
+      "end": 286
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,800",
+      "begin": 310,
+      "end": 315
+    },
+    "unit": {
+      "text": "SOS",
+      "begin": 306,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine percent",
+      "begin": 358,
+      "end": 370
+    },
+    "unit": {
+      "text": "sorghum price",
+      "begin": 341,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight percent",
+      "begin": 450,
+      "end": 463
+    },
+    "unit": {
+      "text": "sorghum price",
+      "begin": 341,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 474,
+      "end": 478
+    },
+    "unit": {
+      "text": "year average",
+      "begin": 479,
+      "end": 491
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 578,
+      "end": 580
+    },
+    "eventDescription": {
+      "text": "daily wage-to-sorghum terms of trade",
+      "begin": 510,
+      "end": 546
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per daily wage",
+      "begin": 584,
+      "end": 598
+    }
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 616,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "daily wage-to-sorghum terms of trade",
+      "begin": 510,
+      "end": 546
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "kg",
+      "begin": 619,
+      "end": 621
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 649,
+      "end": 653
+    },
+    "unit": {
+      "text": "year average",
+      "begin": 654,
+      "end": 666
+    }
+  }
+]

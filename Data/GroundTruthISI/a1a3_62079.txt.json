@@ -1,0 +1,107 @@
+[
+  {
+    "quantity": {
+      "text": "16.3 million",
+      "begin": 197,
+      "end": 209
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 210,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "received CLAP boxes",
+      "begin": 222,
+      "end": 241
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 274,
+      "end": 278
+    },
+    "eventDescription": {
+      "text": "received CLAP boxes",
+      "begin": 222,
+      "end": 241
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 264,
+      "end": 273
+    },
+    "unit": {
+      "text": "population",
+      "begin": 286,
+      "end": 296
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 500,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "contents of a box last",
+      "begin": 463,
+      "end": 485
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "average of",
+      "begin": 489,
+      "end": 499
+    },
+    "unit": {
+      "text": "days",
+      "begin": 506,
+      "end": 510
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 579,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "majority of households receive them",
+      "begin": 516,
+      "end": 551
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "every",
+      "begin": 573,
+      "end": 578
+    },
+    "unit": {
+      "text": "months",
+      "begin": 583,
+      "end": 589
+    }
+  },
+  {
+    "quantity": {
+      "text": "53 million percent",
+      "begin": 685,
+      "end": 703
+    },
+    "unit": {
+      "text": "price of the box",
+      "begin": 655,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 672,
+      "end": 681
+    },
+    "eventType": "EventO"
+  }
+]

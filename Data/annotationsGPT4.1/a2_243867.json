@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "3,560",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "participated in the study"
+  },
+  {
+    "quantity": "16",
+    "unit": "upazilas",
+    "eventType": "EventO",
+    "eventDescription": "study conducted in upazilas"
+  },
+  {
+    "quantity": "eight",
+    "unit": "divisions",
+    "eventType": "EventO",
+    "eventDescription": "study conducted in divisions"
+  },
+  {
+    "quantity": "two",
+    "unit": "Dhaka city corporations",
+    "eventType": "EventO",
+    "eventDescription": "study conducted in city corporations"
+  },
+  {
+    "quantity": "52%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "did not want to take the vaccine immediately",
+    "modifier": "around"
+  }
+]

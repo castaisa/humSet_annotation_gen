@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50%",
+      "start": 305,
+      "end": 308
+    },
+    "eventDescription": {
+      "text": "classified as either moderately or severely food insecure",
+      "start": 332,
+      "end": 389
+    },
+    "unit": {
+      "text": "households",
+      "start": 316,
+      "end": 326
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 295,
+      "end": 304
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "87%",
+      "start": 461,
+      "end": 464
+    },
+    "eventDescription": {
+      "text": "either moderately food insecure or severely food insecure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "49%",
+      "start": 512,
+      "end": 515
+    },
+    "eventDescription": {
+      "text": "moderately food insecure",
+      "start": 486,
+      "end": 510
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "38%",
+      "start": 544,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "severely food insecure",
+      "start": 520,
+      "end": 542
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "74%",
+      "start": 627,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "start": 529,
+      "end": 542
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "78",
+      "start": 657,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "start": 529,
+      "end": 542
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "82%",
+      "start": 682,
+      "end": 685
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "start": 529,
+      "end": 542
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70",
+      "start": 713,
+      "end": 715
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "start": 529,
+      "end": 542
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "69%",
+      "start": 729,
+      "end": 732
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "start": 529,
+      "end": 542
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  }
+]

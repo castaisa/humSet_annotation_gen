@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "10\u201314.9%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition"
+  },
+  {
+    "quantity": "11.8%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition"
+  },
+  {
+    "quantity": "13.1%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition"
+  },
+  {
+    "quantity": "13.8%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition"
+  },
+  {
+    "quantity": "15%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition"
+  },
+  {
+    "quantity": "seven",
+    "unit": "population groups",
+    "eventType": "EventP",
+    "eventDescription": "population groups with critical malnutrition"
+  },
+  {
+    "quantity": "37",
+    "unit": "population groups",
+    "eventType": "EventP",
+    "eventDescription": "total population groups assessed"
+  },
+  {
+    "quantity": "18.8%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Garowe IDPs"
+  },
+  {
+    "quantity": "17.1%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Mogadishu IDPs"
+  },
+  {
+    "quantity": "15.8%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Bosaaso IDPs"
+  },
+  {
+    "quantity": "15.6%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Galkacyo IDPs"
+  },
+  {
+    "quantity": "16.2%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in East Golis pastoral"
+  },
+  {
+    "quantity": "16%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Shabelle Riverine"
+  },
+  {
+    "quantity": "15.4%",
+    "unit": "prevalence of Global Acute Malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "prevalence of acute malnutrition in Beletweyne urban"
+  }
+]

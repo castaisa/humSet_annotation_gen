@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "experienced psychological abuse",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 114,
+      "end": 117
+    },
+    "unit": {
+      "text": "psychological abuse",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "experienced abuse",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5%",
+      "start": 220,
+      "end": 222
+    },
+    "unit": {
+      "text": "abuse",
+      "start": 38,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "felt discriminated against",
+      "start": 313,
+      "end": 339
+    },
+    "quantity": {
+      "text": "52%",
+      "start": 341,
+      "end": 344
+    },
+    "unit": {
+      "text": "people",
+      "start": 297,
+      "end": 303
+    }
+  }
+]

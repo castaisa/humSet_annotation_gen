@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "51%",
+      "start": 75,
+      "end": 78
+    },
+    "eventDescription": {
+      "text": "believe they have less access to adequate healthcare than needed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "household respondents",
+      "start": 52,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25%",
+      "start": 157,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "report no access to adequate healthcare services",
+      "start": 161,
+      "end": 209
+    },
+    "unit": {
+      "text": "household respondents",
+      "start": 52,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22",
+      "start": 1063,
+      "end": 1065
+    },
+    "eventDescription": {
+      "text": "reported not spending any money on medication",
+      "start": 1101,
+      "end": 1146
+    },
+    "unit": {
+      "text": "households",
+      "start": 1081,
+      "end": 1091
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "243",
+      "start": 1077,
+      "end": 1080
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "start": 1092,
+      "end": 1100
+    },
+    "unit": {
+      "text": "households",
+      "start": 1081,
+      "end": 1091
+    }
+  }
+]

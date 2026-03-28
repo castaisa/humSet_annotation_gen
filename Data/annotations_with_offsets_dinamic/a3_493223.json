@@ -1,0 +1,208 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 percent",
+      "start": 64,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average selling price reached",
+      "start": 97,
+      "end": 126
+    },
+    "quantity": {
+      "text": "1 726",
+      "start": 127,
+      "end": 132
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 133,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 percent",
+      "start": 281,
+      "end": 290
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 750",
+      "start": 331,
+      "end": 336
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 337,
+      "end": 347
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 422,
+      "end": 423
+    },
+    "unit": {
+      "text": "percent",
+      "start": 436,
+      "end": 443
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8",
+      "start": 425,
+      "end": 426
+    },
+    "unit": {
+      "text": "percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7",
+      "start": 428,
+      "end": 429
+    },
+    "unit": {
+      "text": "percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 434,
+      "end": 435
+    },
+    "unit": {
+      "text": "percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 800",
+      "start": 484,
+      "end": 489
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 514,
+      "end": 524
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 780",
+      "start": 491,
+      "end": 496
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 800",
+      "start": 498,
+      "end": 503
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "selling price reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 325",
+      "start": 508,
+      "end": 513
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": null,
+      "end": null
+    }
+  }
+]

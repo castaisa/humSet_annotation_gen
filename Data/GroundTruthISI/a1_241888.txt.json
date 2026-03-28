@@ -1,0 +1,120 @@
+[
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 288,
+      "end": 292
+    },
+    "unit": {
+      "text": "retailers",
+      "begin": 56,
+      "end": 65
+    },
+    "modifier": {
+      "text": "Nearly",
+      "begin": 281,
+      "end": 287
+    },
+    "eventDescription": {
+      "text": "mentioned that around USD/LBP 8,000",
+      "begin": 301,
+      "end": 336
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Eighty-four percent",
+      "begin": 394,
+      "end": 413
+    },
+    "unit": {
+      "text": "retailers",
+      "begin": 56,
+      "end": 65
+    },
+    "eventDescription": {
+      "text": "able to by banks for withdrawals",
+      "begin": 419,
+      "end": 451
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3,900",
+      "begin": 274,
+      "end": 279
+    },
+    "eventDescription": {
+      "text": "monthly average informal exchange rate purchase some of the subsidized items at the rate of remained stable",
+      "begin": 124,
+      "end": 231
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD/LBP",
+      "begin": 266,
+      "end": 273
+    }
+  },
+  {
+    "quantity": {
+      "text": "8,000",
+      "begin": 331,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "mentioned that around USD/LBP 8,000",
+      "begin": 301,
+      "end": 336
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "around",
+      "begin": 316,
+      "end": 322
+    },
+    "unit": {
+      "text": "USD/LBP",
+      "begin": 323,
+      "end": 330
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,900",
+      "begin": 547,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "able to by banks for withdrawals",
+      "begin": 419,
+      "end": 451
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/USD",
+      "begin": 552,
+      "end": 556
+    }
+  },
+  {
+    "quantity": {
+      "text": "two percent",
+      "begin": 682,
+      "end": 693
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 677,
+      "end": 681
+    },
+    "eventDescription": {
+      "text": "receive the full ordered quantities",
+      "begin": 698,
+      "end": 733
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "920",
+      "begin": 96,
+      "end": 99
+    },
+    "unit": {
+      "text": "people admitted into the program",
+      "begin": 100,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "only a small portion have been in its target cohort",
+      "begin": 134,
+      "end": 185
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 232,
+      "end": 235
+    },
+    "eventDescription": {
+      "text": "barely affecting the strength",
+      "begin": 195,
+      "end": 224
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Boko Haram factions",
+      "begin": 236,
+      "end": 255
+    }
+  },
+  {
+    "quantity": {
+      "text": "thousands",
+      "begin": 271,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "control",
+      "begin": 263,
+      "end": 270
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "people",
+      "begin": 284,
+      "end": 290
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 316,
+      "end": 318
+    },
+    "unit": {
+      "text": "former Safe Corridor internees",
+      "begin": 319,
+      "end": 349
+    },
+    "eventDescription": {
+      "text": "stated that at most one quarter of the cohort at Mallam Sidi are from the low-level but committed jihadist recruits who form the program’s target group of defectors.",
+      "begin": 378,
+      "end": 543
+    },
+    "eventType": "EventO"
+  }
+]

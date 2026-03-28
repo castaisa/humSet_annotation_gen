@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "being detained in centres",
+      "start": 130,
+      "end": 155
+    },
+    "quantity": {
+      "text": "2,000",
+      "start": 98,
+      "end": 103
+    },
+    "unit": {
+      "text": "migrants and refugees",
+      "start": 104,
+      "end": 125
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children in need of protection assistance",
+      "start": 487,
+      "end": 528
+    },
+    "quantity": {
+      "text": "26 per cent",
+      "start": 538,
+      "end": 549
+    },
+    "unit": {
+      "text": "migrant and refugee children",
+      "start": 554,
+      "end": 582
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "migrant and refugee children who are unaccompanied and separated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35 per cent",
+      "start": 597,
+      "end": 608
+    },
+    "unit": {
+      "text": "unaccompanied and separated children",
+      "start": 613,
+      "end": 649
+    }
+  }
+]

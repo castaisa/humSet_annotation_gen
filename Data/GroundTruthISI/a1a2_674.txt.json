@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 498,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "large-scale provision of food assistance",
+      "begin": 454,
+      "end": 494
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 510,
+      "end": 516
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 500,
+      "end": 501
+    },
+    "eventDescription": {
+      "text": "large-scale provision of food assistance",
+      "begin": 454,
+      "end": 494
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 510,
+      "end": 516
+    }
+  },
+  {
+    "quantity": {
+      "text": "6-8 million",
+      "begin": 498,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "large-scale provision of food assistance",
+      "begin": 454,
+      "end": 494
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 510,
+      "end": 516
+    }
+  }
+]

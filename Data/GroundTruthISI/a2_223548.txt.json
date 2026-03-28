@@ -1,0 +1,157 @@
+[
+  {
+    "quantity": {
+      "text": "65 percent",
+      "begin": 186,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "consuming less expensive food",
+      "begin": 155,
+      "end": 184
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "88 percent",
+      "begin": 232,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "consuming less expensive food",
+      "begin": 155,
+      "end": 184
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "74 percent",
+      "begin": 260,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "consuming less expensive food",
+      "begin": 155,
+      "end": 184
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "56 percent",
+      "begin": 338,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "reduction in the number of meals consumed per day",
+      "begin": 287,
+      "end": 336
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41 percent",
+      "begin": 461,
+      "end": 471
+    },
+    "eventDescription": {
+      "text": "reducing consumption of adult household members to let their children eat",
+      "begin": 357,
+      "end": 430
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 479,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "reducing consumption of adult household members to let their children eat",
+      "begin": 357,
+      "end": 430
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "interviewed IDP households",
+      "begin": 487,
+      "end": 513
+    }
+  },
+  {
+    "quantity": {
+      "text": "41 percent",
+      "begin": 596,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "reducing consumption of adult household members to let their children eat",
+      "begin": 357,
+      "end": 430
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnees",
+      "begin": 585,
+      "end": 594
+    }
+  },
+  {
+    "quantity": {
+      "text": "37 percent",
+      "begin": 623,
+      "end": 633
+    },
+    "eventDescription": {
+      "text": "reducing consumption of adult household members to let their children eat",
+      "begin": 357,
+      "end": 430
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "residents",
+      "begin": 612,
+      "end": 621
+    }
+  },
+  {
+    "quantity": {
+      "text": "two-thirds",
+      "begin": 794,
+      "end": 804
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 784,
+      "end": 793
+    },
+    "unit": {
+      "text": "Syrian interviewed households",
+      "begin": 808,
+      "end": 837
+    },
+    "eventDescription": {
+      "text": "they bought food on credit",
+      "begin": 865,
+      "end": 891
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "81 percent)",
+      "begin": 934,
+      "end": 945
+    },
+    "eventDescription": {
+      "text": "they bought food on credit",
+      "begin": 865,
+      "end": 891
+    },
+    "eventType": "EventO"
+  }
+]

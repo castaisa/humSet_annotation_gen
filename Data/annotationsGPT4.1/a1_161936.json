@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "92%",
+    "unit": "respondent organizations",
+    "eventType": "EventA",
+    "eventDescription": "conducted activities to educate families and communities on child protection in the COVID-19 context"
+  },
+  {
+    "quantity": "96%",
+    "unit": "respondent organizations",
+    "eventType": "EventA",
+    "eventDescription": "conducted activities to educate children on COVID-19 methods of transmission, symptoms and prevention measures"
+  },
+  {
+    "quantity": "92%",
+    "unit": "respondent organizations",
+    "eventType": "EventA",
+    "eventDescription": "conducted activities specifically targeting community members on COVID-19"
+  },
+  {
+    "quantity": "18",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age of children targeted for education"
+  },
+  {
+    "quantity": "18",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age of community members targeted for education"
+  },
+  {
+    "quantity": "14",
+    "unit": "Figures",
+    "eventType": "EventO",
+    "eventDescription": "figure referenced in the text"
+  },
+  {
+    "quantity": "15",
+    "unit": "Figures",
+    "eventType": "EventO",
+    "eventDescription": "figure referenced in the text"
+  }
+]

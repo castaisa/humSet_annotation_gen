@@ -1,0 +1,205 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "social distance kept in the school office",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 meter",
+      "start": 284,
+      "end": 291
+    },
+    "unit": {
+      "text": "distance",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "schools adhere to social distance in the school office",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "76%",
+      "start": 314,
+      "end": 317
+    },
+    "unit": {
+      "text": "schools",
+      "start": 158,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "schools adhere to social distance in the classroom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "77%",
+      "start": 331,
+      "end": 334
+    },
+    "unit": {
+      "text": "schools",
+      "start": 250,
+      "end": 257
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "schools adhere to social distance in the playground",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "59%",
+      "start": 348,
+      "end": 351
+    },
+    "unit": {
+      "text": "schools",
+      "start": 450,
+      "end": 457
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "schools adhere to social distance in the hostel",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "61%",
+      "start": 361,
+      "end": 364
+    },
+    "unit": {
+      "text": "schools",
+      "start": 770,
+      "end": 777
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "schools adhere to social distance in the dining hall",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "62%",
+      "start": 378,
+      "end": 381
+    },
+    "unit": {
+      "text": "schools",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "schools adhere to social distance in the assembly ground",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "74%",
+      "start": 403,
+      "end": 406
+    },
+    "unit": {
+      "text": "schools",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participants agreed that their schools monitor temperature regularly",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "64%",
+      "start": 427,
+      "end": 430
+    },
+    "unit": {
+      "text": "participants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participants agreed on the presence of a holding sick bay",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "61%",
+      "start": 489,
+      "end": 492
+    },
+    "unit": {
+      "text": "participants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "distance not kept in listed places",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 599,
+      "end": 604
+    },
+    "quantity": {
+      "text": "about 1 meter",
+      "start": 599,
+      "end": 612
+    },
+    "unit": {
+      "text": "distance",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participants said lack of facilities was the reason for not keeping distance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "80%",
+      "start": 643,
+      "end": 646
+    },
+    "unit": {
+      "text": "participants",
+      "start": null,
+      "end": null
+    }
+  }
+]

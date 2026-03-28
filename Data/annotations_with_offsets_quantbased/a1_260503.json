@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "495",
+      "start": 215,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "supported with learning materials",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 219,
+      "end": 227
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "220",
+      "start": 229,
+      "end": 232
+    },
+    "eventDescription": {
+      "text": "supported with learning materials",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 233,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "275",
+      "start": 243,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "supported with learning materials",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 247,
+      "end": 251
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "150",
+      "start": 412,
+      "end": 415
+    },
+    "eventDescription": {
+      "text": "distributed to children",
+      "start": 434,
+      "end": 457
+    },
+    "unit": {
+      "text": "sitting mats",
+      "start": 416,
+      "end": 428
+    }
+  }
+]

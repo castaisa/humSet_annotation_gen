@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "2",
+    "unit": "blocks",
+    "eventType": "EventO",
+    "eventDescription": "permanent structures"
+  },
+  {
+    "quantity": "8",
+    "unit": "classrooms",
+    "eventType": "EventO",
+    "eventDescription": "classrooms in permanent structures"
+  },
+  {
+    "quantity": "2",
+    "unit": "offices",
+    "eventType": "EventO",
+    "eventDescription": "offices in permanent structures"
+  },
+  {
+    "quantity": "2",
+    "unit": "segregated latrines",
+    "eventType": "EventO",
+    "eventDescription": "latrines in the school"
+  },
+  {
+    "quantity": "8",
+    "unit": "stances",
+    "eventType": "EventO",
+    "eventDescription": "stances in latrines"
+  },
+  {
+    "quantity": "about 10",
+    "unit": "meters",
+    "eventType": "EventO",
+    "eventDescription": "distance to river water source",
+    "modifier": "about"
+  },
+  {
+    "quantity": "about 5",
+    "unit": "minutes",
+    "eventType": "EventO",
+    "eventDescription": "walking distance to health facility",
+    "modifier": "about"
+  }
+]

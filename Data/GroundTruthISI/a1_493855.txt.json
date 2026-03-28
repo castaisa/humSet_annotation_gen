@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "1,120",
+      "begin": 70,
+      "end": 75
+    },
+    "unit": {
+      "text": "house to house teams",
+      "begin": 76,
+      "end": 96
+    },
+    "eventDescription": {
+      "text": "sensitized",
+      "begin": 154,
+      "end": 164
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 101,
+      "end": 103
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 104,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "sensitized",
+      "begin": 154,
+      "end": 164
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,312",
+      "begin": 114,
+      "end": 119
+    },
+    "unit": {
+      "text": "house to house teams",
+      "begin": 120,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "sensitized",
+      "begin": 154,
+      "end": 164
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "21",
+      "begin": 145,
+      "end": 147
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 148,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "sensitized",
+      "begin": 154,
+      "end": 164
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "130,271",
+      "begin": 165,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "sensitized",
+      "begin": 154,
+      "end": 164
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 185,
+      "end": 195
+    }
+  },
+  {
+    "quantity": {
+      "text": "199,155",
+      "begin": 177,
+      "end": 184
+    },
+    "eventDescription": {
+      "text": "sensitized",
+      "begin": 154,
+      "end": 164
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 185,
+      "end": 195
+    }
+  },
+  {
+    "quantity": {
+      "text": "530,440",
+      "begin": 328,
+      "end": 335
+    },
+    "unit": {
+      "text": "households",
+      "begin": 336,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "reached with key cholera messages",
+      "begin": 398,
+      "end": 431
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "52%",
+      "begin": 358,
+      "end": 361
+    },
+    "unit": {
+      "text": "households",
+      "begin": 365,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "reached with key cholera messages",
+      "begin": 398,
+      "end": 431
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "21",
+      "begin": 463,
+      "end": 465
+    },
+    "eventDescription": {
+      "text": "reached with key cholera messages",
+      "begin": 398,
+      "end": 431
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "LGAs",
+      "begin": 466,
+      "end": 470
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 514,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "detected and referred",
+      "begin": 492,
+      "end": 513
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "suspected cases of cholera",
+      "begin": 517,
+      "end": 543
+    }
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 722,
+      "end": 725
+    },
+    "eventDescription": {
+      "text": "Health talks on cholera prevention, management, and surveillance during ANC and RI sessions",
+      "begin": 578,
+      "end": 669
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "health facilities",
+      "begin": 726,
+      "end": 743
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 747,
+      "end": 749
+    },
+    "eventDescription": {
+      "text": "Health talks on cholera prevention, management, and surveillance during ANC and RI sessions",
+      "begin": 578,
+      "end": 669
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "LGAs",
+      "begin": 750,
+      "end": 754
+    }
+  }
+]

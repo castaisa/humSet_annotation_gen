@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "52,978",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached by GBV prevention and response interventions"
+  },
+  {
+    "quantity": "44,254",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "participated in GBV and COVID-19 awareness raising and information on available services"
+  },
+  {
+    "quantity": "1,805",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "participated in women and girl safe space activities"
+  },
+  {
+    "quantity": "2,233",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "received psychosocial support and psychological first aid (PFA)"
+  },
+  {
+    "quantity": "777",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "participated in men and boys engagement activities"
+  },
+  {
+    "quantity": "68",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "participated in youth and adolescent program"
+  },
+  {
+    "quantity": "268",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "participated in life skill development for women"
+  },
+  {
+    "quantity": "665",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "participated in capacity building for community members, frontline workers on GBV concepts"
+  },
+  {
+    "quantity": "1,596",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "supported with dignity kits by IRC in the SW"
+  },
+  {
+    "quantity": "764",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "supported with dignity kits by IRC in the SW"
+  },
+  {
+    "quantity": "597",
+    "unit": "dignity kits",
+    "eventType": "EventA",
+    "eventDescription": "distributed by other partners including WASH"
+  }
+]

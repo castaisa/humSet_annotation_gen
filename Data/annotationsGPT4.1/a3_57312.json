@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "108",
+    "unit": "migrant families",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "Forty",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "benefitted from ECD outreach assistance"
+  },
+  {
+    "quantity": "0 to 3",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "ages of children"
+  },
+  {
+    "quantity": "50:50",
+    "unit": "boys/ girls",
+    "eventType": "EventP",
+    "eventDescription": "gender distribution of children"
+  }
+]

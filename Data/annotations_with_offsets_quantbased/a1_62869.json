@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10,422",
+      "start": 667,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "homicides reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "homicides",
+      "start": 674,
+      "end": 683
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7,523",
+      "start": 688,
+      "end": 693
+    },
+    "eventDescription": {
+      "text": "having died from police and military violence",
+      "start": 703,
+      "end": 748
+    },
+    "unit": {
+      "text": "people",
+      "start": 694,
+      "end": 700
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16,026",
+      "start": 807,
+      "end": 813
+    },
+    "eventDescription": {
+      "text": "homicides reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "homicide numbers",
+      "start": 789,
+      "end": 805
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,535",
+      "start": 895,
+      "end": 900
+    },
+    "eventDescription": {
+      "text": "victims of police and military brutality",
+      "start": 830,
+      "end": 870
+    },
+    "unit": {
+      "text": "casualties",
+      "start": 901,
+      "end": 911
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "1.6 million",
+      "begin": 13,
+      "end": 24
+    },
+    "unit": {
+      "text": "Libyan individuals",
+      "begin": 25,
+      "end": 43
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 48,
+      "end": 56
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one million",
+      "begin": 94,
+      "end": 105
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 84,
+      "end": 93
+    },
+    "unit": {
+      "text": "Libyan population",
+      "begin": 113,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "in need (PIN) of health assistance",
+      "begin": 135,
+      "end": 169
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "71 per cent",
+      "begin": 707,
+      "end": 718
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 697,
+      "end": 706
+    },
+    "unit": {
+      "text": "people living with chronic diseases",
+      "begin": 722,
+      "end": 757
+    },
+    "eventDescription": {
+      "text": "facing shortage in drugs",
+      "begin": 762,
+      "end": 786
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 802,
+      "end": 806
+    },
+    "unit": {
+      "text": "Libyan households",
+      "begin": 807,
+      "end": 824
+    },
+    "eventDescription": {
+      "text": "reporting that medicines are their priority non-food needs",
+      "begin": 829,
+      "end": 887
+    },
+    "eventType": "EventO"
+  }
+]

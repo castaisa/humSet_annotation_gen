@@ -1,0 +1,65 @@
+[
+  {
+    "quantity": "79 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reporting land access",
+    "modifier": "about"
+  },
+  {
+    "quantity": "66 percent",
+    "unit": "households with land access",
+    "eventType": "EventP",
+    "eventDescription": "have access to small portion of land"
+  },
+  {
+    "quantity": "about 1 hectare",
+    "unit": "land",
+    "eventType": "EventO",
+    "eventDescription": "accessed by households",
+    "modifier": "about"
+  },
+  {
+    "quantity": "31 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported access to land"
+  },
+  {
+    "quantity": "about 0.5 to 1 hectare",
+    "unit": "land",
+    "eventType": "EventO",
+    "eventDescription": "available for cultivation",
+    "modifier": "about"
+  },
+  {
+    "quantity": "35 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had access to land"
+  },
+  {
+    "quantity": "less than 0.5 hectares",
+    "unit": "land",
+    "eventType": "EventO",
+    "eventDescription": "accessed by households"
+  },
+  {
+    "quantity": "4 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "have access to more than 2 hectares of land"
+  },
+  {
+    "quantity": "more than 2 hectares",
+    "unit": "land",
+    "eventType": "EventO",
+    "eventDescription": "accessed by households"
+  },
+  {
+    "quantity": "88 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "were engaged in farming"
+  }
+]

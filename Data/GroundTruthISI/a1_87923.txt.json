@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "60 per cent",
+      "begin": 26,
+      "end": 37
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 20,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "that live in private rented accommodation",
+      "begin": 39,
+      "end": 80
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 341,
+      "end": 344
+    },
+    "unit": {
+      "text": "most recent displacement tracking rounds",
+      "begin": 345,
+      "end": 385
+    },
+    "eventDescription": {
+      "text": "indicate an uptick in IDPs staying with host families",
+      "begin": 386,
+      "end": 439
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2 per cent",
+      "begin": 441,
+      "end": 451
+    },
+    "unit": {
+      "text": "uptick in IDPs staying with host families",
+      "begin": 398,
+      "end": 439
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 452,
+      "end": 460
+    },
+    "eventType": "EventO"
+  }
+]

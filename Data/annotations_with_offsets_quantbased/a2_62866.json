@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 65%",
+      "start": 232,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "increase in maternal mortality",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "maternal mortality",
+      "start": 200,
+      "end": 218
+    },
+    "modifier": {
+      "text": "over",
+      "start": 232,
+      "end": 236
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "756",
+      "start": 264,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "maternal deaths recorded",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 268,
+      "end": 274
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21.1",
+      "start": 372,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "infant mortality rate",
+      "start": 346,
+      "end": 367
+    },
+    "unit": {
+      "text": "deaths per 1,000 live birth",
+      "start": 377,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1.4",
+      "start": 413,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "increase in infant mortality rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "times the rate",
+      "start": 417,
+      "end": 431
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15",
+      "start": 441,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "infant mortality rate",
+      "start": 346,
+      "end": 367
+    },
+    "unit": {
+      "text": "deaths per 1,000 live birth",
+      "start": 444,
+      "end": 471
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25,000",
+      "start": 687,
+      "end": 693
+    },
+    "eventDescription": {
+      "text": "pregnant women did not receive prenatal care",
+      "start": 694,
+      "end": 738
+    },
+    "unit": {
+      "text": "pregnant women",
+      "start": 694,
+      "end": 708
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7,500",
+      "start": 749,
+      "end": 754
+    },
+    "eventDescription": {
+      "text": "pregnant women only checked in the eighth and ninth months",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "pregnant women",
+      "start": 694,
+      "end": 708
+    }
+  }
+]

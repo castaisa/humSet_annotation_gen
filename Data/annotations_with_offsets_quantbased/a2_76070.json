@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 600",
+      "start": 72,
+      "end": 85
+    },
+    "eventDescription": {
+      "text": "provided humanitarian transportation, food and shelter services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 86,
+      "end": 97
+    },
+    "modifier": {
+      "text": "over",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,200",
+      "start": 227,
+      "end": 232
+    },
+    "eventDescription": {
+      "text": "delivered to people in transit",
+      "start": 290,
+      "end": 320
+    },
+    "unit": {
+      "text": "blankets",
+      "start": 233,
+      "end": 241
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "370",
+      "start": 243,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "delivered to people in transit",
+      "start": 290,
+      "end": 320
+    },
+    "unit": {
+      "text": "scarves",
+      "start": 247,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "500",
+      "start": 256,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "delivered to people in transit",
+      "start": 290,
+      "end": 320
+    },
+    "unit": {
+      "text": "gloves",
+      "start": 260,
+      "end": 266
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "500",
+      "start": 271,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "delivered to people in transit",
+      "start": 290,
+      "end": 320
+    },
+    "unit": {
+      "text": "cold hats",
+      "start": 275,
+      "end": 284
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four",
+      "start": 469,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "opened by Migración Colombia",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "new passport processing posts",
+      "start": 474,
+      "end": 503
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24-hour",
+      "start": 539,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "passport processing posts operated with extended schedules",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "shifts",
+      "start": 547,
+      "end": 553
+    }
+  }
+]

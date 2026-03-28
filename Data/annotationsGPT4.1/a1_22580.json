@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "16",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "213",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "42",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "four",
+    "unit": "health workers",
+    "eventType": "EventP",
+    "eventDescription": "infected"
+  },
+  {
+    "quantity": "12",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "two",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  }
+]

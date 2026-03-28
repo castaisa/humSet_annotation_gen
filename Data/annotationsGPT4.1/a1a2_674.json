@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "6-8 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "receiving food assistance each month"
+  },
+  {
+    "quantity": "half",
+    "unit": "those in need",
+    "eventType": "EventP",
+    "eventDescription": "covered by emergency food assistance",
+    "modifier": "less than"
+  }
+]

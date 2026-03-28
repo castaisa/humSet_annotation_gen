@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "8",
+    "unit": "grade",
+    "eventType": "EventO",
+    "eventDescription": "compulsory level of education"
+  },
+  {
+    "quantity": "97.97 per cent",
+    "unit": "net enrolment rate for primary education in Bangladesh",
+    "eventType": "EventP",
+    "eventDescription": "enrolled in primary education"
+  },
+  {
+    "quantity": "97.2 per cent",
+    "unit": "net enrolment rate for primary education in Nepal",
+    "eventType": "EventP",
+    "eventDescription": "enrolled in primary education"
+  },
+  {
+    "quantity": "1.075",
+    "unit": "Gender Parity Index (GPI) at primary school in Bangladesh",
+    "eventType": "EventP",
+    "eventDescription": "gender parity in primary school"
+  },
+  {
+    "quantity": "1.06",
+    "unit": "Gender Parity Index (GPI) at primary school in Nepal",
+    "eventType": "EventP",
+    "eventDescription": "gender parity in primary school"
+  },
+  {
+    "quantity": "1.19",
+    "unit": "GPI value for secondary school education in Bangladesh",
+    "eventType": "EventP",
+    "eventDescription": "gender parity in secondary school"
+  },
+  {
+    "quantity": "0.95",
+    "unit": "GPI value for secondary school education in Nepal",
+    "eventType": "EventP",
+    "eventDescription": "gender parity in secondary school"
+  }
+]

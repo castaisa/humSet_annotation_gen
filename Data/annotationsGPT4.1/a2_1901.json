@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "80 per cent",
+    "unit": "food items",
+    "eventType": "EventO",
+    "eventDescription": "imported"
+  },
+  {
+    "quantity": "16.9 per cent",
+    "unit": "food prices",
+    "eventType": "EventO",
+    "eventDescription": "increased"
+  },
+  {
+    "quantity": "9.93 per cent",
+    "unit": "food inflation",
+    "eventType": "EventO",
+    "eventDescription": "averaged"
+  },
+  {
+    "quantity": "38.9 per cent",
+    "unit": "food inflation",
+    "eventType": "EventO",
+    "eventDescription": "all-time high"
+  },
+  {
+    "quantity": "-12.12 per cent",
+    "unit": "food inflation",
+    "eventType": "EventO",
+    "eventDescription": "record low"
+  },
+  {
+    "quantity": "33.4 per cent",
+    "unit": "food inflation",
+    "eventType": "EventO",
+    "eventDescription": "reached"
+  }
+]

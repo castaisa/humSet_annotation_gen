@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "115, 051",
+    "unit": "children",
+    "eventType": "EventA",
+    "eventDescription": "provided with CP services"
+  },
+  {
+    "quantity": "59,510",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "provided with CP services"
+  },
+  {
+    "quantity": "55,541",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "provided with CP services"
+  },
+  {
+    "quantity": "112, 544",
+    "unit": "children",
+    "eventType": "EventA",
+    "eventDescription": "received psychosocial and mental health support services"
+  },
+  {
+    "quantity": "1004",
+    "unit": "unaccompanied, separated and children facing other protection risks",
+    "eventType": "EventP",
+    "eventDescription": "received integrated case management services"
+  },
+  {
+    "quantity": "1, 885",
+    "unit": "child beneficiaries",
+    "eventType": "EventP",
+    "eventDescription": "received community reintegration services"
+  },
+  {
+    "quantity": "23, 155",
+    "unit": "children/adolescents",
+    "eventType": "EventP",
+    "eventDescription": "sensitized on child protection issues"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "quantity": {
+      "text": "1.87 million",
+      "begin": 5,
+      "end": 17
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 0,
+      "end": 4
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 18,
+      "end": 22
+    },
+    "eventDescription": {
+      "text": "living in crowded settlements with inadequate water and sanitation services",
+      "begin": 52,
+      "end": 127
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1.1 million",
+      "begin": 27,
+      "end": 38
+    },
+    "unit": {
+      "text": "refugees",
+      "begin": 39,
+      "end": 47
+    },
+    "eventDescription": {
+      "text": "living in crowded settlements with inadequate water and sanitation services",
+      "begin": 52,
+      "end": 127
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 620,
+      "end": 623
+    },
+    "unit": {
+      "text": "week",
+      "begin": 624,
+      "end": 628
+    },
+    "eventDescription": {
+      "text": "quarantine",
+      "begin": 629,
+      "end": 639
+    },
+    "eventType": "EventO"
+  }
+]

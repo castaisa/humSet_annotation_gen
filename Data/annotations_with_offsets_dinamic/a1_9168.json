@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with life-saving protection services",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 133,
+      "end": 137
+    },
+    "quantity": {
+      "text": "over 900,000",
+      "start": 133,
+      "end": 145
+    },
+    "unit": {
+      "text": "people",
+      "start": 146,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through monitoring of protection and IHL/IHRL",
+      "start": 383,
+      "end": 436
+    },
+    "modifier": {
+      "text": "over",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Over 80,000",
+      "start": 353,
+      "end": 364
+    },
+    "unit": {
+      "text": "persons",
+      "start": 365,
+      "end": 372
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received information to protect against mines and UXOs",
+      "start": 488,
+      "end": 542
+    },
+    "quantity": {
+      "text": "642,317",
+      "start": 444,
+      "end": 451
+    },
+    "unit": {
+      "text": "children and community members",
+      "start": 452,
+      "end": 482
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "community-based protection network volunteers",
+      "start": 612,
+      "end": 657
+    },
+    "quantity": {
+      "text": "4,708",
+      "start": 606,
+      "end": 611
+    },
+    "unit": {
+      "text": "community-based protection network volunteers",
+      "start": 612,
+      "end": 657
+    }
+  }
+]

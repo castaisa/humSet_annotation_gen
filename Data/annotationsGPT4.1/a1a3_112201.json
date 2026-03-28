@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "94.8 million",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "sought for COVID-19 preparedness and response"
+  },
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "duration of appeal"
+  },
+  {
+    "quantity": "52.7 million",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "received for urgent preparedness and response activities"
+  },
+  {
+    "quantity": "23.2 million",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "channeled through the World Health Organization (WHO)"
+  },
+  {
+    "quantity": "29.5 million",
+    "unit": "US$",
+    "eventType": "EventA",
+    "eventDescription": "channeled directly to PAHO"
+  },
+  {
+    "quantity": "52",
+    "unit": "countries and territories",
+    "eventType": "EventO",
+    "eventDescription": "countries and territories in the Americas"
+  }
+]

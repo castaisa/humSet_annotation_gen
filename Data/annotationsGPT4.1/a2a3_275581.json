@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "more than 4,000",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "destroyed or closed",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "700,000",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "without access to education"
+  },
+  {
+    "quantity": "less than 30 percent",
+    "unit": "of the number of children that should be enrolled in both regions",
+    "eventType": "EventP",
+    "eventDescription": "school attendance",
+    "modifier": "less than"
+  }
+]

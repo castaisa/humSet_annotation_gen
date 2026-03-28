@@ -1,0 +1,25 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in a combined critical food insecurity situations of crisis and emergency",
+      "start": 716,
+      "end": 789
+    },
+    "modifier": {
+      "text": "about",
+      "start": 690,
+      "end": 695
+    },
+    "quantity": {
+      "text": "about 2.45 million",
+      "start": 690,
+      "end": 708
+    },
+    "unit": {
+      "text": "people",
+      "start": 709,
+      "end": 715
+    }
+  }
+]

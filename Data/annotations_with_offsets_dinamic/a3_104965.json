@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "extension of documentation provided",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two-month",
+      "start": 138,
+      "end": 147
+    },
+    "unit": {
+      "text": "extension of documentation",
+      "start": 148,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "waiting for documentation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7-month",
+      "start": 320,
+      "end": 327
+    },
+    "unit": {
+      "text": "wait for documentation",
+      "start": 328,
+      "end": 350
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases pending adjudication",
+      "start": 422,
+      "end": 448
+    },
+    "quantity": {
+      "text": "25,913",
+      "start": 452,
+      "end": 458
+    },
+    "unit": {
+      "text": "cases",
+      "start": 422,
+      "end": 427
+    }
+  }
+]

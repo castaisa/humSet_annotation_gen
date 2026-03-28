@@ -1,0 +1,266 @@
+[
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 96,
+      "end": 106
+    },
+    "unit": {
+      "text": "national average retail price of Egyptian white rice",
+      "begin": 30,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 83,
+      "end": 92
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,757",
+      "begin": 120,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 83,
+      "end": 92
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 125,
+      "end": 128
+    }
+  },
+  {
+    "quantity": {
+      "text": "213 percent",
+      "begin": 190,
+      "end": 201
+    },
+    "eventDescription": {
+      "text": "price of Egyptian white rice increased",
+      "begin": 148,
+      "end": 186
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "y-o-y",
+      "begin": 202,
+      "end": 207
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,279",
+      "begin": 252,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "recorded the highest price",
+      "begin": 218,
+      "end": 244
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 257,
+      "end": 260
+    }
+  },
+  {
+    "quantity": {
+      "text": "33 percent",
+      "begin": 265,
+      "end": 275
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 262,
+      "end": 264
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 276,
+      "end": 281
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,406",
+      "begin": 351,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "recorded the lowest average retail price",
+      "begin": 302,
+      "end": 342
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 356,
+      "end": 359
+    }
+  },
+  {
+    "quantity": {
+      "text": "32 percent",
+      "begin": 364,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 361,
+      "end": 363
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 375,
+      "end": 380
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,025",
+      "begin": 501,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "recorded the highest price",
+      "begin": 467,
+      "end": 493
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 506,
+      "end": 509
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,007",
+      "begin": 572,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "recorded the highest price",
+      "begin": 467,
+      "end": 493
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 577,
+      "end": 580
+    }
+  },
+  {
+    "quantity": {
+      "text": "29 percent",
+      "begin": 514,
+      "end": 524
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 511,
+      "end": 513
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 525,
+      "end": 530
+    }
+  },
+  {
+    "quantity": {
+      "text": "29 percent",
+      "begin": 585,
+      "end": 595
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 582,
+      "end": 584
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 596,
+      "end": 601
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,538",
+      "begin": 672,
+      "end": 677
+    },
+    "eventDescription": {
+      "text": "recorded the lowest price",
+      "begin": 639,
+      "end": 664
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 677,
+      "end": 680
+    }
+  },
+  {
+    "quantity": {
+      "text": "23 percent",
+      "begin": 685,
+      "end": 695
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 682,
+      "end": 684
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 696,
+      "end": 701
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,610",
+      "begin": 741,
+      "end": 746
+    },
+    "unit": {
+      "text": "/kg",
+      "begin": 746,
+      "end": 749
+    }
+  },
+  {
+    "quantity": {
+      "text": "36 percent",
+      "begin": 754,
+      "end": 764
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 751,
+      "end": 753
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-om",
+      "begin": 765,
+      "end": 769
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "70,000",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "assisted with a one-off blanket commodity voucher distribution"
+  },
+  {
+    "quantity": "900",
+    "unit": "pieces of bread",
+    "eventType": "EventA",
+    "eventDescription": "provided to families in Hudaydah city"
+  },
+  {
+    "quantity": "30",
+    "unit": "pieces of bread per day",
+    "eventType": "EventA",
+    "eventDescription": "provided to families in Hudaydah city"
+  },
+  {
+    "quantity": "52,000",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "receive a one-off blanket commodity voucher ration"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 27,
+      "end": 30
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 15,
+      "end": 26
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "NFI kits",
+      "begin": 31,
+      "end": 39
+    }
+  },
+  {
+    "quantity": {
+      "text": "939",
+      "begin": 94,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 85,
+      "end": 93
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 98,
+      "end": 109
+    }
+  },
+  {
+    "quantity": {
+      "text": "454",
+      "begin": 111,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 85,
+      "end": 93
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "females",
+      "begin": 115,
+      "end": 122
+    }
+  },
+  {
+    "quantity": {
+      "text": "485",
+      "begin": 124,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 85,
+      "end": 93
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "males",
+      "begin": 128,
+      "end": 133
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,557",
+      "begin": 190,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 181,
+      "end": 189
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 196,
+      "end": 206
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,595",
+      "begin": 362,
+      "end": 367
+    },
+    "unit": {
+      "text": "households",
+      "begin": 368,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 379,
+      "end": 387
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2,088",
+      "begin": 412,
+      "end": 417
+    },
+    "unit": {
+      "text": "households",
+      "begin": 368,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 423,
+      "end": 431
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "874",
+      "begin": 456,
+      "end": 459
+    },
+    "unit": {
+      "text": "households",
+      "begin": 460,
+      "end": 470
+    },
+    "eventDescription": {
+      "text": "assisted with shelter material",
+      "begin": 476,
+      "end": 506
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "48",
+      "begin": 574,
+      "end": 576
+    },
+    "unit": {
+      "text": "households",
+      "begin": 577,
+      "end": 587
+    },
+    "eventDescription": {
+      "text": "reached with light shelter kits",
+      "begin": 598,
+      "end": 629
+    },
+    "eventType": "EventA"
+  }
+]

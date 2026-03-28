@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "200",
+    "unit": "NFI kits",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "939",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "454",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "485",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "4,557",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "assisted"
+  },
+  {
+    "quantity": "1,595",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "received core relief items"
+  },
+  {
+    "quantity": "2,088",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "assisted with emergency shelter"
+  },
+  {
+    "quantity": "874",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "assisted with shelter material"
+  },
+  {
+    "quantity": "48",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "reached with light shelter kits"
+  }
+]

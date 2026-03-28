@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "54 percent",
+      "begin": 245,
+      "end": 255
+    },
+    "eventDescription": {
+      "text": "Emergency Food Security Assessment for migrants (EFSA)",
+      "begin": 17,
+      "end": 71
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Venezuelan households",
+      "begin": 259,
+      "end": 280
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 292,
+      "end": 295
+    },
+    "unit": {
+      "text": "months",
+      "begin": 296,
+      "end": 302
+    },
+    "eventDescription": {
+      "text": "hardest for migrants",
+      "begin": 326,
+      "end": 346
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40 percent",
+      "begin": 353,
+      "end": 363
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 367,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "having poor or limited access to food",
+      "begin": 379,
+      "end": 416
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 471,
+      "end": 481
+    },
+    "eventDescription": {
+      "text": "More concerning is that food insecurity levels reach",
+      "begin": 418,
+      "end": 470
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "pendular migrants",
+      "begin": 486,
+      "end": 503
+    }
+  },
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 519,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "More concerning is that food insecurity levels reach",
+      "begin": 418,
+      "end": 470
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "people in transit",
+      "begin": 534,
+      "end": 551
+    }
+  },
+  {
+    "quantity": {
+      "text": "55 percent",
+      "begin": 553,
+      "end": 563
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 567,
+      "end": 578
+    },
+    "eventDescription": {
+      "text": "using negative strategies to cope with this situation",
+      "begin": 583,
+      "end": 636
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 641,
+      "end": 645
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 567,
+      "end": 578
+    },
+    "eventDescription": {
+      "text": "surveyed report having begged on the streets",
+      "begin": 653,
+      "end": 697
+    },
+    "eventType": "EventO"
+  }
+]

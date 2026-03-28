@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 309,
+      "end": 312
+    },
+    "unit": {
+      "text": "locationss",
+      "begin": 313,
+      "end": 323
+    }
+  },
+  {
+    "quantity": {
+      "text": "140",
+      "begin": 645,
+      "end": 648
+    },
+    "eventDescription": {
+      "text": "suspension of UN and several INGO’s staff movement",
+      "begin": 584,
+      "end": 634
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kilometer",
+      "begin": 649,
+      "end": 658
+    }
+  }
+]

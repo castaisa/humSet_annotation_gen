@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4,638",
+      "start": 58,
+      "end": 63
+    },
+    "unit": {
+      "text": "people",
+      "start": 64,
+      "end": 70
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received cash assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 239,
+      "end": 241
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received livelihoods assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 276,
+      "end": 278
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received employment assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 323,
+      "end": 325
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  }
+]

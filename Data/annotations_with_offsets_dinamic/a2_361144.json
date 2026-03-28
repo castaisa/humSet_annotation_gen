@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "do not work",
+      "start": 105,
+      "end": 116
+    },
+    "quantity": {
+      "text": "49.2%",
+      "start": 65,
+      "end": 70
+    },
+    "unit": {
+      "text": "non-retired female respondents",
+      "start": 74,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "do not work",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21.1%",
+      "start": 137,
+      "end": 142
+    },
+    "unit": {
+      "text": "non-retired male respondents",
+      "start": 146,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have more than one job",
+      "start": 215,
+      "end": 237
+    },
+    "quantity": {
+      "text": "10.4%",
+      "start": 202,
+      "end": 207
+    },
+    "unit": {
+      "text": "men",
+      "start": 211,
+      "end": 214
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have more than one job",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 289,
+      "end": 291
+    },
+    "unit": {
+      "text": "women",
+      "start": 267,
+      "end": 272
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "stated reason for being unemployed was full-time housework",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45.3%",
+      "start": 459,
+      "end": 464
+    },
+    "unit": {
+      "text": "female respondents",
+      "start": 468,
+      "end": 486
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "quantity": "28",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "injured",
+    "modifier": "Over"
+  },
+  {
+    "quantity": "14",
+    "unit": "casualties",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "7",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "abducted"
+  },
+  {
+    "quantity": "52",
+    "unit": "houses",
+    "eventType": "EventO",
+    "eventDescription": "razed"
+  },
+  {
+    "quantity": "3,590",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "1,126",
+    "unit": "adult men",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "1,510",
+    "unit": "adult women",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "193",
+    "unit": "elderly persons",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "71 per cent",
+    "unit": "of the displaced population",
+    "eventType": "EventP",
+    "eventDescription": "taking refuge",
+    "modifier": "Over"
+  },
+  {
+    "quantity": "29 per cent",
+    "unit": "of the displaced population",
+    "eventType": "EventP",
+    "eventDescription": "staying with friends and relatives"
+  }
+]

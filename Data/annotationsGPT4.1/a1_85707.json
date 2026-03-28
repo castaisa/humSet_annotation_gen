@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "8",
+    "unit": "hours",
+    "eventType": "EventP",
+    "eventDescription": "worked per day"
+  },
+  {
+    "quantity": "1,050",
+    "unit": "G$",
+    "eventType": "EventP",
+    "eventDescription": "paid per day"
+  },
+  {
+    "quantity": "5",
+    "unit": "USD",
+    "eventType": "EventP",
+    "eventDescription": "paid per day"
+  },
+  {
+    "quantity": "42,022",
+    "unit": "G$",
+    "eventType": "EventP",
+    "eventDescription": "minimum wage"
+  },
+  {
+    "quantity": "200",
+    "unit": "US dollars",
+    "eventType": "EventP",
+    "eventDescription": "minimum wage"
+  },
+  {
+    "quantity": "63,033",
+    "unit": "G$",
+    "eventType": "EventO",
+    "eventDescription": "cost of rent/month"
+  },
+  {
+    "quantity": "300",
+    "unit": "US dollars",
+    "eventType": "EventO",
+    "eventDescription": "cost of rent/month"
+  },
+  {
+    "quantity": "3 out of 5",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "self-employed or worked at a restaurant or in a mine",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "one month and half",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "required to stay in the mines"
+  }
+]

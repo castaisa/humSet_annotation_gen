@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "04",
+    "unit": "WASH facilities",
+    "eventType": "EventO",
+    "eventDescription": "disinfected"
+  },
+  {
+    "quantity": "03",
+    "unit": "public spaces and infrastructures",
+    "eventType": "EventO",
+    "eventDescription": "disinfected"
+  },
+  {
+    "quantity": "19",
+    "unit": "RCY volunteers",
+    "eventType": "EventP",
+    "eventDescription": "engaged"
+  },
+  {
+    "quantity": "15",
+    "unit": "pcs soap bars",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "01",
+    "unit": "COVID-19 suspected referral household",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "16",
+    "unit": "HHs",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "99",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "0.1%",
+    "unit": "clorine water",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "500ml",
+    "unit": "clorine water",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "01",
+    "unit": "pair gloves",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "20",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "signboard installed"
+  },
+  {
+    "quantity": "01",
+    "unit": "batch RCY Volunteers training",
+    "eventType": "EventO",
+    "eventDescription": "completed"
+  }
+]

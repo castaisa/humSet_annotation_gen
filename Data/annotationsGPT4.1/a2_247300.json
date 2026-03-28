@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "161,807",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "achieved GPA-5"
+  },
+  {
+    "quantity": "1,367,377",
+    "unit": "examinees",
+    "eventType": "EventP",
+    "eventDescription": "passed in the examinations"
+  },
+  {
+    "quantity": "75%",
+    "unit": "SSC",
+    "eventType": "EventO",
+    "eventDescription": "cumulated for GPA calculation"
+  },
+  {
+    "quantity": "25%",
+    "unit": "JSC or JDC results",
+    "eventType": "EventO",
+    "eventDescription": "cumulated for GPA calculation"
+  }
+]

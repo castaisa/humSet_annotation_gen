@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "75%",
+    "unit": "applications",
+    "eventType": "EventO",
+    "eventDescription": "submitted in Metropolitan Region"
+  },
+  {
+    "quantity": "7.4%",
+    "unit": "applications",
+    "eventType": "EventO",
+    "eventDescription": "submitted in Valparaiso Region"
+  },
+  {
+    "quantity": "3.7%",
+    "unit": "applications",
+    "eventType": "EventO",
+    "eventDescription": "submitted in Maule Region"
+  },
+  {
+    "quantity": "almost 80%",
+    "unit": "temporary visa applicants",
+    "eventType": "EventP",
+    "eventDescription": "are between 15-44 years old"
+  },
+  {
+    "quantity": "about 125,000",
+    "unit": "residence permits",
+    "eventType": "EventO",
+    "eventDescription": "issued",
+    "modifier": "about"
+  },
+  {
+    "quantity": "273%",
+    "unit": "temporary visas",
+    "eventType": "EventO",
+    "eventDescription": "increase from 2015 to 2016"
+  },
+  {
+    "quantity": "316%",
+    "unit": "temporary visas",
+    "eventType": "EventO",
+    "eventDescription": "increase from 2016 to 2017"
+  }
+]

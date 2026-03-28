@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "40",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases"
+  },
+  {
+    "quantity": "186",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases"
+  },
+  {
+    "quantity": "168,442",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "total COVID-19 cases"
+  },
+  {
+    "quantity": "2,122",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "COVID-19 deaths"
+  },
+  {
+    "quantity": "164,423",
+    "unit": "recoveries",
+    "eventType": "EventP",
+    "eventDescription": "COVID-19 recoveries"
+  }
+]

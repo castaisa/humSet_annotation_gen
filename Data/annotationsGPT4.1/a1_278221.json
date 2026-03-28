@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "20",
+    "unit": "Community Health workers (CHWs)",
+    "eventType": "EventP",
+    "eventDescription": "trained and equipped"
+  },
+  {
+    "quantity": "4",
+    "unit": "police officers",
+    "eventType": "EventP",
+    "eventDescription": "formed taskforce"
+  },
+  {
+    "quantity": "3",
+    "unit": "municipal police",
+    "eventType": "EventP",
+    "eventDescription": "formed taskforce"
+  },
+  {
+    "quantity": "2",
+    "unit": "members of VAHA Africa\u2019s team",
+    "eventType": "EventP",
+    "eventDescription": "formed taskforce"
+  },
+  {
+    "quantity": "10",
+    "unit": "handwash stations",
+    "eventType": "EventA",
+    "eventDescription": "installed"
+  },
+  {
+    "quantity": "10",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "handwash stations installed"
+  },
+  {
+    "quantity": "About 500",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "taught handwashing",
+    "modifier": "about"
+  },
+  {
+    "quantity": "20",
+    "unit": "journalists",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  }
+]

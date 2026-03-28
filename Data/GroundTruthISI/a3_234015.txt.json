@@ -1,0 +1,25 @@
+[
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 647,
+      "end": 650
+    },
+    "unit": {
+      "text": "rate of births attended by qualified personnel",
+      "begin": 548,
+      "end": 594
+    },
+    "eventDescription": {
+      "text": "remains very low",
+      "begin": 595,
+      "end": 611
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "less than",
+      "begin": 637,
+      "end": 646
+    }
+  }
+]

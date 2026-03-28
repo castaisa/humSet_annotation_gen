@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "4,638",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "72%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported education through television"
+  },
+  {
+    "quantity": "40%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported education through internet and online"
+  },
+  {
+    "quantity": "25%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported education through SMS"
+  }
+]

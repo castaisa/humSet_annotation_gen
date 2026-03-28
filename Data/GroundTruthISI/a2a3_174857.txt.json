@@ -1,0 +1,180 @@
+[
+  {
+    "quantity": {
+      "text": "160,000",
+      "begin": 107,
+      "end": 114
+    },
+    "unit": {
+      "text": "per household",
+      "begin": 130,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 126,
+      "end": 128
+    },
+    "unit": {
+      "text": "per household",
+      "begin": 130,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "one-quarter",
+      "begin": 159,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "extreme poverty line",
+      "begin": 178,
+      "end": 198
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 451,
+      "end": 453
+    },
+    "eventDescription": {
+      "text": "poverty rate",
+      "begin": 400,
+      "end": 412
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "32%",
+      "begin": 457,
+      "end": 460
+    },
+    "eventDescription": {
+      "text": "poverty rate",
+      "begin": 400,
+      "end": 412
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16.7%",
+      "begin": 494,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "extreme poverty",
+      "begin": 465,
+      "end": 480
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4.5%",
+      "begin": 486,
+      "end": 490
+    },
+    "eventDescription": {
+      "text": "extreme poverty",
+      "begin": 465,
+      "end": 480
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four million",
+      "begin": 554,
+      "end": 566
+    },
+    "eventDescription": {
+      "text": "consequence of the loss of labor income",
+      "begin": 506,
+      "end": 545
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "over",
+      "begin": 549,
+      "end": 553
+    },
+    "unit": {
+      "text": "informal workers",
+      "begin": 567,
+      "end": 583
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 780,
+      "end": 785
+    },
+    "unit": {
+      "text": "month",
+      "begin": 786,
+      "end": 791
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine million",
+      "begin": 824,
+      "end": 836
+    },
+    "eventDescription": {
+      "text": "universal basic income to reach",
+      "begin": 792,
+      "end": 823
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 837,
+      "end": 847
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.4 million",
+      "begin": 1010,
+      "end": 1021
+    },
+    "unit": {
+      "text": "jobs",
+      "begin": 1022,
+      "end": 1026
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine million",
+      "begin": 1319,
+      "end": 1331
+    },
+    "unit": {
+      "text": "households",
+      "begin": 1332,
+      "end": 1342
+    }
+  },
+  {
+    "quantity": {
+      "text": "240 000",
+      "begin": 1437,
+      "end": 1444
+    },
+    "unit": {
+      "text": "per households",
+      "begin": 1451,
+      "end": 1465
+    }
+  }
+]

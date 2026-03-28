@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 10,
+      "end": 11
+    },
+    "eventDescription": {
+      "text": "visited",
+      "start": 27,
+      "end": 34
+    },
+    "unit": {
+      "text": "SWATs",
+      "start": 21,
+      "end": 26
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 19,
+      "end": 20
+    },
+    "eventDescription": {
+      "text": "visited",
+      "start": 27,
+      "end": 34
+    },
+    "unit": {
+      "text": "SWATs",
+      "start": 21,
+      "end": 26
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3rd",
+      "start": 184,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "visited",
+      "start": 27,
+      "end": 34
+    },
+    "unit": {
+      "text": "one",
+      "start": 188,
+      "end": 191
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 402,
+      "end": 403
+    },
+    "eventDescription": {
+      "text": "running out of aluminium sulfate",
+      "start": 425,
+      "end": 457
+    },
+    "unit": {
+      "text": "SWATs",
+      "start": 414,
+      "end": 419
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 412,
+      "end": 413
+    },
+    "eventDescription": {
+      "text": "running out of aluminium sulfate",
+      "start": 425,
+      "end": 457
+    },
+    "unit": {
+      "text": "SWATs",
+      "start": 414,
+      "end": 419
+    }
+  }
+]

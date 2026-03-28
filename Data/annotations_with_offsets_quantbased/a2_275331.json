@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "550",
+      "start": 347,
+      "end": 350
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "formal businesses",
+      "start": 351,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five",
+      "start": 406,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cities",
+      "start": 411,
+      "end": 417
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "about 30%",
+      "start": 641,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "contracted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sales and employment",
+      "start": 617,
+      "end": 637
+    },
+    "modifier": {
+      "text": "about",
+      "start": 641,
+      "end": 646
+    }
+  }
+]

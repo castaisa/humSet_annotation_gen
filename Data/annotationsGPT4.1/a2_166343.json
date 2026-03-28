@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "19",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "housed"
+  },
+  {
+    "quantity": "13",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "housed"
+  },
+  {
+    "quantity": "six",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "involved in Cash-for-Work agricultural project"
+  },
+  {
+    "quantity": "three",
+    "unit": "locals",
+    "eventType": "EventP",
+    "eventDescription": "provide support"
+  }
+]

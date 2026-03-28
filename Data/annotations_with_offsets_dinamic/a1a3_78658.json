@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "conducted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,100",
+      "start": 107,
+      "end": 112
+    },
+    "unit": {
+      "text": "household surveys",
+      "start": 113,
+      "end": 130
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are food insecure",
+      "start": 421,
+      "end": 438
+    },
+    "quantity": {
+      "text": "54%",
+      "start": 294,
+      "end": 297
+    },
+    "unit": {
+      "text": "migrants and host communities",
+      "start": 305,
+      "end": 334
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are food insecure",
+      "start": 567,
+      "end": 584
+    },
+    "modifier": {
+      "text": "almost",
+      "start": 100,
+      "end": 106
+    },
+    "quantity": {
+      "text": "80%",
+      "start": 471,
+      "end": 474
+    },
+    "unit": {
+      "text": "migrants in transit",
+      "start": 478,
+      "end": 497
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are food insecure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60%",
+      "start": 542,
+      "end": 545
+    },
+    "unit": {
+      "text": "pendular migrants",
+      "start": 549,
+      "end": 566
+    }
+  }
+]

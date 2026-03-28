@@ -1,0 +1,272 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 40,
+      "end": 48
+    },
+    "quantity": {
+      "text": "81",
+      "start": 11,
+      "end": 13
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": 14,
+      "end": 29
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "recorded",
+      "start": 97,
+      "end": 105
+    },
+    "quantity": {
+      "text": "39",
+      "start": 73,
+      "end": 75
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 76,
+      "end": 91
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 109,
+      "end": 113
+    },
+    "unit": {
+      "text": "states",
+      "start": 114,
+      "end": 120
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 205,
+      "end": 208
+    },
+    "unit": {
+      "text": "death",
+      "start": 209,
+      "end": 214
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from two states",
+      "start": 249,
+      "end": 264
+    },
+    "quantity": {
+      "text": "59%",
+      "start": 241,
+      "end": 244
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 224,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "proportion of confirmed cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28%",
+      "start": 273,
+      "end": 276
+    },
+    "unit": {
+      "text": "Delta",
+      "start": 266,
+      "end": 271
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "proportion of confirmed cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26%",
+      "start": 289,
+      "end": 292
+    },
+    "unit": {
+      "text": "Lagos",
+      "start": 282,
+      "end": 287
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "most affected age-group",
+      "start": 300,
+      "end": 323
+    },
+    "quantity": {
+      "text": "21-40",
+      "start": 327,
+      "end": 332
+    },
+    "unit": {
+      "text": "years",
+      "start": 333,
+      "end": 338
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age range",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15-51",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 352,
+      "end": 357
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "median age",
+      "start": 359,
+      "end": 369
+    },
+    "quantity": {
+      "text": "32",
+      "start": 371,
+      "end": 373
+    },
+    "unit": {
+      "text": "years",
+      "start": 374,
+      "end": 379
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "male",
+      "start": 412,
+      "end": 416
+    },
+    "quantity": {
+      "text": "84.6%",
+      "start": 383,
+      "end": 388
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 392,
+      "end": 407
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "gender ratio",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2.6:1",
+      "start": 441,
+      "end": 446
+    },
+    "unit": {
+      "text": "male to female ratio",
+      "start": 418,
+      "end": 438
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "recorded",
+      "start": 551,
+      "end": 559
+    },
+    "quantity": {
+      "text": "176",
+      "start": 505,
+      "end": 508
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 509,
+      "end": 524
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 529,
+      "end": 533
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 534,
+      "end": 540
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18",
+      "start": 563,
+      "end": 565
+    },
+    "unit": {
+      "text": "states",
+      "start": 566,
+      "end": 572
+    }
+  }
+]

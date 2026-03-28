@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "distance from the IDP camp",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 343,
+      "end": 348
+    },
+    "unit": {
+      "text": "kilometers",
+      "start": 349,
+      "end": 359
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "abducted",
+      "start": 220,
+      "end": 228
+    },
+    "quantity": {
+      "text": "sixteen",
+      "start": 397,
+      "end": 404
+    },
+    "unit": {
+      "text": "women",
+      "start": 405,
+      "end": 410
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "went to Sabsawa village in search of firewood",
+      "start": 527,
+      "end": 572
+    },
+    "quantity": {
+      "text": "177",
+      "start": 511,
+      "end": 514
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 515,
+      "end": 526
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returned",
+      "start": 609,
+      "end": 617
+    },
+    "quantity": {
+      "text": "11",
+      "start": 599,
+      "end": 601
+    },
+    "unit": {
+      "text": "people",
+      "start": 602,
+      "end": 608
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "found",
+      "start": 635,
+      "end": 640
+    },
+    "quantity": {
+      "text": "48",
+      "start": 619,
+      "end": 621
+    },
+    "unit": {
+      "text": "corpses",
+      "start": 622,
+      "end": 629
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "missing",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "118",
+      "start": 660,
+      "end": 663
+    },
+    "unit": {
+      "text": "are still unaccounted for",
+      "start": 664,
+      "end": 689
+    }
+  }
+]

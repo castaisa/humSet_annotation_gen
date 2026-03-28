@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": {
+      "text": "90 per cent",
+      "begin": 166,
+      "end": 177
+    },
+    "unit": {
+      "text": "parents with school-age children",
+      "begin": 181,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "indicated that their children did not have access to formal education",
+      "begin": 214,
+      "end": 283
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,300",
+      "begin": 312,
+      "end": 317
+    },
+    "unit": {
+      "text": "children",
+      "begin": 318,
+      "end": 326
+    },
+    "eventDescription": {
+      "text": "pursuing their education at CFS",
+      "begin": 332,
+      "end": 363
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "600",
+      "begin": 372,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "operated",
+      "begin": 385,
+      "end": 393
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "70 per cent",
+      "begin": 425,
+      "end": 436
+    },
+    "unit": {
+      "text": "school-age migrant children",
+      "begin": 440,
+      "end": 467
+    }
+  },
+  {
+    "quantity": {
+      "text": "771",
+      "begin": 482,
+      "end": 485
+    },
+    "unit": {
+      "text": "migrant children",
+      "begin": 486,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "granted student permits",
+      "begin": 512,
+      "end": 535
+    },
+    "eventType": "EventA"
+  }
+]

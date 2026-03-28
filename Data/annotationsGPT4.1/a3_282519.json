@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "16",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  },
+  {
+    "quantity": "19",
+    "unit": "nurses",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  },
+  {
+    "quantity": "27",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "39",
+    "unit": "nurses",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "34",
+    "unit": "healthcare professionals",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "48,878",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "sensitized on COVID-19 prevention"
+  },
+  {
+    "quantity": "114,959",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "sensitized on COVID-19 prevention"
+  },
+  {
+    "quantity": "278",
+    "unit": "UNICEF-supported health facilities",
+    "eventType": "EventA",
+    "eventDescription": "provided integrated nutrition services"
+  },
+  {
+    "quantity": "40,152",
+    "unit": "boys and girls aged 6-59 months with SAM",
+    "eventType": "EventP",
+    "eventDescription": "admitted for treatment"
+  },
+  {
+    "quantity": "five",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "conducted mother to mother support group meetings"
+  },
+  {
+    "quantity": "643",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "reached through support group meetings"
+  },
+  {
+    "quantity": "4,107",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "reached through support group meetings"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "180",
+    "unit": "SYP per litre",
+    "eventType": "EventA",
+    "eventDescription": "subsidised diesel fuel price"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in average diesel fuel price"
+  },
+  {
+    "quantity": "22 175",
+    "unit": "SYP per 20 litres",
+    "eventType": "EventA",
+    "eventDescription": "average diesel fuel price"
+  },
+  {
+    "quantity": "30 000",
+    "unit": "SYP per 20 litres",
+    "eventType": "EventA",
+    "eventDescription": "highest diesel fuel price"
+  },
+  {
+    "quantity": "3 000",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "lowest diesel fuel price"
+  }
+]

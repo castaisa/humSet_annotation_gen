@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,542",
+      "start": 94,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "start": 122,
+      "end": 148
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 100,
+      "end": 111
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11",
+      "start": 152,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "resettlement States involved",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "resettlement States",
+      "start": 155,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "930",
+      "start": 311,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "departed on resettlement",
+      "start": 332,
+      "end": 356
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 315,
+      "end": 326
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "248",
+      "start": 505,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "accepted for resettlement and pending departure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 509,
+      "end": 520
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "245",
+      "start": 700,
+      "end": 703
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement and pending interview or decision",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 704,
+      "end": 715
+    }
+  }
+]

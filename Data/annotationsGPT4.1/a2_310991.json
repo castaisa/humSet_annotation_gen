@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "735",
+    "unit": "BDT per capita per month",
+    "eventType": "EventP",
+    "eventDescription": "Rohingya household expenditure"
+  },
+  {
+    "quantity": "9",
+    "unit": "USD per capita per month",
+    "eventType": "EventP",
+    "eventDescription": "Rohingya household expenditure"
+  },
+  {
+    "quantity": "2378",
+    "unit": "BDT per capita per month",
+    "eventType": "EventP",
+    "eventDescription": "host community household expenditure"
+  },
+  {
+    "quantity": "28",
+    "unit": "USD per capita per month",
+    "eventType": "EventP",
+    "eventDescription": "host community household expenditure"
+  },
+  {
+    "quantity": "1908",
+    "unit": "BDT per capita per month",
+    "eventType": "EventP",
+    "eventDescription": "Rohingya household expenditure including food assistance"
+  },
+  {
+    "quantity": "23",
+    "unit": "USD per capita per month",
+    "eventType": "EventP",
+    "eventDescription": "Rohingya household expenditure including food assistance"
+  }
+]

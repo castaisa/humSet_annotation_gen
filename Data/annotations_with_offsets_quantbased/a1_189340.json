@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "one billion",
+      "start": 177,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "Protection Plan announced",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "colón",
+      "start": 189,
+      "end": 194
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "3%",
+      "start": 242,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "Protection Plan equivalent",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of GDP",
+      "start": 245,
+      "end": 251
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50%",
+      "start": 745,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "reduction of salaries",
+      "start": 716,
+      "end": 737
+    },
+    "unit": {
+      "text": "salaries",
+      "start": 729,
+      "end": 737
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20%",
+      "start": 782,
+      "end": 785
+    },
+    "eventDescription": {
+      "text": "decrease in company income",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "income",
+      "start": 795,
+      "end": 801
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "75%",
+      "start": 843,
+      "end": 846
+    },
+    "eventDescription": {
+      "text": "reduction of salaries",
+      "start": 716,
+      "end": 737
+    },
+    "unit": {
+      "text": "salaries",
+      "start": 729,
+      "end": 737
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "60%",
+      "start": 880,
+      "end": 883
+    },
+    "eventDescription": {
+      "text": "decrease in company income",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "income",
+      "start": 893,
+      "end": 899
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 905,
+      "end": 910
+    },
+    "eventDescription": {
+      "text": "duration of reduction",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "months",
+      "start": 911,
+      "end": 917
+    }
+  }
+]

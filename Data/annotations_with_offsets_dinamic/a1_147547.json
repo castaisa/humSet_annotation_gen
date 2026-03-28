@@ -1,0 +1,326 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided",
+      "start": 53,
+      "end": 61
+    },
+    "quantity": {
+      "text": "146,033",
+      "start": 62,
+      "end": 69
+    },
+    "unit": {
+      "text": "protection interventions",
+      "start": 70,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "covered",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "311",
+      "start": 142,
+      "end": 145
+    },
+    "unit": {
+      "text": "communities",
+      "start": 146,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received psychological first aid",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,053",
+      "start": 266,
+      "end": 271
+    },
+    "unit": {
+      "text": "girls",
+      "start": 272,
+      "end": 277
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received psychological first aid",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,761",
+      "start": 279,
+      "end": 284
+    },
+    "unit": {
+      "text": "boys",
+      "start": 285,
+      "end": 289
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received psychological first aid",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,588",
+      "start": 291,
+      "end": 296
+    },
+    "unit": {
+      "text": "women",
+      "start": 297,
+      "end": 302
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received psychological first aid",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,580",
+      "start": 307,
+      "end": 312
+    },
+    "unit": {
+      "text": "men",
+      "start": 313,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attended legal awareness-raising sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "192",
+      "start": 428,
+      "end": 431
+    },
+    "unit": {
+      "text": "girls",
+      "start": 432,
+      "end": 437
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attended legal awareness-raising sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "193",
+      "start": 439,
+      "end": 442
+    },
+    "unit": {
+      "text": "boys",
+      "start": 443,
+      "end": 447
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attended legal awareness-raising sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,987",
+      "start": 449,
+      "end": 454
+    },
+    "unit": {
+      "text": "women",
+      "start": 455,
+      "end": 460
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attended legal awareness-raising sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,918",
+      "start": 465,
+      "end": 470
+    },
+    "unit": {
+      "text": "men",
+      "start": 471,
+      "end": 474
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received case management services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "90",
+      "start": 530,
+      "end": 532
+    },
+    "unit": {
+      "text": "girls",
+      "start": 533,
+      "end": 538
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received case management services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "142",
+      "start": 540,
+      "end": 543
+    },
+    "unit": {
+      "text": "boys",
+      "start": 544,
+      "end": 548
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received case management services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "281",
+      "start": 550,
+      "end": 553
+    },
+    "unit": {
+      "text": "women",
+      "start": 554,
+      "end": 559
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received case management services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "169",
+      "start": 564,
+      "end": 567
+    },
+    "unit": {
+      "text": "men",
+      "start": 568,
+      "end": 571
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "referred to other services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "879",
+      "start": 609,
+      "end": 612
+    },
+    "unit": {
+      "text": "girls",
+      "start": 613,
+      "end": 618
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "referred to other services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,121",
+      "start": 620,
+      "end": 625
+    },
+    "unit": {
+      "text": "boys",
+      "start": 626,
+      "end": 630
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "referred to other services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,637",
+      "start": 632,
+      "end": 637
+    },
+    "unit": {
+      "text": "women",
+      "start": 638,
+      "end": 643
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "referred to other services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,048",
+      "start": 648,
+      "end": 653
+    },
+    "unit": {
+      "text": "men",
+      "start": 654,
+      "end": 657
+    }
+  }
+]

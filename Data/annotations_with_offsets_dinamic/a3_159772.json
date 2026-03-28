@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "chlorine (HTH) donated",
+      "start": 101,
+      "end": 123
+    },
+    "quantity": {
+      "text": "450",
+      "start": 80,
+      "end": 83
+    },
+    "unit": {
+      "text": "drums",
+      "start": 84,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "weight per drum donated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45 kg",
+      "start": 94,
+      "end": 99
+    },
+    "unit": {
+      "text": "chlorine (HTH)",
+      "start": 101,
+      "end": 115
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "chlorine (HTH) donated",
+      "start": 177,
+      "end": 199
+    },
+    "quantity": {
+      "text": "873",
+      "start": 156,
+      "end": 159
+    },
+    "unit": {
+      "text": "drums",
+      "start": 160,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "weight per drum donated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45 kg",
+      "start": 170,
+      "end": 175
+    },
+    "unit": {
+      "text": "chlorine (HTH)",
+      "start": 177,
+      "end": 191
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "drums released for COVID-19/cholera response",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 269,
+      "end": 273
+    },
+    "unit": {
+      "text": "drums",
+      "start": 274,
+      "end": 279
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "drums provided for health/CMAM centres",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 349,
+      "end": 351
+    },
+    "unit": {
+      "text": "drums",
+      "start": 352,
+      "end": 357
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "centres receiving drums and sprayers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 396,
+      "end": 398
+    },
+    "unit": {
+      "text": "health/CMAM centres",
+      "start": 399,
+      "end": 418
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "drums of Calcium Hypochlorite (HTH) provided",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 525,
+      "end": 528
+    },
+    "unit": {
+      "text": "drums",
+      "start": 529,
+      "end": 534
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handwashing facilities installed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20",
+      "start": 589,
+      "end": 591
+    },
+    "unit": {
+      "text": "handwashing facilities",
+      "start": 592,
+      "end": 614
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "persons benefitting",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,000",
+      "start": 719,
+      "end": 724
+    },
+    "unit": {
+      "text": "persons",
+      "start": 725,
+      "end": 732
+    }
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13%",
+      "start": 208,
+      "end": 211
+    },
+    "eventDescription": {
+      "text": "wasting prevalence nationally",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": 173,
+      "end": 183
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8%",
+      "start": 349,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "lowest district wasting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": 332,
+      "end": 342
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17%",
+      "start": 393,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "highest district wasting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": 439,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7%",
+      "start": 477,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "stunting prevalence nationally",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": 439,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9%",
+      "start": 561,
+      "end": 563
+    },
+    "eventDescription": {
+      "text": "highest district stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": 439,
+      "end": 449
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 554,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25%",
+      "start": 692,
+      "end": 695
+    },
+    "eventDescription": {
+      "text": "previous nutritional assessments",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "prevalence",
+      "start": 439,
+      "end": 449
+    }
+  }
+]

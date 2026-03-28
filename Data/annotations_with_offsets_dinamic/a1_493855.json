@@ -1,0 +1,241 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sensitized households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,120",
+      "start": 70,
+      "end": 75
+    },
+    "unit": {
+      "text": "house to house teams",
+      "start": 76,
+      "end": 96
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "teams operated in LGAs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20",
+      "start": 101,
+      "end": 103
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 104,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sensitized households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,312",
+      "start": 114,
+      "end": 119
+    },
+    "unit": {
+      "text": "house to house teams",
+      "start": 120,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "teams operated in LGAs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21",
+      "start": 145,
+      "end": 147
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 148,
+      "end": 152
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sensitized during polio outbreak response",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "130,271",
+      "start": 165,
+      "end": 172
+    },
+    "unit": {
+      "text": "households",
+      "start": 185,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sensitized during polio outbreak response",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "199,155",
+      "start": 177,
+      "end": 184
+    },
+    "unit": {
+      "text": "households",
+      "start": 336,
+      "end": 346
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with key cholera messages",
+      "start": 398,
+      "end": 431
+    },
+    "quantity": {
+      "text": "530,440",
+      "start": 328,
+      "end": 335
+    },
+    "unit": {
+      "text": "households",
+      "start": 365,
+      "end": 375
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proportion of households reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "52%",
+      "start": 358,
+      "end": 361
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration of OBR2",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 443,
+      "end": 444
+    },
+    "unit": {
+      "text": "days",
+      "start": 445,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "OBR2 held in LGAs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21",
+      "start": 463,
+      "end": 465
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 466,
+      "end": 470
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "detected and referred for testing",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 514,
+      "end": 516
+    },
+    "unit": {
+      "text": "suspected cases of cholera",
+      "start": 517,
+      "end": 543
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "health talks ongoing",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 713,
+      "end": 721
+    },
+    "quantity": {
+      "text": "at least 200",
+      "start": 713,
+      "end": 725
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 726,
+      "end": 743
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "health talks ongoing in LGAs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15",
+      "start": 747,
+      "end": 749
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 750,
+      "end": 754
+    }
+  }
+]

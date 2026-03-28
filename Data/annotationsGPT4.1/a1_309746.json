@@ -1,0 +1,70 @@
+[
+  {
+    "quantity": "80%",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)",
+    "modifier": "About"
+  },
+  {
+    "quantity": "17%",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "25",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 2 (Alert) and below"
+  },
+  {
+    "quantity": "80%",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "31%",
+    "unit": "counties in Jonglei State",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "31%",
+    "unit": "counties in Upper Nile State",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "17%",
+    "unit": "counties in Unity State",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "10%",
+    "unit": "counties in Warrap State",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "3%",
+    "unit": "counties in Eastern Equatoria State",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "3%",
+    "unit": "counties in Northern Bahr el Ghazal State",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  },
+  {
+    "quantity": "3%",
+    "unit": "counties in Lakes State",
+    "eventType": "EventO",
+    "eventDescription": "in IPC AMN Phase 4 (Critical)"
+  }
+]

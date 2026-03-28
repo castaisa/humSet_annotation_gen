@@ -1,0 +1,169 @@
+[
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 305,
+      "end": 308
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 295,
+      "end": 304
+    },
+    "unit": {
+      "text": "of the households",
+      "begin": 309,
+      "end": 326
+    },
+    "eventDescription": {
+      "text": "were classified as either moderately or severely food insecure",
+      "begin": 327,
+      "end": 389
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "87%",
+      "begin": 461,
+      "end": 464
+    },
+    "eventDescription": {
+      "text": "highest burden of food insecurity",
+      "begin": 422,
+      "end": 455
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "of households",
+      "begin": 465,
+      "end": 478
+    }
+  },
+  {
+    "quantity": {
+      "text": "49%",
+      "begin": 512,
+      "end": 515
+    },
+    "unit": {
+      "text": "of households",
+      "begin": 465,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "either moderately food insecure",
+      "begin": 479,
+      "end": 510
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "38%",
+      "begin": 544,
+      "end": 547
+    },
+    "unit": {
+      "text": "of households",
+      "begin": 465,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "severely food insecure",
+      "begin": 520,
+      "end": 542
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "74%",
+      "begin": 627,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "high food insecurity",
+      "begin": 580,
+      "end": 600
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Upper Nile State",
+      "begin": 609,
+      "end": 625
+    }
+  },
+  {
+    "quantity": {
+      "text": "78",
+      "begin": 657,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "high food insecurity",
+      "begin": 580,
+      "end": 600
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Western Bahr el Ghazal",
+      "begin": 633,
+      "end": 655
+    }
+  },
+  {
+    "quantity": {
+      "text": "82%",
+      "begin": 682,
+      "end": 685
+    },
+    "eventDescription": {
+      "text": "high food insecurity",
+      "begin": 580,
+      "end": 600
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Central Equatorial",
+      "begin": 662,
+      "end": 680
+    }
+  },
+  {
+    "quantity": {
+      "text": "70",
+      "begin": 713,
+      "end": 715
+    },
+    "eventDescription": {
+      "text": "high food insecurity",
+      "begin": 580,
+      "end": 600
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Northern Bahr el Ghazal",
+      "begin": 688,
+      "end": 711
+    }
+  },
+  {
+    "quantity": {
+      "text": "69%",
+      "begin": 729,
+      "end": 732
+    },
+    "eventDescription": {
+      "text": "high food insecurity",
+      "begin": 580,
+      "end": 600
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Lakes",
+      "begin": 722,
+      "end": 727
+    }
+  }
+]

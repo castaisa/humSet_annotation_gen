@@ -1,0 +1,16 @@
+[
+  {
+    "quantity": "31 percent",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "millet prices above average",
+    "modifier": "about"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "maize prices above average",
+    "modifier": "about"
+  }
+]

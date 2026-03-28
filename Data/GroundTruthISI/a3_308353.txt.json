@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 212,
+      "end": 214
+    },
+    "eventDescription": {
+      "text": "monthly achievements",
+      "begin": 188,
+      "end": 208
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "reporting partners",
+      "begin": 215,
+      "end": 233
+    }
+  },
+  {
+    "quantity": {
+      "text": "330,401",
+      "begin": 429,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "FSS targeted",
+      "begin": 416,
+      "end": 428
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 437,
+      "end": 448
+    }
+  }
+]

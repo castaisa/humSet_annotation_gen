@@ -1,0 +1,98 @@
+[
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 554,
+      "end": 555
+    },
+    "eventDescription": {
+      "text": "Rohingya households spend significantly less per month",
+      "begin": 473,
+      "end": 527
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 550,
+      "end": 553
+    }
+  },
+  {
+    "quantity": {
+      "text": "735",
+      "begin": 534,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "Rohingya households spend significantly less per month",
+      "begin": 473,
+      "end": 527
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per capita",
+      "begin": 538,
+      "end": 548
+    }
+  },
+  {
+    "quantity": {
+      "text": "2378",
+      "begin": 595,
+      "end": 599
+    },
+    "unit": {
+      "text": "per capita",
+      "begin": 600,
+      "end": 610
+    }
+  },
+  {
+    "quantity": {
+      "text": "28",
+      "begin": 616,
+      "end": 618
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 612,
+      "end": 615
+    }
+  },
+  {
+    "quantity": {
+      "text": "1908",
+      "begin": 728,
+      "end": 732
+    },
+    "eventDescription": {
+      "text": "aggregate expenditures for Rohingya households",
+      "begin": 669,
+      "end": 715
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/capita/month",
+      "begin": 732,
+      "end": 745
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 751,
+      "end": 753
+    },
+    "eventDescription": {
+      "text": "aggregate expenditures for Rohingya households",
+      "begin": 669,
+      "end": 715
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "(USD",
+      "begin": 746,
+      "end": 750
+    }
+  }
+]

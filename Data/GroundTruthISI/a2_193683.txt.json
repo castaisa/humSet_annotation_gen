@@ -1,0 +1,188 @@
+[
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 123,
+      "end": 124
+    },
+    "unit": {
+      "text": "health districts",
+      "begin": 125,
+      "end": 141
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 196,
+      "end": 197
+    },
+    "unit": {
+      "text": "health districts",
+      "begin": 198,
+      "end": 214
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,485",
+      "begin": 277,
+      "end": 282
+    },
+    "unit": {
+      "text": "children",
+      "begin": 283,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "received the Measles & Rubella (MR) vaccine",
+      "begin": 292,
+      "end": 335
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3,995",
+      "begin": 337,
+      "end": 342
+    },
+    "unit": {
+      "text": "children",
+      "begin": 343,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "were vaccinated against Polio",
+      "begin": 352,
+      "end": 381
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3,352",
+      "begin": 383,
+      "end": 388
+    },
+    "unit": {
+      "text": "children",
+      "begin": 389,
+      "end": 397
+    },
+    "eventDescription": {
+      "text": "received Penta vaccines",
+      "begin": 398,
+      "end": 421
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3,369",
+      "begin": 423,
+      "end": 428
+    },
+    "unit": {
+      "text": "children",
+      "begin": 429,
+      "end": 437
+    },
+    "eventDescription": {
+      "text": "received Pneumo vaccines",
+      "begin": 438,
+      "end": 462
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "718",
+      "begin": 464,
+      "end": 467
+    },
+    "unit": {
+      "text": "children",
+      "begin": 468,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "received BCG",
+      "begin": 477,
+      "end": 489
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,557",
+      "begin": 494,
+      "end": 499
+    },
+    "unit": {
+      "text": "children",
+      "begin": 500,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "vaccinated against Yellow Fever",
+      "begin": 514,
+      "end": 545
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,886",
+      "begin": 558,
+      "end": 563
+    },
+    "unit": {
+      "text": "children",
+      "begin": 564,
+      "end": 572
+    },
+    "eventDescription": {
+      "text": "vaccinated against Rotavirus",
+      "begin": 578,
+      "end": 606
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,069",
+      "begin": 613,
+      "end": 618
+    },
+    "unit": {
+      "text": "pregnant women",
+      "begin": 619,
+      "end": 633
+    },
+    "eventDescription": {
+      "text": "received Tetanus & Diphtheria vaccines",
+      "begin": 634,
+      "end": 672
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "401",
+      "begin": 677,
+      "end": 680
+    },
+    "unit": {
+      "text": "pregnant women",
+      "begin": 681,
+      "end": 695
+    },
+    "eventDescription": {
+      "text": "received intermittent treatment for malaria in pregnancy (IPT)",
+      "begin": 696,
+      "end": 758
+    },
+    "eventType": "EventP"
+  }
+]

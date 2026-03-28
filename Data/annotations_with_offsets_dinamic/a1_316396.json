@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "provided by NGOs",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 92,
+      "end": 97
+    },
+    "quantity": {
+      "text": "one in five",
+      "start": 98,
+      "end": 109
+    },
+    "unit": {
+      "text": "jobs in private businesses",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "said their level of activity had decreased",
+      "start": 402,
+      "end": 444
+    },
+    "quantity": {
+      "text": "three in four",
+      "start": 377,
+      "end": 390
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": 0,
+      "end": 4
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "said their level of activity had decreased",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "76%",
+      "start": 397,
+      "end": 400
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": 41,
+      "end": 45
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "said activity had declined by more than half",
+      "start": 488,
+      "end": 532
+    },
+    "quantity": {
+      "text": "one in five",
+      "start": 476,
+      "end": 487
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": 153,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "said activity had declined by more than half",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21%",
+      "start": 534,
+      "end": 537
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": 272,
+      "end": 276
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "said activity had stayed the same",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5%",
+      "start": 540,
+      "end": 542
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": 391,
+      "end": 395
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported an increase in activity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18%",
+      "start": 576,
+      "end": 579
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": 603,
+      "end": 607
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were unlikely to have moved any staff",
+      "start": 608,
+      "end": 645
+    },
+    "quantity": {
+      "text": "87%",
+      "start": 675,
+      "end": 678
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "said they had moved half or more of their staff",
+      "start": 701,
+      "end": 748
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 697,
+      "end": 699
+    },
+    "unit": {
+      "text": "NGOs",
+      "start": null,
+      "end": null
+    }
+  }
+]

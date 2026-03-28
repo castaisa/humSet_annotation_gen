@@ -1,0 +1,239 @@
+[
+  {
+    "quantity": {
+      "text": "313",
+      "begin": 29,
+      "end": 32
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "begin": 44,
+      "end": 62
+    },
+    "eventDescription": {
+      "text": "confirmed as positive",
+      "begin": 68,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3,186",
+      "begin": 120,
+      "end": 125
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "begin": 126,
+      "end": 144
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,687",
+      "begin": 146,
+      "end": 151
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "begin": 126,
+      "end": 144
+    }
+  },
+  {
+    "quantity": {
+      "text": "53 per cent",
+      "begin": 153,
+      "end": 164
+    },
+    "unit": {
+      "text": "Palestine refugees",
+      "begin": 126,
+      "end": 144
+    },
+    "eventDescription": {
+      "text": "been confirmed as positive with the COVID- 19",
+      "begin": 200,
+      "end": 245
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "122",
+      "begin": 257,
+      "end": 260
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 261,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 261,
+      "end": 267
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "304",
+      "begin": 306,
+      "end": 309
+    },
+    "unit": {
+      "text": "people",
+      "begin": 310,
+      "end": 316
+    },
+    "eventDescription": {
+      "text": "home-isolation",
+      "begin": 325,
+      "end": 339
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 341,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "hospitals",
+      "begin": 347,
+      "end": 356
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 362,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "Sibline isolation centre",
+      "begin": 369,
+      "end": 393
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,030",
+      "begin": 432,
+      "end": 437
+    },
+    "unit": {
+      "text": "Syrian refugees",
+      "begin": 438,
+      "end": 453
+    },
+    "eventDescription": {
+      "text": "tested positive for the COVID-19",
+      "begin": 498,
+      "end": 530
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 458,
+      "end": 460
+    },
+    "unit": {
+      "text": "refugees of other nationalities",
+      "begin": 461,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "tested positive for the COVID-19",
+      "begin": 498,
+      "end": 530
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,529",
+      "begin": 542,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "recoveries",
+      "begin": 548,
+      "end": 558
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "68",
+      "begin": 563,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 566,
+      "end": 572
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 566,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "175",
+      "begin": 594,
+      "end": 597
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 598,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "140",
+      "begin": 641,
+      "end": 644
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 645,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "detected",
+      "begin": 661,
+      "end": 669
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "53",
+      "begin": 703,
+      "end": 705
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 645,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "recovered",
+      "begin": 711,
+      "end": 720
+    },
+    "eventType": "EventP"
+  }
+]

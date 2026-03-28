@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "42 per cent",
+      "begin": 43,
+      "end": 54
+    },
+    "eventDescription": {
+      "text": "had at least one household member who was married before the age of 18",
+      "begin": 99,
+      "end": 169
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 58,
+      "end": 68
+    }
+  }
+]

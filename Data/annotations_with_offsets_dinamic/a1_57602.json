@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "estimated to be food insecure",
+      "start": 591,
+      "end": 620
+    },
+    "quantity": {
+      "text": "22 per cent",
+      "start": 543,
+      "end": 554
+    },
+    "unit": {
+      "text": "of the population in BAY states",
+      "start": 555,
+      "end": 586
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase compared to the projection made in 2018",
+      "start": 636,
+      "end": 684
+    },
+    "quantity": {
+      "text": "nine per cent",
+      "start": 622,
+      "end": 635
+    },
+    "unit": {
+      "text": "increase",
+      "start": 636,
+      "end": 644
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children under the age of five with acute malnutrition",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 765,
+      "end": 769
+    },
+    "unit": {
+      "text": "years",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached by humanitarian partners",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "a third",
+      "start": 911,
+      "end": 918
+    },
+    "unit": {
+      "text": "of the population targeted for assistance",
+      "start": 919,
+      "end": 960
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "at least seven",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "closed",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "two",
+    "unit": "primary public hospitals",
+    "eventType": "EventO",
+    "eventDescription": "at increased risk of damage"
+  },
+  {
+    "quantity": "40",
+    "unit": "inpatient beds",
+    "eventType": "EventA",
+    "eventDescription": "delivered"
+  },
+  {
+    "quantity": "nine",
+    "unit": "intensive care unit beds",
+    "eventType": "EventA",
+    "eventDescription": "delivered"
+  },
+  {
+    "quantity": "5.6 million liters",
+    "unit": "water",
+    "eventType": "EventA",
+    "eventDescription": "delivered"
+  },
+  {
+    "quantity": "three",
+    "unit": "public hospitals",
+    "eventType": "EventA",
+    "eventDescription": "received aid"
+  }
+]

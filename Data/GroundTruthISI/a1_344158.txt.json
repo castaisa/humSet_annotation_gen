@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "87%",
+      "begin": 35,
+      "end": 38
+    },
+    "unit": {
+      "text": "vendors",
+      "begin": 42,
+      "end": 49
+    },
+    "eventDescription": {
+      "text": "reported facing supply challenges",
+      "begin": 50,
+      "end": 83
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "75%",
+      "begin": 158,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "primary supply challenge cited remained price inflation",
+      "begin": 89,
+      "end": 144
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "surveyed vendors",
+      "begin": 169,
+      "end": 185
+    }
+  },
+  {
+    "quantity": {
+      "text": "24%",
+      "begin": 462,
+      "end": 465
+    },
+    "eventDescription": {
+      "text": "second cited issue reported was that supply was unable to keep up with consumer demand",
+      "begin": 362,
+      "end": 448
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "surveyed vendors",
+      "begin": 473,
+      "end": 489
+    }
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 504,
+      "end": 507
+    },
+    "unit": {
+      "text": "surveyed vendors",
+      "begin": 511,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "reported that their suppliers had limited supply",
+      "begin": 528,
+      "end": 576
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9%",
+      "begin": 582,
+      "end": 584
+    },
+    "unit": {
+      "text": "surveyed vendors",
+      "begin": 511,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "reported that their supply had been affected",
+      "begin": 585,
+      "end": 629
+    },
+    "eventType": "EventO"
+  }
+]

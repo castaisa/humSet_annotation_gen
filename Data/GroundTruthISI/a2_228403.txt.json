@@ -1,0 +1,109 @@
+[
+  {
+    "quantity": {
+      "text": "1,772",
+      "begin": 33,
+      "end": 38
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "begin": 39,
+      "end": 48
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,645",
+      "begin": 126,
+      "end": 131
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "begin": 39,
+      "end": 48
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,000",
+      "begin": 269,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "government is all set to transfer",
+      "begin": 225,
+      "end": 258
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "more than",
+      "begin": 259,
+      "end": 268
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "begin": 275,
+      "end": 284
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,645",
+      "begin": 394,
+      "end": 399
+    },
+    "unit": {
+      "text": "fellow citizens",
+      "begin": 409,
+      "end": 424
+    },
+    "eventDescription": {
+      "text": "were relocated",
+      "begin": 430,
+      "end": 444
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,642",
+      "begin": 504,
+      "end": 509
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "begin": 510,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "arrived",
+      "begin": 520,
+      "end": 527
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 569,
+      "end": 574
+    },
+    "unit": {
+      "text": "babies",
+      "begin": 575,
+      "end": 581
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,645",
+      "begin": 614,
+      "end": 619
+    },
+    "unit": {
+      "text": "babies",
+      "begin": 575,
+      "end": 581
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "1 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in price"
+  },
+  {
+    "quantity": "1 726",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average selling price reached"
+  },
+  {
+    "quantity": "3 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in price"
+  },
+  {
+    "quantity": "1 750",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price reached"
+  },
+  {
+    "quantity": "9",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "increase in price"
+  },
+  {
+    "quantity": "8",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "increase in price"
+  },
+  {
+    "quantity": "7",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "increase in price"
+  },
+  {
+    "quantity": "2",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "increase in price"
+  },
+  {
+    "quantity": "1 800",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price reached"
+  },
+  {
+    "quantity": "1 780",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price reached"
+  },
+  {
+    "quantity": "1 800",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price reached"
+  },
+  {
+    "quantity": "1 325",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price reached"
+  }
+]

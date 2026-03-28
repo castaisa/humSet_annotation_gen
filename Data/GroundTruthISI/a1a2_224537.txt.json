@@ -1,0 +1,108 @@
+[
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 49,
+      "end": 50
+    },
+    "unit": {
+      "text": "blocks",
+      "begin": 51,
+      "end": 57
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 61,
+      "end": 62
+    },
+    "unit": {
+      "text": "classrooms",
+      "begin": 63,
+      "end": 73
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 78,
+      "end": 79
+    },
+    "unit": {
+      "text": "offices, kitchen and store, teachers’ quarters",
+      "begin": 80,
+      "end": 126
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 132,
+      "end": 133
+    },
+    "unit": {
+      "text": "segregated latrines",
+      "begin": 134,
+      "end": 153
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 159,
+      "end": 160
+    },
+    "unit": {
+      "text": "stances",
+      "begin": 161,
+      "end": 168
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 650,
+      "end": 652
+    },
+    "eventDescription": {
+      "text": "school depends on untreated water sourced directly from the river",
+      "begin": 578,
+      "end": 643
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 644,
+      "end": 649
+    },
+    "unit": {
+      "text": "meters",
+      "begin": 653,
+      "end": 659
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 806,
+      "end": 807
+    },
+    "eventDescription": {
+      "text": "school has a nearby health facility",
+      "begin": 755,
+      "end": 790
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 800,
+      "end": 805
+    },
+    "unit": {
+      "text": "minutes",
+      "begin": 808,
+      "end": 815
+    }
+  }
+]

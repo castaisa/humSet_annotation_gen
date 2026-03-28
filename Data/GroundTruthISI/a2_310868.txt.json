@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 96,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 89,
+      "end": 92
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "≥",
+      "begin": 94,
+      "end": 95
+    }
+  },
+  {
+    "quantity": {
+      "text": "36",
+      "begin": 129,
+      "end": 131
+    },
+    "unit": {
+      "text": "population groups",
+      "begin": 132,
+      "end": 149
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 117,
+      "end": 121
+    },
+    "unit": {
+      "text": "population groups",
+      "begin": 132,
+      "end": 149
+    }
+  },
+  {
+    "quantity": {
+      "text": "20.9%",
+      "begin": 197,
+      "end": 202
+    },
+    "unit": {
+      "text": "Southern Inland Pastoral of Elberde district",
+      "begin": 151,
+      "end": 195
+    }
+  },
+  {
+    "quantity": {
+      "text": "16.7%",
+      "begin": 221,
+      "end": 226
+    },
+    "unit": {
+      "text": "Mogadishu IDPs",
+      "begin": 205,
+      "end": 219
+    }
+  },
+  {
+    "quantity": {
+      "text": "16.4%",
+      "begin": 249,
+      "end": 254
+    },
+    "unit": {
+      "text": "Huddur urban /IDPs",
+      "begin": 229,
+      "end": 247
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.8%",
+      "begin": 286,
+      "end": 291
+    },
+    "unit": {
+      "text": "IDPs in Bossasso and Garowe",
+      "begin": 257,
+      "end": 284
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.4%",
+      "begin": 313,
+      "end": 318
+    },
+    "unit": {
+      "text": "Shabelle Riverine",
+      "begin": 294,
+      "end": 311
+    }
+  },
+  {
+    "quantity": {
+      "text": "28",
+      "begin": 503,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "nutrition situation",
+      "begin": 480,
+      "end": 499
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "population groups",
+      "begin": 506,
+      "end": 523
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 577,
+      "end": 579
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 570,
+      "end": 573
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10–14.9%",
+      "begin": 577,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 570,
+      "end": 573
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14.9%",
+      "begin": 580,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 570,
+      "end": 573
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9.9%",
+      "begin": 693,
+      "end": 697
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 684,
+      "end": 687
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 691,
+      "end": 692
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 684,
+      "end": 687
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5-9.9%",
+      "begin": 691,
+      "end": 697
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 684,
+      "end": 687
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 774,
+      "end": 776
+    },
+    "eventDescription": {
+      "text": "GAM",
+      "begin": 766,
+      "end": 769
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "<",
+      "begin": 773,
+      "end": 774
+    }
+  }
+]

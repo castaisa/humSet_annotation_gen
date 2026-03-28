@@ -1,0 +1,134 @@
+[
+  {
+    "quantity": {
+      "text": "1416",
+      "begin": 44,
+      "end": 48
+    },
+    "unit": {
+      "text": "community health workers (CHWs)",
+      "begin": 49,
+      "end": 80
+    },
+    "eventDescription": {
+      "text": "trained",
+      "begin": 86,
+      "end": 93
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "142 678",
+      "begin": 304,
+      "end": 311
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "begin": 294,
+      "end": 303
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "household visits",
+      "begin": 312,
+      "end": 328
+    }
+  },
+  {
+    "quantity": {
+      "text": "3095",
+      "begin": 338,
+      "end": 342
+    },
+    "unit": {
+      "text": "patients",
+      "begin": 343,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "identified with mild respiratory symptoms",
+      "begin": 357,
+      "end": 398
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 431,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "moderate/severe symptoms",
+      "begin": 448,
+      "end": 472
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "patients",
+      "begin": 434,
+      "end": 442
+    }
+  },
+  {
+    "quantity": {
+      "text": "45 838",
+      "begin": 516,
+      "end": 522
+    },
+    "unit": {
+      "text": "mild patients",
+      "begin": 499,
+      "end": 512
+    }
+  },
+  {
+    "quantity": {
+      "text": "199",
+      "begin": 528,
+      "end": 531
+    },
+    "unit": {
+      "text": "moderate/ severe patients",
+      "begin": 532,
+      "end": 557
+    }
+  },
+  {
+    "quantity": {
+      "text": "1376",
+      "begin": 588,
+      "end": 592
+    },
+    "unit": {
+      "text": "persons with COVID symptoms",
+      "begin": 593,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "referred to health facilities",
+      "begin": 626,
+      "end": 655
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21 045",
+      "begin": 672,
+      "end": 678
+    },
+    "unit": {
+      "text": "persons with COVID symptoms",
+      "begin": 593,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "referred to health facilities",
+      "begin": 626,
+      "end": 655
+    },
+    "eventType": "EventP"
+  }
+]

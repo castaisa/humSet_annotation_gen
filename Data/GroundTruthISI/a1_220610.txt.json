@@ -1,0 +1,251 @@
+[
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 44,
+      "end": 46
+    },
+    "unit": {
+      "text": "Acute Watery Diarrhea (AWD) Rapid Diagnostic Test (RDT) positive cases for Cholera",
+      "begin": 47,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "have been verified",
+      "begin": 130,
+      "end": 148
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 158,
+      "end": 160
+    },
+    "unit": {
+      "text": "Acute Watery Diarrhea (AWD) Rapid Diagnostic Test (RDT) positive cases for Cholera",
+      "begin": 47,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "qualified for JAT investigation",
+      "begin": 161,
+      "end": 192
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 204,
+      "end": 207
+    },
+    "unit": {
+      "text": "Acute Watery Diarrhea (AWD) Rapid Diagnostic Test (RDT) positive cases for Cholera",
+      "begin": 47,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "qualified for JAT investigation",
+      "begin": 161,
+      "end": 192
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 254,
+      "end": 259
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 260,
+      "end": 265
+    },
+    "eventDescription": {
+      "text": "confirmed by culture of Vibrio Cholerae",
+      "begin": 276,
+      "end": 315
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 353,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "confirmed by culture of Vibrio Cholerae",
+      "begin": 276,
+      "end": 315
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Ukhiya Host Community",
+      "begin": 363,
+      "end": 384
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 386,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "confirmed by culture of Vibrio Cholerae",
+      "begin": 276,
+      "end": 315
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Teknaf Host Community",
+      "begin": 396,
+      "end": 417
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 422,
+      "end": 425
+    },
+    "eventDescription": {
+      "text": "confirmed by culture of Vibrio Cholerae",
+      "begin": 276,
+      "end": 315
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Rohingya Refugee camps",
+      "begin": 433,
+      "end": 455
+    }
+  },
+  {
+    "quantity": {
+      "text": "One (1)",
+      "begin": 457,
+      "end": 464
+    },
+    "unit": {
+      "text": "result",
+      "begin": 465,
+      "end": 471
+    },
+    "eventDescription": {
+      "text": "still pending",
+      "begin": 475,
+      "end": 488
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 545,
+      "end": 547
+    },
+    "modifier": {
+      "text": "out of",
+      "begin": 538,
+      "end": 544
+    },
+    "unit": {
+      "text": "sentinel sites for cholera surveillance",
+      "begin": 549,
+      "end": 588
+    },
+    "eventDescription": {
+      "text": "are functional",
+      "begin": 589,
+      "end": 603
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Twenty",
+      "begin": 530,
+      "end": 536
+    },
+    "modifier": {
+      "text": "out of",
+      "begin": 538,
+      "end": 544
+    },
+    "unit": {
+      "text": "sentinel sites for cholera surveillance",
+      "begin": 549,
+      "end": 588
+    },
+    "eventDescription": {
+      "text": "are functional",
+      "begin": 589,
+      "end": 603
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 614,
+      "end": 617
+    },
+    "eventDescription": {
+      "text": "are functional",
+      "begin": 589,
+      "end": 603
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "UHCs",
+      "begin": 618,
+      "end": 622
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 627,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "are functional",
+      "begin": 589,
+      "end": 603
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "DTC",
+      "begin": 631,
+      "end": 634
+    }
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 702,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "testing",
+      "begin": 687,
+      "end": 694
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "around",
+      "begin": 695,
+      "end": 701
+    },
+    "unit": {
+      "text": "samples per month",
+      "begin": 706,
+      "end": 723
+    }
+  }
+]

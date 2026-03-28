@@ -1,0 +1,120 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 343,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "NSAGs attacked IDPs",
+      "begin": 317,
+      "end": 336
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 337,
+      "end": 342
+    },
+    "unit": {
+      "text": "kilometers",
+      "begin": 349,
+      "end": 359
+    }
+  },
+  {
+    "quantity": {
+      "text": "sixteen",
+      "begin": 397,
+      "end": 404
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "begin": 382,
+      "end": 390
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "women",
+      "begin": 405,
+      "end": 410
+    }
+  },
+  {
+    "quantity": {
+      "text": "177",
+      "begin": 511,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 502,
+      "end": 510
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "individuals",
+      "begin": 515,
+      "end": 526
+    }
+  },
+  {
+    "quantity": {
+      "text": "118",
+      "begin": 660,
+      "end": 663
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 515,
+      "end": 526
+    },
+    "modifier": {
+      "text": "still",
+      "begin": 668,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "unaccounted",
+      "begin": 674,
+      "end": 685
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 599,
+      "end": 601
+    },
+    "unit": {
+      "text": "people",
+      "begin": 602,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "returned",
+      "begin": 609,
+      "end": 617
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "48",
+      "begin": 619,
+      "end": 621
+    },
+    "unit": {
+      "text": "corpses",
+      "begin": 622,
+      "end": 629
+    },
+    "eventDescription": {
+      "text": "found",
+      "begin": 635,
+      "end": 640
+    },
+    "eventType": "EventP"
+  }
+]

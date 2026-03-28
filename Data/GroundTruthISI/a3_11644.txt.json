@@ -1,0 +1,94 @@
+[
+  {
+    "quantity": {
+      "text": "7.16 million",
+      "begin": 70,
+      "end": 82
+    },
+    "modifier": {
+      "text": "monthly average",
+      "begin": 51,
+      "end": 66
+    },
+    "unit": {
+      "text": "people",
+      "begin": 83,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "provided with emergency food assistance",
+      "begin": 95,
+      "end": 134
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "871,000",
+      "begin": 211,
+      "end": 218
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 205,
+      "end": 210
+    },
+    "unit": {
+      "text": "beneficiaries",
+      "begin": 219,
+      "end": 232
+    },
+    "eventDescription": {
+      "text": "got livelihoods assistance",
+      "begin": 233,
+      "end": 259
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "82,000",
+      "begin": 428,
+      "end": 434
+    },
+    "eventDescription": {
+      "text": "WFP provided food assistance",
+      "begin": 390,
+      "end": 418
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "about",
+      "begin": 422,
+      "end": 427
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 435,
+      "end": 446
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.6 million",
+      "begin": 550,
+      "end": 561
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 536,
+      "end": 549
+    },
+    "unit": {
+      "text": "people",
+      "begin": 562,
+      "end": 568
+    },
+    "eventDescription": {
+      "text": "provided with general food assistance",
+      "begin": 582,
+      "end": 619
+    },
+    "eventType": "EventA"
+  }
+]

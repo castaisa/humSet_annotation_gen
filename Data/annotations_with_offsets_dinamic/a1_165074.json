@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through community based Mental Health and Psycho Social Support",
+      "start": 120,
+      "end": 191
+    },
+    "quantity": {
+      "text": "6,019",
+      "start": 11,
+      "end": 16
+    },
+    "unit": {
+      "text": "children and adolescents",
+      "start": 17,
+      "end": 41
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through community based Mental Health and Psycho Social Support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,432",
+      "start": 43,
+      "end": 48
+    },
+    "unit": {
+      "text": "boys",
+      "start": 49,
+      "end": 53
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through community based Mental Health and Psycho Social Support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,727",
+      "start": 55,
+      "end": 60
+    },
+    "unit": {
+      "text": "girls",
+      "start": 61,
+      "end": 66
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through community based Mental Health and Psycho Social Support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "860",
+      "start": 72,
+      "end": 75
+    },
+    "unit": {
+      "text": "community members",
+      "start": 76,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through community based Mental Health and Psycho Social Support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "464",
+      "start": 95,
+      "end": 98
+    },
+    "unit": {
+      "text": "women",
+      "start": 99,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through community based Mental Health and Psycho Social Support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "396",
+      "start": 106,
+      "end": 109
+    },
+    "unit": {
+      "text": "men",
+      "start": 110,
+      "end": 113
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with support services including referrals for health, counselling, family mediation and COVID-19 preventive measures",
+      "start": 555,
+      "end": 679
+    },
+    "quantity": {
+      "text": "15",
+      "start": 501,
+      "end": 503
+    },
+    "unit": {
+      "text": "victims of violence",
+      "start": 504,
+      "end": 523
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "victims of violence reached with support services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 525,
+      "end": 526
+    },
+    "unit": {
+      "text": "girls",
+      "start": 527,
+      "end": 532
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "victim of violence reached with support services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 534,
+      "end": 535
+    },
+    "unit": {
+      "text": "boy",
+      "start": 536,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "victims of violence reached with support services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 541,
+      "end": 542
+    },
+    "unit": {
+      "text": "women",
+      "start": 543,
+      "end": 548
+    }
+  }
+]

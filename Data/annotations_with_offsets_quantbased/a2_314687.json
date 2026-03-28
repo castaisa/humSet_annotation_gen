@@ -1,0 +1,28 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "57 percent",
+      "start": 546,
+      "end": 556
+    },
+    "eventDescription": {
+      "text": "below the previous year",
+      "start": 557,
+      "end": 580
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18 percent",
+      "start": 585,
+      "end": 595
+    },
+    "eventDescription": {
+      "text": "less than the five-year average",
+      "start": 596,
+      "end": 627
+    }
+  }
+]

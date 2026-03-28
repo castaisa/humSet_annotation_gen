@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "9",
+    "unit": "hospital staff and medical professionals",
+    "eventType": "EventA",
+    "eventDescription": "strengthened health authorities through additional staff"
+  },
+  {
+    "quantity": "22",
+    "unit": "pieces of communications equipment and computers",
+    "eventType": "EventA",
+    "eventDescription": "provided communications equipment and computers"
+  },
+  {
+    "quantity": "over 11,600",
+    "unit": "distinct items",
+    "eventType": "EventA",
+    "eventDescription": "provided items to public hospitals and health institutions",
+    "modifier": "over"
+  },
+  {
+    "quantity": "10",
+    "unit": "public hospitals and health institutions",
+    "eventType": "EventO",
+    "eventDescription": "received infrastructure improvements and items"
+  },
+  {
+    "quantity": "15,669",
+    "unit": "Personal Protective Items (PPE)",
+    "eventType": "EventA",
+    "eventDescription": "donated PPE to public hospitals and institutions"
+  }
+]

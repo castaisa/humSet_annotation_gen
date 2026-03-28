@@ -1,0 +1,253 @@
+[
+  {
+    "quantity": {
+      "text": "318",
+      "begin": 237,
+      "end": 240
+    },
+    "unit": {
+      "text": "houses",
+      "begin": 241,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "damaged",
+      "begin": 258,
+      "end": 265
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,802",
+      "begin": 277,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "affecting",
+      "begin": 267,
+      "end": 276
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "individuals",
+      "begin": 283,
+      "end": 294
+    }
+  },
+  {
+    "quantity": {
+      "text": "431",
+      "begin": 296,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "affecting",
+      "begin": 267,
+      "end": 276
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "households",
+      "begin": 300,
+      "end": 310
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,716",
+      "begin": 391,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "most affected wards, hosting",
+      "begin": 351,
+      "end": 379
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "individuals",
+      "begin": 397,
+      "end": 408
+    }
+  },
+  {
+    "quantity": {
+      "text": "61%",
+      "begin": 410,
+      "end": 413
+    },
+    "eventDescription": {
+      "text": "most affected wards, hosting",
+      "begin": 351,
+      "end": 379
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "displaced individuals",
+      "begin": 422,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "549",
+      "begin": 477,
+      "end": 480
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 457,
+      "end": 465
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "women",
+      "begin": 470,
+      "end": 475
+    }
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 484,
+      "end": 487
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 457,
+      "end": 465
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "women",
+      "begin": 470,
+      "end": 475
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,693",
+      "begin": 504,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 457,
+      "end": 465
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 494,
+      "end": 502
+    }
+  },
+  {
+    "quantity": {
+      "text": "60%",
+      "begin": 513,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 457,
+      "end": 465
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 494,
+      "end": 502
+    }
+  },
+  {
+    "quantity": {
+      "text": "168",
+      "begin": 533,
+      "end": 536
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 537,
+      "end": 548
+    }
+  },
+  {
+    "quantity": {
+      "text": "Six per cent",
+      "begin": 519,
+      "end": 531
+    },
+    "unit": {
+      "text": "elderly",
+      "begin": 554,
+      "end": 561
+    }
+  },
+  {
+    "quantity": {
+      "text": "392",
+      "begin": 597,
+      "end": 600
+    },
+    "unit": {
+      "text": "men",
+      "begin": 568,
+      "end": 571
+    }
+  },
+  {
+    "quantity": {
+      "text": "14%",
+      "begin": 604,
+      "end": 607
+    },
+    "unit": {
+      "text": "men",
+      "begin": 568,
+      "end": 571
+    }
+  },
+  {
+    "quantity": {
+      "text": "87 per cent",
+      "begin": 615,
+      "end": 626
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 610,
+      "end": 614
+    },
+    "unit": {
+      "text": "displaced population",
+      "begin": 634,
+      "end": 654
+    },
+    "eventDescription": {
+      "text": "taken refuge",
+      "begin": 660,
+      "end": 672
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13 per cent",
+      "begin": 742,
+      "end": 753
+    },
+    "unit": {
+      "text": "displaced population",
+      "begin": 761,
+      "end": 781
+    },
+    "eventDescription": {
+      "text": "currently living in open spaces without shelter",
+      "begin": 786,
+      "end": 833
+    },
+    "eventType": "EventO"
+  }
+]

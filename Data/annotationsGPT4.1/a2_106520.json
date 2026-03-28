@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "318",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "regularized"
+  },
+  {
+    "quantity": "21",
+    "unit": "officials",
+    "eventType": "EventP",
+    "eventDescription": "received training"
+  },
+  {
+    "quantity": "40",
+    "unit": "officials",
+    "eventType": "EventP",
+    "eventDescription": "participated in a workshop"
+  }
+]

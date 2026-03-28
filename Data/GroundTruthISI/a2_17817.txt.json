@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "206",
+      "begin": 138,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "completed the transfer of cash grants",
+      "begin": 34,
+      "end": 71
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "families",
+      "begin": 142,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "227",
+      "begin": 333,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "distribution of EESKs",
+      "begin": 308,
+      "end": 329
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "families",
+      "begin": 337,
+      "end": 345
+    }
+  },
+  {
+    "quantity": {
+      "text": "297",
+      "begin": 358,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "NFIs",
+      "begin": 350,
+      "end": 354
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "families",
+      "begin": 362,
+      "end": 370
+    }
+  },
+  {
+    "quantity": {
+      "text": "70",
+      "begin": 545,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "distributed NFIs",
+      "begin": 525,
+      "end": 541
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "IDP families",
+      "begin": 548,
+      "end": 560
+    }
+  }
+]

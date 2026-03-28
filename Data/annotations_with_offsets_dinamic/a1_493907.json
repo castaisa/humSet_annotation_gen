@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported humanitarian behaviours as 'okay'",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60%",
+      "start": 372,
+      "end": 375
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 359,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported humanitarian behaviour as worsening over three months",
+      "start": 449,
+      "end": 511
+    },
+    "quantity": {
+      "text": "20%",
+      "start": 430,
+      "end": 433
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 437,
+      "end": 448
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported seeing humanitarian responders behaving badly, abusing, or harassing a woman or girl within the past three months",
+      "start": 561,
+      "end": 683
+    },
+    "quantity": {
+      "text": "9%",
+      "start": 543,
+      "end": 545
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 549,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had made a complaint about services in the last three months",
+      "start": 886,
+      "end": 946
+    },
+    "quantity": {
+      "text": "45%",
+      "start": 866,
+      "end": 869
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 874,
+      "end": 885
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "stated that their problem was not resolved",
+      "start": 1045,
+      "end": 1087
+    },
+    "quantity": {
+      "text": "56%",
+      "start": 1041,
+      "end": 1044
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 1340,
+      "end": 1351
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "stated that they are still waiting for a response",
+      "start": 1104,
+      "end": 1153
+    },
+    "quantity": {
+      "text": "30%",
+      "start": 1100,
+      "end": 1103
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 1557,
+      "end": 1568
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 48,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "Inter-Cluster Coordination Group launched",
+      "begin": 4,
+      "end": 45
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "phased approach",
+      "begin": 54,
+      "end": 69
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 198,
+      "end": 199
+    },
+    "eventDescription": {
+      "text": "In the first phase, launched",
+      "begin": 129,
+      "end": 157
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "months",
+      "begin": 200,
+      "end": 206
+    }
+  }
+]

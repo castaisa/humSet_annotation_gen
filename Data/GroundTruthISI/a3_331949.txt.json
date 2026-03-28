@@ -1,0 +1,233 @@
+[
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 135,
+      "end": 138
+    },
+    "eventDescription": {
+      "text": "has barley seed in stock at an official price",
+      "begin": 86,
+      "end": 131
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 139,
+      "end": 149
+    }
+  },
+  {
+    "quantity": {
+      "text": "950",
+      "begin": 218,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "offered barley seed at a price ranged",
+      "begin": 172,
+      "end": 209
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "between",
+      "begin": 210,
+      "end": 217
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 222,
+      "end": 232
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 760",
+      "begin": 254,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "offered barley seed at a price ranged",
+      "begin": 172,
+      "end": 209
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "between",
+      "begin": 210,
+      "end": 217
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 260,
+      "end": 270
+    }
+  },
+  {
+    "quantity": {
+      "text": "132 percent",
+      "begin": 299,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 311,
+      "end": 319
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 320,
+      "end": 325
+    }
+  },
+  {
+    "quantity": {
+      "text": "104",
+      "begin": 407,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 385,
+      "end": 393
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 427,
+      "end": 432
+    }
+  },
+  {
+    "quantity": {
+      "text": "104 and 119 percent",
+      "begin": 407,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 385,
+      "end": 393
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 427,
+      "end": 432
+    }
+  },
+  {
+    "quantity": {
+      "text": "119 percent",
+      "begin": 415,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 385,
+      "end": 393
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 427,
+      "end": 432
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 730",
+      "begin": 501,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "price in the local market reaching",
+      "begin": 456,
+      "end": 490
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 507,
+      "end": 517
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 733",
+      "begin": 491,
+      "end": 496
+    },
+    "eventDescription": {
+      "text": "price in the local market reaching",
+      "begin": 456,
+      "end": 490
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 507,
+      "end": 517
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 200",
+      "begin": 593,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "Barley seed price reached",
+      "begin": 567,
+      "end": 592
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 599,
+      "end": 609
+    }
+  },
+  {
+    "quantity": {
+      "text": "66 percent",
+      "begin": 708,
+      "end": 718
+    },
+    "eventDescription": {
+      "text": "m-o-m price increase",
+      "begin": 677,
+      "end": 697
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m price increase",
+      "begin": 677,
+      "end": 697
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 701,
+      "end": 707
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 760",
+      "begin": 777,
+      "end": 782
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 800,
+      "end": 808
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 783,
+      "end": 793
+    }
+  }
+]

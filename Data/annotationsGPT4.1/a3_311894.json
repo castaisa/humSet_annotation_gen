@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "37,837",
+    "unit": "schoolchildren",
+    "eventType": "EventP",
+    "eventDescription": "assisted"
+  },
+  {
+    "quantity": "3,510",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "benefiting from take-home rations"
+  },
+  {
+    "quantity": "127",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "assisted"
+  },
+  {
+    "quantity": "10 percent",
+    "unit": "of displaced students",
+    "eventType": "EventP",
+    "eventDescription": "targeted in schools",
+    "modifier": "at least"
+  }
+]

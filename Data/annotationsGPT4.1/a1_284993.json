@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "113 048",
+    "unit": "tests",
+    "eventType": "EventO",
+    "eventDescription": "conducted for COVID-19"
+  },
+  {
+    "quantity": "97 132",
+    "unit": "tests",
+    "eventType": "EventO",
+    "eventDescription": "conducted in Cox\u2019s Bazar district"
+  },
+  {
+    "quantity": "1845",
+    "unit": "tests",
+    "eventType": "EventO",
+    "eventDescription": "conducted among Rohingya refugees in weeks 07-08"
+  },
+  {
+    "quantity": "1882",
+    "unit": "tests",
+    "eventType": "EventO",
+    "eventDescription": "conducted among Rohingya refugees in weeks 09-10"
+  },
+  {
+    "quantity": "3125",
+    "unit": "tests",
+    "eventType": "EventO",
+    "eventDescription": "conducted among host community in weeks 07-08"
+  },
+  {
+    "quantity": "3345",
+    "unit": "tests",
+    "eventType": "EventO",
+    "eventDescription": "conducted among host community in weeks 09-10"
+  },
+  {
+    "quantity": "26",
+    "unit": "sample collection sites",
+    "eventType": "EventO",
+    "eventDescription": "operating for suspected COVID-19 patients"
+  }
+]

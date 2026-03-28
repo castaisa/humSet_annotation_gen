@@ -1,0 +1,334 @@
+[
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 35,
+      "end": 38
+    },
+    "unit": {
+      "text": "households",
+      "begin": 39,
+      "end": 49
+    },
+    "eventDescription": {
+      "text": "problems in accessing general healthcare services during the pandemic",
+      "begin": 59,
+      "end": 128
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 28,
+      "end": 31
+    },
+    "unit": {
+      "text": "households",
+      "begin": 39,
+      "end": 49
+    },
+    "eventDescription": {
+      "text": "problems in accessing general healthcare services during the pandemic",
+      "begin": 59,
+      "end": 128
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 257,
+      "end": 260
+    },
+    "unit": {
+      "text": "households",
+      "begin": 261,
+      "end": 271
+    },
+    "eventDescription": {
+      "text": "they faced problems during getting treatment from hospitals",
+      "begin": 291,
+      "end": 350
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 250,
+      "end": 253
+    },
+    "unit": {
+      "text": "households",
+      "begin": 261,
+      "end": 271
+    },
+    "eventDescription": {
+      "text": "they faced problems during getting treatment from hospitals",
+      "begin": 291,
+      "end": 350
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9.9%",
+      "begin": 273,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "they faced problems during getting treatment from hospitals",
+      "begin": 291,
+      "end": 350
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70.2%",
+      "begin": 401,
+      "end": 406
+    },
+    "eventDescription": {
+      "text": "lack of sufficient doctors",
+      "begin": 373,
+      "end": 399
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "39.6%",
+      "begin": 435,
+      "end": 440
+    },
+    "eventDescription": {
+      "text": "lack of sufficient nurse",
+      "begin": 409,
+      "end": 433
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "38.8%",
+      "begin": 470,
+      "end": 475
+    },
+    "eventDescription": {
+      "text": "lack of medical equipment",
+      "begin": 443,
+      "end": 468
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "38.0%",
+      "begin": 496,
+      "end": 501
+    },
+    "eventDescription": {
+      "text": "lack of medicine",
+      "begin": 478,
+      "end": 494
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "26.1%",
+      "begin": 518,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "lack of beds",
+      "begin": 504,
+      "end": 516
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20.4%",
+      "begin": 553,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "higher fees of doctors",
+      "begin": 529,
+      "end": 551
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23.3%",
+      "begin": 628,
+      "end": 633
+    },
+    "eventDescription": {
+      "text": "unwillingness of doctors to provide treatment",
+      "begin": 581,
+      "end": 626
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20.0%",
+      "begin": 686,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "unwillingness of hospitals to admit patients",
+      "begin": 640,
+      "end": 684
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13.9%",
+      "begin": 706,
+      "end": 711
+    },
+    "eventDescription": {
+      "text": "bribery",
+      "begin": 697,
+      "end": 704
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "75.0%",
+      "begin": 781,
+      "end": 786
+    },
+    "eventDescription": {
+      "text": "People from rural areas complained more about the lack of doctors",
+      "begin": 714,
+      "end": 779
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "63.8%",
+      "begin": 791,
+      "end": 796
+    },
+    "eventDescription": {
+      "text": "People from rural areas complained more about the lack of doctors",
+      "begin": 714,
+      "end": 779
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42.9%",
+      "begin": 810,
+      "end": 815
+    },
+    "eventDescription": {
+      "text": "nurses",
+      "begin": 802,
+      "end": 808
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35.2%",
+      "begin": 820,
+      "end": 825
+    },
+    "eventDescription": {
+      "text": "nurses",
+      "begin": 802,
+      "end": 808
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40.0%",
+      "begin": 856,
+      "end": 861
+    },
+    "eventDescription": {
+      "text": "adequate medical equipment",
+      "begin": 828,
+      "end": 854
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "37.1%",
+      "begin": 866,
+      "end": 871
+    },
+    "eventDescription": {
+      "text": "adequate medical equipment",
+      "begin": 828,
+      "end": 854
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "29.3%",
+      "begin": 880,
+      "end": 885
+    },
+    "eventDescription": {
+      "text": "beds",
+      "begin": 874,
+      "end": 878
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21.9%",
+      "begin": 890,
+      "end": 895
+    },
+    "eventDescription": {
+      "text": "beds",
+      "begin": 874,
+      "end": 878
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16.2%",
+      "begin": 937,
+      "end": 942
+    },
+    "eventDescription": {
+      "text": "increase of doctor’s fees",
+      "begin": 901,
+      "end": 926
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23.6%",
+      "begin": 928,
+      "end": 933
+    },
+    "eventDescription": {
+      "text": "increase of doctor’s fees",
+      "begin": 901,
+      "end": 926
+    },
+    "eventType": "EventO"
+  }
+]

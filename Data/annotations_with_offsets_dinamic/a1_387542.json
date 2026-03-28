@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "maximum time for rapid assessments",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10-15",
+      "start": 1011,
+      "end": 1016
+    },
+    "unit": {
+      "text": "days",
+      "start": 1017,
+      "end": 1021
+    }
+  }
+]

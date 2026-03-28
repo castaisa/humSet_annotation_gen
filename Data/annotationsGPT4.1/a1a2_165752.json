@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "108,546",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with COVID-19 messages"
+  },
+  {
+    "quantity": "40,095",
+    "unit": "neighbourhood-based sessions",
+    "eventType": "EventA",
+    "eventDescription": "COVID-19 messages delivered"
+  },
+  {
+    "quantity": "27,869",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "consulted on COVID-19 key messages"
+  },
+  {
+    "quantity": "10,831",
+    "unit": "community meetings",
+    "eventType": "EventA",
+    "eventDescription": "COVID-19 key messages delivered"
+  },
+  {
+    "quantity": "1,521",
+    "unit": "listener group sessions",
+    "eventType": "EventA",
+    "eventDescription": "organized for COVID-19"
+  },
+  {
+    "quantity": "9,064",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "participated in listener group sessions"
+  },
+  {
+    "quantity": "347",
+    "unit": "video/film show sessions",
+    "eventType": "EventA",
+    "eventDescription": "held on COVID-19"
+  },
+  {
+    "quantity": "8,748",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached through community awareness session on COVID 19"
+  },
+  {
+    "quantity": "2,716",
+    "unit": "community awareness session",
+    "eventType": "EventA",
+    "eventDescription": "COVID-19 awareness sessions held"
+  },
+  {
+    "quantity": "Four",
+    "unit": "information service centers",
+    "eventType": "EventA",
+    "eventDescription": "continue to receive community\u2019s feedback and complains"
+  }
+]

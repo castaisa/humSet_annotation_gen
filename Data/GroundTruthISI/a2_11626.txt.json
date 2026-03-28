@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 156,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "support",
+      "begin": 134,
+      "end": 141
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "basic commodities",
+      "begin": 161,
+      "end": 178
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 billion",
+      "begin": 237,
+      "end": 246
+    },
+    "unit": {
+      "text": "$",
+      "begin": 236,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 247,
+      "end": 255
+    },
+    "eventType": "EventA"
+  }
+]

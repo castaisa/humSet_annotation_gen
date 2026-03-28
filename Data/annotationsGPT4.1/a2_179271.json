@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": "55 percent",
+    "unit": "of the country",
+    "eventType": "EventO",
+    "eventDescription": "covered by the Badia region"
+  },
+  {
+    "quantity": "40 percent",
+    "unit": "of wheat grain",
+    "eventType": "EventO",
+    "eventDescription": "cultivated in Al-Hasakeh governorate"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "of wheat grain",
+    "eventType": "EventO",
+    "eventDescription": "cultivated in Ar-Raqqa, Aleppo, Hama and Homs governorates"
+  },
+  {
+    "quantity": "2.2 million tonnes",
+    "unit": "wheat",
+    "eventType": "EventO",
+    "eventDescription": "wheat production in 2019"
+  },
+  {
+    "quantity": "4.5 million tonnes",
+    "unit": "wheat",
+    "eventType": "EventO",
+    "eventDescription": "estimated total utilization requirement"
+  },
+  {
+    "quantity": "3.5 million tonnes",
+    "unit": "wheat",
+    "eventType": "EventO",
+    "eventDescription": "for food use"
+  },
+  {
+    "quantity": "4.1 million tonnes",
+    "unit": "wheat",
+    "eventType": "EventO",
+    "eventDescription": "pre-crisis national average production level"
+  },
+  {
+    "quantity": "2.8 million tonnes",
+    "unit": "wheat",
+    "eventType": "EventO",
+    "eventDescription": "estimated wheat production in 2020"
+  },
+  {
+    "quantity": "0.8 million tonnes",
+    "unit": "wheat",
+    "eventType": "EventO",
+    "eventDescription": "produced in GoS controlled areas"
+  },
+  {
+    "quantity": "over 50 percent",
+    "unit": "of Syrians",
+    "eventType": "EventP",
+    "eventDescription": "living in urban areas",
+    "modifier": "over"
+  },
+  {
+    "quantity": "89 percent",
+    "unit": "of Syrians",
+    "eventType": "EventP",
+    "eventDescription": "reported markets as their main source of food"
+  }
+]

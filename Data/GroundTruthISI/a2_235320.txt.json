@@ -1,0 +1,165 @@
+[
+  {
+    "quantity": {
+      "text": "14,330",
+      "begin": 52,
+      "end": 58
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 43,
+      "end": 51
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 59,
+      "end": 65
+    }
+  },
+  {
+    "quantity": {
+      "text": "334,999",
+      "begin": 164,
+      "end": 171
+    },
+    "eventDescription": {
+      "text": "people assisted with NFIs",
+      "begin": 127,
+      "end": 152
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "28,695",
+      "begin": 179,
+      "end": 185
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 186,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "assisted with Shelter Kits",
+      "begin": 199,
+      "end": 225
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "241,115",
+      "begin": 306,
+      "end": 313
+    },
+    "eventDescription": {
+      "text": "total number of people assisted with emergency shelter",
+      "begin": 240,
+      "end": 294
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 370,
+      "end": 372
+    },
+    "unit": {
+      "text": "distribution exercises",
+      "begin": 373,
+      "end": 395
+    }
+  },
+  {
+    "quantity": {
+      "text": "127",
+      "begin": 451,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "PDM conducted",
+      "begin": 426,
+      "end": 439
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42 per cent",
+      "begin": 456,
+      "end": 467
+    },
+    "eventDescription": {
+      "text": "PDM conducted",
+      "begin": 426,
+      "end": 439
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "306",
+      "begin": 480,
+      "end": 483
+    },
+    "unit": {
+      "text": "completed projects",
+      "begin": 484,
+      "end": 502
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 510,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "Community Response and feedback mechanisms (CRFM) were established",
+      "begin": 513,
+      "end": 579
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "139",
+      "begin": 638,
+      "end": 641
+    },
+    "eventDescription": {
+      "text": "total number of CRFM established",
+      "begin": 594,
+      "end": 626
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "45%",
+      "begin": 643,
+      "end": 646
+    },
+    "eventDescription": {
+      "text": "total number of CRFM established",
+      "begin": 594,
+      "end": 626
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "306",
+      "begin": 659,
+      "end": 662
+    },
+    "unit": {
+      "text": "completed projects",
+      "begin": 663,
+      "end": 681
+    }
+  }
+]

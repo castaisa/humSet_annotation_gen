@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "250 SSP",
+    "unit": "cup of sorghum",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  },
+  {
+    "quantity": "30 SSP",
+    "unit": "piece of biscuit",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  },
+  {
+    "quantity": "200 SSP",
+    "unit": "half kilogram of sugar",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  },
+  {
+    "quantity": "250 SSP",
+    "unit": "maize flour small packet",
+    "eventType": "EventA",
+    "eventDescription": "cost"
+  },
+  {
+    "quantity": "250 SSP",
+    "unit": "cup of sorghum",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  },
+  {
+    "quantity": "30SSP",
+    "unit": "small packet of biscuits",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  },
+  {
+    "quantity": "200SSP",
+    "unit": "half kg sugar",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  },
+  {
+    "quantity": "125ml",
+    "unit": "small cup of maize flour",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  },
+  {
+    "quantity": "250SSP",
+    "unit": "small cup of maize flour (125ml)",
+    "eventType": "EventA",
+    "eventDescription": "costs"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "6 684",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average selling price for a crate or pack of 30 eggs"
+  },
+  {
+    "quantity": "30",
+    "unit": "eggs",
+    "eventType": "EventO",
+    "eventDescription": "eggs in a crate or pack"
+  },
+  {
+    "quantity": "4 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "month-on-month increase in price"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "month-on-month price increase"
+  },
+  {
+    "quantity": "7 767",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average selling price for a crate or pack of 30 eggs"
+  },
+  {
+    "quantity": "30",
+    "unit": "eggs",
+    "eventType": "EventO",
+    "eventDescription": "eggs in a crate or pack"
+  },
+  {
+    "quantity": "1 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "month-on-month decrease in price"
+  },
+  {
+    "quantity": "7 600",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average selling price per pack of 30 eggs"
+  },
+  {
+    "quantity": "6 980",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average selling price per pack of 30 eggs"
+  },
+  {
+    "quantity": "30",
+    "unit": "eggs",
+    "eventType": "EventO",
+    "eventDescription": "eggs in a pack"
+  },
+  {
+    "quantity": "30",
+    "unit": "eggs",
+    "eventType": "EventO",
+    "eventDescription": "eggs in a pack"
+  }
+]

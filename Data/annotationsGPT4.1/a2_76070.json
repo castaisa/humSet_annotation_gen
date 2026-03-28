@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "more than 600",
+    "unit": "Venezuelans",
+    "eventType": "EventP",
+    "eventDescription": "provided humanitarian transportation, food and shelter services",
+    "modifier": "over"
+  },
+  {
+    "quantity": "1,200",
+    "unit": "blankets",
+    "eventType": "EventA",
+    "eventDescription": "delivered to people in transit"
+  },
+  {
+    "quantity": "370",
+    "unit": "scarves",
+    "eventType": "EventA",
+    "eventDescription": "delivered to people in transit"
+  },
+  {
+    "quantity": "500",
+    "unit": "gloves",
+    "eventType": "EventA",
+    "eventDescription": "delivered to people in transit"
+  },
+  {
+    "quantity": "500",
+    "unit": "cold hats",
+    "eventType": "EventA",
+    "eventDescription": "delivered to people in transit"
+  },
+  {
+    "quantity": "four",
+    "unit": "new passport processing posts",
+    "eventType": "EventO",
+    "eventDescription": "opened by Migraci\u00f3n Colombia"
+  },
+  {
+    "quantity": "24-hour",
+    "unit": "shifts",
+    "eventType": "EventO",
+    "eventDescription": "passport processing posts operated with extended schedules"
+  }
+]

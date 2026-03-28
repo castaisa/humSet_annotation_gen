@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 113,
+      "end": 117
+    },
+    "modifier": {
+      "text": "Close to",
+      "begin": 104,
+      "end": 112
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 125,
+      "end": 144
+    },
+    "eventDescription": {
+      "text": "reduction of revenues from business activities or agricultural sales",
+      "begin": 193,
+      "end": 261
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "47 percent)",
+      "begin": 170,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "reduction of revenues from business activities or agricultural sales",
+      "begin": 193,
+      "end": 261
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "49 percent",
+      "begin": 327,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "higher proportion recorded",
+      "begin": 270,
+      "end": 296
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "male-headed households",
+      "begin": 303,
+      "end": 325
+    }
+  },
+  {
+    "quantity": {
+      "text": "36 percent",
+      "begin": 377,
+      "end": 387
+    },
+    "eventDescription": {
+      "text": "higher proportion recorded",
+      "begin": 270,
+      "end": 296
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "female-headed households",
+      "begin": 351,
+      "end": 375
+    }
+  },
+  {
+    "quantity": {
+      "text": "33 percent",
+      "begin": 419,
+      "end": 429
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 433,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "having been impacted by a reduction in working hours and thus receiving a partial salary",
+      "begin": 476,
+      "end": 564
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42 percent",
+      "begin": 622,
+      "end": 632
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 433,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "having been impacted by a reduction in working hours and thus receiving a partial salary",
+      "begin": 476,
+      "end": 564
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "(42 percent",
+      "begin": 594,
+      "end": 605
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 433,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "having been impacted by a reduction in working hours and thus receiving a partial salary",
+      "begin": 476,
+      "end": 564
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16 percent",
+      "begin": 648,
+      "end": 658
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 662,
+      "end": 681
+    },
+    "eventDescription": {
+      "text": "indicated job lay-offs",
+      "begin": 682,
+      "end": 704
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25 percent)",
+      "begin": 743,
+      "end": 754
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 662,
+      "end": 681
+    },
+    "eventDescription": {
+      "text": "peak recorded",
+      "begin": 713,
+      "end": 726
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4,638",
+      "start": 58,
+      "end": 63
+    },
+    "unit": {
+      "text": "people",
+      "start": 64,
+      "end": 70
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reducing the number or amount of meals",
+      "start": 521,
+      "end": 559
+    },
+    "quantity": {
+      "text": "46%",
+      "start": 486,
+      "end": 489
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 151,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "restricting adults’ food so that children can eat",
+      "start": 586,
+      "end": 635
+    },
+    "quantity": {
+      "text": "20%",
+      "start": 575,
+      "end": 578
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 473,
+      "end": 484
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "borrowing or receiving food and/or borrowing or receiving cash",
+      "start": 676,
+      "end": 738
+    },
+    "quantity": {
+      "text": "76%",
+      "start": 650,
+      "end": 653
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 493,
+      "end": 504
+    }
+  }
+]

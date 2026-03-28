@@ -1,0 +1,470 @@
+[
+  {
+    "quantity": {
+      "text": "78",
+      "begin": 33,
+      "end": 35
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 91,
+      "end": 94
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 107,
+      "end": 110
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 123,
+      "end": 127
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 140,
+      "end": 145
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 158,
+      "end": 161
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 172,
+      "end": 175
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 187,
+      "end": 190
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 202,
+      "end": 205
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 217,
+      "end": 221
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 233,
+      "end": 236
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 249,
+      "end": 252
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 265,
+      "end": 268
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 280,
+      "end": 283
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 296,
+      "end": 299
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 312,
+      "end": 315
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 328,
+      "end": 331
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 344,
+      "end": 347
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 360,
+      "end": 363
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 376,
+      "end": 379
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 392,
+      "end": 395
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 408,
+      "end": 413
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 426,
+      "end": 429
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 441,
+      "end": 444
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "hre",
+      "begin": 458,
+      "end": 461
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 484,
+      "end": 488
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 36,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 81,
+      "end": 89
+    },
+    "eventType": "EventP"
+  }
+]

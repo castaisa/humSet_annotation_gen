@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to wash their hands in the prior four weeks after dirty activities",
+      "start": 340,
+      "end": 413
+    },
+    "quantity": {
+      "text": "one in four",
+      "start": 271,
+      "end": 282
+    },
+    "unit": {
+      "text": "households",
+      "start": 283,
+      "end": 293
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to wash their hands in the prior four weeks after dirty activities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23.0%",
+      "start": 295,
+      "end": 300
+    },
+    "unit": {
+      "text": "households",
+      "start": 492,
+      "end": 502
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to wash their young children’s hands and faces because of problems with water",
+      "start": 539,
+      "end": 623
+    },
+    "quantity": {
+      "text": "23.6%",
+      "start": 518,
+      "end": 523
+    },
+    "unit": {
+      "text": "households with children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to wash their bodies",
+      "start": 675,
+      "end": 702
+    },
+    "modifier": {
+      "text": "over",
+      "start": 1048,
+      "end": 1052
+    },
+    "quantity": {
+      "text": "Over a third",
+      "start": 625,
+      "end": 637
+    },
+    "unit": {
+      "text": "households",
+      "start": 649,
+      "end": 659
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to wash their bodies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "33.7%",
+      "start": 639,
+      "end": 644
+    },
+    "unit": {
+      "text": "households",
+      "start": 740,
+      "end": 750
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to wash their bodies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4.1%",
+      "start": 724,
+      "end": 728
+    },
+    "unit": {
+      "text": "sampled households in Honda, Colombia",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to wash their bodies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "94.8%",
+      "start": 774,
+      "end": 779
+    },
+    "unit": {
+      "text": "households in Punjab, Pakistan",
+      "start": 783,
+      "end": 813
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "over 1,200",
+    "unit": "refugees and asylum-seekers",
+    "eventType": "EventP",
+    "eventDescription": "evacuated",
+    "modifier": "over"
+  },
+  {
+    "quantity": "127",
+    "unit": "refugees and asylum-seekers",
+    "eventType": "EventP",
+    "eventDescription": "on board"
+  },
+  {
+    "quantity": "897",
+    "unit": "refugees and asylum-seekers",
+    "eventType": "EventP",
+    "eventDescription": "evacuated to UNHCR\u2019s Emergency Transit Mechanism (ETM) in Niger"
+  },
+  {
+    "quantity": "312",
+    "unit": "refugees and asylum-seekers",
+    "eventType": "EventP",
+    "eventDescription": "departed to Italy"
+  },
+  {
+    "quantity": "two",
+    "unit": "refugees and asylum-seekers",
+    "eventType": "EventP",
+    "eventDescription": "departed to UNHCR\u2019s Emergency Transit Centre in Romania"
+  },
+  {
+    "quantity": "460",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "processed and referred for resettlement"
+  },
+  {
+    "quantity": "333",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "submitted to different resettlement countries"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "478,450.43",
+      "begin": 87,
+      "end": 97
+    },
+    "unit": {
+      "text": "$",
+      "begin": 86,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "were dispatched by UNICEF",
+      "begin": 98,
+      "end": 123
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 161,
+      "end": 163
+    },
+    "unit": {
+      "text": "trucks",
+      "begin": 164,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "were sent from the central warehouse of Caracas to different states of the country",
+      "begin": 171,
+      "end": 253
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "962",
+      "begin": 490,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "charter flight donated by UPS brought education materials from UNICEF Supply Division in Copenhagen",
+      "begin": 357,
+      "end": 456
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "school",
+      "begin": 494,
+      "end": 500
+    }
+  },
+  {
+    "quantity": {
+      "text": "600",
+      "begin": 511,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "charter flight donated by UPS brought education materials from UNICEF Supply Division in Copenhagen",
+      "begin": 357,
+      "end": 456
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "ECD kits",
+      "begin": 515,
+      "end": 523
+    }
+  },
+  {
+    "quantity": {
+      "text": "800",
+      "begin": 528,
+      "end": 531
+    },
+    "eventDescription": {
+      "text": "charter flight donated by UPS brought education materials from UNICEF Supply Division in Copenhagen",
+      "begin": 357,
+      "end": 456
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "recreation kits",
+      "begin": 532,
+      "end": 547
+    }
+  },
+  {
+    "quantity": {
+      "text": "360",
+      "begin": 723,
+      "end": 726
+    },
+    "eventDescription": {
+      "text": "Supplies have been distributed",
+      "begin": 582,
+      "end": 612
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "schools",
+      "begin": 727,
+      "end": 734
+    }
+  },
+  {
+    "quantity": {
+      "text": "108,000",
+      "begin": 747,
+      "end": 754
+    },
+    "eventDescription": {
+      "text": "Supplies have been distributed",
+      "begin": 582,
+      "end": 612
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 755,
+      "end": 763
+    }
+  },
+  {
+    "quantity": {
+      "text": "15,000",
+      "begin": 942,
+      "end": 948
+    },
+    "eventDescription": {
+      "text": "UNICEF supported the MoH to transport",
+      "begin": 904,
+      "end": 941
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mosquito nets",
+      "begin": 949,
+      "end": 962
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,750",
+      "begin": 1039,
+      "end": 1044
+    },
+    "eventDescription": {
+      "text": "UNICEF is in the process of procuring",
+      "begin": 1001,
+      "end": 1038
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "additional nets",
+      "begin": 1045,
+      "end": 1060
+    }
+  }
+]

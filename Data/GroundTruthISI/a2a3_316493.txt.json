@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 608,
+      "end": 611
+    },
+    "unit": {
+      "text": "months",
+      "begin": 612,
+      "end": 618
+    }
+  },
+  {
+    "quantity": {
+      "text": "100%",
+      "begin": 674,
+      "end": 678
+    },
+    "unit": {
+      "text": "invoices",
+      "begin": 686,
+      "end": 694
+    }
+  }
+]

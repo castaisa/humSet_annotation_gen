@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": {
+      "text": "93",
+      "begin": 43,
+      "end": 45
+    },
+    "eventDescription": {
+      "text": "generated",
+      "begin": 33,
+      "end": 42
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "media mentions",
+      "begin": 46,
+      "end": 60
+    }
+  },
+  {
+    "quantity": {
+      "text": "182,000",
+      "begin": 190,
+      "end": 197
+    },
+    "unit": {
+      "text": "US$",
+      "begin": 187,
+      "end": 190
+    }
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 523,
+      "end": 526
+    },
+    "eventDescription": {
+      "text": "COVID-19",
+      "begin": 535,
+      "end": 543
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Days",
+      "begin": 527,
+      "end": 531
+    }
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 545,
+      "end": 548
+    },
+    "unit": {
+      "text": "Days",
+      "begin": 549,
+      "end": 553
+    },
+    "eventDescription": {
+      "text": "Action in P eru",
+      "begin": 557,
+      "end": 572
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "66 per cent",
+      "begin": 823,
+      "end": 834
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 815,
+      "end": 822
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "adults aged 25 and over",
+      "begin": 861,
+      "end": 884
+    }
+  }
+]

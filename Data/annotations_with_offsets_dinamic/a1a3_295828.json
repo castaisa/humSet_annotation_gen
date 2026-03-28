@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reporting adequate access to food",
+      "start": 197,
+      "end": 230
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 285,
+      "end": 288
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 176,
+      "end": 196
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reporting adequate access to food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "53%",
+      "start": 304,
+      "end": 307
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevented from engaging in cultivation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36%",
+      "start": 470,
+      "end": 473
+    },
+    "unit": {
+      "text": "population",
+      "start": 481,
+      "end": 491
+    }
+  }
+]

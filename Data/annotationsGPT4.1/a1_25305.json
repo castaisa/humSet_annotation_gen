@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "77%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with needs for services in education"
+  },
+  {
+    "quantity": "71%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with needs for services in health"
+  },
+  {
+    "quantity": "66%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with needs for food security support"
+  },
+  {
+    "quantity": "57%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households demonstrating dual need for services in health and education"
+  },
+  {
+    "quantity": "54%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households reporting simultaneous food security and education needs"
+  },
+  {
+    "quantity": "77%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with unmet needs in the education sector"
+  },
+  {
+    "quantity": "46%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with unmet education needs registering a vulnerability"
+  },
+  {
+    "quantity": "6%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households hosting separated and unaccompanied children in Yobe"
+  },
+  {
+    "quantity": "1%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households hosting separated and unaccompanied children in Borno"
+  },
+  {
+    "quantity": "2%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households hosting separated and unaccompanied children in Adamawa"
+  }
+]

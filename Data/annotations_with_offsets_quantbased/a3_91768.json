@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "hundreds",
+      "start": 45,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "enforced disappearances, torture, killings and displacement of entire families",
+      "start": 57,
+      "end": 135
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "9th",
+      "start": 159,
+      "end": 162
+    },
+    "eventDescription": {
+      "text": "responsible for events",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Brigade",
+      "start": 163,
+      "end": 170
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "numerous",
+      "start": 339,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "verified",
+      "start": 330,
+      "end": 338
+    },
+    "unit": {
+      "text": "summary executions",
+      "start": 348,
+      "end": 366
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "dozens",
+      "start": 442,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "received",
+      "start": 433,
+      "end": 441
+    },
+    "unit": {
+      "text": "reports of enforced disappearances and torture of civilians",
+      "start": 452,
+      "end": 511
+    }
+  }
+]

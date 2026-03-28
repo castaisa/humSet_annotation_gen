@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "1,500",
+    "unit": "food parcels",
+    "eventType": "EventA",
+    "eventDescription": "dispatched"
+  },
+  {
+    "quantity": "1,500",
+    "unit": "food supplements for children",
+    "eventType": "EventA",
+    "eventDescription": "dispatched"
+  },
+  {
+    "quantity": "thousands",
+    "unit": "residents and children",
+    "eventType": "EventP",
+    "eventDescription": "suffering from malnutrition"
+  }
+]

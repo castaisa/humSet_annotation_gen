@@ -1,0 +1,380 @@
+[
+  {
+    "quantity": {
+      "text": "Two Hundred and Twelve",
+      "begin": 54,
+      "end": 76
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 83,
+      "end": 106
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 112,
+      "end": 120
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "212",
+      "begin": 78,
+      "end": 81
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 83,
+      "end": 106
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 112,
+      "end": 120
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "116",
+      "begin": 159,
+      "end": 162
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 180,
+      "end": 181
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 202,
+      "end": 204
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 249,
+      "end": 251
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 283,
+      "end": 284
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 319,
+      "end": 320
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 384,
+      "end": 385
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 143,
+      "end": 157
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Fifty-one",
+      "begin": 635,
+      "end": 644
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "51",
+      "begin": 646,
+      "end": 648
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 723,
+      "end": 724
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 734,
+      "end": 735
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 745,
+      "end": 746
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "41",
+      "begin": 755,
+      "end": 757
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 766,
+      "end": 767
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 776,
+      "end": 777
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 790,
+      "end": 791
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 661,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 690,
+      "end": 698
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "263",
+      "begin": 816,
+      "end": 819
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 820,
+      "end": 843
+    },
+    "eventDescription": {
+      "text": "suspected measles cases",
+      "begin": 820,
+      "end": 843
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 845,
+      "end": 848
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 853,
+      "end": 870
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 876,
+      "end": 884
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 850,
+      "end": 851
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 853,
+      "end": 870
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 876,
+      "end": 884
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "92",
+      "begin": 56,
+      "end": 58
+    },
+    "eventDescription": {
+      "text": "UNHCR and its partners have implemented",
+      "begin": 16,
+      "end": 55
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "quick impact projects (QIPs)",
+      "begin": 59,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 464,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "UNHCR supported schools",
+      "begin": 437,
+      "end": 460
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "municipalities",
+      "begin": 467,
+      "end": 481
+    }
+  }
+]

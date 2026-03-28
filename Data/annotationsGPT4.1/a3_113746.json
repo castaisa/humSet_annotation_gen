@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "410",
+    "unit": "hygiene kits",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "500",
+    "unit": "bars of soap",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "100",
+    "unit": "buckets",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "30",
+    "unit": "people with special needs",
+    "eventType": "EventP",
+    "eventDescription": "supported"
+  },
+  {
+    "quantity": "16",
+    "unit": "outreach volunteers",
+    "eventType": "EventP",
+    "eventDescription": "supported"
+  },
+  {
+    "quantity": "two",
+    "unit": "virtual trainings",
+    "eventType": "EventO",
+    "eventDescription": "organised"
+  }
+]

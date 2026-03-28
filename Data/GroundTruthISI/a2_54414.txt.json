@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "528",
+      "begin": 231,
+      "end": 234
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 235,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "screened for acute malnutrition and anaemia",
+      "begin": 259,
+      "end": 302
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "554",
+      "begin": 245,
+      "end": 248
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 249,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "screened for acute malnutrition and anaemia",
+      "begin": 259,
+      "end": 302
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "193",
+      "begin": 308,
+      "end": 311
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 312,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "received nutritional supplements to prevent acute malnutrition",
+      "begin": 331,
+      "end": 393
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "211",
+      "begin": 322,
+      "end": 325
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 326,
+      "end": 330
+    },
+    "eventDescription": {
+      "text": "received nutritional supplements to prevent acute malnutrition",
+      "begin": 331,
+      "end": 393
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 501,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "UNICEF was able to identify and refer",
+      "begin": 463,
+      "end": 500
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 504,
+      "end": 509
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 514,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "UNICEF was able to identify and refer",
+      "begin": 463,
+      "end": 500
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 520,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "516",
+      "begin": 682,
+      "end": 685
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 686,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "tested for anaemia through a rapid haemoglobin test",
+      "begin": 710,
+      "end": 761
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "553",
+      "begin": 696,
+      "end": 699
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 700,
+      "end": 704
+    },
+    "eventDescription": {
+      "text": "tested for anaemia through a rapid haemoglobin test",
+      "begin": 710,
+      "end": 761
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "55",
+      "begin": 777,
+      "end": 779
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 780,
+      "end": 785
+    },
+    "eventDescription": {
+      "text": "were found anaemic and were referred to health services to receive treatment",
+      "begin": 799,
+      "end": 875
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "107",
+      "begin": 790,
+      "end": 793
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 794,
+      "end": 798
+    },
+    "eventDescription": {
+      "text": "were found anaemic and were referred to health services to receive treatment",
+      "begin": 799,
+      "end": 875
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "751",
+      "begin": 886,
+      "end": 889
+    },
+    "unit": {
+      "text": "mothers",
+      "begin": 890,
+      "end": 897
+    },
+    "eventDescription": {
+      "text": "benefited from services at the UNICEF-supported safe space for breast-feeding mothers",
+      "begin": 922,
+      "end": 1007
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "412",
+      "begin": 899,
+      "end": 902
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 903,
+      "end": 908
+    },
+    "eventDescription": {
+      "text": "benefited from services at the UNICEF-supported safe space for breast-feeding mothers",
+      "begin": 922,
+      "end": 1007
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "358",
+      "begin": 913,
+      "end": 916
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 917,
+      "end": 921
+    },
+    "eventDescription": {
+      "text": "benefited from services at the UNICEF-supported safe space for breast-feeding mothers",
+      "begin": 922,
+      "end": 1007
+    },
+    "eventType": "EventA"
+  }
+]

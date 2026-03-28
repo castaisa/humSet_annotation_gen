@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 251,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "covering",
+      "begin": 236,
+      "end": 244
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "about",
+      "begin": 245,
+      "end": 250
+    },
+    "unit": {
+      "text": "retail outlets",
+      "begin": 254,
+      "end": 268
+    }
+  },
+  {
+    "quantity": {
+      "text": "100 percent",
+      "begin": 283,
+      "end": 294
+    },
+    "eventDescription": {
+      "text": "direct access to fresh and nutritious food items",
+      "begin": 340,
+      "end": 388
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "beneficiaries",
+      "begin": 298,
+      "end": 311
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 492,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "additional targeted assistance",
+      "begin": 446,
+      "end": 476
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "most vulnerable households",
+      "begin": 503,
+      "end": 529
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 478,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "additional targeted assistance",
+      "begin": 446,
+      "end": 476
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "USD",
+      "begin": 480,
+      "end": 483
+    }
+  }
+]

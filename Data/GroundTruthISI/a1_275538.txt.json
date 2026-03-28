@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 73,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "UNDP launched applications for a capacity building support programme",
+      "begin": 0,
+      "end": 68
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Cameroonian young entrepreneurs",
+      "begin": 77,
+      "end": 108
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 435,
+      "end": 438
+    },
+    "eventDescription": {
+      "text": "programme targets",
+      "begin": 392,
+      "end": 409
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "youths",
+      "begin": 410,
+      "end": 416
+    }
+  },
+  {
+    "quantity": {
+      "text": "150",
+      "begin": 449,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "programme targets",
+      "begin": 392,
+      "end": 409
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "youths",
+      "begin": 410,
+      "end": 416
+    }
+  },
+  {
+    "quantity": {
+      "text": "150",
+      "begin": 465,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "programme targets",
+      "begin": 392,
+      "end": 409
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "youths",
+      "begin": 410,
+      "end": 416
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 488,
+      "end": 491
+    },
+    "eventDescription": {
+      "text": "programme targets",
+      "begin": 392,
+      "end": 409
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "youths",
+      "begin": 410,
+      "end": 416
+    }
+  }
+]

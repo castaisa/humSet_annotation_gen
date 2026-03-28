@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "55 percent",
+    "unit": "of the migrant population",
+    "eventType": "EventP",
+    "eventDescription": "suffered from acute or moderate food insecurity",
+    "modifier": "About"
+  },
+  {
+    "quantity": "20 percent",
+    "unit": "of the total migrant population in the department of La Guajira",
+    "eventType": "EventP",
+    "eventDescription": "facing acute food insecurity"
+  },
+  {
+    "quantity": "17 percent",
+    "unit": "of the total migrant population in the department of Cesar",
+    "eventType": "EventP",
+    "eventDescription": "facing acute food insecurity"
+  },
+  {
+    "quantity": "71-percent",
+    "unit": "decrease in the number of migrant households generating income from paid work",
+    "eventType": "EventP",
+    "eventDescription": "decrease in income generation"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "of surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "reported consuming three or more meals per day"
+  },
+  {
+    "quantity": "56 percent",
+    "unit": "of surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "reported consuming three or more meals per day before the restrictions"
+  },
+  {
+    "quantity": "10 percent",
+    "unit": "of surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "went from 3 to 1 meal per day"
+  },
+  {
+    "quantity": "68 percent",
+    "unit": "of surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "went from 3 to 2 meals per day"
+  }
+]

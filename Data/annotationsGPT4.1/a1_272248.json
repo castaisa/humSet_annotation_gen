@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "40 percent",
+    "unit": "unemployment",
+    "eventType": "EventP",
+    "eventDescription": "could soar to"
+  },
+  {
+    "quantity": "33.5 percent",
+    "unit": "unemployment",
+    "eventType": "EventP",
+    "eventDescription": "was projected to rise to"
+  },
+  {
+    "quantity": "23 percent",
+    "unit": "unemployment",
+    "eventType": "EventP",
+    "eventDescription": "was in"
+  },
+  {
+    "quantity": "one third",
+    "unit": "jobs",
+    "eventType": "EventP",
+    "eventDescription": "are at risk"
+  },
+  {
+    "quantity": "more than half",
+    "unit": "workforce",
+    "eventType": "EventP",
+    "eventDescription": "adversely affected"
+  },
+  {
+    "quantity": "4 in 10",
+    "unit": "workers",
+    "eventType": "EventP",
+    "eventDescription": "were already reporting a loss of labor income"
+  }
+]

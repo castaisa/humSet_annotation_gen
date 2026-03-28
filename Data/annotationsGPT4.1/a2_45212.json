@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "three in four",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "included an adult with no identity documentation"
+  },
+  {
+    "quantity": "70%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "included an adult with no identity documentation"
+  },
+  {
+    "quantity": "One-fifth",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported missing a family member"
+  },
+  {
+    "quantity": "19%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported missing a family member"
+  },
+  {
+    "quantity": "44%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported experiencing a security incident"
+  },
+  {
+    "quantity": "one in five",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "included adults without identity documentation"
+  },
+  {
+    "quantity": "21%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "included adults without identity documentation"
+  },
+  {
+    "quantity": "one in four",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "experienced movement restrictions"
+  },
+  {
+    "quantity": "28%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "experienced movement restrictions"
+  },
+  {
+    "quantity": "86%",
+    "unit": "wards",
+    "eventType": "EventO",
+    "eventDescription": "where key informants had reported previous explosive incidents"
+  }
+]

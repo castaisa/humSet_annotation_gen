@@ -1,0 +1,107 @@
+[
+  {
+    "quantity": {
+      "text": "73 000",
+      "begin": 64,
+      "end": 70
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 54,
+      "end": 63
+    },
+    "unit": {
+      "text": "ANC-1 services",
+      "begin": 71,
+      "end": 85
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 91,
+      "end": 99
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 246,
+      "end": 249
+    },
+    "unit": {
+      "text": "ANC-1 service",
+      "begin": 180,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "utilization",
+      "begin": 194,
+      "end": 205
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "higher",
+      "begin": 250,
+      "end": 256
+    }
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 321,
+      "end": 323
+    },
+    "unit": {
+      "text": "ANC-1 service",
+      "begin": 271,
+      "end": 284
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 308,
+      "end": 317
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36 000",
+      "begin": 464,
+      "end": 470
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 458,
+      "end": 463
+    },
+    "unit": {
+      "text": "PNC-1 services",
+      "begin": 471,
+      "end": 485
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 503,
+      "end": 511
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 617,
+      "end": 620
+    },
+    "unit": {
+      "text": "PNC service utilization",
+      "begin": 577,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "declined",
+      "begin": 605,
+      "end": 613
+    },
+    "eventType": "EventO"
+  }
+]

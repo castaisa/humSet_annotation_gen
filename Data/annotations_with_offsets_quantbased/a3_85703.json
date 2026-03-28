@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 242,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "Mental Health Department established",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 248,
+      "end": 253
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 300",
+      "start": 1104,
+      "end": 1117
+    },
+    "eventDescription": {
+      "text": "trained on psychosocial support",
+      "start": 1342,
+      "end": 1373
+    },
+    "unit": {
+      "text": "staff, doctors, nurses and social workers",
+      "start": 1118,
+      "end": 1159
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 1104,
+      "end": 1113
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 1203,
+      "end": 1204
+    },
+    "eventDescription": {
+      "text": "staff from Mabaruma in Region 1",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Region",
+      "start": 1196,
+      "end": 1202
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7",
+      "start": 1317,
+      "end": 1318
+    },
+    "eventDescription": {
+      "text": "no personnel trained on psychosocial support in Region 7",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Region",
+      "start": 1310,
+      "end": 1316
+    }
+  }
+]

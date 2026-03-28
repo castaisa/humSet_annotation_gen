@@ -1,0 +1,263 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "0.4%",
+      "start": 56,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "average price increase",
+      "start": 29,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "12%",
+      "start": 114,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "price higher than 14 March",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7%",
+      "start": 187,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "price increase in Baghlan and Kunduz",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6%",
+      "start": 201,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "price increase in Urozgan",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 223,
+      "end": 225
+    },
+    "eventDescription": {
+      "text": "price increase in Ghor and Ghazni",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2%",
+      "start": 240,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "price increase in Badghis",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7%",
+      "start": 372,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "price decrease in Kandahar",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5%",
+      "start": 386,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "price decrease in Nuristan",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1%",
+      "start": 401,
+      "end": 403
+    },
+    "eventDescription": {
+      "text": "price decrease in Takhar",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36",
+      "start": 510,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "highest price in Daykundi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 528,
+      "end": 538
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36",
+      "start": 514,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "highest price in Urozgan",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 528,
+      "end": 538
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36",
+      "start": 518,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "highest price in Badakhshan",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 528,
+      "end": 538
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "35",
+      "start": 525,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "highest price in Ghazni",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 528,
+      "end": 538
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "23",
+      "start": 628,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "lowest price in Hirat",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 646,
+      "end": 656
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "29",
+      "start": 632,
+      "end": 634
+    },
+    "eventDescription": {
+      "text": "lowest price in Kandahar",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 646,
+      "end": 656
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "29",
+      "start": 636,
+      "end": 638
+    },
+    "eventDescription": {
+      "text": "lowest price in Farah",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 646,
+      "end": 656
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30",
+      "start": 643,
+      "end": 645
+    },
+    "eventDescription": {
+      "text": "lowest price in Samangan",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "start": 646,
+      "end": 656
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "quantity": {
+      "text": "213",
+      "begin": 7,
+      "end": 10
+    },
+    "modifier": {
+      "text": "Out of",
+      "begin": 0,
+      "end": 6
+    },
+    "unit": {
+      "text": "interviewed",
+      "begin": 11,
+      "end": 22
+    }
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 29,
+      "end": 32
+    },
+    "unit": {
+      "text": "interviewed",
+      "begin": 11,
+      "end": 22
+    },
+    "eventDescription": {
+      "text": "mentioned that they are direct contact with confirmed COVID 19 patient",
+      "begin": 38,
+      "end": 108
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "59%",
+      "begin": 124,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "mentioned that they are direct contact with confirmed COVID 19 patient",
+      "begin": 38,
+      "end": 108
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "health workers directly working on COVID 19 confirmed patients",
+      "begin": 138,
+      "end": 200
+    }
+  },
+  {
+    "quantity": {
+      "text": "37%",
+      "begin": 208,
+      "end": 211
+    },
+    "unit": {
+      "text": "those who worked on COVID 19",
+      "begin": 215,
+      "end": 243
+    },
+    "eventDescription": {
+      "text": "present while doing Aerosol generating procedure (AGP)",
+      "begin": 249,
+      "end": 303
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "55%",
+      "begin": 306,
+      "end": 309
+    },
+    "unit": {
+      "text": "health workers who are working on COVID 19 directly",
+      "begin": 317,
+      "end": 368
+    },
+    "eventDescription": {
+      "text": "mentioned that they have direct contact with the environment where the confirmed COVID 19 patient was cared for",
+      "begin": 375,
+      "end": 486
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 490,
+      "end": 493
+    },
+    "unit": {
+      "text": "health professionals working on COVID 19",
+      "begin": 501,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "have to attend to other normal functions in the hospital or have their own private practice",
+      "begin": 542,
+      "end": 633
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 650,
+      "end": 653
+    },
+    "eventDescription": {
+      "text": "have to attend to other normal functions in the hospital or have their own private practice",
+      "begin": 542,
+      "end": 633
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "overall survey responders",
+      "begin": 663,
+      "end": 688
+    }
+  }
+]

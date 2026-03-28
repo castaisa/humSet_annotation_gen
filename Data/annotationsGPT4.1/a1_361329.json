@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "877,000",
+    "unit": "displaced Rohingya",
+    "eventType": "EventP",
+    "eventDescription": "residing in camps",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "thirty-four",
+    "unit": "camps",
+    "eventType": "EventO",
+    "eventDescription": "formally designated by the government"
+  },
+  {
+    "quantity": "two",
+    "unit": "officially recognised camps",
+    "eventType": "EventO",
+    "eventDescription": "recognised by the government"
+  }
+]

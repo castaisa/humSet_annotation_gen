@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 277,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "start": 327,
+      "end": 335
+    },
+    "unit": {
+      "text": "aid workers",
+      "start": 283,
+      "end": 294
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 452,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "executed",
+      "start": 489,
+      "end": 497
+    },
+    "unit": {
+      "text": "female aid workers",
+      "start": 456,
+      "end": 474
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "1,693",
+      "begin": 72,
+      "end": 77
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 52,
+      "end": 71
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 78,
+      "end": 99
+    }
+  },
+  {
+    "quantity": {
+      "text": "262",
+      "begin": 174,
+      "end": 177
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 178,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 195,
+      "end": 206
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "124",
+      "begin": 240,
+      "end": 243
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 244,
+      "end": 255
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 256,
+      "end": 267
+    },
+    "eventType": "EventO"
+  }
+]

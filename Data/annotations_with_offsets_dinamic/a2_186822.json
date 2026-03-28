@@ -1,0 +1,277 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "announced as recipients of Family Protection Bonus",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "400,000",
+      "start": 337,
+      "end": 344
+    },
+    "unit": {
+      "text": "individuals and households",
+      "start": 345,
+      "end": 371
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided to households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 498,
+      "end": 501
+    },
+    "unit": {
+      "text": "US$ 60 transfers",
+      "start": 502,
+      "end": 518
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affiliated with government registries and eligible for transfer",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "400 000",
+      "start": 542,
+      "end": 549
+    },
+    "unit": {
+      "text": "households",
+      "start": 550,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "collected the April transfer",
+      "start": 1072,
+      "end": 1100
+    },
+    "quantity": {
+      "text": "352,000",
+      "start": 1033,
+      "end": 1040
+    },
+    "unit": {
+      "text": "recipients",
+      "start": 851,
+      "end": 861
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "April transfer amount",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "US$ 60",
+      "start": 1104,
+      "end": 1110
+    },
+    "unit": {
+      "text": "dollars",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had collected the transfer before mid-May",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 1163,
+      "end": 1167
+    },
+    "quantity": {
+      "text": "over 400,000",
+      "start": 1163,
+      "end": 1175
+    },
+    "unit": {
+      "text": "recipients",
+      "start": 979,
+      "end": 989
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were women",
+      "start": 1189,
+      "end": 1199
+    },
+    "quantity": {
+      "text": "88%",
+      "start": 1185,
+      "end": 1188
+    },
+    "unit": {
+      "text": "recipients",
+      "start": 1057,
+      "end": 1067
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "announced for additional two-time cash transfer",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "550,000",
+      "start": 1288,
+      "end": 1295
+    },
+    "unit": {
+      "text": "recipients",
+      "start": 1296,
+      "end": 1306
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total reach after expansion",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "950 000",
+      "start": 1370,
+      "end": 1377
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 1378,
+      "end": 1389
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "planned extension of Family Protection transfer",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one million",
+      "start": 1744,
+      "end": 1755
+    },
+    "unit": {
+      "text": "people",
+      "start": 1756,
+      "end": 1762
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total planned reach of Family Protection transfer",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two million",
+      "start": 1789,
+      "end": 1800
+    },
+    "unit": {
+      "text": "people",
+      "start": 1801,
+      "end": 1807
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "established for this group",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one-time",
+      "start": 2234,
+      "end": 2242
+    },
+    "unit": {
+      "text": "transfer",
+      "start": 2243,
+      "end": 2251
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "amount of one-time transfer",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "US$ 120",
+      "start": 2255,
+      "end": 2262
+    },
+    "unit": {
+      "text": "dollars",
+      "start": 2263,
+      "end": 2270
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distribution to second group of recipients",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "120-dollar",
+      "start": 2595,
+      "end": 2605
+    },
+    "unit": {
+      "text": "transfer",
+      "start": 2315,
+      "end": 2323
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "recipients divided for transfer collection",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 2804,
+      "end": 2807
+    },
+    "unit": {
+      "text": "groups",
+      "start": 2808,
+      "end": 2814
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 190,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "consumption rate of animal-source protein",
+      "start": 144,
+      "end": 185
+    },
+    "unit": {
+      "text": "times a week",
+      "start": 194,
+      "end": 206
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4.6",
+      "start": 455,
+      "end": 458
+    },
+    "eventDescription": {
+      "text": "consumption of vegetables",
+      "start": 366,
+      "end": 391
+    },
+    "unit": {
+      "text": "times a week",
+      "start": 459,
+      "end": 471
+    }
+  }
+]

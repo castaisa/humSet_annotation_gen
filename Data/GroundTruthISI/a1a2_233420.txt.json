@@ -1,0 +1,48 @@
+[
+  {
+    "quantity": {
+      "text": "111,500",
+      "begin": 304,
+      "end": 311
+    },
+    "eventDescription": {
+      "text": "pre-positioned",
+      "begin": 279,
+      "end": 293
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 294,
+      "end": 303
+    },
+    "unit": {
+      "text": "metric tons",
+      "begin": 312,
+      "end": 323
+    }
+  },
+  {
+    "quantity": {
+      "text": "60 per cent",
+      "begin": 346,
+      "end": 357
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 339,
+      "end": 345
+    },
+    "eventDescription": {
+      "text": "planned deliveries",
+      "begin": 365,
+      "end": 383
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "planned deliveries",
+      "begin": 365,
+      "end": 383
+    }
+  }
+]

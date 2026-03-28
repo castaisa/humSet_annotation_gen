@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 652,
+      "end": 655
+    },
+    "unit": {
+      "text": "participants",
+      "begin": 656,
+      "end": 668
+    },
+    "eventDescription": {
+      "text": "trained",
+      "begin": 669,
+      "end": 676
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2360",
+      "begin": 697,
+      "end": 701
+    },
+    "eventDescription": {
+      "text": "training",
+      "begin": 685,
+      "end": 693
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "frontline health workers",
+      "begin": 702,
+      "end": 726
+    }
+  },
+  {
+    "quantity": {
+      "text": "44",
+      "begin": 738,
+      "end": 740
+    },
+    "eventDescription": {
+      "text": "currently ongoing",
+      "begin": 749,
+      "end": 766
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "LGAs",
+      "begin": 741,
+      "end": 745
+    }
+  },
+  {
+    "quantity": {
+      "text": "42,391",
+      "begin": 786,
+      "end": 792
+    },
+    "unit": {
+      "text": "children",
+      "begin": 793,
+      "end": 801
+    },
+    "eventDescription": {
+      "text": "administered measles reactive vaccination",
+      "begin": 807,
+      "end": 848
+    },
+    "eventType": "EventP"
+  }
+]

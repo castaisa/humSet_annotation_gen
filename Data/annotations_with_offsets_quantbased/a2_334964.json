@@ -1,0 +1,195 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "nine out of ten",
+      "start": 53,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "reported applying at least one food-based coping strategy",
+      "start": 105,
+      "end": 162
+    },
+    "unit": {
+      "text": "households",
+      "start": 81,
+      "end": 91
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "91 percent",
+      "start": 93,
+      "end": 103
+    },
+    "eventDescription": {
+      "text": "reported applying at least one food-based coping strategy",
+      "start": 105,
+      "end": 162
+    },
+    "unit": {
+      "text": "households",
+      "start": 81,
+      "end": 91
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "at least one",
+      "start": 123,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "applied by households",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food-based coping strategy",
+      "start": 136,
+      "end": 162
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 123,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11 percent",
+      "start": 216,
+      "end": 226
+    },
+    "eventDescription": {
+      "text": "increase in households applying food-based coping strategies",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "seven out of ten",
+      "start": 334,
+      "end": 350
+    },
+    "eventDescription": {
+      "text": "reported buying food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 363,
+      "end": 373
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11 percent",
+      "start": 444,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "increase in households buying food on credit",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "80 percent",
+      "start": 507,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "reported buying food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households in Quneitra",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "77 percent",
+      "start": 533,
+      "end": 543
+    },
+    "eventDescription": {
+      "text": "reported buying food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households in Ar-Raqqa",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "76 percent",
+      "start": 618,
+      "end": 628
+    },
+    "eventDescription": {
+      "text": "reported buying food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "returnees",
+      "start": 607,
+      "end": 616
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "76 percent",
+      "start": 640,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "reported buying food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 634,
+      "end": 638
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "67 percent",
+      "start": 703,
+      "end": 713
+    },
+    "eventDescription": {
+      "text": "reported buying food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "residents",
+      "start": 692,
+      "end": 701
+    }
+  }
+]

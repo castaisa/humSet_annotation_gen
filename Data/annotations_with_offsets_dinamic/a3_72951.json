@@ -1,0 +1,48 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through information regarding registration and documentation processes",
+      "start": 106,
+      "end": 184
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 84,
+      "end": 93
+    },
+    "quantity": {
+      "text": "more than 63,000",
+      "start": 84,
+      "end": 100
+    },
+    "unit": {
+      "text": "people",
+      "start": 619,
+      "end": 625
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with the provision of child friendly spaces",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 693,
+      "end": 702
+    },
+    "quantity": {
+      "text": "more than 98,000",
+      "start": 693,
+      "end": 709
+    },
+    "unit": {
+      "text": "children",
+      "start": 710,
+      "end": 718
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "88%",
+      "begin": 127,
+      "end": 130
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 62,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "barriers to healthcare were reported",
+      "begin": 89,
+      "end": 125
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "69%",
+      "begin": 202,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "reported barriers to accessing healthcare services",
+      "begin": 142,
+      "end": 192
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 213,
+      "end": 233
+    }
+  },
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 390,
+      "end": 393
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 401,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "facilities destroyed by conflict was reported as a barrier to accessing healthcare",
+      "begin": 423,
+      "end": 505
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 549,
+      "end": 552
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 401,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "facilities destroyed by conflict was reported as a barrier to accessing healthcare",
+      "begin": 423,
+      "end": 505
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "28%",
+      "begin": 565,
+      "end": 568
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 401,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "facilities destroyed by conflict was reported as a barrier to accessing healthcare",
+      "begin": 423,
+      "end": 505
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 581,
+      "end": 584
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 401,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "facilities destroyed by conflict was reported as a barrier to accessing healthcare",
+      "begin": 423,
+      "end": 505
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 590,
+      "end": 592
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 600,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "no staff available was reported as a barrier to accessing healthcare",
+      "begin": 622,
+      "end": 690
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "24%",
+      "begin": 735,
+      "end": 738
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 600,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "no staff available was reported as a barrier to accessing healthcare",
+      "begin": 622,
+      "end": 690
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 754,
+      "end": 757
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 600,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "no staff available was reported as a barrier to accessing healthcare",
+      "begin": 622,
+      "end": 690
+    },
+    "eventType": "EventO"
+  }
+]

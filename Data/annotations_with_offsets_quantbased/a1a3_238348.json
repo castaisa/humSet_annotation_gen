@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "268,000",
+      "start": 545,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "have taken the exam",
+      "start": 578,
+      "end": 597
+    },
+    "unit": {
+      "text": "male and female students",
+      "start": 553,
+      "end": 577
+    }
+  }
+]

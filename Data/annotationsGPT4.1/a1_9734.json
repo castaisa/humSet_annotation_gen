@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "Eighty per cent",
+    "unit": "of the city\u2019s electricity",
+    "eventType": "EventO",
+    "eventDescription": "electricity restored"
+  },
+  {
+    "quantity": "two",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "duration of power cut"
+  },
+  {
+    "quantity": "125,000",
+    "unit": "residents",
+    "eventType": "EventP",
+    "eventDescription": "residents without water"
+  }
+]

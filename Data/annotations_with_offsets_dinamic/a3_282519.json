@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": 289,
+      "end": 296
+    },
+    "quantity": {
+      "text": "16",
+      "start": 259,
+      "end": 261
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 262,
+      "end": 269
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "19",
+      "start": 274,
+      "end": 276
+    },
+    "unit": {
+      "text": "nurses",
+      "start": 277,
+      "end": 283
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached",
+      "start": 377,
+      "end": 384
+    },
+    "quantity": {
+      "text": "27",
+      "start": 318,
+      "end": 320
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 321,
+      "end": 328
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "39",
+      "start": 333,
+      "end": 335
+    },
+    "unit": {
+      "text": "nurses",
+      "start": 336,
+      "end": 342
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": 662,
+      "end": 669
+    },
+    "quantity": {
+      "text": "34",
+      "start": 857,
+      "end": 859
+    },
+    "unit": {
+      "text": "healthcare professionals",
+      "start": 412,
+      "end": 436
+    }
+  }
+]

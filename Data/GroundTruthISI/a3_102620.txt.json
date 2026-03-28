@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 0,
+      "end": 3
+    },
+    "unit": {
+      "text": "new confirmed cases",
+      "begin": 8,
+      "end": 27
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 33,
+      "end": 41
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 49,
+      "end": 52
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 33,
+      "end": 41
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "case",
+      "begin": 57,
+      "end": 61
+    }
+  },
+  {
+    "quantity": {
+      "text": "forty-nine (49)",
+      "begin": 152,
+      "end": 167
+    },
+    "unit": {
+      "text": "confirmed COVID-19 case(s)",
+      "begin": 117,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "Twenty (20)",
+      "begin": 169,
+      "end": 180
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 case(s)",
+      "begin": 117,
+      "end": 143
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 181,
+      "end": 186
+    }
+  },
+  {
+    "quantity": {
+      "text": "eleven (11)",
+      "begin": 202,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 case(s)",
+      "begin": 117,
+      "end": 143
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 214,
+      "end": 219
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine (9)",
+      "begin": 232,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 case(s)",
+      "begin": 117,
+      "end": 143
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 241,
+      "end": 246
+    }
+  },
+  {
+    "quantity": {
+      "text": "three (3)",
+      "begin": 258,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 case(s)",
+      "begin": 117,
+      "end": 143
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 268,
+      "end": 273
+    }
+  },
+  {
+    "quantity": {
+      "text": "one (1)",
+      "begin": 293,
+      "end": 300
+    },
+    "unit": {
+      "text": "case",
+      "begin": 301,
+      "end": 305
+    }
+  },
+  {
+    "quantity": {
+      "text": "thirteen (13)",
+      "begin": 459,
+      "end": 472
+    },
+    "eventDescription": {
+      "text": "confirmed case(s)",
+      "begin": 378,
+      "end": 395
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Health Care Workers (HCWs)",
+      "begin": 416,
+      "end": 442
+    }
+  },
+  {
+    "quantity": {
+      "text": "Seven (7)",
+      "begin": 474,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "confirmed case(s)",
+      "begin": 378,
+      "end": 395
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "nurses",
+      "begin": 484,
+      "end": 490
+    }
+  },
+  {
+    "quantity": {
+      "text": "four (4)",
+      "begin": 492,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "confirmed case(s)",
+      "begin": 378,
+      "end": 395
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "doctors",
+      "begin": 501,
+      "end": 508
+    }
+  },
+  {
+    "quantity": {
+      "text": "one (1)",
+      "begin": 510,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "confirmed case(s)",
+      "begin": 378,
+      "end": 395
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "physiotherapist",
+      "begin": 518,
+      "end": 533
+    }
+  },
+  {
+    "quantity": {
+      "text": "one (1)",
+      "begin": 539,
+      "end": 546
+    },
+    "unit": {
+      "text": "laboratory scientist",
+      "begin": 547,
+      "end": 567
+    }
+  },
+  {
+    "quantity": {
+      "text": "six (6)",
+      "begin": 629,
+      "end": 636
+    },
+    "unit": {
+      "text": "deaths due to COVID-19",
+      "begin": 590,
+      "end": 612
+    },
+    "eventDescription": {
+      "text": "deaths due to COVID-19",
+      "begin": 590,
+      "end": 612
+    },
+    "eventType": "EventP"
+  }
+]

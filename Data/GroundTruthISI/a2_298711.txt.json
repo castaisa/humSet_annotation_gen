@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "1,698",
+      "begin": 99,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "WHO supported risk communication volunteers",
+      "begin": 47,
+      "end": 90
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 105,
+      "end": 115
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 117,
+      "end": 120
+    },
+    "eventDescription": {
+      "text": "WHO supported risk communication volunteers",
+      "begin": 47,
+      "end": 90
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "churches",
+      "begin": 121,
+      "end": 129
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 134,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "WHO supported risk communication volunteers",
+      "begin": 47,
+      "end": 90
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Sangaya",
+      "begin": 138,
+      "end": 145
+    }
+  },
+  {
+    "quantity": {
+      "text": "8,661",
+      "begin": 147,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "WHO supported risk communication volunteers",
+      "begin": 47,
+      "end": 90
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "persons",
+      "begin": 153,
+      "end": 160
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,925",
+      "begin": 162,
+      "end": 167
+    },
+    "unit": {
+      "text": "men",
+      "begin": 168,
+      "end": 171
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,682",
+      "begin": 173,
+      "end": 178
+    },
+    "unit": {
+      "text": "women",
+      "begin": 179,
+      "end": 184
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,957",
+      "begin": 186,
+      "end": 191
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 192,
+      "end": 196
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,097",
+      "begin": 201,
+      "end": 206
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 207,
+      "end": 212
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 533,
+      "end": 535
+    },
+    "unit": {
+      "text": "jingles per day",
+      "begin": 536,
+      "end": 551
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 581,
+      "end": 583
+    },
+    "unit": {
+      "text": "jingles per day",
+      "begin": 584,
+      "end": 599
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 616,
+      "end": 618
+    },
+    "unit": {
+      "text": "jingles per day",
+      "begin": 619,
+      "end": 634
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 649,
+      "end": 650
+    },
+    "unit": {
+      "text": "jingles per day",
+      "begin": 651,
+      "end": 666
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 685,
+      "end": 686
+    },
+    "unit": {
+      "text": "TV jingles per day",
+      "begin": 687,
+      "end": 705
+    }
+  }
+]

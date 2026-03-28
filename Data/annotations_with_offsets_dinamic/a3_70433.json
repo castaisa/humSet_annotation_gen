@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained as Trainers of Trainers",
+      "start": 236,
+      "end": 267
+    },
+    "quantity": {
+      "text": "10",
+      "start": 111,
+      "end": 113
+    },
+    "unit": {
+      "text": "members",
+      "start": 114,
+      "end": 121
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": 284,
+      "end": 291
+    },
+    "quantity": {
+      "text": "10",
+      "start": 273,
+      "end": 275
+    },
+    "unit": {
+      "text": "members",
+      "start": 276,
+      "end": 283
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "48",
+      "start": 292,
+      "end": 294
+    },
+    "unit": {
+      "text": "counsellors",
+      "start": 295,
+      "end": 306
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received IYCF outreach support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,530",
+      "start": 430,
+      "end": 435
+    },
+    "unit": {
+      "text": "children",
+      "start": 436,
+      "end": 444
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "age range of children",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0-24",
+      "start": 453,
+      "end": 457
+    },
+    "unit": {
+      "text": "months",
+      "start": 458,
+      "end": 464
+    }
+  }
+]

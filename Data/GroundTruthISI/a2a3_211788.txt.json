@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "596,399",
+      "begin": 66,
+      "end": 73
+    },
+    "unit": {
+      "text": "people",
+      "begin": 74,
+      "end": 80
+    },
+    "eventDescription": {
+      "text": "reached with ES-NFI awareness raising sessions on prevention of COVID-19",
+      "begin": 97,
+      "end": 169
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 84,
+      "end": 86
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 87,
+      "end": 96
+    },
+    "eventDescription": {
+      "text": "reached with ES-NFI awareness raising sessions on prevention of COVID-19",
+      "begin": 97,
+      "end": 169
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "12,807",
+      "begin": 171,
+      "end": 177
+    },
+    "unit": {
+      "text": "IEC materials",
+      "begin": 178,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 192,
+      "end": 203
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 211,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 192,
+      "end": 203
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "provinces",
+      "begin": 213,
+      "end": 222
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,304",
+      "begin": 224,
+      "end": 229
+    },
+    "unit": {
+      "text": "NFI kits",
+      "begin": 230,
+      "end": 238
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 239,
+      "end": 250
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 258,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 239,
+      "end": 250
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "provinces",
+      "begin": 260,
+      "end": 269
+    }
+  },
+  {
+    "quantity": {
+      "text": "182,663",
+      "begin": 305,
+      "end": 312
+    },
+    "unit": {
+      "text": "face masks",
+      "begin": 313,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "distributed by ES-NFI Cluster partners",
+      "begin": 324,
+      "end": 362
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 370,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "distributed by ES-NFI Cluster partners",
+      "begin": 324,
+      "end": 362
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "provinces",
+      "begin": 372,
+      "end": 381
+    }
+  },
+  {
+    "quantity": {
+      "text": "771",
+      "begin": 383,
+      "end": 386
+    },
+    "unit": {
+      "text": "religious leaders",
+      "begin": 387,
+      "end": 404
+    },
+    "eventDescription": {
+      "text": "received COVID-19 awareness raising training to disseminate key messages to the community",
+      "begin": 405,
+      "end": 494
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 496,
+      "end": 498
+    },
+    "unit": {
+      "text": "family tents",
+      "begin": 499,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 571,
+      "end": 582
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 513,
+      "end": 514
+    },
+    "unit": {
+      "text": "multi-purpose tents",
+      "begin": 515,
+      "end": 534
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 571,
+      "end": 582
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "81",
+      "begin": 539,
+      "end": 541
+    },
+    "unit": {
+      "text": "refugee housing units (RHUs)",
+      "begin": 542,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 571,
+      "end": 582
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 590,
+      "end": 591
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 571,
+      "end": 582
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "provinces",
+      "begin": 592,
+      "end": 601
+    }
+  }
+]

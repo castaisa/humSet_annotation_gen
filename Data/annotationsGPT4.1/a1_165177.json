@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "44 per",
+    "unit": "cent in rural areas",
+    "eventType": "EventP",
+    "eventDescription": "children with access to television"
+  },
+  {
+    "quantity": "75 per cent",
+    "unit": "in urban areas",
+    "eventType": "EventP",
+    "eventDescription": "children with access to television"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "in rural areas",
+    "eventType": "EventP",
+    "eventDescription": "children with access to internet"
+  },
+  {
+    "quantity": "7 per cent",
+    "unit": "of the poorest quintile",
+    "eventType": "EventP",
+    "eventDescription": "children with access to internet"
+  },
+  {
+    "quantity": "3 per cent",
+    "unit": "in rural areas",
+    "eventType": "EventP",
+    "eventDescription": "children with access to computers"
+  },
+  {
+    "quantity": "three million",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children at risk of undernutrition"
+  }
+]

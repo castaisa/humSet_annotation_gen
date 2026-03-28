@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "four",
+    "unit": "regions",
+    "eventType": "EventO",
+    "eventDescription": "actions continued"
+  },
+  {
+    "quantity": "338",
+    "unit": "safe spaces",
+    "eventType": "EventA",
+    "eventDescription": "opened"
+  },
+  {
+    "quantity": "194",
+    "unit": "safe spaces",
+    "eventType": "EventA",
+    "eventDescription": "opened in the East"
+  },
+  {
+    "quantity": "34",
+    "unit": "safe spaces",
+    "eventType": "EventA",
+    "eventDescription": "opened in the Sahel"
+  },
+  {
+    "quantity": "100",
+    "unit": "safe spaces",
+    "eventType": "EventA",
+    "eventDescription": "opened in the Boucle du Mouhoun"
+  },
+  {
+    "quantity": "10",
+    "unit": "safe spaces",
+    "eventType": "EventA",
+    "eventDescription": "opened in the Center North"
+  },
+  {
+    "quantity": "8,725",
+    "unit": "adolescents",
+    "eventType": "EventP",
+    "eventDescription": "benefited"
+  },
+  {
+    "quantity": "6,797",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "benefited"
+  },
+  {
+    "quantity": "1,928",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "benefited"
+  },
+  {
+    "quantity": "22",
+    "unit": "actors",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  },
+  {
+    "quantity": "32",
+    "unit": "spaces",
+    "eventType": "EventA",
+    "eventDescription": "established"
+  }
+]

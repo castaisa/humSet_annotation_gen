@@ -1,0 +1,176 @@
+[
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 117,
+      "end": 120
+    },
+    "eventDescription": {
+      "text": "Risk communication and community engagement (RCCE) activities",
+      "begin": 0,
+      "end": 61
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "states",
+      "begin": 121,
+      "end": 127
+    }
+  },
+  {
+    "quantity": {
+      "text": "516,424",
+      "begin": 169,
+      "end": 176
+    },
+    "unit": {
+      "text": "people",
+      "begin": 177,
+      "end": 183
+    },
+    "eventDescription": {
+      "text": "reached 5 with COVID-19 key mitigation messages",
+      "begin": 225,
+      "end": 272
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "224,593",
+      "begin": 185,
+      "end": 192
+    },
+    "unit": {
+      "text": "males",
+      "begin": 193,
+      "end": 198
+    }
+  },
+  {
+    "quantity": {
+      "text": "291,831",
+      "begin": 203,
+      "end": 210
+    },
+    "unit": {
+      "text": "females",
+      "begin": 211,
+      "end": 218
+    }
+  },
+  {
+    "quantity": {
+      "text": "292,308",
+      "begin": 341,
+      "end": 348
+    },
+    "unit": {
+      "text": "people",
+      "begin": 349,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 361,
+      "end": 368
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "179",
+      "begin": 419,
+      "end": 422
+    },
+    "unit": {
+      "text": "community mobilizers",
+      "begin": 423,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "oriented on COVID-19 risk communication",
+      "begin": 520,
+      "end": 559
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "659",
+      "begin": 448,
+      "end": 451
+    },
+    "unit": {
+      "text": "community influencers",
+      "begin": 452,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "oriented on COVID-19 risk communication",
+      "begin": 520,
+      "end": 559
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 586,
+      "end": 588
+    },
+    "unit": {
+      "text": "radio stations",
+      "begin": 589,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "7,179",
+      "begin": 616,
+      "end": 621
+    },
+    "unit": {
+      "text": "radio jingles",
+      "begin": 622,
+      "end": 635
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 668,
+      "end": 670
+    },
+    "unit": {
+      "text": "widely spoken languages",
+      "begin": 671,
+      "end": 694
+    }
+  },
+  {
+    "quantity": {
+      "text": "155",
+      "begin": 714,
+      "end": 717
+    },
+    "unit": {
+      "text": "talk shows",
+      "begin": 718,
+      "end": 728
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 967,
+      "end": 971
+    },
+    "unit": {
+      "text": "radio stations",
+      "begin": 972,
+      "end": 986
+    }
+  }
+]

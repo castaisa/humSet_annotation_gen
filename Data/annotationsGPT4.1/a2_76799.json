@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "81",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "39",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "nine",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "one",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "59%",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "from two states"
+  },
+  {
+    "quantity": "28%",
+    "unit": "Delta",
+    "eventType": "EventO",
+    "eventDescription": "proportion of confirmed cases"
+  },
+  {
+    "quantity": "26%",
+    "unit": "Lagos",
+    "eventType": "EventO",
+    "eventDescription": "proportion of confirmed cases"
+  },
+  {
+    "quantity": "21-40",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "most affected age-group"
+  },
+  {
+    "quantity": "15-51",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age range"
+  },
+  {
+    "quantity": "32",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "median age"
+  },
+  {
+    "quantity": "84.6%",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "male"
+  },
+  {
+    "quantity": "2.6:1",
+    "unit": "male to female ratio",
+    "eventType": "EventP",
+    "eventDescription": "gender ratio"
+  },
+  {
+    "quantity": "176",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "nine",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "18",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  }
+]

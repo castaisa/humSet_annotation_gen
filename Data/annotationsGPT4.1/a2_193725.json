@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": "two",
+    "unit": "municipalities",
+    "eventType": "EventO",
+    "eventDescription": "very high global acute malnutrition (GAM) prevalence"
+  },
+  {
+    "quantity": "16.1 per cent",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "GAM prevalence in Barsalogho IDP site"
+  },
+  {
+    "quantity": "4.3 per cent",
+    "unit": "SAM",
+    "eventType": "EventP",
+    "eventDescription": "SAM prevalence in Barsalogho IDP site"
+  },
+  {
+    "quantity": "18.4 per cent",
+    "unit": "Global Acute Malnutrition (MAG)",
+    "eventType": "EventP",
+    "eventDescription": "MAG prevalence in Gorom-Gorom"
+  },
+  {
+    "quantity": "6 per cent",
+    "unit": "Severe Acute Malnutrition (SAM)",
+    "eventType": "EventP",
+    "eventDescription": "SAM prevalence in Gorom-Gorom"
+  },
+  {
+    "quantity": "four",
+    "unit": "municipalities",
+    "eventType": "EventO",
+    "eventDescription": "high GAM rate"
+  },
+  {
+    "quantity": "10 per cent",
+    "unit": "GAM rate",
+    "eventType": "EventP",
+    "eventDescription": "lower bound of high GAM rate"
+  },
+  {
+    "quantity": "15 per cent",
+    "unit": "GAM rate",
+    "eventType": "EventP",
+    "eventDescription": "upper bound of high GAM rate"
+  },
+  {
+    "quantity": "five",
+    "unit": "municipalities",
+    "eventType": "EventO",
+    "eventDescription": "moderate prevalence of GAM"
+  },
+  {
+    "quantity": "10%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "upper bound of moderate GAM prevalence"
+  },
+  {
+    "quantity": "6-23",
+    "unit": "months",
+    "eventType": "EventP",
+    "eventDescription": "age group of children more vulnerable to GAM"
+  },
+  {
+    "quantity": "24-59",
+    "unit": "months",
+    "eventType": "EventP",
+    "eventDescription": "age group of children less vulnerable to GAM"
+  },
+  {
+    "quantity": "2 per cent",
+    "unit": "infant mortality rates",
+    "eventType": "EventP",
+    "eventDescription": "emergency threshold for infant mortality rates"
+  },
+  {
+    "quantity": "1.3 per cent",
+    "unit": "mortality rates",
+    "eventType": "EventP",
+    "eventDescription": "mortality rate in Barsalogho"
+  },
+  {
+    "quantity": "1.7 per cent",
+    "unit": "mortality rates",
+    "eventType": "EventP",
+    "eventDescription": "mortality rate in Gorgadji"
+  },
+  {
+    "quantity": "1 per cent",
+    "unit": "mortality rates",
+    "eventType": "EventP",
+    "eventDescription": "mortality rate reached in Gorgadji"
+  },
+  {
+    "quantity": "11",
+    "unit": "municipalities",
+    "eventType": "EventO",
+    "eventDescription": "municipalities surveyed"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "quantity": {
+      "text": "75.1%",
+      "begin": 24,
+      "end": 29
+    },
+    "unit": {
+      "text": "total confirmed cases",
+      "begin": 33,
+      "end": 54
+    }
+  },
+  {
+    "quantity": {
+      "text": "16.6%",
+      "begin": 74,
+      "end": 79
+    },
+    "unit": {
+      "text": "total confirmed cases",
+      "begin": 33,
+      "end": 54
+    }
+  },
+  {
+    "quantity": {
+      "text": "88",
+      "begin": 93,
+      "end": 95
+    },
+    "unit": {
+      "text": "contacts",
+      "begin": 96,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "monitored",
+      "begin": 123,
+      "end": 132
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "595",
+      "begin": 152,
+      "end": 155
+    },
+    "unit": {
+      "text": "Households",
+      "begin": 156,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 191,
+      "end": 198
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,939",
+      "begin": 172,
+      "end": 177
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 178,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 191,
+      "end": 198
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 231,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "monitoring",
+      "begin": 217,
+      "end": 227
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "contacts",
+      "begin": 234,
+      "end": 242
+    }
+  },
+  {
+    "quantity": {
+      "text": "116",
+      "begin": 309,
+      "end": 312
+    },
+    "unit": {
+      "text": "contacts",
+      "begin": 313,
+      "end": 321
+    },
+    "eventDescription": {
+      "text": "monitored",
+      "begin": 332,
+      "end": 341
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,306",
+      "begin": 354,
+      "end": 359
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 360,
+      "end": 367
+    },
+    "eventDescription": {
+      "text": "tested",
+      "begin": 368,
+      "end": 374
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "164",
+      "begin": 343,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "tested",
+      "begin": 368,
+      "end": 374
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12.6%",
+      "begin": 417,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "positivity rate",
+      "begin": 398,
+      "end": 413
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "38.4%",
+      "begin": 430,
+      "end": 435
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 439,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "known contacts of previously confirmed cases",
+      "begin": 459,
+      "end": 503
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16.5%",
+      "begin": 507,
+      "end": 512
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 516,
+      "end": 531
+    }
+  }
+]

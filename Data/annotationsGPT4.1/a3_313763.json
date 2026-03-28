@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "400",
+    "unit": "displaced people",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "150",
+    "unit": "under-five children",
+    "eventType": "EventP",
+    "eventDescription": "under-five children"
+  },
+  {
+    "quantity": "45",
+    "unit": "pregnant women",
+    "eventType": "EventP",
+    "eventDescription": "pregnant women"
+  },
+  {
+    "quantity": "at least 500m",
+    "unit": "distance",
+    "eventType": "EventO",
+    "eventDescription": "walk to find untreated open well water",
+    "modifier": "at least"
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "quantity": {
+      "text": "04",
+      "begin": 51,
+      "end": 53
+    },
+    "unit": {
+      "text": "WASH facilities",
+      "begin": 54,
+      "end": 69
+    },
+    "eventDescription": {
+      "text": "disinfected",
+      "begin": 111,
+      "end": 122
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "03",
+      "begin": 74,
+      "end": 76
+    },
+    "unit": {
+      "text": "public spaces and infrastructures",
+      "begin": 77,
+      "end": 110
+    },
+    "eventDescription": {
+      "text": "disinfected",
+      "begin": 111,
+      "end": 122
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 167,
+      "end": 169
+    },
+    "unit": {
+      "text": "RCY volunteers",
+      "begin": 191,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "engaged",
+      "begin": 211,
+      "end": 218
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 222,
+      "end": 224
+    },
+    "unit": {
+      "text": "pcs soap bars",
+      "begin": 225,
+      "end": 238
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 239,
+      "end": 250
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "01",
+      "begin": 254,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 239,
+      "end": 250
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "COVID-19 suspected referral household",
+      "begin": 257,
+      "end": 294
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 305,
+      "end": 307
+    },
+    "unit": {
+      "text": "HHs",
+      "begin": 308,
+      "end": 311
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 324,
+      "end": 331
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "99",
+      "begin": 313,
+      "end": 315
+    },
+    "unit": {
+      "text": "people",
+      "begin": 316,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 324,
+      "end": 331
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 464,
+      "end": 467
+    },
+    "unit": {
+      "text": "ml",
+      "begin": 467,
+      "end": 469
+    },
+    "eventDescription": {
+      "text": "emergency preparedness and response activity",
+      "begin": 579,
+      "end": 623
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "01",
+      "begin": 497,
+      "end": 499
+    },
+    "unit": {
+      "text": "pair gloves & kitchen sponge)",
+      "begin": 500,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "emergency preparedness and response activity",
+      "begin": 579,
+      "end": 623
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "0.1%",
+      "begin": 444,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "emergency preparedness and response activity",
+      "begin": 579,
+      "end": 623
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 649,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "Signboard installed",
+      "begin": 626,
+      "end": 645
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "schools",
+      "begin": 652,
+      "end": 659
+    }
+  },
+  {
+    "quantity": {
+      "text": "01",
+      "begin": 687,
+      "end": 689
+    },
+    "unit": {
+      "text": "batch RCY Volunteers",
+      "begin": 690,
+      "end": 710
+    },
+    "eventDescription": {
+      "text": "training",
+      "begin": 711,
+      "end": 719
+    },
+    "eventType": "EventO"
+  }
+]

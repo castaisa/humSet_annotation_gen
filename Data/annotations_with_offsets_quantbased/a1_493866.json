@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 98,
+      "end": 100
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 101,
+      "end": 107
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 101,
+      "end": 107
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "137",
+      "start": 241,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "AWD and cholera cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 245,
+      "end": 250
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 261,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 264,
+      "end": 270
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 264,
+      "end": 270
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "nine",
+      "start": 278,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "LGAs affected",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 283,
+      "end": 287
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50",
+      "start": 329,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "cumulative cases",
+      "start": 332,
+      "end": 348
+    },
+    "unit": {
+      "text": "cases",
+      "start": 343,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 353,
+      "end": 354
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 355,
+      "end": 361
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 355,
+      "end": 361
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "31",
+      "start": 402,
+      "end": 404
+    },
+    "eventDescription": {
+      "text": "still in admission",
+      "start": 409,
+      "end": 427
+    },
+    "unit": {
+      "text": "cases",
+      "start": 395,
+      "end": 400
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "91",
+      "start": 434,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "discharged from health facilities",
+      "start": 453,
+      "end": 486
+    },
+    "unit": {
+      "text": "cases",
+      "start": 437,
+      "end": 442
+    }
+  }
+]

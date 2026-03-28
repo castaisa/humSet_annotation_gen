@@ -1,0 +1,94 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7.16 million",
+      "start": 70,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "provided with emergency food assistance",
+      "start": 95,
+      "end": 134
+    },
+    "unit": {
+      "text": "people",
+      "start": 83,
+      "end": 89
+    },
+    "modifier": {
+      "text": "on average",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 871,000",
+      "start": 205,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "got livelihoods assistance",
+      "start": 233,
+      "end": 259
+    },
+    "unit": {
+      "text": "beneficiaries",
+      "start": 219,
+      "end": 232
+    },
+    "modifier": {
+      "text": "about",
+      "start": 205,
+      "end": 210
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 82,000",
+      "start": 422,
+      "end": 434
+    },
+    "eventDescription": {
+      "text": "provided food assistance",
+      "start": 394,
+      "end": 418
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 435,
+      "end": 446
+    },
+    "modifier": {
+      "text": "about",
+      "start": 422,
+      "end": 427
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "approximately 7.6 million",
+      "start": 536,
+      "end": 561
+    },
+    "eventDescription": {
+      "text": "provided with general food assistance",
+      "start": 582,
+      "end": 619
+    },
+    "unit": {
+      "text": "people",
+      "start": 562,
+      "end": 568
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 536,
+      "end": 549
+    }
+  }
+]

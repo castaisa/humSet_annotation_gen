@@ -1,0 +1,175 @@
+[
+  {
+    "quantity": {
+      "text": "two-thirds",
+      "begin": 263,
+      "end": 273
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 277,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "reported multiple floods",
+      "begin": 281,
+      "end": 305
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "66%",
+      "begin": 307,
+      "end": 310
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 277,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "reported multiple floods",
+      "begin": 281,
+      "end": 305
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 319,
+      "end": 322
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 277,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "reported one flood taking place",
+      "begin": 323,
+      "end": 354
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "83%",
+      "begin": 487,
+      "end": 490
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 494,
+      "end": 497
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 498,
+      "end": 506
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two-thirds",
+      "begin": 520,
+      "end": 530
+    },
+    "modifier": {
+      "text": "greater than",
+      "begin": 507,
+      "end": 519
+    },
+    "unit": {
+      "text": "households",
+      "begin": 534,
+      "end": 544
+    },
+    "eventDescription": {
+      "text": "abandoned",
+      "begin": 551,
+      "end": 560
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one-fifth",
+      "begin": 584,
+      "end": 593
+    },
+    "unit": {
+      "text": "households",
+      "begin": 597,
+      "end": 607
+    },
+    "eventDescription": {
+      "text": "reported a partially damaged or completely destroyed shelter",
+      "begin": 608,
+      "end": 668
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21%",
+      "begin": 670,
+      "end": 673
+    },
+    "unit": {
+      "text": "households",
+      "begin": 597,
+      "end": 607
+    },
+    "eventDescription": {
+      "text": "reported a partially damaged or completely destroyed shelter",
+      "begin": 608,
+      "end": 668
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one-third",
+      "begin": 731,
+      "end": 740
+    },
+    "unit": {
+      "text": "households",
+      "begin": 759,
+      "end": 769
+    }
+  },
+  {
+    "quantity": {
+      "text": "two-thirds",
+      "begin": 745,
+      "end": 755
+    },
+    "unit": {
+      "text": "households",
+      "begin": 759,
+      "end": 769
+    }
+  },
+  {
+    "quantity": {
+      "text": "45%",
+      "begin": 784,
+      "end": 787
+    },
+    "unit": {
+      "text": "households",
+      "begin": 759,
+      "end": 769
+    },
+    "eventDescription": {
+      "text": "abandoned",
+      "begin": 773,
+      "end": 782
+    },
+    "eventType": "EventP"
+  }
+]

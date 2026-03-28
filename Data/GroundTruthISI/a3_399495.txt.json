@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 294,
+      "end": 296
+    },
+    "eventDescription": {
+      "text": "established a community-based structure",
+      "begin": 242,
+      "end": 281
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "protection coordinators",
+      "begin": 297,
+      "end": 320
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 327,
+      "end": 330
+    },
+    "eventDescription": {
+      "text": "established a community-based structure",
+      "begin": 242,
+      "end": 281
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "protection monitors",
+      "begin": 331,
+      "end": 350
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 359,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "established a community-based structure",
+      "begin": 242,
+      "end": 281
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "nearly",
+      "begin": 352,
+      "end": 358
+    },
+    "unit": {
+      "text": "human rights monitors",
+      "begin": 362,
+      "end": 383
+    }
+  },
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 388,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "established a community-based structure",
+      "begin": 242,
+      "end": 281
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "protection action group members",
+      "begin": 392,
+      "end": 423
+    }
+  },
+  {
+    "quantity": {
+      "text": "148,000",
+      "begin": 644,
+      "end": 651
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 637,
+      "end": 643
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 652,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "benefitted from awareness campaigns on GBV and COVID-19",
+      "begin": 657,
+      "end": 712
+    },
+    "eventType": "EventA"
+  }
+]

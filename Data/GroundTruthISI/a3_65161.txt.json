@@ -1,0 +1,122 @@
+[
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 11,
+      "end": 13
+    },
+    "unit": {
+      "text": "organizations",
+      "begin": 14,
+      "end": 27
+    },
+    "eventDescription": {
+      "text": "providing direct emergency assistance",
+      "begin": 32,
+      "end": 69
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,800",
+      "begin": 612,
+      "end": 617
+    },
+    "unit": {
+      "text": "Arrival flows",
+      "begin": 485,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 588,
+      "end": 592
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3,000",
+      "begin": 628,
+      "end": 633
+    },
+    "unit": {
+      "text": "Arrival flows",
+      "begin": 485,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 588,
+      "end": 592
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8,000",
+      "begin": 712,
+      "end": 717
+    },
+    "unit": {
+      "text": "arrivals",
+      "begin": 718,
+      "end": 726
+    }
+  },
+  {
+    "quantity": {
+      "text": "400",
+      "begin": 881,
+      "end": 884
+    },
+    "unit": {
+      "text": "per day",
+      "begin": 885,
+      "end": 892
+    },
+    "eventDescription": {
+      "text": "numbers have since steadily declined",
+      "begin": 777,
+      "end": 813
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 1004,
+      "end": 1006
+    },
+    "unit": {
+      "text": "humanitarian organizations",
+      "begin": 1007,
+      "end": 1033
+    },
+    "eventDescription": {
+      "text": "involved in the response.",
+      "begin": 1073,
+      "end": 1098
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 1038,
+      "end": 1043
+    },
+    "unit": {
+      "text": "government institutions",
+      "begin": 1044,
+      "end": 1067
+    },
+    "eventDescription": {
+      "text": "involved in the response.",
+      "begin": 1073,
+      "end": 1098
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "0%",
+    "unit": "of assessed settlements",
+    "eventType": "EventP",
+    "eventDescription": "reported adequate access to food"
+  },
+  {
+    "quantity": "60%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "reported adequate access to food"
+  },
+  {
+    "quantity": "63%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "reported adequate access to food"
+  },
+  {
+    "quantity": "36%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "reported fighting destroying crops"
+  },
+  {
+    "quantity": "21%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "reported flooding destroying crops"
+  },
+  {
+    "quantity": "6,486",
+    "unit": "of metric tons of cereals",
+    "eventType": "EventA",
+    "eventDescription": "reported deficit"
+  }
+]

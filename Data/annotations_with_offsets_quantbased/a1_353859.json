@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "13.15 per cent",
+      "start": 127,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "rose",
+      "start": 119,
+      "end": 123
+    },
+    "unit": {
+      "text": "core inflation",
+      "start": 44,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "12.72 per cent",
+      "start": 147,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "previous value",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "core inflation",
+      "start": 44,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1.24 per cent",
+      "start": 241,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "increased",
+      "start": 228,
+      "end": 237
+    },
+    "unit": {
+      "text": "core sub-index",
+      "start": 213,
+      "end": 227
+    }
+  }
+]

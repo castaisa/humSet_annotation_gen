@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 38,
+      "end": 41
+    },
+    "unit": {
+      "text": "export orders",
+      "begin": 45,
+      "end": 58
+    },
+    "eventDescription": {
+      "text": "cancelled",
+      "begin": 101,
+      "end": 110
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54m",
+      "begin": 84,
+      "end": 87
+    },
+    "unit": {
+      "text": "$",
+      "begin": 83,
+      "end": 84
+    }
+  },
+  {
+    "quantity": {
+      "text": "39m",
+      "begin": 90,
+      "end": 93
+    },
+    "unit": {
+      "text": "£",
+      "begin": 89,
+      "end": 90
+    }
+  }
+]

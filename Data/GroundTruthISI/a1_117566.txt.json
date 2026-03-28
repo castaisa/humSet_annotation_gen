@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "14 million",
+      "begin": 341,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "allocated",
+      "begin": 327,
+      "end": 336
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "USD",
+      "begin": 337,
+      "end": 340
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cancelled",
+      "start": 101,
+      "end": 110
+    },
+    "modifier": {
+      "text": "about",
+      "start": 77,
+      "end": 82
+    },
+    "quantity": {
+      "text": "80%",
+      "start": 38,
+      "end": 41
+    },
+    "unit": {
+      "text": "export orders",
+      "start": 45,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "worth",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "$54m",
+      "start": 83,
+      "end": 87
+    },
+    "unit": {
+      "text": "export orders",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lost",
+      "start": 441,
+      "end": 445
+    },
+    "quantity": {
+      "text": "zero",
+      "start": 428,
+      "end": 432
+    },
+    "unit": {
+      "text": "capital",
+      "start": 450,
+      "end": 457
+    }
+  }
+]

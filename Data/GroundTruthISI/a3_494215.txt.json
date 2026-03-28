@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "two percent",
+      "begin": 129,
+      "end": 140
+    },
+    "unit": {
+      "text": "national average retail price of wheat flour",
+      "begin": 39,
+      "end": 83
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 101,
+      "end": 110
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,913",
+      "begin": 155,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 142,
+      "end": 150
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 160,
+      "end": 163
+    }
+  },
+  {
+    "quantity": {
+      "text": "26 percent",
+      "begin": 205,
+      "end": 215
+    },
+    "unit": {
+      "text": "wheat flour price",
+      "begin": 169,
+      "end": 186
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 192,
+      "end": 201
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "88 percent",
+      "begin": 249,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 192,
+      "end": 201
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "y-o-y",
+      "begin": 260,
+      "end": 265
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,096",
+      "begin": 332,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "recorded the highest wheat flour price",
+      "begin": 276,
+      "end": 314
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 337,
+      "end": 340
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,088",
+      "begin": 389,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "recorded the highest wheat flour price",
+      "begin": 276,
+      "end": 314
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 394,
+      "end": 397
+    }
+  },
+  {
+    "quantity": {
+      "text": "10 percent",
+      "begin": 345,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 342,
+      "end": 344
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 356,
+      "end": 361
+    }
+  },
+  {
+    "quantity": {
+      "text": "four percent",
+      "begin": 402,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 399,
+      "end": 401
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 415,
+      "end": 420
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,569",
+      "begin": 471,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "recorded the lowest price",
+      "begin": 438,
+      "end": 463
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 476,
+      "end": 479
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,695",
+      "begin": 534,
+      "end": 539
+    },
+    "eventDescription": {
+      "text": "recorded the lowest price",
+      "begin": 438,
+      "end": 463
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 539,
+      "end": 542
+    }
+  },
+  {
+    "quantity": {
+      "text": "one percent",
+      "begin": 484,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "up",
+      "begin": 481,
+      "end": 483
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 496,
+      "end": 501
+    }
+  },
+  {
+    "quantity": {
+      "text": "three percent",
+      "begin": 549,
+      "end": 562
+    },
+    "eventDescription": {
+      "text": "down",
+      "begin": 544,
+      "end": 548
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 563,
+      "end": 568
+    }
+  }
+]

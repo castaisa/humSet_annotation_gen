@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "107",
+      "begin": 102,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 90,
+      "end": 97
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/ bundle",
+      "begin": 105,
+      "end": 113
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven percent",
+      "begin": 118,
+      "end": 131
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 132,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 218,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "increased subsidised bread prices",
+      "begin": 175,
+      "end": 208
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/bundle",
+      "begin": 220,
+      "end": 227
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 278,
+      "end": 281
+    },
+    "eventDescription": {
+      "text": "increased subsidised bread prices",
+      "begin": 175,
+      "end": 208
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/bundle",
+      "begin": 281,
+      "end": 288
+    }
+  },
+  {
+    "quantity": {
+      "text": "75",
+      "begin": 235,
+      "end": 237
+    },
+    "unit": {
+      "text": "/bundle",
+      "begin": 237,
+      "end": 244
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.3",
+      "begin": 373,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "weight of the bread bundle reduced",
+      "begin": 333,
+      "end": 367
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "kg/bundle",
+      "begin": 376,
+      "end": 385
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.1",
+      "begin": 389,
+      "end": 392
+    },
+    "unit": {
+      "text": "kg/bundle",
+      "begin": 392,
+      "end": 401
+    }
+  },
+  {
+    "quantity": {
+      "text": "95",
+      "begin": 526,
+      "end": 528
+    },
+    "eventDescription": {
+      "text": "subsidized bread price increase",
+      "begin": 456,
+      "end": 487
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/bundle",
+      "begin": 528,
+      "end": 535
+    }
+  },
+  {
+    "quantity": {
+      "text": "107",
+      "begin": 543,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "subsidized bread price increase",
+      "begin": 456,
+      "end": 487
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/bundle",
+      "begin": 546,
+      "end": 553
+    }
+  }
+]

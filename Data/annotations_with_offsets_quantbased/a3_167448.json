@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "300",
+      "start": 223,
+      "end": 226
+    },
+    "eventDescription": {
+      "text": "screened for nutritional deficiencies",
+      "start": 278,
+      "end": 315
+    },
+    "unit": {
+      "text": "migrant children under five years of age",
+      "start": 227,
+      "end": 267
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one quarter",
+      "start": 334,
+      "end": 345
+    },
+    "eventDescription": {
+      "text": "were not eating three times a day",
+      "start": 358,
+      "end": 391
+    },
+    "unit": {
+      "text": "migrants",
+      "start": 349,
+      "end": 357
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 374,
+      "end": 379
+    },
+    "eventDescription": {
+      "text": "frequency of eating",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "times a day",
+      "start": 380,
+      "end": 391
+    }
+  }
+]

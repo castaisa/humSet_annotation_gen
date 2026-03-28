@@ -1,0 +1,64 @@
+[
+  {
+    "quantity": "one-third",
+    "unit": "of delivery",
+    "eventType": "EventO",
+    "eventDescription": "carried out at home",
+    "modifier": "around"
+  },
+  {
+    "quantity": "106",
+    "unit": "babies",
+    "eventType": "EventP",
+    "eventDescription": "born during the pandemic situation"
+  },
+  {
+    "quantity": "Half",
+    "unit": "of the delivery",
+    "eventType": "EventO",
+    "eventDescription": "carried out in private clinics"
+  },
+  {
+    "quantity": "one-third",
+    "unit": "of delivery",
+    "eventType": "EventO",
+    "eventDescription": "done at home",
+    "modifier": "around"
+  },
+  {
+    "quantity": "29%",
+    "unit": "of delivery",
+    "eventType": "EventO",
+    "eventDescription": "done at home"
+  },
+  {
+    "quantity": "23%",
+    "unit": "of cases",
+    "eventType": "EventP",
+    "eventDescription": "people went to government-owned health facilities"
+  },
+  {
+    "quantity": "13%",
+    "unit": "of cases",
+    "eventType": "EventP",
+    "eventDescription": "people went to Upazila health complexes"
+  },
+  {
+    "quantity": "5%",
+    "unit": "of cases",
+    "eventType": "EventP",
+    "eventDescription": "people went to medical college hospitals"
+  },
+  {
+    "quantity": "3%",
+    "unit": "of cases",
+    "eventType": "EventP",
+    "eventDescription": "people went to union family planning centres"
+  },
+  {
+    "quantity": "46.4%",
+    "unit": "of delivery",
+    "eventType": "EventO",
+    "eventDescription": "delivery at non-institutional places"
+  }
+]

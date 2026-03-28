@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "28,093",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "sensitized on key messages on infant and young child feeding practices integrating COVID-19 specific messages"
+  },
+  {
+    "quantity": "9,496",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "sensitized on key messages on infant and young child feeding practices integrating COVID-19 specific messages"
+  },
+  {
+    "quantity": "18,597",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "sensitized on key messages on infant and young child feeding practices integrating COVID-19 specific messages"
+  },
+  {
+    "quantity": "40",
+    "unit": "health workers",
+    "eventType": "EventP",
+    "eventDescription": "participated in training on Blanket Supplementary Feeding Programmes (BSFP)"
+  },
+  {
+    "quantity": "2,378",
+    "unit": "caregivers",
+    "eventType": "EventP",
+    "eventDescription": "trained to detect and refer children suffering from SAM to treatment services"
+  }
+]

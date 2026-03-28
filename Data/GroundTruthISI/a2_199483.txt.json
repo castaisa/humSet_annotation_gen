@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "122,269",
+      "begin": 240,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "communal asset creation assistance",
+      "begin": 202,
+      "end": 236
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 248,
+      "end": 254
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.1 million",
+      "begin": 280,
+      "end": 291
+    },
+    "unit": {
+      "text": "$",
+      "begin": 279,
+      "end": 280
+    }
+  }
+]

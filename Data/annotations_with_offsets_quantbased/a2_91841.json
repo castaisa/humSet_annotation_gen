@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "27",
+      "start": 260,
+      "end": 262
+    },
+    "eventDescription": {
+      "text": "damaged",
+      "start": 291,
+      "end": 298
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 263,
+      "end": 280
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "14",
+      "start": 357,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "closed",
+      "start": 393,
+      "end": 399
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 360,
+      "end": 377
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "23",
+      "start": 412,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "at risk of closure",
+      "start": 425,
+      "end": 443
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 360,
+      "end": 377
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "ten",
+      "start": 500,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "reopened",
+      "start": 595,
+      "end": 603
+    },
+    "unit": {
+      "text": "schools",
+      "start": 504,
+      "end": 511
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "127,000",
+      "start": 614,
+      "end": 621
+    },
+    "eventDescription": {
+      "text": "returned to school",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "students",
+      "start": 622,
+      "end": 630
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "eight",
+      "start": 665,
+      "end": 670
+    },
+    "eventDescription": {
+      "text": "closed",
+      "start": 693,
+      "end": 699
+    },
+    "unit": {
+      "text": "schools",
+      "start": 671,
+      "end": 678
+    }
+  }
+]

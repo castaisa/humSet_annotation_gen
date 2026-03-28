@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 335,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "sought temporary shelter",
+      "begin": 307,
+      "end": 331
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 341,
+      "end": 348
+    }
+  },
+  {
+    "quantity": {
+      "text": "340",
+      "begin": 563,
+      "end": 566
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 567,
+      "end": 578
+    },
+    "eventDescription": {
+      "text": "received core-relief items",
+      "begin": 594,
+      "end": 620
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "140",
+      "begin": 580,
+      "end": 583
+    },
+    "unit": {
+      "text": "families",
+      "begin": 584,
+      "end": 592
+    },
+    "eventDescription": {
+      "text": "received core-relief items",
+      "begin": 594,
+      "end": 620
+    },
+    "eventType": "EventA"
+  }
+]

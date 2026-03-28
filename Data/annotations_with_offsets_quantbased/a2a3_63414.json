@@ -1,0 +1,236 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,519",
+      "start": 385,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 377,
+      "end": 384
+    },
+    "unit": {
+      "text": "participants",
+      "start": 391,
+      "end": 403
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,081",
+      "start": 415,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 377,
+      "end": 384
+    },
+    "unit": {
+      "text": "children",
+      "start": 421,
+      "end": 429
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,078",
+      "start": 431,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "from Wayúu ethnic group in Zulia",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 437,
+      "end": 445
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "141",
+      "start": 484,
+      "end": 487
+    },
+    "eventDescription": {
+      "text": "from Warao ethnic group in Bolívar",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 488,
+      "end": 496
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "59",
+      "start": 599,
+      "end": 601
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "start": 589,
+      "end": 598
+    },
+    "unit": {
+      "text": "activities",
+      "start": 602,
+      "end": 612
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10,062",
+      "start": 624,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "served",
+      "start": 617,
+      "end": 623
+    },
+    "unit": {
+      "text": "beneficiaries",
+      "start": 631,
+      "end": 644
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "11,060",
+      "start": 822,
+      "end": 828
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "water purification tablets",
+      "start": 829,
+      "end": 855
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "662",
+      "start": 1277,
+      "end": 1280
+    },
+    "eventDescription": {
+      "text": "carried out",
+      "start": 1253,
+      "end": 1264
+    },
+    "unit": {
+      "text": "malnutrition screenings",
+      "start": 1229,
+      "end": 1252
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "six",
+      "start": 1398,
+      "end": 1401
+    },
+    "eventDescription": {
+      "text": "issued birth certificates",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "adults",
+      "start": 1402,
+      "end": 1408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "310",
+      "start": 1631,
+      "end": 1634
+    },
+    "eventDescription": {
+      "text": "benefitted from paediatric",
+      "start": 1649,
+      "end": 1675
+    },
+    "unit": {
+      "text": "children",
+      "start": 1635,
+      "end": 1643
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "86",
+      "start": 1677,
+      "end": 1679
+    },
+    "eventDescription": {
+      "text": "received handwashing training",
+      "start": 1689,
+      "end": 1718
+    },
+    "unit": {
+      "text": "children",
+      "start": 1680,
+      "end": 1688
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "78",
+      "start": 1720,
+      "end": 1722
+    },
+    "eventDescription": {
+      "text": "registered and received birth certificate",
+      "start": 1737,
+      "end": 1778
+    },
+    "unit": {
+      "text": "children",
+      "start": 1723,
+      "end": 1731
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "164",
+      "start": 1784,
+      "end": 1787
+    },
+    "eventDescription": {
+      "text": "received water purification tablets and training",
+      "start": 1797,
+      "end": 1845
+    },
+    "unit": {
+      "text": "families",
+      "start": 1788,
+      "end": 1796
+    }
+  }
+]

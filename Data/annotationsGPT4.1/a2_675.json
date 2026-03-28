@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "30",
+    "unit": "day extension",
+    "eventType": "EventO",
+    "eventDescription": "extension to the re-opening of Al Hudaydah and Salif ports"
+  },
+  {
+    "quantity": "5",
+    "unit": "Phase",
+    "eventType": "EventO",
+    "eventDescription": "IPC Phase"
+  }
+]

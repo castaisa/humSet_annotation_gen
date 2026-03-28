@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,048",
+      "start": 67,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "start": 95,
+      "end": 121
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 73,
+      "end": 84
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7",
+      "start": 125,
+      "end": 126
+    },
+    "eventDescription": {
+      "text": "States for resettlement",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "States",
+      "start": 127,
+      "end": 133
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "253",
+      "start": 212,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "departed on resettlement",
+      "start": 233,
+      "end": 257
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 216,
+      "end": 227
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "118",
+      "start": 381,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "accepted for resettlement and pending departure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 385,
+      "end": 396
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "107",
+      "start": 517,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "accepted for resettlement to Canada and pending departure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 586,
+      "end": 597
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4",
+      "start": 531,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "accepted for resettlement to France and pending departure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 586,
+      "end": 597
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 552,
+      "end": 553
+    },
+    "eventDescription": {
+      "text": "accepted for resettlement to the Netherlands and pending departure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 586,
+      "end": 597
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 567,
+      "end": 568
+    },
+    "eventDescription": {
+      "text": "accepted for resettlement to Sweden and pending departure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 586,
+      "end": 597
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "699",
+      "start": 582,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement and pending interview or decision",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 586,
+      "end": 597
+    }
+  }
+]

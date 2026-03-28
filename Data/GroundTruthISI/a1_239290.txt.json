@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "5.24%",
+      "begin": 164,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "posted",
+      "begin": 125,
+      "end": 131
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "highest growth in Asia",
+      "begin": 136,
+      "end": 158
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,064",
+      "begin": 319,
+      "end": 324
+    },
+    "eventDescription": {
+      "text": "per capita income of the country has increased",
+      "begin": 268,
+      "end": 314
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "$",
+      "begin": 318,
+      "end": 319
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,15,548 crore",
+      "begin": 576,
+      "end": 590
+    },
+    "eventDescription": {
+      "text": "overall public expenditure in the FY20 stood",
+      "begin": 526,
+      "end": 570
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Tk",
+      "begin": 574,
+      "end": 576
+    }
+  },
+  {
+    "quantity": {
+      "text": "6.03%",
+      "begin": 601,
+      "end": 606
+    },
+    "unit": {
+      "text": "overall public expenditure in the FY20 stood",
+      "begin": 526,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "overall public expenditure in the FY20 stood",
+      "begin": 526,
+      "end": 570
+    },
+    "eventType": "EventO"
+  }
+]

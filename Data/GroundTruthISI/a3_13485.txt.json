@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "151",
+      "begin": 61,
+      "end": 64
+    },
+    "unit": {
+      "text": "vessels",
+      "begin": 65,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "discharged their cargo",
+      "begin": 78,
+      "end": 100
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "81",
+      "begin": 181,
+      "end": 183
+    },
+    "unit": {
+      "text": "transporting fuel",
+      "begin": 184,
+      "end": 201
+    },
+    "eventDescription": {
+      "text": "discharged their cargo",
+      "begin": 78,
+      "end": 100
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70",
+      "begin": 135,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "discharged their cargo",
+      "begin": 78,
+      "end": 100
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "vessels transporting food items",
+      "begin": 145,
+      "end": 176
+    }
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 212,
+      "end": 214
+    },
+    "unit": {
+      "text": "commercial vessels",
+      "begin": 215,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "discharged supplies",
+      "begin": 234,
+      "end": 253
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19 per cent",
+      "begin": 294,
+      "end": 305
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 306,
+      "end": 314
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "vessels",
+      "begin": 332,
+      "end": 339
+    }
+  },
+  {
+    "quantity": {
+      "text": "18 per cent",
+      "begin": 425,
+      "end": 436
+    },
+    "unit": {
+      "text": "food and fuel imports",
+      "begin": 391,
+      "end": 412
+    },
+    "eventDescription": {
+      "text": "declined",
+      "begin": 413,
+      "end": 421
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 441,
+      "end": 452
+    },
+    "unit": {
+      "text": "food and fuel imports",
+      "begin": 391,
+      "end": 412
+    },
+    "eventDescription": {
+      "text": "declined",
+      "begin": 413,
+      "end": 421
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 473,
+      "end": 476
+    },
+    "unit": {
+      "text": "containerized cargo vessel",
+      "begin": 477,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "arrived",
+      "begin": 508,
+      "end": 515
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "43 per cent",
+      "begin": 589,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 601,
+      "end": 609
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "vessels",
+      "begin": 613,
+      "end": 620
+    }
+  }
+]

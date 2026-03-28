@@ -1,0 +1,704 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "626",
+      "start": 95,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 125,
+      "end": 133
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": 99,
+      "end": 114
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "34",
+      "start": 139,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "reported from",
+      "start": 125,
+      "end": 138
+    },
+    "unit": {
+      "text": "states",
+      "start": 142,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "258",
+      "start": 166,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "reported from",
+      "start": 192,
+      "end": 205
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 170,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13",
+      "start": 237,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "reported from Adamawa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 253,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "reported from Akwa Ibom",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "47",
+      "start": 266,
+      "end": 268
+    },
+    "eventDescription": {
+      "text": "reported from Anambra",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25",
+      "start": 279,
+      "end": 281
+    },
+    "eventDescription": {
+      "text": "reported from Bauchi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14",
+      "start": 293,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "reported from Bayelsa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15",
+      "start": 305,
+      "end": 307
+    },
+    "eventDescription": {
+      "text": "reported from Benue",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "82",
+      "start": 317,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "reported from Borno",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9",
+      "start": 335,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "reported from Cross River",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14",
+      "start": 346,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "reported from Delta",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 359,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "reported from Ebonyi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "28",
+      "start": 368,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "reported from Edo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 380,
+      "end": 381
+    },
+    "eventDescription": {
+      "text": "reported from Ekiti",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "30",
+      "start": 391,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "reported from Enugu",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 407,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "reported from FCT Abuja",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16",
+      "start": 416,
+      "end": 418
+    },
+    "eventDescription": {
+      "text": "reported from Imo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23",
+      "start": 429,
+      "end": 431
+    },
+    "eventDescription": {
+      "text": "reported from Jigawa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14",
+      "start": 440,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "reported from Kano",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "52",
+      "start": 454,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "reported from Katsina",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15",
+      "start": 466,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "reported from Kebbi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7",
+      "start": 477,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "reported from Kogi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18",
+      "start": 488,
+      "end": 490
+    },
+    "eventDescription": {
+      "text": "reported from Kwara",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 500,
+      "end": 501
+    },
+    "eventDescription": {
+      "text": "reported from Lagos",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 514,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "reported from Nasarawa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "32",
+      "start": 526,
+      "end": 528
+    },
+    "eventDescription": {
+      "text": "reported from Niger",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 537,
+      "end": 539
+    },
+    "eventDescription": {
+      "text": "reported from Ogun",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13",
+      "start": 548,
+      "end": 550
+    },
+    "eventDescription": {
+      "text": "reported from Ondo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14",
+      "start": 559,
+      "end": 561
+    },
+    "eventDescription": {
+      "text": "reported from Osun",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19",
+      "start": 569,
+      "end": 571
+    },
+    "eventDescription": {
+      "text": "reported from Oyo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 583,
+      "end": 584
+    },
+    "eventDescription": {
+      "text": "reported from Plateau",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5",
+      "start": 595,
+      "end": 596
+    },
+    "eventDescription": {
+      "text": "reported from Rivers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4",
+      "start": 607,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "reported from Sokoto",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7",
+      "start": 619,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "reported from Taraba",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "56",
+      "start": 629,
+      "end": 631
+    },
+    "eventDescription": {
+      "text": "reported from Yobe",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9",
+      "start": 646,
+      "end": 647
+    },
+    "eventDescription": {
+      "text": "reported from Zamfara",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 676,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "259",
+      "start": 701,
+      "end": 704
+    },
+    "eventDescription": {
+      "text": "reported from",
+      "start": 687,
+      "end": 700
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 705,
+      "end": 709
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "34",
+      "start": 721,
+      "end": 723
+    },
+    "eventDescription": {
+      "text": "reported from",
+      "start": 687,
+      "end": 700
+    },
+    "unit": {
+      "text": "states",
+      "start": 724,
+      "end": 730
+    }
+  }
+]

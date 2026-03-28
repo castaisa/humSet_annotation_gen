@@ -1,0 +1,97 @@
+[
+  {
+    "quantity": {
+      "text": "15,000",
+      "begin": 912,
+      "end": 918
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 902,
+      "end": 911
+    },
+    "unit": {
+      "text": "people",
+      "begin": 919,
+      "end": 925
+    },
+    "eventDescription": {
+      "text": "were detained for political reasons",
+      "begin": 926,
+      "end": 961
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "800",
+      "begin": 1075,
+      "end": 1078
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 1068,
+      "end": 1074
+    },
+    "unit": {
+      "text": "people",
+      "begin": 1079,
+      "end": 1085
+    },
+    "eventDescription": {
+      "text": "remained arbitrarily detained",
+      "begin": 1086,
+      "end": 1115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8,600",
+      "begin": 1129,
+      "end": 1134
+    },
+    "eventDescription": {
+      "text": "had been conditionally released but were facing lengthy criminal proceedings",
+      "begin": 1135,
+      "end": 1211
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 1555,
+      "end": 1557
+    },
+    "unit": {
+      "text": "people",
+      "begin": 1558,
+      "end": 1564
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 1565,
+      "end": 1569
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "238",
+      "begin": 1635,
+      "end": 1638
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 1626,
+      "end": 1634
+    },
+    "eventDescription": {
+      "text": "were killed",
+      "begin": 1639,
+      "end": 1650
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "1,762,793 million",
+      "begin": 21,
+      "end": 38
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 39,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "remain displaced in camps and host communities",
+      "begin": 55,
+      "end": 101
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "24,872",
+      "begin": 493,
+      "end": 499
+    },
+    "unit": {
+      "text": "new arrivals",
+      "begin": 500,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 518,
+      "end": 526
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 742,
+      "end": 746
+    },
+    "unit": {
+      "text": "main triggers",
+      "begin": 747,
+      "end": 760
+    },
+    "eventDescription": {
+      "text": "for such movement",
+      "begin": 761,
+      "end": 778
+    },
+    "eventType": "EventO"
+  }
+]

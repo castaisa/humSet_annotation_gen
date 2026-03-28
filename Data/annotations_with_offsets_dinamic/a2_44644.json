@@ -1,0 +1,151 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "categorized with high or very high needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "39%",
+      "start": 98,
+      "end": 101
+    },
+    "unit": {
+      "text": "households",
+      "start": 41,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with unmet shelter/NFI needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "84%",
+      "start": 179,
+      "end": 182
+    },
+    "unit": {
+      "text": "households",
+      "start": 505,
+      "end": 515
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with unmet livelihoods needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "71%",
+      "start": 198,
+      "end": 201
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with unmet food security needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "63%",
+      "start": 219,
+      "end": 222
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with unmet protection needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38%",
+      "start": 237,
+      "end": 240
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with unmet WASH needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 249,
+      "end": 252
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with unmet nutrition needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15%",
+      "start": 270,
+      "end": 273
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported insecurity as a barrier to accessing agricultural land",
+      "start": 516,
+      "end": 579
+    },
+    "modifier": {
+      "text": "more than",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 581,
+      "end": 584
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  }
+]

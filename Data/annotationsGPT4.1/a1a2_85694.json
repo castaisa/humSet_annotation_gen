@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "1,000",
+    "unit": "Warao indigenous community members",
+    "eventType": "EventP",
+    "eventDescription": "arrived in Mabaruma"
+  },
+  {
+    "quantity": "4",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "not been vaccinated",
+    "modifier": "over"
+  }
+]

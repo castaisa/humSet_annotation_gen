@@ -1,0 +1,344 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 33,
+      "end": 41
+    },
+    "quantity": {
+      "text": "Two (2)",
+      "start": 0,
+      "end": 7
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 12,
+      "end": 27
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": 49,
+      "end": 56
+    },
+    "unit": {
+      "text": "case",
+      "start": 57,
+      "end": 61
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "remains",
+      "start": 144,
+      "end": 151
+    },
+    "quantity": {
+      "text": "forty-nine (49)",
+      "start": 152,
+      "end": 167
+    },
+    "unit": {
+      "text": "confirmed COVID-19 case(s)",
+      "start": 117,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Damaturu",
+      "start": 187,
+      "end": 200
+    },
+    "quantity": {
+      "text": "Twenty (20)",
+      "start": 169,
+      "end": 180
+    },
+    "unit": {
+      "text": "cases",
+      "start": 181,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Nguru",
+      "start": 220,
+      "end": 230
+    },
+    "quantity": {
+      "text": "eleven (11)",
+      "start": 202,
+      "end": 213
+    },
+    "unit": {
+      "text": "cases",
+      "start": 214,
+      "end": 219
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Bade",
+      "start": 247,
+      "end": 256
+    },
+    "quantity": {
+      "text": "nine (9)",
+      "start": 232,
+      "end": 240
+    },
+    "unit": {
+      "text": "cases",
+      "start": 241,
+      "end": 246
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Potiskum",
+      "start": 274,
+      "end": 287
+    },
+    "quantity": {
+      "text": "three (3)",
+      "start": 258,
+      "end": 267
+    },
+    "unit": {
+      "text": "cases",
+      "start": 268,
+      "end": 273
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Geidam",
+      "start": 311,
+      "end": 322
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": 293,
+      "end": 300
+    },
+    "unit": {
+      "text": "case",
+      "start": 301,
+      "end": 305
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Tarmuwa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 388,
+      "end": 392
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Bursari",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Fika",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Gulani",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from Gujba",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the state",
+      "start": 443,
+      "end": 455
+    },
+    "quantity": {
+      "text": "thirteen (13)",
+      "start": 459,
+      "end": 472
+    },
+    "unit": {
+      "text": "confirmed case(s) of COVID-19 amongst Health Care Workers (HCWs)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "amongst confirmed HCW cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Seven (7)",
+      "start": 474,
+      "end": 483
+    },
+    "unit": {
+      "text": "nurses",
+      "start": 484,
+      "end": 490
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "amongst confirmed HCW cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four (4)",
+      "start": 492,
+      "end": 500
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 501,
+      "end": 508
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "amongst confirmed HCW cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": 510,
+      "end": 517
+    },
+    "unit": {
+      "text": "physiotherapist",
+      "start": 518,
+      "end": 533
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "amongst confirmed HCW cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one (1)",
+      "start": 539,
+      "end": 546
+    },
+    "unit": {
+      "text": "laboratory scientist",
+      "start": 547,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "due to COVID-19 in the state",
+      "start": 597,
+      "end": 625
+    },
+    "quantity": {
+      "text": "six (6)",
+      "start": 629,
+      "end": 636
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 590,
+      "end": 596
+    }
+  }
+]

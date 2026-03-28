@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "69",
+    "unit": "healthcare workers",
+    "eventType": "EventP",
+    "eventDescription": "confirmed Coronavirus cases"
+  },
+  {
+    "quantity": "five",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "died of COVID-19",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "one",
+    "unit": "pharmacist",
+    "eventType": "EventP",
+    "eventDescription": "died of COVID-19"
+  }
+]

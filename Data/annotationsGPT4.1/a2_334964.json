@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": "nine out of ten",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported applying at least one food-based coping strategy"
+  },
+  {
+    "quantity": "91 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported applying at least one food-based coping strategy"
+  },
+  {
+    "quantity": "at least one",
+    "unit": "food-based coping strategy",
+    "eventType": "EventO",
+    "eventDescription": "applied by households",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in households applying food-based coping strategies"
+  },
+  {
+    "quantity": "seven out of ten",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in households buying food on credit"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "households in Quneitra",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit"
+  },
+  {
+    "quantity": "77 percent",
+    "unit": "households in Ar-Raqqa",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit"
+  },
+  {
+    "quantity": "76 percent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit"
+  },
+  {
+    "quantity": "76 percent",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit"
+  },
+  {
+    "quantity": "67 percent",
+    "unit": "residents",
+    "eventType": "EventP",
+    "eventDescription": "reported buying food on credit"
+  }
+]

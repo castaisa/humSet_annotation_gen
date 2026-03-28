@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 305,
+      "end": 307
+    },
+    "unit": {
+      "text": "bed capacity",
+      "begin": 308,
+      "end": 320
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 346,
+      "end": 349
+    },
+    "unit": {
+      "text": "operations rooms",
+      "begin": 350,
+      "end": 366
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,000",
+      "begin": 643,
+      "end": 648
+    },
+    "eventDescription": {
+      "text": "provided the medical supplies",
+      "begin": 609,
+      "end": 638
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "renal dialysis sessions",
+      "begin": 649,
+      "end": 672
+    }
+  },
+  {
+    "quantity": {
+      "text": "180",
+      "begin": 724,
+      "end": 727
+    },
+    "unit": {
+      "text": "kidney failure patients",
+      "begin": 728,
+      "end": 751
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 779,
+      "end": 782
+    },
+    "unit": {
+      "text": "months",
+      "begin": 783,
+      "end": 789
+    }
+  }
+]

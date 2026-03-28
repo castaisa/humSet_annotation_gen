@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "6 out of 13",
+      "begin": 562,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "massive population displacements",
+      "begin": 526,
+      "end": 558
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "regions",
+      "begin": 574,
+      "end": 581
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 562,
+      "end": 563
+    },
+    "eventDescription": {
+      "text": "massive population displacements",
+      "begin": 526,
+      "end": 558
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "regions",
+      "begin": 574,
+      "end": 581
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 571,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "massive population displacements",
+      "begin": 526,
+      "end": 558
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "regions",
+      "begin": 574,
+      "end": 581
+    }
+  }
+]

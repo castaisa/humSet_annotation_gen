@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "30",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reference to a footnote"
+  },
+  {
+    "quantity": "100 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "online coverage of Equal Place learning modality"
+  },
+  {
+    "quantity": "about 850",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "officially registered on the Equal Place programme",
+    "modifier": "about"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "increase in the number of children registered"
+  }
+]

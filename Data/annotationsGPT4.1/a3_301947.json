@@ -1,0 +1,65 @@
+[
+  {
+    "quantity": "287,600",
+    "unit": "refugees",
+    "eventType": "EventP",
+    "eventDescription": "in urgent need of nutrition interventions",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "140,374",
+    "unit": "children below five years old",
+    "eventType": "EventP",
+    "eventDescription": "in urgent need of nutrition interventions"
+  },
+  {
+    "quantity": "91,702",
+    "unit": "pregnant and lactating women",
+    "eventType": "EventP",
+    "eventDescription": "in urgent need of nutrition interventions"
+  },
+  {
+    "quantity": "32,605",
+    "unit": "infants and young children",
+    "eventType": "EventP",
+    "eventDescription": "in urgent need of nutrition interventions"
+  },
+  {
+    "quantity": "22,919",
+    "unit": "others",
+    "eventType": "EventP",
+    "eventDescription": "in urgent need of nutrition interventions"
+  },
+  {
+    "quantity": "13 per cent",
+    "unit": "GAM rate in the Shagarab camps",
+    "eventType": "EventP",
+    "eventDescription": "GAM rate indicated by SENS survey"
+  },
+  {
+    "quantity": "over 11 per cent",
+    "unit": "GAM rate for all other camps",
+    "eventType": "EventP",
+    "eventDescription": "GAM rate indicated by SENS survey",
+    "modifier": "over"
+  },
+  {
+    "quantity": "53 per cent",
+    "unit": "stunting prevalence in Shagarab camps",
+    "eventType": "EventP",
+    "eventDescription": "stunting prevalence is critical"
+  },
+  {
+    "quantity": "45 per cent",
+    "unit": "stunting prevalence for Abuda, Um Gargour and Fau 5",
+    "eventType": "EventP",
+    "eventDescription": "stunting prevalence is critical"
+  },
+  {
+    "quantity": ">40 per cent",
+    "unit": "anaemia rate among children under five years and women aged 15-49 years",
+    "eventType": "EventP",
+    "eventDescription": "high rates of anaemia",
+    "modifier": "over"
+  }
+]

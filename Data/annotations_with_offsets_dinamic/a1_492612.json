@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sent to beg",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50 percent",
+      "start": 88,
+      "end": 98
+    },
+    "unit": {
+      "text": "family members",
+      "start": 104,
+      "end": 118
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "engaged in illegal income activities",
+      "start": 137,
+      "end": 173
+    },
+    "quantity": {
+      "text": "7 percent",
+      "start": 127,
+      "end": 136
+    },
+    "unit": {
+      "text": "households",
+      "start": 283,
+      "end": 293
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sold their assets",
+      "start": 188,
+      "end": 205
+    },
+    "quantity": {
+      "text": "6 percent",
+      "start": 178,
+      "end": 187
+    },
+    "unit": {
+      "text": "households",
+      "start": 869,
+      "end": 879
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "spent their savings",
+      "start": 294,
+      "end": 313
+    },
+    "quantity": {
+      "text": "42 percent",
+      "start": 269,
+      "end": 279
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "withdrew their children from school",
+      "start": 329,
+      "end": 364
+    },
+    "quantity": {
+      "text": "24 percent",
+      "start": 318,
+      "end": 328
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "used emergency coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "69 percent",
+      "start": 485,
+      "end": 495
+    },
+    "unit": {
+      "text": "households in Damboa",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "used emergency coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "58 percent",
+      "start": 504,
+      "end": 514
+    },
+    "unit": {
+      "text": "households in Bama",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "used emergency coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "52 percent",
+      "start": 526,
+      "end": 536
+    },
+    "unit": {
+      "text": "households in Konduga",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "used emergency coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "47 percent",
+      "start": 546,
+      "end": 556
+    },
+    "unit": {
+      "text": "households in Gwoza",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "used emergency coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42 percent",
+      "start": 572,
+      "end": 582
+    },
+    "unit": {
+      "text": "households in Madagali",
+      "start": null,
+      "end": null
+    }
+  }
+]

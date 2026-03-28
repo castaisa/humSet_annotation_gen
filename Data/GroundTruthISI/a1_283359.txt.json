@@ -1,0 +1,223 @@
+[
+  {
+    "quantity": {
+      "text": "21,247",
+      "begin": 49,
+      "end": 55
+    },
+    "unit": {
+      "text": "confirmed cases of COVID-19",
+      "begin": 56,
+      "end": 83
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 89,
+      "end": 97
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "637",
+      "begin": 104,
+      "end": 107
+    },
+    "unit": {
+      "text": "confirmed cases of COVID-19",
+      "begin": 56,
+      "end": 83
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 89,
+      "end": 97
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 121,
+      "end": 126
+    },
+    "modifier": {
+      "text": "last",
+      "begin": 116,
+      "end": 120
+    },
+    "unit": {
+      "text": "days",
+      "begin": 127,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 147,
+      "end": 156
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "33",
+      "begin": 133,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 147,
+      "end": 156
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 157,
+      "end": 162
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,214",
+      "begin": 281,
+      "end": 286
+    },
+    "unit": {
+      "text": "cases from IDP camps",
+      "begin": 256,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "cases from IDP camps",
+      "begin": 256,
+      "end": 276
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10.5 per cent",
+      "begin": 288,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "cases from IDP camps",
+      "begin": 256,
+      "end": 276
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases from IDP camps",
+      "begin": 256,
+      "end": 276
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,849",
+      "begin": 318,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "cases",
+      "begin": 311,
+      "end": 316
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "health care workers",
+      "begin": 348,
+      "end": 367
+    }
+  },
+  {
+    "quantity": {
+      "text": "8.7 per cent",
+      "begin": 325,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "cases",
+      "begin": 311,
+      "end": 316
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "health care workers",
+      "begin": 348,
+      "end": 367
+    }
+  },
+  {
+    "quantity": {
+      "text": "869",
+      "begin": 467,
+      "end": 470
+    },
+    "eventDescription": {
+      "text": "cases",
+      "begin": 311,
+      "end": 316
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "other staff working in healthcare facilities/community health workers",
+      "begin": 490,
+      "end": 559
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.1 per cent",
+      "begin": 472,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "cases",
+      "begin": 311,
+      "end": 316
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "other staff working in healthcare facilities/community health workers",
+      "begin": 490,
+      "end": 559
+    }
+  },
+  {
+    "quantity": {
+      "text": "23.4 per cent",
+      "begin": 682,
+      "end": 695
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 625,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "test positivity rate",
+      "begin": 658,
+      "end": 678
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "90,438",
+      "begin": 618,
+      "end": 624
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 625,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "tested",
+      "begin": 643,
+      "end": 649
+    },
+    "eventType": "EventP"
+  }
+]

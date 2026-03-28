@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "100 per cent",
+      "start": 62,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "water supply coverage",
+      "start": 23,
+      "end": 44
+    },
+    "unit": {
+      "text": "urban communities",
+      "start": 78,
+      "end": 95
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "95 per cent",
+      "start": 100,
+      "end": 111
+    },
+    "eventDescription": {
+      "text": "water supply coverage",
+      "start": 23,
+      "end": 44
+    },
+    "unit": {
+      "text": "rural populations",
+      "start": 115,
+      "end": 132
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "60 per cent",
+      "start": 168,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "sanitation coverage",
+      "start": 144,
+      "end": 163
+    },
+    "unit": {
+      "text": "urban areas",
+      "start": 183,
+      "end": 194
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40 per cent",
+      "start": 199,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "sanitation coverage",
+      "start": 144,
+      "end": 163
+    },
+    "unit": {
+      "text": "rural areas",
+      "start": 214,
+      "end": 225
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "64 per cent",
+      "start": 293,
+      "end": 304
+    },
+    "eventDescription": {
+      "text": "have access to adequate drinking water sources",
+      "start": 334,
+      "end": 380
+    },
+    "unit": {
+      "text": "affected population",
+      "start": 314,
+      "end": 333
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4-5 hours",
+      "start": 413,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "duration of electricity cuts",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "most days",
+      "start": 426,
+      "end": 435
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "14 hours",
+      "start": 451,
+      "end": 459
+    },
+    "eventDescription": {
+      "text": "peak duration of electricity cuts",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "some areas such as Derna",
+      "start": 463,
+      "end": 487
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "43 per cent",
+      "start": 723,
+      "end": 734
+    },
+    "eventDescription": {
+      "text": "rely on water trucking as main source of drinking water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "affected population",
+      "start": 742,
+      "end": 761
+    }
+  }
+]

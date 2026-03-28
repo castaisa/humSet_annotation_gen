@@ -1,0 +1,206 @@
+[
+  {
+    "quantity": {
+      "text": "0.1%",
+      "begin": 39,
+      "end": 43
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 12,
+      "end": 25
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 26,
+      "end": 35
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21%",
+      "begin": 97,
+      "end": 100
+    },
+    "unit": {
+      "text": "higher",
+      "begin": 101,
+      "end": 107
+    }
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 154,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "Prices decreased",
+      "begin": 123,
+      "end": 139
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Prices decreased",
+      "begin": 123,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 205,
+      "end": 207
+    },
+    "eventDescription": {
+      "text": "Prices decreased",
+      "begin": 123,
+      "end": 139
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Prices decreased",
+      "begin": 123,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "4%",
+      "begin": 375,
+      "end": 377
+    },
+    "eventDescription": {
+      "text": "prices increased",
+      "begin": 347,
+      "end": 363
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "prices increased",
+      "begin": 347,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 386,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "prices increased",
+      "begin": 347,
+      "end": 363
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "prices increased",
+      "begin": 347,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 405,
+      "end": 407
+    },
+    "eventDescription": {
+      "text": "prices increased",
+      "begin": 347,
+      "end": 363
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "prices increased",
+      "begin": 347,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "121",
+      "begin": 513,
+      "end": 516
+    },
+    "unit": {
+      "text": "per kg",
+      "begin": 536,
+      "end": 542
+    }
+  },
+  {
+    "quantity": {
+      "text": "105",
+      "begin": 523,
+      "end": 526
+    },
+    "unit": {
+      "text": "per kg",
+      "begin": 536,
+      "end": 542
+    }
+  },
+  {
+    "quantity": {
+      "text": "113",
+      "begin": 518,
+      "end": 521
+    },
+    "unit": {
+      "text": "per kg",
+      "begin": 536,
+      "end": 542
+    }
+  },
+  {
+    "quantity": {
+      "text": "105",
+      "begin": 532,
+      "end": 535
+    },
+    "unit": {
+      "text": "per kg",
+      "begin": 536,
+      "end": 542
+    }
+  },
+  {
+    "quantity": {
+      "text": "68",
+      "begin": 655,
+      "end": 657
+    },
+    "unit": {
+      "text": "per kg",
+      "begin": 669,
+      "end": 675
+    }
+  },
+  {
+    "quantity": {
+      "text": "72",
+      "begin": 659,
+      "end": 661
+    },
+    "unit": {
+      "text": "per kg",
+      "begin": 669,
+      "end": 675
+    }
+  },
+  {
+    "quantity": {
+      "text": "73",
+      "begin": 666,
+      "end": 668
+    },
+    "unit": {
+      "text": "per kg",
+      "begin": 669,
+      "end": 675
+    }
+  }
+]

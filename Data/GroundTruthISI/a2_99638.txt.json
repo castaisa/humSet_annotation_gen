@@ -1,0 +1,67 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 21,
+      "end": 24
+    },
+    "unit": {
+      "text": "attacks",
+      "begin": 25,
+      "end": 32
+    }
+  },
+  {
+    "quantity": {
+      "text": "60 per cent",
+      "begin": 95,
+      "end": 106
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 88,
+      "end": 94
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 million",
+      "begin": 232,
+      "end": 241
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 222,
+      "end": 231
+    },
+    "unit": {
+      "text": "people",
+      "begin": 242,
+      "end": 248
+    },
+    "eventDescription": {
+      "text": "were without water for more than a week",
+      "begin": 349,
+      "end": 388
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "600,000",
+      "begin": 260,
+      "end": 267
+    },
+    "unit": {
+      "text": "children",
+      "begin": 268,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "were without water for more than a week",
+      "begin": 349,
+      "end": 388
+    },
+    "eventType": "EventO"
+  }
+]

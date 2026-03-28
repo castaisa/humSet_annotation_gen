@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "84",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "engaged in social norms transformation discussions and action courses"
+  },
+  {
+    "quantity": "8",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "engaged in social norms transformation discussions and action courses"
+  },
+  {
+    "quantity": "10",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "engaged in social norms transformation discussions and action courses"
+  },
+  {
+    "quantity": "37",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "engaged in social norms transformation discussions and action courses"
+  },
+  {
+    "quantity": "29",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "engaged in social norms transformation discussions and action courses"
+  },
+  {
+    "quantity": "over 90,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with child protections services",
+    "modifier": "over"
+  },
+  {
+    "quantity": "10,135",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received psycho -social support services"
+  },
+  {
+    "quantity": "2,212",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "supported through case management and family tracing and reunification"
+  },
+  {
+    "quantity": "64,480",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with lifesaving messages including risk education"
+  },
+  {
+    "quantity": "11",
+    "unit": "state level referral pathways",
+    "eventType": "EventO",
+    "eventDescription": "updated to support timely and safe access to child protection services"
+  }
+]

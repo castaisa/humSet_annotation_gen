@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "89",
+    "unit": "rank",
+    "eventType": "EventO",
+    "eventDescription": "ranked in the human development index"
+  },
+  {
+    "quantity": "72.5 percent",
+    "unit": "informality rate",
+    "eventType": "EventO",
+    "eventDescription": "informality rate in the region"
+  },
+  {
+    "quantity": "millions",
+    "unit": "Peruvians",
+    "eventType": "EventP",
+    "eventDescription": "threatened food security"
+  },
+  {
+    "quantity": "millions",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "affected livelihoods"
+  },
+  {
+    "quantity": "second-most",
+    "unit": "confirmed COVID-19 cases in the region",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases in the region"
+  },
+  {
+    "quantity": "fifth-most",
+    "unit": "confirmed COVID-19 cases worldwide",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases worldwide"
+  }
+]

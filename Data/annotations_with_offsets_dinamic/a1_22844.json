@@ -1,0 +1,254 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened",
+      "start": 192,
+      "end": 200
+    },
+    "quantity": {
+      "text": "360",
+      "start": 143,
+      "end": 146
+    },
+    "unit": {
+      "text": "children",
+      "start": 147,
+      "end": 155
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "age range",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6-59",
+      "start": 159,
+      "end": 163
+    },
+    "unit": {
+      "text": "months",
+      "start": 164,
+      "end": 170
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "360",
+      "start": 179,
+      "end": 182
+    },
+    "unit": {
+      "text": "children",
+      "start": 183,
+      "end": 191
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the Red category",
+      "start": 263,
+      "end": 282
+    },
+    "quantity": {
+      "text": "3",
+      "start": 224,
+      "end": 225
+    },
+    "unit": {
+      "text": "children",
+      "start": 226,
+      "end": 234
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the Yellow category",
+      "start": 292,
+      "end": 314
+    },
+    "quantity": {
+      "text": "29",
+      "start": 284,
+      "end": 286
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the Green category",
+      "start": 337,
+      "end": 358
+    },
+    "quantity": {
+      "text": "328",
+      "start": 319,
+      "end": 322
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "sent in reports",
+      "start": 410,
+      "end": 425
+    },
+    "quantity": {
+      "text": "6",
+      "start": 398,
+      "end": 399
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 400,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "from a neighbouring countries",
+      "start": 464,
+      "end": 493
+    },
+    "quantity": {
+      "text": "25",
+      "start": 452,
+      "end": 454
+    },
+    "unit": {
+      "text": "children",
+      "start": 455,
+      "end": 463
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moved to Bama",
+      "start": 498,
+      "end": 511
+    },
+    "quantity": {
+      "text": "13",
+      "start": 495,
+      "end": 497
+    },
+    "unit": {
+      "text": "children",
+      "start": 556,
+      "end": 564
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moved to Mobbar",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7",
+      "start": 513,
+      "end": 514
+    },
+    "unit": {
+      "text": "children",
+      "start": 673,
+      "end": 681
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moved to Ngala",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 529,
+      "end": 530
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "measured",
+      "start": 565,
+      "end": 573
+    },
+    "quantity": {
+      "text": "25",
+      "start": 553,
+      "end": 555
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the green category",
+      "start": 617,
+      "end": 638
+    },
+    "quantity": {
+      "text": "23",
+      "start": 609,
+      "end": 611
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the yellow category",
+      "start": 645,
+      "end": 667
+    },
+    "quantity": {
+      "text": "2",
+      "start": 643,
+      "end": 644
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  }
+]

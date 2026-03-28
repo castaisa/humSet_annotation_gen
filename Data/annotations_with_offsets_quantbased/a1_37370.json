@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7.1 million",
+      "start": 9,
+      "end": 20
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "start": 32,
+      "end": 66
+    },
+    "unit": {
+      "text": "people",
+      "start": 21,
+      "end": 27
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.8 million",
+      "start": 142,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "internally displaced",
+      "start": 154,
+      "end": 174
+    },
+    "unit": {
+      "text": "internally displaced people",
+      "start": 154,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 800,000",
+      "start": 186,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "living in inaccessible areas",
+      "start": 228,
+      "end": 256
+    },
+    "unit": {
+      "text": "women, children and men",
+      "start": 204,
+      "end": 227
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 186,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 27,000",
+      "start": 594,
+      "end": 610
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": 628,
+      "end": 634
+    },
+    "unit": {
+      "text": "people",
+      "start": 611,
+      "end": 617
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 594,
+      "end": 603
+    }
+  }
+]

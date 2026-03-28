@@ -1,0 +1,241 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 5 million",
+      "start": 26,
+      "end": 40
+    },
+    "eventDescription": {
+      "text": "land released through survey and clearance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "square meters",
+      "start": 41,
+      "end": 54
+    },
+    "modifier": {
+      "text": "over",
+      "start": 26,
+      "end": 30
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "50 per cent",
+      "start": 56,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "land released through survey and clearance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the target",
+      "start": 68,
+      "end": 81
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "15",
+      "start": 123,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "land released through survey and clearance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 126,
+      "end": 138
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36 per cent",
+      "start": 150,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "explosive ordnance disposal achieved",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the 400,000 target",
+      "start": 162,
+      "end": 183
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "400,000",
+      "start": 169,
+      "end": 176
+    },
+    "eventDescription": {
+      "text": "explosive ordnance disposal",
+      "start": 188,
+      "end": 215
+    },
+    "unit": {
+      "text": "target",
+      "start": 177,
+      "end": 183
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,183",
+      "start": 217,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "reached with small and micro business creation/recovery",
+      "start": 245,
+      "end": 300
+    },
+    "unit": {
+      "text": "households (HHs)",
+      "start": 223,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 304,
+      "end": 306
+    },
+    "eventDescription": {
+      "text": "households reached with small and micro business creation/recovery",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 307,
+      "end": 319
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9,703",
+      "start": 321,
+      "end": 326
+    },
+    "eventDescription": {
+      "text": "had access to income through emergency employment opportunities activities",
+      "start": 331,
+      "end": 405
+    },
+    "unit": {
+      "text": "HHs",
+      "start": 327,
+      "end": 330
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 409,
+      "end": 411
+    },
+    "eventDescription": {
+      "text": "households had access to income through emergency employment opportunities activities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 412,
+      "end": 424
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "93",
+      "start": 426,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "received assistance to end displacement",
+      "start": 433,
+      "end": 472
+    },
+    "unit": {
+      "text": "HHs",
+      "start": 429,
+      "end": 432
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,294",
+      "start": 494,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "had access to new skills for livelihoods through vocational/skills training",
+      "start": 512,
+      "end": 587
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 500,
+      "end": 511
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "817",
+      "start": 589,
+      "end": 592
+    },
+    "eventDescription": {
+      "text": "participated in capacity building activities",
+      "start": 648,
+      "end": 692
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 593,
+      "end": 604
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "82",
+      "start": 618,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "represented in capacity building activities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "local NGOs and authorities",
+      "start": 621,
+      "end": 647
+    }
+  }
+]

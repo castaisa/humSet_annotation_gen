@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "68 percent",
+    "unit": "resources",
+    "eventType": "EventA",
+    "eventDescription": "resources allocated to the Venezuelan migration crisis",
+    "modifier": "about"
+  },
+  {
+    "quantity": "2019",
+    "unit": "",
+    "eventType": "",
+    "eventDescription": ""
+  },
+  {
+    "quantity": "one in five",
+    "unit": "consultations",
+    "eventType": "EventP",
+    "eventDescription": "consultations related to sexual and reproductive health issue",
+    "modifier": "approximately"
+  }
+]

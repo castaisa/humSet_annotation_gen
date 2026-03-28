@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": {
+      "text": "20,000",
+      "begin": 318,
+      "end": 324
+    },
+    "eventDescription": {
+      "text": "police will request payment",
+      "begin": 273,
+      "end": 300
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "approximately",
+      "begin": 304,
+      "end": 317
+    },
+    "unit": {
+      "text": "Guyanese dollars (96USD) per incident.",
+      "begin": 325,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "96",
+      "begin": 343,
+      "end": 345
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 345,
+      "end": 348
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 1053,
+      "end": 1054
+    },
+    "eventDescription": {
+      "text": "assist in addressing any reports made by Venezuelan women",
+      "begin": 1082,
+      "end": 1139
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 1048,
+      "end": 1051
+    },
+    "eventDescription": {
+      "text": "assist in addressing any reports made by Venezuelan women",
+      "begin": 1082,
+      "end": 1139
+    },
+    "eventType": "EventO"
+  }
+]

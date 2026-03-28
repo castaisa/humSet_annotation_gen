@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 138,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "extension of documentation",
+      "begin": 148,
+      "end": 174
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "month",
+      "begin": 142,
+      "end": 147
+    }
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 320,
+      "end": 321
+    },
+    "eventDescription": {
+      "text": "wait for documentation",
+      "begin": 328,
+      "end": 350
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "month",
+      "begin": 322,
+      "end": 327
+    }
+  },
+  {
+    "quantity": {
+      "text": "25,913",
+      "begin": 452,
+      "end": 458
+    },
+    "eventDescription": {
+      "text": "increasing",
+      "begin": 396,
+      "end": 406
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "cases pending adjudication",
+      "begin": 422,
+      "end": 448
+    }
+  }
+]

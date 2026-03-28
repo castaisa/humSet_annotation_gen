@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "64",
+    "unit": "chlorinators",
+    "eventType": "EventA",
+    "eventDescription": "engaged for water point chlorination"
+  },
+  {
+    "quantity": "32",
+    "unit": "water points",
+    "eventType": "EventA",
+    "eventDescription": "water point chlorination conducted"
+  },
+  {
+    "quantity": "40",
+    "unit": "House-to-House Hygiene Promoters",
+    "eventType": "EventA",
+    "eventDescription": "engaged for hygiene promotions"
+  }
+]

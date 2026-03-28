@@ -1,0 +1,135 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 117,
+      "end": 120
+    },
+    "unit": {
+      "text": "seasons",
+      "begin": 121,
+      "end": 128
+    }
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 492,
+      "end": 495
+    },
+    "unit": {
+      "text": "morbidity prevalence remained high",
+      "begin": 454,
+      "end": 488
+    },
+    "eventDescription": {
+      "text": "morbidity prevalence remained high",
+      "begin": 454,
+      "end": 488
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "≥",
+      "begin": 490,
+      "end": 491
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 500,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "morbidity prevalence remained high",
+      "begin": 454,
+      "end": 488
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "rural population groups surveyed",
+      "begin": 513,
+      "end": 545
+    }
+  },
+  {
+    "quantity": {
+      "text": "15 out of 25",
+      "begin": 500,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "morbidity prevalence remained high",
+      "begin": 454,
+      "end": 488
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "rural population groups surveyed",
+      "begin": 513,
+      "end": 545
+    }
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 510,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "morbidity prevalence remained high",
+      "begin": 454,
+      "end": 488
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "rural population groups surveyed",
+      "begin": 513,
+      "end": 545
+    }
+  },
+  {
+    "quantity": {
+      "text": "42.7%",
+      "begin": 608,
+      "end": 613
+    },
+    "unit": {
+      "text": "morbidity prevalence remained high",
+      "begin": 454,
+      "end": 488
+    },
+    "eventDescription": {
+      "text": "highest prevalence reported",
+      "begin": 556,
+      "end": 583
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "34.9%",
+      "begin": 634,
+      "end": 639
+    },
+    "eventDescription": {
+      "text": "highest prevalence reported",
+      "begin": 556,
+      "end": 583
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "31.1%",
+      "begin": 666,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "highest prevalence reported",
+      "begin": 556,
+      "end": 583
+    },
+    "eventType": "EventP"
+  }
+]

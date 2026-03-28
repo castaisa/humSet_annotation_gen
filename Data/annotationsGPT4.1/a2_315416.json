@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "66 percent",
+    "unit": "teachers",
+    "eventType": "EventP",
+    "eventDescription": "non-government teachers present"
+  },
+  {
+    "quantity": "three",
+    "unit": "months\u2019 salaries/incentives",
+    "eventType": "EventP",
+    "eventDescription": "salaries/incentives received",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "9",
+    "unit": "months\u2019 salaries or incentives",
+    "eventType": "EventP",
+    "eventDescription": "salaries/incentives expected"
+  },
+  {
+    "quantity": "42 percent",
+    "unit": "teachers",
+    "eventType": "EventP",
+    "eventDescription": "teachers had no access to full set of textbooks"
+  }
+]

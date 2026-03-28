@@ -1,0 +1,277 @@
+[
+  {
+    "quantity": {
+      "text": "31 percent",
+      "begin": 125,
+      "end": 135
+    },
+    "unit": {
+      "text": "average retail price of wheat flour",
+      "begin": 45,
+      "end": 80
+    },
+    "eventDescription": {
+      "text": "increased in March 2021",
+      "begin": 98,
+      "end": 121
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,983",
+      "begin": 149,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "increased in March 2021",
+      "begin": 98,
+      "end": 121
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 154,
+      "end": 157
+    }
+  },
+  {
+    "quantity": {
+      "text": "279 percent",
+      "begin": 199,
+      "end": 210
+    },
+    "unit": {
+      "text": "wheat flour price",
+      "begin": 163,
+      "end": 180
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 186,
+      "end": 195
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,320",
+      "begin": 272,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "recorded the highest wheat flour price",
+      "begin": 226,
+      "end": 264
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 277,
+      "end": 280
+    }
+  },
+  {
+    "quantity": {
+      "text": "66 percent",
+      "begin": 285,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "recorded the highest wheat flour price",
+      "begin": 226,
+      "end": 264
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "wheat flour price",
+      "begin": 247,
+      "end": 264
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,627",
+      "begin": 373,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "recorded the lowest governorate average price",
+      "begin": 319,
+      "end": 364
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 378,
+      "end": 381
+    }
+  },
+  {
+    "quantity": {
+      "text": "35 percent",
+      "begin": 386,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "recorded the lowest governorate average price",
+      "begin": 319,
+      "end": 364
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "price",
+      "begin": 359,
+      "end": 364
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,218",
+      "begin": 536,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "recorded the highest retail price",
+      "begin": 495,
+      "end": 528
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 541,
+      "end": 544
+    }
+  },
+  {
+    "quantity": {
+      "text": "33 percent",
+      "begin": 549,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "recorded the highest retail price",
+      "begin": 495,
+      "end": 528
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "retail price",
+      "begin": 516,
+      "end": 528
+    }
+  },
+  {
+    "quantity": {
+      "text": "32 percent",
+      "begin": 622,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "recorded the highest retail price",
+      "begin": 495,
+      "end": 528
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "retail price",
+      "begin": 516,
+      "end": 528
+    },
+    "modifier": {
+      "text": "up",
+      "begin": 619,
+      "end": 621
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,140",
+      "begin": 609,
+      "end": 614
+    },
+    "eventDescription": {
+      "text": "recorded the highest retail price",
+      "begin": 495,
+      "end": 528
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 614,
+      "end": 617
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,684",
+      "begin": 725,
+      "end": 730
+    },
+    "eventDescription": {
+      "text": "recorded the lowest average retail price",
+      "begin": 677,
+      "end": 717
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 730,
+      "end": 733
+    }
+  },
+  {
+    "quantity": {
+      "text": "20 percent",
+      "begin": 738,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "recorded the lowest average retail price",
+      "begin": 677,
+      "end": 717
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "retail price",
+      "begin": 705,
+      "end": 717
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,822",
+      "begin": 792,
+      "end": 797
+    },
+    "eventDescription": {
+      "text": "recorded the lowest average retail price",
+      "begin": 677,
+      "end": 717
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/kg",
+      "begin": 797,
+      "end": 800
+    }
+  },
+  {
+    "quantity": {
+      "text": "41 percent",
+      "begin": 805,
+      "end": 815
+    },
+    "eventDescription": {
+      "text": "recorded the lowest average retail price",
+      "begin": 677,
+      "end": 717
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "retail price",
+      "begin": 705,
+      "end": 717
+    }
+  }
+]

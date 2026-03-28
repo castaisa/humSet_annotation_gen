@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected",
+      "start": 22,
+      "end": 30
+    },
+    "quantity": {
+      "text": "489",
+      "start": 31,
+      "end": 34
+    },
+    "unit": {
+      "text": "schools",
+      "start": 35,
+      "end": 42
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "fully damaged",
+      "start": 67,
+      "end": 80
+    },
+    "quantity": {
+      "text": "40",
+      "start": 54,
+      "end": 56
+    },
+    "unit": {
+      "text": "schools",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "accommodating Internally Displaced Persons (IDPs)",
+      "start": 92,
+      "end": 141
+    },
+    "quantity": {
+      "text": "26",
+      "start": 85,
+      "end": 87
+    },
+    "unit": {
+      "text": "schools",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "244,500",
+      "start": 158,
+      "end": 165
+    },
+    "unit": {
+      "text": "Libyan students",
+      "start": 166,
+      "end": 181
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "average number",
+      "start": 204,
+      "end": 218
+    },
+    "quantity": {
+      "text": "500",
+      "start": 245,
+      "end": 248
+    },
+    "unit": {
+      "text": "children per school",
+      "start": 222,
+      "end": 241
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affected",
+      "start": 707,
+      "end": 715
+    },
+    "quantity": {
+      "text": "160,178",
+      "start": 266,
+      "end": 273
+    },
+    "unit": {
+      "text": "refugee and migrants",
+      "start": 274,
+      "end": 294
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children below 18",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40 per cent",
+      "start": 308,
+      "end": 319
+    },
+    "unit": {
+      "text": "of the total refugee and migrants",
+      "start": 320,
+      "end": 353
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "school start delayed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 457,
+      "end": 462
+    },
+    "unit": {
+      "text": "times",
+      "start": 463,
+      "end": 468
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children experienced violence, conflict, displacement and insecurity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 1667,
+      "end": 1670
+    },
+    "unit": {
+      "text": "years",
+      "start": 1671,
+      "end": 1676
+    }
+  }
+]

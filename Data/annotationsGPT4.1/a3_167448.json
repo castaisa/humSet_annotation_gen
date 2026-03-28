@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "300",
+    "unit": "migrant children under five years of age",
+    "eventType": "EventP",
+    "eventDescription": "screened for nutritional deficiencies"
+  },
+  {
+    "quantity": "one quarter",
+    "unit": "migrants",
+    "eventType": "EventP",
+    "eventDescription": "were not eating three times a day"
+  },
+  {
+    "quantity": "three",
+    "unit": "times a day",
+    "eventType": "EventO",
+    "eventDescription": "frequency of eating"
+  }
+]

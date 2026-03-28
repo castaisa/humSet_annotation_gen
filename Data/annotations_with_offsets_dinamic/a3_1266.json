@@ -1,0 +1,120 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "disembarked",
+      "start": 75,
+      "end": 86
+    },
+    "quantity": {
+      "text": "707",
+      "start": 16,
+      "end": 19
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 20,
+      "end": 31
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "disembarked",
+      "start": 344,
+      "end": 355
+    },
+    "quantity": {
+      "text": "138",
+      "start": 43,
+      "end": 46
+    },
+    "unit": {
+      "text": "women",
+      "start": 47,
+      "end": 52
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "disembarked",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "85",
+      "start": 57,
+      "end": 59
+    },
+    "unit": {
+      "text": "children",
+      "start": 60,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": 408,
+      "end": 418
+    },
+    "quantity": {
+      "text": "143",
+      "start": 419,
+      "end": 422
+    },
+    "unit": {
+      "text": "refugees and asylumseekers",
+      "start": 423,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported as missing",
+      "start": 648,
+      "end": 667
+    },
+    "modifier": {
+      "text": "between",
+      "start": 612,
+      "end": 619
+    },
+    "quantity": {
+      "text": "60",
+      "start": 620,
+      "end": 622
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 631,
+      "end": 642
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported as missing",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "between",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "100",
+      "start": 627,
+      "end": 630
+    },
+    "unit": {
+      "text": "individuals",
+      "start": null,
+      "end": null
+    }
+  }
+]

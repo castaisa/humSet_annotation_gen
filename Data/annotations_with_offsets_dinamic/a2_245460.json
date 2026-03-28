@@ -1,0 +1,159 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "average price of subsidized bread",
+      "start": 39,
+      "end": 72
+    },
+    "quantity": {
+      "text": "107",
+      "start": 102,
+      "end": 105
+    },
+    "unit": {
+      "text": "SYP / bundle",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in bread price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven percent",
+      "start": 118,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "subsidized bread price",
+      "start": 456,
+      "end": 478
+    },
+    "quantity": {
+      "text": "50",
+      "start": 218,
+      "end": 220
+    },
+    "unit": {
+      "text": "SYP / bundle",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "subsidized bread price (sold without nylon bag)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "75",
+      "start": 235,
+      "end": 237
+    },
+    "unit": {
+      "text": "SYP / bundle",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "subsidized bread price (sold with nylon bag)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "100",
+      "start": 278,
+      "end": 281
+    },
+    "unit": {
+      "text": "SYP / bundle",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "weight of bread bundle",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.3kg",
+      "start": 373,
+      "end": 378
+    },
+    "unit": {
+      "text": "bundle",
+      "start": 107,
+      "end": 113
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "weight of bread bundle",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.1kg",
+      "start": 389,
+      "end": 394
+    },
+    "unit": {
+      "text": "bundle",
+      "start": 221,
+      "end": 227
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "subsidized bread price in Ar-Raqqa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "95",
+      "start": 526,
+      "end": 528
+    },
+    "unit": {
+      "text": "SYP / bundle",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "subsidized bread price in Ar-Raqqa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "107",
+      "start": 543,
+      "end": 546
+    },
+    "unit": {
+      "text": "SYP / bundle",
+      "start": null,
+      "end": null
+    }
+  }
+]

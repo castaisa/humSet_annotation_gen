@@ -1,0 +1,151 @@
+[
+  {
+    "quantity": {
+      "text": "1 million",
+      "begin": 44,
+      "end": 53
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 35,
+      "end": 43
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 77,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "targeted with child protection interventions",
+      "begin": 216,
+      "end": 260
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "53per cent",
+      "begin": 61,
+      "end": 71
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 54,
+      "end": 59
+    },
+    "eventDescription": {
+      "text": "targeted with child protection interventions",
+      "begin": 216,
+      "end": 260
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "47 per cent",
+      "begin": 83,
+      "end": 94
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 77,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "targeted with child protection interventions",
+      "begin": 216,
+      "end": 260
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "28 per cent",
+      "begin": 589,
+      "end": 600
+    },
+    "unit": {
+      "text": "Girls",
+      "begin": 512,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "need of child protection services",
+      "begin": 648,
+      "end": 681
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25 per cent",
+      "begin": 605,
+      "end": 616
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 522,
+      "end": 526
+    },
+    "eventDescription": {
+      "text": "need of child protection services",
+      "begin": 648,
+      "end": 681
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 810,
+      "end": 813
+    },
+    "eventDescription": {
+      "text": "response has prioritised localities most affected by the conflict",
+      "begin": 711,
+      "end": 776
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "targeted population.",
+      "begin": 862,
+      "end": 882
+    }
+  },
+  {
+    "quantity": {
+      "text": "77%",
+      "begin": 827,
+      "end": 830
+    },
+    "eventDescription": {
+      "text": "response has prioritised localities most affected by the conflict",
+      "begin": 711,
+      "end": 776
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "targeted population.",
+      "begin": 862,
+      "end": 882
+    }
+  },
+  {
+    "quantity": {
+      "text": "10%",
+      "begin": 851,
+      "end": 854
+    },
+    "eventDescription": {
+      "text": "response has prioritised localities most affected by the conflict",
+      "begin": 711,
+      "end": 776
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "targeted population.",
+      "begin": 862,
+      "end": 882
+    }
+  }
+]

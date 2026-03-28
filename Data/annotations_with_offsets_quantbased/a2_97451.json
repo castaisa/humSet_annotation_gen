@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "26",
+      "start": 274,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "recorded cases of COVID-19",
+      "start": 277,
+      "end": 303
+    },
+    "unit": {
+      "text": "cases",
+      "start": 286,
+      "end": 291
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "535",
+      "start": 325,
+      "end": 328
+    },
+    "eventDescription": {
+      "text": "tests conducted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "tests",
+      "start": 329,
+      "end": 334
+    }
+  }
+]

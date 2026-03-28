@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "3,823",
+    "unit": "children and adolescents",
+    "eventType": "EventP",
+    "eventDescription": "attended UNICEF-supported child-friendly spaces and community-based activities"
+  },
+  {
+    "quantity": "171",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "directly trained in gender-based violence and prevention of family separation"
+  },
+  {
+    "quantity": "14,888",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with prevention of family separation and violence sensitization activities",
+    "modifier": "An estimated"
+  }
+]

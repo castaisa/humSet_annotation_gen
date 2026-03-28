@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 281,
+      "end": 284
+    },
+    "unit": {
+      "text": "families",
+      "begin": 285,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "took shelter",
+      "begin": 294,
+      "end": 306
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 310,
+      "end": 311
+    },
+    "eventDescription": {
+      "text": "took shelter",
+      "begin": 294,
+      "end": 306
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 312,
+      "end": 319
+    }
+  }
+]

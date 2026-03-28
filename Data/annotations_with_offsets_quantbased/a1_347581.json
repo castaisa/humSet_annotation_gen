@@ -1,0 +1,175 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25,000",
+      "start": 81,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "butane gas cylinder size",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "L",
+      "start": 88,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16 percent",
+      "start": 104,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4,079",
+      "start": 238,
+      "end": 243
+    },
+    "eventDescription": {
+      "text": "formal market price of one butane gas cylinder",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP / refill",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25,000",
+      "start": 317,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "butane gas cylinder size",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "L",
+      "start": 324,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "eight percent",
+      "start": 349,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "informal market price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "123 percent",
+      "start": 376,
+      "end": 387
+    },
+    "eventDescription": {
+      "text": "informal market price increase since April 2020",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "28,643",
+      "start": 418,
+      "end": 424
+    },
+    "eventDescription": {
+      "text": "informal national average price of one butane gas cylinder",
+      "start": 257,
+      "end": 315
+    },
+    "unit": {
+      "text": "SYP / refill",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "35,828",
+      "start": 486,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "highest price recorded in Hama",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP / refill",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "seven percent",
+      "start": 504,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "price increase in Hama",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11,417",
+      "start": 576,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "lowest price recorded in Al-Hasakeh",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 572,
+      "end": 575
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "ten percent",
+      "start": 587,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "price increase in Al-Hasakeh",
+      "start": null,
+      "end": null
+    }
+  }
+]

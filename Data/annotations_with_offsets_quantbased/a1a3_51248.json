@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5,000",
+      "start": 264,
+      "end": 269
+    },
+    "eventDescription": {
+      "text": "asylum claims processed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "claims",
+      "start": 279,
+      "end": 285
+    },
+    "modifier": {
+      "text": "about",
+      "start": 258,
+      "end": 263
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6,000",
+      "start": 273,
+      "end": 278
+    },
+    "eventDescription": {
+      "text": "asylum claims processed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "claims",
+      "start": 279,
+      "end": 285
+    },
+    "modifier": {
+      "text": "about",
+      "start": 258,
+      "end": 263
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "13,535",
+      "start": 317,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "asylum applications received",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "asylum applications",
+      "start": 324,
+      "end": 343
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.4 million",
+      "start": 387,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "people admitted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  }
+]

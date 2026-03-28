@@ -1,0 +1,156 @@
+[
+  {
+    "quantity": {
+      "text": "63.5 percent",
+      "begin": 113,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 104,
+      "end": 112
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "of all households",
+      "begin": 126,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "17.6 percent",
+      "begin": 232,
+      "end": 244
+    },
+    "unit": {
+      "text": "all households",
+      "begin": 245,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "mentioning complete loss of income source",
+      "begin": 260,
+      "end": 301
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15.9 percent",
+      "begin": 339,
+      "end": 351
+    },
+    "unit": {
+      "text": "all households",
+      "begin": 245,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "disproportionate increase in the cost of living",
+      "begin": 354,
+      "end": 401
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 303,
+      "end": 313
+    },
+    "unit": {
+      "text": "all households",
+      "begin": 245,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "deterioration in income",
+      "begin": 314,
+      "end": 337
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "35 percent",
+      "begin": 417,
+      "end": 427
+    },
+    "unit": {
+      "text": "all households",
+      "begin": 431,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "witnessed no difference or a change in income source",
+      "begin": 446,
+      "end": 498
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1.8 percent",
+      "begin": 517,
+      "end": 528
+    },
+    "unit": {
+      "text": "all households",
+      "begin": 431,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "mentioned that it has improved income",
+      "begin": 529,
+      "end": 566
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four percent",
+      "begin": 582,
+      "end": 594
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 577,
+      "end": 581
+    },
+    "unit": {
+      "text": "households",
+      "begin": 598,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "received remittances",
+      "begin": 609,
+      "end": 629
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "60 percent",
+      "begin": 638,
+      "end": 648
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 631,
+      "end": 637
+    },
+    "unit": {
+      "text": "households",
+      "begin": 652,
+      "end": 662
+    },
+    "eventDescription": {
+      "text": "received remittances mentioned a reduction in amounts",
+      "begin": 667,
+      "end": 720
+    },
+    "eventType": "EventA"
+  }
+]

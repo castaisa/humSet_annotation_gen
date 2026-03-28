@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "3.5 billion",
+    "unit": "USD",
+    "eventType": "EventO",
+    "eventDescription": "reported damages on agriculture"
+  },
+  {
+    "quantity": "about 90 percent",
+    "unit": "of the rural population",
+    "eventType": "EventP",
+    "eventDescription": "provided livelihoods by agriculture",
+    "modifier": "about"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "of displaced people",
+    "eventType": "EventP",
+    "eventDescription": "staying with host families"
+  },
+  {
+    "quantity": "85 percent",
+    "unit": "of women and girls",
+    "eventType": "EventP",
+    "eventDescription": "reporting heightened protection risks when collecting firewood"
+  }
+]

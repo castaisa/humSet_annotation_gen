@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "classified in IPC Phase 5 (Catastrophe)",
+      "start": 473,
+      "end": 512
+    },
+    "quantity": {
+      "text": "45",
+      "start": 425,
+      "end": 427
+    },
+    "unit": {
+      "text": "districts",
+      "start": 369,
+      "end": 378
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "classified in IPC Phase 5 (Catastrophe)",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 443,
+      "end": 449
+    },
+    "quantity": {
+      "text": "240,000",
+      "start": 450,
+      "end": 457
+    },
+    "unit": {
+      "text": "population",
+      "start": 458,
+      "end": 468
+    }
+  }
+]

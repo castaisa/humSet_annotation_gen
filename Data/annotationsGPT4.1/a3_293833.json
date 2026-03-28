@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "40,000",
+    "unit": "affordable homes",
+    "eventType": "EventA",
+    "eventDescription": "promised to build"
+  },
+  {
+    "quantity": "40,000",
+    "unit": "goal",
+    "eventType": "EventA",
+    "eventDescription": "target for homes to be built"
+  }
+]

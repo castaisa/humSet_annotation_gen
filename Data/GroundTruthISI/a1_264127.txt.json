@@ -1,0 +1,143 @@
+[
+  {
+    "quantity": {
+      "text": "92,214",
+      "begin": 106,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "price of WFP’s national reference food basket averaged",
+      "begin": 47,
+      "end": 101
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 102,
+      "end": 105
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 315,
+      "end": 316
+    },
+    "unit": {
+      "text": "month",
+      "begin": 317,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 294,
+      "end": 302
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "56 percent",
+      "begin": 336,
+      "end": 346
+    },
+    "unit": {
+      "text": "price of the food basket",
+      "begin": 141,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 294,
+      "end": 302
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "up",
+      "begin": 333,
+      "end": 335
+    }
+  },
+  {
+    "quantity": {
+      "text": "38 percent",
+      "begin": 373,
+      "end": 383
+    },
+    "unit": {
+      "text": "price of the food basket",
+      "begin": 141,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 294,
+      "end": 302
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "up",
+      "begin": 370,
+      "end": 372
+    }
+  },
+  {
+    "quantity": {
+      "text": "37 percent",
+      "begin": 398,
+      "end": 408
+    },
+    "unit": {
+      "text": "price of the food basket",
+      "begin": 141,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 294,
+      "end": 302
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "up",
+      "begin": 395,
+      "end": 397
+    }
+  },
+  {
+    "quantity": {
+      "text": "32 percent",
+      "begin": 508,
+      "end": 518
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 443,
+      "end": 451
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "most expensive food basket",
+      "begin": 456,
+      "end": 482
+    }
+  },
+  {
+    "quantity": {
+      "text": "12 percent",
+      "begin": 614,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 572,
+      "end": 580
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "least expensive food basket",
+      "begin": 585,
+      "end": 612
+    }
+  }
+]

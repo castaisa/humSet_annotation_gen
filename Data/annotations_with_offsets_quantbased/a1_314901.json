@@ -1,0 +1,205 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "135,000",
+      "start": 95,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "provided curative consultations",
+      "start": 56,
+      "end": 87
+    },
+    "unit": {
+      "text": "people",
+      "start": 103,
+      "end": 109
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 70,000",
+      "start": 121,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "provided curative consultations",
+      "start": 56,
+      "end": 87
+    },
+    "unit": {
+      "text": "children under the age of 5 years",
+      "start": 133,
+      "end": 166
+    },
+    "modifier": {
+      "text": "over",
+      "start": 121,
+      "end": 125
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "72,850",
+      "start": 188,
+      "end": 194
+    },
+    "eventDescription": {
+      "text": "provided curative consultations",
+      "start": 56,
+      "end": 87
+    },
+    "unit": {
+      "text": "females",
+      "start": 195,
+      "end": 202
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "63,316",
+      "start": 207,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "provided curative consultations",
+      "start": 56,
+      "end": 87
+    },
+    "unit": {
+      "text": "males",
+      "start": 214,
+      "end": 219
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "37%",
+      "start": 411,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "received consultations for malaria",
+      "start": 375,
+      "end": 409
+    },
+    "unit": {
+      "text": "consultations for malaria",
+      "start": 384,
+      "end": 409
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17%",
+      "start": 439,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "received consultations for pneumonia",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "consultations for pneumonia",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14%",
+      "start": 459,
+      "end": 462
+    },
+    "eventDescription": {
+      "text": "received consultations for diarrhoea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "consultations for diarrhoea",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "98,634",
+      "start": 514,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": 502,
+      "end": 513
+    },
+    "unit": {
+      "text": "long lasting insecticide treated nets (LLITNs)",
+      "start": 521,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "49,317",
+      "start": 571,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "received LLITNs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "families",
+      "start": 578,
+      "end": 586
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "191",
+      "start": 680,
+      "end": 683
+    },
+    "eventDescription": {
+      "text": "received essential drugs and medical equipment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "World Bank supported health facilities",
+      "start": 684,
+      "end": 722
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25",
+      "start": 730,
+      "end": 732
+    },
+    "eventDescription": {
+      "text": "counties in Upper Nile and Jonglei States",
+      "start": 733,
+      "end": 774
+    },
+    "unit": {
+      "text": "counties",
+      "start": 733,
+      "end": 741
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": {
+      "text": "641",
+      "begin": 73,
+      "end": 76
+    },
+    "unit": {
+      "text": "beds",
+      "begin": 77,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "functional",
+      "begin": 86,
+      "end": 96
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 100,
+      "end": 102
+    },
+    "unit": {
+      "text": "Severe Acute Respiratory Infection Isolation and Treatment Centers (SARI ITCs)",
+      "begin": 103,
+      "end": 181
+    }
+  },
+  {
+    "quantity": {
+      "text": "54%",
+      "begin": 355,
+      "end": 358
+    },
+    "unit": {
+      "text": "bed occupancy",
+      "begin": 319,
+      "end": 332
+    },
+    "eventDescription": {
+      "text": "SARI ITCs",
+      "begin": 342,
+      "end": 351
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "517",
+      "begin": 463,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "capacity of general isolation beds",
+      "begin": 409,
+      "end": 443
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "capacity of general isolation beds",
+      "begin": 409,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "43",
+      "begin": 575,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "capacity",
+      "begin": 563,
+      "end": 571
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "beds",
+      "begin": 578,
+      "end": 582
+    }
+  }
+]

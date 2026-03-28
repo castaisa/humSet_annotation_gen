@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "averaging severity score",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 229,
+      "end": 230
+    },
+    "unit": {
+      "text": "severity score",
+      "start": 207,
+      "end": 221
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of food aid",
+      "start": 316,
+      "end": 335
+    },
+    "quantity": {
+      "text": "93%",
+      "start": 538,
+      "end": 541
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 545,
+      "end": 559
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of food aid",
+      "start": 625,
+      "end": 644
+    },
+    "quantity": {
+      "text": "92%",
+      "start": 561,
+      "end": 564
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 568,
+      "end": 587
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of food aid",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "82%",
+      "start": 593,
+      "end": 596
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": 600,
+      "end": 624
+    }
+  }
+]

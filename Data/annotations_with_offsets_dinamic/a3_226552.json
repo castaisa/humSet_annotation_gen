@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with at least extreme multi-sectoral needs",
+      "start": 211,
+      "end": 264
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 227,
+      "end": 235
+    },
+    "quantity": {
+      "text": "74%",
+      "start": 266,
+      "end": 269
+    },
+    "unit": {
+      "text": "households",
+      "start": 211,
+      "end": 221
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average number of LSGs per household",
+      "start": 294,
+      "end": 330
+    },
+    "quantity": {
+      "text": "2.54",
+      "start": 332,
+      "end": 336
+    },
+    "unit": {
+      "text": "LSGs per household",
+      "start": 312,
+      "end": 330
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returnee households in Borno had LSGs in three or more sectors",
+      "start": 360,
+      "end": 422
+    },
+    "quantity": {
+      "text": "51%",
+      "start": 352,
+      "end": 355
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 360,
+      "end": 379
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returnee households had LSGs in five or more sectors",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6%",
+      "start": 431,
+      "end": 433
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 494,
+      "end": 513
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returnee households with multi-sectoral needs in Borno were the most likely to have a protection LSG",
+      "start": 591,
+      "end": 691
+    },
+    "quantity": {
+      "text": "35%",
+      "start": 696,
+      "end": 699
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 591,
+      "end": 610
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "IDP households in Borno were likely to have a protection LSG",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34%",
+      "start": 738,
+      "end": 741
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 713,
+      "end": 727
+    }
+  }
+]

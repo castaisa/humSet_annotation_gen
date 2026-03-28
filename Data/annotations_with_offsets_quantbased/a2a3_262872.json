@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10",
+      "start": 381,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "gatherings prohibited in groups larger than",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 352,
+      "end": 358
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "land borders closed for",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "week",
+      "start": null,
+      "end": null
+    }
+  }
+]

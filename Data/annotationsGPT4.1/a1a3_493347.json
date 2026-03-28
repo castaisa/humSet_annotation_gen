@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "2,250",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported"
+  },
+  {
+    "quantity": "85",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from Ngaranam PHC in MMC"
+  },
+  {
+    "quantity": "69",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from AAH Waterboard Extension IDP Camp Clinic in Monguno"
+  },
+  {
+    "quantity": "69",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from ICRC FSP Clinic in Monguno"
+  },
+  {
+    "quantity": "65",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from AAH Water Board IDP Camp Clinic in Monguno"
+  },
+  {
+    "quantity": "60",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from Gwange 3 PHC (MSF-F) in MMC"
+  },
+  {
+    "quantity": "60",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from ISS IDP Camp Clinic in Ngala"
+  },
+  {
+    "quantity": "60",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from Kurbagayi MCH in Kwaya Kusar"
+  },
+  {
+    "quantity": "56",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from Gajiram FSP in Nganzai"
+  },
+  {
+    "quantity": "54",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition reported from AAH GDSS IDP Camp Clinic in Monguno"
+  },
+  {
+    "quantity": "Five (5)",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "associated deaths reported from Gwange 3 PHC (MSF-F) in MMC"
+  }
+]

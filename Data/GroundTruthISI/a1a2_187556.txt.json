@@ -1,0 +1,78 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 10,
+      "end": 15
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 0,
+      "end": 9
+    },
+    "unit": {
+      "text": "months",
+      "begin": 16,
+      "end": 22
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.6 million",
+      "begin": 62,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "school closures",
+      "begin": 41,
+      "end": 56
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "students",
+      "begin": 74,
+      "end": 82
+    }
+  },
+  {
+    "quantity": {
+      "text": "11-year",
+      "begin": 335,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "no internet access, no cell phone and no television",
+      "begin": 261,
+      "end": 312
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "girl",
+      "begin": 347,
+      "end": 351
+    }
+  },
+  {
+    "quantity": {
+      "text": "two thirds",
+      "begin": 643,
+      "end": 653
+    },
+    "modifier": {
+      "text": "Almost",
+      "begin": 636,
+      "end": 642
+    },
+    "unit": {
+      "text": "households",
+      "begin": 671,
+      "end": 681
+    },
+    "eventDescription": {
+      "text": "lack internet connectivity",
+      "begin": 682,
+      "end": 708
+    },
+    "eventType": "EventO"
+  }
+]

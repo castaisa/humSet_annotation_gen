@@ -1,0 +1,37 @@
+[
+  {
+    "quantity": "more than 1 million",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "AWD and cholera outbreaks caseload",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "at least 2,200",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "affected by diphtheria outbreak",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "more than 6,700",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "killed or maimed",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "more than 2,700",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "recruited into armed forces and groups",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "at least 2 million",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "out of school",
+    "modifier": "at least"
+  }
+]

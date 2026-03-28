@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 166,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "strengthened through",
+      "begin": 86,
+      "end": 106
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "additional hospital staff and medical professionals",
+      "begin": 109,
+      "end": 160
+    }
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 166,
+      "end": 168
+    },
+    "unit": {
+      "text": "pieces of communications equipment and computers",
+      "begin": 169,
+      "end": 217
+    }
+  },
+  {
+    "quantity": {
+      "text": "11,600",
+      "begin": 256,
+      "end": 262
+    },
+    "unit": {
+      "text": "distinct items",
+      "begin": 263,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 278,
+      "end": 286
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 290,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 278,
+      "end": 286
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "public hospitals and health institutions",
+      "begin": 293,
+      "end": 333
+    }
+  },
+  {
+    "quantity": {
+      "text": "15,669",
+      "begin": 458,
+      "end": 464
+    },
+    "unit": {
+      "text": "Personal Protective Items (PPE)",
+      "begin": 465,
+      "end": 496
+    },
+    "eventDescription": {
+      "text": "donated to public hospitals, health institutions and state institutions",
+      "begin": 734,
+      "end": 805
+    },
+    "eventType": "EventA"
+  }
+]

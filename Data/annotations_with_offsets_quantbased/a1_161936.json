@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "92%",
+      "start": 11,
+      "end": 14
+    },
+    "eventDescription": {
+      "text": "conducted activities to educate families and communities on child protection in the COVID-19 context",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondent organizations",
+      "start": 22,
+      "end": 46
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "96%",
+      "start": 220,
+      "end": 223
+    },
+    "eventDescription": {
+      "text": "conducted activities to educate children on COVID-19 methods of transmission, symptoms and prevention measures",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondent organizations",
+      "start": 231,
+      "end": 255
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "92%",
+      "start": 403,
+      "end": 406
+    },
+    "eventDescription": {
+      "text": "conducted activities specifically targeting community members on COVID-19",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondent organizations",
+      "start": 414,
+      "end": 438
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18",
+      "start": 510,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "age of children targeted for education",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 513,
+      "end": 518
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "age of community members targeted for education",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "14",
+      "start": 788,
+      "end": 790
+    },
+    "eventDescription": {
+      "text": "figure referenced in the text",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Figures",
+      "start": 780,
+      "end": 787
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "15",
+      "start": 795,
+      "end": 797
+    },
+    "eventDescription": {
+      "text": "figure referenced in the text",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Figures",
+      "start": 780,
+      "end": 787
+    }
+  }
+]

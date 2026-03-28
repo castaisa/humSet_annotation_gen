@@ -1,0 +1,58 @@
+[
+  {
+    "quantity": "940,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "194,000",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "566,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "2.7 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "already displaced"
+  },
+  {
+    "quantity": "four million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "living in the northwest"
+  },
+  {
+    "quantity": "2.8 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "require urgent humanitarian assistance"
+  },
+  {
+    "quantity": "five",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "four-year-old",
+    "unit": "child",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "two",
+    "unit": "aid workers",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  }
+]

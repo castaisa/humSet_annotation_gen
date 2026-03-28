@@ -1,0 +1,118 @@
+[
+  {
+    "quantity": {
+      "text": "1,057",
+      "begin": 11,
+      "end": 16
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 57,
+      "end": 65
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "897",
+      "begin": 157,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "explosives-related casualties",
+      "begin": 17,
+      "end": 46
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "men and boys",
+      "begin": 166,
+      "end": 178
+    }
+  },
+  {
+    "quantity": {
+      "text": "77 per cent",
+      "begin": 101,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 57,
+      "end": 65
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children",
+      "begin": 126,
+      "end": 134
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 79,
+      "end": 80
+    },
+    "unit": {
+      "text": "months",
+      "begin": 81,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "five-fold",
+      "begin": 446,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "Mine and ERW casualties among women and girls",
+      "begin": 390,
+      "end": 435
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 470,
+      "end": 474
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 456,
+      "end": 460
+    },
+    "unit": {
+      "text": "years",
+      "begin": 475,
+      "end": 480
+    }
+  },
+  {
+    "quantity": {
+      "text": "eleven",
+      "begin": 798,
+      "end": 804
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 805,
+      "end": 814
+    }
+  },
+  {
+    "quantity": {
+      "text": "70 per cent",
+      "begin": 819,
+      "end": 830
+    },
+    "eventDescription": {
+      "text": "mine and ERW casualties",
+      "begin": 834,
+      "end": 857
+    },
+    "eventType": "EventP"
+  }
+]

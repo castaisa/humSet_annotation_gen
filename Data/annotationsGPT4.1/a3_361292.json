@@ -1,0 +1,29 @@
+[
+  {
+    "quantity": "320,000",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths due to drowning",
+    "modifier": "estimated"
+  },
+  {
+    "quantity": "third",
+    "unit": "leading unintentional injury killer",
+    "eventType": "EventO",
+    "eventDescription": "ranking of fatal drowning"
+  },
+  {
+    "quantity": "over 90%",
+    "unit": "drowning incidents",
+    "eventType": "EventP",
+    "eventDescription": "incidents occurring in LMICs",
+    "modifier": "over"
+  },
+  {
+    "quantity": "over half",
+    "unit": "drowning deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths among those under 25 years of age",
+    "modifier": "over"
+  }
+]

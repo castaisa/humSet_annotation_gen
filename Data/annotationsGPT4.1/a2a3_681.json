@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "74.9%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported irregular access to electricity"
+  },
+  {
+    "quantity": "4 hours",
+    "unit": "daily electricity cuts",
+    "eventType": "EventO",
+    "eventDescription": "reported by households"
+  },
+  {
+    "quantity": "7 hours",
+    "unit": "cuts daily",
+    "eventType": "EventO",
+    "eventDescription": "average electricity cuts in Tripoli",
+    "modifier": "average"
+  },
+  {
+    "quantity": "33",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "referenced in context"
+  }
+]

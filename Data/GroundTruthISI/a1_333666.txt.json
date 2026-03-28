@@ -1,0 +1,204 @@
+[
+  {
+    "quantity": {
+      "text": "76%",
+      "begin": 314,
+      "end": 317
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "agree that their schools keep a social distance of 1 meter",
+      "begin": 233,
+      "end": 291
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "77%",
+      "begin": 331,
+      "end": 334
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "agree that their schools keep a social distance of 1 meter",
+      "begin": 233,
+      "end": 291
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "59%",
+      "begin": 348,
+      "end": 351
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "agree that their schools keep a social distance of 1 meter",
+      "begin": 233,
+      "end": 291
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "61%",
+      "begin": 361,
+      "end": 364
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "agree that their schools keep a social distance of 1 meter",
+      "begin": 233,
+      "end": 291
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "62%",
+      "begin": 378,
+      "end": 381
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "agree that their schools keep a social distance of 1 meter",
+      "begin": 233,
+      "end": 291
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "74%",
+      "begin": 403,
+      "end": 406
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "agree that their schools keep a social distance of 1 meter",
+      "begin": 233,
+      "end": 291
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "64%",
+      "begin": 427,
+      "end": 430
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "modifier": {
+      "text": "majority",
+      "begin": 417,
+      "end": 425
+    },
+    "eventDescription": {
+      "text": "agreed that their schools monitor temperature regularly",
+      "begin": 432,
+      "end": 487
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "61%",
+      "begin": 489,
+      "end": 492
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "agreed on the presence of a holding sick bay",
+      "begin": 498,
+      "end": 542
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 643,
+      "end": 646
+    },
+    "unit": {
+      "text": "Participants",
+      "begin": 128,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "those who did not comply with keeping distances of about 1 meter in those places listed above",
+      "begin": 548,
+      "end": 641
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 284,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "agree that their schools keep a social distance of 1 meter",
+      "begin": 233,
+      "end": 291
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "meter",
+      "begin": 286,
+      "end": 291
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 605,
+      "end": 606
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 599,
+      "end": 604
+    },
+    "unit": {
+      "text": "meter",
+      "begin": 607,
+      "end": 612
+    }
+  }
+]

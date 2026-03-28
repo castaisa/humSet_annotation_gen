@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "1,298",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "observed at FMPs on a daily basis",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "3 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in comparison"
+  },
+  {
+    "quantity": "1,336",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "observed on a daily basis"
+  }
+]

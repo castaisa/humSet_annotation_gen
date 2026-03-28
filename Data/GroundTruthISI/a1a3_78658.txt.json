@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "3,100",
+      "begin": 107,
+      "end": 112
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 100,
+      "end": 106
+    },
+    "unit": {
+      "text": "household",
+      "begin": 113,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "presented with detailed information on food insecurity status",
+      "begin": 136,
+      "end": 197
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54%",
+      "begin": 294,
+      "end": 297
+    },
+    "unit": {
+      "text": "migrants and host communities",
+      "begin": 305,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 425,
+      "end": 438
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 471,
+      "end": 474
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 464,
+      "end": 470
+    },
+    "unit": {
+      "text": "migrants",
+      "begin": 478,
+      "end": 486
+    },
+    "eventDescription": {
+      "text": "food insecure.",
+      "begin": 571,
+      "end": 585
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "60%",
+      "begin": 542,
+      "end": 545
+    },
+    "unit": {
+      "text": "migrants",
+      "begin": 558,
+      "end": 566
+    },
+    "eventDescription": {
+      "text": "food insecure.",
+      "begin": 571,
+      "end": 585
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "101",
+      "start": 33,
+      "end": 36
+    },
+    "eventDescription": {
+      "text": "reported among Rohingya",
+      "start": 62,
+      "end": 85
+    },
+    "unit": {
+      "text": "cases",
+      "start": 46,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 87,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "reported from Kutupalong RC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 115,
+      "end": 116
+    },
+    "eventDescription": {
+      "text": "reported from camp 1E",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7",
+      "start": 131,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "reported from camp 1W",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4",
+      "start": 147,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "reported from camp 2E",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9",
+      "start": 163,
+      "end": 164
+    },
+    "eventDescription": {
+      "text": "reported from camp 2W",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 179,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "reported from camp 3",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 192,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "reported from camp 4",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 210,
+      "end": 211
+    },
+    "eventDescription": {
+      "text": "reported in camp 5",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13",
+      "start": 223,
+      "end": 225
+    },
+    "eventDescription": {
+      "text": "reported from camp 6",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7",
+      "start": 239,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "reported from camp 7",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 254,
+      "end": 255
+    },
+    "eventDescription": {
+      "text": "reported from camp 8E",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 89,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 270,
+      "end": 271
+    },
+    "eventDescription": {
+      "text": "reported from camp 8W",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 286,
+      "end": 287
+    },
+    "eventDescription": {
+      "text": "reported from camp 9",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 301,
+      "end": 302
+    },
+    "eventDescription": {
+      "text": "reported from camp 10",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 317,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "reported from camp 11",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 329,
+      "end": 330
+    },
+    "eventDescription": {
+      "text": "reported from camp 12",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 89,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 346,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "reported from camp 14",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 361,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "reported from camp 15",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 89,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 365,
+      "end": 366
+    },
+    "eventDescription": {
+      "text": "reported from camp 16",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 89,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 377,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "reported from camp 17",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 89,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 413,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "reported from camp 18",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 429,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "reported from camp 21",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 441,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "reported from camp 22",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 461,
+      "end": 462
+    },
+    "eventDescription": {
+      "text": "reported from camp 24",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 477,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "reported from camp 25",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 89,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 489,
+      "end": 490
+    },
+    "eventDescription": {
+      "text": "reported from camp 26",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 493,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "reported from camp 27",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5",
+      "start": 528,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "reported from Nayapara RC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 89,
+      "end": 94
+    }
+  }
+]

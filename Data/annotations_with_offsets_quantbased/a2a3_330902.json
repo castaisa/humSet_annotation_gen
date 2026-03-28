@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1.6 percent",
+      "start": 585,
+      "end": 596
+    },
+    "eventDescription": {
+      "text": "accounted for by north-east states",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of all confirmed cases in Nigeria",
+      "start": 597,
+      "end": 630
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3.9 percent",
+      "start": 666,
+      "end": 677
+    },
+    "eventDescription": {
+      "text": "accounted for by north-east states",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the national mortality rates",
+      "start": 678,
+      "end": 709
+    }
+  }
+]

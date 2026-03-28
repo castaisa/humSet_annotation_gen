@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received a range of child protection services",
+      "start": 156,
+      "end": 201
+    },
+    "quantity": {
+      "text": "40,855",
+      "start": 105,
+      "end": 111
+    },
+    "unit": {
+      "text": "people",
+      "start": 112,
+      "end": 118
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received a range of child protection services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14,947",
+      "start": 129,
+      "end": 135
+    },
+    "unit": {
+      "text": "girls",
+      "start": 136,
+      "end": 141
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received a range of child protection services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11,541",
+      "start": 144,
+      "end": 150
+    },
+    "unit": {
+      "text": "boys",
+      "start": 151,
+      "end": 155
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "provided with individual case management services and follow up support",
+      "start": 271,
+      "end": 342
+    },
+    "quantity": {
+      "text": "821",
+      "start": 241,
+      "end": 244
+    },
+    "unit": {
+      "text": "at risk children",
+      "start": 245,
+      "end": 261
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "released from armed forces and placed in alternative or group care",
+      "start": 393,
+      "end": 459
+    },
+    "quantity": {
+      "text": "9",
+      "start": 357,
+      "end": 358
+    },
+    "unit": {
+      "text": "children",
+      "start": 359,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "released from armed forces and placed in alternative or group care",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 369,
+      "end": 370
+    },
+    "unit": {
+      "text": "girl",
+      "start": 371,
+      "end": 375
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "released from armed forces and placed in alternative or group care",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8",
+      "start": 380,
+      "end": 381
+    },
+    "unit": {
+      "text": "boys",
+      "start": 382,
+      "end": 386
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefited from PSS to improve their psychosocial wellbeing",
+      "start": 530,
+      "end": 588
+    },
+    "quantity": {
+      "text": "13,228",
+      "start": 485,
+      "end": 491
+    },
+    "unit": {
+      "text": "children",
+      "start": 492,
+      "end": 500
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefited from PSS to improve their psychosocial wellbeing",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8153",
+      "start": 502,
+      "end": 506
+    },
+    "unit": {
+      "text": "girls",
+      "start": 507,
+      "end": 512
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefited from PSS to improve their psychosocial wellbeing",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5,075",
+      "start": 517,
+      "end": 522
+    },
+    "unit": {
+      "text": "boys",
+      "start": 523,
+      "end": 527
+    }
+  }
+]

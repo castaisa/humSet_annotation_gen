@@ -1,0 +1,29 @@
+[
+  {
+    "quantity": "4.5 per cent",
+    "unit": "of surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "children had access to e-learning platforms"
+  },
+  {
+    "quantity": "about 70 per cent",
+    "unit": "of surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "used at least one form of distance learning",
+    "modifier": "about"
+  },
+  {
+    "quantity": "about seven per cent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "child-labour reportedly increased",
+    "modifier": "about"
+  },
+  {
+    "quantity": "about 82 per cent",
+    "unit": "of interviewed key informants",
+    "eventType": "EventP",
+    "eventDescription": "reported that children are engaged in child labour that prevents them from attending school",
+    "modifier": "about"
+  }
+]

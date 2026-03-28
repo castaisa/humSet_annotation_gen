@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 95,
+      "end": 98
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 90,
+      "end": 94
+    },
+    "unit": {
+      "text": "unaccompanied/ children",
+      "begin": 99,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "POC vulnerable",
+      "begin": 154,
+      "end": 168
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "54",
+      "begin": 123,
+      "end": 125
+    },
+    "unit": {
+      "text": "who are extremely separated",
+      "begin": 126,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "POC vulnerable",
+      "begin": 154,
+      "end": 168
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "70 per cent",
+      "begin": 180,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "POC vulnerable",
+      "begin": 154,
+      "end": 168
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "More than",
+      "begin": 170,
+      "end": 179
+    },
+    "unit": {
+      "text": "female and aged between 15 and 17",
+      "begin": 204,
+      "end": 237
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 451,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "reported cases of potential trafficking",
+      "begin": 456,
+      "end": 495
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "migrant children",
+      "begin": 499,
+      "end": 515
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 520,
+      "end": 522
+    },
+    "unit": {
+      "text": "migrant children",
+      "begin": 499,
+      "end": 515
+    },
+    "eventDescription": {
+      "text": "other cases of potential sexual exploitation",
+      "begin": 523,
+      "end": 567
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "15,810",
+    "unit": "migrants and refugees",
+    "eventType": "EventP",
+    "eventDescription": "brought back to Libyan shores"
+  },
+  {
+    "quantity": "over 13,575",
+    "unit": "migrants and refugees",
+    "eventType": "EventP",
+    "eventDescription": "rescued or intercepted",
+    "modifier": "over"
+  }
+]

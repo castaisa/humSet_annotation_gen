@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22,000",
+      "start": 7,
+      "end": 13
+    },
+    "eventDescription": {
+      "text": "reported as missing",
+      "start": 34,
+      "end": 53
+    },
+    "unit": {
+      "text": "Nigerians",
+      "start": 14,
+      "end": 23
+    },
+    "modifier": {
+      "text": "Around",
+      "start": 0,
+      "end": 6
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60 per cent",
+      "start": 246,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "were minors at the time they went missing",
+      "start": 258,
+      "end": 299
+    },
+    "unit": {
+      "text": "minors",
+      "start": 263,
+      "end": 269
+    },
+    "modifier": {
+      "text": "Nearly",
+      "start": 239,
+      "end": 245
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "367",
+      "start": 588,
+      "end": 591
+    },
+    "eventDescription": {
+      "text": "cases have been solved",
+      "start": 592,
+      "end": 614
+    },
+    "unit": {
+      "text": "cases",
+      "start": 592,
+      "end": 597
+    }
+  }
+]

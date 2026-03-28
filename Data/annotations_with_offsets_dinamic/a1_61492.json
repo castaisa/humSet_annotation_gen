@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "robbed",
+      "start": 56,
+      "end": 62
+    },
+    "quantity": {
+      "text": "$300",
+      "start": 718,
+      "end": 722
+    },
+    "unit": {
+      "text": "money",
+      "start": 686,
+      "end": 691
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "traveling",
+      "start": 148,
+      "end": 157
+    },
+    "quantity": {
+      "text": "two",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "nephews",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 98,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "households categorized with “high” or “very high” needs",
+      "begin": 41,
+      "end": 96
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "84%",
+      "begin": 179,
+      "end": 182
+    },
+    "eventDescription": {
+      "text": "unmet shelter/NFI",
+      "begin": 160,
+      "end": 177
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "71%",
+      "begin": 198,
+      "end": 201
+    },
+    "eventDescription": {
+      "text": "livelihoods",
+      "begin": 185,
+      "end": 196
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "63%",
+      "begin": 219,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "food security",
+      "begin": 204,
+      "end": 217
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "38%",
+      "begin": 237,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "protection",
+      "begin": 225,
+      "end": 235
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 249,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "WASH",
+      "begin": 243,
+      "end": 247
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15%)",
+      "begin": 270,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "nutrition",
+      "begin": 259,
+      "end": 268
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 497,
+      "end": 501
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 487,
+      "end": 496
+    },
+    "unit": {
+      "text": "households",
+      "begin": 505,
+      "end": 515
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 516,
+      "end": 524
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 581,
+      "end": 584
+    },
+    "eventDescription": {
+      "text": "insecurity as a barrier to accessing agricultural land",
+      "begin": 525,
+      "end": 579
+    },
+    "eventType": "EventO"
+  }
+]

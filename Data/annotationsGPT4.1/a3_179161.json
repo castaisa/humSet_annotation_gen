@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "6-59",
+    "unit": "months",
+    "eventType": "EventP",
+    "eventDescription": "age range of children"
+  },
+  {
+    "quantity": "19 percent",
+    "unit": "prevalence of chronic malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "chronic malnutrition among children aged 6-59 months"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "prevalence of chronic malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "chronic malnutrition among children aged 6-59 months"
+  },
+  {
+    "quantity": "35percent",
+    "unit": "prevalence of chronic malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "chronic malnutrition among boys aged 6-59 months"
+  },
+  {
+    "quantity": "31percent",
+    "unit": "prevalence of chronic malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "chronic malnutrition among girls aged 6-59 months"
+  },
+  {
+    "quantity": "1 percent",
+    "unit": "prevalence of acute malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "acute malnutrition among children aged 6-59 months"
+  },
+  {
+    "quantity": "2 percent",
+    "unit": "prevalence of acute malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "acute malnutrition among children aged 6-59 months"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "prevalence of acute malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "acute malnutrition among Pregnant and Lactating Women (PLW)"
+  },
+  {
+    "quantity": "4 percent",
+    "unit": "prevalence of acute malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "acute malnutrition among children aged 6-59 months in Idleb"
+  },
+  {
+    "quantity": "1 percent",
+    "unit": "prevalence of acute malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "acute malnutrition among children aged 6-59 months in Aleppo"
+  },
+  {
+    "quantity": "20 percent",
+    "unit": "prevalence of acute malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "acute malnutrition among PLW in Idleb"
+  },
+  {
+    "quantity": "2 percent",
+    "unit": "prevalence of acute malnutrition",
+    "eventType": "EventP",
+    "eventDescription": "acute malnutrition among PLW in Aleppo"
+  }
+]

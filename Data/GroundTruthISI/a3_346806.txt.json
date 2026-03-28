@@ -1,0 +1,152 @@
+[
+  {
+    "quantity": {
+      "text": "four percent",
+      "begin": 189,
+      "end": 201
+    },
+    "eventDescription": {
+      "text": "price of surgeon masks de-creased",
+      "begin": 152,
+      "end": 185
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "price",
+      "begin": 152,
+      "end": 157
+    }
+  },
+  {
+    "quantity": {
+      "text": "375",
+      "begin": 221,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "price of surgeon masks de-creased",
+      "begin": 152,
+      "end": 185
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP 375/mask",
+      "begin": 217,
+      "end": 229
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,456",
+      "begin": 287,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "price of surgeon masks de-creased",
+      "begin": 152,
+      "end": 185
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP 1,456/litre",
+      "begin": 283,
+      "end": 298
+    }
+  },
+  {
+    "quantity": {
+      "text": "one and two percent",
+      "begin": 349,
+      "end": 368
+    },
+    "eventDescription": {
+      "text": "price of soap bars and hand gel increased",
+      "begin": 304,
+      "end": 345
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "price",
+      "begin": 304,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "546",
+      "begin": 382,
+      "end": 385
+    },
+    "unit": {
+      "text": "SYP 546/bar",
+      "begin": 378,
+      "end": 389
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,140",
+      "begin": 398,
+      "end": 403
+    },
+    "unit": {
+      "text": "SYP 1,140/50 ml",
+      "begin": 394,
+      "end": 409
+    }
+  },
+  {
+    "quantity": {
+      "text": "five and seven percent",
+      "begin": 494,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "price of alcohol spray and plastic gloves increased",
+      "begin": 439,
+      "end": 490
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "price",
+      "begin": 439,
+      "end": 444
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,194",
+      "begin": 530,
+      "end": 535
+    },
+    "eventDescription": {
+      "text": "price of alcohol spray and plastic gloves increased",
+      "begin": 439,
+      "end": 490
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP 2,194/200 ml",
+      "begin": 526,
+      "end": 542
+    }
+  },
+  {
+    "quantity": {
+      "text": "509",
+      "begin": 551,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "price of alcohol spray and plastic gloves increased",
+      "begin": 439,
+      "end": 490
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP 509/pair",
+      "begin": 547,
+      "end": 559
+    }
+  }
+]

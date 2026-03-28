@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "31",
+    "unit": "informal sites",
+    "eventType": "EventO",
+    "eventDescription": "mapped as hotspots for evictions"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "evictions rate"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "evictions rate"
+  },
+  {
+    "quantity": "six",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases registered in MMC and Jere LGAs"
+  },
+  {
+    "quantity": "one",
+    "unit": "month",
+    "eventType": "EventO",
+    "eventDescription": "span of time for cases"
+  },
+  {
+    "quantity": "one",
+    "unit": "case",
+    "eventType": "EventO",
+    "eventDescription": "cases received per month in previous months"
+  },
+  {
+    "quantity": "two",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases received per month in previous months"
+  }
+]

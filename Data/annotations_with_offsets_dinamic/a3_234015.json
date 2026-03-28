@@ -1,0 +1,25 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "births attended by qualified personnel",
+      "start": 556,
+      "end": 594
+    },
+    "modifier": {
+      "text": "less than",
+      "start": 637,
+      "end": 646
+    },
+    "quantity": {
+      "text": "less than 35%",
+      "start": 637,
+      "end": 650
+    },
+    "unit": {
+      "text": "births attended by qualified personnel",
+      "start": 556,
+      "end": 594
+    }
+  }
+]

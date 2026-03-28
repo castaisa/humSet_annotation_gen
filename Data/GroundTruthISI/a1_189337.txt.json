@@ -1,0 +1,95 @@
+[
+  {
+    "quantity": {
+      "text": "30,000",
+      "begin": 588,
+      "end": 594
+    },
+    "unit": {
+      "text": "C",
+      "begin": 587,
+      "end": 588
+    },
+    "modifier": {
+      "text": "range between",
+      "begin": 573,
+      "end": 586
+    }
+  },
+  {
+    "quantity": {
+      "text": "40,000",
+      "begin": 600,
+      "end": 606
+    },
+    "unit": {
+      "text": "C",
+      "begin": 599,
+      "end": 600
+    },
+    "modifier": {
+      "text": "range between",
+      "begin": 573,
+      "end": 586
+    }
+  },
+  {
+    "quantity": {
+      "text": "18.000",
+      "begin": 678,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "Crecemos is a fixed amount",
+      "begin": 646,
+      "end": 672
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "C",
+      "begin": 676,
+      "end": 677
+    }
+  },
+  {
+    "quantity": {
+      "text": "400 000",
+      "begin": 726,
+      "end": 733
+    },
+    "eventDescription": {
+      "text": "reach",
+      "begin": 715,
+      "end": 720
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 721,
+      "end": 725
+    },
+    "unit": {
+      "text": "children",
+      "begin": 734,
+      "end": 742
+    }
+  },
+  {
+    "quantity": {
+      "text": "29%",
+      "begin": 744,
+      "end": 747
+    },
+    "eventDescription": {
+      "text": "reach",
+      "begin": 715,
+      "end": 720
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 755,
+      "end": 763
+    }
+  }
+]

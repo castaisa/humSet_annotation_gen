@@ -1,0 +1,54 @@
+[
+  {
+    "quantity": {
+      "text": "5.1",
+      "begin": 175,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "nonregistered",
+      "begin": 160,
+      "end": 173
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.3",
+      "begin": 192,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 180,
+      "end": 190
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.1",
+      "begin": 245,
+      "end": 248
+    },
+    "eventDescription": {
+      "text": "decreased in the host community",
+      "begin": 201,
+      "end": 232
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.4",
+      "begin": 238,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "decreased in the host community",
+      "begin": 201,
+      "end": 232
+    },
+    "eventType": "EventO"
+  }
+]

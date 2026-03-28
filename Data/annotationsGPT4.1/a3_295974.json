@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "11",
+    "unit": "provinces",
+    "eventType": "EventP",
+    "eventDescription": "case workers present"
+  },
+  {
+    "quantity": "60",
+    "unit": "PSN households",
+    "eventType": "EventP",
+    "eventDescription": "case management assessments"
+  },
+  {
+    "quantity": "8",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children at risk"
+  },
+  {
+    "quantity": "5",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people with serious medical conditions"
+  },
+  {
+    "quantity": "4",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "women at risk"
+  },
+  {
+    "quantity": "3",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "persons with disabilities"
+  },
+  {
+    "quantity": "3",
+    "unit": "older persons",
+    "eventType": "EventP",
+    "eventDescription": "older persons at risk"
+  },
+  {
+    "quantity": "2,062",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases ongoing"
+  },
+  {
+    "quantity": "130",
+    "unit": "PSN individuals",
+    "eventType": "EventP",
+    "eventDescription": "PSN individuals identified"
+  }
+]

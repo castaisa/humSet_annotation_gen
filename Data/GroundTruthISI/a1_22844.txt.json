@@ -1,0 +1,226 @@
+[
+  {
+    "quantity": {
+      "text": "360",
+      "begin": 143,
+      "end": 146
+    },
+    "eventDescription": {
+      "text": "nutri�on screening using mid-upper arm circumference (MUAC) and Oedema for acute malnutri�on was conducted",
+      "begin": 13,
+      "end": 119
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children of 6-59 months",
+      "begin": 147,
+      "end": 170
+    }
+  },
+  {
+    "quantity": {
+      "text": "360",
+      "begin": 179,
+      "end": 182
+    },
+    "modifier": {
+      "text": "Of the",
+      "begin": 172,
+      "end": 178
+    },
+    "unit": {
+      "text": "children",
+      "begin": 183,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "screened",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 224,
+      "end": 225
+    },
+    "unit": {
+      "text": "children (from accessible area)",
+      "begin": 226,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "were in the Red category",
+      "begin": 258,
+      "end": 282
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "328",
+      "begin": 319,
+      "end": 322
+    },
+    "unit": {
+      "text": "children (from accessible area)",
+      "begin": 226,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "were measured in the Green category",
+      "begin": 323,
+      "end": 358
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "29",
+      "begin": 284,
+      "end": 286
+    },
+    "unit": {
+      "text": "children (from accessible area)",
+      "begin": 226,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "in the Yellow category",
+      "begin": 292,
+      "end": 314
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 398,
+      "end": 399
+    },
+    "eventDescription": {
+      "text": "No case of Oedema was reported",
+      "begin": 360,
+      "end": 390
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 400,
+      "end": 404
+    }
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 452,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "No case of Oedema was reported",
+      "begin": 360,
+      "end": 390
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children from a neighbouring countries",
+      "begin": 455,
+      "end": 493
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 495,
+      "end": 497
+    },
+    "eventDescription": {
+      "text": "No case of Oedema was reported",
+      "begin": 360,
+      "end": 390
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 513,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "No case of Oedema was reported",
+      "begin": 360,
+      "end": 390
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 529,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "No case of Oedema was reported",
+      "begin": 360,
+      "end": 390
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 553,
+      "end": 555
+    },
+    "unit": {
+      "text": "children",
+      "begin": 556,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "measured",
+      "begin": 565,
+      "end": 573
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 609,
+      "end": 611
+    },
+    "unit": {
+      "text": "children",
+      "begin": 556,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "were in the green category",
+      "begin": 612,
+      "end": 638
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 643,
+      "end": 644
+    },
+    "unit": {
+      "text": "children",
+      "begin": 556,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "in the yellow category",
+      "begin": 645,
+      "end": 667
+    },
+    "eventType": "EventP"
+  }
+]

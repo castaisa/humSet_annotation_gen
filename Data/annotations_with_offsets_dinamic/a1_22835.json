@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced",
+      "start": 320,
+      "end": 329
+    },
+    "modifier": {
+      "text": "an estimated",
+      "start": 330,
+      "end": 342
+    },
+    "quantity": {
+      "text": "2.4 million",
+      "start": 343,
+      "end": 354
+    },
+    "unit": {
+      "text": "people",
+      "start": 355,
+      "end": 361
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "require humanitarian assistance",
+      "start": 633,
+      "end": 664
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 594,
+      "end": 600
+    },
+    "quantity": {
+      "text": "11 million",
+      "start": 601,
+      "end": 611
+    },
+    "unit": {
+      "text": "people",
+      "start": 612,
+      "end": 618
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "require humanitarian assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.7 million",
+      "start": 690,
+      "end": 701
+    },
+    "unit": {
+      "text": "people",
+      "start": 702,
+      "end": 708
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "most-affected",
+      "start": 741,
+      "end": 754
+    },
+    "quantity": {
+      "text": "three",
+      "start": 735,
+      "end": 740
+    },
+    "unit": {
+      "text": "states",
+      "start": 755,
+      "end": 761
+    }
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20.2 percent",
+      "start": 65,
+      "end": 77
+    },
+    "eventDescription": {
+      "text": "unemployed",
+      "start": 113,
+      "end": 123
+    },
+    "unit": {
+      "text": "women",
+      "start": 81,
+      "end": 86
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8 percent",
+      "start": 131,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "unemployed",
+      "start": 113,
+      "end": 123
+    },
+    "unit": {
+      "text": "men",
+      "start": 144,
+      "end": 147
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9.3 percent",
+      "start": 192,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "actively looking for a job",
+      "start": 224,
+      "end": 250
+    },
+    "unit": {
+      "text": "unemployed women",
+      "start": 207,
+      "end": 223
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4.1 percent",
+      "start": 259,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "actively looking for a job",
+      "start": 224,
+      "end": 250
+    },
+    "unit": {
+      "text": "men",
+      "start": 274,
+      "end": 277
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 48 percent",
+      "start": 304,
+      "end": 320
+    },
+    "eventDescription": {
+      "text": "are housewives",
+      "start": 321,
+      "end": 335
+    },
+    "unit": {
+      "text": "unemployed women",
+      "start": 286,
+      "end": 302
+    },
+    "modifier": {
+      "text": "about",
+      "start": 304,
+      "end": 309
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20 percent",
+      "start": 337,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "are students",
+      "start": 348,
+      "end": 360
+    },
+    "unit": {
+      "text": "unemployed women",
+      "start": 286,
+      "end": 302
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11.7 percent",
+      "start": 366,
+      "end": 378
+    },
+    "eventDescription": {
+      "text": "are too old to work",
+      "start": 379,
+      "end": 398
+    },
+    "unit": {
+      "text": "unemployed women",
+      "start": 286,
+      "end": 302
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "26.5 percent",
+      "start": 534,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "unemployed",
+      "start": 286,
+      "end": 296
+    },
+    "unit": {
+      "text": "women in rural areas",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9.9 percent",
+      "start": 561,
+      "end": 572
+    },
+    "eventDescription": {
+      "text": "unemployed",
+      "start": 286,
+      "end": 296
+    },
+    "unit": {
+      "text": "men in rural areas",
+      "start": null,
+      "end": null
+    }
+  }
+]

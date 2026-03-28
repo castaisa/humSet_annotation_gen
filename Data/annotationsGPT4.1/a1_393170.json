@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "62",
+    "unit": "health workers, caregivers and community leaders",
+    "eventType": "EventP",
+    "eventDescription": "indicates that domestic and community violence"
+  },
+  {
+    "quantity": "6",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "said family separation is the most problem affecting the community"
+  },
+  {
+    "quantity": "42",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "indicates that lack of livelihood opportunities"
+  },
+  {
+    "quantity": "11",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "indicates problems related to access to basic services \u2013 health as the problems affecting the community"
+  },
+  {
+    "quantity": "27",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "said problems related to food and water as a basic needs are the problems affecting the community"
+  },
+  {
+    "quantity": "1",
+    "unit": "person",
+    "eventType": "EventP",
+    "eventDescription": "indicates that problems related to education as the basic services are the problems"
+  },
+  {
+    "quantity": "2",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "said security problems are the main problems affecting the community"
+  },
+  {
+    "quantity": "23",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "said shelter problems are the most affecting the community"
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "quantity": {
+      "text": "169",
+      "begin": 78,
+      "end": 81
+    },
+    "modifier": {
+      "text": "some",
+      "begin": 73,
+      "end": 77
+    },
+    "unit": {
+      "text": "international and national partners",
+      "begin": 82,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "actively coordinated to assist people",
+      "begin": 118,
+      "end": 155
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 219,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "actively coordinated to assist people",
+      "begin": 118,
+      "end": 155
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "governorates",
+      "begin": 222,
+      "end": 234
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.5 million",
+      "begin": 269,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 255,
+      "end": 263
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 264,
+      "end": 268
+    },
+    "unit": {
+      "text": "people",
+      "begin": 281,
+      "end": 287
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.5 million",
+      "begin": 412,
+      "end": 423
+    },
+    "eventDescription": {
+      "text": "provided emergency food assistance",
+      "begin": 374,
+      "end": 408
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 424,
+      "end": 430
+    }
+  },
+  {
+    "quantity": {
+      "text": "twice",
+      "begin": 443,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "provided emergency food assistance",
+      "begin": 374,
+      "end": 408
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 433,
+      "end": 442
+    },
+    "unit": {
+      "text": "the number of people reached over a year ago.",
+      "begin": 449,
+      "end": 494
+    }
+  },
+  {
+    "quantity": {
+      "text": "6.3 million",
+      "begin": 549,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "benefited",
+      "begin": 539,
+      "end": 548
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 561,
+      "end": 567
+    }
+  },
+  {
+    "quantity": {
+      "text": "60 per cent",
+      "begin": 572,
+      "end": 583
+    },
+    "unit": {
+      "text": "people",
+      "begin": 561,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 584,
+      "end": 592
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 673,
+      "end": 684
+    },
+    "unit": {
+      "text": "people receiving health services",
+      "begin": 627,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "risen",
+      "begin": 664,
+      "end": 669
+    },
+    "eventType": "EventA"
+  }
+]

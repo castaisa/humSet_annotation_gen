@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "11, 841",
+      "begin": 69,
+      "end": 76
+    },
+    "unit": {
+      "text": "M",
+      "begin": 77,
+      "end": 78
+    },
+    "eventDescription": {
+      "text": "received outpatient care",
+      "begin": 91,
+      "end": 115
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "16, 910",
+      "begin": 80,
+      "end": 87
+    },
+    "unit": {
+      "text": "F",
+      "begin": 88,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "received outpatient care",
+      "begin": 91,
+      "end": 115
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "28, 751",
+      "begin": 60,
+      "end": 67
+    },
+    "unit": {
+      "text": "received outpatient care",
+      "begin": 91,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "received outpatient care",
+      "begin": 91,
+      "end": 115
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "346",
+      "begin": 125,
+      "end": 128
+    },
+    "unit": {
+      "text": "M",
+      "begin": 129,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "sexual and reproductive health services",
+      "begin": 193,
+      "end": 232
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5, 282",
+      "begin": 132,
+      "end": 138
+    },
+    "unit": {
+      "text": "F",
+      "begin": 139,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "sexual and reproductive health services",
+      "begin": 193,
+      "end": 232
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "7, 809",
+      "begin": 155,
+      "end": 161
+    },
+    "unit": {
+      "text": "M",
+      "begin": 161,
+      "end": 162
+    },
+    "eventDescription": {
+      "text": "Health promotion services",
+      "begin": 237,
+      "end": 262
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "12, 976",
+      "begin": 164,
+      "end": 171
+    },
+    "unit": {
+      "text": "F",
+      "begin": 172,
+      "end": 173
+    },
+    "eventDescription": {
+      "text": "Health promotion services",
+      "begin": 237,
+      "end": 262
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "20, 785",
+      "begin": 146,
+      "end": 153
+    },
+    "unit": {
+      "text": "reached",
+      "begin": 180,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "Health promotion services",
+      "begin": 237,
+      "end": 262
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5, 628",
+      "begin": 117,
+      "end": 123
+    },
+    "unit": {
+      "text": "reached",
+      "begin": 180,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "sexual and reproductive health services",
+      "begin": 193,
+      "end": 232
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "64",
+      "begin": 565,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "training",
+      "begin": 553,
+      "end": 561
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "MOH staff",
+      "begin": 580,
+      "end": 589
+    }
+  },
+  {
+    "quantity": {
+      "text": "49",
+      "begin": 569,
+      "end": 571
+    },
+    "eventDescription": {
+      "text": "training",
+      "begin": 553,
+      "end": 561
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "M",
+      "begin": 572,
+      "end": 573
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 575,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "training",
+      "begin": 553,
+      "end": 561
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "F",
+      "begin": 577,
+      "end": 578
+    }
+  }
+]

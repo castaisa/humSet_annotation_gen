@@ -1,0 +1,37 @@
+[
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 618,
+      "end": 620
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 608,
+      "end": 617
+    },
+    "unit": {
+      "text": "continuous days",
+      "begin": 621,
+      "end": 636
+    }
+  },
+  {
+    "quantity": {
+      "text": "29%",
+      "begin": 1330,
+      "end": 1333
+    },
+    "eventDescription": {
+      "text": "Open defecation",
+      "begin": 1294,
+      "end": 1309
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rural population",
+      "begin": 1337,
+      "end": 1353
+    }
+  }
+]

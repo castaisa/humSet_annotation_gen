@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16",
+      "start": 212,
+      "end": 214
+    },
+    "eventDescription": {
+      "text": "represented in pie charts",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "reporting partners",
+      "start": 215,
+      "end": 233
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "330,401",
+      "start": 429,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "targeted for livelihood support and cash and voucher assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 437,
+      "end": 448
+    }
+  }
+]

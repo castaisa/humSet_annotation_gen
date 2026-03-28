@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "89",
+    "unit": "rank",
+    "eventType": "EventO",
+    "eventDescription": "ranked in the human development index"
+  },
+  {
+    "quantity": "72.5 percent",
+    "unit": "informality rate",
+    "eventType": "EventO",
+    "eventDescription": "informality rate in the region"
+  },
+  {
+    "quantity": "three",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "among the top countries with confirmed COVID-19 cases in the region"
+  },
+  {
+    "quantity": "ten",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "among the top countries with confirmed COVID-19 cases worldwide"
+  }
+]

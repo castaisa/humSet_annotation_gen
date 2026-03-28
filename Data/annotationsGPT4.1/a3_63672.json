@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "three",
+    "unit": "separate explosive incidents",
+    "eventType": "EventO",
+    "eventDescription": "explosive incidents occurred"
+  },
+  {
+    "quantity": "one",
+    "unit": "INGO staff member",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "three",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "one",
+    "unit": "female",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "one",
+    "unit": "driver",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  },
+  {
+    "quantity": "two",
+    "unit": "other children",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  },
+  {
+    "quantity": "one",
+    "unit": "water truck",
+    "eventType": "EventA",
+    "eventDescription": "destroyed"
+  },
+  {
+    "quantity": "one",
+    "unit": "driver",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "one",
+    "unit": "passenger",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  }
+]

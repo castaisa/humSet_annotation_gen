@@ -1,0 +1,212 @@
+[
+  {
+    "quantity": {
+      "text": "135,000",
+      "begin": 95,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "UNICEF through the support of partners provided curative consultations",
+      "begin": 17,
+      "end": 87
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 103,
+      "end": 109
+    }
+  },
+  {
+    "quantity": {
+      "text": "70,000",
+      "begin": 126,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "UNICEF through the support of partners provided curative consultations",
+      "begin": 17,
+      "end": 87
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children under the age of 5 years",
+      "begin": 133,
+      "end": 166
+    }
+  },
+  {
+    "quantity": {
+      "text": "72,850",
+      "begin": 188,
+      "end": 194
+    },
+    "eventDescription": {
+      "text": "UNICEF through the support of partners provided curative consultations",
+      "begin": 17,
+      "end": 87
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "females",
+      "begin": 195,
+      "end": 202
+    }
+  },
+  {
+    "quantity": {
+      "text": "63,316",
+      "begin": 207,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "UNICEF through the support of partners provided curative consultations",
+      "begin": 17,
+      "end": 87
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "males",
+      "begin": 214,
+      "end": 219
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 159,
+      "end": 160
+    },
+    "unit": {
+      "text": "years",
+      "begin": 161,
+      "end": 166
+    }
+  },
+  {
+    "quantity": {
+      "text": "37%",
+      "begin": 411,
+      "end": 414
+    },
+    "unit": {
+      "text": "children and adults",
+      "begin": 355,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "malaria",
+      "begin": 402,
+      "end": 409
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "17%",
+      "begin": 439,
+      "end": 442
+    },
+    "unit": {
+      "text": "children and adults",
+      "begin": 355,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "pneumonia",
+      "begin": 428,
+      "end": 437
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "14%",
+      "begin": 459,
+      "end": 462
+    },
+    "unit": {
+      "text": "children and adults",
+      "begin": 355,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "diarrhoea",
+      "begin": 448,
+      "end": 457
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "98,634",
+      "begin": 514,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "UNICEF and its partners distributed",
+      "begin": 478,
+      "end": 513
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "long lasting insecticide treated nets",
+      "begin": 521,
+      "end": 558
+    }
+  },
+  {
+    "quantity": {
+      "text": "49,317",
+      "begin": 571,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "UNICEF and its partners distributed",
+      "begin": 478,
+      "end": 513
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "families",
+      "begin": 578,
+      "end": 586
+    }
+  },
+  {
+    "quantity": {
+      "text": "191",
+      "begin": 680,
+      "end": 683
+    },
+    "eventDescription": {
+      "text": "UNICEF also continued with the distribution of essential drugs and medical equipment",
+      "begin": 588,
+      "end": 672
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "World Bank supported health facilities",
+      "begin": 684,
+      "end": 722
+    }
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 730,
+      "end": 732
+    },
+    "eventDescription": {
+      "text": "UNICEF also continued with the distribution of essential drugs and medical equipment",
+      "begin": 588,
+      "end": 672
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "counties",
+      "begin": 733,
+      "end": 741
+    }
+  }
+]

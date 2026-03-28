@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "2,153",
+      "begin": 40,
+      "end": 45
+    },
+    "unit": {
+      "text": "incidents of armed clashes",
+      "begin": 46,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 73,
+      "end": 81
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "95 per cent",
+      "begin": 199,
+      "end": 210
+    },
+    "unit": {
+      "text": "security-related incidents",
+      "begin": 218,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "security-related incidents",
+      "begin": 218,
+      "end": 244
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "92 per cent",
+      "begin": 249,
+      "end": 260
+    },
+    "unit": {
+      "text": "armed clashes",
+      "begin": 264,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "armed clashes",
+      "begin": 264,
+      "end": 277
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 430,
+      "end": 432
+    },
+    "unit": {
+      "text": "international military air strikes",
+      "begin": 433,
+      "end": 467
+    },
+    "eventDescription": {
+      "text": "international military air strikes",
+      "begin": 433,
+      "end": 467
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "299",
+      "begin": 511,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "international military air strikes",
+      "begin": 433,
+      "end": 467
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "international military air strikes",
+      "begin": 433,
+      "end": 467
+    }
+  },
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 606,
+      "end": 617
+    },
+    "unit": {
+      "text": "umber of air strikes by the Afghan Air Force",
+      "begin": 548,
+      "end": 592
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 593,
+      "end": 602
+    },
+    "eventType": "EventO"
+  }
+]

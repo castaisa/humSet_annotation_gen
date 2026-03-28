@@ -1,0 +1,236 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23.7%",
+      "start": 144,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "global chronic malnutrition or Stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months",
+      "start": 119,
+      "end": 139
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20.4 - 27.3",
+      "start": 151,
+      "end": 162
+    },
+    "eventDescription": {
+      "text": "confidence interval for global chronic malnutrition or Stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months",
+      "start": 119,
+      "end": 139
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20.7%",
+      "start": 182,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "global chronic malnutrition or Stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months in Ukhiya",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16.6 - 25.6",
+      "start": 189,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "confidence interval for global chronic malnutrition or Stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months in Ukhiya",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25.8%",
+      "start": 225,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "global chronic malnutrition or Stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months in Teknaf Upazila",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20.8 - 31.6",
+      "start": 232,
+      "end": 243
+    },
+    "eventDescription": {
+      "text": "confidence interval for global chronic malnutrition or Stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months in Teknaf Upazila",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.0%",
+      "start": 404,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "severe stunting prevalence",
+      "start": 361,
+      "end": 387
+    },
+    "unit": {
+      "text": "children 6-59 months",
+      "start": 119,
+      "end": 139
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.9 - 4.8",
+      "start": 410,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "confidence interval for severe stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months",
+      "start": 119,
+      "end": 139
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.2%",
+      "start": 450,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "severe stunting prevalence",
+      "start": 361,
+      "end": 387
+    },
+    "unit": {
+      "text": "children 6-59 months in Ukhiya",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.7 - 5.9",
+      "start": 456,
+      "end": 465
+    },
+    "eventDescription": {
+      "text": "confidence interval for severe stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months in Ukhiya",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.1%",
+      "start": 490,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "severe stunting prevalence",
+      "start": 361,
+      "end": 387
+    },
+    "unit": {
+      "text": "children 6-59 months in Teknaf Upazila",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.7 - 5.4",
+      "start": 496,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "confidence interval for severe stunting prevalence",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children 6-59 months in Teknaf Upazila",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "0.05",
+      "start": 657,
+      "end": 661
+    },
+    "eventDescription": {
+      "text": "statistical significance threshold",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "P value",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 189,
+      "end": 193
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 180,
+      "end": 188
+    },
+    "unit": {
+      "text": "civilians",
+      "begin": 194,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 209,
+      "end": 213
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 256,
+      "end": 258
+    },
+    "unit": {
+      "text": "civilians",
+      "begin": 194,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 269,
+      "end": 276
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 238,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 209,
+      "end": 213
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 242,
+      "end": 250
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 288,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 269,
+      "end": 276
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 293,
+      "end": 301
+    }
+  },
+  {
+    "quantity": {
+      "text": "125,000",
+      "begin": 523,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "Electricity and water are completely cut off",
+      "begin": 456,
+      "end": 500
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "approximately",
+      "begin": 509,
+      "end": 522
+    },
+    "unit": {
+      "text": "residents",
+      "begin": 531,
+      "end": 540
+    }
+  }
+]

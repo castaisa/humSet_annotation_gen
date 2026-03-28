@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 38,
+      "end": 40
+    },
+    "eventDescription": {
+      "text": "Rapid assessments were carried",
+      "begin": 0,
+      "end": 30
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "new communitie",
+      "begin": 41,
+      "end": 55
+    }
+  },
+  {
+    "quantity": {
+      "text": "130",
+      "begin": 606,
+      "end": 609
+    },
+    "unit": {
+      "text": "key informants",
+      "begin": 610,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "were interviewed",
+      "begin": 625,
+      "end": 641
+    },
+    "eventType": "EventP"
+  }
+]

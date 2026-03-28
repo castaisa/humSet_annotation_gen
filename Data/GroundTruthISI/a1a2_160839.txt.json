@@ -1,0 +1,122 @@
+[
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 39,
+      "end": 41
+    },
+    "unit": {
+      "text": "informal sites",
+      "begin": 42,
+      "end": 56
+    },
+    "eventDescription": {
+      "text": "mapped as hotspots for evictions",
+      "begin": 57,
+      "end": 89
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 183,
+      "end": 194
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 129,
+      "end": 137
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "increase in evictions",
+      "begin": 141,
+      "end": 162
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 per cent",
+      "begin": 168,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 129,
+      "end": 137
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "increase in evictions",
+      "begin": 141,
+      "end": 162
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 220,
+      "end": 223
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 224,
+      "end": 229
+    },
+    "eventDescription": {
+      "text": "registered",
+      "begin": 230,
+      "end": 240
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 279,
+      "end": 282
+    },
+    "unit": {
+      "text": "month",
+      "begin": 283,
+      "end": 288
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 322,
+      "end": 325
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 326,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "received per month",
+      "begin": 332,
+      "end": 350
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 315,
+      "end": 318
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 326,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "received per month",
+      "begin": 332,
+      "end": 350
+    },
+    "eventType": "EventP"
+  }
+]

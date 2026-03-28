@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "500",
+    "unit": "Cameroonian young entrepreneurs",
+    "eventType": "EventP",
+    "eventDescription": "negatively affected by the Coronavirus"
+  },
+  {
+    "quantity": "100",
+    "unit": "youths",
+    "eventType": "EventP",
+    "eventDescription": "targeted in the Southwest region"
+  },
+  {
+    "quantity": "150",
+    "unit": "youths",
+    "eventType": "EventP",
+    "eventDescription": "targeted in the Centre region"
+  },
+  {
+    "quantity": "150",
+    "unit": "youths",
+    "eventType": "EventP",
+    "eventDescription": "targeted in the Littoral region"
+  },
+  {
+    "quantity": "100",
+    "unit": "youths",
+    "eventType": "EventP",
+    "eventDescription": "targeted in the West region"
+  }
+]

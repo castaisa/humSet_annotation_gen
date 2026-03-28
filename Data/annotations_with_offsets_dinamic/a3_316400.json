@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "proportion of businesses reporting public and non-profit entities as important customers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two thirds",
+      "start": 633,
+      "end": 643
+    },
+    "unit": {
+      "text": "businesses",
+      "start": 220,
+      "end": 230
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "businesses reporting public and non-profit entities as important customers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "64%",
+      "start": 645,
+      "end": 648
+    },
+    "unit": {
+      "text": "businesses",
+      "start": 602,
+      "end": 612
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "businesses reporting decreased demand from public and non-profit customers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven in ten",
+      "start": 746,
+      "end": 758
+    },
+    "unit": {
+      "text": "businesses",
+      "start": 734,
+      "end": 744
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "businesses reporting decreased demand from public and non-profit customers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "69%",
+      "start": 760,
+      "end": 763
+    },
+    "unit": {
+      "text": "businesses",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "respondents experiencing a decline in demand by at least half",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nearly half",
+      "start": 865,
+      "end": 876
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 880,
+      "end": 891
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "respondents experiencing a decline in demand by at least half",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 931,
+      "end": 939
+    },
+    "quantity": {
+      "text": "49%",
+      "start": 893,
+      "end": 896
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "quantity": {
+      "text": "2.7 million",
+      "begin": 483,
+      "end": 494
+    },
+    "unit": {
+      "text": "people",
+      "begin": 506,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "rely on urgent humanitarian assistance",
+      "begin": 516,
+      "end": 554
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5,000",
+      "begin": 666,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "took 75 days to reach",
+      "begin": 644,
+      "end": 665
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "cases",
+      "begin": 672,
+      "end": 677
+    }
+  },
+  {
+    "quantity": {
+      "text": "75",
+      "begin": 649,
+      "end": 651
+    },
+    "unit": {
+      "text": "days",
+      "begin": 652,
+      "end": 656
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 687,
+      "end": 689
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 682,
+      "end": 686
+    },
+    "unit": {
+      "text": "days",
+      "begin": 690,
+      "end": 694
+    }
+  },
+  {
+    "quantity": {
+      "text": "16,000",
+      "begin": 718,
+      "end": 724
+    },
+    "eventDescription": {
+      "text": "30 days to reach",
+      "begin": 687,
+      "end": 703
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "caseload",
+      "begin": 706,
+      "end": 714
+    }
+  }
+]

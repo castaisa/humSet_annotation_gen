@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 2,000",
+      "start": 522,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "constructed",
+      "start": 602,
+      "end": 613
+    },
+    "unit": {
+      "text": "kilometres of roads",
+      "start": 533,
+      "end": 552
+    },
+    "modifier": {
+      "text": "over",
+      "start": 522,
+      "end": 526
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "thousands",
+      "start": 554,
+      "end": 563
+    },
+    "eventDescription": {
+      "text": "constructed",
+      "start": 602,
+      "end": 613
+    },
+    "unit": {
+      "text": "classrooms",
+      "start": 567,
+      "end": 577
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "716",
+      "start": 582,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "constructed",
+      "start": 602,
+      "end": 613
+    },
+    "unit": {
+      "text": "health centres",
+      "start": 586,
+      "end": 600
+    }
+  }
+]

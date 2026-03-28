@@ -1,0 +1,97 @@
+[
+  {
+    "quantity": {
+      "text": "273,500",
+      "begin": 193,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "number of its followers reached",
+      "begin": 151,
+      "end": 182
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "more than",
+      "begin": 183,
+      "end": 192
+    },
+    "unit": {
+      "text": "members",
+      "begin": 201,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 229,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "The group includes",
+      "begin": 210,
+      "end": 228
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "supervisors",
+      "begin": 232,
+      "end": 243
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 245,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "The group includes",
+      "begin": 210,
+      "end": 228
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "volunteers",
+      "begin": 248,
+      "end": 258
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 263,
+      "end": 265
+    },
+    "eventDescription": {
+      "text": "The group includes",
+      "begin": 210,
+      "end": 228
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "doctors",
+      "begin": 266,
+      "end": 273
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 289,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "telephone medical service",
+      "begin": 297,
+      "end": 322
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "hour",
+      "begin": 292,
+      "end": 296
+    }
+  }
+]

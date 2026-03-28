@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "920",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "admitted into the program"
+  },
+  {
+    "quantity": "thousands",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "controlled by Boko Haram factions"
+  },
+  {
+    "quantity": "23",
+    "unit": "former Safe Corridor internees",
+    "eventType": "EventP",
+    "eventDescription": "interviewed by Crisis Group"
+  },
+  {
+    "quantity": "one quarter",
+    "unit": "of the cohort at Mallam Sidi",
+    "eventType": "EventP",
+    "eventDescription": "from the low-level but committed jihadist recruits",
+    "modifier": "at most"
+  }
+]

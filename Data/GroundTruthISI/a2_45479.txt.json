@@ -1,0 +1,99 @@
+[
+  {
+    "quantity": {
+      "text": "82%",
+      "begin": 196,
+      "end": 199
+    },
+    "unit": {
+      "text": "households",
+      "begin": 65,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "found to be in greater need of food and agriculture assistance",
+      "begin": 81,
+      "end": 143
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "81%",
+      "begin": 204,
+      "end": 207
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 56,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "found to be in greater need of food and agriculture assistance",
+      "begin": 81,
+      "end": 143
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "66%",
+      "begin": 212,
+      "end": 215
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "begin": 156,
+      "end": 180
+    }
+  },
+  {
+    "quantity": {
+      "text": "(83%",
+      "begin": 574,
+      "end": 578
+    },
+    "eventDescription": {
+      "text": "higher proportion of households having poor or borderline FCS",
+      "begin": 512,
+      "end": 573
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "58%",
+      "begin": 631,
+      "end": 634
+    },
+    "eventDescription": {
+      "text": "higher proportion of households having poor or borderline FCS",
+      "begin": 512,
+      "end": 573
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 619,
+      "end": 629
+    }
+  },
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 639,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "higher proportion of households having poor or borderline FCS",
+      "begin": 512,
+      "end": 573
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnee households",
+      "begin": 610,
+      "end": 629
+    }
+  }
+]

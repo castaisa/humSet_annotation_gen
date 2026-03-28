@@ -1,0 +1,186 @@
+[
+  {
+    "quantity": {
+      "text": "two thirds",
+      "begin": 386,
+      "end": 396
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 376,
+      "end": 385
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 400,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "reported working with more stable arrangements",
+      "begin": 443,
+      "end": 489
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 508,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "reported working with more stable arrangements",
+      "begin": 443,
+      "end": 489
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "only",
+      "begin": 503,
+      "end": 507
+    },
+    "unit": {
+      "text": "West African respondents",
+      "begin": 523,
+      "end": 547
+    }
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 520,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "reported working with more stable arrangements",
+      "begin": 443,
+      "end": 489
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "only",
+      "begin": 503,
+      "end": 507
+    },
+    "unit": {
+      "text": "West African respondents",
+      "begin": 523,
+      "end": 547
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine out of 18",
+      "begin": 508,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "reported working with more stable arrangements",
+      "begin": 443,
+      "end": 489
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "only",
+      "begin": 503,
+      "end": 507
+    },
+    "unit": {
+      "text": "West African respondents",
+      "begin": 523,
+      "end": 547
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 733,
+      "end": 736
+    },
+    "unit": {
+      "text": "year",
+      "begin": 737,
+      "end": 741
+    },
+    "eventDescription": {
+      "text": "living in Libya",
+      "begin": 713,
+      "end": 728
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "or longer",
+      "begin": 742,
+      "end": 751
+    }
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 766,
+      "end": 768
+    },
+    "unit": {
+      "text": "refugee and migrant respondents",
+      "begin": 668,
+      "end": 699
+    },
+    "modifier": {
+      "text": "almost half",
+      "begin": 753,
+      "end": 764
+    },
+    "eventDescription": {
+      "text": "reported not having found a more stable work arrangement",
+      "begin": 780,
+      "end": 836
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "34 out of 89",
+      "begin": 766,
+      "end": 778
+    },
+    "unit": {
+      "text": "refugee and migrant respondents",
+      "begin": 668,
+      "end": 699
+    },
+    "modifier": {
+      "text": "almost half",
+      "begin": 753,
+      "end": 764
+    },
+    "eventDescription": {
+      "text": "reported not having found a more stable work arrangement",
+      "begin": 780,
+      "end": 836
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "89",
+      "begin": 776,
+      "end": 778
+    },
+    "unit": {
+      "text": "refugee and migrant respondents",
+      "begin": 668,
+      "end": 699
+    },
+    "modifier": {
+      "text": "almost half",
+      "begin": 753,
+      "end": 764
+    },
+    "eventDescription": {
+      "text": "reported not having found a more stable work arrangement",
+      "begin": 780,
+      "end": 836
+    },
+    "eventType": "EventO"
+  }
+]

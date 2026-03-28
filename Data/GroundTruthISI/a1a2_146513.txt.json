@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": {
+      "text": "89",
+      "begin": 42,
+      "end": 44
+    },
+    "unit": {
+      "text": "ranked",
+      "begin": 35,
+      "end": 41
+    },
+    "eventDescription": {
+      "text": "human development index",
+      "begin": 52,
+      "end": 75
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "millions",
+      "begin": 385,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "structural inequality gap that threatens the food security",
+      "begin": 323,
+      "end": 381
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Peruvians",
+      "begin": 397,
+      "end": 406
+    }
+  },
+  {
+    "quantity": {
+      "text": "72.5 percent",
+      "begin": 465,
+      "end": 477
+    },
+    "unit": {
+      "text": "highest informality rates",
+      "begin": 424,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "millions",
+      "begin": 549,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "strict lockdown measures drastically affected the livelihoods",
+      "begin": 484,
+      "end": 545
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 561,
+      "end": 571
+    }
+  },
+  {
+    "quantity": {
+      "text": "second",
+      "begin": 639,
+      "end": 645
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 651,
+      "end": 660
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 661,
+      "end": 675
+    }
+  },
+  {
+    "quantity": {
+      "text": "fifth",
+      "begin": 698,
+      "end": 703
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 651,
+      "end": 660
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 661,
+      "end": 675
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "8",
+      "start": 634,
+      "end": 635
+    },
+    "eventDescription": {
+      "text": "referenced health facility",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Mile Rock clinic",
+      "start": 636,
+      "end": 652
+    }
+  }
+]

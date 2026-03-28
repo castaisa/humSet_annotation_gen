@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average monthly per capita education expenditure",
+      "start": 161,
+      "end": 209
+    },
+    "modifier": {
+      "text": "on average",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "on average",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "monthly per capita education expenditure for host community households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "831",
+      "start": 252,
+      "end": 255
+    },
+    "unit": {
+      "text": "NGN",
+      "start": 256,
+      "end": 259
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "monthly per capita education expenditure for IDP households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "230",
+      "start": 275,
+      "end": 278
+    },
+    "unit": {
+      "text": "NGN",
+      "start": 279,
+      "end": 282
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with at least one girl among school-going children having higher education vulnerability",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30%",
+      "start": 541,
+      "end": 544
+    },
+    "unit": {
+      "text": "households",
+      "start": 291,
+      "end": 301
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with only boys attending school having higher education vulnerability",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 609,
+      "end": 611
+    },
+    "unit": {
+      "text": "households",
+      "start": 369,
+      "end": 379
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "assessed LGAs",
+      "start": 627,
+      "end": 640
+    },
+    "quantity": {
+      "text": "6",
+      "start": 625,
+      "end": 626
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 636,
+      "end": 640
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "monthly per capita education expenditure for households with at least one girl attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "673",
+      "start": 721,
+      "end": 724
+    },
+    "unit": {
+      "text": "NGN",
+      "start": 725,
+      "end": 728
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "monthly per capita education expenditure for households with no girls attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "829",
+      "start": 786,
+      "end": 789
+    },
+    "unit": {
+      "text": "NGN",
+      "start": 790,
+      "end": 793
+    }
+  }
+]

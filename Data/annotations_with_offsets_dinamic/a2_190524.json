@@ -1,0 +1,48 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "entered through Darien",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 345,
+      "end": 354
+    },
+    "quantity": {
+      "text": "more than 23,000",
+      "start": 345,
+      "end": 361
+    },
+    "unit": {
+      "text": "people",
+      "start": 362,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "remain in the Reception Centers",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 524,
+      "end": 528
+    },
+    "quantity": {
+      "text": "over 2,000",
+      "start": 524,
+      "end": 534
+    },
+    "unit": {
+      "text": "persons",
+      "start": 535,
+      "end": 542
+    }
+  }
+]

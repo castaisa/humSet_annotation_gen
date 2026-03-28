@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "70 223",
+    "unit": "SYP per kg",
+    "eventType": "EventA",
+    "eventDescription": "average selling price of herbicides"
+  },
+  {
+    "quantity": "13 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides"
+  },
+  {
+    "quantity": "22 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides in Dar\u00e1"
+  },
+  {
+    "quantity": "21 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides in Hasakeh"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides in Homs"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides in Hama"
+  },
+  {
+    "quantity": "13 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides in Aleppo"
+  },
+  {
+    "quantity": "13 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides in Tartous"
+  },
+  {
+    "quantity": "12 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of herbicides in Deir-ez-Zor"
+  },
+  {
+    "quantity": "4 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease in price of liquid herbicides"
+  },
+  {
+    "quantity": "48 942",
+    "unit": "SYP per litre",
+    "eventType": "EventA",
+    "eventDescription": "average selling price of liquid herbicides"
+  },
+  {
+    "quantity": "14",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "range of m-o-m decrease in average selling price"
+  },
+  {
+    "quantity": "6",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "range of m-o-m decrease in average selling price"
+  },
+  {
+    "quantity": "27 000",
+    "unit": "SYP per litre",
+    "eventType": "EventA",
+    "eventDescription": "herbicide price in Rural Damascus"
+  }
+]

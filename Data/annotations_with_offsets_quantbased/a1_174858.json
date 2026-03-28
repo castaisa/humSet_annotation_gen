@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.9 million",
+      "start": 406,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "identified as poor and vulnerable households in need of government assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 438,
+      "end": 448
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "740 000",
+      "start": 703,
+      "end": 710
+    },
+    "eventDescription": {
+      "text": "now have bank accounts through receiving the IS transfer",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 711,
+      "end": 717
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "600,000",
+      "start": 949,
+      "end": 956
+    },
+    "eventDescription": {
+      "text": "had still not been reached by the end of June",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 957,
+      "end": 963
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "four",
+      "start": 2290,
+      "end": 2294
+    },
+    "eventDescription": {
+      "text": "family size used as a goal for meeting basic necessities during the quarantine",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 2519,
+      "end": 2525
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "337,000",
+      "start": 2367,
+      "end": 2374
+    },
+    "eventDescription": {
+      "text": "reached with additional cash and in-kind assistance in Bogotá by late May",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 2375,
+      "end": 2385
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "130 000",
+      "start": 2631,
+      "end": 2638
+    },
+    "eventDescription": {
+      "text": "registered for and received aid in Medellín by mid-April",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 2639,
+      "end": 2649
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "300,000",
+      "start": 2775,
+      "end": 2782
+    },
+    "eventDescription": {
+      "text": "received aid in Medellín by mid-May",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 2783,
+      "end": 2793
+    }
+  }
+]

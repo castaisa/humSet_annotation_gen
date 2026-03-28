@@ -1,0 +1,135 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "carrying families leaving the city",
+      "start": 355,
+      "end": 389
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 333,
+      "end": 342
+    },
+    "quantity": {
+      "text": "more than 70",
+      "start": 333,
+      "end": 345
+    },
+    "unit": {
+      "text": "vehicles",
+      "start": 129,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attending schools",
+      "start": 703,
+      "end": 720
+    },
+    "quantity": {
+      "text": "half",
+      "start": 678,
+      "end": 682
+    },
+    "unit": {
+      "text": "students",
+      "start": 603,
+      "end": 611
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "assisted",
+      "start": 806,
+      "end": 814
+    },
+    "modifier": {
+      "text": "over",
+      "start": 815,
+      "end": 819
+    },
+    "quantity": {
+      "text": "over 10,000",
+      "start": 815,
+      "end": 826
+    },
+    "unit": {
+      "text": "households",
+      "start": 827,
+      "end": 837
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "assisted",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 839,
+      "end": 845
+    },
+    "quantity": {
+      "text": "nearly 80,000",
+      "start": 839,
+      "end": 852
+    },
+    "unit": {
+      "text": "people",
+      "start": 853,
+      "end": 859
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "registered",
+      "start": 936,
+      "end": 946
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 876,
+      "end": 885
+    },
+    "quantity": {
+      "text": "more than 17,350",
+      "start": 876,
+      "end": 892
+    },
+    "unit": {
+      "text": "households",
+      "start": 893,
+      "end": 903
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "registered",
+      "start": 1018,
+      "end": 1028
+    },
+    "modifier": {
+      "text": "over",
+      "start": 905,
+      "end": 909
+    },
+    "quantity": {
+      "text": "over 121,000",
+      "start": 905,
+      "end": 917
+    },
+    "unit": {
+      "text": "people",
+      "start": 918,
+      "end": 924
+    }
+  }
+]

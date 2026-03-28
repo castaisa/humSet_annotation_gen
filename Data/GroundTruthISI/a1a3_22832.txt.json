@@ -1,0 +1,193 @@
+[
+  {
+    "quantity": {
+      "text": "263 million",
+      "begin": 13,
+      "end": 24
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 2,
+      "end": 11
+    },
+    "unit": {
+      "text": "$",
+      "begin": 12,
+      "end": 13
+    },
+    "eventDescription": {
+      "text": "required",
+      "begin": 28,
+      "end": 36
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2.7 million",
+      "begin": 72,
+      "end": 83
+    },
+    "unit": {
+      "text": "Nigerians",
+      "begin": 84,
+      "end": 93
+    }
+  },
+  {
+    "quantity": {
+      "text": "16 percent",
+      "begin": 241,
+      "end": 251
+    },
+    "unit": {
+      "text": "severe acute malnutrition (SAM) cases",
+      "begin": 179,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 228,
+      "end": 237
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "439,000",
+      "begin": 264,
+      "end": 271
+    },
+    "unit": {
+      "text": "severe acute malnutrition (SAM) cases",
+      "begin": 179,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 228,
+      "end": 237
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "44 percent",
+      "begin": 352,
+      "end": 362
+    },
+    "unit": {
+      "text": "moderate acute malnutrition cases",
+      "begin": 305,
+      "end": 338
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 339,
+      "end": 348
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "723,000",
+      "begin": 366,
+      "end": 373
+    },
+    "unit": {
+      "text": "moderate acute malnutrition cases",
+      "begin": 305,
+      "end": 338
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 339,
+      "end": 348
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "502,000",
+      "begin": 387,
+      "end": 394
+    },
+    "unit": {
+      "text": "moderate acute malnutrition cases",
+      "begin": 305,
+      "end": 338
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 339,
+      "end": 348
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1 million",
+      "begin": 442,
+      "end": 451
+    },
+    "eventDescription": {
+      "text": "estimates",
+      "begin": 417,
+      "end": 426
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "acute malnutrition",
+      "begin": 511,
+      "end": 529
+    }
+  },
+  {
+    "quantity": {
+      "text": "367,000",
+      "begin": 536,
+      "end": 543
+    },
+    "eventDescription": {
+      "text": "estimates",
+      "begin": 417,
+      "end": 426
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "SAM",
+      "begin": 559,
+      "end": 562
+    }
+  },
+  {
+    "quantity": {
+      "text": "106 million",
+      "begin": 607,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "requesting",
+      "begin": 595,
+      "end": 605
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "$",
+      "begin": 606,
+      "end": 607
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 million",
+      "begin": 650,
+      "end": 659
+    },
+    "unit": {
+      "text": "people",
+      "begin": 660,
+      "end": 666
+    }
+  }
+]

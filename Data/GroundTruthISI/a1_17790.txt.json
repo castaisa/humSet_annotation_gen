@@ -1,0 +1,184 @@
+[
+  {
+    "quantity": {
+      "text": "17 per cent",
+      "begin": 229,
+      "end": 240
+    },
+    "unit": {
+      "text": "population",
+      "begin": 248,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "analyzed will be in IPC Phase 4 (Emergency)",
+      "begin": 284,
+      "end": 327
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "36 per cent",
+      "begin": 332,
+      "end": 343
+    },
+    "unit": {
+      "text": "population",
+      "begin": 248,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "will be in IPC Phase 3 (Crisis)",
+      "begin": 372,
+      "end": 403
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5 million",
+      "begin": 266,
+      "end": 275
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 260,
+      "end": 265
+    },
+    "unit": {
+      "text": "people",
+      "begin": 276,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "analyzed will be in IPC Phase 4 (Emergency)",
+      "begin": 284,
+      "end": 327
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10.8 million",
+      "begin": 351,
+      "end": 363
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 345,
+      "end": 350
+    },
+    "unit": {
+      "text": "people",
+      "begin": 364,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "will be in IPC Phase 3 (Crisis)",
+      "begin": 372,
+      "end": 403
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "65,000",
+      "begin": 433,
+      "end": 439
+    },
+    "unit": {
+      "text": "people",
+      "begin": 440,
+      "end": 446
+    },
+    "eventDescription": {
+      "text": "IPC Phase 5 (Catastrophe)",
+      "begin": 450,
+      "end": 475
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15.9 million",
+      "begin": 557,
+      "end": 569
+    },
+    "eventDescription": {
+      "text": "IPC Phase 5 (Catastrophe)",
+      "begin": 450,
+      "end": 475
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "approximately",
+      "begin": 543,
+      "end": 556
+    },
+    "unit": {
+      "text": "people",
+      "begin": 570,
+      "end": 576
+    }
+  },
+  {
+    "quantity": {
+      "text": "53 per cent",
+      "begin": 506,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "IPC Phase 5 (Catastrophe)",
+      "begin": 450,
+      "end": 475
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "total population",
+      "begin": 525,
+      "end": 541
+    }
+  },
+  {
+    "quantity": {
+      "text": "20 million",
+      "begin": 628,
+      "end": 638
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 622,
+      "end": 627
+    },
+    "unit": {
+      "text": "people of the total population (including Internally Displaced People)",
+      "begin": 639,
+      "end": 709
+    },
+    "eventDescription": {
+      "text": "may be in need of urgent action",
+      "begin": 710,
+      "end": 741
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "240,000",
+      "begin": 787,
+      "end": 794
+    },
+    "unit": {
+      "text": "people",
+      "begin": 795,
+      "end": 801
+    },
+    "eventDescription": {
+      "text": "IPC Phase 5 (Catastrophe)",
+      "begin": 805,
+      "end": 830
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "108",
+      "begin": 244,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 236,
+      "end": 243
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "migrant families",
+      "begin": 248,
+      "end": 264
+    }
+  },
+  {
+    "quantity": {
+      "text": "Forty",
+      "begin": 288,
+      "end": 293
+    },
+    "unit": {
+      "text": "children between the ages of 0 to 3 years",
+      "begin": 294,
+      "end": 335
+    },
+    "eventDescription": {
+      "text": "benefitted from ECD outreach assistance",
+      "begin": 361,
+      "end": 400
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "50:50",
+      "begin": 337,
+      "end": 342
+    },
+    "unit": {
+      "text": "boys/ girls",
+      "begin": 343,
+      "end": 354
+    },
+    "eventDescription": {
+      "text": "benefitted from ECD outreach assistance",
+      "begin": 361,
+      "end": 400
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 294,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "work",
+      "begin": 279,
+      "end": 283
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "more than",
+      "begin": 284,
+      "end": 293
+    },
+    "unit": {
+      "text": "hours",
+      "begin": 296,
+      "end": 301
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,050",
+      "begin": 354,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "paid",
+      "begin": 347,
+      "end": 351
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "G$",
+      "begin": 352,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 361,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "paid",
+      "begin": 347,
+      "end": 351
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 362,
+      "end": 365
+    }
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 697,
+      "end": 700
+    },
+    "unit": {
+      "text": "Venezuelan participants",
+      "begin": 708,
+      "end": 731
+    },
+    "eventDescription": {
+      "text": "working in a shop",
+      "begin": 732,
+      "end": 749
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42,022",
+      "begin": 1505,
+      "end": 1511
+    },
+    "eventDescription": {
+      "text": "minimum wage",
+      "begin": 1487,
+      "end": 1499
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "G$",
+      "begin": 1503,
+      "end": 1505
+    }
+  },
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 1513,
+      "end": 1516
+    },
+    "eventDescription": {
+      "text": "minimum wage",
+      "begin": 1487,
+      "end": 1499
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "US dollars",
+      "begin": 1517,
+      "end": 1527
+    }
+  },
+  {
+    "quantity": {
+      "text": "63,033",
+      "begin": 1568,
+      "end": 1574
+    },
+    "eventDescription": {
+      "text": "cost of rent/month",
+      "begin": 1537,
+      "end": 1555
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "around",
+      "begin": 1559,
+      "end": 1565
+    },
+    "unit": {
+      "text": "G$",
+      "begin": 1566,
+      "end": 1568
+    }
+  },
+  {
+    "quantity": {
+      "text": "300",
+      "begin": 1576,
+      "end": 1579
+    },
+    "eventDescription": {
+      "text": "cost of rent/month",
+      "begin": 1537,
+      "end": 1555
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "US dollars",
+      "begin": 1580,
+      "end": 1590
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 1602,
+      "end": 1603
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 1593,
+      "end": 1601
+    },
+    "unit": {
+      "text": "men",
+      "begin": 1613,
+      "end": 1616
+    },
+    "eventDescription": {
+      "text": "were self-employed or worked",
+      "begin": 1628,
+      "end": 1656
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3 out of 5",
+      "begin": 1602,
+      "end": 1612
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 1593,
+      "end": 1601
+    },
+    "unit": {
+      "text": "men",
+      "begin": 1613,
+      "end": 1616
+    },
+    "eventDescription": {
+      "text": "were self-employed or worked",
+      "begin": 1628,
+      "end": 1656
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 1611,
+      "end": 1612
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 1593,
+      "end": 1601
+    },
+    "unit": {
+      "text": "men",
+      "begin": 1613,
+      "end": 1616
+    },
+    "eventDescription": {
+      "text": "were self-employed or worked",
+      "begin": 1628,
+      "end": 1656
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 2165,
+      "end": 2168
+    },
+    "eventDescription": {
+      "text": "need to stay",
+      "begin": 2152,
+      "end": 2164
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "month",
+      "begin": 2169,
+      "end": 2174
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 2179,
+      "end": 2183
+    },
+    "eventDescription": {
+      "text": "need to stay",
+      "begin": 2152,
+      "end": 2164
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "month",
+      "begin": 2169,
+      "end": 2174
+    }
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "quantity": {
+      "text": "0.44%",
+      "begin": 71,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "Americas accounted",
+      "begin": 48,
+      "end": 66
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "malaria cases",
+      "begin": 80,
+      "end": 93
+    }
+  },
+  {
+    "quantity": {
+      "text": "975,700",
+      "begin": 95,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "Americas accounted",
+      "begin": 48,
+      "end": 66
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 103,
+      "end": 108
+    }
+  },
+  {
+    "quantity": {
+      "text": "42%",
+      "begin": 124,
+      "end": 127
+    },
+    "unit": {
+      "text": "malaria cases",
+      "begin": 80,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "reported by WHO",
+      "begin": 149,
+      "end": 164
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "519,109",
+      "begin": 129,
+      "end": 136
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 137,
+      "end": 142
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 260,
+      "end": 262
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 263,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "with autochthonous transmission of the disease",
+      "begin": 273,
+      "end": 319
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "0.22%",
+      "begin": 460,
+      "end": 465
+    },
+    "unit": {
+      "text": "global cases",
+      "begin": 469,
+      "end": 481
+    },
+    "eventDescription": {
+      "text": "global cases",
+      "begin": 469,
+      "end": 481
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "120,000",
+      "begin": 558,
+      "end": 565
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 544,
+      "end": 557
+    },
+    "unit": {
+      "text": "cases of HIV",
+      "begin": 566,
+      "end": 578
+    },
+    "eventDescription": {
+      "text": "cases of HIV",
+      "begin": 566,
+      "end": 578
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6,500",
+      "begin": 580,
+      "end": 585
+    },
+    "unit": {
+      "text": "new infections",
+      "begin": 586,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "new infections",
+      "begin": 586,
+      "end": 600
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,500",
+      "begin": 605,
+      "end": 610
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 611,
+      "end": 617
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 611,
+      "end": 617
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10,185",
+      "begin": 1215,
+      "end": 1221
+    },
+    "unit": {
+      "text": "number of tuberculosis (TB) cases",
+      "begin": 1137,
+      "end": 1170
+    },
+    "eventDescription": {
+      "text": "number of tuberculosis (TB) cases",
+      "begin": 1137,
+      "end": 1170
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 1254,
+      "end": 1257
+    },
+    "unit": {
+      "text": "number of tuberculosis (TB) cases",
+      "begin": 1137,
+      "end": 1170
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 1242,
+      "end": 1250
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6,063",
+      "begin": 1297,
+      "end": 1302
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 1279,
+      "end": 1287
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 1303,
+      "end": 1308
+    }
+  },
+  {
+    "quantity": {
+      "text": "32.4",
+      "begin": 1342,
+      "end": 1346
+    },
+    "eventDescription": {
+      "text": "incidence rate",
+      "begin": 1324,
+      "end": 1338
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "per 100,000 inhabitants",
+      "begin": 1347,
+      "end": 1370
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 1397,
+      "end": 1399
+    },
+    "eventDescription": {
+      "text": "incidence rate",
+      "begin": 1324,
+      "end": 1338
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "more than",
+      "begin": 1387,
+      "end": 1396
+    },
+    "unit": {
+      "text": "years",
+      "begin": 1400,
+      "end": 1405
+    }
+  },
+  {
+    "quantity": {
+      "text": "100,000",
+      "begin": 1351,
+      "end": 1358
+    },
+    "unit": {
+      "text": "inhabitants",
+      "begin": 1359,
+      "end": 1370
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 1455,
+      "end": 1457
+    },
+    "eventDescription": {
+      "text": "increase was concentrated in males",
+      "begin": 1412,
+      "end": 1446
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "between",
+      "begin": 1447,
+      "end": 1454
+    },
+    "unit": {
+      "text": "years of age",
+      "begin": 1465,
+      "end": 1477
+    }
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 1462,
+      "end": 1464
+    },
+    "eventDescription": {
+      "text": "increase was concentrated in males",
+      "begin": 1412,
+      "end": 1446
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "years of age",
+      "begin": 1465,
+      "end": 1477
+    }
+  },
+  {
+    "quantity": {
+      "text": "25 per cent",
+      "begin": 1527,
+      "end": 1538
+    },
+    "modifier": {
+      "text": "Almost",
+      "begin": 1520,
+      "end": 1526
+    },
+    "eventDescription": {
+      "text": "cases were concentrated",
+      "begin": 1546,
+      "end": 1569
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 1546,
+      "end": 1551
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 1573,
+      "end": 1576
+    },
+    "eventDescription": {
+      "text": "cases were concentrated",
+      "begin": 1546,
+      "end": 1569
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "vulnerable groups",
+      "begin": 1577,
+      "end": 1594
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.7%",
+      "begin": 1615,
+      "end": 1620
+    },
+    "eventDescription": {
+      "text": "cases were concentrated",
+      "begin": 1546,
+      "end": 1569
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people in prisons",
+      "begin": 1596,
+      "end": 1613
+    }
+  },
+  {
+    "quantity": {
+      "text": "6.8%",
+      "begin": 1645,
+      "end": 1649
+    },
+    "eventDescription": {
+      "text": "cases were concentrated",
+      "begin": 1546,
+      "end": 1569
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "indigenous groups",
+      "begin": 1626,
+      "end": 1643
+    }
+  },
+  {
+    "quantity": {
+      "text": "39",
+      "begin": 1723,
+      "end": 1725
+    },
+    "eventDescription": {
+      "text": "number of drug-resistant cases doubled",
+      "begin": 1678,
+      "end": 1716
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 1732,
+      "end": 1737
+    }
+  },
+  {
+    "quantity": {
+      "text": "79",
+      "begin": 1729,
+      "end": 1731
+    },
+    "eventDescription": {
+      "text": "number of drug-resistant cases doubled",
+      "begin": 1678,
+      "end": 1716
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 1732,
+      "end": 1737
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.8%",
+      "begin": 1776,
+      "end": 1780
+    },
+    "unit": {
+      "text": "TB/HIV co-infection",
+      "begin": 1744,
+      "end": 1763
+    },
+    "eventDescription": {
+      "text": "TB/HIV co-infection",
+      "begin": 1744,
+      "end": 1763
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 1824,
+      "end": 1826
+    },
+    "eventDescription": {
+      "text": "association of TB and Diabetes",
+      "begin": 1789,
+      "end": 1819
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "association of TB and Diabetes",
+      "begin": 1789,
+      "end": 1819
+    }
+  },
+  {
+    "quantity": {
+      "text": "2.2",
+      "begin": 1922,
+      "end": 1925
+    },
+    "eventDescription": {
+      "text": "mortality rate of TB patients is constantly",
+      "begin": 1875,
+      "end": 1918
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "per 100,000 inhabitants",
+      "begin": 1926,
+      "end": 1949
+    }
+  },
+  {
+    "quantity": {
+      "text": "100,000",
+      "begin": 1930,
+      "end": 1937
+    },
+    "unit": {
+      "text": "inhabitants",
+      "begin": 1938,
+      "end": 1949
+    }
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 1986,
+      "end": 1989
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 1976,
+      "end": 1985
+    },
+    "unit": {
+      "text": "of the population",
+      "begin": 1990,
+      "end": 2007
+    },
+    "eventDescription": {
+      "text": "suffer from Non-Communicable Diseases (NCD)",
+      "begin": 2008,
+      "end": 2051
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "280,000",
+      "begin": 2323,
+      "end": 2330
+    },
+    "unit": {
+      "text": "children",
+      "begin": 2331,
+      "end": 2339
+    },
+    "eventDescription": {
+      "text": "risk of death",
+      "begin": 2347,
+      "end": 2360
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 2390,
+      "end": 2393
+    },
+    "unit": {
+      "text": "children",
+      "begin": 2397,
+      "end": 2405
+    },
+    "eventDescription": {
+      "text": "present different stages of malnutrition",
+      "begin": 2406,
+      "end": 2446
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 2513,
+      "end": 2515
+    },
+    "unit": {
+      "text": "children",
+      "begin": 2397,
+      "end": 2405
+    },
+    "eventDescription": {
+      "text": "severe status",
+      "begin": 2456,
+      "end": 2469
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14%",
+      "begin": 2519,
+      "end": 2522
+    },
+    "unit": {
+      "text": "children",
+      "begin": 2397,
+      "end": 2405
+    },
+    "eventDescription": {
+      "text": "severe status",
+      "begin": 2456,
+      "end": 2469
+    },
+    "eventType": "EventP"
+  }
+]

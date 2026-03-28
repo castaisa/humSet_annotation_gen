@@ -1,0 +1,223 @@
+[
+  {
+    "quantity": {
+      "text": "55 percent",
+      "begin": 6,
+      "end": 16
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 0,
+      "end": 5
+    },
+    "unit": {
+      "text": "migrant population",
+      "begin": 24,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "suffered from acute or moderate food insecurity",
+      "begin": 43,
+      "end": 90
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20 percent",
+      "begin": 174,
+      "end": 184
+    },
+    "eventDescription": {
+      "text": "facing acute food insecurity",
+      "begin": 135,
+      "end": 163
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "migrant population",
+      "begin": 198,
+      "end": 216
+    }
+  },
+  {
+    "quantity": {
+      "text": "17 percent",
+      "begin": 253,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "facing acute food insecurity",
+      "begin": 135,
+      "end": 163
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "migrant population",
+      "begin": 198,
+      "end": 216
+    }
+  },
+  {
+    "quantity": {
+      "text": "71-percent",
+      "begin": 365,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "generating income from paid work was reported.",
+      "begin": 421,
+      "end": 467
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "migrant households",
+      "begin": 402,
+      "end": 420
+    }
+  },
+  {
+    "quantity": {
+      "text": "15 percent",
+      "begin": 519,
+      "end": 529
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 533,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "reported consuming three or more meals per day",
+      "begin": 553,
+      "end": 599
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "56 percent",
+      "begin": 614,
+      "end": 624
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 533,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "reported consuming three or more meals per day",
+      "begin": 553,
+      "end": 599
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10 percent",
+      "begin": 678,
+      "end": 688
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 533,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "went from 3 to 1 meal per day",
+      "begin": 689,
+      "end": 718
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "68 percent",
+      "begin": 723,
+      "end": 733
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 533,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "3 to 2 meals per day",
+      "begin": 739,
+      "end": 759
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 704,
+      "end": 705
+    },
+    "unit": {
+      "text": "meal per day",
+      "begin": 706,
+      "end": 718
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 699,
+      "end": 700
+    },
+    "unit": {
+      "text": "meal per day",
+      "begin": 706,
+      "end": 718
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 to 1",
+      "begin": 699,
+      "end": 705
+    },
+    "unit": {
+      "text": "meal per day",
+      "begin": 706,
+      "end": 718
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 744,
+      "end": 745
+    },
+    "unit": {
+      "text": "meals per day",
+      "begin": 746,
+      "end": 759
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 to 2",
+      "begin": 739,
+      "end": 745
+    },
+    "unit": {
+      "text": "meals per day",
+      "begin": 746,
+      "end": 759
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 739,
+      "end": 740
+    },
+    "unit": {
+      "text": "meals per day",
+      "begin": 746,
+      "end": 759
+    }
+  }
+]

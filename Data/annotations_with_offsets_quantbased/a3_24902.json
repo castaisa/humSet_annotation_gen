@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3,877",
+      "start": 146,
+      "end": 151
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "start": 136,
+      "end": 145
+    },
+    "unit": {
+      "text": "houses",
+      "start": 152,
+      "end": 158
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18",
+      "start": 166,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "states",
+      "start": 169,
+      "end": 175
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23 per cent",
+      "start": 194,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "live in collective shelters",
+      "start": 242,
+      "end": 269
+    },
+    "unit": {
+      "text": "internally displaced persons",
+      "start": 213,
+      "end": 241
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Over 70,000",
+      "start": 391,
+      "end": 402
+    },
+    "eventDescription": {
+      "text": "settled in camps live in inadequate or self-made shelters",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 403,
+      "end": 417
+    },
+    "modifier": {
+      "text": "over",
+      "start": 391,
+      "end": 395
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "88 %",
+      "start": 632,
+      "end": 636
+    },
+    "eventDescription": {
+      "text": "most needed shelter material",
+      "start": 602,
+      "end": 630
+    },
+    "unit": {
+      "text": "tarpaulins",
+      "start": 583,
+      "end": 593
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one quarter",
+      "start": 686,
+      "end": 697
+    },
+    "eventDescription": {
+      "text": "live in inadequate shelters",
+      "start": 728,
+      "end": 755
+    },
+    "unit": {
+      "text": "internally displaced persons living outside of camp settings",
+      "start": 522,
+      "end": 582
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "270,000",
+      "start": 707,
+      "end": 714
+    },
+    "eventDescription": {
+      "text": "live in inadequate shelters",
+      "start": 728,
+      "end": 755
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 715,
+      "end": 726
+    }
+  }
+]

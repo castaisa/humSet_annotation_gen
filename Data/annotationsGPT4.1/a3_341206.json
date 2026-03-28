@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "dozens",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "took to the streets"
+  },
+  {
+    "quantity": "one",
+    "unit": "protester",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "five",
+    "unit": "others",
+    "eventType": "EventP",
+    "eventDescription": "wounded"
+  }
+]

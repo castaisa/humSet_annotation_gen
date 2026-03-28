@@ -1,0 +1,112 @@
+[
+  {
+    "quantity": {
+      "text": "1.8 million",
+      "begin": 85,
+      "end": 96
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 79,
+      "end": 84
+    },
+    "unit": {
+      "text": "hectares",
+      "begin": 97,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "arable",
+      "begin": 132,
+      "end": 138
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15.4 million",
+      "begin": 114,
+      "end": 126
+    },
+    "modifier": {
+      "text": "out of",
+      "begin": 107,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "arable",
+      "begin": 132,
+      "end": 138
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "300 000",
+      "begin": 153,
+      "end": 160
+    },
+    "modifier": {
+      "text": "out of",
+      "begin": 140,
+      "end": 146
+    },
+    "unit": {
+      "text": "hectares",
+      "begin": 161,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "covered",
+      "begin": 174,
+      "end": 181
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "470 000",
+      "begin": 274,
+      "end": 281
+    },
+    "eventDescription": {
+      "text": "suitable for irrigation",
+      "begin": 241,
+      "end": 264
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 268,
+      "end": 273
+    },
+    "unit": {
+      "text": "hectares",
+      "begin": 282,
+      "end": 290
+    }
+  },
+  {
+    "quantity": {
+      "text": "240 000",
+      "begin": 306,
+      "end": 313
+    },
+    "modifier": {
+      "text": "only some",
+      "begin": 296,
+      "end": 305
+    },
+    "unit": {
+      "text": "hectares",
+      "begin": 314,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "currently irrigated",
+      "begin": 327,
+      "end": 346
+    },
+    "eventType": "EventO"
+  }
+]

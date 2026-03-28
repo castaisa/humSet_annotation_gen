@@ -1,0 +1,192 @@
+[
+  {
+    "quantity": {
+      "text": "12.5%",
+      "begin": 72,
+      "end": 77
+    },
+    "eventDescription": {
+      "text": "‘borderline’",
+      "begin": 86,
+      "end": 98
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7.9%",
+      "begin": 103,
+      "end": 107
+    },
+    "eventDescription": {
+      "text": "‘poor’",
+      "begin": 108,
+      "end": 114
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3.8%",
+      "begin": 140,
+      "end": 144
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "begin": 158,
+      "end": 182
+    }
+  },
+  {
+    "quantity": {
+      "text": "0.8%",
+      "begin": 149,
+      "end": 153
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "begin": 158,
+      "end": 182
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.3%",
+      "begin": 197,
+      "end": 201
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 206,
+      "end": 225
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.9%",
+      "begin": 188,
+      "end": 192
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 206,
+      "end": 225
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 458,
+      "end": 463
+    },
+    "unit": {
+      "text": "day period",
+      "begin": 464,
+      "end": 474
+    }
+  },
+  {
+    "quantity": {
+      "text": "21.3%",
+      "begin": 714,
+      "end": 719
+    },
+    "eventDescription": {
+      "text": "higher proportion of households with ‘poor’ and ‘borderline’ FCSs were identified",
+      "begin": 622,
+      "end": 703
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "37.8%",
+      "begin": 731,
+      "end": 736
+    },
+    "eventDescription": {
+      "text": "higher proportion of households with ‘poor’ and ‘borderline’ FCSs were identified",
+      "begin": 622,
+      "end": 703
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41.8%",
+      "begin": 753,
+      "end": 758
+    },
+    "eventDescription": {
+      "text": "higher proportion of households with ‘poor’ and ‘borderline’ FCSs were identified",
+      "begin": 622,
+      "end": 703
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.0%",
+      "begin": 784,
+      "end": 788
+    },
+    "eventDescription": {
+      "text": "higher proportion of households with ‘poor’ and ‘borderline’ FCSs were identified",
+      "begin": 622,
+      "end": 703
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "79.2",
+      "begin": 925,
+      "end": 929
+    },
+    "eventDescription": {
+      "text": "returnee households scored significantly lower FCS than non-displaced households",
+      "begin": 804,
+      "end": 884
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "95.6",
+      "begin": 934,
+      "end": 938
+    },
+    "eventDescription": {
+      "text": "returnee households scored significantly lower FCS than non-displaced households",
+      "begin": 804,
+      "end": 884
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "72.7",
+      "begin": 970,
+      "end": 974
+    },
+    "eventDescription": {
+      "text": "returnee households scored significantly lower FCS than non-displaced households",
+      "begin": 804,
+      "end": 884
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "82.1",
+      "begin": 979,
+      "end": 983
+    },
+    "eventDescription": {
+      "text": "returnee households scored significantly lower FCS than non-displaced households",
+      "begin": 804,
+      "end": 884
+    },
+    "eventType": "EventO"
+  }
+]

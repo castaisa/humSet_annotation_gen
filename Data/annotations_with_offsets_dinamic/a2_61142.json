@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "bribes to public officials",
+      "start": 263,
+      "end": 289
+    },
+    "quantity": {
+      "text": "a few hundred",
+      "start": 213,
+      "end": 226
+    },
+    "unit": {
+      "text": "US dollars",
+      "start": 247,
+      "end": 257
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "bribes to public officials",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "several thousand",
+      "start": 230,
+      "end": 246
+    },
+    "unit": {
+      "text": "US dollars",
+      "start": null,
+      "end": null
+    }
+  }
+]

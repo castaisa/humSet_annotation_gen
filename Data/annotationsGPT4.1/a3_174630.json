@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "on average",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "average monthly per capita education expenditure",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "831",
+    "unit": "NGN",
+    "eventType": "EventA",
+    "eventDescription": "monthly per capita education expenditure for host community households"
+  },
+  {
+    "quantity": "230",
+    "unit": "NGN",
+    "eventType": "EventA",
+    "eventDescription": "monthly per capita education expenditure for IDP households"
+  },
+  {
+    "quantity": "30%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with at least one girl among school-going children having higher education vulnerability"
+  },
+  {
+    "quantity": "7%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with only boys attending school having higher education vulnerability"
+  },
+  {
+    "quantity": "6",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "assessed LGAs"
+  },
+  {
+    "quantity": "673",
+    "unit": "NGN",
+    "eventType": "EventA",
+    "eventDescription": "monthly per capita education expenditure for households with at least one girl attending school"
+  },
+  {
+    "quantity": "829",
+    "unit": "NGN",
+    "eventType": "EventA",
+    "eventDescription": "monthly per capita education expenditure for households with no girls attending school"
+  }
+]

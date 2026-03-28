@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "11",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed cases of Coronavirus in schools"
+  },
+  {
+    "quantity": "two",
+    "unit": "infections",
+    "eventType": "EventP",
+    "eventDescription": "new infections recorded last week"
+  },
+  {
+    "quantity": "9",
+    "unit": "infections",
+    "eventType": "EventP",
+    "eventDescription": "infections among educational and administrative staff"
+  },
+  {
+    "quantity": "two",
+    "unit": "injuries",
+    "eventType": "EventP",
+    "eventDescription": "injuries among students"
+  },
+  {
+    "quantity": "three",
+    "unit": "injuries",
+    "eventType": "EventP",
+    "eventDescription": "injuries recovered"
+  },
+  {
+    "quantity": "eight",
+    "unit": "injuries",
+    "eventType": "EventP",
+    "eventDescription": "injuries under home quarantine"
+  },
+  {
+    "quantity": "15",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "suspected cases recently recorded"
+  }
+]

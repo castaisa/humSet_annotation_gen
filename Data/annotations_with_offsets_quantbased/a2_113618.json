@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "600 million",
+      "start": 61,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "fund established to support small holder farmers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "PEN",
+      "start": 57,
+      "end": 60
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "175 million",
+      "start": 92,
+      "end": 103
+    },
+    "eventDescription": {
+      "text": "equivalent value of fund established to support small holder farmers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 88,
+      "end": 91
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "six",
+      "start": 379,
+      "end": 382
+    },
+    "eventDescription": {
+      "text": "loan payment deferral period",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "months",
+      "start": 383,
+      "end": 389
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "760",
+      "start": 730,
+      "end": 733
+    },
+    "eventDescription": {
+      "text": "single delivery subsidy granted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "PEN",
+      "start": 726,
+      "end": 729
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "220",
+      "start": 745,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "equivalent value of single delivery subsidy granted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 741,
+      "end": 744
+    },
+    "modifier": {
+      "text": "about",
+      "start": 735,
+      "end": 740
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1 million",
+      "start": 753,
+      "end": 762
+    },
+    "eventDescription": {
+      "text": "households receiving subsidy",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "vulnerable rural households",
+      "start": 763,
+      "end": 790
+    }
+  }
+]

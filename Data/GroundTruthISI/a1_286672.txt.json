@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "11 per cent",
+      "begin": 108,
+      "end": 119
+    },
+    "unit": {
+      "text": "average wheat flour price (low price and high price)",
+      "begin": 42,
+      "end": 94
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 95,
+      "end": 104
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 235,
+      "end": 246
+    },
+    "unit": {
+      "text": "cost of pulses, sugar, cooking oil and rice (low quality)",
+      "begin": 164,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 222,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18 per cen",
+      "begin": 248,
+      "end": 258
+    },
+    "unit": {
+      "text": "cost of pulses, sugar, cooking oil and rice (low quality)",
+      "begin": 164,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 222,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "32 per cent",
+      "begin": 261,
+      "end": 272
+    },
+    "unit": {
+      "text": "cost of pulses, sugar, cooking oil and rice (low quality)",
+      "begin": 164,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 222,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 278,
+      "end": 289
+    },
+    "unit": {
+      "text": "cost of pulses, sugar, cooking oil and rice (low quality)",
+      "begin": 164,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 222,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10 per cent",
+      "begin": 464,
+      "end": 475
+    },
+    "unit": {
+      "text": "declining purchasing power of casual labourers and pastoralists",
+      "begin": 367,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "deteriorated",
+      "begin": 443,
+      "end": 455
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14 per cent",
+      "begin": 480,
+      "end": 491
+    },
+    "unit": {
+      "text": "declining purchasing power of casual labourers and pastoralists",
+      "begin": 367,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "deteriorated",
+      "begin": 443,
+      "end": 455
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "46,299",
+      "begin": 879,
+      "end": 885
+    },
+    "eventDescription": {
+      "text": "Average household debt",
+      "begin": 849,
+      "end": 871
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "AFS/US$602",
+      "begin": 886,
+      "end": 896
+    }
+  },
+  {
+    "quantity": {
+      "text": "9,813",
+      "begin": 906,
+      "end": 911
+    },
+    "eventDescription": {
+      "text": "Average household debt",
+      "begin": 849,
+      "end": 871
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "AFS/US$128",
+      "begin": 912,
+      "end": 922
+    }
+  },
+  {
+    "quantity": {
+      "text": "53 per cent",
+      "begin": 1029,
+      "end": 1040
+    },
+    "unit": {
+      "text": "displaced households",
+      "begin": 935,
+      "end": 955
+    },
+    "eventDescription": {
+      "text": "primary reason for taking on this debt was to pay for food",
+      "begin": 969,
+      "end": 1027
+    },
+    "eventType": "EventO"
+  }
+]

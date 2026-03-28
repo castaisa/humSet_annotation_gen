@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 190,
+      "end": 193
+    },
+    "unit": {
+      "text": "bed hospital",
+      "begin": 194,
+      "end": 206
+    },
+    "eventDescription": {
+      "text": "now only able to offer five",
+      "begin": 267,
+      "end": 294
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "twenty",
+      "begin": 237,
+      "end": 243
+    },
+    "unit": {
+      "text": "medical specialties",
+      "begin": 244,
+      "end": 263
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 290,
+      "end": 294
+    },
+    "unit": {
+      "text": "medical specialties",
+      "begin": 244,
+      "end": 263
+    }
+  }
+]

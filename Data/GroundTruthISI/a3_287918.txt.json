@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "408",
+      "begin": 91,
+      "end": 94
+    },
+    "unit": {
+      "text": "COVID-19 associated deaths",
+      "begin": 59,
+      "end": 85
+    },
+    "eventDescription": {
+      "text": "COVID-19 associated deaths",
+      "begin": 59,
+      "end": 85
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1.93 %",
+      "begin": 125,
+      "end": 131
+    },
+    "unit": {
+      "text": "case fatality rate",
+      "begin": 103,
+      "end": 121
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "begin": 103,
+      "end": 121
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "37.4",
+      "begin": 168,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "mean age of COVID-19 cases",
+      "begin": 137,
+      "end": 163
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "years",
+      "begin": 173,
+      "end": 178
+    }
+  },
+  {
+    "quantity": {
+      "text": "53",
+      "begin": 185,
+      "end": 187
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 188,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "reported to be under the age of five",
+      "begin": 194,
+      "end": 230
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,172",
+      "begin": 235,
+      "end": 240
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 249,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "reported to be over the age of 60.",
+      "begin": 255,
+      "end": 289
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10.3%",
+      "begin": 242,
+      "end": 247
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 249,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "reported to be over the age of 60.",
+      "begin": 255,
+      "end": 289
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "94,000",
+      "begin": 368,
+      "end": 374
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 375,
+      "end": 382
+    },
+    "eventDescription": {
+      "text": "tested via RT-PCR",
+      "begin": 392,
+      "end": 409
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "24.0%",
+      "begin": 448,
+      "end": 453
+    },
+    "unit": {
+      "text": "total test positivity rate",
+      "begin": 418,
+      "end": 444
+    },
+    "eventDescription": {
+      "text": "total test positivity rate",
+      "begin": 418,
+      "end": 444
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,554",
+      "begin": 655,
+      "end": 660
+    },
+    "unit": {
+      "text": "number of health care workers (HCWs) and health facilities staff",
+      "begin": 477,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "contracted COVID-19 disease reached",
+      "begin": 619,
+      "end": 654
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7.4 percent",
+      "begin": 662,
+      "end": 673
+    },
+    "unit": {
+      "text": "number of health care workers (HCWs) and health facilities staff",
+      "begin": 477,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "contracted COVID-19 disease reached",
+      "begin": 619,
+      "end": 654
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,136",
+      "begin": 687,
+      "end": 692
+    },
+    "eventDescription": {
+      "text": "contracted COVID-19 disease reached",
+      "begin": 619,
+      "end": 654
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "other staff working in healthcare facilities or community health workers.",
+      "begin": 712,
+      "end": 785
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.4 percent",
+      "begin": 694,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "contracted COVID-19 disease reached",
+      "begin": 619,
+      "end": 654
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "other staff working in healthcare facilities or community health workers.",
+      "begin": 712,
+      "end": 785
+    }
+  }
+]

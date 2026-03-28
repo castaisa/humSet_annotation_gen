@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 304,
+      "end": 308
+    },
+    "unit": {
+      "text": "below sectors",
+      "begin": 309,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "identified as priorities in the undertaken needs analysis",
+      "begin": 323,
+      "end": 380
+    },
+    "eventType": "EventO"
+  }
+]

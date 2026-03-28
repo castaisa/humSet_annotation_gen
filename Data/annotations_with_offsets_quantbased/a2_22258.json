@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least 60",
+      "start": 22,
+      "end": 33
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": 15,
+      "end": 21
+    },
+    "unit": {
+      "text": "people",
+      "start": 34,
+      "end": 40
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 22,
+      "end": 30
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "hundreds",
+      "start": 624,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "burned",
+      "start": 636,
+      "end": 642
+    },
+    "unit": {
+      "text": "burned structures",
+      "start": 636,
+      "end": 653
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "three",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "Mental Health Department established"
+  },
+  {
+    "quantity": "more than 300",
+    "unit": "staff, doctors, nurses and social workers",
+    "eventType": "EventP",
+    "eventDescription": "trained on psychosocial support",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "1",
+    "unit": "Region",
+    "eventType": "EventO",
+    "eventDescription": "staff from Mabaruma in Region 1"
+  },
+  {
+    "quantity": "7",
+    "unit": "Region",
+    "eventType": "EventO",
+    "eventDescription": "no personnel trained on psychosocial support in Region 7"
+  }
+]

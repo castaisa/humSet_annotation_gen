@@ -1,0 +1,55 @@
+[
+  {
+    "quantity": {
+      "text": "4,000",
+      "begin": 141,
+      "end": 146
+    },
+    "unit": {
+      "text": "schools",
+      "begin": 147,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "destroyed or closed",
+      "begin": 160,
+      "end": 179
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "700,000",
+      "begin": 189,
+      "end": 196
+    },
+    "unit": {
+      "text": "students",
+      "begin": 197,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "without access to education",
+      "begin": 206,
+      "end": 233
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 493,
+      "end": 503
+    },
+    "modifier": {
+      "text": "less than",
+      "begin": 483,
+      "end": 492
+    },
+    "unit": {
+      "text": "children",
+      "begin": 521,
+      "end": 529
+    }
+  }
+]

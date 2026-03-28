@@ -1,0 +1,163 @@
+[
+  {
+    "quantity": {
+      "text": "64%",
+      "begin": 645,
+      "end": 648
+    },
+    "unit": {
+      "text": "businesses interviewed",
+      "begin": 602,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "said that public and non-profit entities were usually important customers",
+      "begin": 650,
+      "end": 723
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two thirds",
+      "begin": 633,
+      "end": 643
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 626,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "said that public and non-profit entities were usually important customers",
+      "begin": 650,
+      "end": 723
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 746,
+      "end": 751
+    },
+    "unit": {
+      "text": "businesses",
+      "begin": 734,
+      "end": 744
+    },
+    "eventDescription": {
+      "text": "said they had seen demand from these customers decrease since the onset of the pandemic",
+      "begin": 765,
+      "end": 852
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "seven in ten",
+      "begin": 746,
+      "end": 758
+    },
+    "unit": {
+      "text": "businesses",
+      "begin": 734,
+      "end": 744
+    },
+    "eventDescription": {
+      "text": "said they had seen demand from these customers decrease since the onset of the pandemic",
+      "begin": 765,
+      "end": 852
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 755,
+      "end": 758
+    },
+    "unit": {
+      "text": "businesses",
+      "begin": 734,
+      "end": 744
+    },
+    "eventDescription": {
+      "text": "said they had seen demand from these customers decrease since the onset of the pandemic",
+      "begin": 765,
+      "end": 852
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "69%",
+      "begin": 760,
+      "end": 763
+    },
+    "unit": {
+      "text": "businesses",
+      "begin": 734,
+      "end": 744
+    },
+    "eventDescription": {
+      "text": "said they had seen demand from these customers decrease since the onset of the pandemic",
+      "begin": 765,
+      "end": 852
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 872,
+      "end": 876
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 865,
+      "end": 871
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 880,
+      "end": 891
+    },
+    "eventDescription": {
+      "text": "experienced a decline",
+      "begin": 906,
+      "end": 927
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "49%",
+      "begin": 893,
+      "end": 896
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 880,
+      "end": 891
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 940,
+      "end": 944
+    },
+    "eventDescription": {
+      "text": "experienced a decline",
+      "begin": 906,
+      "end": 927
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "at least",
+      "begin": 931,
+      "end": 939
+    }
+  }
+]

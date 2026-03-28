@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "140",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "escaped captivity",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "51",
+    "unit": "Mosque",
+    "eventType": "EventO",
+    "eventDescription": "sought refuge"
+  },
+  {
+    "quantity": "two dozen",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "severely injured and brought to hospital",
+    "modifier": "approximately"
+  }
+]

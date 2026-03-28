@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 138,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "WASH infrastructure currently is being installed",
+      "begin": 76,
+      "end": 124
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "communities",
+      "begin": 143,
+      "end": 154
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 186,
+      "end": 189
+    },
+    "unit": {
+      "text": "communities",
+      "begin": 190,
+      "end": 201
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 202,
+      "end": 210
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Nine",
+      "begin": 222,
+      "end": 226
+    },
+    "unit": {
+      "text": "family VIP latrines",
+      "begin": 227,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "completed",
+      "begin": 386,
+      "end": 395
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "157",
+      "begin": 260,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "catering",
+      "begin": 247,
+      "end": 255
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "migrants",
+      "begin": 264,
+      "end": 272
+    }
+  },
+  {
+    "quantity": {
+      "text": "65",
+      "begin": 277,
+      "end": 279
+    },
+    "eventDescription": {
+      "text": "catering",
+      "begin": 247,
+      "end": 255
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "host community persons",
+      "begin": 280,
+      "end": 302
+    }
+  },
+  {
+    "quantity": {
+      "text": "50:50",
+      "begin": 304,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "catering",
+      "begin": 247,
+      "end": 255
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "male to female",
+      "begin": 310,
+      "end": 324
+    }
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 326,
+      "end": 329
+    },
+    "eventDescription": {
+      "text": "catering",
+      "begin": 247,
+      "end": 255
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children",
+      "begin": 330,
+      "end": 338
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 345,
+      "end": 346
+    },
+    "unit": {
+      "text": "Rain Water Harvesting (RWH) units",
+      "begin": 347,
+      "end": 380
+    },
+    "eventDescription": {
+      "text": "completed",
+      "begin": 386,
+      "end": 395
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "43",
+      "begin": 474,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "works continuing",
+      "begin": 431,
+      "end": 447
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "VIP latrines",
+      "begin": 477,
+      "end": 489
+    }
+  }
+]

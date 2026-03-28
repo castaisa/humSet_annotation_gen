@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "functioning in Idleb",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "130",
+      "start": 94,
+      "end": 97
+    },
+    "unit": {
+      "text": "systems",
+      "start": 55,
+      "end": 62
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total in Idleb",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "200",
+      "start": 105,
+      "end": 108
+    },
+    "unit": {
+      "text": "systems",
+      "start": 122,
+      "end": 129
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "functioning in Idleb",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "65 percent",
+      "start": 110,
+      "end": 120
+    },
+    "unit": {
+      "text": "systems",
+      "start": 171,
+      "end": 178
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "functioning in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "138",
+      "start": 143,
+      "end": 146
+    },
+    "unit": {
+      "text": "systems",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "244",
+      "start": 154,
+      "end": 157
+    },
+    "unit": {
+      "text": "systems",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "functioning in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "56 percent",
+      "start": 159,
+      "end": 169
+    },
+    "unit": {
+      "text": "systems",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "running without being chlorinated in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15 percent",
+      "start": 223,
+      "end": 233
+    },
+    "unit": {
+      "text": "stations",
+      "start": 241,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "running without being chlorinated in Idleb",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16 percent",
+      "start": 264,
+      "end": 274
+    },
+    "unit": {
+      "text": "stations",
+      "start": 282,
+      "end": 290
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "cost of fuel accounting for",
+      "start": 446,
+      "end": 473
+    },
+    "quantity": {
+      "text": "30 per cent",
+      "start": 487,
+      "end": 498
+    },
+    "unit": {
+      "text": "total WASH cluster expenditure",
+      "start": 506,
+      "end": 536
+    }
+  }
+]

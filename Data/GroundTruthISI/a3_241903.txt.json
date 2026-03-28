@@ -1,0 +1,97 @@
+[
+  {
+    "quantity": {
+      "text": "38 percent",
+      "begin": 114,
+      "end": 124
+    },
+    "unit": {
+      "text": "imports volume",
+      "begin": 86,
+      "end": 100
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 101,
+      "end": 110
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18 percent.",
+      "begin": 257,
+      "end": 268
+    },
+    "unit": {
+      "text": "food imports volume",
+      "begin": 204,
+      "end": 223
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 244,
+      "end": 253
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "588,000",
+      "begin": 347,
+      "end": 354
+    },
+    "eventDescription": {
+      "text": "imported",
+      "begin": 331,
+      "end": 339
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "nearly",
+      "begin": 340,
+      "end": 346
+    },
+    "unit": {
+      "text": "tons of wheat",
+      "begin": 355,
+      "end": 368
+    }
+  },
+  {
+    "quantity": {
+      "text": "25 percent",
+      "begin": 852,
+      "end": 862
+    },
+    "unit": {
+      "text": "GDP",
+      "begin": 833,
+      "end": 836
+    },
+    "eventDescription": {
+      "text": "contract",
+      "begin": 840,
+      "end": 848
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19 percent",
+      "begin": 934,
+      "end": 944
+    },
+    "unit": {
+      "text": "GDP",
+      "begin": 916,
+      "end": 919
+    },
+    "eventDescription": {
+      "text": "decline",
+      "begin": 923,
+      "end": 930
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "tenth",
+    "unit": "case",
+    "eventType": "EventO",
+    "eventDescription": "registered"
+  },
+  {
+    "quantity": "18:00",
+    "unit": "hours",
+    "eventType": "EventO",
+    "eventDescription": "closure of restaurants, bars and entertainment spots"
+  },
+  {
+    "quantity": "16:00",
+    "unit": "hours",
+    "eventType": "EventO",
+    "eventDescription": "closure of stores"
+  },
+  {
+    "quantity": "50",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "gathering prohibition",
+    "modifier": "more than"
+  }
+]

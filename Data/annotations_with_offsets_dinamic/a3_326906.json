@@ -1,0 +1,143 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "disruption recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "second",
+      "start": 50,
+      "end": 56
+    },
+    "unit": {
+      "text": "recorded disruption",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "operations suspended",
+      "start": 132,
+      "end": 152
+    },
+    "quantity": {
+      "text": "23rd",
+      "start": 93,
+      "end": 97
+    },
+    "unit": {
+      "text": "recorded time",
+      "start": 98,
+      "end": 111
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration of disruptions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "a few",
+      "start": 209,
+      "end": 214
+    },
+    "unit": {
+      "text": "days",
+      "start": 215,
+      "end": 219
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration of disruptions",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 223,
+      "end": 227
+    },
+    "quantity": {
+      "text": "over a few",
+      "start": 223,
+      "end": 233
+    },
+    "unit": {
+      "text": "weeks",
+      "start": 234,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "approximately one million",
+      "start": 274,
+      "end": 299
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 300,
+      "end": 309
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "living in camps and informal settlements",
+      "start": 366,
+      "end": 406
+    },
+    "modifier": {
+      "text": "over",
+      "start": 347,
+      "end": 351
+    },
+    "quantity": {
+      "text": "over 70,000",
+      "start": 347,
+      "end": 358
+    },
+    "unit": {
+      "text": "people",
+      "start": 359,
+      "end": 365
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "no water received",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 522,
+      "end": 526
+    },
+    "quantity": {
+      "text": "over 100",
+      "start": 522,
+      "end": 530
+    },
+    "unit": {
+      "text": "days",
+      "start": 531,
+      "end": 535
+    }
+  }
+]

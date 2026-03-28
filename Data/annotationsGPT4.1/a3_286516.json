@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "4",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "expected to reach IPC AMN Phase 3 or 4"
+  },
+  {
+    "quantity": "3",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "classified under IPC AMN Phase 3 (Serious)"
+  },
+  {
+    "quantity": "2",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "classified under IPC AMN Phase 2 (Alert)"
+  },
+  {
+    "quantity": "36",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "expected to worsen to IPC AMN Phase 3 or 4"
+  }
+]

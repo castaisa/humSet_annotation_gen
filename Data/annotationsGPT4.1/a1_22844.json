@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "360",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "6-59",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "age range"
+  },
+  {
+    "quantity": "360",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "3",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "in the Red category"
+  },
+  {
+    "quantity": "29",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "in the Yellow category"
+  },
+  {
+    "quantity": "328",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "in the Green category"
+  },
+  {
+    "quantity": "6",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "sent in reports"
+  },
+  {
+    "quantity": "25",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "from a neighbouring countries"
+  },
+  {
+    "quantity": "13",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "moved to Bama"
+  },
+  {
+    "quantity": "7",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "moved to Mobbar"
+  },
+  {
+    "quantity": "5",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "moved to Ngala"
+  },
+  {
+    "quantity": "25",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "measured"
+  },
+  {
+    "quantity": "23",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "in the green category"
+  },
+  {
+    "quantity": "2",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "in the yellow category"
+  }
+]

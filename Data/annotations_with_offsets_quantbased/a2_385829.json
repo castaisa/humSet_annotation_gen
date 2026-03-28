@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,000",
+      "start": 172,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "previous price of petrol (octane 95) distributed via smart card",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYL per litre",
+      "start": 190,
+      "end": 203
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3000",
+      "start": 185,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "new price of petrol (octane 95) distributed via smart card",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYL per litre",
+      "start": 190,
+      "end": 203
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 100%",
+      "start": 363,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "increase in prices of oil and bread",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 363,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "185",
+      "start": 576,
+      "end": 579
+    },
+    "eventDescription": {
+      "text": "previous price of oil",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYL per litre",
+      "start": 580,
+      "end": 593
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "500",
+      "start": 597,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "new price of oil",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYL per litre",
+      "start": 580,
+      "end": 593
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "100",
+      "start": 670,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "previous price of a pack of bread",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYL",
+      "start": 674,
+      "end": 677
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "200",
+      "start": 681,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "new price of a pack of bread",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYL",
+      "start": 685,
+      "end": 688
+    }
+  }
+]

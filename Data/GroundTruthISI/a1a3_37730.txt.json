@@ -1,0 +1,73 @@
+[
+  {
+    "quantity": {
+      "text": "Four",
+      "begin": 91,
+      "end": 95
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 96,
+      "end": 100
+    },
+    "eventDescription": {
+      "text": "remain completely inaccessible",
+      "begin": 101,
+      "end": 131
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 501,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "rapid MUAC (middle upper arm circumference) screening",
+      "begin": 429,
+      "end": 482
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children",
+      "begin": 486,
+      "end": 494
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 495,
+      "end": 500
+    }
+  },
+  {
+    "quantity": {
+      "text": "263",
+      "begin": 544,
+      "end": 547
+    },
+    "unit": {
+      "text": "children",
+      "begin": 559,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "screened were suffering from severe acute malnutrition (SAM)",
+      "begin": 568,
+      "end": 628
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "460",
+      "begin": 555,
+      "end": 558
+    },
+    "unit": {
+      "text": "children",
+      "begin": 559,
+      "end": 567
+    }
+  }
+]

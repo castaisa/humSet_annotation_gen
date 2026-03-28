@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "3.7 million",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "out of school",
+    "modifier": "Approximately"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "female"
+  },
+  {
+    "quantity": "1 in every 3",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "attending school"
+  },
+  {
+    "quantity": "half",
+    "unit": "Afghan provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces with less than 20 percent of teachers female"
+  },
+  {
+    "quantity": "20 percent",
+    "unit": "teachers",
+    "eventType": "EventP",
+    "eventDescription": "female"
+  },
+  {
+    "quantity": "one third",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "married before the age of 18",
+    "modifier": "About"
+  },
+  {
+    "quantity": "18",
+    "unit": "age",
+    "eventType": "EventP",
+    "eventDescription": "girls married before this age"
+  }
+]

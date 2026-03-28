@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 43,
+      "end": 45
+    },
+    "eventDescription": {
+      "text": "largest outbreak thus far has affected",
+      "begin": 4,
+      "end": 42
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "states in Nigeria",
+      "begin": 46,
+      "end": 63
+    }
+  },
+  {
+    "quantity": {
+      "text": "213",
+      "begin": 171,
+      "end": 174
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 175,
+      "end": 190
+    },
+    "eventDescription": {
+      "text": "Nigeria experienced its worst outbreak of Lassa fever",
+      "begin": 313,
+      "end": 366
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 210,
+      "end": 212
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 213,
+      "end": 219
+    },
+    "eventDescription": {
+      "text": "Nigeria experienced its worst outbreak of Lassa fever",
+      "begin": 313,
+      "end": 366
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "third",
+      "begin": 261,
+      "end": 266
+    },
+    "unit": {
+      "text": "total cases",
+      "begin": 274,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "Nigeria experienced its worst outbreak of Lassa fever",
+      "begin": 313,
+      "end": 366
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Four",
+      "begin": 368,
+      "end": 372
+    },
+    "unit": {
+      "text": "health workers",
+      "begin": 373,
+      "end": 387
+    },
+    "eventDescription": {
+      "text": "infected",
+      "begin": 398,
+      "end": 406
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 450,
+      "end": 452
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 453,
+      "end": 458
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 469,
+      "end": 478
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 533,
+      "end": 536
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 469,
+      "end": 478
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 537,
+      "end": 543
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "over half",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported cold and damp conditions",
+    "modifier": "over"
+  },
+  {
+    "quantity": "54 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported cold and damp conditions"
+  },
+  {
+    "quantity": "38 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of heating"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of space inside the shelter"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported cold and damp conditions in finished houses and apartments"
+  },
+  {
+    "quantity": "64 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported cold and damp conditions in unfinished houses and apartments"
+  },
+  {
+    "quantity": "61 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of space in tents"
+  },
+  {
+    "quantity": "49 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported lack of privacy in tents"
+  },
+  {
+    "quantity": "41 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported leakages during rain in tents"
+  }
+]

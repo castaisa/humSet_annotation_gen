@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "assessed",
+      "start": 406,
+      "end": 414
+    },
+    "quantity": {
+      "text": "2",
+      "start": 19,
+      "end": 20
+    },
+    "unit": {
+      "text": "collective settlement",
+      "start": 244,
+      "end": 265
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "assessed",
+      "start": 460,
+      "end": 468
+    },
+    "quantity": {
+      "text": "1",
+      "start": 22,
+      "end": 23
+    },
+    "unit": {
+      "text": "host community",
+      "start": 272,
+      "end": 286
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "assessed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1",
+      "start": 64,
+      "end": 65
+    },
+    "unit": {
+      "text": "host community location",
+      "start": 342,
+      "end": 365
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "location of damage",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "400",
+      "start": 473,
+      "end": 476
+    },
+    "unit": {
+      "text": "Housing Estate camp",
+      "start": 477,
+      "end": 496
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "damaged",
+      "start": 556,
+      "end": 563
+    },
+    "quantity": {
+      "text": "7",
+      "start": 564,
+      "end": 565
+    },
+    "unit": {
+      "text": "shelters",
+      "start": 566,
+      "end": 574
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affected",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "estimated",
+      "start": 589,
+      "end": 598
+    },
+    "quantity": {
+      "text": "100",
+      "start": 599,
+      "end": 602
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 603,
+      "end": 614
+    }
+  }
+]

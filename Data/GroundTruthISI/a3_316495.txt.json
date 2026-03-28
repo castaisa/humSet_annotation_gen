@@ -1,0 +1,91 @@
+[
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 57,
+      "end": 59
+    },
+    "eventDescription": {
+      "text": "progress has been made",
+      "begin": 22,
+      "end": 44
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "years",
+      "begin": 60,
+      "end": 65
+    }
+  },
+  {
+    "quantity": {
+      "text": "46% i",
+      "begin": 125,
+      "end": 130
+    },
+    "unit": {
+      "text": "healthcare coverage",
+      "begin": 67,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "remains low",
+      "begin": 112,
+      "end": 123
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "55%",
+      "begin": 138,
+      "end": 141
+    },
+    "unit": {
+      "text": "healthcare coverage",
+      "begin": 67,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "remains low",
+      "begin": 112,
+      "end": 123
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 752,
+      "end": 755
+    },
+    "eventDescription": {
+      "text": "cases of SAM",
+      "begin": 760,
+      "end": 772
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Low rate of referral",
+      "begin": 730,
+      "end": 750
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 1165,
+      "end": 1167
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 1155,
+      "end": 1164
+    },
+    "unit": {
+      "text": "km",
+      "begin": 1168,
+      "end": 1170
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "50,339",
+    "unit": "new arrivals",
+    "eventType": "EventP",
+    "eventDescription": "arrived"
+  },
+  {
+    "quantity": "16,634",
+    "unit": "individuals",
+    "eventType": "EventA",
+    "eventDescription": "provided NFIs (including hygiene kits)"
+  },
+  {
+    "quantity": "244",
+    "unit": "individuals",
+    "eventType": "EventA",
+    "eventDescription": "provided temporary shelter"
+  },
+  {
+    "quantity": "1,205",
+    "unit": "refugees",
+    "eventType": "EventP",
+    "eventDescription": "returned to Somalia"
+  },
+  {
+    "quantity": "430",
+    "unit": "migrants",
+    "eventType": "EventP",
+    "eventDescription": "assisted to return to their country of origin"
+  },
+  {
+    "quantity": "22",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "submitted for resettlement to Sweden"
+  },
+  {
+    "quantity": "81",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "submitted for resettlement to Sweden"
+  },
+  {
+    "quantity": "68",
+    "unit": "Eritreans",
+    "eventType": "EventP",
+    "eventDescription": "submitted for resettlement to Sweden"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 214,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "schools had been closed",
+      "begin": 187,
+      "end": 210
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "countries",
+      "begin": 217,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 231,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "schools had been closed",
+      "begin": 187,
+      "end": 210
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "independent states",
+      "begin": 234,
+      "end": 252
+    }
+  },
+  {
+    "quantity": {
+      "text": "159 million",
+      "begin": 312,
+      "end": 323
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 302,
+      "end": 311
+    },
+    "unit": {
+      "text": "children and adolescents",
+      "begin": 324,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "have been affected in the region",
+      "begin": 350,
+      "end": 382
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 407,
+      "end": 410
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 397,
+      "end": 406
+    },
+    "unit": {
+      "text": "students",
+      "begin": 418,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "enrolled",
+      "begin": 427,
+      "end": 435
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "11,322",
+    "unit": "movements",
+    "eventType": "EventO",
+    "eventDescription": "movements across the three northeast states"
+  },
+  {
+    "quantity": "8,653",
+    "unit": "arrivals",
+    "eventType": "EventP",
+    "eventDescription": "arrivals"
+  },
+  {
+    "quantity": "2, 669",
+    "unit": "departures",
+    "eventType": "EventP",
+    "eventDescription": "departures"
+  }
+]

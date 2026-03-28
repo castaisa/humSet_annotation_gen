@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "100",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "Remdesivir 100 injection used"
+  },
+  {
+    "quantity": "37",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "treated"
+  },
+  {
+    "quantity": "three",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "saved"
+  }
+]

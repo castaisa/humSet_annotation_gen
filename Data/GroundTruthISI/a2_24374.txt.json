@@ -1,0 +1,448 @@
+[
+  {
+    "quantity": {
+      "text": "21",
+      "begin": 61,
+      "end": 63
+    },
+    "unit": {
+      "text": "suspected Cerebrospinal Meningitis (CSM) cases",
+      "begin": 64,
+      "end": 110
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 172,
+      "end": 180
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 116,
+      "end": 119
+    },
+    "unit": {
+      "text": "laboratory confirmed",
+      "begin": 120,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 172,
+      "end": 180
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 145,
+      "end": 148
+    },
+    "unit": {
+      "text": "death",
+      "begin": 149,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 172,
+      "end": 180
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4.8%",
+      "begin": 161,
+      "end": 165
+    },
+    "unit": {
+      "text": "CFR",
+      "begin": 156,
+      "end": 159
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 186,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 172,
+      "end": 180
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "LGAs",
+      "begin": 189,
+      "end": 193
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 197,
+      "end": 201
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 218,
+      "end": 219
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 229,
+      "end": 230
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 241,
+      "end": 242
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 254,
+      "end": 255
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 265,
+      "end": 266
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 275,
+      "end": 276
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 287,
+      "end": 288
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 299,
+      "end": 300
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 313,
+      "end": 314
+    },
+    "unit": {
+      "text": "States",
+      "begin": 202,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "87",
+      "begin": 330,
+      "end": 332
+    },
+    "unit": {
+      "text": "suspected cases",
+      "begin": 333,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 378,
+      "end": 386
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 353,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 378,
+      "end": 386
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "deaths",
+      "begin": 359,
+      "end": 365
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.4%",
+      "begin": 372,
+      "end": 376
+    },
+    "unit": {
+      "text": "CFR",
+      "begin": 367,
+      "end": 370
+    }
+  },
+  {
+    "quantity": {
+      "text": "41",
+      "begin": 394,
+      "end": 396
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 378,
+      "end": 386
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "LGAs",
+      "begin": 397,
+      "end": 401
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 403,
+      "end": 405
+    },
+    "unit": {
+      "text": "States",
+      "begin": 406,
+      "end": 412
+    }
+  },
+  {
+    "quantity": {
+      "text": "173",
+      "begin": 486,
+      "end": 489
+    },
+    "unit": {
+      "text": "suspected meningitis cases",
+      "begin": 490,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 608,
+      "end": 616
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 552,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 608,
+      "end": 616
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "deaths",
+      "begin": 558,
+      "end": 564
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.62%",
+      "begin": 571,
+      "end": 576
+    },
+    "unit": {
+      "text": "CFR",
+      "begin": 566,
+      "end": 569
+    }
+  },
+  {
+    "quantity": {
+      "text": "75",
+      "begin": 583,
+      "end": 585
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 586,
+      "end": 590
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 608,
+      "end": 616
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 592,
+      "end": 594
+    },
+    "unit": {
+      "text": "States)",
+      "begin": 595,
+      "end": 602
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 522,
+      "end": 526
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 608,
+      "end": 616
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "557",
+      "begin": 631,
+      "end": 634
+    },
+    "unit": {
+      "text": "suspected cases",
+      "begin": 635,
+      "end": 650
+    }
+  },
+  {
+    "quantity": {
+      "text": "71",
+      "begin": 656,
+      "end": 658
+    },
+    "eventDescription": {
+      "text": "Laboratory confirmed",
+      "begin": 659,
+      "end": 679
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "37",
+      "begin": 684,
+      "end": 686
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 687,
+      "end": 693
+    }
+  },
+  {
+    "quantity": {
+      "text": "6.64%",
+      "begin": 700,
+      "end": 705
+    },
+    "unit": {
+      "text": "CFR",
+      "begin": 695,
+      "end": 698
+    }
+  },
+  {
+    "quantity": {
+      "text": "122",
+      "begin": 712,
+      "end": 715
+    },
+    "unit": {
+      "text": "LGAs",
+      "begin": 716,
+      "end": 720
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 724,
+      "end": 726
+    },
+    "unit": {
+      "text": "states",
+      "begin": 727,
+      "end": 733
+    }
+  }
+]

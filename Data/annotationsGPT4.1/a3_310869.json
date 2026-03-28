@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "20%",
+    "unit": "morbidity prevalence",
+    "eventType": "EventP",
+    "eventDescription": "morbidity prevalence remained high"
+  },
+  {
+    "quantity": "15",
+    "unit": "rural population groups",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "25",
+    "unit": "rural population groups",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "42.7%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "highest prevalence reported in East Golis Pastoral"
+  },
+  {
+    "quantity": "34.9%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "highest prevalence reported in Bay Agropastoral"
+  },
+  {
+    "quantity": "31.1%",
+    "unit": "prevalence",
+    "eventType": "EventP",
+    "eventDescription": "highest prevalence reported in North Gedo Riverine"
+  }
+]

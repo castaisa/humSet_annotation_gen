@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "10%",
+      "begin": 41,
+      "end": 44
+    },
+    "eventDescription": {
+      "text": "Gynecology services were required",
+      "begin": 0,
+      "end": 33
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "interviewed households",
+      "begin": 52,
+      "end": 74
+    }
+  },
+  {
+    "quantity": {
+      "text": "58%",
+      "begin": 101,
+      "end": 104
+    },
+    "unit": {
+      "text": "households",
+      "begin": 89,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "could not access the service",
+      "begin": 105,
+      "end": 133
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 135,
+      "end": 137
+    },
+    "unit": {
+      "text": "households",
+      "begin": 145,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "expressed needs related to contraceptive services",
+      "begin": 156,
+      "end": 205
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 216,
+      "end": 219
+    },
+    "unit": {
+      "text": "households",
+      "begin": 145,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "could not access the service",
+      "begin": 220,
+      "end": 248
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 250,
+      "end": 252
+    },
+    "unit": {
+      "text": "households",
+      "begin": 260,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "required attention for pregnant women",
+      "begin": 271,
+      "end": 308
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "31%",
+      "begin": 319,
+      "end": 322
+    },
+    "unit": {
+      "text": "households",
+      "begin": 260,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "did not access the service",
+      "begin": 343,
+      "end": 369
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4%",
+      "begin": 383,
+      "end": 385
+    },
+    "unit": {
+      "text": "households",
+      "begin": 260,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "expressed needs in condoms or other actions in prevention and treatment of sexually transmitted infections (STI) and/or HIV",
+      "begin": 386,
+      "end": 509
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 531,
+      "end": 534
+    },
+    "unit": {
+      "text": "households",
+      "begin": 520,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "could not access the service.",
+      "begin": 535,
+      "end": 564
+    },
+    "eventType": "EventO"
+  }
+]

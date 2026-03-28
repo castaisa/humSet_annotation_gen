@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one- third",
+      "start": 195,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 242,
+      "end": 249
+    },
+    "unit": {
+      "text": "households",
+      "start": 221,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1 163 million",
+      "start": 207,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 242,
+      "end": 249
+    },
+    "unit": {
+      "text": "households",
+      "start": 221,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "35,000",
+      "start": 521,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "irregularities in registration for benefits",
+      "start": 528,
+      "end": 571
+    },
+    "unit": {
+      "text": "irregularities",
+      "start": 528,
+      "end": 542
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "99.4%",
+      "start": 615,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "registrations were correct",
+      "start": 628,
+      "end": 654
+    },
+    "unit": {
+      "text": "registrations",
+      "start": 628,
+      "end": 641
+    }
+  }
+]

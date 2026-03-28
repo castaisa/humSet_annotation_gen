@@ -1,0 +1,272 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "36",
+      "start": 85,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "deaths recorded",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 88,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "64%",
+      "start": 113,
+      "end": 116
+    },
+    "eventDescription": {
+      "text": "deaths due to causes classified as 'Others'",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 88,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23",
+      "start": 120,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "deaths due to causes classified as 'Others'",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 88,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8%",
+      "start": 168,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "deaths as still birth (Born Dead)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 88,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 174,
+      "end": 175
+    },
+    "eventDescription": {
+      "text": "deaths as still birth (Born Dead)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 88,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16%",
+      "start": 206,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "deaths as neonatal (<28 days old)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 88,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 213,
+      "end": 214
+    },
+    "eventDescription": {
+      "text": "deaths as neonatal (<28 days old)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 88,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3%",
+      "start": 245,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "deaths as infectious disease",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 379,
+      "end": 385
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 251,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "death as infectious disease",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "death",
+      "start": 299,
+      "end": 304
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6%",
+      "start": 278,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "deaths as maternal death",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 379,
+      "end": 385
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 284,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "deaths as maternal death",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 379,
+      "end": 385
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3%",
+      "start": 307,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "deaths as severe acute respiratory infection (SARI)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 379,
+      "end": 385
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 313,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "death as severe acute respiratory infection (SARI)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "death",
+      "start": 299,
+      "end": 304
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25%",
+      "start": 387,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "deaths occurred in health facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 379,
+      "end": 385
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "75%",
+      "start": 425,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "deaths occurred at homes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 379,
+      "end": 385
+    }
+  }
+]

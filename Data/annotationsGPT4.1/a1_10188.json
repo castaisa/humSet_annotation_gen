@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "1,756",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted"
+  },
+  {
+    "quantity": "1,463",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted"
+  },
+  {
+    "quantity": "1,054",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted"
+  },
+  {
+    "quantity": "310",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked"
+  },
+  {
+    "quantity": "120",
+    "unit": "km",
+    "eventType": "EventO",
+    "eventDescription": "distance east of Tripoli"
+  },
+  {
+    "quantity": "238",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "included in group"
+  },
+  {
+    "quantity": "41",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "included in group"
+  },
+  {
+    "quantity": "31",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "included in group"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "155 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "estimated to be in acute high food insecurity"
+  },
+  {
+    "quantity": "55",
+    "unit": "countries/territories",
+    "eventType": "EventO",
+    "eventDescription": "affected by acute high food insecurity"
+  },
+  {
+    "quantity": "20 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "increase in people in acute high food insecurity"
+  },
+  {
+    "quantity": "over 41 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "at risk of falling into famine or famine-like conditions",
+    "modifier": "over"
+  }
+]

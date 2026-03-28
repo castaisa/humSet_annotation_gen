@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4,638",
+      "start": 58,
+      "end": 63
+    },
+    "unit": {
+      "text": "people",
+      "start": 64,
+      "end": 70
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported education through television",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "72%",
+      "start": 201,
+      "end": 204
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 208,
+      "end": 219
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported education through internet and online",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40%",
+      "start": 278,
+      "end": 281
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 285,
+      "end": 296
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported education through SMS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25%",
+      "start": 307,
+      "end": 310
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 314,
+      "end": 325
+    }
+  }
+]

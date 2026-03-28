@@ -1,0 +1,25 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "48,000",
+      "start": 557,
+      "end": 563
+    },
+    "eventDescription": {
+      "text": "affected by the fire",
+      "start": 586,
+      "end": 606
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 564,
+      "end": 575
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 547,
+      "end": 556
+    }
+  }
+]

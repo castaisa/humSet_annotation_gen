@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "750 000",
+    "unit": "tonnes",
+    "eventType": "EventO",
+    "eventDescription": "maize crop production estimated"
+  },
+  {
+    "quantity": "30 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "lower than the previous five-year average"
+  }
+]

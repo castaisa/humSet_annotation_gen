@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 96,
+      "end": 98
+    },
+    "unit": {
+      "text": "CFS",
+      "begin": 99,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "established by local partners",
+      "begin": 108,
+      "end": 137
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 170,
+      "end": 171
+    },
+    "unit": {
+      "text": "CFS",
+      "begin": 99,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "established by local partners",
+      "begin": 108,
+      "end": 137
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "600 million",
+    "unit": "PEN",
+    "eventType": "EventA",
+    "eventDescription": "fund established to support small holder farmers"
+  },
+  {
+    "quantity": "175 million",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "equivalent value of fund established to support small holder farmers"
+  },
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventA",
+    "eventDescription": "loan payment deferral period"
+  },
+  {
+    "quantity": "760",
+    "unit": "PEN",
+    "eventType": "EventA",
+    "eventDescription": "single delivery subsidy granted"
+  },
+  {
+    "quantity": "220",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "equivalent value of single delivery subsidy granted",
+    "modifier": "about"
+  },
+  {
+    "quantity": "1 million",
+    "unit": "vulnerable rural households",
+    "eventType": "EventP",
+    "eventDescription": "households receiving subsidy"
+  }
+]

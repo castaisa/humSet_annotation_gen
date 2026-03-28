@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "about 14",
+    "unit": "retail outlets",
+    "eventType": "EventA",
+    "eventDescription": "covered by fresh food corners",
+    "modifier": "about"
+  },
+  {
+    "quantity": "100 percent",
+    "unit": "beneficiaries",
+    "eventType": "EventP",
+    "eventDescription": "shopping in those locations"
+  },
+  {
+    "quantity": "3 USD",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "additional targeted assistance"
+  },
+  {
+    "quantity": "30 percent",
+    "unit": "most vulnerable households",
+    "eventType": "EventP",
+    "eventDescription": "received additional targeted assistance"
+  }
+]

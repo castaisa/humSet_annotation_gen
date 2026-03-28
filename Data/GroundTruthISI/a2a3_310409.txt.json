@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 123,
+      "end": 133
+    },
+    "unit": {
+      "text": "Rohingya households",
+      "begin": 137,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "were adopting consumption-based coping strategies to deal with food shortages",
+      "begin": 201,
+      "end": 278
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40 percent",
+      "begin": 161,
+      "end": 171
+    },
+    "unit": {
+      "text": "host community households",
+      "begin": 175,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "were adopting consumption-based coping strategies to deal with food shortages",
+      "begin": 201,
+      "end": 278
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7 percent",
+      "begin": 300,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "share of Rohingya households relying on less preferred foods",
+      "begin": 326,
+      "end": 386
+    },
+    "eventType": "EventO"
+  }
+]

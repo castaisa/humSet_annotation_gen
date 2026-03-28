@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "Three-quarters",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "claimed they know where to go in case of risk or injury due to violence"
+  },
+  {
+    "quantity": "60%",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "said they would go to the police rather than to their own family"
+  },
+  {
+    "quantity": "50%",
+    "unit": "migrant children",
+    "eventType": "EventP",
+    "eventDescription": "have reported experiencing increased discrimination against a particular group with the onset of the pandemic"
+  },
+  {
+    "quantity": "91%",
+    "unit": "migrant children",
+    "eventType": "EventP",
+    "eventDescription": "showed that discrimination is against them because of their migrant condition coming from Venezuela"
+  },
+  {
+    "quantity": "About 14%",
+    "unit": "migrant children",
+    "eventType": "EventP",
+    "eventDescription": "said want to go back to Venezuela",
+    "modifier": "about"
+  }
+]

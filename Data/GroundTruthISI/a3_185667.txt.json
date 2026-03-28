@@ -1,0 +1,61 @@
+[
+  {
+    "quantity": {
+      "text": "8\nmillion",
+      "begin": 473,
+      "end": 482
+    },
+    "unit": {
+      "text": "people",
+      "begin": 483,
+      "end": 489
+    },
+    "eventDescription": {
+      "text": "had their access to food disrupted",
+      "begin": 495,
+      "end": 529
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3.3 million",
+      "begin": 577,
+      "end": 588
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 563,
+      "end": 576
+    },
+    "unit": {
+      "text": "people",
+      "begin": 589,
+      "end": 595
+    },
+    "eventDescription": {
+      "text": "will be in moderate food insecurity",
+      "begin": 596,
+      "end": 631
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "750,000",
+      "begin": 636,
+      "end": 643
+    },
+    "unit": {
+      "text": "people",
+      "begin": 644,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "will be in severe food insecurity",
+      "begin": 651,
+      "end": 684
+    },
+    "eventType": "EventP"
+  }
+]

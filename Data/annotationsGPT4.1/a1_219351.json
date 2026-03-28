@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "45%",
+    "unit": "of all assessed households",
+    "eventType": "EventO",
+    "eventDescription": "reported that toilets shared by four or more households were not segregated by sex"
+  },
+  {
+    "quantity": "four",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "toilets shared by four or more households"
+  },
+  {
+    "quantity": "74%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "percentage for Al Hasakeh reporting toilets not segregated by sex"
+  },
+  {
+    "quantity": "59%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "percentage for Ar Raqqa reporting toilets not segregated by sex"
+  },
+  {
+    "quantity": "51%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "percentage for Deir ez Zor reporting toilets not segregated by sex"
+  },
+  {
+    "quantity": "54%",
+    "unit": "of all assessed households",
+    "eventType": "EventO",
+    "eventDescription": "reported at least one protection issue related to toilet facilities",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "one",
+    "unit": "protection issue",
+    "eventType": "EventO",
+    "eventDescription": "protection issue related to toilet facilities"
+  }
+]

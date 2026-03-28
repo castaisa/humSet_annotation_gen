@@ -1,0 +1,102 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "arable land",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 268,
+      "end": 273
+    },
+    "quantity": {
+      "text": "1.8 million",
+      "start": 85,
+      "end": 96
+    },
+    "unit": {
+      "text": "hectares",
+      "start": 97,
+      "end": 105
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total land",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15.4 million",
+      "start": 114,
+      "end": 126
+    },
+    "unit": {
+      "text": "hectares",
+      "start": 161,
+      "end": 169
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "covered by permanent crops",
+      "start": 174,
+      "end": 200
+    },
+    "quantity": {
+      "text": "300 000",
+      "start": 153,
+      "end": 160
+    },
+    "unit": {
+      "text": "hectares",
+      "start": 282,
+      "end": 290
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "suitable for irrigation",
+      "start": 241,
+      "end": 264
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "470 000",
+      "start": 274,
+      "end": 281
+    },
+    "unit": {
+      "text": "hectares",
+      "start": 314,
+      "end": 322
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "currently irrigated",
+      "start": 327,
+      "end": 346
+    },
+    "quantity": {
+      "text": "240 000",
+      "start": 306,
+      "end": 313
+    },
+    "unit": {
+      "text": "hectares",
+      "start": null,
+      "end": null
+    }
+  }
+]

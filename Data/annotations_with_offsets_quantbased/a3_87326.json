@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0%",
+      "start": 285,
+      "end": 287
+    },
+    "eventDescription": {
+      "text": "reporting most people engaged in subsistence farming",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 388,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "39%",
+      "start": 299,
+      "end": 302
+    },
+    "eventDescription": {
+      "text": "reporting most people engaged in subsistence farming",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 388,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "97%",
+      "start": 481,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "reporting most people not engaged in any livelihood activity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 388,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25%",
+      "start": 496,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "reporting most people not engaged in any livelihood activity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 388,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "55%",
+      "start": 649,
+      "end": 652
+    },
+    "eventDescription": {
+      "text": "reporting most people engaged in subsistence farming",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "settlements",
+      "start": 543,
+      "end": 554
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "81%",
+      "start": 653,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "reporting most people engaged in subsistence farming",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "settlements",
+      "start": 543,
+      "end": 554
+    }
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "quantity": {
+      "text": "182,000",
+      "begin": 194,
+      "end": 201
+    },
+    "unit": {
+      "text": "people",
+      "begin": 202,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "benefited from the PEP",
+      "begin": 209,
+      "end": 231
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "700,000",
+      "begin": 487,
+      "end": 494
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 480,
+      "end": 486
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 495,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "have legalised their status",
+      "begin": 513,
+      "end": 540
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "59%",
+      "begin": 508,
+      "end": 511
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 495,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "have legalised their status",
+      "begin": 513,
+      "end": 540
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "500,000",
+      "begin": 565,
+      "end": 572
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 495,
+      "end": 506
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 558,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "are in an irregular situation",
+      "begin": 579,
+      "end": 608
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 574,
+      "end": 577
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 495,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "are in an irregular situation",
+      "begin": 579,
+      "end": 608
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,7 million",
+      "begin": 641,
+      "end": 652
+    },
+    "modifier": {
+      "text": "additional",
+      "begin": 630,
+      "end": 640
+    },
+    "unit": {
+      "text": "Venezuelan people",
+      "begin": 653,
+      "end": 670
+    },
+    "eventDescription": {
+      "text": "hold a Border Mobility Card (TMF)",
+      "begin": 671,
+      "end": 704
+    },
+    "eventType": "EventO"
+  }
+]

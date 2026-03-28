@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "lack health care",
+      "start": 214,
+      "end": 230
+    },
+    "quantity": {
+      "text": "16 million",
+      "start": 196,
+      "end": 206
+    },
+    "unit": {
+      "text": "people",
+      "start": 207,
+      "end": 213
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are malnourished",
+      "start": 253,
+      "end": 269
+    },
+    "quantity": {
+      "text": "1.5 million",
+      "start": 232,
+      "end": 243
+    },
+    "unit": {
+      "text": "children",
+      "start": 244,
+      "end": 252
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "are partially or completely closed",
+      "start": 323,
+      "end": 357
+    },
+    "quantity": {
+      "text": "50 per cent",
+      "start": 290,
+      "end": 301
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 305,
+      "end": 322
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are suffering from food insecurity, drinking water shortages and services such as electricity and others",
+      "start": 377,
+      "end": 481
+    },
+    "quantity": {
+      "text": "17 million",
+      "start": 359,
+      "end": 369
+    },
+    "unit": {
+      "text": "people",
+      "start": 370,
+      "end": 376
+    }
+  }
+]

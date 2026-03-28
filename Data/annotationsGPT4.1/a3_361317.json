@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "66.6 million",
+    "unit": "drop in the labour force",
+    "eventType": "EventP",
+    "eventDescription": "drop in the labour force"
+  },
+  {
+    "quantity": "22.3 million",
+    "unit": "drop in agriculture sector",
+    "eventType": "EventP",
+    "eventDescription": "drop in agriculture sector"
+  },
+  {
+    "quantity": "12.2 million",
+    "unit": "drop in services sector",
+    "eventType": "EventP",
+    "eventDescription": "drop in services sector"
+  },
+  {
+    "quantity": "26.1 million",
+    "unit": "drop in industrial sector",
+    "eventType": "EventP",
+    "eventDescription": "drop in industrial sector"
+  },
+  {
+    "quantity": "60%",
+    "unit": "drop in service sector",
+    "eventType": "EventP",
+    "eventDescription": "drop in service sector",
+    "modifier": "around"
+  },
+  {
+    "quantity": "17.6%",
+    "unit": "decrease in income",
+    "eventType": "EventP",
+    "eventDescription": "decrease in income"
+  },
+  {
+    "quantity": "66-day",
+    "unit": "general holiday",
+    "eventType": "EventO",
+    "eventDescription": "general holiday"
+  }
+]

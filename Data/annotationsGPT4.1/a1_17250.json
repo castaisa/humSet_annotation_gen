@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "28,135",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "conflict affected households received food assistance"
+  },
+  {
+    "quantity": "196,917",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "persons received food assistance"
+  },
+  {
+    "quantity": "60kg",
+    "unit": "rice",
+    "eventType": "EventA",
+    "eventDescription": "rice distributed as food assistance"
+  },
+  {
+    "quantity": "25kg",
+    "unit": "beans",
+    "eventType": "EventA",
+    "eventDescription": "beans distributed as food assistance"
+  },
+  {
+    "quantity": "25kg",
+    "unit": "lentils",
+    "eventType": "EventA",
+    "eventDescription": "lentils distributed as food assistance"
+  },
+  {
+    "quantity": "5kg",
+    "unit": "sugar",
+    "eventType": "EventA",
+    "eventDescription": "sugar distributed as food assistance"
+  },
+  {
+    "quantity": "3kg",
+    "unit": "tomato paste",
+    "eventType": "EventA",
+    "eventDescription": "tomato paste distributed as food assistance"
+  },
+  {
+    "quantity": "10L",
+    "unit": "sunflower oil",
+    "eventType": "EventA",
+    "eventDescription": "sunflower oil distributed as food assistance"
+  },
+  {
+    "quantity": "1kg",
+    "unit": "salt",
+    "eventType": "EventA",
+    "eventDescription": "salt distributed as food assistance"
+  },
+  {
+    "quantity": "30",
+    "unit": "sachets",
+    "eventType": "EventA",
+    "eventDescription": "nutritional supplement 'plumpy sup' sachets distributed"
+  },
+  {
+    "quantity": "10",
+    "unit": "soaps",
+    "eventType": "EventA",
+    "eventDescription": "soaps distributed to each household"
+  },
+  {
+    "quantity": "500",
+    "unit": "food parcels",
+    "eventType": "EventA",
+    "eventDescription": "food parcels donated to Yemen Red Crescent Society"
+  }
+]

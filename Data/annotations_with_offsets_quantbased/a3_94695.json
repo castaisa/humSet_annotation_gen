@@ -1,0 +1,272 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "62%",
+      "start": 146,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50%",
+      "start": 175,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41%",
+      "start": 192,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "39%",
+      "start": 210,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "37%",
+      "start": 231,
+      "end": 234
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "61%",
+      "start": 252,
+      "end": 255
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "56%",
+      "start": 273,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "77%",
+      "start": 293,
+      "end": 296
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 120,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "61%",
+      "start": 317,
+      "end": 320
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 458,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2%",
+      "start": 329,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 458,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2%",
+      "start": 351,
+      "end": 353
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 458,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2%",
+      "start": 370,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 458,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "59%",
+      "start": 385,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 458,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "58%",
+      "start": 411,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "aware of sexual exploitation incidents",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 458,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "14",
+      "start": 477,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "reported significant challenges",
+      "start": 486,
+      "end": 517
+    },
+    "unit": {
+      "text": "camps",
+      "start": 480,
+      "end": 485
+    }
+  }
+]

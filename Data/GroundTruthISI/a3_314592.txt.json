@@ -1,0 +1,200 @@
+[
+  {
+    "quantity": {
+      "text": "86",
+      "begin": 11,
+      "end": 13
+    },
+    "unit": {
+      "text": "Community mobilizers",
+      "begin": 14,
+      "end": 34
+    },
+    "eventDescription": {
+      "text": "oriented on COVID-19 risk communication.",
+      "begin": 111,
+      "end": 151
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "208",
+      "begin": 39,
+      "end": 42
+    },
+    "unit": {
+      "text": "community influencers",
+      "begin": 43,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "oriented on COVID-19 risk communication.",
+      "begin": 111,
+      "end": 151
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 189,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "partnership programme",
+      "begin": 162,
+      "end": 183
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "radio stations",
+      "begin": 192,
+      "end": 206
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,326",
+      "begin": 219,
+      "end": 224
+    },
+    "unit": {
+      "text": "radio jingles on COVID-19",
+      "begin": 225,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "broadcasted",
+      "begin": 256,
+      "end": 267
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 271,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "broadcasted",
+      "begin": 256,
+      "end": 267
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "widely spoken languages",
+      "begin": 274,
+      "end": 297
+    }
+  },
+  {
+    "quantity": {
+      "text": "169",
+      "begin": 317,
+      "end": 320
+    },
+    "unit": {
+      "text": "talk shows focusing on COVID-19 and its impact",
+      "begin": 321,
+      "end": 367
+    },
+    "eventDescription": {
+      "text": "held",
+      "begin": 373,
+      "end": 377
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 551,
+      "end": 553
+    },
+    "eventDescription": {
+      "text": "Communication materials focusing on signs and symptoms of COVID-19, prevention and proper use of facemasks were printed, and distribution to partners is ongoing",
+      "begin": 379,
+      "end": 539
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "states",
+      "begin": 554,
+      "end": 560
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 588,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "Communication materials focusing on signs and symptoms of COVID-19, prevention and proper use of facemasks were printed, and distribution to partners is ongoing",
+      "begin": 379,
+      "end": 539
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "languages.",
+      "begin": 590,
+      "end": 600
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,700",
+      "begin": 641,
+      "end": 646
+    },
+    "unit": {
+      "text": "posters",
+      "begin": 647,
+      "end": 654
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 688,
+      "end": 699
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "350",
+      "begin": 656,
+      "end": 659
+    },
+    "unit": {
+      "text": "banners",
+      "begin": 660,
+      "end": 667
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 688,
+      "end": 699
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "35,000",
+      "begin": 669,
+      "end": 675
+    },
+    "unit": {
+      "text": "fliers",
+      "begin": 676,
+      "end": 682
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 688,
+      "end": 699
+    },
+    "eventType": "EventA"
+  }
+]

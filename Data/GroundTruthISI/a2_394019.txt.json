@@ -1,0 +1,132 @@
+[
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 170,
+      "end": 173
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 165,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "dengue cases",
+      "begin": 174,
+      "end": 186
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "dengue cases",
+      "begin": 174,
+      "end": 186
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,286",
+      "begin": 203,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 227,
+      "end": 235
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "dengue cases",
+      "begin": 209,
+      "end": 221
+    }
+  },
+  {
+    "quantity": {
+      "text": "101,354",
+      "begin": 362,
+      "end": 369
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 403,
+      "end": 411
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "dengue cases",
+      "begin": 370,
+      "end": 382
+    }
+  },
+  {
+    "quantity": {
+      "text": "179",
+      "begin": 387,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 403,
+      "end": 411
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "deaths",
+      "begin": 391,
+      "end": 397
+    }
+  },
+  {
+    "quantity": {
+      "text": "50,974",
+      "begin": 485,
+      "end": 491
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 479,
+      "end": 484
+    },
+    "unit": {
+      "text": "people",
+      "begin": 492,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "infected with dengue",
+      "begin": 504,
+      "end": 524
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "50,166",
+      "begin": 552,
+      "end": 558
+    },
+    "unit": {
+      "text": "dengue cases",
+      "begin": 559,
+      "end": 571
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 577,
+      "end": 585
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 602,
+      "end": 604
+    },
+    "unit": {
+      "text": "years",
+      "begin": 605,
+      "end": 610
+    }
+  }
+]

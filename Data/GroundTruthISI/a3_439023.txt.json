@@ -1,0 +1,151 @@
+[
+  {
+    "quantity": {
+      "text": "460,000",
+      "begin": 234,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "The Alouk water station provides water directly",
+      "begin": 182,
+      "end": 229
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "people",
+      "begin": 242,
+      "end": 248
+    }
+  },
+  {
+    "quantity": {
+      "text": "one million",
+      "begin": 273,
+      "end": 284
+    },
+    "modifier": {
+      "text": "up to",
+      "begin": 267,
+      "end": 272
+    },
+    "unit": {
+      "text": "people",
+      "begin": 285,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "impacted",
+      "begin": 296,
+      "end": 304
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 535,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "water station resumed operations",
+      "begin": 473,
+      "end": 505
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "submersible pumps",
+      "begin": 548,
+      "end": 565
+    }
+  },
+  {
+    "quantity": {
+      "text": "10 out of 30",
+      "begin": 535,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "water station resumed operations",
+      "begin": 473,
+      "end": 505
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "submersible pumps",
+      "begin": 548,
+      "end": 565
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 545,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "water station resumed operations",
+      "begin": 473,
+      "end": 505
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "submersible pumps",
+      "begin": 548,
+      "end": 565
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 570,
+      "end": 571
+    },
+    "eventDescription": {
+      "text": "water station resumed operations",
+      "begin": 473,
+      "end": 505
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "horizontal pumps",
+      "begin": 582,
+      "end": 598
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 579,
+      "end": 581
+    },
+    "eventDescription": {
+      "text": "water station resumed operations",
+      "begin": 473,
+      "end": 505
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "horizontal pumps",
+      "begin": 582,
+      "end": 598
+    }
+  },
+  {
+    "quantity": {
+      "text": "4 out of 12",
+      "begin": 570,
+      "end": 581
+    },
+    "eventDescription": {
+      "text": "water station resumed operations",
+      "begin": 473,
+      "end": 505
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "horizontal pumps",
+      "begin": 582,
+      "end": 598
+    }
+  }
+]

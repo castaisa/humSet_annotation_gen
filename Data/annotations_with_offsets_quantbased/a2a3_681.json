@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "74.9%",
+      "start": 9,
+      "end": 14
+    },
+    "eventDescription": {
+      "text": "reported irregular access to electricity",
+      "start": 29,
+      "end": 69
+    },
+    "unit": {
+      "text": "households",
+      "start": 18,
+      "end": 28
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4 hours",
+      "start": 345,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "reported by households",
+      "start": 379,
+      "end": 401
+    },
+    "unit": {
+      "text": "daily electricity cuts",
+      "start": 356,
+      "end": 378
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7 hours",
+      "start": 491,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "average electricity cuts in Tripoli",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cuts daily",
+      "start": 499,
+      "end": 509
+    },
+    "modifier": {
+      "text": "average",
+      "start": 480,
+      "end": 487
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33",
+      "start": 599,
+      "end": 601
+    },
+    "eventDescription": {
+      "text": "referenced in context",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "14",
+      "start": 440,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "available ventilators",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "ventilators",
+      "start": 443,
+      "end": 454
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "24",
+      "start": 456,
+      "end": 458
+    },
+    "eventDescription": {
+      "text": "available ICU beds",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "ICU beds",
+      "start": 459,
+      "end": 467
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1.5",
+      "start": 476,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "doctors per 10,000 people",
+      "start": 480,
+      "end": 505
+    },
+    "unit": {
+      "text": "doctors per 10,000 people",
+      "start": 480,
+      "end": 505
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "202",
+      "start": 743,
+      "end": 746
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": 747,
+      "end": 761
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "2,362",
+      "start": 808,
+      "end": 813
+    },
+    "eventDescription": {
+      "text": "tests conducted",
+      "start": 814,
+      "end": 829
+    },
+    "unit": {
+      "text": "tests",
+      "start": 814,
+      "end": 819
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,606",
+      "start": 853,
+      "end": 858
+    },
+    "eventDescription": {
+      "text": "total confirmed COVID-19 cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "start": 777,
+      "end": 791
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41",
+      "start": 864,
+      "end": 866
+    },
+    "eventDescription": {
+      "text": "COVID-19 related deaths",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 867,
+      "end": 873
+    }
+  }
+]

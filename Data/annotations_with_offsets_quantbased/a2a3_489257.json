@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15 percent",
+      "start": 44,
+      "end": 54
+    },
+    "eventDescription": {
+      "text": "reported living in tents",
+      "start": 84,
+      "end": 108
+    },
+    "unit": {
+      "text": "households",
+      "start": 58,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15 percent",
+      "start": 115,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "reported tent was less than one year old",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 58,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "85 percent",
+      "start": 201,
+      "end": 211
+    },
+    "eventDescription": {
+      "text": "in a vulnerable situation",
+      "start": 226,
+      "end": 251
+    },
+    "unit": {
+      "text": "households",
+      "start": 215,
+      "end": 225
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "87 percent",
+      "start": 445,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "living in tents over one year old",
+      "start": 410,
+      "end": 443
+    },
+    "unit": {
+      "text": "households in Idleb",
+      "start": 358,
+      "end": 377
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "79 percent",
+      "start": 469,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "living in tents over one year old",
+      "start": 410,
+      "end": 443
+    },
+    "unit": {
+      "text": "households in Aleppo",
+      "start": 501,
+      "end": 521
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "48 percent",
+      "start": 588,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "living in tents over two years old",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households in Aleppo",
+      "start": 501,
+      "end": 521
+    },
+    "modifier": {
+      "text": "over",
+      "start": 568,
+      "end": 572
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "30 percent",
+      "start": 611,
+      "end": 621
+    },
+    "eventDescription": {
+      "text": "living in tents over two years old",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households in Idleb",
+      "start": 358,
+      "end": 377
+    },
+    "modifier": {
+      "text": "over",
+      "start": 568,
+      "end": 572
+    }
+  }
+]

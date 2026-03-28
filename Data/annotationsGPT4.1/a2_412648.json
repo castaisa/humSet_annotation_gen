@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": "one in ten",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported problems in accessing general healthcare services"
+  },
+  {
+    "quantity": "9.9%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "faced problems during getting treatment from hospitals"
+  },
+  {
+    "quantity": "70.2%",
+    "unit": "doctors",
+    "eventType": "EventA",
+    "eventDescription": "reported lack of sufficient doctors"
+  },
+  {
+    "quantity": "39.6%",
+    "unit": "nurse",
+    "eventType": "EventA",
+    "eventDescription": "reported lack of sufficient nurse"
+  },
+  {
+    "quantity": "38.8%",
+    "unit": "medical equipment",
+    "eventType": "EventA",
+    "eventDescription": "reported lack of medical equipment"
+  },
+  {
+    "quantity": "38.0%",
+    "unit": "medicine",
+    "eventType": "EventA",
+    "eventDescription": "reported lack of medicine"
+  },
+  {
+    "quantity": "26.1%",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "reported lack of beds"
+  },
+  {
+    "quantity": "20.4%",
+    "unit": "doctors",
+    "eventType": "EventA",
+    "eventDescription": "reported higher fees of doctors"
+  },
+  {
+    "quantity": "23.3%",
+    "unit": "doctors",
+    "eventType": "EventA",
+    "eventDescription": "faced unwillingness of doctors to provide treatment"
+  },
+  {
+    "quantity": "20.0%",
+    "unit": "hospitals",
+    "eventType": "EventA",
+    "eventDescription": "faced unwillingness of hospitals to admit patients"
+  },
+  {
+    "quantity": "13.9%",
+    "unit": "bribery",
+    "eventType": "EventO",
+    "eventDescription": "faced bribery"
+  },
+  {
+    "quantity": "75.0%",
+    "unit": "doctors",
+    "eventType": "EventA",
+    "eventDescription": "rural people complained about lack of doctors"
+  },
+  {
+    "quantity": "63.8%",
+    "unit": "doctors",
+    "eventType": "EventA",
+    "eventDescription": "urban people complained about lack of doctors"
+  },
+  {
+    "quantity": "42.9%",
+    "unit": "nurses",
+    "eventType": "EventA",
+    "eventDescription": "rural people complained about lack of nurses"
+  },
+  {
+    "quantity": "35.2%",
+    "unit": "nurses",
+    "eventType": "EventA",
+    "eventDescription": "urban people complained about lack of nurses"
+  },
+  {
+    "quantity": "40.0%",
+    "unit": "medical equipment",
+    "eventType": "EventA",
+    "eventDescription": "rural people complained about lack of adequate medical equipment"
+  },
+  {
+    "quantity": "37.1%",
+    "unit": "medical equipment",
+    "eventType": "EventA",
+    "eventDescription": "urban people complained about lack of adequate medical equipment"
+  },
+  {
+    "quantity": "29.3%",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "rural people complained about lack of beds"
+  },
+  {
+    "quantity": "21.9%",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "urban people complained about lack of beds"
+  },
+  {
+    "quantity": "23.6%",
+    "unit": "doctor\u2019s fees",
+    "eventType": "EventA",
+    "eventDescription": "rural people complained about increase of doctor\u2019s fees"
+  },
+  {
+    "quantity": "16.2%",
+    "unit": "doctor\u2019s fees",
+    "eventType": "EventA",
+    "eventDescription": "urban people complained about increase of doctor\u2019s fees"
+  }
+]

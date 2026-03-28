@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "over 900",
+    "unit": "arbitrary arrests",
+    "eventType": "EventP",
+    "eventDescription": "arbitrary arrests",
+    "modifier": "over"
+  },
+  {
+    "quantity": "770",
+    "unit": "arbitrary arrests",
+    "eventType": "EventP",
+    "eventDescription": "arbitrary arrests"
+  },
+  {
+    "quantity": "41",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "14",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "287",
+    "unit": "wounded",
+    "eventType": "EventP",
+    "eventDescription": "wounded"
+  },
+  {
+    "quantity": "59",
+    "unit": "wounded by gunfire",
+    "eventType": "EventP",
+    "eventDescription": "wounded by gunfire"
+  },
+  {
+    "quantity": "over 50",
+    "unit": "detained",
+    "eventType": "EventP",
+    "eventDescription": "detained",
+    "modifier": "over"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 258,
+      "end": 259
+    },
+    "unit": {
+      "text": "counties",
+      "begin": 271,
+      "end": 279
+    },
+    "eventDescription": {
+      "text": "IPC AMN Phase 4 (Critical)",
+      "begin": 294,
+      "end": 320
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 344,
+      "end": 345
+    },
+    "eventDescription": {
+      "text": "IPC AMN Phase 4 (Critical)",
+      "begin": 294,
+      "end": 320
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "counties",
+      "begin": 346,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 385,
+      "end": 386
+    },
+    "eventDescription": {
+      "text": "IPC AMN Phase 4 (Critical)",
+      "begin": 294,
+      "end": 320
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "counties",
+      "begin": 346,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 409,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "IPC AMN Phase 4 (Critical)",
+      "begin": 294,
+      "end": 320
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "counties",
+      "begin": 346,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 426,
+      "end": 427
+    },
+    "eventDescription": {
+      "text": "IPC AMN Phase 4 (Critical)",
+      "begin": 294,
+      "end": 320
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "counties",
+      "begin": 346,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 447,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "IPC AMN Phase 4 (Critical)",
+      "begin": 294,
+      "end": 320
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "counties",
+      "begin": 346,
+      "end": 354
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "212",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "partially damaged"
+  },
+  {
+    "quantity": "14",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "used as shelters for Internally Displaced People (IDPs)"
+  },
+  {
+    "quantity": "53",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "fully destroyed"
+  },
+  {
+    "quantity": "4",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reference note"
+  },
+  {
+    "quantity": "1,900",
+    "unit": "Internally Displaced People (IDPs)",
+    "eventType": "EventP",
+    "eventDescription": "evicted by force from Tariq-al Matar Camp"
+  },
+  {
+    "quantity": "94",
+    "unit": "residents",
+    "eventType": "EventP",
+    "eventDescription": "arrested"
+  },
+  {
+    "quantity": "370",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "hosted in the camp",
+    "modifier": "more than"
+  }
+]

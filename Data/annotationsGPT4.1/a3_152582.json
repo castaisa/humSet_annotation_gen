@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "34",
+    "unit": "positive COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "6",
+    "unit": "currently in Panama for being moderate",
+    "eventType": "EventP",
+    "eventDescription": "currently in Panama for being moderate"
+  },
+  {
+    "quantity": "22",
+    "unit": "have been recovered",
+    "eventType": "EventP",
+    "eventDescription": "recovered"
+  },
+  {
+    "quantity": "116",
+    "unit": "remain in MRS Lajas Blancas because of possible contacts",
+    "eventType": "EventP",
+    "eventDescription": "remain in MRS Lajas Blancas because of possible contacts"
+  },
+  {
+    "quantity": "322",
+    "unit": "swab tests",
+    "eventType": "EventA",
+    "eventDescription": "performed"
+  },
+  {
+    "quantity": "one",
+    "unit": "birth",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "Two",
+    "unit": "cases of leishmaniasis",
+    "eventType": "EventP",
+    "eventDescription": "reported in adults"
+  },
+  {
+    "quantity": "one",
+    "unit": "child",
+    "eventType": "EventP",
+    "eventDescription": "reported with leishmaniasis"
+  },
+  {
+    "quantity": "zero",
+    "unit": "cases of COVID-19",
+    "eventType": "EventP",
+    "eventDescription": "reported in MRS Los Planes"
+  }
+]

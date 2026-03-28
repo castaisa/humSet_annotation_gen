@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "hundreds",
+    "unit": "enforced disappearances, torture, killings and displacement of entire families",
+    "eventType": "EventP",
+    "eventDescription": "reported",
+    "modifier": ""
+  },
+  {
+    "quantity": "9th",
+    "unit": "Brigade",
+    "eventType": "EventO",
+    "eventDescription": "responsible for events"
+  },
+  {
+    "quantity": "numerous",
+    "unit": "summary executions",
+    "eventType": "EventP",
+    "eventDescription": "verified"
+  },
+  {
+    "quantity": "dozens",
+    "unit": "reports of enforced disappearances and torture of civilians",
+    "eventType": "EventP",
+    "eventDescription": "received"
+  }
+]

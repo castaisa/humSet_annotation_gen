@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "7,256",
+      "begin": 120,
+      "end": 125
+    },
+    "unit": {
+      "text": "cases of COVID-19",
+      "begin": 126,
+      "end": 143
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 154,
+      "end": 163
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "91%",
+      "begin": 176,
+      "end": 179
+    },
+    "unit": {
+      "text": "communities",
+      "begin": 183,
+      "end": 194
+    },
+    "eventDescription": {
+      "text": "livelihoods sectors were reportedly affected",
+      "begin": 196,
+      "end": 240
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 391,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "prompted markets to reduce opening hours and days",
+      "begin": 331,
+      "end": 380
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "communities",
+      "begin": 398,
+      "end": 409
+    }
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 490,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "schools were not functioning",
+      "begin": 451,
+      "end": 479
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "communities",
+      "begin": 497,
+      "end": 508
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 582,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "Online education was available",
+      "begin": 543,
+      "end": 573
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "community",
+      "begin": 595,
+      "end": 604
+    }
+  },
+  {
+    "quantity": {
+      "text": "75%",
+      "begin": 668,
+      "end": 671
+    },
+    "eventDescription": {
+      "text": "soap was unaffordable",
+      "begin": 643,
+      "end": 664
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "communities",
+      "begin": 675,
+      "end": 686
+    }
+  },
+  {
+    "quantity": {
+      "text": "third",
+      "begin": 717,
+      "end": 722
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 709,
+      "end": 714
+    },
+    "unit": {
+      "text": "communities",
+      "begin": 726,
+      "end": 737
+    },
+    "eventDescription": {
+      "text": "lacked sufficient equipment and medicines",
+      "begin": 738,
+      "end": 779
+    },
+    "eventType": "EventO"
+  }
+]

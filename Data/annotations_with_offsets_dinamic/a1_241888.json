@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "rate for subsidized items",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,900",
+      "start": 274,
+      "end": 279
+    },
+    "unit": {
+      "text": "USD/LBP",
+      "start": 266,
+      "end": 273
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "monthly average informal exchange rate",
+      "start": 124,
+      "end": 162
+    },
+    "quantity": {
+      "text": "8,000",
+      "start": 331,
+      "end": 336
+    },
+    "unit": {
+      "text": "USD/LBP",
+      "start": 323,
+      "end": 330
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "rate applied by banks for withdrawals in LBP from dollar denominated accounts",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,900",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LBP/USD",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "able to place new orders for subsidized goods",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Eighty-four percent",
+      "start": 394,
+      "end": 413
+    },
+    "unit": {
+      "text": "retailers",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received the full ordered quantities of subsidized products",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two percent",
+      "start": 682,
+      "end": 693
+    },
+    "unit": {
+      "text": "recipients",
+      "start": null,
+      "end": null
+    }
+  }
+]

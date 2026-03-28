@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "5,000",
+      "begin": 264,
+      "end": 269
+    },
+    "eventDescription": {
+      "text": "initially created to process",
+      "begin": 229,
+      "end": 257
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 258,
+      "end": 263
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,000",
+      "begin": 273,
+      "end": 278
+    },
+    "eventDescription": {
+      "text": "initially created to process",
+      "begin": 229,
+      "end": 257
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 258,
+      "end": 263
+    }
+  },
+  {
+    "quantity": {
+      "text": "13,535",
+      "begin": 317,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 308,
+      "end": 316
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "asylum applications",
+      "begin": 324,
+      "end": 343
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.4 million",
+      "begin": 387,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "admitted",
+      "begin": 399,
+      "end": 407
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "admitted",
+      "begin": 399,
+      "end": 407
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "61 per cent",
+    "unit": "GBV incidents",
+    "eventType": "EventO",
+    "eventDescription": "comprise physical assault"
+  },
+  {
+    "quantity": "13 per cent",
+    "unit": "GBV incidents",
+    "eventType": "EventO",
+    "eventDescription": "rape"
+  },
+  {
+    "quantity": "12 per cent",
+    "unit": "GBV incidents",
+    "eventType": "EventO",
+    "eventDescription": "sexual assault"
+  },
+  {
+    "quantity": "6 per cent",
+    "unit": "GBV incidents",
+    "eventType": "EventO",
+    "eventDescription": "psychological/emotional abuse"
+  },
+  {
+    "quantity": "5 per cent",
+    "unit": "GBV incidents",
+    "eventType": "EventO",
+    "eventDescription": "experienced denial of resources"
+  },
+  {
+    "quantity": "3 per cent",
+    "unit": "GBV incidents",
+    "eventType": "EventO",
+    "eventDescription": "forced/early marriage"
+  }
+]

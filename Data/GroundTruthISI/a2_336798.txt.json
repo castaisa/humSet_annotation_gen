@@ -1,0 +1,49 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 41,
+      "end": 45
+    },
+    "unit": {
+      "text": "years",
+      "begin": 46,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "refugees have been surviving off of food aid, basic healthcare, water and sanitation, and protection services, and living in temporary shelters made of flimsy and highly flammable tarpaulin and bamboo",
+      "begin": 53,
+      "end": 253
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "884,041",
+      "begin": 261,
+      "end": 268
+    },
+    "unit": {
+      "text": "women, men, girls and boys",
+      "begin": 269,
+      "end": 295
+    }
+  },
+  {
+    "quantity": {
+      "text": "440,000",
+      "begin": 324,
+      "end": 331
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 314,
+      "end": 323
+    },
+    "unit": {
+      "text": "Rohingya children",
+      "begin": 332,
+      "end": 349
+    }
+  }
+]

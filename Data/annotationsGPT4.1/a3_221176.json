@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "about 2,300",
+    "unit": "square kilometers of agricultural lands",
+    "eventType": "EventO",
+    "eventDescription": "lost",
+    "modifier": "about"
+  },
+  {
+    "quantity": "1,500",
+    "unit": "square kilometers",
+    "eventType": "EventO",
+    "eventDescription": "remained under the control of the opposition factions"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "of their agricultural lands",
+    "eventType": "EventO",
+    "eventDescription": "lost"
+  },
+  {
+    "quantity": "around 3,140",
+    "unit": "km2",
+    "eventType": "EventO",
+    "eventDescription": "area the Syrian regime made progress in",
+    "modifier": "around"
+  }
+]

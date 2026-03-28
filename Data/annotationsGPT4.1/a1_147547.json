@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": "146,033",
+    "unit": "protection interventions",
+    "eventType": "EventA",
+    "eventDescription": "provided"
+  },
+  {
+    "quantity": "311",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "covered"
+  },
+  {
+    "quantity": "2,053",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "received psychological first aid"
+  },
+  {
+    "quantity": "1,761",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "received psychological first aid"
+  },
+  {
+    "quantity": "1,588",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "received psychological first aid"
+  },
+  {
+    "quantity": "1,580",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "received psychological first aid"
+  },
+  {
+    "quantity": "192",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "attended legal awareness-raising sessions"
+  },
+  {
+    "quantity": "193",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "attended legal awareness-raising sessions"
+  },
+  {
+    "quantity": "3,987",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "attended legal awareness-raising sessions"
+  },
+  {
+    "quantity": "3,918",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "attended legal awareness-raising sessions"
+  },
+  {
+    "quantity": "90",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "received case management services"
+  },
+  {
+    "quantity": "142",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "received case management services"
+  },
+  {
+    "quantity": "281",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "received case management services"
+  },
+  {
+    "quantity": "169",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "received case management services"
+  },
+  {
+    "quantity": "879",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "referred to other services"
+  },
+  {
+    "quantity": "1,121",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "referred to other services"
+  },
+  {
+    "quantity": "1,637",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "referred to other services"
+  },
+  {
+    "quantity": "1,048",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "referred to other services"
+  }
+]

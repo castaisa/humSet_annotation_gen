@@ -1,0 +1,233 @@
+[
+  {
+    "quantity": {
+      "text": "75%",
+      "begin": 246,
+      "end": 249
+    },
+    "eventDescription": {
+      "text": "submitted the largest number of applications for legal residence",
+      "begin": 99,
+      "end": 163
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "applications",
+      "begin": 193,
+      "end": 205
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.4%",
+      "begin": 283,
+      "end": 287
+    },
+    "eventDescription": {
+      "text": "submitted the largest number of applications for legal residence",
+      "begin": 99,
+      "end": 163
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "applications",
+      "begin": 193,
+      "end": 205
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.7%",
+      "begin": 308,
+      "end": 312
+    },
+    "eventDescription": {
+      "text": "submitted the largest number of applications for legal residence",
+      "begin": 99,
+      "end": 163
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "applications",
+      "begin": 193,
+      "end": 205
+    }
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 377,
+      "end": 380
+    },
+    "unit": {
+      "text": "profile of the temporary visa applicants",
+      "begin": 319,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "is young",
+      "begin": 360,
+      "end": 368
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "almost",
+      "begin": 370,
+      "end": 376
+    }
+  },
+  {
+    "quantity": {
+      "text": "44",
+      "begin": 396,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "is young",
+      "begin": 360,
+      "end": 368
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "years old",
+      "begin": 399,
+      "end": 408
+    }
+  },
+  {
+    "quantity": {
+      "text": "15-44",
+      "begin": 393,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "is young",
+      "begin": 360,
+      "end": 368
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "years old",
+      "begin": 399,
+      "end": 408
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 393,
+      "end": 395
+    },
+    "eventDescription": {
+      "text": "is young",
+      "begin": 360,
+      "end": 368
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "years old",
+      "begin": 399,
+      "end": 408
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 423,
+      "end": 426
+    },
+    "modifier": {
+      "text": "last",
+      "begin": 418,
+      "end": 422
+    },
+    "unit": {
+      "text": "years",
+      "begin": 427,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "more men than women applied for visas",
+      "begin": 434,
+      "end": 471
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 485,
+      "end": 486
+    },
+    "eventDescription": {
+      "text": "last",
+      "begin": 480,
+      "end": 484
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "years",
+      "begin": 487,
+      "end": 492
+    }
+  },
+  {
+    "quantity": {
+      "text": "125,000",
+      "begin": 500,
+      "end": 507
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 494,
+      "end": 499
+    },
+    "unit": {
+      "text": "residence permits",
+      "begin": 508,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "were issued",
+      "begin": 526,
+      "end": 537
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "273%",
+      "begin": 583,
+      "end": 587
+    },
+    "eventDescription": {
+      "text": "increase in temporary visas",
+      "begin": 552,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "increase in temporary visas",
+      "begin": 552,
+      "end": 579
+    }
+  },
+  {
+    "quantity": {
+      "text": "316%",
+      "begin": 614,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "increase in temporary visas",
+      "begin": 552,
+      "end": 579
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "increase in temporary visas",
+      "begin": 552,
+      "end": 579
+    }
+  }
+]

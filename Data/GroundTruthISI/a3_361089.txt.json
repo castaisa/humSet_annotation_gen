@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "50 percent",
+      "begin": 143,
+      "end": 153
+    },
+    "unit": {
+      "text": "traders’ imports",
+      "begin": 161,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "begin": 186,
+      "end": 195
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2.3 million",
+      "begin": 305,
+      "end": 316
+    },
+    "eventDescription": {
+      "text": "prices have increased",
+      "begin": 238,
+      "end": 259
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP 2.3 million/MT",
+      "begin": 301,
+      "end": 319
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.2 million",
+      "begin": 273,
+      "end": 284
+    },
+    "eventDescription": {
+      "text": "prices have increased",
+      "begin": 238,
+      "end": 259
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP 1.2 million/MT",
+      "begin": 269,
+      "end": 287
+    }
+  },
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 368,
+      "end": 378
+    },
+    "unit": {
+      "text": "feed mix",
+      "begin": 386,
+      "end": 394
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases among IDPs and refugees in camps and sites",
+      "start": 67,
+      "end": 134
+    },
+    "quantity": {
+      "text": "67",
+      "start": 64,
+      "end": 66
+    },
+    "unit": {
+      "text": "cases",
+      "start": 86,
+      "end": 91
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "samples collected in camps",
+      "start": 155,
+      "end": 181
+    },
+    "quantity": {
+      "text": "227",
+      "start": 151,
+      "end": 154
+    },
+    "unit": {
+      "text": "samples",
+      "start": 155,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "positivity rate in camps",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30 per cent",
+      "start": 207,
+      "end": 218
+    },
+    "unit": {
+      "text": "positivity rate",
+      "start": 188,
+      "end": 203
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases among IDPs and refugees in non-camp settings",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "503",
+      "start": 235,
+      "end": 238
+    },
+    "unit": {
+      "text": "cases",
+      "start": 249,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "individuals tested positive for COVID-19 in Mahmoudli Camp",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 383,
+      "end": 387
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 388,
+      "end": 399
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases recorded amongst health workers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "787",
+      "start": 459,
+      "end": 462
+    },
+    "unit": {
+      "text": "cases",
+      "start": 486,
+      "end": 491
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "percentage of all cases recorded amongst health workers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9 per cent",
+      "start": 505,
+      "end": 515
+    },
+    "unit": {
+      "text": "cases",
+      "start": 523,
+      "end": 528
+    }
+  }
+]

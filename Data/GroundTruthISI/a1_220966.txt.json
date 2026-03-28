@@ -1,0 +1,179 @@
+[
+  {
+    "quantity": {
+      "text": "three out of four",
+      "begin": 346,
+      "end": 363
+    },
+    "unit": {
+      "text": "communes",
+      "begin": 364,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "heavily affected by these attacks",
+      "begin": 377,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 359,
+      "end": 363
+    },
+    "unit": {
+      "text": "communes",
+      "begin": 364,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "heavily affected by these attacks",
+      "begin": 377,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 346,
+      "end": 351
+    },
+    "unit": {
+      "text": "communes",
+      "begin": 364,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "heavily affected by these attacks",
+      "begin": 377,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40%",
+      "begin": 467,
+      "end": 470
+    },
+    "unit": {
+      "text": "country's IDPs",
+      "begin": 478,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "registered in the North-Central region",
+      "begin": 497,
+      "end": 535
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 546,
+      "end": 547
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 541,
+      "end": 545
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 558,
+      "end": 575
+    },
+    "eventDescription": {
+      "text": "are in operation",
+      "begin": 576,
+      "end": 592
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6 out of 15",
+      "begin": 546,
+      "end": 557
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 541,
+      "end": 545
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 558,
+      "end": 575
+    },
+    "eventDescription": {
+      "text": "are in operation",
+      "begin": 576,
+      "end": 592
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 555,
+      "end": 557
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 541,
+      "end": 545
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 558,
+      "end": 575
+    },
+    "eventDescription": {
+      "text": "are in operation",
+      "begin": 576,
+      "end": 592
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2 757",
+      "begin": 673,
+      "end": 678
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 679,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "have been reported",
+      "begin": 699,
+      "end": 717
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "68",
+      "begin": 689,
+      "end": 691
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 692,
+      "end": 698
+    },
+    "eventDescription": {
+      "text": "have been reported",
+      "begin": 699,
+      "end": 717
+    },
+    "eventType": "EventP"
+  }
+]

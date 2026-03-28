@@ -1,0 +1,242 @@
+[
+  {
+    "quantity": {
+      "text": "518,670",
+      "begin": 166,
+      "end": 173
+    },
+    "unit": {
+      "text": "students",
+      "begin": 174,
+      "end": 182
+    },
+    "eventDescription": {
+      "text": "registered to sit the exams",
+      "begin": 187,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8,557",
+      "begin": 224,
+      "end": 229
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 230,
+      "end": 235
+    },
+    "eventDescription": {
+      "text": "registered from areas outside government control",
+      "begin": 237,
+      "end": 285
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16,507",
+      "begin": 216,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "registered from areas outside government control",
+      "begin": 237,
+      "end": 285
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5,783",
+      "begin": 301,
+      "end": 306
+    },
+    "unit": {
+      "text": "students",
+      "begin": 307,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "travelled crossline and cross-border",
+      "begin": 368,
+      "end": 404
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,993",
+      "begin": 317,
+      "end": 322
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 323,
+      "end": 328
+    },
+    "eventDescription": {
+      "text": "travelled crossline and cross-border",
+      "begin": 368,
+      "end": 404
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4,495",
+      "begin": 330,
+      "end": 335
+    },
+    "unit": {
+      "text": "Grade 9",
+      "begin": 336,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "travelled crossline and cross-border",
+      "begin": 368,
+      "end": 404
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,288",
+      "begin": 348,
+      "end": 353
+    },
+    "unit": {
+      "text": "Grade 12",
+      "begin": 354,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "travelled crossline and cross-border",
+      "begin": 368,
+      "end": 404
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 453,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "staying in the accommodation centres",
+      "begin": 413,
+      "end": 449
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "governorates",
+      "begin": 458,
+      "end": 470
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,632",
+      "begin": 490,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "staying in the accommodation centres",
+      "begin": 413,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "625",
+      "begin": 508,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "staying in the accommodation centres",
+      "begin": 413,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "131",
+      "begin": 527,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "staying in the accommodation centres",
+      "begin": 413,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "134",
+      "begin": 539,
+      "end": 542
+    },
+    "eventDescription": {
+      "text": "staying in the accommodation centres",
+      "begin": 413,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "261",
+      "begin": 564,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "staying in the accommodation centres",
+      "begin": 413,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "55",
+      "begin": 625,
+      "end": 627
+    },
+    "unit": {
+      "text": "students",
+      "begin": 628,
+      "end": 636
+    },
+    "eventDescription": {
+      "text": "travelling crossline daily",
+      "begin": 715,
+      "end": 741
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9,120",
+      "begin": 678,
+      "end": 683
+    },
+    "unit": {
+      "text": "students",
+      "begin": 684,
+      "end": 692
+    },
+    "eventDescription": {
+      "text": "travelling crossline daily",
+      "begin": 715,
+      "end": 741
+    },
+    "eventType": "EventO"
+  }
+]

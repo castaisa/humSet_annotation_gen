@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "413,334",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "assisted to go back to school"
+  },
+  {
+    "quantity": "457",
+    "unit": "teachers",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  },
+  {
+    "quantity": "18,280",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "benefited from preparatory activity"
+  },
+  {
+    "quantity": "24",
+    "unit": "directors, supervisors and coordinators",
+    "eventType": "EventP",
+    "eventDescription": "participated in trainer-of-trainers activity"
+  },
+  {
+    "quantity": "2,500",
+    "unit": "teachers",
+    "eventType": "EventP",
+    "eventDescription": "reached by workshops"
+  }
+]

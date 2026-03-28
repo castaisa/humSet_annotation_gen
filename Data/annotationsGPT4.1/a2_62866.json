@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "over 65%",
+    "unit": "maternal mortality",
+    "eventType": "EventP",
+    "eventDescription": "increase in maternal mortality",
+    "modifier": "over"
+  },
+  {
+    "quantity": "756",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "maternal deaths recorded"
+  },
+  {
+    "quantity": "21.1",
+    "unit": "deaths per 1,000 live birth",
+    "eventType": "EventP",
+    "eventDescription": "infant mortality rate"
+  },
+  {
+    "quantity": "1.4",
+    "unit": "times the rate",
+    "eventType": "EventO",
+    "eventDescription": "increase in infant mortality rate"
+  },
+  {
+    "quantity": "15",
+    "unit": "deaths per 1,000 live birth",
+    "eventType": "EventP",
+    "eventDescription": "infant mortality rate"
+  },
+  {
+    "quantity": "25,000",
+    "unit": "pregnant women",
+    "eventType": "EventP",
+    "eventDescription": "pregnant women did not receive prenatal care"
+  },
+  {
+    "quantity": "7,500",
+    "unit": "pregnant women",
+    "eventType": "EventP",
+    "eventDescription": "pregnant women only checked in the eighth and ninth months"
+  }
+]

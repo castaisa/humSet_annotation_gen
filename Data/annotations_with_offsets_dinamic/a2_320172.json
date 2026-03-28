@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "recorded an increasing average reference food basket price",
+      "start": 74,
+      "end": 132
+    },
+    "quantity": {
+      "text": "14",
+      "start": 58,
+      "end": 60
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 61,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported m-o-m increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43 percent",
+      "start": 178,
+      "end": 188
+    },
+    "unit": {
+      "text": "increase",
+      "start": 166,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reference food basket price reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "198,582",
+      "start": 226,
+      "end": 233
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 222,
+      "end": 225
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported m-o-m increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24 percent",
+      "start": 264,
+      "end": 274
+    },
+    "unit": {
+      "text": "increase",
+      "start": 252,
+      "end": 260
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reference food basket price reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "175,503",
+      "start": 314,
+      "end": 321
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 310,
+      "end": 313
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average food basket price",
+      "start": 361,
+      "end": 386
+    },
+    "quantity": {
+      "text": "221,186",
+      "start": 394,
+      "end": 401
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 390,
+      "end": 393
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported m-o-m increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26 percent",
+      "start": 406,
+      "end": 416
+    },
+    "unit": {
+      "text": "increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price of the reference food basket increased across",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14",
+      "start": 525,
+      "end": 527
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 528,
+      "end": 540
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "recorded highest y-o-y increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "367 percent",
+      "start": 594,
+      "end": 605
+    },
+    "unit": {
+      "text": "increase",
+      "start": 581,
+      "end": 589
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "recorded lowest y-o-y increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "242 percent",
+      "start": 667,
+      "end": 678
+    },
+    "unit": {
+      "text": "increase",
+      "start": 654,
+      "end": 662
+    }
+  }
+]

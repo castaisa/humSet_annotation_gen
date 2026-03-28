@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "supplied with PPEs",
+      "start": 32,
+      "end": 50
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "at least 70",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health workers",
+      "start": 12,
+      "end": 26
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "established triage stations",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 143,
+      "end": 146
+    },
+    "unit": {
+      "text": "Health Care Facility/Maternal Child Health Centres",
+      "start": 147,
+      "end": 197
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "gatherings discouraged",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 471,
+      "end": 475
+    },
+    "quantity": {
+      "text": "over 10",
+      "start": 471,
+      "end": 478
+    },
+    "unit": {
+      "text": "persons",
+      "start": 479,
+      "end": 486
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "overcrowded sites piloted for decongestion",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDP sites",
+      "start": 720,
+      "end": 729
+    }
+  }
+]

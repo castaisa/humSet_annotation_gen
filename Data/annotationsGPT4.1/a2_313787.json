@@ -1,0 +1,41 @@
+[
+  {
+    "quantity": "over a hundred",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "over"
+  },
+  {
+    "quantity": "over a hundred",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "injured",
+    "modifier": "over"
+  },
+  {
+    "quantity": "two/three",
+    "unit": "warring communities",
+    "eventType": "EventO",
+    "eventDescription": "present in villages"
+  },
+  {
+    "quantity": "80",
+    "unit": "km",
+    "eventType": "EventO",
+    "eventDescription": "distance from Am-Timan"
+  },
+  {
+    "quantity": "about 20",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths",
+    "modifier": "about"
+  },
+  {
+    "quantity": "20",
+    "unit": "km",
+    "eventType": "EventO",
+    "eventDescription": "distance from Mouraye"
+  }
+]

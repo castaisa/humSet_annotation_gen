@@ -1,0 +1,222 @@
+[
+  {
+    "quantity": {
+      "text": "3,133,602",
+      "begin": 101,
+      "end": 110
+    },
+    "unit": {
+      "text": "children under the age of five",
+      "begin": 111,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "vaccinated",
+      "begin": 152,
+      "end": 162
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "99 per cent",
+      "begin": 188,
+      "end": 199
+    },
+    "eventDescription": {
+      "text": "achieving a coverage",
+      "begin": 164,
+      "end": 184
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "target population",
+      "begin": 207,
+      "end": 224
+    }
+  },
+  {
+    "quantity": {
+      "text": "3.9 million",
+      "begin": 287,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "procured",
+      "begin": 268,
+      "end": 276
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 277,
+      "end": 286
+    },
+    "unit": {
+      "text": "bOPV",
+      "begin": 299,
+      "end": 303
+    }
+  },
+  {
+    "quantity": {
+      "text": "124,479",
+      "begin": 308,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "procured",
+      "begin": 268,
+      "end": 276
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "IPV doses",
+      "begin": 316,
+      "end": 325
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 469,
+      "end": 471
+    },
+    "eventDescription": {
+      "text": "transportation support was provided",
+      "begin": 341,
+      "end": 376
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "regional cold room facilities",
+      "begin": 472,
+      "end": 501
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 884,
+      "end": 887
+    },
+    "eventDescription": {
+      "text": "installed",
+      "begin": 874,
+      "end": 883
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "electric backup generator",
+      "begin": 888,
+      "end": 913
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 933,
+      "end": 935
+    },
+    "unit": {
+      "text": "kilowatts",
+      "begin": 936,
+      "end": 945
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.2 million",
+      "begin": 1301,
+      "end": 1312
+    },
+    "eventDescription": {
+      "text": "procured and distributed",
+      "begin": 1276,
+      "end": 1300
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "vaccine cards",
+      "begin": 1313,
+      "end": 1326
+    }
+  },
+  {
+    "quantity": {
+      "text": "2.2 million",
+      "begin": 1328,
+      "end": 1339
+    },
+    "eventDescription": {
+      "text": "procured and distributed",
+      "begin": 1276,
+      "end": 1300
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "registration forms",
+      "begin": 1340,
+      "end": 1358
+    }
+  },
+  {
+    "quantity": {
+      "text": "850,00",
+      "begin": 1360,
+      "end": 1366
+    },
+    "eventDescription": {
+      "text": "procured and distributed",
+      "begin": 1276,
+      "end": 1300
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "monthly tally sheets",
+      "begin": 1367,
+      "end": 1387
+    }
+  },
+  {
+    "quantity": {
+      "text": "12,000",
+      "begin": 1392,
+      "end": 1398
+    },
+    "eventDescription": {
+      "text": "procured and distributed",
+      "begin": 1276,
+      "end": 1300
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "data consolidation forms.",
+      "begin": 1399,
+      "end": 1424
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,200",
+      "begin": 1439,
+      "end": 1444
+    },
+    "modifier": {
+      "text": "Approximately",
+      "begin": 1425,
+      "end": 1438
+    },
+    "unit": {
+      "text": "people",
+      "begin": 1445,
+      "end": 1451
+    },
+    "eventDescription": {
+      "text": "received long lasting insecticidal nets",
+      "begin": 1560,
+      "end": 1599
+    },
+    "eventType": "EventA"
+  }
+]

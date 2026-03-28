@@ -1,0 +1,139 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10%",
+      "start": 111,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "increase in cereal production",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "818,500",
+      "start": 195,
+      "end": 202
+    },
+    "eventDescription": {
+      "text": "cereal production estimated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "tons",
+      "start": 203,
+      "end": 207
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "744,900",
+      "start": 221,
+      "end": 228
+    },
+    "eventDescription": {
+      "text": "cereal production estimated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "tons",
+      "start": 229,
+      "end": 233
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10%",
+      "start": 257,
+      "end": 260
+    },
+    "eventDescription": {
+      "text": "increase in cereal production",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "more than 5%",
+      "start": 435,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "increase in harvested area",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 435,
+      "end": 444
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4%",
+      "start": 545,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "harvests below average",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "482,500",
+      "start": 650,
+      "end": 657
+    },
+    "eventDescription": {
+      "text": "overall cereal deficit estimated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "tons",
+      "start": 658,
+      "end": 662
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7%",
+      "start": 664,
+      "end": 666
+    },
+    "eventDescription": {
+      "text": "deficit below previous year",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22%",
+      "start": 715,
+      "end": 718
+    },
+    "eventDescription": {
+      "text": "deficit above 2015-2019 average",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "750 000",
+      "begin": 86,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "production is estimated",
+      "begin": 59,
+      "end": 82
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tonnes",
+      "begin": 94,
+      "end": 100
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 112,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "lower",
+      "begin": 123,
+      "end": 128
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "production",
+      "begin": 59,
+      "end": 69
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 102,
+      "end": 111
+    }
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "quantity": {
+      "text": "70 percent",
+      "begin": 298,
+      "end": 308
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 280,
+      "end": 289
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "over",
+      "begin": 293,
+      "end": 297
+    }
+  },
+  {
+    "quantity": {
+      "text": "38 percent",
+      "begin": 313,
+      "end": 323
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 280,
+      "end": 289
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "over",
+      "begin": 293,
+      "end": 297
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 percent",
+      "begin": 471,
+      "end": 480
+    },
+    "unit": {
+      "text": "proxy prevalence of chronic malnutrition(stunting)",
+      "begin": 390,
+      "end": 440
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 458,
+      "end": 467
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2.2 million",
+      "begin": 608,
+      "end": 619
+    },
+    "unit": {
+      "text": "children aged 6-59 months and pregnant and lactating women (PLW)",
+      "begin": 620,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "reached by 31 partners with nutrition services",
+      "begin": 695,
+      "end": 741
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 765,
+      "end": 767
+    },
+    "eventDescription": {
+      "text": "reached by 31 partners with nutrition services",
+      "begin": 695,
+      "end": 741
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sub-districts of northwest Syria",
+      "begin": 768,
+      "end": 800
+    }
+  },
+  {
+    "quantity": {
+      "text": "588",
+      "begin": 745,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "reached by 31 partners with nutrition services",
+      "begin": 695,
+      "end": 741
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "communities",
+      "begin": 749,
+      "end": 760
+    }
+  },
+  {
+    "quantity": {
+      "text": "95 percent",
+      "begin": 825,
+      "end": 835
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 818,
+      "end": 824
+    },
+    "unit": {
+      "text": "population in need",
+      "begin": 843,
+      "end": 861
+    }
+  },
+  {
+    "quantity": {
+      "text": "9 percent",
+      "begin": 865,
+      "end": 874
+    },
+    "unit": {
+      "text": "increase in coverage",
+      "begin": 875,
+      "end": 895
+    }
+  }
+]

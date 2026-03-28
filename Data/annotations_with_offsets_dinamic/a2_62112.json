@@ -1,0 +1,112 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "detained for political reasons",
+      "start": 931,
+      "end": 961
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 902,
+      "end": 911
+    },
+    "quantity": {
+      "text": "more than 15,000",
+      "start": 902,
+      "end": 918
+    },
+    "unit": {
+      "text": "people",
+      "start": 919,
+      "end": 925
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "remained arbitrarily detained",
+      "start": 1086,
+      "end": 1115
+    },
+    "modifier": {
+      "text": "almost",
+      "start": 1068,
+      "end": 1074
+    },
+    "quantity": {
+      "text": "almost 800",
+      "start": 1068,
+      "end": 1078
+    },
+    "unit": {
+      "text": "people",
+      "start": 1079,
+      "end": 1085
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "conditionally released but facing criminal proceedings",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "close to",
+      "start": 1120,
+      "end": 1128
+    },
+    "quantity": {
+      "text": "close to 8,600",
+      "start": 1120,
+      "end": 1134
+    },
+    "unit": {
+      "text": "people",
+      "start": 1558,
+      "end": 1564
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "died as a result of attacks on demonstrators",
+      "start": 1565,
+      "end": 1609
+    },
+    "quantity": {
+      "text": "35",
+      "start": 1555,
+      "end": 1557
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were killed",
+      "start": 1639,
+      "end": 1650
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 1626,
+      "end": 1634
+    },
+    "quantity": {
+      "text": "at least 238",
+      "start": 1626,
+      "end": 1638
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  }
+]

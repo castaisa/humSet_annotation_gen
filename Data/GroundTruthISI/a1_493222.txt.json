@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "313",
+      "begin": 127,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "price of bread significantly increased",
+      "begin": 45,
+      "end": 83
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per rabta",
+      "begin": 131,
+      "end": 144
+    }
+  },
+  {
+    "quantity": {
+      "text": "136 percent",
+      "begin": 550,
+      "end": 561
+    },
+    "eventDescription": {
+      "text": "recorded a sharp increase in the price of bread",
+      "begin": 488,
+      "end": 535
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m in Homs governorate",
+      "begin": 562,
+      "end": 587
+    }
+  },
+  {
+    "quantity": {
+      "text": "460",
+      "begin": 630,
+      "end": 633
+    },
+    "eventDescription": {
+      "text": "highest price of bread",
+      "begin": 606,
+      "end": 628
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per rabta",
+      "begin": 634,
+      "end": 647
+    }
+  },
+  {
+    "quantity": {
+      "text": "24 percent",
+      "begin": 652,
+      "end": 662
+    },
+    "unit": {
+      "text": "m-om",
+      "begin": 663,
+      "end": 667
+    },
+    "eventDescription": {
+      "text": "increase was recorded",
+      "begin": 668,
+      "end": 689
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "325",
+      "begin": 776,
+      "end": 779
+    },
+    "eventDescription": {
+      "text": "price recorded",
+      "begin": 718,
+      "end": 732
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per rabta",
+      "begin": 780,
+      "end": 793
+    }
+  }
+]

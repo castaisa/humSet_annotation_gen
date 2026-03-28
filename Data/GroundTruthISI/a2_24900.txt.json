@@ -1,0 +1,87 @@
+[
+  {
+    "quantity": {
+      "text": "7.7 million",
+      "begin": 142,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "affecting",
+      "begin": 132,
+      "end": 141
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people",
+      "begin": 154,
+      "end": 160
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 230,
+      "end": 233
+    },
+    "unit": {
+      "text": "major rivers",
+      "begin": 234,
+      "end": 246
+    }
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 339,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "country flooded",
+      "begin": 350,
+      "end": 365
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 479,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "declared a state of emergency",
+      "begin": 446,
+      "end": 475
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "states",
+      "begin": 484,
+      "end": 490
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 595,
+      "end": 599
+    },
+    "unit": {
+      "text": "states",
+      "begin": 600,
+      "end": 606
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 676,
+      "end": 679
+    },
+    "unit": {
+      "text": "risk factors",
+      "begin": 685,
+      "end": 697
+    }
+  }
+]

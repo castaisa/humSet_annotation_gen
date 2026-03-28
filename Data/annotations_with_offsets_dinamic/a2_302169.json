@@ -1,0 +1,151 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distributed",
+      "start": 276,
+      "end": 287
+    },
+    "quantity": {
+      "text": "80,000",
+      "start": 175,
+      "end": 181
+    },
+    "unit": {
+      "text": "assorted Information, Education and Communication (IEC) materials",
+      "start": 182,
+      "end": 247
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distributed",
+      "start": 398,
+      "end": 409
+    },
+    "quantity": {
+      "text": "500",
+      "start": 326,
+      "end": 329
+    },
+    "unit": {
+      "text": "posters",
+      "start": 330,
+      "end": 337
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15,000",
+      "start": 339,
+      "end": 345
+    },
+    "unit": {
+      "text": "traveler information cards",
+      "start": 346,
+      "end": 372
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10,000",
+      "start": 377,
+      "end": 383
+    },
+    "unit": {
+      "text": "leaflets",
+      "start": 384,
+      "end": 392
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "broadcasted",
+      "start": 466,
+      "end": 477
+    },
+    "modifier": {
+      "text": "over",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Over 34,683",
+      "start": 435,
+      "end": 446
+    },
+    "unit": {
+      "text": "radio jingles",
+      "start": 447,
+      "end": 460
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "broadcasted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18",
+      "start": 481,
+      "end": 483
+    },
+    "unit": {
+      "text": "radio stations",
+      "start": 484,
+      "end": 498
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40 percent",
+      "start": 523,
+      "end": 533
+    },
+    "unit": {
+      "text": "of the population",
+      "start": 534,
+      "end": 551
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "received",
+      "start": 631,
+      "end": 639
+    },
+    "quantity": {
+      "text": "200-300",
+      "start": 640,
+      "end": 647
+    },
+    "unit": {
+      "text": "calls per week",
+      "start": 648,
+      "end": 662
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "99%",
+      "begin": 58,
+      "end": 61
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 69,
+      "end": 89
+    },
+    "eventDescription": {
+      "text": "some members of the community planted and harvested in the previous rainy season",
+      "begin": 168,
+      "end": 248
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "97%",
+      "begin": 108,
+      "end": 111
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 119,
+      "end": 139
+    },
+    "eventDescription": {
+      "text": "some members of the community planted and harvested in the previous rainy season",
+      "begin": 168,
+      "end": 248
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "98%",
+      "begin": 321,
+      "end": 324
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 332,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "some people had reportedly planted and harvested in the previous rainy season",
+      "begin": 378,
+      "end": 455
+    },
+    "eventType": "EventO"
+  }
+]

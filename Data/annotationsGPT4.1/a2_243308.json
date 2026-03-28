@@ -1,0 +1,122 @@
+[
+  {
+    "quantity": "twelve",
+    "unit": "community isolation sites",
+    "eventType": "EventO",
+    "eventDescription": "active isolation sites"
+  },
+  {
+    "quantity": "30",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Abbassiyeh isolation site"
+  },
+  {
+    "quantity": "18",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Ain w Zain isolation site"
+  },
+  {
+    "quantity": "40",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Al Aziz isolation site"
+  },
+  {
+    "quantity": "48",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Ayha isolation site"
+  },
+  {
+    "quantity": "80",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Lebanese Canadian Hospital isolation site"
+  },
+  {
+    "quantity": "42",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Maad Isolation Centre"
+  },
+  {
+    "quantity": "20",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Mraijat Isolation Centre"
+  },
+  {
+    "quantity": "40",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Qana Isolation centre"
+  },
+  {
+    "quantity": "101",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Quality Inn Maarad"
+  },
+  {
+    "quantity": "58",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Tayouneh centre"
+  },
+  {
+    "quantity": "50",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Tal Hayat Mokayteh"
+  },
+  {
+    "quantity": "29",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "beds in Wardanieh"
+  },
+  {
+    "quantity": "102",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "occupied beds"
+  },
+  {
+    "quantity": "556",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "available beds"
+  },
+  {
+    "quantity": "three",
+    "unit": "elderly homes",
+    "eventType": "EventO",
+    "eventDescription": "new outbreaks reported"
+  },
+  {
+    "quantity": "three",
+    "unit": "facilities",
+    "eventType": "EventA",
+    "eventDescription": "facilities supported to contain outbreaks"
+  },
+  {
+    "quantity": "83 per cent",
+    "unit": "occupancy rate",
+    "eventType": "EventO",
+    "eventDescription": "ICU bed occupancy rate"
+  },
+  {
+    "quantity": "382",
+    "unit": "occupied beds",
+    "eventType": "EventA",
+    "eventDescription": "occupied ICU beds"
+  },
+  {
+    "quantity": "464",
+    "unit": "ICU beds",
+    "eventType": "EventA",
+    "eventDescription": "dedicated ICU beds"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25 percent",
+      "start": 89,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "215 percent",
+      "start": 125,
+      "end": 136
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,043/kg",
+      "start": 157,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "average retail price of bulgur",
+      "start": 45,
+      "end": 75
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 153,
+      "end": 156
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,640/kg",
+      "start": 231,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "highest bulgur average retail price",
+      "start": 188,
+      "end": 223
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 227,
+      "end": 230
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25 percent",
+      "start": 244,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,624/kg",
+      "start": 316,
+      "end": 324
+    },
+    "eventDescription": {
+      "text": "lowest average bulgur price",
+      "start": 566,
+      "end": 593
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 312,
+      "end": 315
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "ten percent",
+      "start": 329,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,350/ kg",
+      "start": 427,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "highest average bulgur price by region",
+      "start": 381,
+      "end": 419
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 423,
+      "end": 426
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22 percent",
+      "start": 441,
+      "end": 451
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,178/kg",
+      "start": 497,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "average bulgur price in middle region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 493,
+      "end": 496
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "27 percent",
+      "start": 510,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,742/kg",
+      "start": 601,
+      "end": 609
+    },
+    "eventDescription": {
+      "text": "lowest average bulgur price by region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 597,
+      "end": 600
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "13 percent",
+      "start": 614,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,901/kg",
+      "start": 668,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "average bulgur price in northeast Syria",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 664,
+      "end": 667
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "26 percent",
+      "start": 681,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "increase in bulgur price",
+      "start": null,
+      "end": null
+    }
+  }
+]

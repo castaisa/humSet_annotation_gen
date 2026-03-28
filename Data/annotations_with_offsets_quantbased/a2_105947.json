@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1 056",
+      "start": 17,
+      "end": 22
+    },
+    "eventDescription": {
+      "text": "applied sustainable livestock practices",
+      "start": 50,
+      "end": 89
+    },
+    "unit": {
+      "text": "cattle producers",
+      "start": 23,
+      "end": 39
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "seven",
+      "start": 244,
+      "end": 249
+    },
+    "eventDescription": {
+      "text": "project implemented in provinces",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 250,
+      "end": 259
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "over USD 953 000",
+      "start": 440,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "provided to support producers",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 445,
+      "end": 448
+    },
+    "modifier": {
+      "text": "over",
+      "start": 440,
+      "end": 444
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1 000 250",
+      "start": 609,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "potentially reduced carbon emissions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "kilograms of CO2 per year",
+      "start": 619,
+      "end": 644
+    }
+  }
+]

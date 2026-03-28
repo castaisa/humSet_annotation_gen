@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,500",
+      "start": 145,
+      "end": 150
+    },
+    "unit": {
+      "text": "coat kits",
+      "start": 151,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,800",
+      "start": 165,
+      "end": 170
+    },
+    "unit": {
+      "text": "blankets",
+      "start": 171,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "managed to open delivery points",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 283,
+      "end": 287
+    },
+    "unit": {
+      "text": "Venezuelan community organizations",
+      "start": 288,
+      "end": 322
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "opened",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30",
+      "start": 344,
+      "end": 346
+    },
+    "unit": {
+      "text": "delivery points",
+      "start": 347,
+      "end": 362
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "handed out",
+      "start": 590,
+      "end": 600
+    },
+    "modifier": {
+      "text": "some",
+      "start": 568,
+      "end": 572
+    },
+    "quantity": {
+      "text": "450",
+      "start": 573,
+      "end": 576
+    },
+    "unit": {
+      "text": "kits",
+      "start": 577,
+      "end": 581
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Northern Yobe domain",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15.8%",
+      "start": 240,
+      "end": 245
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": 132,
+      "end": 161
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Central Borno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10.7%",
+      "start": 295,
+      "end": 300
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": 577,
+      "end": 606
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Northern Borno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14.0%",
+      "start": 319,
+      "end": 324
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Southern Yobe",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10.2%",
+      "start": 342,
+      "end": 347
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Central Yobe",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14.7",
+      "start": 368,
+      "end": 372
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Northern Adamawa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.5",
+      "start": 427,
+      "end": 430
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Southern Borno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8.8%",
+      "start": 448,
+      "end": 452
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Eastern Borno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9.6%",
+      "start": 470,
+      "end": 474
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in MMC/Jere",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9.9%",
+      "start": 490,
+      "end": 494
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM based on WHZ in Southern Adamawa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4.7%",
+      "start": 558,
+      "end": 562
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "overall at state level in Adamawa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6.2%",
+      "start": 626,
+      "end": 630
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "overall at state level in Borno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10%",
+      "start": 661,
+      "end": 664
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "overall at state level in Yobe",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12.3%",
+      "start": 696,
+      "end": 701
+    },
+    "unit": {
+      "text": "acute malnutrition prevalence",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "74 per cent",
+      "begin": 131,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "WASH facilities were provided",
+      "begin": 98,
+      "end": 127
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "sites",
+      "begin": 146,
+      "end": 151
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 189,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "WASH facilities were provided",
+      "begin": 98,
+      "end": 127
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "sites",
+      "begin": 146,
+      "end": 151
+    }
+  },
+  {
+    "quantity": {
+      "text": "26 per cent",
+      "begin": 250,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "No WASH facilities were present",
+      "begin": 215,
+      "end": 246
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "sites",
+      "begin": 265,
+      "end": 270
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 280,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "No WASH facilities were present",
+      "begin": 215,
+      "end": 246
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "sites",
+      "begin": 265,
+      "end": 270
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 per cent",
+      "begin": 351,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "present",
+      "begin": 340,
+      "end": 347
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "locations",
+      "begin": 366,
+      "end": 375
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 per cent",
+      "begin": 488,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "present",
+      "begin": 477,
+      "end": 484
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "locations",
+      "begin": 503,
+      "end": 512
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 520,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "present",
+      "begin": 477,
+      "end": 484
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "locations",
+      "begin": 503,
+      "end": 512
+    }
+  },
+  {
+    "quantity": {
+      "text": "11 per cent",
+      "begin": 556,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "present",
+      "begin": 477,
+      "end": 484
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "locations",
+      "begin": 571,
+      "end": 580
+    }
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "quantity": {
+      "text": "626",
+      "begin": 95,
+      "end": 98
+    },
+    "unit": {
+      "text": "suspected cases",
+      "begin": 99,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 125,
+      "end": 133
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 139,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 125,
+      "end": 133
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "states",
+      "begin": 142,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "258",
+      "begin": 166,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 125,
+      "end": 133
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 170,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 293,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 237,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 253,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "47",
+      "begin": 266,
+      "end": 268
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 279,
+      "end": 281
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 305,
+      "end": 307
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "82",
+      "begin": 317,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 335,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 346,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 359,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "28",
+      "begin": 368,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 380,
+      "end": 381
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 391,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 407,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 416,
+      "end": 418
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 429,
+      "end": 431
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 440,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "52",
+      "begin": 454,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 466,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 477,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 488,
+      "end": 490
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 500,
+      "end": 501
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 514,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 526,
+      "end": 528
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 537,
+      "end": 539
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 548,
+      "end": 550
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 559,
+      "end": 561
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 569,
+      "end": 571
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 583,
+      "end": 584
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 595,
+      "end": 596
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 607,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 619,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "56",
+      "begin": 629,
+      "end": 631
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 646,
+      "end": 647
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 192,
+      "end": 200
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "259",
+      "begin": 701,
+      "end": 704
+    },
+    "eventDescription": {
+      "text": "suspected cases were reported",
+      "begin": 666,
+      "end": 695
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 705,
+      "end": 709
+    }
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 721,
+      "end": 723
+    },
+    "eventDescription": {
+      "text": "suspected cases were reported",
+      "begin": 666,
+      "end": 695
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "states",
+      "begin": 724,
+      "end": 730
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "quantity": {
+      "text": "one million",
+      "begin": 288,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "directly or indirectly affecting",
+      "begin": 241,
+      "end": 273
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "approximately",
+      "begin": 274,
+      "end": 287
+    },
+    "unit": {
+      "text": "civilians",
+      "begin": 300,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "70,000",
+      "begin": 352,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "directly or indirectly affecting",
+      "begin": 241,
+      "end": 273
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "over",
+      "begin": 347,
+      "end": 351
+    },
+    "unit": {
+      "text": "people living in camps and informal settlements",
+      "begin": 359,
+      "end": 406
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 527,
+      "end": 530
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 522,
+      "end": 526
+    },
+    "unit": {
+      "text": "days",
+      "begin": 531,
+      "end": 535
+    },
+    "eventDescription": {
+      "text": "residents received no water",
+      "begin": 542,
+      "end": 569
+    },
+    "eventType": "EventO"
+  }
+]

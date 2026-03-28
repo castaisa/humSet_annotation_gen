@@ -1,0 +1,300 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,364",
+      "start": 74,
+      "end": 79
+    },
+    "eventDescription": {
+      "text": "still arrested/ detained or forcibly disappeared",
+      "start": 113,
+      "end": 161
+    },
+    "unit": {
+      "text": "health care sector personnel",
+      "start": 80,
+      "end": 108
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 65,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,329",
+      "start": 219,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "arrested/ detained or forcibly disappeared by Syrian regime forces",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health care sector personnel",
+      "start": 80,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "99%",
+      "start": 287,
+      "end": 290
+    },
+    "eventDescription": {
+      "text": "responsibility of Syrian regime",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "arrests and enforced disappearances",
+      "start": 298,
+      "end": 333
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "744",
+      "start": 647,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "in Damascus",
+      "start": 634,
+      "end": 645
+    },
+    "unit": {
+      "text": "arrests/detention",
+      "start": 611,
+      "end": 628
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "387",
+      "start": 669,
+      "end": 672
+    },
+    "eventDescription": {
+      "text": "in Rural Damascus",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "arrests/detention",
+      "start": 611,
+      "end": 628
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "373",
+      "start": 683,
+      "end": 686
+    },
+    "eventDescription": {
+      "text": "in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "arrests/detention",
+      "start": 611,
+      "end": 628
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "288",
+      "start": 695,
+      "end": 698
+    },
+    "eventDescription": {
+      "text": "in Hama",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "arrests/detention",
+      "start": 611,
+      "end": 628
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "257",
+      "start": 710,
+      "end": 713
+    },
+    "eventDescription": {
+      "text": "in Dara",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "arrests/detention",
+      "start": 611,
+      "end": 628
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "647",
+      "start": 813,
+      "end": 816
+    },
+    "eventDescription": {
+      "text": "arrested or detained",
+      "start": 791,
+      "end": 811
+    },
+    "unit": {
+      "text": "civilian trained in first aid",
+      "start": 716,
+      "end": 745
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "643",
+      "start": 838,
+      "end": 841
+    },
+    "eventDescription": {
+      "text": "arrested or detained",
+      "start": 791,
+      "end": 811
+    },
+    "unit": {
+      "text": "nurse",
+      "start": 831,
+      "end": 836
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "436",
+      "start": 852,
+      "end": 855
+    },
+    "eventDescription": {
+      "text": "arrested or detained",
+      "start": 791,
+      "end": 811
+    },
+    "unit": {
+      "text": "doctor",
+      "start": 844,
+      "end": 850
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "426",
+      "start": 877,
+      "end": 880
+    },
+    "eventDescription": {
+      "text": "arrested or detained",
+      "start": 791,
+      "end": 811
+    },
+    "unit": {
+      "text": "health technician",
+      "start": 858,
+      "end": 875
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "421",
+      "start": 897,
+      "end": 900
+    },
+    "eventDescription": {
+      "text": "arrested or detained",
+      "start": 791,
+      "end": 811
+    },
+    "unit": {
+      "text": "paramedic",
+      "start": 886,
+      "end": 895
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about a quarter",
+      "start": 1077,
+      "end": 1092
+    },
+    "eventDescription": {
+      "text": "took place while working in medical facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "arrests/detentions",
+      "start": 962,
+      "end": 980
+    },
+    "modifier": {
+      "text": "about",
+      "start": 1077,
+      "end": 1082
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "56",
+      "start": 1268,
+      "end": 1270
+    },
+    "eventDescription": {
+      "text": "arrested by Syrian regime forces in 2020",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health care sector personnel",
+      "start": 80,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "28",
+      "start": 1313,
+      "end": 1315
+    },
+    "eventDescription": {
+      "text": "arrested by Syrian regime forces in 2021",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health care sector personnel",
+      "start": 80,
+      "end": 108
+    }
+  }
+]

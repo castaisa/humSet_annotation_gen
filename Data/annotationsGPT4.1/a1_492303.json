@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "seven out of ten",
+    "unit": "interviewed households",
+    "eventType": "EventP",
+    "eventDescription": "households buying food on credit"
+  },
+  {
+    "quantity": "69 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households buying food on credit"
+  },
+  {
+    "quantity": "five percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in households buying food on credit year-on-year"
+  },
+  {
+    "quantity": "76 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "female-headed households buying food on credit"
+  },
+  {
+    "quantity": "72 percent",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "IDPs buying food on credit"
+  },
+  {
+    "quantity": "71 percent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "returnees buying food on credit"
+  },
+  {
+    "quantity": "67 percent",
+    "unit": "residents",
+    "eventType": "EventP",
+    "eventDescription": "residents buying food on credit"
+  },
+  {
+    "quantity": "78 percent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "households in Dar\u2019a buying food on credit"
+  },
+  {
+    "quantity": "eight percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in Dar\u2019a compared to a month earlier"
+  },
+  {
+    "quantity": "77 percent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "households in Al-Hasakeh buying food on credit"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "surveyed households nationwide",
+    "eventType": "EventP",
+    "eventDescription": "households taking children out of school for work"
+  }
+]

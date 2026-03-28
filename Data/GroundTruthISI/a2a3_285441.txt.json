@@ -1,0 +1,156 @@
+[
+  {
+    "quantity": {
+      "text": "14 percent,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "proportion of households who reported facing challenges to access medical care services",
+      "begin": 53,
+      "end": 140
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 170,
+      "end": 173
+    },
+    "unit": {
+      "text": "female-headed households",
+      "begin": 186,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "indicating difficulty in accessing hospitals",
+      "begin": 224,
+      "end": 268
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 181,
+      "end": 185
+    },
+    "unit": {
+      "text": "female-headed households",
+      "begin": 186,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "indicating difficulty in accessing hospitals",
+      "begin": 224,
+      "end": 268
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19 percent",
+      "begin": 212,
+      "end": 222
+    },
+    "unit": {
+      "text": "female-headed households",
+      "begin": 186,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "indicating difficulty in accessing hospitals",
+      "begin": 224,
+      "end": 268
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13 percent",
+      "begin": 281,
+      "end": 291
+    },
+    "unit": {
+      "text": "male-headed households",
+      "begin": 295,
+      "end": 317
+    }
+  },
+  {
+    "quantity": {
+      "text": "16 percent",
+      "begin": 422,
+      "end": 432
+    },
+    "unit": {
+      "text": "female-headed households",
+      "begin": 364,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "shortage of financial means",
+      "begin": 393,
+      "end": 420
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "a third",
+      "begin": 445,
+      "end": 452
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 456,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "reported not being able to purchase the necessary medicines",
+      "begin": 492,
+      "end": 551
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "a third",
+      "begin": 445,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "reported not being able to purchase the necessary medicines",
+      "begin": 492,
+      "end": 551
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "76 percent",
+      "begin": 613,
+      "end": 623
+    },
+    "eventDescription": {
+      "text": "due to lack of financial resources",
+      "begin": 577,
+      "end": 611
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17 percent",
+      "begin": 666,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "shortage of medicines in pharmacies",
+      "begin": 629,
+      "end": 664
+    },
+    "eventType": "EventO"
+  }
+]

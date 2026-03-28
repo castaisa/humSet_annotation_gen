@@ -1,0 +1,209 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "average selling price of herbicides",
+      "start": 36,
+      "end": 71
+    },
+    "quantity": {
+      "text": "70 223",
+      "start": 119,
+      "end": 125
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 126,
+      "end": 136
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13 percent",
+      "start": 138,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides in Dará",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22 percent",
+      "start": 248,
+      "end": 258
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides in Hasakeh",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21 percent",
+      "start": 270,
+      "end": 280
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides in Homs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15 percent",
+      "start": 289,
+      "end": 299
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides in Hama",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15 percent",
+      "start": 308,
+      "end": 318
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides in Aleppo",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13 percent",
+      "start": 329,
+      "end": 339
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides in Tartous",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13 percent",
+      "start": 351,
+      "end": 361
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of herbicides in Deir-ez-Zor",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12 percent",
+      "start": 380,
+      "end": 390
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "m-o-m decrease in price of liquid herbicides",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4 percent",
+      "start": 487,
+      "end": 496
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "average selling price of liquid herbicides",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "48 942",
+      "start": 545,
+      "end": 551
+    },
+    "unit": {
+      "text": "SYP per litre",
+      "start": 552,
+      "end": 565
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "range of m-o-m decrease in average selling price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14",
+      "start": 673,
+      "end": 675
+    },
+    "unit": {
+      "text": "percent",
+      "start": 681,
+      "end": 688
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "range of m-o-m decrease in average selling price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 679,
+      "end": 680
+    },
+    "unit": {
+      "text": "percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "herbicide price in Rural Damascus",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27 000",
+      "start": 776,
+      "end": 782
+    },
+    "unit": {
+      "text": "SYP per litre",
+      "start": 783,
+      "end": 796
+    }
+  }
+]

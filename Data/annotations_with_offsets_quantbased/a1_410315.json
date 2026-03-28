@@ -1,0 +1,169 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one out of five",
+      "start": 38,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "reported challenges in accessing medical care services",
+      "start": 90,
+      "end": 144
+    },
+    "unit": {
+      "text": "households",
+      "start": 66,
+      "end": 76
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 28,
+      "end": 37
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21 percent",
+      "start": 78,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "reported challenges in accessing medical care services",
+      "start": 90,
+      "end": 144
+    },
+    "unit": {
+      "text": "households",
+      "start": 66,
+      "end": 76
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six percentage points",
+      "start": 161,
+      "end": 182
+    },
+    "eventDescription": {
+      "text": "increase year-on-year",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "second",
+      "start": 217,
+      "end": 223
+    },
+    "eventDescription": {
+      "text": "recorded since April 2020",
+      "start": 255,
+      "end": 280
+    },
+    "unit": {
+      "text": "national average level",
+      "start": 232,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "28 percent",
+      "start": 373,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "reported lack of access to hospitals and healthcare facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households in Lattakia",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "28 percent",
+      "start": 398,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "reported lack of access to hospitals and healthcare facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households in Al-Hasakeh",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25 percent",
+      "start": 421,
+      "end": 431
+    },
+    "eventDescription": {
+      "text": "reported lack of access to hospitals and healthcare facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households in Dar'a",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17 percent",
+      "start": 503,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "have elderly members with chronic diseases",
+      "start": 537,
+      "end": 579
+    },
+    "unit": {
+      "text": "surveyed households",
+      "start": 517,
+      "end": 536
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "52 percent",
+      "start": 599,
+      "end": 609
+    },
+    "eventDescription": {
+      "text": "were reportedly not fully functioning",
+      "start": 639,
+      "end": 676
+    },
+    "unit": {
+      "text": "public hospitals in Syria",
+      "start": 613,
+      "end": 638
+    },
+    "modifier": {
+      "text": "around",
+      "start": 592,
+      "end": 598
+    }
+  }
+]

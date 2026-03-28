@@ -1,0 +1,46 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "100",
+      "start": 339,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "Remdesivir 100 injection used",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "37",
+      "start": 353,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "treated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "patients",
+      "start": 356,
+      "end": 364
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 395,
+      "end": 400
+    },
+    "eventDescription": {
+      "text": "saved",
+      "start": 389,
+      "end": 394
+    }
+  }
+]

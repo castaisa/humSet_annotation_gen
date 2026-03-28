@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "40,855",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "received a range of child protection services"
+  },
+  {
+    "quantity": "14,947",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "received a range of child protection services"
+  },
+  {
+    "quantity": "11,541",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "received a range of child protection services"
+  },
+  {
+    "quantity": "821",
+    "unit": "at risk children",
+    "eventType": "EventP",
+    "eventDescription": "provided with individual case management services and follow up support"
+  },
+  {
+    "quantity": "9",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "released from armed forces and placed in alternative or group care"
+  },
+  {
+    "quantity": "1",
+    "unit": "girl",
+    "eventType": "EventP",
+    "eventDescription": "released from armed forces and placed in alternative or group care"
+  },
+  {
+    "quantity": "8",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "released from armed forces and placed in alternative or group care"
+  },
+  {
+    "quantity": "13,228",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "benefited from PSS to improve their psychosocial wellbeing"
+  },
+  {
+    "quantity": "8153",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "benefited from PSS to improve their psychosocial wellbeing"
+  },
+  {
+    "quantity": "5,075",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "benefited from PSS to improve their psychosocial wellbeing"
+  }
+]

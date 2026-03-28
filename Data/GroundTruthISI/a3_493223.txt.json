@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "1 percent",
+      "begin": 64,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 80,
+      "end": 88
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 74,
+      "end": 79
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 726",
+      "begin": 127,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "average selling price reached",
+      "begin": 97,
+      "end": 126
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 133,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 percent",
+      "begin": 281,
+      "end": 290
+    },
+    "eventDescription": {
+      "text": "recording a slight decrease",
+      "begin": 252,
+      "end": 279
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 291,
+      "end": 296
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 750",
+      "begin": 331,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "selling price reaching",
+      "begin": 308,
+      "end": 330
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 337,
+      "end": 347
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 422,
+      "end": 423
+    },
+    "eventDescription": {
+      "text": "recorded a slight increase",
+      "begin": 394,
+      "end": 420
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 444,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 425,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "recorded a slight increase",
+      "begin": 394,
+      "end": 420
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 444,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 428,
+      "end": 429
+    },
+    "eventDescription": {
+      "text": "recorded a slight increase",
+      "begin": 394,
+      "end": 420
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 444,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "(9, 8, 7 and 2 percent",
+      "begin": 421,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "recorded a slight increase",
+      "begin": 394,
+      "end": 420
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 444,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 percent",
+      "begin": 434,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "recorded a slight increase",
+      "begin": 394,
+      "end": 420
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 444,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 800",
+      "begin": 484,
+      "end": 489
+    },
+    "eventDescription": {
+      "text": "selling prices reaching",
+      "begin": 460,
+      "end": 483
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 514,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 780",
+      "begin": 491,
+      "end": 496
+    },
+    "eventDescription": {
+      "text": "selling prices reaching",
+      "begin": 460,
+      "end": 483
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 514,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 800",
+      "begin": 498,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "selling prices reaching",
+      "begin": 460,
+      "end": 483
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 514,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 325",
+      "begin": 508,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "selling prices reaching",
+      "begin": 460,
+      "end": 483
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 514,
+      "end": 524
+    }
+  }
+]

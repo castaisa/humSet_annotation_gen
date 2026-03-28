@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "epidemiological week",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 41,
+      "end": 42
+    },
+    "unit": {
+      "text": "Epi week",
+      "start": 32,
+      "end": 40
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acute respiratory infection cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6,872",
+      "start": 44,
+      "end": 49
+    },
+    "unit": {
+      "text": "cases",
+      "start": 50,
+      "end": 55
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from ICRC FSP Clinic in Monguno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "263",
+      "start": 139,
+      "end": 142
+    },
+    "unit": {
+      "text": "cases",
+      "start": 132,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from General Hospital Ngala (FHI360)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "254",
+      "start": 181,
+      "end": 184
+    },
+    "unit": {
+      "text": "cases",
+      "start": 418,
+      "end": 423
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from FHI360 clinic Banki in Bama",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "231",
+      "start": 228,
+      "end": 231
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from Damboa MCH in Damboa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "225",
+      "start": 271,
+      "end": 274
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from Shuwari Host Community Clinic in Damboa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "206",
+      "start": 307,
+      "end": 310
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from ICRC GGSS IDP Camp Clinic in Monguno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "191",
+      "start": 362,
+      "end": 365
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from 1000 Housing Estate clinic Dikwa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "185",
+      "start": 414,
+      "end": 417
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from INTERSOS Health Facility Gamboru in Ngala",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "185",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases from Sabon Gari Lowcost IDP camp clinic (MDM) in Damboa",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "184",
+      "start": 517,
+      "end": 520
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  }
+]

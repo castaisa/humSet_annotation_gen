@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "70,000",
+      "begin": 107,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "plans to assist",
+      "begin": 87,
+      "end": 102
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 114,
+      "end": 124
+    }
+  },
+  {
+    "quantity": {
+      "text": "900",
+      "begin": 371,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "WFP will provide",
+      "begin": 354,
+      "end": 370
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "pieces of bread",
+      "begin": 375,
+      "end": 390
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 392,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "WFP will provide",
+      "begin": 354,
+      "end": 370
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "pieces of bread per day",
+      "begin": 395,
+      "end": 418
+    }
+  },
+  {
+    "quantity": {
+      "text": "52,000",
+      "begin": 488,
+      "end": 494
+    },
+    "modifier": {
+      "text": "additional",
+      "begin": 477,
+      "end": 487
+    },
+    "unit": {
+      "text": "households",
+      "begin": 495,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "receive a one-off blanket commodity voucher ration",
+      "begin": 572,
+      "end": 622
+    },
+    "eventType": "EventA"
+  }
+]

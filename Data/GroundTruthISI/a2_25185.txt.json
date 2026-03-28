@@ -1,0 +1,117 @@
+[
+  {
+    "quantity": {
+      "text": "8,248",
+      "begin": 176,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "escalation of hostilities",
+      "begin": 257,
+      "end": 282
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "internally displaced persons (IDPs)",
+      "begin": 182,
+      "end": 217
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 833,
+      "end": 834
+    },
+    "unit": {
+      "text": "kilometers",
+      "begin": 835,
+      "end": 845
+    }
+  },
+  {
+    "quantity": {
+      "text": "133",
+      "begin": 1090,
+      "end": 1093
+    },
+    "unit": {
+      "text": "humanitarian personnel",
+      "begin": 1094,
+      "end": 1116
+    },
+    "eventDescription": {
+      "text": "temporarily relocated",
+      "begin": 1122,
+      "end": 1143
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3819",
+      "begin": 1236,
+      "end": 1240
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 1230,
+      "end": 1235
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 1241,
+      "end": 1245
+    },
+    "eventDescription": {
+      "text": "arrived",
+      "begin": 1246,
+      "end": 1253
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "95 percent",
+      "begin": 1439,
+      "end": 1449
+    },
+    "unit": {
+      "text": "new arrivals",
+      "begin": 1457,
+      "end": 1469
+    },
+    "eventDescription": {
+      "text": "relocated due to the ongoing conflict",
+      "begin": 1487,
+      "end": 1524
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3 percent",
+      "begin": 1526,
+      "end": 1535
+    },
+    "eventDescription": {
+      "text": "voluntarily relocated",
+      "begin": 1536,
+      "end": 1557
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2 percent",
+      "begin": 1564,
+      "end": 1573
+    },
+    "eventDescription": {
+      "text": "relocated due to poor living condition",
+      "begin": 1574,
+      "end": 1612
+    },
+    "eventType": "EventP"
+  }
+]

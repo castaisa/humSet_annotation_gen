@@ -1,0 +1,93 @@
+[
+  {
+    "quantity": "400,000",
+    "unit": "individuals and households",
+    "eventType": "EventP",
+    "eventDescription": "announced as recipients of Family Protection Bonus"
+  },
+  {
+    "quantity": "two",
+    "unit": "US$ 60 transfers",
+    "eventType": "EventA",
+    "eventDescription": "provided to households"
+  },
+  {
+    "quantity": "400 000",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "affiliated with government registries and eligible for transfer"
+  },
+  {
+    "quantity": "352,000",
+    "unit": "recipients",
+    "eventType": "EventP",
+    "eventDescription": "collected the April transfer"
+  },
+  {
+    "quantity": "US$ 60",
+    "unit": "dollars",
+    "eventType": "EventA",
+    "eventDescription": "April transfer amount"
+  },
+  {
+    "quantity": "over 400,000",
+    "unit": "recipients",
+    "eventType": "EventP",
+    "eventDescription": "had collected the transfer before mid-May",
+    "modifier": "over"
+  },
+  {
+    "quantity": "88%",
+    "unit": "recipients",
+    "eventType": "EventP",
+    "eventDescription": "were women"
+  },
+  {
+    "quantity": "550,000",
+    "unit": "recipients",
+    "eventType": "EventP",
+    "eventDescription": "announced for additional two-time cash transfer"
+  },
+  {
+    "quantity": "950 000",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "total reach after expansion"
+  },
+  {
+    "quantity": "one million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "planned extension of Family Protection transfer"
+  },
+  {
+    "quantity": "two million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "total planned reach of Family Protection transfer"
+  },
+  {
+    "quantity": "one-time",
+    "unit": "transfer",
+    "eventType": "EventA",
+    "eventDescription": "established for this group"
+  },
+  {
+    "quantity": "US$ 120",
+    "unit": "dollars",
+    "eventType": "EventA",
+    "eventDescription": "amount of one-time transfer"
+  },
+  {
+    "quantity": "120-dollar",
+    "unit": "transfer",
+    "eventType": "EventA",
+    "eventDescription": "distribution to second group of recipients"
+  },
+  {
+    "quantity": "two",
+    "unit": "groups",
+    "eventType": "EventO",
+    "eventDescription": "recipients divided for transfer collection"
+  }
+]

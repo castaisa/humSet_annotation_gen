@@ -1,0 +1,48 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "printed for beneficiaries who lost documents",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 71,
+      "end": 75
+    },
+    "quantity": {
+      "text": "over 7,000",
+      "start": 71,
+      "end": 81
+    },
+    "unit": {
+      "text": "SCOPECARDs",
+      "start": 82,
+      "end": 92
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "distributed SCOPECARDs to",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 187,
+      "end": 191
+    },
+    "quantity": {
+      "text": "over 1,100",
+      "start": 187,
+      "end": 197
+    },
+    "unit": {
+      "text": "households",
+      "start": 198,
+      "end": 208
+    }
+  }
+]

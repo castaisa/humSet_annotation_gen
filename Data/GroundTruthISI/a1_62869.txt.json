@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "10,422",
+      "begin": 667,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 658,
+      "end": 666
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "homicides",
+      "begin": 674,
+      "end": 683
+    }
+  },
+  {
+    "quantity": {
+      "text": "7,523",
+      "begin": 688,
+      "end": 693
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 658,
+      "end": 666
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people",
+      "begin": 694,
+      "end": 700
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 701,
+      "end": 702
+    },
+    "unit": {
+      "text": "people",
+      "begin": 694,
+      "end": 700
+    },
+    "eventDescription": {
+      "text": "having died from police and military violence",
+      "begin": 703,
+      "end": 748
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16,026",
+      "begin": 807,
+      "end": 813
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 766,
+      "end": 774
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "homicide numbers",
+      "begin": 789,
+      "end": 805
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,535",
+      "begin": 895,
+      "end": 900
+    },
+    "eventDescription": {
+      "text": "number of victims of police and military brutality have increased",
+      "begin": 820,
+      "end": 885
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "casualties",
+      "begin": 901,
+      "end": 911
+    }
+  }
+]

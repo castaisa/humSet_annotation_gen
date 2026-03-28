@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14,795",
+      "start": 81,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "start": 61,
+      "end": 80
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 88,
+      "end": 109
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10,346",
+      "start": 111,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "start": 61,
+      "end": 80
+    },
+    "unit": {
+      "text": "men",
+      "start": 118,
+      "end": 121
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,172",
+      "start": 123,
+      "end": 128
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "start": 61,
+      "end": 80
+    },
+    "unit": {
+      "text": "women",
+      "start": 129,
+      "end": 134
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,421",
+      "start": 139,
+      "end": 144
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "start": 61,
+      "end": 80
+    },
+    "unit": {
+      "text": "children",
+      "start": 145,
+      "end": 153
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "115",
+      "start": 162,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sea operations",
+      "start": 166,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,162",
+      "start": 262,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "disembarked in Libya",
+      "start": 240,
+      "end": 260
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 268,
+      "end": 279
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,453",
+      "start": 350,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "disembarked in Libya",
+      "start": 428,
+      "end": 448
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 356,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,167",
+      "start": 379,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "disembarked in Libya",
+      "start": 428,
+      "end": 448
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 385,
+      "end": 396
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "546",
+      "start": 412,
+      "end": 415
+    },
+    "eventDescription": {
+      "text": "disembarked in Libya",
+      "start": 428,
+      "end": 448
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 416,
+      "end": 427
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27",
+      "start": 500,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "disembarked at the Alkhums Naval Base",
+      "start": 515,
+      "end": 552
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 503,
+      "end": 514
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "110",
+      "start": 574,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "disembarked at the Azzawya Refinery Port",
+      "start": 590,
+      "end": 630
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 578,
+      "end": 589
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "63",
+      "start": 635,
+      "end": 637
+    },
+    "eventDescription": {
+      "text": "disembarked in Zwara",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 578,
+      "end": 589
+    }
+  }
+]

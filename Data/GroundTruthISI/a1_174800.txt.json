@@ -1,0 +1,259 @@
+[
+  {
+    "quantity": {
+      "text": "145,000",
+      "begin": 216,
+      "end": 223
+    },
+    "eventDescription": {
+      "text": "decreed an extra transfer",
+      "begin": 187,
+      "end": 212
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "pesos",
+      "begin": 224,
+      "end": 229
+    }
+  },
+  {
+    "quantity": {
+      "text": "39",
+      "begin": 235,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "decreed an extra transfer",
+      "begin": 187,
+      "end": 212
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 231,
+      "end": 234
+    }
+  },
+  {
+    "quantity": {
+      "text": "334,000",
+      "begin": 331,
+      "end": 338
+    },
+    "eventDescription": {
+      "text": "average transfer a household received",
+      "begin": 290,
+      "end": 327
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "pesos",
+      "begin": 339,
+      "end": 344
+    }
+  },
+  {
+    "quantity": {
+      "text": "86",
+      "begin": 350,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "average transfer a household received",
+      "begin": 290,
+      "end": 327
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 346,
+      "end": 349
+    }
+  },
+  {
+    "quantity": {
+      "text": "90%",
+      "begin": 358,
+      "end": 361
+    },
+    "unit": {
+      "text": "families",
+      "begin": 371,
+      "end": 379
+    },
+    "eventDescription": {
+      "text": "had bank accounts and received their transfers",
+      "begin": 380,
+      "end": 426
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "one million",
+      "begin": 473,
+      "end": 484
+    },
+    "unit": {
+      "text": "poorest households",
+      "begin": 485,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 504,
+      "end": 512
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "70,000",
+      "begin": 521,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 504,
+      "end": 512
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "pesos",
+      "begin": 528,
+      "end": 533
+    }
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 539,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 504,
+      "end": 512
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 535,
+      "end": 538
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.7 million",
+      "begin": 656,
+      "end": 667
+    },
+    "eventDescription": {
+      "text": "government bolstered the regular cash transfer",
+      "begin": 606,
+      "end": 652
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "elderly people",
+      "begin": 668,
+      "end": 682
+    }
+  },
+  {
+    "quantity": {
+      "text": "240 000",
+      "begin": 686,
+      "end": 693
+    },
+    "eventDescription": {
+      "text": "government bolstered the regular cash transfer",
+      "begin": 606,
+      "end": 652
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "pesos",
+      "begin": 694,
+      "end": 699
+    }
+  },
+  {
+    "quantity": {
+      "text": "64",
+      "begin": 705,
+      "end": 707
+    },
+    "eventDescription": {
+      "text": "government bolstered the regular cash transfer",
+      "begin": 606,
+      "end": 652
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 701,
+      "end": 704
+    }
+  },
+  {
+    "quantity": {
+      "text": "274,000",
+      "begin": 771,
+      "end": 778
+    },
+    "eventDescription": {
+      "text": "youth program provided additional transfers",
+      "begin": 718,
+      "end": 761
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "about",
+      "begin": 765,
+      "end": 770
+    },
+    "unit": {
+      "text": "students",
+      "begin": 779,
+      "end": 787
+    }
+  },
+  {
+    "quantity": {
+      "text": "85%",
+      "begin": 866,
+      "end": 869
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 858,
+      "end": 865
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "recipients",
+      "begin": 873,
+      "end": 883
+    }
+  },
+  {
+    "quantity": {
+      "text": "third",
+      "begin": 903,
+      "end": 908
+    },
+    "unit": {
+      "text": "payment",
+      "begin": 909,
+      "end": 916
+    },
+    "eventDescription": {
+      "text": "authorized",
+      "begin": 921,
+      "end": 931
+    },
+    "eventType": "EventA"
+  }
+]

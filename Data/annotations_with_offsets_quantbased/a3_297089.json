@@ -1,0 +1,161 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least one",
+      "start": 119,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": 395,
+      "end": 401
+    },
+    "unit": {
+      "text": "civilian",
+      "start": 132,
+      "end": 140
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 119,
+      "end": 127
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33%",
+      "start": 176,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "reporting incidents of conflict",
+      "start": 55,
+      "end": 86
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 213,
+      "end": 233
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "32%",
+      "start": 190,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "reporting incidents of conflict",
+      "start": 55,
+      "end": 86
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 213,
+      "end": 233
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "at least one",
+      "start": 244,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "reporting fatal incident resulting from conflict",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "fatal incident",
+      "start": 257,
+      "end": 271
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 244,
+      "end": 252
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "seven",
+      "start": 366,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": 395,
+      "end": 401
+    },
+    "unit": {
+      "text": "people",
+      "start": 372,
+      "end": 378
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "36%",
+      "start": 520,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "reporting an incident of conflict",
+      "start": 548,
+      "end": 581
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 527,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least one",
+      "start": 614,
+      "end": 626
+    },
+    "eventDescription": {
+      "text": "death",
+      "start": 605,
+      "end": 610
+    },
+    "unit": {
+      "text": "civilian",
+      "start": 627,
+      "end": 635
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 614,
+      "end": 622
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33%",
+      "start": 664,
+      "end": 667
+    },
+    "eventDescription": {
+      "text": "reported incident of conflict",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 527,
+      "end": 547
+    }
+  }
+]

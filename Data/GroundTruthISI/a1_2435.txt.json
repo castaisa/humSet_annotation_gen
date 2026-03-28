@@ -1,0 +1,66 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 7,
+      "end": 12
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 0,
+      "end": 4
+    },
+    "unit": {
+      "text": "year",
+      "begin": 13,
+      "end": 17
+    },
+    "eventDescription": {
+      "text": "government institutions gradually weakened and fractured",
+      "begin": 100,
+      "end": 156
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 230,
+      "end": 235
+    },
+    "unit": {
+      "text": "governments",
+      "begin": 236,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "compete for power",
+      "begin": 299,
+      "end": 316
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 711,
+      "end": 716
+    },
+    "modifier": {
+      "text": "Over the past",
+      "begin": 697,
+      "end": 710
+    },
+    "unit": {
+      "text": "years",
+      "begin": 717,
+      "end": 722
+    },
+    "eventDescription": {
+      "text": "militias have increasingly targeted lawyers and judges",
+      "begin": 730,
+      "end": 784
+    },
+    "eventType": "EventO"
+  }
+]

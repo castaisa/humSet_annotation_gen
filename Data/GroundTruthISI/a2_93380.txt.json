@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": {
+      "text": "111,843",
+      "begin": 419,
+      "end": 426
+    },
+    "unit": {
+      "text": "square kilometers",
+      "begin": 427,
+      "end": 444
+    }
+  },
+  {
+    "quantity": {
+      "text": "thousands",
+      "begin": 563,
+      "end": 572
+    },
+    "unit": {
+      "text": "tons of gold, diamonds, and other minerals",
+      "begin": 576,
+      "end": 618
+    }
+  }
+]

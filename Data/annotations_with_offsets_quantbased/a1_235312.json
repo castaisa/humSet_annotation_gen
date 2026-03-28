@@ -1,0 +1,241 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "91 percent",
+      "start": 94,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "96 percent",
+      "start": 115,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "100 percent",
+      "start": 141,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "94 percent",
+      "start": 164,
+      "end": 174
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "97 percent",
+      "start": 185,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "96 percent",
+      "start": 213,
+      "end": 223
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "94 percent",
+      "start": 234,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "99 percent",
+      "start": 255,
+      "end": 265
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "95 percent",
+      "start": 280,
+      "end": 290
+    },
+    "eventDescription": {
+      "text": "had poor and borderline food consumption",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9",
+      "start": 299,
+      "end": 300
+    },
+    "eventDescription": {
+      "text": "consumed very poor diets",
+      "start": 318,
+      "end": 342
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10",
+      "start": 304,
+      "end": 306
+    },
+    "eventDescription": {
+      "text": "consumed very poor diets",
+      "start": 318,
+      "end": 342
+    },
+    "unit": {
+      "text": "households",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least 8",
+      "start": 355,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "had nutritionally inadequate diets",
+      "start": 527,
+      "end": 561
+    },
+    "unit": {
+      "text": "households",
+      "start": 372,
+      "end": 382
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 355,
+      "end": 363
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10",
+      "start": 369,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "had nutritionally inadequate diets",
+      "start": 527,
+      "end": 561
+    },
+    "unit": {
+      "text": "households",
+      "start": 372,
+      "end": 382
+    }
+  }
+]

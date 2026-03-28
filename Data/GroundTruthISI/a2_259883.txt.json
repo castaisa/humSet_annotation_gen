@@ -1,0 +1,59 @@
+[
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 232,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "selling livestock",
+      "begin": 213,
+      "end": 230
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 256,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "eating stored food",
+      "begin": 236,
+      "end": 254
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 308,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "getting support from neighbours or relatives",
+      "begin": 262,
+      "end": 306
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 443,
+      "end": 445
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 446,
+      "end": 449
+    },
+    "eventDescription": {
+      "text": "not being able to get support from neighbours or relatives in general without describing if this had ever been an option",
+      "begin": 460,
+      "end": 580
+    },
+    "eventType": "EventO"
+  }
+]

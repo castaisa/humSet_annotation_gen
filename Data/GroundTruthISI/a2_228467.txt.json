@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": {
+      "text": "two-three",
+      "begin": 574,
+      "end": 583
+    },
+    "unit": {
+      "text": "days",
+      "begin": 584,
+      "end": 588
+    }
+  }
+]

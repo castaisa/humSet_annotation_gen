@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "1.2 million",
+    "unit": "beneficiaries",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "one percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "higher than the previous month"
+  },
+  {
+    "quantity": "8.4 kg",
+    "unit": "staple food per person per month",
+    "eventType": "EventA",
+    "eventDescription": "provided"
+  },
+  {
+    "quantity": "6",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "in a household"
+  },
+  {
+    "quantity": "50.4 kg",
+    "unit": "staple food per household per month",
+    "eventType": "EventA",
+    "eventDescription": "provided"
+  },
+  {
+    "quantity": "over 22,250",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "housed",
+    "modifier": "over"
+  }
+]

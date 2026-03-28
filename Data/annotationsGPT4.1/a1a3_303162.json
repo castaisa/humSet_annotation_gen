@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "Over 90 percent",
+    "unit": "of the 2.5 million people in need of nutrition support",
+    "eventType": "EventP",
+    "eventDescription": "in need of nutrition support",
+    "modifier": "over"
+  },
+  {
+    "quantity": "2.5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in need of nutrition support"
+  },
+  {
+    "quantity": "45 per cent",
+    "unit": "GAM rate",
+    "eventType": "EventO",
+    "eventDescription": "GAM rate in Haya locality"
+  },
+  {
+    "quantity": "40 per cent",
+    "unit": "of people",
+    "eventType": "EventP",
+    "eventDescription": "do not have access to improved water"
+  },
+  {
+    "quantity": "91 per cent",
+    "unit": "of people",
+    "eventType": "EventP",
+    "eventDescription": "do not have access to improved sanitation"
+  }
+]

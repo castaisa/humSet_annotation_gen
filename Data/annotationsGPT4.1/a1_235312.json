@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": "91 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "96 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "100 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "94 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "97 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "96 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "94 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "99 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "95 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had poor and borderline food consumption"
+  },
+  {
+    "quantity": "9",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "consumed very poor diets"
+  },
+  {
+    "quantity": "10",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "consumed very poor diets"
+  },
+  {
+    "quantity": "at least 8",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had nutritionally inadequate diets",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "10",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had nutritionally inadequate diets"
+  }
+]

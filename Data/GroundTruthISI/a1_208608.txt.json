@@ -1,0 +1,120 @@
+[
+  {
+    "quantity": {
+      "text": "53 percent",
+      "begin": 253,
+      "end": 263
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 210,
+      "end": 219
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 232,
+      "end": 251
+    },
+    "eventDescription": {
+      "text": "reported that they had lost one or more sources of income",
+      "begin": 265,
+      "end": 322
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "47 percent",
+      "begin": 434,
+      "end": 444
+    },
+    "eventDescription": {
+      "text": "reported that they had lost one or more sources of income",
+      "begin": 265,
+      "end": 322
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "among breadwinners having university degrees",
+      "begin": 388,
+      "end": 432
+    }
+  },
+  {
+    "quantity": {
+      "text": "63 percent",
+      "begin": 502,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "recorded the highest level",
+      "begin": 458,
+      "end": 484
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "displaced",
+      "begin": 491,
+      "end": 500
+    }
+  },
+  {
+    "quantity": {
+      "text": "59 percent",
+      "begin": 541,
+      "end": 551
+    },
+    "eventDescription": {
+      "text": "recorded the highest level",
+      "begin": 458,
+      "end": 484
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnees’ households",
+      "begin": 518,
+      "end": 539
+    }
+  },
+  {
+    "quantity": {
+      "text": "33 percent",
+      "begin": 669,
+      "end": 679
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 627,
+      "end": 636
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "resident households",
+      "begin": 643,
+      "end": 662
+    },
+    "modifier": {
+      "text": "down",
+      "begin": 664,
+      "end": 668
+    }
+  },
+  {
+    "quantity": {
+      "text": "45 percent",
+      "begin": 718,
+      "end": 728
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 627,
+      "end": 636
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "resident households",
+      "begin": 643,
+      "end": 662
+    }
+  }
+]

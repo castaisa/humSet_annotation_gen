@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "9,400",
+      "begin": 169,
+      "end": 174
+    },
+    "eventDescription": {
+      "text": "UNICEF finalized the planning phase of the voucher for hygiene behavior enabling WASH materials supply",
+      "begin": 0,
+      "end": 102
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "vulnerable households",
+      "begin": 175,
+      "end": 196
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 258,
+      "end": 261
+    },
+    "modifier": {
+      "text": "A total of",
+      "begin": 247,
+      "end": 257
+    },
+    "unit": {
+      "text": "extremely vulnerable households",
+      "begin": 262,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "will be targeted with cash assistance",
+      "begin": 310,
+      "end": 347
+    },
+    "eventType": "EventA"
+  }
+]

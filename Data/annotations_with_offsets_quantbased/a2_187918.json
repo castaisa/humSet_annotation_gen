@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,057",
+      "start": 11,
+      "end": 16
+    },
+    "eventDescription": {
+      "text": "explosives-related casualties recorded",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "casualties",
+      "start": 36,
+      "end": 46
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "77 per cent",
+      "start": 101,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "proportion of casualties who were children",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 126,
+      "end": 134
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "897",
+      "start": 157,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "casualties among men and boys",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "men and boys",
+      "start": 166,
+      "end": 178
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "five-fold",
+      "start": 446,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "increase in mine and ERW casualties among women and girls",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "casualties",
+      "start": 403,
+      "end": 413
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "eleven",
+      "start": 798,
+      "end": 804
+    },
+    "eventDescription": {
+      "text": "provinces significantly impacted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 805,
+      "end": 814
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70 per cent",
+      "start": 819,
+      "end": 830
+    },
+    "eventDescription": {
+      "text": "proportion of casualties in eleven provinces",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "mine and ERW casualties",
+      "start": 834,
+      "end": 857
+    }
+  }
+]

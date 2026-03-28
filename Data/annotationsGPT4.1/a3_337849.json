@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "88%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reported barriers to healthcare"
+  },
+  {
+    "quantity": "69%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reported lack of healthcare facilities as a barrier"
+  },
+  {
+    "quantity": "11%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reported facilities destroyed by conflict as a barrier"
+  },
+  {
+    "quantity": "30%",
+    "unit": "Kukawa",
+    "eventType": "EventO",
+    "eventDescription": "reported facilities destroyed by conflict as a barrier"
+  },
+  {
+    "quantity": "28%",
+    "unit": "Madagali",
+    "eventType": "EventO",
+    "eventDescription": "reported facilities destroyed by conflict as a barrier"
+  },
+  {
+    "quantity": "20%",
+    "unit": "Gwoza",
+    "eventType": "EventO",
+    "eventDescription": "reported facilities destroyed by conflict as a barrier"
+  },
+  {
+    "quantity": "6%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reported no staff available as a barrier"
+  },
+  {
+    "quantity": "24%",
+    "unit": "Konduga",
+    "eventType": "EventO",
+    "eventDescription": "reported no staff available as a barrier"
+  },
+  {
+    "quantity": "15%",
+    "unit": "Madagali",
+    "eventType": "EventO",
+    "eventDescription": "reported no staff available as a barrier"
+  }
+]

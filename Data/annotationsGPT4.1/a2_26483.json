@@ -1,0 +1,16 @@
+[
+  {
+    "quantity": "over 60%",
+    "unit": "food production",
+    "eventType": "EventO",
+    "eventDescription": "reduced",
+    "modifier": "over"
+  },
+  {
+    "quantity": "over 70%",
+    "unit": "imports",
+    "eventType": "EventO",
+    "eventDescription": "dropped",
+    "modifier": "over"
+  }
+]

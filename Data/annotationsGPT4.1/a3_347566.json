@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "one",
+    "unit": "petrol station",
+    "eventType": "EventO",
+    "eventDescription": "petrol stations providing Octane 95 fuel in Aleppo"
+  },
+  {
+    "quantity": "one",
+    "unit": "day",
+    "eventType": "EventO",
+    "eventDescription": "petrol station open during peak of petrol crisis"
+  },
+  {
+    "quantity": "three to four",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "petrol station shut during peak of petrol crisis"
+  },
+  {
+    "quantity": "90",
+    "unit": "Octane",
+    "eventType": "EventO",
+    "eventDescription": "petrol stations with Octane 90 operating"
+  },
+  {
+    "quantity": "95",
+    "unit": "Octane",
+    "eventType": "EventO",
+    "eventDescription": "petrol stations with Octane 95 operating"
+  }
+]

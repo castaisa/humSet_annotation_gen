@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "16 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "lack health care"
+  },
+  {
+    "quantity": "1.5 million",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "are malnourished"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "are partially or completely closed"
+  },
+  {
+    "quantity": "17 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "are suffering from food insecurity, drinking water shortages and services such as electricity and others"
+  }
+]

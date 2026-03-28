@@ -1,0 +1,41 @@
+[
+  {
+    "quantity": "96%",
+    "unit": "monthly food import requirements",
+    "eventType": "EventA",
+    "eventDescription": "met",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "70%",
+    "unit": "monthly food import requirements",
+    "eventType": "EventA",
+    "eventDescription": "met"
+  },
+  {
+    "quantity": "57%",
+    "unit": "monthly national requirement",
+    "eventType": "EventA",
+    "eventDescription": "met",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "20%",
+    "unit": "monthly fuel import requirements",
+    "eventType": "EventA",
+    "eventDescription": "met",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "one-third (33%)",
+    "unit": "monthly national requirement",
+    "eventType": "EventA",
+    "eventDescription": "met"
+  },
+  {
+    "quantity": "47%",
+    "unit": "food prices",
+    "eventType": "EventO",
+    "eventDescription": "higher than pre-crisis"
+  }
+]

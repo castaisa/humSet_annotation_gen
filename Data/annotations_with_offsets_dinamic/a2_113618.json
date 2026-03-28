@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "fund established to support small holder farmers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "600 million",
+      "start": 61,
+      "end": 72
+    },
+    "unit": {
+      "text": "PEN",
+      "start": 57,
+      "end": 60
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "equivalent value of fund established to support small holder farmers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "175 million",
+      "start": 92,
+      "end": 103
+    },
+    "unit": {
+      "text": "USD",
+      "start": 88,
+      "end": 91
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "loan payment deferral period",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 379,
+      "end": 382
+    },
+    "unit": {
+      "text": "months",
+      "start": 383,
+      "end": 389
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "single delivery subsidy granted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "760",
+      "start": 730,
+      "end": 733
+    },
+    "unit": {
+      "text": "PEN",
+      "start": 726,
+      "end": 729
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "equivalent value of single delivery subsidy granted",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 735,
+      "end": 740
+    },
+    "quantity": {
+      "text": "220",
+      "start": 745,
+      "end": 748
+    },
+    "unit": {
+      "text": "USD",
+      "start": 741,
+      "end": 744
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households receiving subsidy",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 million",
+      "start": 753,
+      "end": 762
+    },
+    "unit": {
+      "text": "vulnerable rural households",
+      "start": 763,
+      "end": 790
+    }
+  }
+]

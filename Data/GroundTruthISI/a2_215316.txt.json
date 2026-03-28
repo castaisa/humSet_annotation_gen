@@ -1,0 +1,54 @@
+[
+  {
+    "quantity": {
+      "text": "700,000",
+      "begin": 10,
+      "end": 17
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 0,
+      "end": 9
+    },
+    "unit": {
+      "text": "people",
+      "begin": 18,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 50,
+      "end": 58
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 28,
+      "end": 30
+    },
+    "unit": {
+      "text": "counties",
+      "begin": 31,
+      "end": 39
+    }
+  },
+  {
+    "quantity": {
+      "text": "90 percent",
+      "begin": 79,
+      "end": 89
+    },
+    "modifier": {
+      "text": "Nearly",
+      "begin": 72,
+      "end": 78
+    },
+    "unit": {
+      "text": "flood-affected population",
+      "begin": 97,
+      "end": 122
+    }
+  }
+]

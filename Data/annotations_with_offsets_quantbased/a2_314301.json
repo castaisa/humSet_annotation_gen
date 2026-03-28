@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 90%",
+      "start": 703,
+      "end": 711
+    },
+    "eventDescription": {
+      "text": "controlled at Nimule border crossing",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of all trade cargo",
+      "start": 712,
+      "end": 730
+    },
+    "modifier": {
+      "text": "over",
+      "start": 703,
+      "end": 707
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "9.3%",
+      "start": 970,
+      "end": 974
+    },
+    "eventDescription": {
+      "text": "declined year-on-year",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "formal imports from Uganda",
+      "start": 934,
+      "end": 960
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 995,
+      "end": 1000
+    },
+    "eventDescription": {
+      "text": "period of trade decline",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "month period",
+      "start": 1001,
+      "end": 1013
+    }
+  }
+]

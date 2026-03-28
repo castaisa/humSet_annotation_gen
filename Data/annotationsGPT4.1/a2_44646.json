@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "one-third",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with high or very high needs",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "32%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with high or very high needs"
+  },
+  {
+    "quantity": "88%",
+    "unit": "protection",
+    "eventType": "EventO",
+    "eventDescription": "protection needs"
+  },
+  {
+    "quantity": "77%",
+    "unit": "food security",
+    "eventType": "EventO",
+    "eventDescription": "food security needs"
+  },
+  {
+    "quantity": "17%",
+    "unit": "WASH",
+    "eventType": "EventO",
+    "eventDescription": "WASH needs"
+  },
+  {
+    "quantity": "18%",
+    "unit": "nutrition",
+    "eventType": "EventO",
+    "eventDescription": "nutrition needs"
+  },
+  {
+    "quantity": "64%",
+    "unit": "shelter/NFI",
+    "eventType": "EventO",
+    "eventDescription": "shelter/NFI needs"
+  },
+  {
+    "quantity": "5.8",
+    "unit": "WASH severity",
+    "eventType": "EventO",
+    "eventDescription": "WASH severity"
+  },
+  {
+    "quantity": "4.8",
+    "unit": "average WASH severity",
+    "eventType": "EventO",
+    "eventDescription": "average WASH severity in East Borno"
+  }
+]

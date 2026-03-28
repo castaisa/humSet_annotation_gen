@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "residing in camps",
+      "start": 98,
+      "end": 115
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 57,
+      "end": 70
+    },
+    "quantity": {
+      "text": "877,000",
+      "start": 71,
+      "end": 78
+    },
+    "unit": {
+      "text": "displaced Rohingya",
+      "start": 79,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "formally designated by the government",
+      "start": 288,
+      "end": 325
+    },
+    "quantity": {
+      "text": "thirty-four",
+      "start": 270,
+      "end": 281
+    },
+    "unit": {
+      "text": "camps",
+      "start": 110,
+      "end": 115
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "recognised by the government",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 355,
+      "end": 358
+    },
+    "unit": {
+      "text": "officially recognised camps",
+      "start": 359,
+      "end": 386
+    }
+  }
+]

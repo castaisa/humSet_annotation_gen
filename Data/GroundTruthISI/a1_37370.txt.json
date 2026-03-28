@@ -1,0 +1,102 @@
+[
+  {
+    "quantity": {
+      "text": "7.1 million",
+      "begin": 9,
+      "end": 20
+    },
+    "unit": {
+      "text": "people",
+      "begin": 21,
+      "end": 27
+    },
+    "eventDescription": {
+      "text": "need of humanitarian assistance",
+      "begin": 35,
+      "end": 66
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1.8 million",
+      "begin": 142,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "need of humanitarian assistance",
+      "begin": 35,
+      "end": 66
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "internally displaced people",
+      "begin": 154,
+      "end": 181
+    }
+  },
+  {
+    "quantity": {
+      "text": "800,000",
+      "begin": 196,
+      "end": 203
+    },
+    "eventDescription": {
+      "text": "need of humanitarian assistance",
+      "begin": 35,
+      "end": 66
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 186,
+      "end": 195
+    },
+    "unit": {
+      "text": "women, children and men living in inaccessible areas",
+      "begin": 204,
+      "end": 256
+    }
+  },
+  {
+    "quantity": {
+      "text": "27,000",
+      "begin": 604,
+      "end": 610
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 594,
+      "end": 603
+    },
+    "unit": {
+      "text": "people",
+      "begin": 611,
+      "end": 617
+    },
+    "eventDescription": {
+      "text": "have been killed",
+      "begin": 618,
+      "end": 634
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "thousands",
+      "begin": 657,
+      "end": 666
+    },
+    "unit": {
+      "text": "women and girls",
+      "begin": 670,
+      "end": 685
+    },
+    "eventDescription": {
+      "text": "have been abducted",
+      "begin": 686,
+      "end": 704
+    },
+    "eventType": "EventP"
+  }
+]

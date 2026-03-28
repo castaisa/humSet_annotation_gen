@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": {
+      "text": "31400",
+      "begin": 83,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "median total monthly household expenditure",
+      "begin": 37,
+      "end": 79
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "naira",
+      "begin": 89,
+      "end": 94
+    }
+  },
+  {
+    "quantity": {
+      "text": "24,217",
+      "begin": 209,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "monthly expenditures",
+      "begin": 188,
+      "end": 208
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "naira",
+      "begin": 216,
+      "end": 221
+    }
+  },
+  {
+    "quantity": {
+      "text": "31,817",
+      "begin": 319,
+      "end": 325
+    },
+    "eventDescription": {
+      "text": "monthly median expenditures",
+      "begin": 288,
+      "end": 315
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "naira",
+      "begin": 326,
+      "end": 331
+    }
+  },
+  {
+    "quantity": {
+      "text": "41,300",
+      "begin": 336,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "monthly median expenditures",
+      "begin": 288,
+      "end": 315
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "naira",
+      "begin": 343,
+      "end": 348
+    }
+  },
+  {
+    "quantity": {
+      "text": "70 percent",
+      "begin": 370,
+      "end": 380
+    },
+    "unit": {
+      "text": "median share",
+      "begin": 381,
+      "end": 393
+    }
+  }
+]

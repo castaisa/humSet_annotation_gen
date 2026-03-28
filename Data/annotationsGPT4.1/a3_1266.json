@@ -1,0 +1,40 @@
+[
+  {
+    "quantity": "707",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked"
+  },
+  {
+    "quantity": "138",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "disembarked"
+  },
+  {
+    "quantity": "85",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "disembarked"
+  },
+  {
+    "quantity": "143",
+    "unit": "refugees and asylumseekers",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "60",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "reported as missing",
+    "modifier": "between"
+  },
+  {
+    "quantity": "100",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "reported as missing",
+    "modifier": "between"
+  }
+]

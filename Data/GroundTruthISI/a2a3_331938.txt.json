@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "1 220",
+      "begin": 150,
+      "end": 155
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 156,
+      "end": 166
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 800",
+      "begin": 293,
+      "end": 298
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 299,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 100",
+      "begin": 380,
+      "end": 385
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 386,
+      "end": 396
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 400",
+      "begin": 564,
+      "end": 569
+    },
+    "unit": {
+      "text": "SYP per Kg",
+      "begin": 570,
+      "end": 580
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 161",
+      "begin": 722,
+      "end": 727
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 728,
+      "end": 738
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 800",
+      "begin": 823,
+      "end": 828
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 829,
+      "end": 839
+    }
+  }
+]

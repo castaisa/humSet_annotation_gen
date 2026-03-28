@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,772",
+      "start": 33,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "expected to travel to their new home in Bhashan Char",
+      "start": 53,
+      "end": 105
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "start": 39,
+      "end": 48
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,645",
+      "start": 126,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "already living there",
+      "start": 132,
+      "end": 152
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "start": 39,
+      "end": 48
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 1,000",
+      "start": 259,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "to be transferred from the camps in Cox's Bazar to Bhashan Char",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "start": 275,
+      "end": 284
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 259,
+      "end": 268
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,645",
+      "start": 394,
+      "end": 399
+    },
+    "eventDescription": {
+      "text": "relocated to the island",
+      "start": 435,
+      "end": 458
+    },
+    "unit": {
+      "text": "fellow citizens",
+      "start": 409,
+      "end": 424
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,642",
+      "start": 504,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "arrived in Bhashan Char on that day",
+      "start": 520,
+      "end": 555
+    },
+    "unit": {
+      "text": "Rohingyas",
+      "start": 510,
+      "end": 519
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 569,
+      "end": 574
+    },
+    "eventDescription": {
+      "text": "were born",
+      "start": 582,
+      "end": 591
+    },
+    "unit": {
+      "text": "babies",
+      "start": 575,
+      "end": 581
+    }
+  }
+]

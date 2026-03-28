@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "nine (9)",
+    "unit": "suspected SARI deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "seven (07)",
+    "unit": "suspected SARI deaths",
+    "eventType": "EventP",
+    "eventDescription": "investigated"
+  },
+  {
+    "quantity": "two (02)",
+    "unit": "suspected SARI deaths",
+    "eventType": "EventP",
+    "eventDescription": "investigation ongoing"
+  },
+  {
+    "quantity": "Three (03)",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "reclassified as COVID-19 probable cause"
+  },
+  {
+    "quantity": "49",
+    "unit": "suspected SARI deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "45",
+    "unit": "suspected SARI deaths",
+    "eventType": "EventP",
+    "eventDescription": "undergone investigation"
+  },
+  {
+    "quantity": "One (01)",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "confirmed for COVID-19"
+  },
+  {
+    "quantity": "two (2)",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "considered probable"
+  }
+]

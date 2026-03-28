@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 294,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "worked per day",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "hours",
+      "start": 296,
+      "end": 301
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,050",
+      "start": 354,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "paid per day",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "G$",
+      "start": 352,
+      "end": 354
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "paid per day",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "42,022",
+      "start": 1505,
+      "end": 1511
+    },
+    "eventDescription": {
+      "text": "minimum wage",
+      "start": 1487,
+      "end": 1499
+    },
+    "unit": {
+      "text": "G$",
+      "start": 1503,
+      "end": 1505
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "200",
+      "start": 1513,
+      "end": 1516
+    },
+    "eventDescription": {
+      "text": "minimum wage",
+      "start": 1487,
+      "end": 1499
+    },
+    "unit": {
+      "text": "US dollars",
+      "start": 1517,
+      "end": 1527
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "63,033",
+      "start": 1568,
+      "end": 1574
+    },
+    "eventDescription": {
+      "text": "cost of rent/month",
+      "start": 1537,
+      "end": 1555
+    },
+    "unit": {
+      "text": "G$",
+      "start": 1566,
+      "end": 1568
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "300",
+      "start": 1576,
+      "end": 1579
+    },
+    "eventDescription": {
+      "text": "cost of rent/month",
+      "start": 1537,
+      "end": 1555
+    },
+    "unit": {
+      "text": "US dollars",
+      "start": 1580,
+      "end": 1590
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3 out of 5",
+      "start": 1602,
+      "end": 1612
+    },
+    "eventDescription": {
+      "text": "self-employed or worked at a restaurant or in a mine",
+      "start": 1633,
+      "end": 1685
+    },
+    "unit": {
+      "text": "men",
+      "start": 1613,
+      "end": 1616
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 1593,
+      "end": 1601
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one month and half",
+      "start": 2165,
+      "end": 2183
+    },
+    "eventDescription": {
+      "text": "required to stay in the mines",
+      "start": null,
+      "end": null
+    }
+  }
+]

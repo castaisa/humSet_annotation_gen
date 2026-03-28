@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 400,000",
+      "start": 121,
+      "end": 134
+    },
+    "eventDescription": {
+      "text": "rendered food insecure",
+      "start": 146,
+      "end": 168
+    },
+    "unit": {
+      "text": "people",
+      "start": 135,
+      "end": 141
+    },
+    "modifier": {
+      "text": "about",
+      "start": 121,
+      "end": 126
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10",
+      "start": 646,
+      "end": 648
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": 687,
+      "end": 693
+    },
+    "unit": {
+      "text": "aid workers",
+      "start": 649,
+      "end": 660
+    }
+  }
+]

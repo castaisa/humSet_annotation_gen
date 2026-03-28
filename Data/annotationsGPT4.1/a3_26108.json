@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "30 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "population"
+  },
+  {
+    "quantity": "29",
+    "unit": "years old",
+    "eventType": "EventO",
+    "eventDescription": "age of Luis Eduardo Alvarez"
+  },
+  {
+    "quantity": "half",
+    "unit": "stock",
+    "eventType": "EventA",
+    "eventDescription": "amount of stock ordered"
+  }
+]

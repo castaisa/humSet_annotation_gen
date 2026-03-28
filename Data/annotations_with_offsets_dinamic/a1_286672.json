@@ -1,0 +1,223 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increased",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11 per cent",
+      "start": 108,
+      "end": 119
+    },
+    "unit": {
+      "text": "wheat flour price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increased",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20 per cent",
+      "start": 235,
+      "end": 246
+    },
+    "unit": {
+      "text": "pulses price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increased",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18 per cent",
+      "start": 248,
+      "end": 259
+    },
+    "unit": {
+      "text": "sugar price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increased",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32 per cent",
+      "start": 261,
+      "end": 272
+    },
+    "unit": {
+      "text": "cooking oil price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increased",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20 per cent",
+      "start": 278,
+      "end": 289
+    },
+    "unit": {
+      "text": "rice price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "purchasing power deteriorated",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 305,
+      "end": 309
+    },
+    "quantity": {
+      "text": "over 10 per cent",
+      "start": 459,
+      "end": 475
+    },
+    "unit": {
+      "text": "purchasing power of casual labourers",
+      "start": 377,
+      "end": 413
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "purchasing power deteriorated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14 per cent",
+      "start": 480,
+      "end": 491
+    },
+    "unit": {
+      "text": "purchasing power of pastoralists",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "household debt",
+      "start": 738,
+      "end": 752
+    },
+    "quantity": {
+      "text": "46,299",
+      "start": 879,
+      "end": 885
+    },
+    "unit": {
+      "text": "AFS average household debt",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "household debt",
+      "start": 857,
+      "end": 871
+    },
+    "quantity": {
+      "text": "US$602",
+      "start": 890,
+      "end": 896
+    },
+    "unit": {
+      "text": "average household debt",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "household debt",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9,813",
+      "start": 906,
+      "end": 911
+    },
+    "unit": {
+      "text": "AFS average household debt (previous)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "household debt",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "US$128",
+      "start": 916,
+      "end": 922
+    },
+    "unit": {
+      "text": "average household debt (previous)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households in debt for food",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "53 per cent",
+      "start": 1029,
+      "end": 1040
+    },
+    "unit": {
+      "text": "displaced households in debt (reason: food)",
+      "start": null,
+      "end": null
+    }
+  }
+]

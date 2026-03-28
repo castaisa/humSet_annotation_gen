@@ -1,0 +1,205 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "covered by the Badia region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "55 percent",
+      "start": 512,
+      "end": 522
+    },
+    "unit": {
+      "text": "of the country",
+      "start": 79,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cultivated in Al-Hasakeh governorate",
+      "start": 809,
+      "end": 845
+    },
+    "quantity": {
+      "text": "40 percent",
+      "start": 780,
+      "end": 790
+    },
+    "unit": {
+      "text": "of wheat grain",
+      "start": 791,
+      "end": 805
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cultivated in Ar-Raqqa, Aleppo, Hama and Homs governorates",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 932,
+      "end": 942
+    },
+    "unit": {
+      "text": "of wheat grain",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "wheat production in 2019",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2.2 million tonnes",
+      "start": 1392,
+      "end": 1410
+    },
+    "unit": {
+      "text": "wheat",
+      "start": 949,
+      "end": 954
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "estimated total utilization requirement",
+      "start": 1422,
+      "end": 1461
+    },
+    "quantity": {
+      "text": "4.5 million tonnes",
+      "start": 1465,
+      "end": 1483
+    },
+    "unit": {
+      "text": "wheat",
+      "start": 1138,
+      "end": 1143
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "for food use",
+      "start": 1516,
+      "end": 1528
+    },
+    "quantity": {
+      "text": "3.5 million tonnes",
+      "start": 1494,
+      "end": 1512
+    },
+    "unit": {
+      "text": "wheat",
+      "start": 1266,
+      "end": 1271
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "pre-crisis national average production level",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4.1 million tonnes",
+      "start": 1544,
+      "end": 1562
+    },
+    "unit": {
+      "text": "wheat",
+      "start": 1324,
+      "end": 1329
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "estimated wheat production in 2020",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2.8 million tonnes",
+      "start": 1690,
+      "end": 1708
+    },
+    "unit": {
+      "text": "wheat",
+      "start": 1371,
+      "end": 1376
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "produced in GoS controlled areas",
+      "start": 1745,
+      "end": 1777
+    },
+    "quantity": {
+      "text": "0.8 million tonnes",
+      "start": 1726,
+      "end": 1744
+    },
+    "unit": {
+      "text": "wheat",
+      "start": 1649,
+      "end": 1654
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "living in urban areas",
+      "start": 1897,
+      "end": 1918
+    },
+    "modifier": {
+      "text": "over",
+      "start": 1850,
+      "end": 1854
+    },
+    "quantity": {
+      "text": "over 50 percent",
+      "start": 1850,
+      "end": 1865
+    },
+    "unit": {
+      "text": "of Syrians",
+      "start": 1866,
+      "end": 1876
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported markets as their main source of food",
+      "start": 2020,
+      "end": 2065
+    },
+    "quantity": {
+      "text": "89 percent",
+      "start": 1998,
+      "end": 2008
+    },
+    "unit": {
+      "text": "of Syrians",
+      "start": 2009,
+      "end": 2019
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 232,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "sold",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "livestock",
+      "start": 221,
+      "end": 230
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 256,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "eaten",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "stored food",
+      "start": 243,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 308,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "got support from neighbours or relatives",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 331,
+      "end": 334
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10",
+      "start": 443,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "mentioned not being able to get support from neighbours or relatives",
+      "start": 450,
+      "end": 518
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 446,
+      "end": 449
+    }
+  }
+]

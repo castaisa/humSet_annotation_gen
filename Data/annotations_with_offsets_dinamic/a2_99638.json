@@ -1,0 +1,102 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "attacks on the Man-Made River Project",
+      "start": 25,
+      "end": 62
+    },
+    "quantity": {
+      "text": "two",
+      "start": 21,
+      "end": 24
+    },
+    "unit": {
+      "text": "attacks",
+      "start": 25,
+      "end": 32
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "fresh water provided",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "around",
+      "start": 88,
+      "end": 94
+    },
+    "quantity": {
+      "text": "around 60 per cent",
+      "start": 88,
+      "end": 106
+    },
+    "unit": {
+      "text": "of the country’s fresh water",
+      "start": 107,
+      "end": 135
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people without water",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 222,
+      "end": 231
+    },
+    "quantity": {
+      "text": "more than 2 million",
+      "start": 222,
+      "end": 241
+    },
+    "unit": {
+      "text": "people",
+      "start": 242,
+      "end": 248
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children without water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "600,000",
+      "start": 260,
+      "end": 267
+    },
+    "unit": {
+      "text": "children",
+      "start": 268,
+      "end": 276
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration people were without water",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 372,
+      "end": 381
+    },
+    "quantity": {
+      "text": "more than a week",
+      "start": 372,
+      "end": 388
+    }
+  }
+]

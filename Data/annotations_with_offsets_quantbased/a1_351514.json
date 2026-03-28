@@ -1,0 +1,71 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 1,470",
+      "start": 59,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": 92,
+      "end": 98
+    },
+    "unit": {
+      "text": "people",
+      "start": 75,
+      "end": 81
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 59,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 2,200",
+      "start": 113,
+      "end": 128
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "start": 129,
+      "end": 137
+    },
+    "unit": {
+      "text": "people",
+      "start": 75,
+      "end": 81
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 113,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 200",
+      "start": 380,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "kidnapped",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "schoolgirls",
+      "start": 394,
+      "end": 405
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 380,
+      "end": 389
+    }
+  }
+]

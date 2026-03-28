@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were in Katsina",
+      "start": 68,
+      "end": 83
+    },
+    "quantity": {
+      "text": "9,227",
+      "start": 53,
+      "end": 58
+    },
+    "unit": {
+      "text": "children",
+      "start": 59,
+      "end": 67
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were in Sokoto and Zamfara",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "37,555",
+      "start": 85,
+      "end": 91
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were in Borno, Adamawa and Yobe states",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "125, 289",
+      "start": 120,
+      "end": 128
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were supported with counselling on infant and young child feeding (IYCF) practices",
+      "start": 178,
+      "end": 260
+    },
+    "quantity": {
+      "text": "240,587",
+      "start": 164,
+      "end": 171
+    },
+    "unit": {
+      "text": "women",
+      "start": 172,
+      "end": 177
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were in the north-west",
+      "start": 286,
+      "end": 308
+    },
+    "quantity": {
+      "text": "127,316",
+      "start": 272,
+      "end": 279
+    },
+    "unit": {
+      "text": "women",
+      "start": 280,
+      "end": 285
+    }
+  }
+]

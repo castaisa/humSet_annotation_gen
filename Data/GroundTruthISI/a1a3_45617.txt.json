@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "88%",
+      "begin": 302,
+      "end": 305
+    },
+    "unit": {
+      "text": "households",
+      "begin": 309,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "were found to be in need of education support",
+      "begin": 320,
+      "end": 365
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7.3",
+      "begin": 454,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "average severity score was the highest of all sectors",
+      "begin": 371,
+      "end": 424
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "average severity score",
+      "begin": 371,
+      "end": 393
+    },
+    "modifier": {
+      "text": "out of",
+      "begin": 458,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 465,
+      "end": 467
+    },
+    "eventDescription": {
+      "text": "average severity score was the highest of all sectors",
+      "begin": 371,
+      "end": 424
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "average severity score",
+      "begin": 371,
+      "end": 393
+    },
+    "modifier": {
+      "text": "out of",
+      "begin": 458,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "86%",
+      "begin": 578,
+      "end": 581
+    },
+    "unit": {
+      "text": "households",
+      "begin": 585,
+      "end": 595
+    },
+    "eventDescription": {
+      "text": "reported not owning school supplies",
+      "begin": 596,
+      "end": 631
+    },
+    "eventType": "EventO"
+  }
+]

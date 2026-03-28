@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "4",
+    "unit": "new wells",
+    "eventType": "EventO",
+    "eventDescription": "placed in the Alouk area"
+  },
+  {
+    "quantity": "18",
+    "unit": "wells",
+    "eventType": "EventO",
+    "eventDescription": "operating"
+  },
+  {
+    "quantity": "200 thousand",
+    "unit": "barrels per day",
+    "eventType": "EventO",
+    "eventDescription": "producing"
+  },
+  {
+    "quantity": "300 thousand",
+    "unit": "barrels",
+    "eventType": "EventO",
+    "eventDescription": "produce"
+  },
+  {
+    "quantity": "about 80 thousand",
+    "unit": "cubic meters per day",
+    "eventType": "EventO",
+    "eventDescription": "combined abundance",
+    "modifier": "about"
+  }
+]

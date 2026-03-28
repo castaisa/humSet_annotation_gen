@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "47%",
+    "unit": "formal school respondents",
+    "eventType": "EventO",
+    "eventDescription": "agree their schools do not have a functional sickbay"
+  },
+  {
+    "quantity": "35%",
+    "unit": "formal school respondents",
+    "eventType": "EventO",
+    "eventDescription": "said their schools have a functional sickbay"
+  },
+  {
+    "quantity": "18%",
+    "unit": "formal school respondents",
+    "eventType": "EventO",
+    "eventDescription": "were uncertain about the presence of a functional sickbay"
+  },
+  {
+    "quantity": "43%",
+    "unit": "non-formal school respondents",
+    "eventType": "EventO",
+    "eventDescription": "agreed their schools have a sickbay"
+  },
+  {
+    "quantity": "41%",
+    "unit": "non-formal school respondents",
+    "eventType": "EventO",
+    "eventDescription": "disagree their schools have a sickbay"
+  },
+  {
+    "quantity": "16%",
+    "unit": "non-formal school respondents",
+    "eventType": "EventO",
+    "eventDescription": "are unsure about the presence of a sickbay"
+  },
+  {
+    "quantity": "45%",
+    "unit": "formal school stakeholders",
+    "eventType": "EventP",
+    "eventDescription": "more willing to take or allow wards to take the COVID-19 vaccine"
+  },
+  {
+    "quantity": "38%",
+    "unit": "non formal stakeholders",
+    "eventType": "EventP",
+    "eventDescription": "more willing to take or allow wards to take the COVID-19 vaccine"
+  },
+  {
+    "quantity": "40%",
+    "unit": "formal school group",
+    "eventType": "EventP",
+    "eventDescription": "not taking the vaccine"
+  },
+  {
+    "quantity": "46%",
+    "unit": "NFE group",
+    "eventType": "EventP",
+    "eventDescription": "not taking the vaccine"
+  },
+  {
+    "quantity": "15%",
+    "unit": "formal school group",
+    "eventType": "EventP",
+    "eventDescription": "have not made the decision yet"
+  },
+  {
+    "quantity": "16%",
+    "unit": "NFE group",
+    "eventType": "EventP",
+    "eventDescription": "have not made the decision yet"
+  }
+]

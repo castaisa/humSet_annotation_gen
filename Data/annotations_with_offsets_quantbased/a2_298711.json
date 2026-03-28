@@ -1,0 +1,236 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,698",
+      "start": 99,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "visited",
+      "start": 91,
+      "end": 98
+    },
+    "unit": {
+      "text": "households",
+      "start": 105,
+      "end": 115
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six",
+      "start": 117,
+      "end": 120
+    },
+    "eventDescription": {
+      "text": "visited",
+      "start": 91,
+      "end": 98
+    },
+    "unit": {
+      "text": "churches",
+      "start": 121,
+      "end": 129
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": 134,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "visited",
+      "start": 91,
+      "end": 98
+    },
+    "unit": {
+      "text": "Sangaya",
+      "start": 138,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8,661",
+      "start": 147,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "persons",
+      "start": 153,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,925",
+      "start": 162,
+      "end": 167
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "men",
+      "start": 168,
+      "end": 171
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,682",
+      "start": 173,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "women",
+      "start": 179,
+      "end": 184
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,957",
+      "start": 186,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 192,
+      "end": 196
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,097",
+      "start": 201,
+      "end": 206
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 207,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10",
+      "start": 533,
+      "end": 535
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 520,
+      "end": 529
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 536,
+      "end": 551
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10",
+      "start": 581,
+      "end": 583
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 520,
+      "end": 529
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 584,
+      "end": 599
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10",
+      "start": 616,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 520,
+      "end": 529
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 619,
+      "end": 634
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "5",
+      "start": 649,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 520,
+      "end": 529
+    },
+    "unit": {
+      "text": "jingles per day",
+      "start": 651,
+      "end": 666
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "5",
+      "start": 685,
+      "end": 686
+    },
+    "eventDescription": {
+      "text": "broadcast",
+      "start": 520,
+      "end": 529
+    },
+    "unit": {
+      "text": "TV jingles per day",
+      "start": 687,
+      "end": 705
+    }
+  }
+]

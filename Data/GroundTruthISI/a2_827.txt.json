@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": {
+      "text": "153",
+      "begin": 635,
+      "end": 638
+    },
+    "unit": {
+      "text": "humanitarian partners",
+      "begin": 639,
+      "end": 660
+    }
+  },
+  {
+    "quantity": {
+      "text": "109",
+      "begin": 692,
+      "end": 695
+    },
+    "unit": {
+      "text": "national NGOs",
+      "begin": 696,
+      "end": 709
+    }
+  },
+  {
+    "quantity": {
+      "text": "36",
+      "begin": 711,
+      "end": 713
+    },
+    "unit": {
+      "text": "international NGOs",
+      "begin": 714,
+      "end": 732
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 737,
+      "end": 742
+    },
+    "unit": {
+      "text": "UN agencies",
+      "begin": 743,
+      "end": 754
+    }
+  }
+]

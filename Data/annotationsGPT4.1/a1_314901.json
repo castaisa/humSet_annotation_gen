@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": "135,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "provided curative consultations"
+  },
+  {
+    "quantity": "over 70,000",
+    "unit": "children under the age of 5 years",
+    "eventType": "EventP",
+    "eventDescription": "provided curative consultations",
+    "modifier": "over"
+  },
+  {
+    "quantity": "72,850",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "provided curative consultations"
+  },
+  {
+    "quantity": "63,316",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "provided curative consultations"
+  },
+  {
+    "quantity": "37%",
+    "unit": "consultations for malaria",
+    "eventType": "EventP",
+    "eventDescription": "received consultations for malaria"
+  },
+  {
+    "quantity": "17%",
+    "unit": "consultations for pneumonia",
+    "eventType": "EventP",
+    "eventDescription": "received consultations for pneumonia"
+  },
+  {
+    "quantity": "14%",
+    "unit": "consultations for diarrhoea",
+    "eventType": "EventP",
+    "eventDescription": "received consultations for diarrhoea"
+  },
+  {
+    "quantity": "98,634",
+    "unit": "long lasting insecticide treated nets (LLITNs)",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "49,317",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "received LLITNs"
+  },
+  {
+    "quantity": "191",
+    "unit": "World Bank supported health facilities",
+    "eventType": "EventO",
+    "eventDescription": "received essential drugs and medical equipment"
+  },
+  {
+    "quantity": "25",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "counties in Upper Nile and Jonglei States"
+  }
+]

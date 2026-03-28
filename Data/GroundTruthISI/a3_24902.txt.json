@@ -1,0 +1,143 @@
+[
+  {
+    "quantity": {
+      "text": "3,877",
+      "begin": 146,
+      "end": 151
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "begin": 136,
+      "end": 145
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "houses",
+      "begin": 152,
+      "end": 158
+    }
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 166,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "begin": 136,
+      "end": 145
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "states",
+      "begin": 169,
+      "end": 175
+    }
+  },
+  {
+    "quantity": {
+      "text": "23 per cent",
+      "begin": 194,
+      "end": 205
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 188,
+      "end": 193
+    },
+    "unit": {
+      "text": "internally displaced persons",
+      "begin": 213,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "live in collective shelters",
+      "begin": 242,
+      "end": 269
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70,000",
+      "begin": 396,
+      "end": 402
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 391,
+      "end": 395
+    },
+    "unit": {
+      "text": "IDP households settled in camps",
+      "begin": 403,
+      "end": 434
+    },
+    "eventDescription": {
+      "text": "ive in either inadequate or self-made shelters and/or in sites prone to flooding.",
+      "begin": 436,
+      "end": 517
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "88 %",
+      "begin": 632,
+      "end": 636
+    },
+    "unit": {
+      "text": "internally displaced persons living outside of camp settings",
+      "begin": 522,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "along with materials to repair housing",
+      "begin": 639,
+      "end": 677
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one quarter",
+      "begin": 686,
+      "end": 697
+    },
+    "modifier": {
+      "text": "Nearly",
+      "begin": 679,
+      "end": 685
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 715,
+      "end": 726
+    },
+    "eventDescription": {
+      "text": "live in inadequate shelters",
+      "begin": 728,
+      "end": 755
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "270,000",
+      "begin": 707,
+      "end": 714
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 715,
+      "end": 726
+    },
+    "eventDescription": {
+      "text": "live in inadequate shelters",
+      "begin": 728,
+      "end": 755
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "quantity": {
+      "text": "9,900",
+      "begin": 307,
+      "end": 312
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 313,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 329,
+      "end": 337
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6,700",
+      "begin": 342,
+      "end": 347
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 313,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "conﬁrmed",
+      "begin": 348,
+      "end": 356
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "79",
+      "begin": 374,
+      "end": 376
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 386,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "have been fatal",
+      "begin": 392,
+      "end": 407
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,800",
+      "begin": 501,
+      "end": 506
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 491,
+      "end": 500
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 507,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 523,
+      "end": 531
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,700",
+      "begin": 536,
+      "end": 541
+    },
+    "unit": {
+      "text": "conﬁrmed",
+      "begin": 542,
+      "end": 550
+    }
+  },
+  {
+    "quantity": {
+      "text": "286",
+      "begin": 568,
+      "end": 571
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 507,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "have been fatal",
+      "begin": 581,
+      "end": 596
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "36,000",
+      "begin": 665,
+      "end": 671
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 672,
+      "end": 677
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 678,
+      "end": 686
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "414,000",
+      "begin": 729,
+      "end": 736
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 719,
+      "end": 728
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 737,
+      "end": 742
+    },
+    "eventDescription": {
+      "text": "cases",
+      "begin": 737,
+      "end": 742
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6,000",
+      "begin": 814,
+      "end": 819
+    },
+    "unit": {
+      "text": "tuberculosis cases",
+      "begin": 766,
+      "end": 784
+    },
+    "eventDescription": {
+      "text": "soared",
+      "begin": 794,
+      "end": 800
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13,000",
+      "begin": 831,
+      "end": 837
+    },
+    "unit": {
+      "text": "tuberculosis cases",
+      "begin": 766,
+      "end": 784
+    },
+    "eventDescription": {
+      "text": "soared",
+      "begin": 794,
+      "end": 800
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "forty",
+      "begin": 873,
+      "end": 878
+    },
+    "unit": {
+      "text": "years",
+      "begin": 879,
+      "end": 884
+    }
+  }
+]

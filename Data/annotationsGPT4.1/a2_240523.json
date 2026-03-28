@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "6.10 percent",
+    "unit": "growth rate",
+    "eventType": "EventO",
+    "eventDescription": "negative economic growth rate in the second quarter"
+  },
+  {
+    "quantity": "3.62 percent",
+    "unit": "growth rate",
+    "eventType": "EventO",
+    "eventDescription": "negative economic growth rate in the third quarter"
+  },
+  {
+    "quantity": "18.3 percent",
+    "unit": "food inflation rate",
+    "eventType": "EventO",
+    "eventDescription": "food inflation rate in November 2020"
+  },
+  {
+    "quantity": "three",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "highest food inflation level in about three years",
+    "modifier": "about"
+  },
+  {
+    "quantity": "461",
+    "unit": "NGN/US dollar",
+    "eventType": "EventO",
+    "eventDescription": "exchange rate in October 2020"
+  },
+  {
+    "quantity": "482",
+    "unit": "NGN/US dollar",
+    "eventType": "EventO",
+    "eventDescription": "exchange rate in November 2020"
+  }
+]

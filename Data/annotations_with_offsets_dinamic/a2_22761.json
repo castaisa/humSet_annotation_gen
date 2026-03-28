@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported damages on agriculture",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.5 billion",
+      "start": 325,
+      "end": 336
+    },
+    "unit": {
+      "text": "USD",
+      "start": 321,
+      "end": 324
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "provided livelihoods by agriculture",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 434,
+      "end": 439
+    },
+    "quantity": {
+      "text": "about 90 percent",
+      "start": 434,
+      "end": 450
+    },
+    "unit": {
+      "text": "of the rural population",
+      "start": 451,
+      "end": 474
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "staying with host families",
+      "start": 512,
+      "end": 538
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 481,
+      "end": 491
+    },
+    "unit": {
+      "text": "of displaced people",
+      "start": 492,
+      "end": 511
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting heightened protection risks when collecting firewood",
+      "start": 795,
+      "end": 857
+    },
+    "quantity": {
+      "text": "85 percent",
+      "start": 765,
+      "end": 775
+    },
+    "unit": {
+      "text": "of women and girls",
+      "start": 776,
+      "end": 794
+    }
+  }
+]

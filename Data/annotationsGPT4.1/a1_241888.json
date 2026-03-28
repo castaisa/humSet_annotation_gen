@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "3,900",
+    "unit": "USD/LBP",
+    "eventType": "EventO",
+    "eventDescription": "rate for subsidized items"
+  },
+  {
+    "quantity": "8,000",
+    "unit": "USD/LBP",
+    "eventType": "EventO",
+    "eventDescription": "monthly average informal exchange rate"
+  },
+  {
+    "quantity": "3,900",
+    "unit": "LBP/USD",
+    "eventType": "EventO",
+    "eventDescription": "rate applied by banks for withdrawals in LBP from dollar denominated accounts"
+  },
+  {
+    "quantity": "Eighty-four percent",
+    "unit": "retailers",
+    "eventType": "EventA",
+    "eventDescription": "able to place new orders for subsidized goods"
+  },
+  {
+    "quantity": "two percent",
+    "unit": "recipients",
+    "eventType": "EventA",
+    "eventDescription": "received the full ordered quantities of subsidized products"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "70+",
+    "unit": "migrants",
+    "eventType": "EventP",
+    "eventDescription": "engaged",
+    "modifier": null
+  },
+  {
+    "quantity": "three",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "travelled",
+    "modifier": "minimum"
+  },
+  {
+    "quantity": "20 to 40",
+    "unit": "ages",
+    "eventType": "EventP",
+    "eventDescription": "age range of migrants"
+  }
+]

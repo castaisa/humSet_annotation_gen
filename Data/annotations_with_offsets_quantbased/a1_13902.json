@@ -1,0 +1,156 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "169",
+      "start": 78,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "actively coordinated",
+      "start": 118,
+      "end": 138
+    },
+    "unit": {
+      "text": "partners",
+      "start": 109,
+      "end": 117
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22",
+      "start": 219,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "covered by humanitarian operations",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 222,
+      "end": 234
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 7.5 million",
+      "start": 264,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "assisted monthly with humanitarian assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 281,
+      "end": 287
+    },
+    "modifier": {
+      "text": "over",
+      "start": 264,
+      "end": 268
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7.5 million",
+      "start": 412,
+      "end": 423
+    },
+    "eventDescription": {
+      "text": "provided emergency food assistance",
+      "start": 374,
+      "end": 408
+    },
+    "unit": {
+      "text": "people",
+      "start": 424,
+      "end": 430
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than twice",
+      "start": 433,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "reached over a year ago",
+      "start": 470,
+      "end": 493
+    },
+    "unit": {
+      "text": "the number of people",
+      "start": 449,
+      "end": 469
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 433,
+      "end": 442
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6.3 million",
+      "start": 549,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "benefited from water, sanitation and hygiene services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 561,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "60 per cent",
+      "start": 572,
+      "end": 583
+    },
+    "eventDescription": {
+      "text": "increase in people benefiting from water, sanitation and hygiene services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "increase",
+      "start": 584,
+      "end": 592
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "50 per cent",
+      "start": 673,
+      "end": 684
+    },
+    "eventDescription": {
+      "text": "increase in people receiving health services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "increase",
+      "start": 584,
+      "end": 592
+    }
+  }
+]

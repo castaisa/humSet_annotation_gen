@@ -1,0 +1,93 @@
+[
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 209,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "piped system",
+      "begin": 195,
+      "end": 207
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10%",
+      "begin": 256,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "wells",
+      "begin": 249,
+      "end": 254
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "(3%",
+      "begin": 275,
+      "end": 278
+    },
+    "eventDescription": {
+      "text": "boreholes",
+      "begin": 265,
+      "end": 274
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15%",
+      "begin": 394,
+      "end": 397
+    },
+    "eventDescription": {
+      "text": "water kiosks",
+      "begin": 380,
+      "end": 392
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9%",
+      "begin": 409,
+      "end": 411
+    },
+    "eventDescription": {
+      "text": "vendors",
+      "begin": 400,
+      "end": 407
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 426,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "trucks",
+      "begin": 418,
+      "end": 424
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40%",
+      "begin": 510,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "wells and boreholes",
+      "begin": 464,
+      "end": 483
+    },
+    "eventType": "EventO"
+  }
+]

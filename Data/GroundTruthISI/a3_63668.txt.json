@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": {
+      "text": "300",
+      "begin": 449,
+      "end": 452
+    },
+    "unit": {
+      "text": "new cases of cholera",
+      "begin": 453,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 479,
+      "end": 487
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 529,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 544,
+      "end": 550
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 544,
+      "end": 550
+    }
+  },
+  {
+    "quantity": {
+      "text": "457",
+      "begin": 590,
+      "end": 593
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 581,
+      "end": 586
+    },
+    "eventDescription": {
+      "text": "cases",
+      "begin": 581,
+      "end": 586
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 599,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 604,
+      "end": 610
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 604,
+      "end": 610
+    }
+  },
+  {
+    "quantity": {
+      "text": "0.87%",
+      "begin": 616,
+      "end": 621
+    },
+    "unit": {
+      "text": "CFR",
+      "begin": 612,
+      "end": 615
+    }
+  }
+]

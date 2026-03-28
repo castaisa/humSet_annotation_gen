@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "206",
+    "unit": "families",
+    "eventType": "EventA",
+    "eventDescription": "received cash grants for rehabilitation/reconstruction"
+  },
+  {
+    "quantity": "227",
+    "unit": "families",
+    "eventType": "EventA",
+    "eventDescription": "received EESKs"
+  },
+  {
+    "quantity": "297",
+    "unit": "families",
+    "eventType": "EventA",
+    "eventDescription": "received NFIs"
+  },
+  {
+    "quantity": "70",
+    "unit": "IDP families",
+    "eventType": "EventA",
+    "eventDescription": "received NFIs"
+  }
+]

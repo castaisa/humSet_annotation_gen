@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "33 per cent",
+    "unit": "infants below six months",
+    "eventType": "EventP",
+    "eventDescription": "exclusively breastfed"
+  },
+  {
+    "quantity": "46 per cent",
+    "unit": "mothers",
+    "eventType": "EventP",
+    "eventDescription": "continue to breastfeed their infants up to 12 months"
+  },
+  {
+    "quantity": "15 per cent",
+    "unit": "mothers",
+    "eventType": "EventP",
+    "eventDescription": "continue to breastfeed the child up to 24 months"
+  },
+  {
+    "quantity": "15 per cent",
+    "unit": "children 6-23 months",
+    "eventType": "EventP",
+    "eventDescription": "receiving the minimum dietary diversity"
+  },
+  {
+    "quantity": "9 per cent",
+    "unit": "children 6-23 months",
+    "eventType": "EventP",
+    "eventDescription": "consuming the minimum acceptable diet"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "infants 0-23 months",
+    "eventType": "EventP",
+    "eventDescription": "bottle-fed"
+  }
+]

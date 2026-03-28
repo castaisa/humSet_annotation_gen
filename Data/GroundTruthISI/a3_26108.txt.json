@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "30 million",
+      "begin": 57,
+      "end": 67
+    },
+    "unit": {
+      "text": "predicting famine",
+      "begin": 20,
+      "end": 37
+    },
+    "eventDescription": {
+      "text": "predicting famine",
+      "begin": 20,
+      "end": 37
+    },
+    "eventType": "EventP"
+  }
+]

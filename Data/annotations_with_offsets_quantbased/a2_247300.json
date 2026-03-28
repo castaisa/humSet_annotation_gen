@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "161,807",
+      "start": 195,
+      "end": 202
+    },
+    "eventDescription": {
+      "text": "achieved GPA-5",
+      "start": 217,
+      "end": 231
+    },
+    "unit": {
+      "text": "students",
+      "start": 203,
+      "end": 211
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,367,377",
+      "start": 244,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "passed in the examinations",
+      "start": 269,
+      "end": 295
+    },
+    "unit": {
+      "text": "examinees",
+      "start": 254,
+      "end": 263
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "75%",
+      "start": 724,
+      "end": 727
+    },
+    "eventDescription": {
+      "text": "cumulated for GPA calculation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SSC",
+      "start": 737,
+      "end": 740
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25%",
+      "start": 745,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "cumulated for GPA calculation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "JSC or JDC results",
+      "start": 758,
+      "end": 776
+    }
+  }
+]

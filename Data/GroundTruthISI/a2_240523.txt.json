@@ -1,0 +1,94 @@
+[
+  {
+    "quantity": {
+      "text": "6.10 percent",
+      "begin": 115,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "negative growth rate",
+      "begin": 91,
+      "end": 111
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3.62 percent",
+      "begin": 154,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "negative growth rate",
+      "begin": 91,
+      "end": 111
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18.3 percent",
+      "begin": 493,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "food inflation rate",
+      "begin": 419,
+      "end": 438
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 551,
+      "end": 556
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 545,
+      "end": 550
+    },
+    "unit": {
+      "text": "years",
+      "begin": 557,
+      "end": 562
+    }
+  },
+  {
+    "quantity": {
+      "text": "461",
+      "begin": 617,
+      "end": 620
+    },
+    "eventDescription": {
+      "text": "Naira continued to depreciate",
+      "begin": 578,
+      "end": 607
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "US dollar",
+      "begin": 621,
+      "end": 630
+    }
+  },
+  {
+    "quantity": {
+      "text": "482",
+      "begin": 654,
+      "end": 657
+    },
+    "eventDescription": {
+      "text": "Naira continued to depreciate",
+      "begin": 578,
+      "end": 607
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "/US dollar",
+      "begin": 657,
+      "end": 667
+    }
+  }
+]

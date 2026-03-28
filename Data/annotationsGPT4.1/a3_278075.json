@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "118",
+    "unit": "health districts",
+    "eventType": "EventO",
+    "eventDescription": "affected by measles epidemic"
+  },
+  {
+    "quantity": "126",
+    "unit": "health districts",
+    "eventType": "EventO",
+    "eventDescription": "total health districts referenced"
+  },
+  {
+    "quantity": "28",
+    "unit": "health districts",
+    "eventType": "EventO",
+    "eventDescription": "in a declared measles epidemic"
+  },
+  {
+    "quantity": "7,635",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  }
+]

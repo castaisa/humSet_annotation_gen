@@ -1,0 +1,115 @@
+[
+  {
+    "quantity": {
+      "text": "63.5%",
+      "begin": 69,
+      "end": 74
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 56,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "marked fear i.e. ≥ 7 out of 10",
+      "begin": 80,
+      "end": 110
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "56%",
+      "begin": 115,
+      "end": 118
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 56,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "admitted to modifying their habits recently in fear of contracting the virus.",
+      "begin": 119,
+      "end": 196
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "77.77%",
+      "begin": 237,
+      "end": 243
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 56,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "agreed on cancellation of the lesser pilgrimage",
+      "begin": 244,
+      "end": 291
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23.64%",
+      "begin": 345,
+      "end": 351
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 56,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "admitted that greater pilgrimage (Hajj) should proceed despite the persistence of the ongoing pandemic.",
+      "begin": 352,
+      "end": 455
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 462,
+      "end": 465
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 456,
+      "end": 461
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 473,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "insisted on attending Friday congregational prayers despite social distancing",
+      "begin": 485,
+      "end": 562
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One in four",
+      "begin": 564,
+      "end": 575
+    },
+    "unit": {
+      "text": "people",
+      "begin": 576,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "harbored stigma towards a person who has recovered from the virus.",
+      "begin": 589,
+      "end": 655
+    },
+    "eventType": "EventO"
+  }
+]

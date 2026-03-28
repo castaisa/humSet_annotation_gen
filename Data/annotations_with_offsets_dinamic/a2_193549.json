@@ -1,0 +1,205 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 106,
+      "end": 134
+    },
+    "quantity": {
+      "text": "39 per cent",
+      "start": 138,
+      "end": 149
+    },
+    "unit": {
+      "text": "sites",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 213,
+      "end": 241
+    },
+    "quantity": {
+      "text": "34%",
+      "start": 159,
+      "end": 162
+    },
+    "unit": {
+      "text": "sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 299,
+      "end": 327
+    },
+    "modifier": {
+      "text": "about",
+      "start": 191,
+      "end": 196
+    },
+    "quantity": {
+      "text": "about half",
+      "start": 191,
+      "end": 201
+    },
+    "unit": {
+      "text": "people",
+      "start": 206,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 429,
+      "end": 457
+    },
+    "quantity": {
+      "text": "18 per cent",
+      "start": 245,
+      "end": 256
+    },
+    "unit": {
+      "text": "sites",
+      "start": 260,
+      "end": 265
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 275,
+      "end": 278
+    },
+    "unit": {
+      "text": "sites",
+      "start": 362,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "17 per cent",
+      "start": 331,
+      "end": 342
+    },
+    "unit": {
+      "text": "sites",
+      "start": 412,
+      "end": 417
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22%",
+      "start": 354,
+      "end": 357
+    },
+    "unit": {
+      "text": "sites",
+      "start": 504,
+      "end": 509
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "everyone had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14 per cent",
+      "start": 381,
+      "end": 392
+    },
+    "unit": {
+      "text": "sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "everyone had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15%",
+      "start": 404,
+      "end": 407
+    },
+    "unit": {
+      "text": "sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "nobody had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12 per cent",
+      "start": 473,
+      "end": 484
+    },
+    "unit": {
+      "text": "sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "nobody had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13%",
+      "start": 496,
+      "end": 499
+    },
+    "unit": {
+      "text": "sites",
+      "start": null,
+      "end": null
+    }
+  }
+]

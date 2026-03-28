@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "1.3 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "facing Crisis or worse (IPC Phase 3 or higher) outcomes"
+  },
+  {
+    "quantity": "2.1 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "expected to face Crisis or worse (IPC Phase 3 or higher) outcomes"
+  },
+  {
+    "quantity": "2.5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "are Stressed (IPC Phase 2)"
+  },
+  {
+    "quantity": "3.8 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "experiencing acute food insecurity"
+  },
+  {
+    "quantity": "849,900",
+    "unit": "children under the age of five years",
+    "eventType": "EventP",
+    "eventDescription": "face acute malnutrition"
+  },
+  {
+    "quantity": "143,400",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "likely to be severely malnourished"
+  }
+]

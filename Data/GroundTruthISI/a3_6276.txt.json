@@ -1,0 +1,61 @@
+[
+  {
+    "quantity": {
+      "text": "24 per cent",
+      "begin": 670,
+      "end": 681
+    },
+    "unit": {
+      "text": "people",
+      "begin": 685,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "severely food insecure",
+      "begin": 696,
+      "end": 718
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "60 per cent",
+      "begin": 732,
+      "end": 743
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 725,
+      "end": 731
+    },
+    "unit": {
+      "text": "internally displaced persons (IDPs)",
+      "begin": 751,
+      "end": 786
+    },
+    "eventDescription": {
+      "text": "struggling with food insecurity",
+      "begin": 798,
+      "end": 829
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 834,
+      "end": 845
+    },
+    "unit": {
+      "text": "internally displaced persons (IDPs)",
+      "begin": 751,
+      "end": 786
+    },
+    "eventDescription": {
+      "text": "need of agricultural support.",
+      "begin": 849,
+      "end": 878
+    },
+    "eventType": "EventA"
+  }
+]

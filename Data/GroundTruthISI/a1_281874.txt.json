@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "4,638",
+      "begin": 58,
+      "end": 63
+    },
+    "eventDescription": {
+      "text": "Survey in NW, SW, Littoral and West region, conducted",
+      "begin": 1,
+      "end": 54
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    }
+  },
+  {
+    "quantity": {
+      "text": "27%",
+      "begin": 186,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "Stigmatisation has also been identified as a risk, identified",
+      "begin": 121,
+      "end": 182
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "respondents",
+      "begin": 193,
+      "end": 204
+    }
+  },
+  {
+    "quantity": {
+      "text": "33%",
+      "begin": 443,
+      "end": 446
+    },
+    "unit": {
+      "text": "families and neighbours of those confirmed to have COVID-19",
+      "begin": 268,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "stigmatisation was reported more",
+      "begin": 399,
+      "end": 431
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "27%",
+      "begin": 456,
+      "end": 459
+    },
+    "unit": {
+      "text": "families and neighbours of those confirmed to have COVID-19",
+      "begin": 268,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "stigmatisation was reported more",
+      "begin": 399,
+      "end": 431
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "14%",
+      "begin": 479,
+      "end": 482
+    },
+    "unit": {
+      "text": "families and neighbours of those confirmed to have COVID-19",
+      "begin": 268,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "stigmatisation was reported more",
+      "begin": 399,
+      "end": 431
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 498,
+      "end": 501
+    },
+    "unit": {
+      "text": "families and neighbours of those confirmed to have COVID-19",
+      "begin": 268,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "stigmatisation was reported more",
+      "begin": 399,
+      "end": 431
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration of verification period",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "Over",
+      "start": 0,
+      "end": 4
+    },
+    "quantity": {
+      "text": "four",
+      "start": 9,
+      "end": 13
+    },
+    "unit": {
+      "text": "years",
+      "start": 14,
+      "end": 19
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "recruited and used",
+      "start": 250,
+      "end": 268
+    },
+    "quantity": {
+      "text": "274",
+      "start": 69,
+      "end": 72
+    },
+    "unit": {
+      "text": "children",
+      "start": 73,
+      "end": 81
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "subjected to sexual violence",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13",
+      "start": 138,
+      "end": 140
+    },
+    "unit": {
+      "text": "boys",
+      "start": 141,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "subjected to sexual violence",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 150,
+      "end": 151
+    },
+    "unit": {
+      "text": "girls",
+      "start": 152,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "attacks on schools and education personnel",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "467",
+      "start": 163,
+      "end": 166
+    },
+    "unit": {
+      "text": "attacks",
+      "start": 167,
+      "end": 174
+    }
+  }
+]

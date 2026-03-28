@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "23",
+    "unit": "Round",
+    "eventType": "EventO",
+    "eventDescription": "reference to assessment round"
+  },
+  {
+    "quantity": "24",
+    "unit": "Round",
+    "eventType": "EventO",
+    "eventDescription": "reference to assessment round"
+  },
+  {
+    "quantity": "4",
+    "unit": "Level",
+    "eventType": "EventO",
+    "eventDescription": "severity level"
+  },
+  {
+    "quantity": "50",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "classified as Level 4"
+  },
+  {
+    "quantity": "4",
+    "unit": "Level",
+    "eventType": "EventO",
+    "eventDescription": "classification level"
+  },
+  {
+    "quantity": "27",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "classified as Level 3"
+  },
+  {
+    "quantity": "3",
+    "unit": "Level",
+    "eventType": "EventO",
+    "eventDescription": "classification level"
+  },
+  {
+    "quantity": "one",
+    "unit": "county",
+    "eventType": "EventO",
+    "eventDescription": "classified as Level 2"
+  },
+  {
+    "quantity": "2",
+    "unit": "Level",
+    "eventType": "EventO",
+    "eventDescription": "classification level"
+  },
+  {
+    "quantity": "11",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reference to Great Bahr el Ghazal (GBeG)"
+  },
+  {
+    "quantity": "12",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "reference to Greater Upper Nile (GUN)"
+  },
+  {
+    "quantity": "4",
+    "unit": "Level",
+    "eventType": "EventO",
+    "eventDescription": "severity ranking"
+  },
+  {
+    "quantity": "3.8",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "average severity ranking for GBeG"
+  },
+  {
+    "quantity": "3.7",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "average severity ranking for GUN"
+  },
+  {
+    "quantity": "3.4",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "overall severity ranking for GE"
+  }
+]

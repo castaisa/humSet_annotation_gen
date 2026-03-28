@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "544",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "42",
+    "unit": "newborn",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "5674",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "ensured safe delivery"
+  },
+  {
+    "quantity": "197",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "supported by the mobile teams",
+    "modifier": "over"
+  },
+  {
+    "quantity": "14",
+    "unit": "municipalities",
+    "eventType": "EventO",
+    "eventDescription": "covered in Libya"
+  },
+  {
+    "quantity": "87",
+    "unit": "health providers and managers",
+    "eventType": "EventP",
+    "eventDescription": "trained on safe delivery and Minimum Initial Service Package"
+  },
+  {
+    "quantity": "2065",
+    "unit": "adolescent",
+    "eventType": "EventP",
+    "eventDescription": "reached by outreach activities on SRH and prevention of Drug abuse"
+  }
+]

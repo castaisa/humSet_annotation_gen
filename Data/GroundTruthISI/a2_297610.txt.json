@@ -1,0 +1,91 @@
+[
+  {
+    "quantity": {
+      "text": "65%",
+      "begin": 501,
+      "end": 504
+    },
+    "unit": {
+      "text": "caregivers",
+      "begin": 509,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "their children had no access to electricity for learning purposes",
+      "begin": 543,
+      "end": 608
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Sixty-five per cent",
+      "begin": 480,
+      "end": 499
+    },
+    "unit": {
+      "text": "caregivers",
+      "begin": 509,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "their children had no access to electricity for learning purposes",
+      "begin": 543,
+      "end": 608
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "82%",
+      "begin": 641,
+      "end": 644
+    },
+    "unit": {
+      "text": "children",
+      "begin": 648,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "had access to electricity",
+      "begin": 657,
+      "end": 682
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 696,
+      "end": 697
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 687,
+      "end": 695
+    },
+    "unit": {
+      "text": "hrs/day",
+      "begin": 698,
+      "end": 705
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 716,
+      "end": 719
+    },
+    "unit": {
+      "text": "caregiver KIs",
+      "begin": 720,
+      "end": 733
+    },
+    "eventDescription": {
+      "text": "they are facing electricity problems, limiting their children's ability to continue learning",
+      "begin": 770,
+      "end": 862
+    },
+    "eventType": "EventO"
+  }
+]

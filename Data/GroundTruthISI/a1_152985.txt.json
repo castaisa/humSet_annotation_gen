@@ -1,0 +1,97 @@
+[
+  {
+    "quantity": {
+      "text": "99",
+      "begin": 115,
+      "end": 117
+    },
+    "modifier": {
+      "text": "some",
+      "begin": 110,
+      "end": 114
+    },
+    "unit": {
+      "text": "COVID-19 cases",
+      "begin": 118,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 142,
+      "end": 150
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 303,
+      "end": 305
+    },
+    "unit": {
+      "text": "childbirths",
+      "begin": 306,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "childbirths",
+      "begin": 306,
+      "end": 317
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "105",
+      "begin": 369,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "childbirths",
+      "begin": 306,
+      "end": 317
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "childbirths",
+      "begin": 306,
+      "end": 317
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 432,
+      "end": 434
+    },
+    "unit": {
+      "text": "child births",
+      "begin": 435,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "child births",
+      "begin": 435,
+      "end": 447
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "89",
+      "begin": 472,
+      "end": 474
+    },
+    "eventDescription": {
+      "text": "child births",
+      "begin": 435,
+      "end": 447
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "child births",
+      "begin": 435,
+      "end": 447
+    }
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suffered from acute or moderate food insecurity",
+      "start": 43,
+      "end": 90
+    },
+    "modifier": {
+      "text": "About",
+      "start": 0,
+      "end": 5
+    },
+    "quantity": {
+      "text": "55 percent",
+      "start": 6,
+      "end": 16
+    },
+    "unit": {
+      "text": "of the migrant population",
+      "start": 17,
+      "end": 42
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "facing acute food insecurity",
+      "start": 135,
+      "end": 163
+    },
+    "quantity": {
+      "text": "20 percent",
+      "start": 174,
+      "end": 184
+    },
+    "unit": {
+      "text": "of the total migrant population in the department of La Guajira",
+      "start": 185,
+      "end": 248
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "facing acute food insecurity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "17 percent",
+      "start": 253,
+      "end": 263
+    },
+    "unit": {
+      "text": "of the total migrant population in the department of Cesar",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "decrease in income generation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "71-percent",
+      "start": 365,
+      "end": 375
+    },
+    "unit": {
+      "text": "decrease in the number of migrant households generating income from paid work",
+      "start": 376,
+      "end": 453
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported consuming three or more meals per day",
+      "start": 553,
+      "end": 599
+    },
+    "quantity": {
+      "text": "15 percent",
+      "start": 519,
+      "end": 529
+    },
+    "unit": {
+      "text": "of surveyed households",
+      "start": 530,
+      "end": 552
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported consuming three or more meals per day before the restrictions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "56 percent",
+      "start": 614,
+      "end": 624
+    },
+    "unit": {
+      "text": "of surveyed households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "went from 3 to 1 meal per day",
+      "start": 689,
+      "end": 718
+    },
+    "quantity": {
+      "text": "10 percent",
+      "start": 678,
+      "end": 688
+    },
+    "unit": {
+      "text": "of surveyed households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "went from 3 to 2 meals per day",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "68 percent",
+      "start": 723,
+      "end": 733
+    },
+    "unit": {
+      "text": "of surveyed households",
+      "start": null,
+      "end": null
+    }
+  }
+]

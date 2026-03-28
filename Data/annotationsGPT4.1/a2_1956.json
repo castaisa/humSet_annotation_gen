@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "489",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "40",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "fully damaged"
+  },
+  {
+    "quantity": "26",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "accommodating Internally Displaced Persons (IDPs)"
+  },
+  {
+    "quantity": "244,500",
+    "unit": "Libyan students",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "500",
+    "unit": "children per school",
+    "eventType": "EventP",
+    "eventDescription": "average number"
+  },
+  {
+    "quantity": "160,178",
+    "unit": "refugee and migrants",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "40 per cent",
+    "unit": "of the total refugee and migrants",
+    "eventType": "EventP",
+    "eventDescription": "children below 18"
+  },
+  {
+    "quantity": "three",
+    "unit": "times",
+    "eventType": "EventO",
+    "eventDescription": "school start delayed"
+  },
+  {
+    "quantity": "six",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "children experienced violence, conflict, displacement and insecurity"
+  }
+]

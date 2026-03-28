@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 181,
+      "end": 183
+    },
+    "eventDescription": {
+      "text": "government has decided not to vaccinate",
+      "begin": 109,
+      "end": 148
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "population under the age",
+      "begin": 153,
+      "end": 177
+    }
+  }
+]

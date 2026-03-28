@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 76,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "available in town",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "gas stations",
+      "start": 82,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "40 litres",
+      "start": 292,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "start": 308,
+      "end": 317
+    },
+    "unit": {
+      "text": "petrol",
+      "start": 154,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "half",
+      "start": 363,
+      "end": 367
+    },
+    "eventDescription": {
+      "text": "received",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of that",
+      "start": 368,
+      "end": 375
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "days",
+      "start": 555,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "waiting",
+      "start": 20,
+      "end": 27
+    },
+    "unit": {
+      "text": "line",
+      "start": 546,
+      "end": 550
+    }
+  }
+]

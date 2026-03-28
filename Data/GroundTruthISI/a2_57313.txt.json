@@ -1,0 +1,103 @@
+[
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 203,
+      "end": 206
+    },
+    "unit": {
+      "text": "sites",
+      "begin": 207,
+      "end": 212
+    }
+  },
+  {
+    "quantity": {
+      "text": "70+",
+      "begin": 391,
+      "end": 394
+    },
+    "unit": {
+      "text": "migrants",
+      "begin": 395,
+      "end": 403
+    },
+    "eventDescription": {
+      "text": "had travelled",
+      "begin": 412,
+      "end": 425
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 443,
+      "end": 448
+    },
+    "modifier": {
+      "text": "minimum of",
+      "begin": 432,
+      "end": 442
+    },
+    "unit": {
+      "text": "days",
+      "begin": 449,
+      "end": 453
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 529,
+      "end": 531
+    },
+    "unit": {
+      "text": "ages",
+      "begin": 521,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "most having children left in Venezuela often located just across the border that relied on the income they were generating",
+      "begin": 544,
+      "end": 666
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20 to 40",
+      "begin": 529,
+      "end": 537
+    },
+    "unit": {
+      "text": "ages",
+      "begin": 521,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "most having children left in Venezuela often located just across the border that relied on the income they were generating",
+      "begin": 544,
+      "end": 666
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 535,
+      "end": 537
+    },
+    "unit": {
+      "text": "ages",
+      "begin": 521,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "most having children left in Venezuela often located just across the border that relied on the income they were generating",
+      "begin": 544,
+      "end": 666
+    },
+    "eventType": "EventO"
+  }
+]

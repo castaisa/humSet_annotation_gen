@@ -1,0 +1,98 @@
+[
+  {
+    "quantity": "0.2%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "average price increase"
+  },
+  {
+    "quantity": "21%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price higher than previous period"
+  },
+  {
+    "quantity": "6%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Takhar"
+  },
+  {
+    "quantity": "3%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Bamyan"
+  },
+  {
+    "quantity": "2%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Zabul"
+  },
+  {
+    "quantity": "1%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Badakhshan, Nangarhar and Urozgan"
+  },
+  {
+    "quantity": "3%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price decrease in Kandahar"
+  },
+  {
+    "quantity": "2%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price decrease in Hilmand"
+  },
+  {
+    "quantity": "1%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price decrease in Nimroz"
+  },
+  {
+    "quantity": "122",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Hilmand"
+  },
+  {
+    "quantity": "114",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Nimroz"
+  },
+  {
+    "quantity": "106",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Kandahar"
+  },
+  {
+    "quantity": "105",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price in Bamyan"
+  },
+  {
+    "quantity": "68",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price in Takhar"
+  },
+  {
+    "quantity": "72",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price in Sari Pul"
+  },
+  {
+    "quantity": "72",
+    "unit": "AFN per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price in Kunar"
+  }
+]

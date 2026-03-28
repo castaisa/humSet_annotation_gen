@@ -1,0 +1,78 @@
+[
+  {
+    "quantity": {
+      "text": "1,100",
+      "begin": 10,
+      "end": 15
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 0,
+      "end": 9
+    },
+    "unit": {
+      "text": "children",
+      "begin": 16,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "killed or maimed",
+      "begin": 35,
+      "end": 51
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "millions",
+      "begin": 56,
+      "end": 64
+    },
+    "unit": {
+      "text": "children",
+      "begin": 16,
+      "end": 24
+    },
+    "eventDescription": {
+      "text": "threatened by growing food insecurity, poor water and sanitation and the spread of preventable diseases.",
+      "begin": 74,
+      "end": 178
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "400,000",
+      "begin": 463,
+      "end": 470
+    },
+    "unit": {
+      "text": "children under 5 years",
+      "begin": 471,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "will suffer from severe acute malnutrition (SAM)",
+      "begin": 494,
+      "end": 542
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 486,
+      "end": 487
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 480,
+      "end": 485
+    },
+    "unit": {
+      "text": "years",
+      "begin": 488,
+      "end": 493
+    }
+  }
+]

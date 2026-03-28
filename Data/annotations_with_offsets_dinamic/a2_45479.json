@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of food and agriculture assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "82%",
+      "start": 196,
+      "end": 199
+    },
+    "unit": {
+      "text": "households",
+      "start": 65,
+      "end": 75
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of food and agriculture assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "81%",
+      "start": 204,
+      "end": 207
+    },
+    "unit": {
+      "text": "households",
+      "start": 170,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of food and agriculture assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "66%",
+      "start": 212,
+      "end": 215
+    },
+    "unit": {
+      "text": "households",
+      "start": 346,
+      "end": 356
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "having poor or borderline FCS",
+      "start": 544,
+      "end": 573
+    },
+    "quantity": {
+      "text": "83%",
+      "start": 575,
+      "end": 578
+    },
+    "unit": {
+      "text": "households",
+      "start": 533,
+      "end": 543
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "having poor or borderline FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "58%",
+      "start": 631,
+      "end": 634
+    },
+    "unit": {
+      "text": "households",
+      "start": 619,
+      "end": 629
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "having poor or borderline FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 639,
+      "end": 642
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  }
+]

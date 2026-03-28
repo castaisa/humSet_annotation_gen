@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "67",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "provided emergency services"
+  },
+  {
+    "quantity": "84 per cent",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "provided emergency services"
+  },
+  {
+    "quantity": "24 per cent",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "only offer emergency services in the non-emergency outpatient service area"
+  },
+  {
+    "quantity": "47 per cent",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "overall readiness on emergency services"
+  },
+  {
+    "quantity": "18 per cent",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "reported lack of training"
+  },
+  {
+    "quantity": "21 per cent",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "reported lack of guidelines"
+  },
+  {
+    "quantity": "40 per cent",
+    "unit": "hospitals",
+    "eventType": "EventO",
+    "eventDescription": "reported lack of diagnostics"
+  },
+  {
+    "quantity": "almost 20 per cent",
+    "unit": "pregnancies among women of reproductive age (15-49)",
+    "eventType": "EventP",
+    "eventDescription": "ended up with miscarriage or stillbirth",
+    "modifier": "almost"
+  },
+  {
+    "quantity": "6 per cent",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "are providing specialised services"
+  },
+  {
+    "quantity": "75 per cent",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "are hospitals"
+  }
+]

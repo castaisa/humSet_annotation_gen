@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced households from Al Hudaydah",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "65 per cent",
+      "start": 94,
+      "end": 105
+    },
+    "unit": {
+      "text": "households",
+      "start": 137,
+      "end": 147
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced households in the governorate",
+      "start": 127,
+      "end": 166
+    },
+    "quantity": {
+      "text": "729",
+      "start": 123,
+      "end": 126
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced households from Taizz",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26 per cent",
+      "start": 193,
+      "end": 204
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "assessed population with access to drinking water and personal hygiene facilities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "46 per cent",
+      "start": 260,
+      "end": 271
+    },
+    "unit": {
+      "text": "population",
+      "start": 288,
+      "end": 298
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "districts assessed in Shabwah governorate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 397,
+      "end": 401
+    },
+    "unit": {
+      "text": "districts",
+      "start": 402,
+      "end": 411
+    }
+  }
+]

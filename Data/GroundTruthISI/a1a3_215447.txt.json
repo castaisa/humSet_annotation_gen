@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": {
+      "text": "215-565 percent",
+      "begin": 223,
+      "end": 238
+    },
+    "unit": {
+      "text": "cost of a malwa (3.5 kg) of sorghum",
+      "begin": 107,
+      "end": 142
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,680",
+      "begin": 147,
+      "end": 152
+    },
+    "unit": {
+      "text": "SSP",
+      "begin": 153,
+      "end": 156
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,440",
+      "begin": 165,
+      "end": 170
+    },
+    "unit": {
+      "text": "SSP",
+      "begin": 171,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "900",
+      "begin": 189,
+      "end": 192
+    },
+    "unit": {
+      "text": "SSP",
+      "begin": 193,
+      "end": 196
+    }
+  },
+  {
+    "quantity": {
+      "text": "720",
+      "begin": 341,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "Prices increased",
+      "begin": 268,
+      "end": 284
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "nearly",
+      "begin": 334,
+      "end": 340
+    },
+    "unit": {
+      "text": "SSP",
+      "begin": 345,
+      "end": 348
+    }
+  },
+  {
+    "quantity": {
+      "text": "125 percent",
+      "begin": 352,
+      "end": 363
+    },
+    "eventDescription": {
+      "text": "Prices increased",
+      "begin": 268,
+      "end": 284
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "385 to 500",
+      "begin": 432,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "depreciation",
+      "begin": 403,
+      "end": 415
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SSP/USD",
+      "begin": 443,
+      "end": 450
+    }
+  }
+]

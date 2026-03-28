@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "assisted through the rapid response mechanism (RRM)",
+      "start": 625,
+      "end": 676
+    },
+    "quantity": {
+      "text": "30,647",
+      "start": 553,
+      "end": 559
+    },
+    "unit": {
+      "text": "displaced households (HH)",
+      "start": 560,
+      "end": 585
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "registered",
+      "start": 706,
+      "end": 716
+    },
+    "quantity": {
+      "text": "39,995",
+      "start": 695,
+      "end": 701
+    },
+    "unit": {
+      "text": "HHs",
+      "start": 702,
+      "end": 705
+    }
+  }
+]

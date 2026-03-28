@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "5",
+    "unit": "severity score",
+    "eventType": "EventO",
+    "eventDescription": "averaging severity score"
+  },
+  {
+    "quantity": "93%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "in need of food aid"
+  },
+  {
+    "quantity": "92%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "in need of food aid"
+  },
+  {
+    "quantity": "82%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "in need of food aid"
+  }
+]

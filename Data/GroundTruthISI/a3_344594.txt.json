@@ -1,0 +1,233 @@
+[
+  {
+    "quantity": {
+      "text": "a third",
+      "begin": 10,
+      "end": 17
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 0,
+      "end": 9
+    },
+    "unit": {
+      "text": "population",
+      "begin": 25,
+      "end": 35
+    },
+    "eventDescription": {
+      "text": "lives in a single room",
+      "begin": 36,
+      "end": 58
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36%",
+      "begin": 60,
+      "end": 63
+    },
+    "unit": {
+      "text": "population",
+      "begin": 25,
+      "end": 35
+    },
+    "eventDescription": {
+      "text": "lives in a single room",
+      "begin": 36,
+      "end": 58
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 69,
+      "end": 73
+    },
+    "unit": {
+      "text": "popu- lation",
+      "begin": 81,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "shares a room with one or two other people",
+      "begin": 94,
+      "end": 136
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "51%",
+      "begin": 138,
+      "end": 141
+    },
+    "unit": {
+      "text": "popu- lation",
+      "begin": 81,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "shares a room with one or two other people",
+      "begin": 94,
+      "end": 136
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 243,
+      "end": 246
+    },
+    "unit": {
+      "text": "popu- lation",
+      "begin": 81,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "sharing a room with three or more people",
+      "begin": 201,
+      "end": 241
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "a third",
+      "begin": 327,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "Overcrowding among the displaced population in Honduras is worrying, reaching",
+      "begin": 249,
+      "end": 326
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "population",
+      "begin": 342,
+      "end": 352
+    }
+  },
+  {
+    "quantity": {
+      "text": "34%",
+      "begin": 354,
+      "end": 357
+    },
+    "eventDescription": {
+      "text": "Overcrowding among the displaced population in Honduras is worrying, reaching",
+      "begin": 249,
+      "end": 326
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "population",
+      "begin": 342,
+      "end": 352
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 424,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "Overcrowding among the displaced population in Honduras is worrying, reaching",
+      "begin": 249,
+      "end": 326
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "exceeds",
+      "begin": 416,
+      "end": 423
+    },
+    "unit": {
+      "text": "popu- lation",
+      "begin": 436,
+      "end": 448
+    }
+  },
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 450,
+      "end": 453
+    },
+    "eventDescription": {
+      "text": "Overcrowding among the displaced population in Honduras is worrying, reaching",
+      "begin": 249,
+      "end": 326
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "refugees or asylum-seekers",
+      "begin": 370,
+      "end": 396
+    }
+  },
+  {
+    "quantity": {
+      "text": "a ﬁfth",
+      "begin": 510,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "Overcrowding among the displaced population in Honduras is worrying, reaching",
+      "begin": 249,
+      "end": 326
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "exceed",
+      "begin": 503,
+      "end": 509
+    },
+    "unit": {
+      "text": "population",
+      "begin": 524,
+      "end": 534
+    }
+  },
+  {
+    "quantity": {
+      "text": "22%",
+      "begin": 536,
+      "end": 539
+    },
+    "eventDescription": {
+      "text": "Overcrowding among the displaced population in Honduras is worrying, reaching",
+      "begin": 249,
+      "end": 326
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "migrants",
+      "begin": 473,
+      "end": 481
+    }
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 607,
+      "end": 610
+    },
+    "eventDescription": {
+      "text": "Overcrowding among the displaced population in Honduras is worrying, reaching",
+      "begin": 249,
+      "end": 326
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "refugees or asylum-seekers",
+      "begin": 571,
+      "end": 597
+    }
+  }
+]

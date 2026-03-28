@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "prioritized for decongestion strategy",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 155,
+      "end": 160
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 161,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "prioritized for decongestion strategy",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "49",
+      "start": 170,
+      "end": 172
+    },
+    "unit": {
+      "text": "camps",
+      "start": 173,
+      "end": 178
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of urgent relocation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "83,000",
+      "start": 184,
+      "end": 190
+    },
+    "unit": {
+      "text": "households",
+      "start": 191,
+      "end": 201
+    }
+  }
+]

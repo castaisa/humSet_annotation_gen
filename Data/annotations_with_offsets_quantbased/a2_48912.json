@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "115",
+      "start": 77,
+      "end": 80
+    },
+    "eventDescription": {
+      "text": "screened",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 81,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6-59",
+      "start": 90,
+      "end": 94
+    },
+    "eventDescription": {
+      "text": "age range of children screened",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "months of age",
+      "start": 95,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "eight",
+      "start": 245,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "at risk of acute malnutrition",
+      "start": 290,
+      "end": 319
+    },
+    "unit": {
+      "text": "children",
+      "start": 251,
+      "end": 259
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7 percent",
+      "start": 261,
+      "end": 270
+    },
+    "eventDescription": {
+      "text": "at risk of acute malnutrition",
+      "start": 290,
+      "end": 319
+    },
+    "unit": {
+      "text": "of the total",
+      "start": 271,
+      "end": 283
+    }
+  }
+]

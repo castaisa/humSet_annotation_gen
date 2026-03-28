@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mentioned that renting costs had increased in the six months prior to the assessment",
+      "start": 571,
+      "end": 655
+    },
+    "quantity": {
+      "text": "29",
+      "start": 544,
+      "end": 546
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 254,
+      "end": 268
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mentioned that renting costs had increased in the six months prior to the assessment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "31.0%",
+      "start": 547,
+      "end": 552
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 556,
+      "end": 570
+    }
+  }
+]

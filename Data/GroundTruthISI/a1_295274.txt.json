@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "101",
+      "begin": 78,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "UNHCR assisted the return",
+      "begin": 18,
+      "end": 43
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Afghan refugees",
+      "begin": 51,
+      "end": 66
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 97,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "UNHCR assisted the return",
+      "begin": 18,
+      "end": 43
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Afghan refugees",
+      "begin": 51,
+      "end": 66
+    }
+  },
+  {
+    "quantity": {
+      "text": "121",
+      "begin": 47,
+      "end": 50
+    },
+    "unit": {
+      "text": "Afghan refugees",
+      "begin": 51,
+      "end": 66
+    }
+  },
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 242,
+      "end": 245
+    },
+    "eventDescription": {
+      "text": "Refugee returnees receive, upon arrival, a multi-purpose cash grant",
+      "begin": 158,
+      "end": 225
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "per person",
+      "begin": 246,
+      "end": 256
+    }
+  }
+]

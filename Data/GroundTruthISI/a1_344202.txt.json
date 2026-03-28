@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "411,125",
+      "begin": 124,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "value of the regional Survival Minimum Expenditure Basket (SMEB) dropped",
+      "begin": 39,
+      "end": 111
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 132,
+      "end": 135
+    }
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 139,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 142,
+      "end": 150
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "price",
+      "begin": 270,
+      "end": 275
+    }
+  },
+  {
+    "quantity": {
+      "text": "74%",
+      "begin": 181,
+      "end": 184
+    },
+    "eventDescription": {
+      "text": "long-term increase",
+      "begin": 185,
+      "end": 203
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "price",
+      "begin": 270,
+      "end": 275
+    }
+  },
+  {
+    "quantity": {
+      "text": "113",
+      "begin": 397,
+      "end": 400
+    },
+    "eventDescription": {
+      "text": "SMEB in United States Dollar (USD) increased",
+      "begin": 338,
+      "end": 382
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 401,
+      "end": 404
+    }
+  },
+  {
+    "quantity": {
+      "text": "116",
+      "begin": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "SMEB in United States Dollar (USD) increased",
+      "begin": 338,
+      "end": 382
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 421,
+      "end": 424
+    }
+  },
+  {
+    "quantity": {
+      "text": "113",
+      "begin": 547,
+      "end": 550
+    },
+    "eventDescription": {
+      "text": "average SMEB value in USD has remained",
+      "begin": 498,
+      "end": 536
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 559,
+      "end": 562
+    }
+  },
+  {
+    "quantity": {
+      "text": "116",
+      "begin": 555,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "average SMEB value in USD has remained",
+      "begin": 498,
+      "end": 536
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 559,
+      "end": 562
+    }
+  }
+]

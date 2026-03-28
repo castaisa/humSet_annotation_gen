@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13%",
+      "start": 261,
+      "end": 264
+    },
+    "unit": {
+      "text": "vegetable oil price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11%",
+      "start": 269,
+      "end": 272
+    },
+    "unit": {
+      "text": "ghee price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15%",
+      "start": 595,
+      "end": 598
+    },
+    "unit": {
+      "text": "liquid petroleum gas price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 643,
+      "end": 645
+    },
+    "unit": {
+      "text": "manually refined kerosene price increase",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported as unavailable",
+      "start": 737,
+      "end": 760
+    },
+    "quantity": {
+      "text": "54%",
+      "start": 764,
+      "end": 767
+    },
+    "unit": {
+      "text": "fuel vendors reporting kerosene unavailable",
+      "start": null,
+      "end": null
+    }
+  }
+]

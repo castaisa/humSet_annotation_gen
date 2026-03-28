@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 508,
+      "end": 511
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 442,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "paid for health care decreased",
+      "begin": 472,
+      "end": 502
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "57% to 41%",
+      "begin": 508,
+      "end": 518
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 442,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "paid for health care decreased",
+      "begin": 472,
+      "end": 502
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 515,
+      "end": 518
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 442,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "paid for health care decreased",
+      "begin": 472,
+      "end": 502
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "66%",
+      "begin": 613,
+      "end": 616
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 528,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "debt to cover health expenses decreased",
+      "begin": 568,
+      "end": 607
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "66% to 35%",
+      "begin": 613,
+      "end": 623
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 528,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "debt to cover health expenses decreased",
+      "begin": 568,
+      "end": 607
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 620,
+      "end": 623
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 528,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "debt to cover health expenses decreased",
+      "begin": 568,
+      "end": 607
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "27%",
+      "begin": 726,
+      "end": 729
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 635,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "sought lower quality/cheaper treatment increased",
+      "begin": 665,
+      "end": 713
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12% to 27%",
+      "begin": 719,
+      "end": 729
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 635,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "sought lower quality/cheaper treatment increased",
+      "begin": 665,
+      "end": 713
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12%",
+      "begin": 719,
+      "end": 722
+    },
+    "unit": {
+      "text": "proportion of households",
+      "begin": 635,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "sought lower quality/cheaper treatment increased",
+      "begin": 665,
+      "end": 713
+    },
+    "eventType": "EventO"
+  }
+]

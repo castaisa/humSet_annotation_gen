@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lost",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 245,
+      "end": 250
+    },
+    "quantity": {
+      "text": "about 2,300",
+      "start": 245,
+      "end": 256
+    },
+    "unit": {
+      "text": "square kilometers of agricultural lands",
+      "start": 257,
+      "end": 296
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "remained under the control of the opposition factions",
+      "start": 333,
+      "end": 386
+    },
+    "quantity": {
+      "text": "1,500",
+      "start": 309,
+      "end": 314
+    },
+    "unit": {
+      "text": "square kilometers",
+      "start": 315,
+      "end": 332
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lost",
+      "start": 433,
+      "end": 437
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 438,
+      "end": 448
+    },
+    "unit": {
+      "text": "of their agricultural lands",
+      "start": 449,
+      "end": 476
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "area the Syrian regime made progress in",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "around",
+      "start": 716,
+      "end": 722
+    },
+    "quantity": {
+      "text": "around 3,140",
+      "start": 716,
+      "end": 728
+    },
+    "unit": {
+      "text": "km2",
+      "start": 729,
+      "end": 732
+    }
+  }
+]

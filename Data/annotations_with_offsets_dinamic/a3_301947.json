@@ -1,0 +1,197 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in urgent need of nutrition interventions",
+      "start": 41,
+      "end": 82
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 10,
+      "end": 23
+    },
+    "quantity": {
+      "text": "287,600",
+      "start": 24,
+      "end": 31
+    },
+    "unit": {
+      "text": "refugees",
+      "start": 32,
+      "end": 40
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in urgent need of nutrition interventions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "140,374",
+      "start": 100,
+      "end": 107
+    },
+    "unit": {
+      "text": "children below five years old",
+      "start": 108,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in urgent need of nutrition interventions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "91,702",
+      "start": 139,
+      "end": 145
+    },
+    "unit": {
+      "text": "pregnant and lactating women",
+      "start": 146,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in urgent need of nutrition interventions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32,605",
+      "start": 176,
+      "end": 182
+    },
+    "unit": {
+      "text": "infants and young children",
+      "start": 183,
+      "end": 209
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in urgent need of nutrition interventions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22,919",
+      "start": 215,
+      "end": 221
+    },
+    "unit": {
+      "text": "others",
+      "start": 222,
+      "end": 228
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM rate indicated by SENS survey",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13 per cent",
+      "start": 321,
+      "end": 332
+    },
+    "unit": {
+      "text": "GAM rate in the Shagarab camps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM rate indicated by SENS survey",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 360,
+      "end": 364
+    },
+    "quantity": {
+      "text": "over 11 per cent",
+      "start": 360,
+      "end": 376
+    },
+    "unit": {
+      "text": "GAM rate for all other camps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "stunting prevalence is critical",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "53 per cent",
+      "start": 451,
+      "end": 462
+    },
+    "unit": {
+      "text": "stunting prevalence in Shagarab camps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "stunting prevalence is critical",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45 per cent",
+      "start": 510,
+      "end": 521
+    },
+    "unit": {
+      "text": "stunting prevalence for Abuda, Um Gargour and Fau 5",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "high rates of anaemia",
+      "start": 553,
+      "end": 574
+    },
+    "modifier": {
+      "text": "over",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": ">40 per cent",
+      "start": 576,
+      "end": 588
+    },
+    "unit": {
+      "text": "anaemia rate among children under five years and women aged 15-49 years",
+      "start": null,
+      "end": null
+    }
+  }
+]

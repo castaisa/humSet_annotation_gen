@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "zero",
+    "unit": "BDT per month",
+    "eventType": "EventA",
+    "eventDescription": "rent paid by refugees"
+  },
+  {
+    "quantity": "500-800",
+    "unit": "BDT per month",
+    "eventType": "EventA",
+    "eventDescription": "rent paid by refugees"
+  }
+]

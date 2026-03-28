@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6,143",
+      "start": 304,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "recruited by armed forces and armed groups",
+      "start": 324,
+      "end": 366
+    },
+    "unit": {
+      "text": "children",
+      "start": 310,
+      "end": 318
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "80%",
+      "start": 410,
+      "end": 413
+    },
+    "eventDescription": {
+      "text": "cases attributed to Al-Shabaab",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of verified cases",
+      "start": 414,
+      "end": 431
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4,910",
+      "start": 433,
+      "end": 438
+    },
+    "eventDescription": {
+      "text": "cases attributed to Al-Shabaab",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 426,
+      "end": 431
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "391",
+      "start": 479,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "cases attributed to the Somali National Army",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 426,
+      "end": 431
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "172",
+      "start": 504,
+      "end": 507
+    },
+    "eventDescription": {
+      "text": "cases attributed to the Somali police",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 426,
+      "end": 431
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,442",
+      "start": 525,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "start": 554,
+      "end": 562
+    },
+    "unit": {
+      "text": "boys",
+      "start": 531,
+      "end": 535
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "53",
+      "start": 540,
+      "end": 542
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "start": 554,
+      "end": 562
+    },
+    "unit": {
+      "text": "girls",
+      "start": 543,
+      "end": 548
+    }
+  }
+]

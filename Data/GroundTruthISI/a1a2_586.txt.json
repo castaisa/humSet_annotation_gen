@@ -1,0 +1,187 @@
+[
+  {
+    "quantity": {
+      "text": "19.6%",
+      "begin": 121,
+      "end": 126
+    },
+    "unit": {
+      "text": "households",
+      "begin": 130,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "reported a ‘medium’ use of food-related coping strategies",
+      "begin": 141,
+      "end": 198
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 216,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "reported a ‘medium’ use of food-related coping strategies",
+      "begin": 141,
+      "end": 198
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rCSI score",
+      "begin": 200,
+      "end": 210
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 221,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "reported a ‘medium’ use of food-related coping strategies",
+      "begin": 141,
+      "end": 198
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rCSI score",
+      "begin": 200,
+      "end": 210
+    }
+  },
+  {
+    "quantity": {
+      "text": "16.3%",
+      "begin": 228,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "reported ‘high’ use of coping strategies",
+      "begin": 234,
+      "end": 274
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 289,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "reported ‘high’ use of coping strategies",
+      "begin": 234,
+      "end": 274
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rCSI score ≥",
+      "begin": 276,
+      "end": 288
+    }
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 298,
+      "end": 300
+    },
+    "eventDescription": {
+      "text": "being the maximum household score recorded",
+      "begin": 301,
+      "end": 343
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "household",
+      "begin": 319,
+      "end": 328
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 467,
+      "end": 470
+    },
+    "eventDescription": {
+      "text": "most regularly reported food coping strategy was to rely on less preferred and less expensive foods",
+      "begin": 350,
+      "end": 449
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "average",
+      "begin": 459,
+      "end": 466
+    },
+    "unit": {
+      "text": "days",
+      "begin": 471,
+      "end": 475
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 492,
+      "end": 497
+    },
+    "eventDescription": {
+      "text": "most regularly reported food coping strategy was to rely on less preferred and less expensive foods",
+      "begin": 350,
+      "end": 449
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "all households",
+      "begin": 501,
+      "end": 515
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 692,
+      "end": 693
+    },
+    "unit": {
+      "text": "days a week",
+      "begin": 694,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "more likely to resort to this food coping strategy",
+      "begin": 550,
+      "end": 600
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "more than",
+      "begin": 682,
+      "end": 691
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.6",
+      "begin": 717,
+      "end": 720
+    },
+    "eventDescription": {
+      "text": "more likely to resort to this food coping strategy",
+      "begin": 550,
+      "end": 600
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnee households",
+      "begin": 737,
+      "end": 756
+    }
+  }
+]

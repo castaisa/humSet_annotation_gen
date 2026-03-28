@@ -1,0 +1,98 @@
+[
+  {
+    "quantity": {
+      "text": "11 per cent",
+      "begin": 233,
+      "end": 244
+    },
+    "unit": {
+      "text": "value of the Rial",
+      "begin": 200,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "dropped",
+      "begin": 222,
+      "end": 229
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two per cent",
+      "begin": 267,
+      "end": 279
+    },
+    "unit": {
+      "text": "value of the Rial",
+      "begin": 200,
+      "end": 217
+    }
+  },
+  {
+    "quantity": {
+      "text": "505",
+      "begin": 334,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "latest recorded rate b",
+      "begin": 307,
+      "end": 329
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Rials to the US dollar",
+      "begin": 338,
+      "end": 360
+    }
+  },
+  {
+    "quantity": {
+      "text": "49 per cent",
+      "begin": 372,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "drop",
+      "begin": 384,
+      "end": 388
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "value of the currency",
+      "begin": 396,
+      "end": 417
+    }
+  },
+  {
+    "quantity": {
+      "text": "314",
+      "begin": 449,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "drop",
+      "begin": 384,
+      "end": 388
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Rials to the dollar",
+      "begin": 453,
+      "end": 472
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 423,
+      "end": 425
+    },
+    "unit": {
+      "text": "months ago",
+      "begin": 426,
+      "end": 436
+    }
+  }
+]

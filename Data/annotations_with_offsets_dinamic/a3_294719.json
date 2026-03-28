@@ -1,0 +1,300 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "report at least one member needed medical treatment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43%",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 13,
+      "end": 23
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "needed medical treatment",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 36,
+      "end": 44
+    },
+    "quantity": {
+      "text": "at least one",
+      "start": 36,
+      "end": 48
+    },
+    "unit": {
+      "text": "member",
+      "start": 49,
+      "end": 55
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "before data collection",
+      "start": 124,
+      "end": 146
+    },
+    "quantity": {
+      "text": "30",
+      "start": 116,
+      "end": 118
+    },
+    "unit": {
+      "text": "days",
+      "start": 119,
+      "end": 123
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported difficulty accessing medical treatment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "49%",
+      "start": 169,
+      "end": 172
+    },
+    "unit": {
+      "text": "households",
+      "start": 157,
+      "end": 167
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "not affiliated with the health system",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "56%",
+      "start": 323,
+      "end": 326
+    },
+    "unit": {
+      "text": "households",
+      "start": 330,
+      "end": 340
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "report high cost of services and medicines as constraint",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "51%",
+      "start": 384,
+      "end": 387
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "not affiliated to the health system",
+      "start": 453,
+      "end": 488
+    },
+    "quantity": {
+      "text": "80%",
+      "start": 420,
+      "end": 423
+    },
+    "unit": {
+      "text": "household members",
+      "start": 431,
+      "end": 448
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have not been vaccinated",
+      "start": 518,
+      "end": 542
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 490,
+      "end": 493
+    },
+    "unit": {
+      "text": "children aged 0 to 6",
+      "start": 497,
+      "end": 517
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "indicated household member had needs related to sexual and reproductive health services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24%",
+      "start": 544,
+      "end": 547
+    },
+    "unit": {
+      "text": "people interviewed",
+      "start": 555,
+      "end": 573
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "prior to the survey",
+      "start": 609,
+      "end": 628
+    },
+    "quantity": {
+      "text": "30",
+      "start": 601,
+      "end": 603
+    },
+    "unit": {
+      "text": "days",
+      "start": 604,
+      "end": 608
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "unable to access contraceptive services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35%",
+      "start": 855,
+      "end": 858
+    },
+    "unit": {
+      "text": "households reporting need for contraceptive services",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of contraceptive services",
+      "start": 902,
+      "end": 935
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 937,
+      "end": 939
+    },
+    "unit": {
+      "text": "total households",
+      "start": 947,
+      "end": 963
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mentioned one or more household members experienced symptoms of anxiety, reduced sleep or crying episodes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 1003,
+      "end": 1006
+    },
+    "unit": {
+      "text": "those interviewed",
+      "start": 1010,
+      "end": 1027
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "prior to data collection",
+      "start": 1170,
+      "end": 1194
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 1159,
+      "end": 1164
+    },
+    "unit": {
+      "text": "days",
+      "start": 1165,
+      "end": 1169
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "increase in households reporting at least one mental health symptom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12",
+      "start": 1235,
+      "end": 1237
+    },
+    "unit": {
+      "text": "percentage point increase",
+      "start": 1238,
+      "end": 1263
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported by households",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 1292,
+      "end": 1300
+    },
+    "quantity": {
+      "text": "at least one",
+      "start": 1292,
+      "end": 1304
+    },
+    "unit": {
+      "text": "symptom",
+      "start": 1305,
+      "end": 1312
+    }
+  }
+]

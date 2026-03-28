@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "one of the three",
+      "begin": 65,
+      "end": 81
+    },
+    "unit": {
+      "text": "gas stations",
+      "begin": 82,
+      "end": 94
+    }
+  },
+  {
+    "quantity": {
+      "text": "40 litres",
+      "begin": 292,
+      "end": 301
+    },
+    "unit": {
+      "text": "petrol",
+      "begin": 154,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "pays the black market price",
+      "begin": 260,
+      "end": 287
+    },
+    "eventType": "EventO"
+  }
+]

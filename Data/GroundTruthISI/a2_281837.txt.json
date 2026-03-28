@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "4,638",
+      "begin": 58,
+      "end": 63
+    },
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    }
+  },
+  {
+    "quantity": {
+      "text": "94%",
+      "begin": 130,
+      "end": 133
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 137,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "they have tried to prevent or prepare for COVID19",
+      "begin": 161,
+      "end": 210
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "94%",
+      "begin": 356,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "having tried to prevent or prepare",
+      "begin": 299,
+      "end": 333
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "93%",
+      "begin": 369,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "having tried to prevent or prepare",
+      "begin": 299,
+      "end": 333
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "91%",
+      "begin": 479,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 483,
+      "end": 491
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "98%",
+      "begin": 562,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "report",
+      "begin": 566,
+      "end": 572
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "88%",
+      "begin": 753,
+      "end": 756
+    },
+    "eventDescription": {
+      "text": "trying to prevent/prepare",
+      "begin": 764,
+      "end": 789
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "95%",
+      "begin": 803,
+      "end": 806
+    },
+    "eventDescription": {
+      "text": "trying to prevent/prepare",
+      "begin": 764,
+      "end": 789
+    },
+    "eventType": "EventO"
+  }
+]

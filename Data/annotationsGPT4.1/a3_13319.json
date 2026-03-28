@@ -1,0 +1,36 @@
+[
+  {
+    "quantity": "more than 27,600",
+    "unit": "internally displaced persons (IDPs)",
+    "eventType": "EventP",
+    "eventDescription": "provided safe drinking water",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "eight",
+    "unit": "water tanks and water points",
+    "eventType": "EventA",
+    "eventDescription": "installed"
+  },
+  {
+    "quantity": "approximately 120",
+    "unit": "latrines",
+    "eventType": "EventA",
+    "eventDescription": "constructed or rehabilitated",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "nearly 1,500",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "provided safe drinking water",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "nearly 1,300",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "reached through hygiene awareness sessions",
+    "modifier": "nearly"
+  }
+]

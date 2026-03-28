@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 439,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "providing",
+      "begin": 360,
+      "end": 369
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "days",
+      "begin": 444,
+      "end": 448
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 464,
+      "end": 465
+    },
+    "eventDescription": {
+      "text": "providing",
+      "begin": 360,
+      "end": 369
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kilograms",
+      "begin": 466,
+      "end": 475
+    }
+  },
+  {
+    "quantity": {
+      "text": "2.4",
+      "begin": 511,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "providing",
+      "begin": 360,
+      "end": 369
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kilograms",
+      "begin": 515,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,210",
+      "begin": 608,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 562,
+      "end": 570
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 614,
+      "end": 624
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,175",
+      "begin": 708,
+      "end": 713
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 696,
+      "end": 704
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 723,
+      "end": 733
+    }
+  },
+  {
+    "quantity": {
+      "text": "834",
+      "begin": 770,
+      "end": 773
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 758,
+      "end": 766
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 783,
+      "end": 793
+    }
+  }
+]

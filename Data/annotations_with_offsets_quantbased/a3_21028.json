@@ -1,0 +1,117 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "more than 1 million",
+      "start": 79,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "AWD and cholera outbreaks caseload",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 79,
+      "end": 88
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least 2,200",
+      "start": 143,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "affected by diphtheria outbreak",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 158,
+      "end": 164
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 143,
+      "end": 151
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 6,700",
+      "start": 298,
+      "end": 313
+    },
+    "eventDescription": {
+      "text": "killed or maimed",
+      "start": 333,
+      "end": 349
+    },
+    "unit": {
+      "text": "children",
+      "start": 314,
+      "end": 322
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 298,
+      "end": 307
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 2,700",
+      "start": 386,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "recruited into armed forces and groups",
+      "start": 417,
+      "end": 455
+    },
+    "unit": {
+      "text": "boys",
+      "start": 402,
+      "end": 406
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 386,
+      "end": 395
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least 2 million",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "out of school",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    }
+  }
+]

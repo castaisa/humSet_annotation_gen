@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "took to the streets",
+      "start": 181,
+      "end": 200
+    },
+    "quantity": {
+      "text": "dozens",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 174,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 509,
+      "end": 515
+    },
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "protester",
+      "start": 495,
+      "end": 504
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "wounded",
+      "start": 537,
+      "end": 544
+    },
+    "quantity": {
+      "text": "five",
+      "start": 520,
+      "end": 524
+    },
+    "unit": {
+      "text": "others",
+      "start": 525,
+      "end": 531
+    }
+  }
+]

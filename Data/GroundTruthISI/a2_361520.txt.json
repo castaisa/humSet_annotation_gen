@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "21%",
+      "begin": 516,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "educational and administrative personnel and workers filled out a medical history form",
+      "begin": 422,
+      "end": 508
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 540,
+      "end": 547
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 521,
+      "end": 523
+    },
+    "eventDescription": {
+      "text": "educational and administrative personnel and workers filled out a medical history form",
+      "begin": 422,
+      "end": 508
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 524,
+      "end": 531
+    }
+  },
+  {
+    "quantity": {
+      "text": "79%",
+      "begin": 649,
+      "end": 652
+    },
+    "eventDescription": {
+      "text": "educational and administrative staff and workers did not fill out the medical history form",
+      "begin": 555,
+      "end": 645
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 674,
+      "end": 681
+    }
+  },
+  {
+    "quantity": {
+      "text": "149",
+      "begin": 654,
+      "end": 657
+    },
+    "eventDescription": {
+      "text": "educational and administrative staff and workers did not fill out the medical history form",
+      "begin": 555,
+      "end": 645
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "schools",
+      "begin": 658,
+      "end": 665
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "36",
+      "begin": 778,
+      "end": 780
+    },
+    "eventDescription": {
+      "text": "acute malnutrition levels are expected to worsen",
+      "begin": 726,
+      "end": 774
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "LGAs",
+      "begin": 781,
+      "end": 785
+    }
+  }
+]

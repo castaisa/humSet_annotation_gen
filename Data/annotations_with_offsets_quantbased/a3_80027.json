@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "thirteen",
+      "start": 52,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "start": 114,
+      "end": 168
+    },
+    "unit": {
+      "text": "States",
+      "start": 90,
+      "end": 96
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "13",
+      "start": 62,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "start": 114,
+      "end": 168
+    },
+    "unit": {
+      "text": "States",
+      "start": 90,
+      "end": 96
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "Sixteen",
+      "start": 77,
+      "end": 84
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "start": 114,
+      "end": 168
+    },
+    "unit": {
+      "text": "States",
+      "start": 90,
+      "end": 96
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16",
+      "start": 86,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "classified under the minimal phase of food consumption",
+      "start": 114,
+      "end": 168
+    },
+    "unit": {
+      "text": "States",
+      "start": 90,
+      "end": 96
+    }
+  }
+]

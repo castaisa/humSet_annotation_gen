@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "focus of IOM support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 270,
+      "end": 271
+    },
+    "unit": {
+      "text": "WHO’s Global Response Pillars",
+      "start": 275,
+      "end": 304
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "focus group discussions held in",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 903,
+      "end": 907
+    },
+    "quantity": {
+      "text": "12,000",
+      "start": 908,
+      "end": 914
+    },
+    "unit": {
+      "text": "settlements",
+      "start": 915,
+      "end": 926
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "settlements located in",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34",
+      "start": 934,
+      "end": 936
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 937,
+      "end": 946
+    }
+  }
+]

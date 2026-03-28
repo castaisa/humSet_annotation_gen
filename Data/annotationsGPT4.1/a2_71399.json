@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "1",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "IPC Phase of food insecurity"
+  },
+  {
+    "quantity": "4",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "IPC Phase of food insecurity"
+  },
+  {
+    "quantity": "3",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "IPC Phase of food insecurity"
+  },
+  {
+    "quantity": "over 2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "received food assistance",
+    "modifier": "over"
+  }
+]

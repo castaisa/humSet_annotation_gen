@@ -1,0 +1,100 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "284",
+      "start": 129,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "terms of trade between sheep and wheat flour",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "kg/sheep",
+      "start": 133,
+      "end": 141
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five percent",
+      "start": 148,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "decline in terms of trade month-on-month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "on average five percent",
+      "start": 249,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "less wheat flour could be bought",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "on average",
+      "start": 249,
+      "end": 259
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "more than",
+      "start": 363,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "price of wheat flour increasing",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 363,
+      "end": 372
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "45 percent",
+      "start": 437,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "worsening of terms of trade since February 2020",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "517",
+      "start": 473,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "wheat flour could be bought with a sheep in February 2020",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "kg",
+      "start": 477,
+      "end": 479
+    }
+  }
+]

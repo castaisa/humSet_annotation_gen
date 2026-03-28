@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "2,000",
+      "begin": 98,
+      "end": 103
+    },
+    "unit": {
+      "text": "refugees",
+      "begin": 117,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "detained",
+      "begin": 136,
+      "end": 144
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "26 per cent",
+      "begin": 538,
+      "end": 549
+    },
+    "eventDescription": {
+      "text": "children in need of protection assistance",
+      "begin": 487,
+      "end": 528
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "migrant and refugee children",
+      "begin": 554,
+      "end": 582
+    }
+  },
+  {
+    "quantity": {
+      "text": "35 per cent",
+      "begin": 597,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "children in need of protection assistance",
+      "begin": 487,
+      "end": 528
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "unaccompanied and separated children",
+      "begin": 613,
+      "end": 649
+    }
+  }
+]

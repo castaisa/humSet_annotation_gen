@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "49.2%",
+    "unit": "non-retired female respondents",
+    "eventType": "EventP",
+    "eventDescription": "do not work"
+  },
+  {
+    "quantity": "21.1%",
+    "unit": "non-retired male respondents",
+    "eventType": "EventP",
+    "eventDescription": "do not work"
+  },
+  {
+    "quantity": "10.4%",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "have more than one job"
+  },
+  {
+    "quantity": "2%",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "have more than one job"
+  },
+  {
+    "quantity": "45.3%",
+    "unit": "female respondents",
+    "eventType": "EventP",
+    "eventDescription": "stated reason for being unemployed was full-time housework"
+  }
+]

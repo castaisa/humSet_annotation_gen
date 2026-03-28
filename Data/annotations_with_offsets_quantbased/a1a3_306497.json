@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "100%",
+      "start": 175,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "price increase",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "commodities",
+      "start": 136,
+      "end": 147
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16.47%",
+      "start": 450,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "increase",
+      "start": 437,
+      "end": 445
+    },
+    "unit": {
+      "text": "consumer price index (CPI)",
+      "start": 404,
+      "end": 430
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "15.75%",
+      "start": 486,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "previous value",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "consumer price index (CPI)",
+      "start": 404,
+      "end": 430
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20.57%",
+      "start": 536,
+      "end": 542
+    },
+    "eventDescription": {
+      "text": "increase",
+      "start": 437,
+      "end": 445
+    },
+    "unit": {
+      "text": "food index",
+      "start": 512,
+      "end": 522
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "19.56%",
+      "start": 571,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "previous value",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food index",
+      "start": 512,
+      "end": 522
+    }
+  }
+]

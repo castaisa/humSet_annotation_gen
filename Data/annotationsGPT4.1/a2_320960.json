@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "25 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  },
+  {
+    "quantity": "215 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  },
+  {
+    "quantity": "2,043/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average retail price of bulgur"
+  },
+  {
+    "quantity": "2,640/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "highest bulgur average retail price"
+  },
+  {
+    "quantity": "25 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  },
+  {
+    "quantity": "1,624/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "lowest average bulgur price"
+  },
+  {
+    "quantity": "ten percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  },
+  {
+    "quantity": "2,350/ kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "highest average bulgur price by region"
+  },
+  {
+    "quantity": "22 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  },
+  {
+    "quantity": "2,178/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average bulgur price in middle region"
+  },
+  {
+    "quantity": "27 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  },
+  {
+    "quantity": "1,742/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "lowest average bulgur price by region"
+  },
+  {
+    "quantity": "13 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  },
+  {
+    "quantity": "1,901/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "average bulgur price in northeast Syria"
+  },
+  {
+    "quantity": "26 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bulgur price"
+  }
+]

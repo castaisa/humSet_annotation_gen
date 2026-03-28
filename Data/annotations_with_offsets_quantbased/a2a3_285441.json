@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14 percent",
+      "start": 146,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "reported facing challenges to access medical care services",
+      "start": 82,
+      "end": 140
+    },
+    "unit": {
+      "text": "households",
+      "start": 200,
+      "end": 210
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one out of five",
+      "start": 170,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "indicating difficulty in accessing hospitals",
+      "start": 224,
+      "end": 268
+    },
+    "unit": {
+      "text": "female-headed households",
+      "start": 186,
+      "end": 210
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19 percent",
+      "start": 212,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "indicating difficulty in accessing hospitals",
+      "start": 224,
+      "end": 268
+    },
+    "unit": {
+      "text": "female-headed households",
+      "start": 186,
+      "end": 210
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13 percent",
+      "start": 281,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "indicating difficulty in accessing hospitals",
+      "start": 224,
+      "end": 268
+    },
+    "unit": {
+      "text": "male-headed households",
+      "start": 295,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16 percent",
+      "start": 422,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "cited shortage of financial means as main impediment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "female-headed households",
+      "start": 364,
+      "end": 388
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "a third",
+      "start": 445,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "reported not being able to purchase the necessary medicines",
+      "start": 492,
+      "end": 551
+    },
+    "unit": {
+      "text": "interviewed households",
+      "start": 456,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "33 percent",
+      "start": 480,
+      "end": 490
+    },
+    "eventDescription": {
+      "text": "reported not being able to purchase the necessary medicines",
+      "start": 492,
+      "end": 551
+    },
+    "unit": {
+      "text": "interviewed households",
+      "start": 456,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "76 percent",
+      "start": 613,
+      "end": 623
+    },
+    "eventDescription": {
+      "text": "reported lack of financial resources as reason for not purchasing medicines",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17 percent",
+      "start": 666,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "reported shortage of medicines in pharmacies as reason for not purchasing medicines",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 468,
+      "end": 478
+    }
+  }
+]

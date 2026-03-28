@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "1.7 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "fully dependent on water trucking"
+  },
+  {
+    "quantity": "68 percent",
+    "unit": "people in camps",
+    "eventType": "EventP",
+    "eventDescription": "fully dependent on water trucking"
+  },
+  {
+    "quantity": "50 percent",
+    "unit": "people in communities",
+    "eventType": "EventP",
+    "eventDescription": "fully dependent on water trucking"
+  },
+  {
+    "quantity": "at least 70 percent",
+    "unit": "wastewater disposed",
+    "eventType": "EventO",
+    "eventDescription": "found to be untreated",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "50 percent",
+    "unit": "sewerage systems",
+    "eventType": "EventO",
+    "eventDescription": "found to be non-functional"
+  },
+  {
+    "quantity": "78 percent",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "stated they did not have access to sufficient water"
+  },
+  {
+    "quantity": "49 percent",
+    "unit": "camp populations",
+    "eventType": "EventP",
+    "eventDescription": "have access to both soap and water and handwashing facilities"
+  },
+  {
+    "quantity": "22 percent",
+    "unit": "camp populations",
+    "eventType": "EventP",
+    "eventDescription": "have no soap at all"
+  },
+  {
+    "quantity": "18 percent",
+    "unit": "camp populations",
+    "eventType": "EventP",
+    "eventDescription": "have no handwashing facilities"
+  }
+]

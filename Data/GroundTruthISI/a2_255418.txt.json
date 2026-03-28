@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "4.5 per cent",
+      "begin": 87,
+      "end": 99
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 103,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "children had access to e-learning platforms during the school closures",
+      "begin": 144,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70 per cent",
+      "begin": 227,
+      "end": 238
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 221,
+      "end": 226
+    },
+    "eventDescription": {
+      "text": "used at least one form of distance learning",
+      "begin": 239,
+      "end": 282
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "seven per cent",
+      "begin": 391,
+      "end": 405
+    },
+    "eventDescription": {
+      "text": "child-labour reportedly increased",
+      "begin": 348,
+      "end": 381
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 385,
+      "end": 390
+    }
+  },
+  {
+    "quantity": {
+      "text": "82 per cent",
+      "begin": 649,
+      "end": 660
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 643,
+      "end": 648
+    },
+    "unit": {
+      "text": "interviewed key informants",
+      "begin": 664,
+      "end": 690
+    },
+    "eventDescription": {
+      "text": "children are engaged in child labour that prevents them from attending school",
+      "begin": 705,
+      "end": 782
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "930",
+    "unit": "suspected cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "447",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "reported in"
+  },
+  {
+    "quantity": "57.8%",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "percentage of LGAs"
+  },
+  {
+    "quantity": "35",
+    "unit": "presumptive positive cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "twelve",
+    "unit": "inconclusive cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "12",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "cases from"
+  },
+  {
+    "quantity": "32",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "cases from"
+  },
+  {
+    "quantity": "12",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "7",
+    "unit": "confirmed",
+    "eventType": "EventP",
+    "eventDescription": "confirmed in Edo"
+  },
+  {
+    "quantity": "1",
+    "unit": "inconclusive",
+    "eventType": "EventP",
+    "eventDescription": "inconclusive in Edo"
+  },
+  {
+    "quantity": "2",
+    "unit": "confirmed",
+    "eventType": "EventP",
+    "eventDescription": "confirmed in Ondo"
+  },
+  {
+    "quantity": "1",
+    "unit": "confirmed",
+    "eventType": "EventP",
+    "eventDescription": "confirmed in Imo"
+  },
+  {
+    "quantity": "1",
+    "unit": "confirmed",
+    "eventType": "EventP",
+    "eventDescription": "confirmed in Osun"
+  },
+  {
+    "quantity": "One",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "0.11%",
+    "unit": "Case fatality rate (CFR)",
+    "eventType": "EventP",
+    "eventDescription": "CFR"
+  }
+]

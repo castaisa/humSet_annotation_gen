@@ -1,0 +1,308 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 77,
+      "end": 80
+    },
+    "unit": {
+      "text": "new cases of COVID-19",
+      "begin": 20,
+      "end": 41
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 98,
+      "end": 106
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "51",
+      "begin": 127,
+      "end": 129
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 130,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "44",
+      "begin": 169,
+      "end": 171
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "recoveries",
+      "begin": 172,
+      "end": 182
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 187,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "active cases",
+      "begin": 193,
+      "end": 205
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 228,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "active cases",
+      "begin": 214,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 347,
+      "end": 350
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "active cases",
+      "begin": 214,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 362,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "active cases",
+      "begin": 214,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 380,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "active cases",
+      "begin": 214,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 281,
+      "end": 284
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "active cases",
+      "begin": 214,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 331,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "active cases",
+      "begin": 214,
+      "end": 226
+    }
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 469,
+      "end": 471
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "healthcare workers",
+      "begin": 490,
+      "end": 508
+    }
+  },
+  {
+    "quantity": {
+      "text": "43 per cent",
+      "begin": 473,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "healthcare workers",
+      "begin": 490,
+      "end": 508
+    }
+  },
+  {
+    "quantity": {
+      "text": "29",
+      "begin": 527,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "males",
+      "begin": 535,
+      "end": 540
+    }
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 545,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "females",
+      "begin": 553,
+      "end": 560
+    }
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 587,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "years old",
+      "begin": 590,
+      "end": 599
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 607,
+      "end": 610
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases are under five years of age",
+      "begin": 611,
+      "end": 644
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 649,
+      "end": 652
+    },
+    "eventDescription": {
+      "text": "identified,",
+      "begin": 146,
+      "end": 157
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases are over 60 years of age",
+      "begin": 653,
+      "end": 683
+    }
+  }
+]

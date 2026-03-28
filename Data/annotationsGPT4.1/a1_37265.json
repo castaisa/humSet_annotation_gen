@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "Over 20,000",
+    "unit": "displaced persons",
+    "eventType": "EventP",
+    "eventDescription": "sleeping out in the open",
+    "modifier": "over"
+  },
+  {
+    "quantity": "99",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "using one latrine"
+  },
+  {
+    "quantity": "20",
+    "unit": "people per latrine",
+    "eventType": "EventO",
+    "eventDescription": "international standard"
+  },
+  {
+    "quantity": "over 6,300",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported cholera cases",
+    "modifier": "over"
+  }
+]

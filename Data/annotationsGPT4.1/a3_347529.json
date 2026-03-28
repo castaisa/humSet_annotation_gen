@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "9274",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "diphtheria cases reported"
+  },
+  {
+    "quantity": "3016",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "diphtheria cases reported"
+  },
+  {
+    "quantity": "5330",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "diphtheria cases reported"
+  },
+  {
+    "quantity": "614",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "diphtheria cases reported"
+  },
+  {
+    "quantity": "226",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "diphtheria cases reported"
+  },
+  {
+    "quantity": "88",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "diphtheria cases reported"
+  },
+  {
+    "quantity": "9029",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases reported in the camps"
+  },
+  {
+    "quantity": "245",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases reported from the host community"
+  },
+  {
+    "quantity": "47",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths registered in the refugee camps"
+  }
+]

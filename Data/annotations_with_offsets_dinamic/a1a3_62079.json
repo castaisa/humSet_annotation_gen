@@ -1,0 +1,87 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received CLAP boxes",
+      "start": 222,
+      "end": 241
+    },
+    "quantity": {
+      "text": "16.3 million",
+      "start": 197,
+      "end": 209
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 210,
+      "end": 221
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "contents of a box last",
+      "start": 463,
+      "end": 485
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 500,
+      "end": 505
+    },
+    "unit": {
+      "text": "days",
+      "start": 506,
+      "end": 510
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "households receive CLAP boxes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "once",
+      "start": 557,
+      "end": 561
+    },
+    "unit": {
+      "text": "a month",
+      "start": 562,
+      "end": 569
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "households receive CLAP boxes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "every two",
+      "start": 573,
+      "end": 582
+    },
+    "unit": {
+      "text": "months",
+      "start": 583,
+      "end": 589
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "price of the box increased",
+      "start": 655,
+      "end": 681
+    },
+    "quantity": {
+      "text": "53 million percent",
+      "start": 685,
+      "end": 703
+    }
+  }
+]

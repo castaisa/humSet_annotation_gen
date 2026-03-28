@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "3.5",
+      "start": 124,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "weight of a malwa of sorghum",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "kg",
+      "start": 128,
+      "end": 130
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,680",
+      "start": 147,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "cost of a malwa of sorghum in Wau",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SSP",
+      "start": 153,
+      "end": 156
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,440",
+      "start": 165,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "cost of a malwa of sorghum in Aweil",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SSP",
+      "start": 171,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "900",
+      "start": 189,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "cost of a malwa of sorghum in Rumbek",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SSP",
+      "start": 193,
+      "end": 196
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "215-565",
+      "start": 223,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "percentage above the five-year average",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "percent",
+      "start": 231,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "720",
+      "start": 341,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "cost of a malwa of sorghum in Juba",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SSP",
+      "start": 345,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "125",
+      "start": 352,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "percentage above the five-year average in Juba",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "percent",
+      "start": 356,
+      "end": 363
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "385",
+      "start": 432,
+      "end": 435
+    },
+    "eventDescription": {
+      "text": "exchange rate on the parallel market",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SSP/USD",
+      "start": 443,
+      "end": 450
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "500",
+      "start": 439,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "exchange rate on the parallel market",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SSP/USD",
+      "start": 443,
+      "end": 450
+    }
+  }
+]

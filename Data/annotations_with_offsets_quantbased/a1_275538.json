@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "500",
+      "start": 73,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "negatively affected by the Coronavirus",
+      "start": 122,
+      "end": 160
+    },
+    "unit": {
+      "text": "Cameroonian young entrepreneurs",
+      "start": 77,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "100",
+      "start": 435,
+      "end": 438
+    },
+    "eventDescription": {
+      "text": "targeted in the Southwest region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "youths",
+      "start": 410,
+      "end": 416
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "150",
+      "start": 449,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "targeted in the Centre region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "youths",
+      "start": 410,
+      "end": 416
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "150",
+      "start": 465,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "targeted in the Littoral region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "youths",
+      "start": 410,
+      "end": 416
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "100",
+      "start": 488,
+      "end": 491
+    },
+    "eventDescription": {
+      "text": "targeted in the West region",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "youths",
+      "start": 410,
+      "end": 416
+    }
+  }
+]

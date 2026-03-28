@@ -1,0 +1,264 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties",
+      "start": 76,
+      "end": 95
+    },
+    "quantity": {
+      "text": "29%",
+      "start": 248,
+      "end": 251
+    },
+    "unit": {
+      "text": "casualties in Hudaydah",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties",
+      "start": 751,
+      "end": 770
+    },
+    "quantity": {
+      "text": "19%",
+      "start": 262,
+      "end": 265
+    },
+    "unit": {
+      "text": "casualties in Sa’ada",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12%",
+      "start": 278,
+      "end": 281
+    },
+    "unit": {
+      "text": "casualties in Taizz",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9%",
+      "start": 303,
+      "end": 305
+    },
+    "unit": {
+      "text": "casualties in Hajjah",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 329,
+      "end": 331
+    },
+    "unit": {
+      "text": "casualties in Amanat al Asimah",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "armed violence incidents",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 468,
+      "end": 477
+    },
+    "quantity": {
+      "text": "more than 480",
+      "start": 468,
+      "end": 481
+    },
+    "unit": {
+      "text": "incidents of armed violence",
+      "start": 482,
+      "end": 509
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "airstrike incidents",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 567,
+      "end": 570
+    },
+    "unit": {
+      "text": "incidents (airstrikes)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "shelling incidents",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 586,
+      "end": 589
+    },
+    "unit": {
+      "text": "incidents (shelling)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "landmines, IEDs and UXOs incidents",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 622,
+      "end": 624
+    },
+    "unit": {
+      "text": "incidents (landmines, IEDs and UXOs)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "small arms fire incidents",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4%",
+      "start": 644,
+      "end": 646
+    },
+    "unit": {
+      "text": "incidents (small arms fire)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "sniper incidents",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4%",
+      "start": 661,
+      "end": 663
+    },
+    "unit": {
+      "text": "incidents (snipers)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "women and children casualties",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one-third",
+      "start": 734,
+      "end": 743
+    },
+    "unit": {
+      "text": "civilian casualties (women and children)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "incidents striking protected sites",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6%",
+      "start": 860,
+      "end": 862
+    },
+    "unit": {
+      "text": "incidents (health, education, water, food and other protected sites)",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "incidents striking civilians in vehicles",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 947,
+      "end": 956
+    },
+    "quantity": {
+      "text": "more than 7%",
+      "start": 947,
+      "end": 959
+    },
+    "unit": {
+      "text": "incidents (civilians in vehicles)",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "comprise physical assault",
+      "start": 475,
+      "end": 500
+    },
+    "quantity": {
+      "text": "61 per cent",
+      "start": 442,
+      "end": 453
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "start": 461,
+      "end": 474
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "rape",
+      "start": 514,
+      "end": 518
+    },
+    "quantity": {
+      "text": "13 per cent",
+      "start": 502,
+      "end": 513
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "sexual assault",
+      "start": 532,
+      "end": 546
+    },
+    "quantity": {
+      "text": "12 per cent",
+      "start": 520,
+      "end": 531
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "psychological/emotional abuse",
+      "start": 559,
+      "end": 588
+    },
+    "quantity": {
+      "text": "6 per cent",
+      "start": 548,
+      "end": 558
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "experienced denial of resources",
+      "start": 601,
+      "end": 632
+    },
+    "quantity": {
+      "text": "5 per cent",
+      "start": 590,
+      "end": 600
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "forced/early marriage",
+      "start": 648,
+      "end": 669
+    },
+    "quantity": {
+      "text": "3 per cent",
+      "start": 637,
+      "end": 647
+    },
+    "unit": {
+      "text": "GBV incidents",
+      "start": null,
+      "end": null
+    }
+  }
+]

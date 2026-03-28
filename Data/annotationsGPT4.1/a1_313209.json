@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "-3%",
+    "unit": "cereal prices",
+    "eventType": "EventO",
+    "eventDescription": "declined"
+  },
+  {
+    "quantity": "19",
+    "unit": "districts",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "42",
+    "unit": "districts",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "19",
+    "unit": "districts",
+    "eventType": "EventO",
+    "eventDescription": "experienced an increase in prices"
+  },
+  {
+    "quantity": "more than 10%",
+    "unit": "price increases",
+    "eventType": "EventO",
+    "eventDescription": "reported",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "59%",
+    "unit": "price decreases",
+    "eventType": "EventO",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "21%",
+    "unit": "prices",
+    "eventType": "EventO",
+    "eventDescription": "decreased"
+  },
+  {
+    "quantity": "18%",
+    "unit": "prices",
+    "eventType": "EventO",
+    "eventDescription": "decline"
+  },
+  {
+    "quantity": "14%",
+    "unit": "prices",
+    "eventType": "EventO",
+    "eventDescription": "decline"
+  },
+  {
+    "quantity": "12%",
+    "unit": "prices",
+    "eventType": "EventO",
+    "eventDescription": "decline"
+  }
+]

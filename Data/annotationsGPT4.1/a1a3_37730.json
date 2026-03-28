@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "Four",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "remain completely inaccessible"
+  },
+  {
+    "quantity": "263",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "suffering from severe acute malnutrition (SAM)"
+  },
+  {
+    "quantity": "460",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "five",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "children under five screened"
+  }
+]

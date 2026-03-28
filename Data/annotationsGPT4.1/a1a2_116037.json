@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "2.7 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "compelled to rely on urgent humanitarian assistance"
+  },
+  {
+    "quantity": "75",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "time taken to reach 5,000 cases"
+  },
+  {
+    "quantity": "5,000",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "COVID-19 cases reached"
+  },
+  {
+    "quantity": "30",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "time taken to reach a caseload of 16,000"
+  },
+  {
+    "quantity": "16,000",
+    "unit": "caseload",
+    "eventType": "EventO",
+    "eventDescription": "COVID-19 caseload reached"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "nine",
+    "unit": "population groups",
+    "eventType": "EventP",
+    "eventDescription": "observed with Critical (IPC Phase 4) prevalence of GAM (\u2265 15%)"
+  },
+  {
+    "quantity": "36",
+    "unit": "population groups",
+    "eventType": "EventP",
+    "eventDescription": "total population groups observed"
+  },
+  {
+    "quantity": "20.9%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence observed in Southern Inland Pastoral of Elberde district"
+  },
+  {
+    "quantity": "16.7%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence observed in Mogadishu IDPs"
+  },
+  {
+    "quantity": "16.4%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence observed in Huddur urban /IDPs"
+  },
+  {
+    "quantity": "15.8%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence observed in IDPs in Bossasso and Garowe"
+  },
+  {
+    "quantity": "15.4%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence observed in Shabelle Riverine"
+  },
+  {
+    "quantity": "28",
+    "unit": "population groups",
+    "eventType": "EventP",
+    "eventDescription": "classified as Serious (IPC Phase 3)"
+  },
+  {
+    "quantity": "10\u201314.9%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence in population groups classified as Serious (IPC Phase 3)"
+  },
+  {
+    "quantity": "5-9.9%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence in population groups classified as Alert (IPC Phase 2)"
+  },
+  {
+    "quantity": "<5%",
+    "unit": "GAM",
+    "eventType": "EventP",
+    "eventDescription": "prevalence in Burao urban classified as Acceptable (IPC Phase 1)"
+  }
+]

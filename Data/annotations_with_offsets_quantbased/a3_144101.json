@@ -1,0 +1,33 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "750 000",
+      "start": 86,
+      "end": 93
+    },
+    "eventDescription": {
+      "text": "maize crop production estimated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "tonnes",
+      "start": 94,
+      "end": 100
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30 percent",
+      "start": 112,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "lower than the previous five-year average",
+      "start": 123,
+      "end": 164
+    }
+  }
+]

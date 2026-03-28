@@ -1,0 +1,40 @@
+[
+  {
+    "quantity": {
+      "text": "38%",
+      "begin": 210,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "drop in GDP",
+      "begin": 214,
+      "end": 225
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18%",
+      "begin": 233,
+      "end": 236
+    },
+    "eventDescription": {
+      "text": "decline in agri-food GDP",
+      "begin": 237,
+      "end": 261
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 284,
+      "end": 288
+    },
+    "unit": {
+      "text": "week",
+      "begin": 289,
+      "end": 293
+    }
+  }
+]

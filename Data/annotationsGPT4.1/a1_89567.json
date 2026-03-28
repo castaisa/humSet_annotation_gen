@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "three",
+    "unit": "aid workers",
+    "eventType": "EventP",
+    "eventDescription": "abducted"
+  },
+  {
+    "quantity": "two",
+    "unit": "female aid workers",
+    "eventType": "EventP",
+    "eventDescription": "executed"
+  }
+]

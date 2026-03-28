@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "seven",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "prioritized for decongestion strategy"
+  },
+  {
+    "quantity": "49",
+    "unit": "camps",
+    "eventType": "EventO",
+    "eventDescription": "prioritized for decongestion strategy"
+  },
+  {
+    "quantity": "83,000",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "in need of urgent relocation"
+  }
+]

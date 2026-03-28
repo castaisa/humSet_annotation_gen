@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "marked fear i.e. ≥ 7 out of 10",
+      "start": 80,
+      "end": 110
+    },
+    "quantity": {
+      "text": "63.5%",
+      "start": 69,
+      "end": 74
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 56,
+      "end": 67
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "admitted to modifying their habits recently in fear of contracting the virus",
+      "start": 119,
+      "end": 195
+    },
+    "quantity": {
+      "text": "56%",
+      "start": 115,
+      "end": 118
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 473,
+      "end": 484
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "agreed on cancellation of the lesser pilgrimage",
+      "start": 244,
+      "end": 291
+    },
+    "quantity": {
+      "text": "77.77%",
+      "start": 237,
+      "end": 243
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "admitted that greater pilgrimage (Hajj) should proceed",
+      "start": 352,
+      "end": 406
+    },
+    "quantity": {
+      "text": "23.64%",
+      "start": 345,
+      "end": 351
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "insisted on attending Friday congregational prayers despite social distancing",
+      "start": 485,
+      "end": 562
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "About 50%",
+      "start": 456,
+      "end": 465
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "still harbored stigma towards a person who has recovered from the virus",
+      "start": 583,
+      "end": 654
+    },
+    "quantity": {
+      "text": "one in four",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 576,
+      "end": 582
+    }
+  }
+]

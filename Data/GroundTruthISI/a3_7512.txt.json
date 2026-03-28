@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "31.3%",
+      "begin": 83,
+      "end": 88
+    },
+    "unit": {
+      "text": "inflation",
+      "begin": 63,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "rising",
+      "begin": 73,
+      "end": 79
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18%",
+      "begin": 336,
+      "end": 339
+    },
+    "unit": {
+      "text": "inflation rate",
+      "begin": 296,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 323,
+      "end": 332
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "49.7%",
+      "begin": 377,
+      "end": 382
+    },
+    "unit": {
+      "text": "food inflation",
+      "begin": 347,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 362,
+      "end": 371
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30.9%",
+      "begin": 386,
+      "end": 391
+    },
+    "unit": {
+      "text": "food inflation",
+      "begin": 347,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 362,
+      "end": 371
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2bn",
+      "begin": 427,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "CBL approved",
+      "begin": 410,
+      "end": 422
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 423,
+      "end": 426
+    }
+  }
+]

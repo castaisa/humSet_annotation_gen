@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "45%",
+      "begin": 1622,
+      "end": 1625
+    },
+    "unit": {
+      "text": "assessed households",
+      "begin": 1633,
+      "end": 1652
+    },
+    "eventDescription": {
+      "text": "reported that toilets shared by four or more households were not segregated by sex",
+      "begin": 1653,
+      "end": 1735
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "74%",
+      "begin": 1777,
+      "end": 1780
+    },
+    "unit": {
+      "text": "assessed households",
+      "begin": 1633,
+      "end": 1652
+    },
+    "eventDescription": {
+      "text": "reported that toilets shared by four or more households were not segregated by sex",
+      "begin": 1653,
+      "end": 1735
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "59%",
+      "begin": 1793,
+      "end": 1796
+    },
+    "unit": {
+      "text": "assessed households",
+      "begin": 1633,
+      "end": 1652
+    },
+    "eventDescription": {
+      "text": "reported that toilets shared by four or more households were not segregated by sex",
+      "begin": 1653,
+      "end": 1735
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "51%",
+      "begin": 1815,
+      "end": 1818
+    },
+    "unit": {
+      "text": "assessed households",
+      "begin": 1633,
+      "end": 1652
+    },
+    "eventDescription": {
+      "text": "reported that toilets shared by four or more households were not segregated by sex",
+      "begin": 1653,
+      "end": 1735
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54%",
+      "begin": 1827,
+      "end": 1830
+    },
+    "unit": {
+      "text": "households",
+      "begin": 1847,
+      "end": 1857
+    },
+    "eventDescription": {
+      "text": "reported at least one protection issue related to toilet facilities available in camps and sites",
+      "begin": 1858,
+      "end": 1954
+    },
+    "eventType": "EventO"
+  }
+]

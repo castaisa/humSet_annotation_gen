@@ -1,0 +1,174 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "473",
+      "start": 124,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "companies",
+      "start": 128,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 80%",
+      "start": 184,
+      "end": 192
+    },
+    "eventDescription": {
+      "text": "operating at reduced capacity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "companies",
+      "start": 196,
+      "end": 205
+    },
+    "modifier": {
+      "text": "over",
+      "start": 184,
+      "end": 188
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "0",
+      "start": 232,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "operating at reduced capacity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "percent of capacity",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30%",
+      "start": 238,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "operating at reduced capacity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "capacity",
+      "start": 251,
+      "end": 259
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "84%",
+      "start": 261,
+      "end": 264
+    },
+    "eventDescription": {
+      "text": "reported reduction in sales",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "companies",
+      "start": 196,
+      "end": 205
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "35%",
+      "start": 330,
+      "end": 333
+    },
+    "eventDescription": {
+      "text": "reduced labor force",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "companies",
+      "start": 395,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "129",
+      "start": 391,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "companies",
+      "start": 395,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "37%",
+      "start": 416,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "planning lay-offs",
+      "start": 438,
+      "end": 455
+    },
+    "unit": {
+      "text": "companies",
+      "start": 423,
+      "end": 432
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "almost 112,000",
+      "start": 532,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "reduction in affiliates",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "affiliates",
+      "start": 547,
+      "end": 557
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    }
+  }
+]

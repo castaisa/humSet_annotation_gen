@@ -1,0 +1,149 @@
+[
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 58,
+      "end": 60
+    },
+    "unit": {
+      "text": "governorates",
+      "begin": 61,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "recorded an increasing average reference food basket price",
+      "begin": 74,
+      "end": 132
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "43 percent",
+      "begin": 178,
+      "end": 188
+    },
+    "unit": {
+      "text": "highest m-o-m",
+      "begin": 152,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 193,
+      "end": 201
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "198,582",
+      "begin": 226,
+      "end": 233
+    },
+    "unit": {
+      "text": "SYP",
+      "begin": 222,
+      "end": 225
+    }
+  },
+  {
+    "quantity": {
+      "text": "24 percent",
+      "begin": 264,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 279,
+      "end": 287
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "175,503",
+      "begin": 314,
+      "end": 321
+    },
+    "unit": {
+      "text": "SYP",
+      "begin": 310,
+      "end": 313
+    }
+  },
+  {
+    "quantity": {
+      "text": "221,186",
+      "begin": 394,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "report the highest average food basket price",
+      "begin": 342,
+      "end": 386
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 390,
+      "end": 393
+    }
+  },
+  {
+    "quantity": {
+      "text": "26 percent",
+      "begin": 406,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "report the highest average food basket price",
+      "begin": 342,
+      "end": 386
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m)",
+      "begin": 417,
+      "end": 423
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 525,
+      "end": 527
+    },
+    "unit": {
+      "text": "governorates",
+      "begin": 528,
+      "end": 540
+    }
+  },
+  {
+    "quantity": {
+      "text": "367 percent",
+      "begin": 594,
+      "end": 605
+    },
+    "eventDescription": {
+      "text": "record the highest increase",
+      "begin": 562,
+      "end": 589
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "242 percent",
+      "begin": 667,
+      "end": 678
+    },
+    "eventDescription": {
+      "text": "record the lowest increase",
+      "begin": 636,
+      "end": 662
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 2259,
+      "end": 2262
+    },
+    "unit": {
+      "text": "hospital",
+      "begin": 2263,
+      "end": 2271
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 2280,
+      "end": 2283
+    },
+    "unit": {
+      "text": "doctors",
+      "begin": 2284,
+      "end": 2291
+    },
+    "eventDescription": {
+      "text": "mentioned an increase in the Venezuelan presence",
+      "begin": 2292,
+      "end": 2340
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one and a half",
+      "begin": 2347,
+      "end": 2361
+    },
+    "unit": {
+      "text": "years",
+      "begin": 2362,
+      "end": 2367
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 2432,
+      "end": 2435
+    },
+    "unit": {
+      "text": "female doctor",
+      "begin": 2436,
+      "end": 2449
+    },
+    "eventDescription": {
+      "text": "is able to communicate with them in Spanish",
+      "begin": 2450,
+      "end": 2493
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 2509,
+      "end": 2511
+    },
+    "unit": {
+      "text": "Venezuelan women",
+      "begin": 2512,
+      "end": 2528
+    },
+    "eventDescription": {
+      "text": "present themselves to the health centers",
+      "begin": 2529,
+      "end": 2569
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 2800,
+      "end": 2803
+    },
+    "eventDescription": {
+      "text": "confirmed cases of multidrug resistant tuberculosis",
+      "begin": 2804,
+      "end": 2855
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "confirmed cases of multidrug resistant tuberculosis",
+      "begin": 2804,
+      "end": 2855
+    }
+  }
+]

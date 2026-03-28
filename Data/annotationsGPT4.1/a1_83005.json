@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "54 percent",
+    "unit": "Venezuelans",
+    "eventType": "EventP",
+    "eventDescription": "are food insecure"
+  },
+  {
+    "quantity": "8 in 10",
+    "unit": "migrants in transit",
+    "eventType": "EventP",
+    "eventDescription": "are food insecure"
+  },
+  {
+    "quantity": "6 in 10",
+    "unit": "pendular migrants",
+    "eventType": "EventP",
+    "eventDescription": "are food insecure"
+  },
+  {
+    "quantity": "55 percent",
+    "unit": "Venezuelans",
+    "eventType": "EventP",
+    "eventDescription": "are using negative strategies to cope"
+  },
+  {
+    "quantity": "half",
+    "unit": "surveyed",
+    "eventType": "EventP",
+    "eventDescription": "report having begged on the streets"
+  },
+  {
+    "quantity": "97 percent",
+    "unit": "people surveyed",
+    "eventType": "EventP",
+    "eventDescription": "would feel comfortable with providing their personal data to WFP"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "remain intellectually active",
+      "start": 91,
+      "end": 119
+    },
+    "quantity": {
+      "text": "87.6%",
+      "start": 72,
+      "end": 77
+    },
+    "unit": {
+      "text": "students",
+      "start": 82,
+      "end": 90
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "leveraging mainly on ICT",
+      "start": 130,
+      "end": 154
+    },
+    "quantity": {
+      "text": "53.4%",
+      "start": 156,
+      "end": 161
+    },
+    "unit": {
+      "text": "students",
+      "start": 213,
+      "end": 221
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "maintaining a physical relationship with their teacher",
+      "start": 640,
+      "end": 694
+    },
+    "quantity": {
+      "text": "15%",
+      "start": 631,
+      "end": 634
+    },
+    "unit": {
+      "text": "students",
+      "start": 482,
+      "end": 490
+    }
+  }
+]

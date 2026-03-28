@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "30",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "died from cholera",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "2,000",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "tested positive for the disease",
+    "modifier": "over"
+  },
+  {
+    "quantity": "nine",
+    "unit": "local government areas",
+    "eventType": "EventO",
+    "eventDescription": "affected by cholera"
+  },
+  {
+    "quantity": "27",
+    "unit": "local government areas",
+    "eventType": "EventO",
+    "eventDescription": "in the state"
+  }
+]

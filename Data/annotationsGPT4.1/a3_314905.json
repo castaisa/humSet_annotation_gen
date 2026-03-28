@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "300",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "9.7%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "proxy GAM in Gumuruk"
+  },
+  {
+    "quantity": "14.2%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "proxy GAM in Likuangole"
+  },
+  {
+    "quantity": "14.2%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "proxy GAM in Pibor"
+  },
+  {
+    "quantity": "18.1%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "proxy GAM in Gumuruk (November 2020)"
+  },
+  {
+    "quantity": "20.3%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "proxy GAM in Likuangole (November 2020)"
+  },
+  {
+    "quantity": "23.7%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "proxy GAM in Pibor (November 2020)"
+  }
+]

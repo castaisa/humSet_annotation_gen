@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "illustrates that social isolation is a challenge faced by families after losing a family member because of COVID 19",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "74%",
+      "start": 168,
+      "end": 171
+    },
+    "unit": {
+      "text": "discussants",
+      "start": 185,
+      "end": 196
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "demonstrates that loss of livelihood is a challenge faced by families after losing a family member because of COVID",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12%",
+      "start": 330,
+      "end": 333
+    },
+    "unit": {
+      "text": "discussants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mentioned death as a challenge most families face after losing a family member because of COVID 19 virus",
+      "start": 465,
+      "end": 569
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 462,
+      "end": 464
+    },
+    "unit": {
+      "text": "discussants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mentioned other factors including stigmatization as a challenge faced by most families after losing a family member because of COVID 19",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 571,
+      "end": 573
+    },
+    "unit": {
+      "text": "discussants",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "88%",
+      "start": 127,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "reported barriers to healthcare",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 62,
+      "end": 82
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "69%",
+      "start": 202,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "reported lack of healthcare facilities as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 213,
+      "end": 233
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11%",
+      "start": 390,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "reported facilities destroyed by conflict as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 401,
+      "end": 421
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30%",
+      "start": 549,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "reported facilities destroyed by conflict as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Kukawa",
+      "start": 541,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "28%",
+      "start": 565,
+      "end": 568
+    },
+    "eventDescription": {
+      "text": "reported facilities destroyed by conflict as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Madagali",
+      "start": 555,
+      "end": 563
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20%",
+      "start": 581,
+      "end": 584
+    },
+    "eventDescription": {
+      "text": "reported facilities destroyed by conflict as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Gwoza",
+      "start": 574,
+      "end": 579
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6%",
+      "start": 590,
+      "end": 592
+    },
+    "eventDescription": {
+      "text": "reported no staff available as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 600,
+      "end": 620
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24%",
+      "start": 735,
+      "end": 738
+    },
+    "eventDescription": {
+      "text": "reported no staff available as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Konduga",
+      "start": 726,
+      "end": 733
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "15%",
+      "start": 754,
+      "end": 757
+    },
+    "eventDescription": {
+      "text": "reported no staff available as a barrier",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Madagali",
+      "start": 744,
+      "end": 752
+    }
+  }
+]

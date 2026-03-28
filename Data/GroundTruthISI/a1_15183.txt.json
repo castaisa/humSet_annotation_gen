@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "14,249",
+      "begin": 67,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 47,
+      "end": 66
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 74,
+      "end": 95
+    }
+  },
+  {
+    "quantity": {
+      "text": "9,893",
+      "begin": 97,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 47,
+      "end": 66
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "men",
+      "begin": 103,
+      "end": 106
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,126",
+      "begin": 108,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 47,
+      "end": 66
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "women",
+      "begin": 114,
+      "end": 119
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,374",
+      "begin": 124,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted",
+      "begin": 47,
+      "end": 66
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 130,
+      "end": 138
+    }
+  },
+  {
+    "quantity": {
+      "text": "93",
+      "begin": 185,
+      "end": 187
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 188,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 215,
+      "end": 226
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "351",
+      "begin": 355,
+      "end": 358
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 359,
+      "end": 380
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 386,
+      "end": 397
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "45 per cent",
+      "begin": 422,
+      "end": 433
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "begin": 359,
+      "end": 380
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 386,
+      "end": 397
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "713",
+      "begin": 479,
+      "end": 482
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 483,
+      "end": 494
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 386,
+      "end": 397
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "552",
+      "begin": 512,
+      "end": 515
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 516,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 386,
+      "end": 397
+    },
+    "eventType": "EventP"
+  }
+]

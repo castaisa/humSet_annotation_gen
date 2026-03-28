@@ -1,0 +1,187 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "no children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9 per cent",
+      "start": 78,
+      "end": 88
+    },
+    "unit": {
+      "text": "camps/camp-like settings",
+      "start": 92,
+      "end": 116
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "no children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6%",
+      "start": 168,
+      "end": 170
+    },
+    "unit": {
+      "text": "camps/camp-like settings",
+      "start": 222,
+      "end": 246
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "less than 25 per cent of children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "39 per cent",
+      "start": 207,
+      "end": 218
+    },
+    "unit": {
+      "text": "camps/camp-like settings",
+      "start": 344,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "less than 25 per cent of children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25%",
+      "start": 317,
+      "end": 320
+    },
+    "unit": {
+      "text": "camps/camp-like settings",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "between 25 and 50 per cent of children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28 per cent",
+      "start": 329,
+      "end": 340
+    },
+    "unit": {
+      "text": "camps/camp-like settings",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25",
+      "start": 378,
+      "end": 380
+    },
+    "unit": {
+      "text": "per cent",
+      "start": 388,
+      "end": 396
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attending school",
+      "start": 135,
+      "end": 151
+    },
+    "quantity": {
+      "text": "50 per cent",
+      "start": 385,
+      "end": 396
+    },
+    "unit": {
+      "text": "children",
+      "start": 400,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "between 25 and 50 per cent of children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29%",
+      "start": 442,
+      "end": 445
+    },
+    "unit": {
+      "text": "camps/camp-like settings",
+      "start": 470,
+      "end": 494
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "more than 75 per cent of children attending school",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 per cent",
+      "start": 456,
+      "end": 466
+    },
+    "unit": {
+      "text": "camps/camp-like settings",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "attending school",
+      "start": 291,
+      "end": 307
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 496,
+      "end": 505
+    },
+    "quantity": {
+      "text": "75 per cent",
+      "start": 506,
+      "end": 517
+    },
+    "unit": {
+      "text": "children",
+      "start": 521,
+      "end": 529
+    }
+  }
+]

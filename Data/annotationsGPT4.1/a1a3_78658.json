@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "3,100",
+    "unit": "household surveys",
+    "eventType": "EventO",
+    "eventDescription": "conducted"
+  },
+  {
+    "quantity": "54%",
+    "unit": "migrants and host communities",
+    "eventType": "EventP",
+    "eventDescription": "are food insecure"
+  },
+  {
+    "quantity": "80%",
+    "unit": "migrants in transit",
+    "eventType": "EventP",
+    "eventDescription": "are food insecure",
+    "modifier": "almost"
+  },
+  {
+    "quantity": "60%",
+    "unit": "pendular migrants",
+    "eventType": "EventP",
+    "eventDescription": "are food insecure"
+  }
+]

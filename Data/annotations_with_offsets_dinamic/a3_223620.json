@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in livestock production",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10 percent",
+      "start": 79,
+      "end": 89
+    },
+    "unit": {
+      "text": "livestock production",
+      "start": 30,
+      "end": 50
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in livestock production",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 121,
+      "end": 131
+    },
+    "unit": {
+      "text": "livestock production",
+      "start": null,
+      "end": null
+    }
+  }
+]

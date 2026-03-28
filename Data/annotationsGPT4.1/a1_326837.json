@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "7,256",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases"
+  },
+  {
+    "quantity": "91%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "livelihoods sectors affected by the pandemic"
+  },
+  {
+    "quantity": "nearly 70%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "markets reduced opening hours and days"
+  },
+  {
+    "quantity": "nearly 70%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "schools not functioning"
+  },
+  {
+    "quantity": "only one",
+    "unit": "assessed community",
+    "eventType": "EventO",
+    "eventDescription": "online education available"
+  },
+  {
+    "quantity": "75%",
+    "unit": "communities",
+    "eventType": "EventA",
+    "eventDescription": "soap unaffordable"
+  },
+  {
+    "quantity": "about a third",
+    "unit": "communities",
+    "eventType": "EventA",
+    "eventDescription": "health facilities lacked sufficient equipment and medicines",
+    "modifier": "about"
+  }
+]

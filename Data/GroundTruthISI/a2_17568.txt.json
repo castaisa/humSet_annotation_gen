@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 545,
+      "end": 550
+    },
+    "unit": {
+      "text": "civilians",
+      "begin": 551,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 566,
+      "end": 572
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 664,
+      "end": 667
+    },
+    "unit": {
+      "text": "civilian",
+      "begin": 668,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 681,
+      "end": 687
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 692,
+      "end": 696
+    },
+    "unit": {
+      "text": "civilian",
+      "begin": 668,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 697,
+      "end": 704
+    },
+    "eventType": "EventP"
+  }
+]

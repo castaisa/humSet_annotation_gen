@@ -1,0 +1,151 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "imports of rice",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50 000",
+      "start": 210,
+      "end": 216
+    },
+    "unit": {
+      "text": "tonnes of rice",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "proportion of average imports",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one-third",
+      "start": 233,
+      "end": 242
+    },
+    "unit": {
+      "text": "of the average imports in the previous five years",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "previous tariff rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35 percent",
+      "start": 299,
+      "end": 309
+    },
+    "unit": {
+      "text": "tariff",
+      "start": 189,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reduced tariff rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6.5 percent",
+      "start": 313,
+      "end": 324
+    },
+    "unit": {
+      "text": "tariff",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "students receiving food kits",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "850 000",
+      "start": 413,
+      "end": 420
+    },
+    "unit": {
+      "text": "students",
+      "start": 421,
+      "end": 429
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "monthly subsidy amount",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "200 000",
+      "start": 504,
+      "end": 511
+    },
+    "unit": {
+      "text": "CRC",
+      "start": 500,
+      "end": 503
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households receiving subsidy",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 513,
+      "end": 518
+    },
+    "quantity": {
+      "text": "about 375 000",
+      "start": 584,
+      "end": 597
+    },
+    "unit": {
+      "text": "households",
+      "start": 598,
+      "end": 608
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration of subsidy",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "months",
+      "start": null,
+      "end": null
+    }
+  }
+]

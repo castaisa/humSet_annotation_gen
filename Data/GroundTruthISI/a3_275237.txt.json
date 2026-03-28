@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "23%",
+      "begin": 43,
+      "end": 46
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "said they have limited food access",
+      "begin": 61,
+      "end": 95
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "66%",
+      "begin": 100,
+      "end": 103
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "have had to reduce spending on food",
+      "begin": 104,
+      "end": 139
+    },
+    "eventType": "EventO"
+  }
+]

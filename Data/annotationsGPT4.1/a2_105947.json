@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "1 056",
+    "unit": "cattle producers",
+    "eventType": "EventP",
+    "eventDescription": "applied sustainable livestock practices"
+  },
+  {
+    "quantity": "seven",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "project implemented in provinces"
+  },
+  {
+    "quantity": "over USD 953 000",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "provided to support producers",
+    "modifier": "over"
+  },
+  {
+    "quantity": "1 000 250",
+    "unit": "kilograms of CO2 per year",
+    "eventType": "EventO",
+    "eventDescription": "potentially reduced carbon emissions"
+  }
+]

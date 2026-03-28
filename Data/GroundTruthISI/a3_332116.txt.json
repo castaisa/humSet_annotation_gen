@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "2,416",
+      "begin": 180,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "damaging",
+      "begin": 171,
+      "end": 179
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "shelters",
+      "begin": 186,
+      "end": 194
+    }
+  },
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 743,
+      "end": 746
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 731,
+      "end": 739
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "respondents",
+      "begin": 754,
+      "end": 765
+    }
+  },
+  {
+    "quantity": {
+      "text": "32%",
+      "begin": 785,
+      "end": 788
+    },
+    "eventDescription": {
+      "text": "Food",
+      "begin": 779,
+      "end": 783
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "respondents",
+      "begin": 754,
+      "end": 765
+    }
+  },
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 800,
+      "end": 803
+    },
+    "eventDescription": {
+      "text": "NFIs",
+      "begin": 794,
+      "end": 798
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "respondents",
+      "begin": 754,
+      "end": 765
+    }
+  }
+]

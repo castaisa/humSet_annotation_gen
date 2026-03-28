@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "82%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "in need of food and agriculture assistance"
+  },
+  {
+    "quantity": "81%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "in need of food and agriculture assistance"
+  },
+  {
+    "quantity": "66%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "in need of food and agriculture assistance"
+  },
+  {
+    "quantity": "83%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "having poor or borderline FCS"
+  },
+  {
+    "quantity": "58%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "having poor or borderline FCS"
+  },
+  {
+    "quantity": "57%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "having poor or borderline FCS"
+  }
+]

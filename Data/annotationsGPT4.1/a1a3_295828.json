@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "57%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reporting adequate access to food"
+  },
+  {
+    "quantity": "53%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reporting adequate access to food"
+  },
+  {
+    "quantity": "36%",
+    "unit": "population",
+    "eventType": "EventP",
+    "eventDescription": "prevented from engaging in cultivation"
+  }
+]

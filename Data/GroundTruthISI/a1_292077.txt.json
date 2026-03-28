@@ -1,0 +1,25 @@
+[
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 750,
+      "end": 760
+    },
+    "unit": {
+      "text": "prices",
+      "begin": 676,
+      "end": 682
+    },
+    "eventDescription": {
+      "text": "have been rising",
+      "begin": 683,
+      "end": 699
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "nearly",
+      "begin": 743,
+      "end": 749
+    }
+  }
+]

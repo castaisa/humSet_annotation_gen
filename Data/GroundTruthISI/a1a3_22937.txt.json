@@ -1,0 +1,89 @@
+[
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 76,
+      "end": 78
+    },
+    "modifier": {
+      "text": "Between",
+      "begin": 68,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "rural work force are women",
+      "begin": 97,
+      "end": 123
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rural work force are women",
+      "begin": 97,
+      "end": 123
+    }
+  },
+  {
+    "quantity": {
+      "text": "60 to 79 per cent",
+      "begin": 76,
+      "end": 93
+    },
+    "modifier": {
+      "text": "Between",
+      "begin": 68,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "rural work force are women",
+      "begin": 97,
+      "end": 123
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rural work force are women",
+      "begin": 97,
+      "end": 123
+    }
+  },
+  {
+    "quantity": {
+      "text": "79",
+      "begin": 82,
+      "end": 84
+    },
+    "modifier": {
+      "text": "Between",
+      "begin": 68,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "rural work force are women",
+      "begin": 97,
+      "end": 123
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "rural work force are women",
+      "begin": 97,
+      "end": 123
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 200,
+      "end": 204
+    },
+    "unit": {
+      "text": "times",
+      "begin": 205,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "more likely to own land than females",
+      "begin": 211,
+      "end": 247
+    },
+    "eventType": "EventO"
+  }
+]

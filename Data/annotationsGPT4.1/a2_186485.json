@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "84%",
+    "unit": "women in the country",
+    "eventType": "EventP",
+    "eventDescription": "own mobile phones"
+  },
+  {
+    "quantity": "5%",
+    "unit": "gender gap between men and women\u2019s access",
+    "eventType": "EventP",
+    "eventDescription": "gender gap in access"
+  },
+  {
+    "quantity": "35%",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "have access to internet"
+  },
+  {
+    "quantity": "50%",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "have access to internet"
+  }
+]

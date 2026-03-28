@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "98",
+      "start": 557,
+      "end": 559
+    },
+    "unit": {
+      "text": "civilian casualties",
+      "start": 313,
+      "end": 332
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29",
+      "start": 581,
+      "end": 583
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 584,
+      "end": 590
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "injured recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "69",
+      "start": 595,
+      "end": 597
+    },
+    "unit": {
+      "text": "injured",
+      "start": 598,
+      "end": 605
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "men casualties recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "64",
+      "start": 618,
+      "end": 620
+    },
+    "unit": {
+      "text": "men",
+      "start": 621,
+      "end": 624
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "women casualties recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13",
+      "start": 626,
+      "end": 628
+    },
+    "unit": {
+      "text": "women",
+      "start": 629,
+      "end": 634
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "boys casualties recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14",
+      "start": 636,
+      "end": 638
+    },
+    "unit": {
+      "text": "boys",
+      "start": 639,
+      "end": 643
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "girls casualties recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 645,
+      "end": 648
+    },
+    "unit": {
+      "text": "girls",
+      "start": 649,
+      "end": 654
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "male casualty of undetermined age recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 660,
+      "end": 663
+    },
+    "unit": {
+      "text": "male",
+      "start": 664,
+      "end": 668
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "quantity": {
+      "text": "544",
+      "begin": 282,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "reach",
+      "begin": 276,
+      "end": 281
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 286,
+      "end": 291
+    }
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 296,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "reach",
+      "begin": 276,
+      "end": 281
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "newborn",
+      "begin": 299,
+      "end": 306
+    }
+  },
+  {
+    "quantity": {
+      "text": "5674",
+      "begin": 336,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "ensured safe delivery",
+      "begin": 311,
+      "end": 332
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 341,
+      "end": 346
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 350,
+      "end": 352
+    },
+    "unit": {
+      "text": "municipalities",
+      "begin": 353,
+      "end": 367
+    }
+  },
+  {
+    "quantity": {
+      "text": "197",
+      "begin": 378,
+      "end": 381
+    },
+    "eventDescription": {
+      "text": "were supported by the mobile teams",
+      "begin": 382,
+      "end": 416
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "87",
+      "begin": 446,
+      "end": 448
+    },
+    "unit": {
+      "text": "health providers and managers",
+      "begin": 449,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "were trained on safe delivery and Minimum Initial Service Package",
+      "begin": 488,
+      "end": 553
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2065",
+      "begin": 558,
+      "end": 562
+    },
+    "unit": {
+      "text": "adolescent",
+      "begin": 563,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "have been reached by outreach activities on SRH and prevention of Drug abuse",
+      "begin": 574,
+      "end": 650
+    },
+    "eventType": "EventA"
+  }
+]

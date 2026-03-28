@@ -1,0 +1,105 @@
+[
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 12,
+      "end": 15
+    },
+    "unit": {
+      "text": "patient",
+      "begin": 16,
+      "end": 23
+    },
+    "eventDescription": {
+      "text": "went to the University Hospital after her treatment sessions were suspended",
+      "begin": 32,
+      "end": 107
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 182,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "will receive",
+      "begin": 164,
+      "end": 176
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "needed dialysis sessions",
+      "begin": 199,
+      "end": 223
+    }
+  },
+  {
+    "quantity": {
+      "text": "one out of three",
+      "begin": 182,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "will receive",
+      "begin": 164,
+      "end": 176
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "needed dialysis sessions",
+      "begin": 199,
+      "end": 223
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 193,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "will receive",
+      "begin": 164,
+      "end": 176
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "needed dialysis sessions",
+      "begin": 199,
+      "end": 223
+    }
+  },
+  {
+    "quantity": {
+      "text": "SYP",
+      "begin": 743,
+      "end": 746
+    },
+    "eventDescription": {
+      "text": "pay",
+      "begin": 732,
+      "end": 735
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 748,
+      "end": 750
+    },
+    "eventDescription": {
+      "text": "pay",
+      "begin": 732,
+      "end": 735
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 751,
+      "end": 754
+    }
+  }
+]

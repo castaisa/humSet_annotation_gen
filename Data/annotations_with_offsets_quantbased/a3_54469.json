@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "nine",
+      "start": 475,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "targeted",
+      "start": 480,
+      "end": 488
+    },
+    "unit": {
+      "text": "schools",
+      "start": 489,
+      "end": 496
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,618",
+      "start": 532,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 521,
+      "end": 531
+    },
+    "unit": {
+      "text": "children and adolescents",
+      "start": 538,
+      "end": 562
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,501",
+      "start": 564,
+      "end": 569
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 521,
+      "end": 531
+    },
+    "unit": {
+      "text": "girls",
+      "start": 570,
+      "end": 575
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,117",
+      "start": 580,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 521,
+      "end": 531
+    },
+    "unit": {
+      "text": "boys",
+      "start": 586,
+      "end": 590
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "678",
+      "start": 596,
+      "end": 599
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 521,
+      "end": 531
+    },
+    "unit": {
+      "text": "teachers",
+      "start": 600,
+      "end": 608
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "434",
+      "start": 610,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 521,
+      "end": 531
+    },
+    "unit": {
+      "text": "women",
+      "start": 614,
+      "end": 619
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "244",
+      "start": 624,
+      "end": 627
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 521,
+      "end": 531
+    },
+    "unit": {
+      "text": "men",
+      "start": 628,
+      "end": 631
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 752,
+      "end": 755
+    },
+    "eventDescription": {
+      "text": "communities reached",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "schools",
+      "start": 765,
+      "end": 772
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "175",
+      "start": 866,
+      "end": 869
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 855,
+      "end": 865
+    },
+    "unit": {
+      "text": "women",
+      "start": 870,
+      "end": 875
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "116",
+      "start": 880,
+      "end": 883
+    },
+    "eventDescription": {
+      "text": "benefiting",
+      "start": 855,
+      "end": 865
+    },
+    "unit": {
+      "text": "men",
+      "start": 884,
+      "end": 887
+    }
+  }
+]

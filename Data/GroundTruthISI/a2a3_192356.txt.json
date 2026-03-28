@@ -1,0 +1,106 @@
+[
+  {
+    "quantity": {
+      "text": "53%",
+      "begin": 511,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "proportion of households that reportedly paid for health care",
+      "begin": 434,
+      "end": 495
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "83%",
+      "begin": 518,
+      "end": 521
+    },
+    "eventDescription": {
+      "text": "proportion of households that reportedly paid for health care",
+      "begin": 434,
+      "end": 495
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4%",
+      "begin": 610,
+      "end": 612
+    },
+    "eventDescription": {
+      "text": "proportion of households reportedly seeking community support",
+      "begin": 533,
+      "end": 594
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 616,
+      "end": 619
+    },
+    "eventDescription": {
+      "text": "proportion of households reportedly seeking community support",
+      "begin": 533,
+      "end": 594
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "53%",
+      "begin": 738,
+      "end": 741
+    },
+    "eventDescription": {
+      "text": "proportion of households that reported going into debt to cover health expenses",
+      "begin": 643,
+      "end": 722
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "34%",
+      "begin": 745,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "proportion of households that reported going into debt to cover health expenses",
+      "begin": 643,
+      "end": 722
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "23%",
+      "begin": 855,
+      "end": 858
+    },
+    "eventDescription": {
+      "text": "proportion of households reportedly not adopting any health-related coping strategies",
+      "begin": 754,
+      "end": 839
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "0%",
+      "begin": 862,
+      "end": 864
+    },
+    "eventDescription": {
+      "text": "proportion of households reportedly not adopting any health-related coping strategies",
+      "begin": 754,
+      "end": 839
+    },
+    "eventType": "EventP"
+  }
+]

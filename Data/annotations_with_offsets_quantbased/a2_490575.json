@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 600",
+      "start": 105,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "de-sludged",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "latrines",
+      "start": 69,
+      "end": 77
+    },
+    "modifier": {
+      "text": "over",
+      "start": 105,
+      "end": 109
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 210,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "water testing ongoing",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "states",
+      "start": 216,
+      "end": 222
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "over 200",
+      "start": 245,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "tested and decontaminated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "water points",
+      "start": 254,
+      "end": 266
+    },
+    "modifier": {
+      "text": "over",
+      "start": 245,
+      "end": 249
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "quantity": "205%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in malaria cases"
+  },
+  {
+    "quantity": "2,500",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths of people requiring dialysis"
+  },
+  {
+    "quantity": "6,400",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases of measles"
+  },
+  {
+    "quantity": "76",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "measles deaths"
+  },
+  {
+    "quantity": "1.2%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate for measles"
+  },
+  {
+    "quantity": "2,400",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases of dengue fever"
+  },
+  {
+    "quantity": "150",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people died of diphtheria"
+  },
+  {
+    "quantity": "6%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate for diphtheria"
+  },
+  {
+    "quantity": "20%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate for diphtheria"
+  },
+  {
+    "quantity": "79,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people stopped getting HIV treatment"
+  },
+  {
+    "quantity": "over 5,000",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "HIV patients died",
+    "modifier": "over"
+  },
+  {
+    "quantity": "1,800",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "HIV deaths"
+  },
+  {
+    "quantity": "23,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people in psychiatric institutions"
+  },
+  {
+    "quantity": "3,500",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people in psychiatric institutions"
+  }
+]

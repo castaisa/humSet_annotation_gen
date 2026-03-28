@@ -1,0 +1,325 @@
+[
+  {
+    "quantity": {
+      "text": "678",
+      "begin": 50,
+      "end": 53
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 55,
+      "end": 78
+    },
+    "eventDescription": {
+      "text": "reported through EWARS",
+      "begin": 84,
+      "end": 106
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Six hundred and seventy-eight",
+      "begin": 19,
+      "end": 48
+    },
+    "unit": {
+      "text": "suspected measles cases",
+      "begin": 55,
+      "end": 78
+    },
+    "eventDescription": {
+      "text": "reported through EWARS",
+      "begin": 84,
+      "end": 106
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 115,
+      "end": 117
+    },
+    "unit": {
+      "text": "week",
+      "begin": 110,
+      "end": 114
+    }
+  },
+  {
+    "quantity": {
+      "text": "137",
+      "begin": 142,
+      "end": 145
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 126,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "were from Gwange PHC in MMC",
+      "begin": 146,
+      "end": 173
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "137",
+      "begin": 175,
+      "end": 178
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 126,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "were from FHI360 clinic Banki in Bama",
+      "begin": 179,
+      "end": 216
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 218,
+      "end": 220
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 126,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "were from Banki Health clinic in Bama",
+      "begin": 221,
+      "end": 258
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 260,
+      "end": 262
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 126,
+      "end": 140
+    },
+    "modifier": {
+      "text": "each",
+      "begin": 263,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "were from PUI mobile clinics in MMC and from General Hospital IDP camp clinic in Damboa",
+      "begin": 268,
+      "end": 355
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 361,
+      "end": 363
+    },
+    "unit": {
+      "text": "reported cases",
+      "begin": 126,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "were from Herwa Peace PHC in MMC.",
+      "begin": 364,
+      "end": 397
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Four",
+      "begin": 398,
+      "end": 402
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 403,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 426,
+      "end": 434
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Thirty-eight",
+      "begin": 463,
+      "end": 475
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 535,
+      "end": 537
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 547,
+      "end": 549
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 558,
+      "end": 559
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 575,
+      "end": 576
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 584,
+      "end": 585
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 595,
+      "end": 596
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 610,
+      "end": 611
+    },
+    "unit": {
+      "text": "additional cases",
+      "begin": 476,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "716",
+      "begin": 636,
+      "end": 639
+    },
+    "eventDescription": {
+      "text": "reported through IDSR*",
+      "begin": 498,
+      "end": 520
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "uspected measles cases.",
+      "begin": 641,
+      "end": 664
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "Eighty per cent",
+      "start": 587,
+      "end": 602
+    },
+    "eventDescription": {
+      "text": "electricity restored",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the city’s electricity",
+      "start": 603,
+      "end": 628
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 676,
+      "end": 679
+    },
+    "eventDescription": {
+      "text": "duration of power cut",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 680,
+      "end": 684
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "125,000",
+      "start": 722,
+      "end": 729
+    },
+    "eventDescription": {
+      "text": "residents without water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "residents",
+      "start": 730,
+      "end": 739
+    }
+  }
+]

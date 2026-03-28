@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 99,
+      "end": 107
+    },
+    "quantity": {
+      "text": "5,816",
+      "start": 117,
+      "end": 122
+    },
+    "unit": {
+      "text": "unaccompanied children",
+      "start": 123,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "recorded",
+      "start": 176,
+      "end": 184
+    },
+    "quantity": {
+      "text": "16,240",
+      "start": 150,
+      "end": 156
+    },
+    "unit": {
+      "text": "separated children",
+      "start": 157,
+      "end": 175
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": 204,
+      "end": 214
+    },
+    "quantity": {
+      "text": "2,500",
+      "start": 193,
+      "end": 198
+    },
+    "unit": {
+      "text": "UASC",
+      "start": 199,
+      "end": 203
+    }
+  }
+]

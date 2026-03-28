@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": {
+      "text": "90 percent",
+      "begin": 382,
+      "end": 392
+    },
+    "eventDescription": {
+      "text": "if an infected patient comes to see him",
+      "begin": 393,
+      "end": 432
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "75",
+      "begin": 593,
+      "end": 595
+    },
+    "unit": {
+      "text": "dentists",
+      "begin": 501,
+      "end": 509
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 613,
+      "end": 615
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 607,
+      "end": 612
+    },
+    "unit": {
+      "text": "doctors",
+      "begin": 616,
+      "end": 623
+    }
+  }
+]

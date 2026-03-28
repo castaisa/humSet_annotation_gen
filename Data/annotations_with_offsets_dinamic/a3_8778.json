@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed or maimed",
+      "start": 35,
+      "end": 51
+    },
+    "modifier": {
+      "text": "More than",
+      "start": 0,
+      "end": 9
+    },
+    "quantity": {
+      "text": "1,100",
+      "start": 10,
+      "end": 15
+    },
+    "unit": {
+      "text": "children",
+      "start": 16,
+      "end": 24
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "threatened",
+      "start": 74,
+      "end": 84
+    },
+    "quantity": {
+      "text": "millions",
+      "start": 56,
+      "end": 64
+    },
+    "unit": {
+      "text": "children",
+      "start": 411,
+      "end": 419
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "will suffer from severe acute malnutrition (SAM)",
+      "start": 494,
+      "end": 542
+    },
+    "modifier": {
+      "text": "estimated",
+      "start": 453,
+      "end": 462
+    },
+    "quantity": {
+      "text": "400,000",
+      "start": 463,
+      "end": 470
+    },
+    "unit": {
+      "text": "children under 5 years",
+      "start": 471,
+      "end": 493
+    }
+  }
+]

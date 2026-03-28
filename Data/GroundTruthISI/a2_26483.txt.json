@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": {
+      "text": "60%",
+      "begin": 88,
+      "end": 91
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 83,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 121,
+      "end": 124
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 116,
+      "end": 120
+    }
+  }
+]

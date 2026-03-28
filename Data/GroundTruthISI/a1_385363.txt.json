@@ -1,0 +1,231 @@
+[
+  {
+    "quantity": {
+      "text": "107",
+      "begin": 78,
+      "end": 81
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 82,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "test-ed positive b",
+      "begin": 160,
+      "end": 178
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "88",
+      "begin": 89,
+      "end": 91
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "begin": 97,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "test-ed positive b",
+      "begin": 160,
+      "end": 178
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 119,
+      "end": 121
+    },
+    "unit": {
+      "text": "host community",
+      "begin": 127,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "test-ed positive b",
+      "begin": 160,
+      "end": 178
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "127",
+      "begin": 310,
+      "end": 313
+    },
+    "unit": {
+      "text": "confirmed cases for cholera",
+      "begin": 234,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "confirmed cases for cholera",
+      "begin": 234,
+      "end": 261
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "95",
+      "begin": 315,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "confirmed cases for cholera",
+      "begin": 234,
+      "end": 261
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Rohingya refugees",
+      "begin": 323,
+      "end": 340
+    }
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 345,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "confirmed cases for cholera",
+      "begin": 234,
+      "end": 261
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "host community",
+      "begin": 353,
+      "end": 367
+    }
+  },
+  {
+    "quantity": {
+      "text": "107",
+      "begin": 385,
+      "end": 388
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 389,
+      "end": 394
+    }
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 400,
+      "end": 402
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "begin": 408,
+      "end": 425
+    },
+    "eventDescription": {
+      "text": "culture confirmed",
+      "begin": 463,
+      "end": 480
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 430,
+      "end": 431
+    },
+    "unit": {
+      "text": "host community",
+      "begin": 437,
+      "end": 451
+    },
+    "eventDescription": {
+      "text": "culture confirmed",
+      "begin": 463,
+      "end": 480
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 396,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "culture confirmed",
+      "begin": 463,
+      "end": 480
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 494,
+      "end": 499
+    },
+    "unit": {
+      "text": "weeks",
+      "begin": 500,
+      "end": 505
+    },
+    "eventDescription": {
+      "text": "total number of culture confirmed cases",
+      "begin": 523,
+      "end": 562
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "26",
+      "begin": 512,
+      "end": 514
+    },
+    "unit": {
+      "text": "week",
+      "begin": 507,
+      "end": 511
+    }
+  },
+  {
+    "quantity": {
+      "text": "28",
+      "begin": 515,
+      "end": 517
+    },
+    "unit": {
+      "text": "week",
+      "begin": 507,
+      "end": 511
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 567,
+      "end": 569
+    },
+    "unit": {
+      "text": "total number of culture confirmed cases",
+      "begin": 523,
+      "end": 562
+    },
+    "eventDescription": {
+      "text": "total number of culture confirmed cases",
+      "begin": 523,
+      "end": 562
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4,638",
+      "start": 58,
+      "end": 63
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "start": 249,
+      "end": 257
+    },
+    "unit": {
+      "text": "people",
+      "start": 64,
+      "end": 70
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "94%",
+      "start": 130,
+      "end": 133
+    },
+    "eventDescription": {
+      "text": "report having tried to prevent or prepare for COVID19",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 137,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "94%",
+      "start": 356,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "report having tried to prevent or prepare",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents in the NW",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "93%",
+      "start": 369,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "report having tried to prevent or prepare",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents in the SW",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "91%",
+      "start": 479,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "report having tried to prevent or prepare",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents in the Littoral",
+      "start": 384,
+      "end": 411
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "98%",
+      "start": 562,
+      "end": 565
+    },
+    "eventDescription": {
+      "text": "report having tried to prevent or prepare",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents in the West",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "66-75",
+      "start": 736,
+      "end": 741
+    },
+    "eventDescription": {
+      "text": "age group least likely to prevent/prepare",
+      "start": 691,
+      "end": 732
+    },
+    "unit": {
+      "text": "year olds",
+      "start": 742,
+      "end": 751
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "88%",
+      "start": 753,
+      "end": 756
+    },
+    "eventDescription": {
+      "text": "report trying to prevent/prepare",
+      "start": 757,
+      "end": 789
+    },
+    "unit": {
+      "text": "66-75 year olds",
+      "start": 736,
+      "end": 751
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "95%",
+      "start": 803,
+      "end": 806
+    },
+    "eventDescription": {
+      "text": "report trying to prevent/prepare",
+      "start": 757,
+      "end": 789
+    },
+    "unit": {
+      "text": "26-35 year olds",
+      "start": 810,
+      "end": 825
+    }
+  }
+]

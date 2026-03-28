@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": "200",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "official price of barley seed"
+  },
+  {
+    "quantity": "950",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "local market price of barley seed in Rural Damascus"
+  },
+  {
+    "quantity": "1 760",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "local market price of barley seed in Homs governorate"
+  },
+  {
+    "quantity": "132 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in barley seed price m-o-m"
+  },
+  {
+    "quantity": "104",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "increase in barley seed price m-o-m in Tartous governorate"
+  },
+  {
+    "quantity": "119",
+    "unit": "percent",
+    "eventType": "EventO",
+    "eventDescription": "increase in barley seed price m-o-m in Hama governorate"
+  },
+  {
+    "quantity": "1 733",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "local market price of barley seed in Tartous governorate"
+  },
+  {
+    "quantity": "1 730",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "local market price of barley seed in Hama governorate"
+  },
+  {
+    "quantity": "1 200",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "barley seed price in Dar\u00e1 governorate"
+  },
+  {
+    "quantity": "66 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m price increase in Hasakeh governorate",
+    "modifier": "almost"
+  },
+  {
+    "quantity": "1 760",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average-selling price of barley seed in Homs"
+  }
+]

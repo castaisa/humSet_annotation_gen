@@ -1,0 +1,244 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed themselves",
+      "start": 45,
+      "end": 62
+    },
+    "quantity": {
+      "text": "Four",
+      "start": 13,
+      "end": 17
+    },
+    "unit": {
+      "text": "Boko Haram suicide bombers",
+      "start": 18,
+      "end": 44
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 125,
+      "end": 131
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 67,
+      "end": 72
+    },
+    "unit": {
+      "text": "others",
+      "start": 73,
+      "end": 79
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 132,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "kidnapped",
+      "start": 142,
+      "end": 151
+    },
+    "quantity": {
+      "text": "twelve",
+      "start": 152,
+      "end": 158
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 264,
+      "end": 270
+    },
+    "quantity": {
+      "text": "Five",
+      "start": 189,
+      "end": 193
+    },
+    "unit": {
+      "text": "Boko Haram militants",
+      "start": 194,
+      "end": 214
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 368,
+      "end": 374
+    },
+    "quantity": {
+      "text": "four",
+      "start": 216,
+      "end": 220
+    },
+    "unit": {
+      "text": "Nigerian soldiers",
+      "start": 221,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 415,
+      "end": 421
+    },
+    "quantity": {
+      "text": "five",
+      "start": 244,
+      "end": 248
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 249,
+      "end": 258
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 498,
+      "end": 504
+    },
+    "quantity": {
+      "text": "Two",
+      "start": 316,
+      "end": 319
+    },
+    "unit": {
+      "text": "People's Democratic Party (PDP) supporters",
+      "start": 320,
+      "end": 362
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 631,
+      "end": 637
+    },
+    "quantity": {
+      "text": "Five",
+      "start": 405,
+      "end": 409
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 741,
+      "end": 747
+    },
+    "quantity": {
+      "text": "six",
+      "start": 505,
+      "end": 508
+    },
+    "unit": {
+      "text": "Nigerian soldiers",
+      "start": 509,
+      "end": 526
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Seven",
+      "start": 560,
+      "end": 565
+    },
+    "unit": {
+      "text": "soldiers",
+      "start": 566,
+      "end": 574
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "estimated at",
+      "start": 587,
+      "end": 599
+    },
+    "quantity": {
+      "text": "ten",
+      "start": 600,
+      "end": 603
+    },
+    "unit": {
+      "text": "Boko Haram militants",
+      "start": 605,
+      "end": 625
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Two",
+      "start": 685,
+      "end": 688
+    },
+    "unit": {
+      "text": "Nigerian soldiers",
+      "start": 689,
+      "end": 706
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 711,
+      "end": 714
+    },
+    "unit": {
+      "text": "Boko Haram militants",
+      "start": 715,
+      "end": 735
+    }
+  }
+]

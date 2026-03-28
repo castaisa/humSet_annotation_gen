@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "65",
+    "unit": "USD",
+    "eventType": "EventO",
+    "eventDescription": "COVID-19 testing fee"
+  },
+  {
+    "quantity": "six",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "reported delays"
+  },
+  {
+    "quantity": "22 percent",
+    "unit": "trade volumes of maize",
+    "eventType": "EventO",
+    "eventDescription": "declined"
+  },
+  {
+    "quantity": "30 percent",
+    "unit": "trade volumes of maize",
+    "eventType": "EventO",
+    "eventDescription": "above the same period"
+  }
+]

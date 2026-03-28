@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "637,000",
+      "start": 85,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "in need of food assistance and essential agricultural livelihoods assistance",
+      "start": 109,
+      "end": 185
+    },
+    "unit": {
+      "text": "people",
+      "start": 93,
+      "end": 99
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "75 per cent",
+      "start": 1556,
+      "end": 1567
+    },
+    "eventDescription": {
+      "text": "market-dependent households with low purchasing power",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 1544,
+      "end": 1554
+    }
+  }
+]

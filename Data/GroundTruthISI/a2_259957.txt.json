@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 414,
+      "end": 416
+    },
+    "unit": {
+      "text": "counties",
+      "begin": 417,
+      "end": 425
+    }
+  },
+  {
+    "quantity": {
+      "text": "193",
+      "begin": 613,
+      "end": 616
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 617,
+      "end": 634
+    }
+  },
+  {
+    "quantity": {
+      "text": "15,000",
+      "begin": 911,
+      "end": 917
+    },
+    "unit": {
+      "text": "people",
+      "begin": 918,
+      "end": 924
+    }
+  }
+]

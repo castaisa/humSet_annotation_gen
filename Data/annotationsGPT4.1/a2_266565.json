@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "five",
+    "unit": "camps",
+    "eventType": "EventO",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "81%",
+    "unit": "older people",
+    "eventType": "EventP",
+    "eventDescription": "had reduced the quantity of food they consumed"
+  },
+  {
+    "quantity": "121",
+    "unit": "older people",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "60+",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "aged"
+  },
+  {
+    "quantity": "27%",
+    "unit": "older people",
+    "eventType": "EventP",
+    "eventDescription": "reported being unable to maintain distance from others"
+  },
+  {
+    "quantity": "31%",
+    "unit": "older people",
+    "eventType": "EventP",
+    "eventDescription": "said they were unable to wash their hands properly"
+  }
+]

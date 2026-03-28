@@ -1,0 +1,100 @@
+[
+  {
+    "quantity": "43%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "report at least one member needed medical treatment"
+  },
+  {
+    "quantity": "at least one",
+    "unit": "member",
+    "eventType": "EventP",
+    "eventDescription": "needed medical treatment",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "30",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "before data collection"
+  },
+  {
+    "quantity": "49%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported difficulty accessing medical treatment"
+  },
+  {
+    "quantity": "56%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "not affiliated with the health system"
+  },
+  {
+    "quantity": "51%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "report high cost of services and medicines as constraint"
+  },
+  {
+    "quantity": "80%",
+    "unit": "household members",
+    "eventType": "EventP",
+    "eventDescription": "not affiliated to the health system"
+  },
+  {
+    "quantity": "16%",
+    "unit": "children aged 0 to 6",
+    "eventType": "EventP",
+    "eventDescription": "have not been vaccinated"
+  },
+  {
+    "quantity": "24%",
+    "unit": "people interviewed",
+    "eventType": "EventP",
+    "eventDescription": "indicated household member had needs related to sexual and reproductive health services"
+  },
+  {
+    "quantity": "30",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "prior to the survey"
+  },
+  {
+    "quantity": "35%",
+    "unit": "households reporting need for contraceptive services",
+    "eventType": "EventA",
+    "eventDescription": "unable to access contraceptive services"
+  },
+  {
+    "quantity": "7%",
+    "unit": "total households",
+    "eventType": "EventP",
+    "eventDescription": "in need of contraceptive services"
+  },
+  {
+    "quantity": "41%",
+    "unit": "those interviewed",
+    "eventType": "EventP",
+    "eventDescription": "mentioned one or more household members experienced symptoms of anxiety, reduced sleep or crying episodes"
+  },
+  {
+    "quantity": "seven",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "prior to data collection"
+  },
+  {
+    "quantity": "12",
+    "unit": "percentage point increase",
+    "eventType": "EventP",
+    "eventDescription": "increase in households reporting at least one mental health symptom"
+  },
+  {
+    "quantity": "at least one",
+    "unit": "symptom",
+    "eventType": "EventP",
+    "eventDescription": "reported by households",
+    "modifier": "at least"
+  }
+]

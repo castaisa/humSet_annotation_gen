@@ -1,0 +1,192 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "28",
+      "start": 5,
+      "end": 7
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": 31,
+      "end": 38
+    },
+    "unit": {
+      "text": "people",
+      "start": 8,
+      "end": 14
+    },
+    "modifier": {
+      "text": "Over",
+      "start": 0,
+      "end": 4
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14",
+      "start": 60,
+      "end": 62
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "start": 74,
+      "end": 82
+    },
+    "unit": {
+      "text": "casualties",
+      "start": 63,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7",
+      "start": 87,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "start": 101,
+      "end": 109
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 89,
+      "end": 100
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "52",
+      "start": 153,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "razed",
+      "start": 168,
+      "end": 173
+    },
+    "unit": {
+      "text": "houses",
+      "start": 156,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,590",
+      "start": 296,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": 266,
+      "end": 275
+    },
+    "unit": {
+      "text": "children",
+      "start": 302,
+      "end": 310
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,126",
+      "start": 312,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": 266,
+      "end": 275
+    },
+    "unit": {
+      "text": "adult men",
+      "start": 318,
+      "end": 327
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,510",
+      "start": 329,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": 266,
+      "end": 275
+    },
+    "unit": {
+      "text": "adult women",
+      "start": 335,
+      "end": 346
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "193",
+      "start": 351,
+      "end": 354
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": 396,
+      "end": 405
+    },
+    "unit": {
+      "text": "elderly persons",
+      "start": 355,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "71 per cent",
+      "start": 377,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "taking refuge",
+      "start": 421,
+      "end": 434
+    },
+    "unit": {
+      "text": "of the displaced population",
+      "start": 389,
+      "end": 416
+    },
+    "modifier": {
+      "text": "Over",
+      "start": 372,
+      "end": 376
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "29 per cent",
+      "start": 524,
+      "end": 535
+    },
+    "eventDescription": {
+      "text": "staying with friends and relatives",
+      "start": 536,
+      "end": 570
+    },
+    "unit": {
+      "text": "of the displaced population",
+      "start": 389,
+      "end": 416
+    }
+  }
+]

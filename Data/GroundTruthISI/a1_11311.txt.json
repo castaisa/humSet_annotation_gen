@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 245,
+      "end": 248
+    },
+    "unit": {
+      "text": "humanitarian organisation",
+      "begin": 249,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "suspended activities",
+      "begin": 275,
+      "end": 295
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 613,
+      "end": 616
+    },
+    "eventDescription": {
+      "text": "distributed diphtheria vaccines and supplies",
+      "begin": 561,
+      "end": 605
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "governorates",
+      "begin": 617,
+      "end": 629
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "40,855",
+      "begin": 105,
+      "end": 111
+    },
+    "unit": {
+      "text": "people",
+      "begin": 112,
+      "end": 118
+    },
+    "eventDescription": {
+      "text": "received a range of child protection services",
+      "begin": 156,
+      "end": 201
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "14,947",
+      "begin": 129,
+      "end": 135
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 136,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "received a range of child protection services",
+      "begin": 156,
+      "end": 201
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "11,541",
+      "begin": 144,
+      "end": 150
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 151,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "received a range of child protection services",
+      "begin": 156,
+      "end": 201
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "821",
+      "begin": 241,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "number of people reached",
+      "begin": 207,
+      "end": 231
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "risk children",
+      "begin": 248,
+      "end": 261
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 357,
+      "end": 358
+    },
+    "unit": {
+      "text": "children",
+      "begin": 359,
+      "end": 367
+    },
+    "eventDescription": {
+      "text": "were released",
+      "begin": 388,
+      "end": 401
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 369,
+      "end": 370
+    },
+    "unit": {
+      "text": "girl",
+      "begin": 371,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "were released",
+      "begin": 388,
+      "end": 401
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 380,
+      "end": 381
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 382,
+      "end": 386
+    },
+    "eventDescription": {
+      "text": "were released",
+      "begin": 388,
+      "end": 401
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13,228",
+      "begin": 485,
+      "end": 491
+    },
+    "unit": {
+      "text": "children",
+      "begin": 492,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "benefited from PSS",
+      "begin": 530,
+      "end": 548
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8153",
+      "begin": 502,
+      "end": 506
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 507,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "benefited from PSS",
+      "begin": 530,
+      "end": 548
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5,075",
+      "begin": 517,
+      "end": 522
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 523,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "benefited from PSS",
+      "begin": 530,
+      "end": 548
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "quantity": {
+      "text": "489",
+      "begin": 31,
+      "end": 34
+    },
+    "unit": {
+      "text": "schools",
+      "begin": 35,
+      "end": 42
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 54,
+      "end": 56
+    },
+    "unit": {
+      "text": "schools",
+      "begin": 35,
+      "end": 42
+    }
+  },
+  {
+    "quantity": {
+      "text": "26",
+      "begin": 85,
+      "end": 87
+    },
+    "unit": {
+      "text": "Internally Displaced Persons (IDPs)",
+      "begin": 106,
+      "end": 141
+    }
+  },
+  {
+    "quantity": {
+      "text": "244,500",
+      "begin": 158,
+      "end": 165
+    },
+    "unit": {
+      "text": "students",
+      "begin": 173,
+      "end": 181
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 245,
+      "end": 248
+    },
+    "unit": {
+      "text": "children",
+      "begin": 222,
+      "end": 230
+    }
+  },
+  {
+    "quantity": {
+      "text": "160,178",
+      "begin": 266,
+      "end": 273
+    },
+    "unit": {
+      "text": "refugee and migrants",
+      "begin": 274,
+      "end": 294
+    }
+  },
+  {
+    "quantity": {
+      "text": "40 per cent",
+      "begin": 308,
+      "end": 319
+    },
+    "unit": {
+      "text": "children",
+      "begin": 358,
+      "end": 366
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 1667,
+      "end": 1670
+    },
+    "unit": {
+      "text": "years",
+      "begin": 1671,
+      "end": 1676
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "four",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "WASH infrastructure installed"
+  },
+  {
+    "quantity": "two",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "WASH infrastructure installed"
+  },
+  {
+    "quantity": "nine",
+    "unit": "family VIP latrines",
+    "eventType": "EventA",
+    "eventDescription": "latrines completed"
+  },
+  {
+    "quantity": "157",
+    "unit": "migrants",
+    "eventType": "EventP",
+    "eventDescription": "latrines catering for"
+  },
+  {
+    "quantity": "65",
+    "unit": "host community persons",
+    "eventType": "EventP",
+    "eventDescription": "latrines catering for"
+  },
+  {
+    "quantity": "50:50",
+    "unit": "male to female",
+    "eventType": "EventP",
+    "eventDescription": "gender distribution"
+  },
+  {
+    "quantity": "30%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children among beneficiaries"
+  },
+  {
+    "quantity": "6",
+    "unit": "Rain Water Harvesting (RWH) units",
+    "eventType": "EventA",
+    "eventDescription": "RWH units completed"
+  },
+  {
+    "quantity": "43",
+    "unit": "VIP latrines",
+    "eventType": "EventA",
+    "eventDescription": "latrines to be completed"
+  }
+]

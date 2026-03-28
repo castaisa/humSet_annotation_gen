@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are food insecure",
+      "start": 159,
+      "end": 176
+    },
+    "quantity": {
+      "text": "54 percent",
+      "start": 133,
+      "end": 143
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 147,
+      "end": 158
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are food insecure",
+      "start": 230,
+      "end": 247
+    },
+    "quantity": {
+      "text": "8 in 10",
+      "start": 202,
+      "end": 209
+    },
+    "unit": {
+      "text": "migrants in transit",
+      "start": 210,
+      "end": 229
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are food insecure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6 in 10",
+      "start": 256,
+      "end": 263
+    },
+    "unit": {
+      "text": "pendular migrants",
+      "start": 264,
+      "end": 281
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are using negative strategies to cope",
+      "start": 400,
+      "end": 437
+    },
+    "quantity": {
+      "text": "55 percent",
+      "start": 374,
+      "end": 384
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 388,
+      "end": 399
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "report having begged on the streets",
+      "start": 483,
+      "end": 518
+    },
+    "quantity": {
+      "text": "half",
+      "start": 462,
+      "end": 466
+    },
+    "unit": {
+      "text": "surveyed",
+      "start": 474,
+      "end": 482
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "would feel comfortable with providing their personal data to WFP",
+      "start": 857,
+      "end": 921
+    },
+    "quantity": {
+      "text": "97 percent",
+      "start": 827,
+      "end": 837
+    },
+    "unit": {
+      "text": "people surveyed",
+      "start": 841,
+      "end": 856
+    }
+  }
+]

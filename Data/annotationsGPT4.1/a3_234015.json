@@ -1,0 +1,9 @@
+[
+  {
+    "quantity": "less than 35%",
+    "unit": "births attended by qualified personnel",
+    "eventType": "EventP",
+    "eventDescription": "births attended by qualified personnel",
+    "modifier": "less than"
+  }
+]

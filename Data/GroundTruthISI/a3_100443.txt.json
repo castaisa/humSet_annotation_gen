@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "201,168",
+      "begin": 76,
+      "end": 83
+    },
+    "eventDescription": {
+      "text": "resulted in the new displacement",
+      "begin": 31,
+      "end": 63
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "individuals",
+      "begin": 84,
+      "end": 95
+    }
+  },
+  {
+    "quantity": {
+      "text": "172,541",
+      "begin": 159,
+      "end": 166
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 130,
+      "end": 134
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 144,
+      "end": 153
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "373,709",
+      "begin": 188,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 144,
+      "end": 153
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDPs",
+      "begin": 196,
+      "end": 200
+    }
+  },
+  {
+    "quantity": {
+      "text": "149,315",
+      "begin": 285,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 240,
+      "end": 248
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDPs",
+      "begin": 293,
+      "end": 297
+    }
+  },
+  {
+    "quantity": {
+      "text": "29,666",
+      "begin": 340,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 240,
+      "end": 248
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDPs",
+      "begin": 351,
+      "end": 355
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,650",
+      "begin": 432,
+      "end": 437
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 240,
+      "end": 248
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDPs",
+      "begin": 442,
+      "end": 446
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "4,638",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "27%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "identified stigmatisation as a risk"
+  },
+  {
+    "quantity": "33%",
+    "unit": "NW",
+    "eventType": "EventO",
+    "eventDescription": "reported stigmatisation"
+  },
+  {
+    "quantity": "27%",
+    "unit": "SW",
+    "eventType": "EventO",
+    "eventDescription": "reported stigmatisation"
+  },
+  {
+    "quantity": "14%",
+    "unit": "West",
+    "eventType": "EventO",
+    "eventDescription": "reported stigmatisation"
+  },
+  {
+    "quantity": "19%",
+    "unit": "Littoral",
+    "eventType": "EventO",
+    "eventDescription": "reported stigmatisation"
+  }
+]

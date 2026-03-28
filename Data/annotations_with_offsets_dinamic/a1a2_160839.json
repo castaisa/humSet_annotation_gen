@@ -1,0 +1,118 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "mapped as hotspots for evictions",
+      "start": 57,
+      "end": 89
+    },
+    "quantity": {
+      "text": "31",
+      "start": 39,
+      "end": 41
+    },
+    "unit": {
+      "text": "informal sites",
+      "start": 42,
+      "end": 56
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "evictions rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30 per cent",
+      "start": 168,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "evictions rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50 per cent",
+      "start": 183,
+      "end": 194
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cases registered in MMC and Jere LGAs",
+      "start": 224,
+      "end": 261
+    },
+    "quantity": {
+      "text": "six",
+      "start": 220,
+      "end": 223
+    },
+    "unit": {
+      "text": "cases",
+      "start": 224,
+      "end": 229
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "span of time for cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 279,
+      "end": 282
+    },
+    "unit": {
+      "text": "month",
+      "start": 283,
+      "end": 288
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cases received per month in previous months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 315,
+      "end": 318
+    },
+    "unit": {
+      "text": "case",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cases received per month in previous months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 322,
+      "end": 325
+    },
+    "unit": {
+      "text": "cases",
+      "start": 326,
+      "end": 331
+    }
+  }
+]

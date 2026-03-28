@@ -1,0 +1,87 @@
+[
+  {
+    "quantity": "13.8 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "current national prevalence of GAM"
+  },
+  {
+    "quantity": "14 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "national prevalence of GAM in 2018"
+  },
+  {
+    "quantity": "17.4 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "national prevalence of GAM in 2017"
+  },
+  {
+    "quantity": "15 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "emergency threshold for GAM"
+  },
+  {
+    "quantity": "10",
+    "unit": "areas",
+    "eventType": "EventO",
+    "eventDescription": "areas affected by below-average rainfall with GAM above emergency threshold"
+  },
+  {
+    "quantity": "33",
+    "unit": "areas",
+    "eventType": "EventO",
+    "eventDescription": "total areas affected by below-average rainfall"
+  },
+  {
+    "quantity": "51.7 per cent",
+    "unit": "malnourished children cases",
+    "eventType": "EventP",
+    "eventDescription": "proportion of malnourished children cases concentrated in six regions"
+  },
+  {
+    "quantity": "six",
+    "unit": "regions",
+    "eventType": "EventO",
+    "eventDescription": "regions with majority of malnourished children cases"
+  },
+  {
+    "quantity": "above 15 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "GAM reported in areas hosting IDPs",
+    "modifier": "above"
+  },
+  {
+    "quantity": "three",
+    "unit": "areas",
+    "eventType": "EventO",
+    "eventDescription": "areas hosting IDPs with GAM above 15 per cent"
+  },
+  {
+    "quantity": "13",
+    "unit": "areas",
+    "eventType": "EventO",
+    "eventDescription": "total areas hosting IDPs"
+  },
+  {
+    "quantity": "20.2 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "GAM in Gaalkacyo"
+  },
+  {
+    "quantity": "18.6 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "GAM in Doolow"
+  },
+  {
+    "quantity": "16.0 per cent",
+    "unit": "prevalence of global acute malnutrition (GAM)",
+    "eventType": "EventP",
+    "eventDescription": "GAM in Mogadishu"
+  }
+]

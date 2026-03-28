@@ -1,0 +1,163 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 365,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "Mid upper arm circumference (MUAC) screening was conducted",
+      "begin": 303,
+      "end": 361
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "payams",
+      "begin": 371,
+      "end": 377
+    }
+  },
+  {
+    "quantity": {
+      "text": "300",
+      "begin": 432,
+      "end": 435
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 412,
+      "end": 420
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "average",
+      "begin": 424,
+      "end": 431
+    },
+    "unit": {
+      "text": "children in each Payam",
+      "begin": 436,
+      "end": 458
+    }
+  },
+  {
+    "quantity": {
+      "text": "9.7%",
+      "begin": 536,
+      "end": 540
+    },
+    "eventDescription": {
+      "text": "findings showed",
+      "begin": 464,
+      "end": 479
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "proxy GAM",
+      "begin": 489,
+      "end": 498
+    }
+  },
+  {
+    "quantity": {
+      "text": "14.2%",
+      "begin": 542,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "findings showed",
+      "begin": 464,
+      "end": 479
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "proxy GAM",
+      "begin": 489,
+      "end": 498
+    }
+  },
+  {
+    "quantity": {
+      "text": "14.2%",
+      "begin": 552,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "findings showed",
+      "begin": 464,
+      "end": 479
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "proxy GAM",
+      "begin": 489,
+      "end": 498
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 597,
+      "end": 602
+    },
+    "unit": {
+      "text": "Payams",
+      "begin": 603,
+      "end": 609
+    }
+  },
+  {
+    "quantity": {
+      "text": "18.1%",
+      "begin": 822,
+      "end": 827
+    },
+    "eventDescription": {
+      "text": "proxy GAM",
+      "begin": 778,
+      "end": 787
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "proxy GAM",
+      "begin": 778,
+      "end": 787
+    }
+  },
+  {
+    "quantity": {
+      "text": "20.3%",
+      "begin": 829,
+      "end": 834
+    },
+    "eventDescription": {
+      "text": "proxy GAM",
+      "begin": 778,
+      "end": 787
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "proxy GAM",
+      "begin": 778,
+      "end": 787
+    }
+  },
+  {
+    "quantity": {
+      "text": "23.7%",
+      "begin": 839,
+      "end": 844
+    },
+    "eventDescription": {
+      "text": "proxy GAM",
+      "begin": 778,
+      "end": 787
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "proxy GAM",
+      "begin": 778,
+      "end": 787
+    }
+  }
+]

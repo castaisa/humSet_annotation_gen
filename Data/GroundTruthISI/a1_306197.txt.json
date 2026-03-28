@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "180",
+      "begin": 275,
+      "end": 278
+    },
+    "eventDescription": {
+      "text": "farmers continue to access fuel through a subsidised price",
+      "begin": 213,
+      "end": 271
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per litre",
+      "begin": 279,
+      "end": 292
+    }
+  },
+  {
+    "quantity": {
+      "text": "11 percent",
+      "begin": 336,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "significant m-o-m increase",
+      "begin": 306,
+      "end": 332
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "average diesel fuel price",
+      "begin": 354,
+      "end": 379
+    }
+  },
+  {
+    "quantity": {
+      "text": "22 175",
+      "begin": 415,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 406,
+      "end": 414
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per 20 litres",
+      "begin": 422,
+      "end": 439
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 000",
+      "begin": 501,
+      "end": 507
+    },
+    "eventDescription": {
+      "text": "recorded the highest diesel fuel price",
+      "begin": 459,
+      "end": 497
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per 20 litres",
+      "begin": 508,
+      "end": 525
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 000",
+      "begin": 561,
+      "end": 566
+    },
+    "eventDescription": {
+      "text": "price in Al-Hasakeh was",
+      "begin": 537,
+      "end": 560
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 567,
+      "end": 570
+    }
+  }
+]

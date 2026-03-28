@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 599,
+      "end": 610
+    },
+    "eventDescription": {
+      "text": "indicated",
+      "begin": 587,
+      "end": 596
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "probability",
+      "begin": 611,
+      "end": 622
+    }
+  },
+  {
+    "quantity": {
+      "text": "57 per cent",
+      "begin": 697,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "indicated",
+      "begin": 587,
+      "end": 596
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "probability",
+      "begin": 709,
+      "end": 720
+    }
+  },
+  {
+    "quantity": {
+      "text": "80 per cent",
+      "begin": 1190,
+      "end": 1201
+    },
+    "modifier": {
+      "text": "Almost",
+      "begin": 1183,
+      "end": 1189
+    },
+    "unit": {
+      "text": "Valle del Cauca department",
+      "begin": 1205,
+      "end": 1231
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 1241,
+      "end": 1249
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 1305,
+      "end": 1310
+    },
+    "unit": {
+      "text": "heavy rainfall events",
+      "begin": 1311,
+      "end": 1332
+    },
+    "eventDescription": {
+      "text": "caused landslides",
+      "begin": 1338,
+      "end": 1355
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "1",
+    "unit": "livestock",
+    "eventType": "EventO",
+    "eventDescription": "sold"
+  },
+  {
+    "quantity": "1",
+    "unit": "stored food",
+    "eventType": "EventO",
+    "eventDescription": "eaten"
+  },
+  {
+    "quantity": "6",
+    "unit": "KIs",
+    "eventType": "EventP",
+    "eventDescription": "got support from neighbours or relatives"
+  },
+  {
+    "quantity": "10",
+    "unit": "KIs",
+    "eventType": "EventP",
+    "eventDescription": "mentioned not being able to get support from neighbours or relatives"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "544",
+      "start": 282,
+      "end": 285
+    },
+    "unit": {
+      "text": "women",
+      "start": 286,
+      "end": 291
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42",
+      "start": 296,
+      "end": 298
+    },
+    "unit": {
+      "text": "newborn",
+      "start": 299,
+      "end": 306
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "ensured safe delivery",
+      "start": 311,
+      "end": 332
+    },
+    "quantity": {
+      "text": "5674",
+      "start": 336,
+      "end": 340
+    },
+    "unit": {
+      "text": "women",
+      "start": 341,
+      "end": 346
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "supported by the mobile teams",
+      "start": 387,
+      "end": 416
+    },
+    "modifier": {
+      "text": "over",
+      "start": 417,
+      "end": 421
+    },
+    "quantity": {
+      "text": "197",
+      "start": 378,
+      "end": 381
+    },
+    "unit": {
+      "text": "women",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "covered in Libya",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "municipalities",
+      "start": 353,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained on safe delivery and Minimum Initial Service Package",
+      "start": 493,
+      "end": 553
+    },
+    "quantity": {
+      "text": "87",
+      "start": 446,
+      "end": 448
+    },
+    "unit": {
+      "text": "health providers and managers",
+      "start": 449,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached by outreach activities on SRH and prevention of Drug abuse",
+      "start": 584,
+      "end": 650
+    },
+    "quantity": {
+      "text": "2065",
+      "start": 558,
+      "end": 562
+    },
+    "unit": {
+      "text": "adolescent",
+      "start": 563,
+      "end": 573
+    }
+  }
+]

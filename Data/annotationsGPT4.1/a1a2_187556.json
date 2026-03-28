@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "4.6 million",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "left temporarily without in-person classes"
+  },
+  {
+    "quantity": "11",
+    "unit": "year old girl",
+    "eventType": "EventP",
+    "eventDescription": "age of Raiza"
+  },
+  {
+    "quantity": "two thirds",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "lack internet connectivity"
+  }
+]

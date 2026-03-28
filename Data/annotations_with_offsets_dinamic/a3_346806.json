@@ -1,0 +1,175 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "decrease in price of surgeon masks",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four percent",
+      "start": 189,
+      "end": 201
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "price of surgeon masks",
+      "start": 152,
+      "end": 174
+    },
+    "quantity": {
+      "text": "SYP 375/mask",
+      "start": 217,
+      "end": 229
+    },
+    "unit": {
+      "text": "mask",
+      "start": 225,
+      "end": 229
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "price of bleach",
+      "start": 239,
+      "end": 254
+    },
+    "quantity": {
+      "text": "SYP 1,456/litre",
+      "start": 283,
+      "end": 298
+    },
+    "unit": {
+      "text": "litre",
+      "start": 293,
+      "end": 298
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "increase in price of soap bars",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "increase in price of hand gel",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two percent",
+      "start": 357,
+      "end": 368
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "price of soap bars",
+      "start": 304,
+      "end": 322
+    },
+    "quantity": {
+      "text": "SYP 546/bar",
+      "start": 378,
+      "end": 389
+    },
+    "unit": {
+      "text": "bar",
+      "start": 386,
+      "end": 389
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "price of hand gel",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "SYP 1,140/50 ml",
+      "start": 394,
+      "end": 409
+    },
+    "unit": {
+      "text": "50 ml",
+      "start": 404,
+      "end": 409
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "increase in price of alcohol spray",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five percent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "increase in price of plastic gloves",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven percent",
+      "start": 503,
+      "end": 516
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "price of alcohol spray",
+      "start": 439,
+      "end": 461
+    },
+    "quantity": {
+      "text": "SYP 2,194/200 ml",
+      "start": 526,
+      "end": 542
+    },
+    "unit": {
+      "text": "200 ml",
+      "start": 536,
+      "end": 542
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "price of plastic gloves",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "SYP 509/pair",
+      "start": 547,
+      "end": 559
+    },
+    "unit": {
+      "text": "pair",
+      "start": 555,
+      "end": 559
+    }
+  }
+]

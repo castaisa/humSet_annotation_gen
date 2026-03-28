@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "100",
+    "unit": "school desks",
+    "eventType": "EventA",
+    "eventDescription": "provided"
+  },
+  {
+    "quantity": "370",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "hosting"
+  },
+  {
+    "quantity": "1,960",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "hosting"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "quantity": {
+      "text": "70",
+      "begin": 9,
+      "end": 11
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 0,
+      "end": 8
+    },
+    "unit": {
+      "text": "health workers",
+      "begin": 12,
+      "end": 26
+    },
+    "eventDescription": {
+      "text": "supplied with PPEs and triage stations",
+      "begin": 32,
+      "end": 70
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 143,
+      "end": 146
+    },
+    "eventDescription": {
+      "text": "temperature checks and outside handwashing stations established",
+      "begin": 76,
+      "end": 139
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Health Care Facility/Maternal Child Health Centres",
+      "begin": 147,
+      "end": 197
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 476,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "guidelines discourage gatherings",
+      "begin": 435,
+      "end": 467
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "over",
+      "begin": 471,
+      "end": 475
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 479,
+      "end": 486
+    }
+  },
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 704,
+      "end": 707
+    },
+    "unit": {
+      "text": "overcrowded IDP sites",
+      "begin": 708,
+      "end": 729
+    }
+  }
+]

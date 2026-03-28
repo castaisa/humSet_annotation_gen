@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "more than 29 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "face hunger and are in need of urgent assistance",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "more than 29 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "at risk of food insecurity",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "811,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "face emergency levels of hunger and require urgent assistance"
+  },
+  {
+    "quantity": "eightfold",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "increase in people facing emergency levels of hunger"
+  }
+]

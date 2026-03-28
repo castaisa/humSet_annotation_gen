@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4.6 million",
+      "start": 62,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "left temporarily without in-person classes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "students",
+      "start": 74,
+      "end": 82
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 335,
+      "end": 337
+    },
+    "eventDescription": {
+      "text": "age of Raiza",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "year old girl",
+      "start": 338,
+      "end": 351
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two thirds",
+      "start": 643,
+      "end": 653
+    },
+    "eventDescription": {
+      "text": "lack internet connectivity",
+      "start": 682,
+      "end": 708
+    },
+    "unit": {
+      "text": "households",
+      "start": 671,
+      "end": 681
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "400",
+      "begin": 87,
+      "end": 90
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 78,
+      "end": 86
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "displaced people",
+      "begin": 91,
+      "end": 107
+    }
+  },
+  {
+    "quantity": {
+      "text": "150",
+      "begin": 119,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 78,
+      "end": 86
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "under-five children",
+      "begin": 123,
+      "end": 142
+    }
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 147,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 78,
+      "end": 86
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "pregnant women",
+      "begin": 150,
+      "end": 164
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 392,
+      "end": 395
+    },
+    "eventDescription": {
+      "text": "have to walk",
+      "begin": 370,
+      "end": 382
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "at least",
+      "begin": 383,
+      "end": 391
+    },
+    "unit": {
+      "text": "m",
+      "begin": 395,
+      "end": 396
+    }
+  }
+]

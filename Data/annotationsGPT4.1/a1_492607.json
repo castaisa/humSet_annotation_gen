@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "49 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "surveyed households with mean rCSI scores greater than 19",
+    "modifier": "about"
+  },
+  {
+    "quantity": "19",
+    "unit": "rCSI score",
+    "eventType": "EventO",
+    "eventDescription": "threshold for most severe categorization"
+  },
+  {
+    "quantity": "77 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households in Bama with rCSI score greater than 19"
+  },
+  {
+    "quantity": "68 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households in Konduga with rCSI score greater than 19"
+  },
+  {
+    "quantity": "19",
+    "unit": "rCSI score",
+    "eventType": "EventO",
+    "eventDescription": "threshold for most severe categorization"
+  },
+  {
+    "quantity": "three",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "average number of days households reduced meals or portion size",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "seven",
+    "unit": "day period",
+    "eventType": "EventO",
+    "eventDescription": "reference period for coping strategies"
+  }
+]

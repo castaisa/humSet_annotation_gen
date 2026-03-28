@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "1,601",
+      "begin": 94,
+      "end": 99
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 100,
+      "end": 111
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "begin": 122,
+      "end": 148
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 152,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "begin": 122,
+      "end": 148
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "resettlement States",
+      "begin": 155,
+      "end": 174
+    }
+  },
+  {
+    "quantity": {
+      "text": "974",
+      "begin": 311,
+      "end": 314
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 315,
+      "end": 326
+    },
+    "eventDescription": {
+      "text": "departed on resettlement",
+      "begin": 332,
+      "end": 356
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "285",
+      "begin": 505,
+      "end": 508
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 509,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "accepted for resettlement",
+      "begin": 531,
+      "end": 556
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "222",
+      "begin": 700,
+      "end": 703
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 704,
+      "end": 715
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "begin": 726,
+      "end": 752
+    },
+    "eventType": "EventP"
+  }
+]

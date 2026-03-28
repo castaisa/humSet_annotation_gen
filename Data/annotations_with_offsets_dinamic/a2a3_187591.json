@@ -1,0 +1,264 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "new COVID-19 cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "125",
+      "start": 21,
+      "end": 24
+    },
+    "unit": {
+      "text": "cases",
+      "start": 38,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 48,
+      "end": 52
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 53,
+      "end": 59
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total confirmed COVID-19 cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,390",
+      "start": 168,
+      "end": 173
+    },
+    "unit": {
+      "text": "cases",
+      "start": 106,
+      "end": 111
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "98",
+      "start": 179,
+      "end": 181
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 182,
+      "end": 188
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "confirmed cases among health workers",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "at least 14 per cent",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 236,
+      "end": 241
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "confirmed cases among health workers",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "250",
+      "start": 232,
+      "end": 235
+    },
+    "unit": {
+      "text": "cases",
+      "start": 266,
+      "end": 271
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "states with confirmed COVID-19 infections",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "seven",
+      "start": 397,
+      "end": 402
+    },
+    "unit": {
+      "text": "states",
+      "start": 403,
+      "end": 409
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cases reported in Banadir State",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 472,
+      "end": 481
+    },
+    "quantity": {
+      "text": "more than 44 per cent",
+      "start": 472,
+      "end": 493
+    },
+    "unit": {
+      "text": "cases",
+      "start": 501,
+      "end": 506
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cases reported in Banadir State",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,535",
+      "start": 495,
+      "end": 500
+    },
+    "unit": {
+      "text": "cases",
+      "start": 538,
+      "end": 543
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths reported in Banadir State",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "55",
+      "start": 511,
+      "end": 513
+    },
+    "unit": {
+      "text": "deaths",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cases reported in Somaliland",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "934",
+      "start": 569,
+      "end": 572
+    },
+    "unit": {
+      "text": "cases",
+      "start": 573,
+      "end": 578
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths reported in Somaliland",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "31",
+      "start": 583,
+      "end": 585
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 586,
+      "end": 592
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "cases reported in Puntland",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "496",
+      "start": 608,
+      "end": 611
+    },
+    "unit": {
+      "text": "cases",
+      "start": 612,
+      "end": 617
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths reported in Puntland",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 622,
+      "end": 626
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 627,
+      "end": 633
+    }
+  }
+]

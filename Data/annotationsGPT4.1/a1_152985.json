@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "99",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "60",
+    "unit": "childbirths",
+    "eventType": "EventP",
+    "eventDescription": "took place"
+  },
+  {
+    "quantity": "105",
+    "unit": "childbirths",
+    "eventType": "EventP",
+    "eventDescription": "took place"
+  },
+  {
+    "quantity": "50",
+    "unit": "child births",
+    "eventType": "EventP",
+    "eventDescription": "took place"
+  },
+  {
+    "quantity": "89",
+    "unit": "child births",
+    "eventType": "EventP",
+    "eventDescription": "took place"
+  }
+]

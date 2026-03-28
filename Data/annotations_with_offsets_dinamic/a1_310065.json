@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "classed as less vulnerable",
+      "start": 102,
+      "end": 128
+    },
+    "quantity": {
+      "text": "one out of three",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "host community households",
+      "start": 60,
+      "end": 85
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "falling into the moderately vulnerable group",
+      "start": 266,
+      "end": 310
+    },
+    "quantity": {
+      "text": "22 percent",
+      "start": 232,
+      "end": 242
+    },
+    "unit": {
+      "text": "host population",
+      "start": 250,
+      "end": 265
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "transitioning to the less vulnerable category",
+      "start": 441,
+      "end": 486
+    },
+    "quantity": {
+      "text": "13 percent",
+      "start": 412,
+      "end": 422
+    },
+    "unit": {
+      "text": "population",
+      "start": 430,
+      "end": 440
+    }
+  }
+]

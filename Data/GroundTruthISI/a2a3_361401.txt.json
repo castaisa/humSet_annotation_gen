@@ -1,0 +1,25 @@
+[
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 561,
+      "end": 562
+    },
+    "unit": {
+      "text": "children",
+      "begin": 546,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "fatalities",
+      "begin": 532,
+      "end": 542
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "unde",
+      "begin": 555,
+      "end": 559
+    }
+  }
+]

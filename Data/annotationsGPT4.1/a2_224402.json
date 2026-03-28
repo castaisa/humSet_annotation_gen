@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "189",
+    "unit": "boys and girls aged 6-59 months",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "189",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "total children screened"
+  },
+  {
+    "quantity": "11",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "found with SAM"
+  },
+  {
+    "quantity": "5.8%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "found with SAM"
+  },
+  {
+    "quantity": "15",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "found with MAM"
+  },
+  {
+    "quantity": "7.9%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "found with MAM"
+  },
+  {
+    "quantity": "47",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "from other accessible LGAs"
+  },
+  {
+    "quantity": "25%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "from other accessible LGAs"
+  },
+  {
+    "quantity": "105",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "came from neighboring countries"
+  },
+  {
+    "quantity": "55%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "came from neighboring countries"
+  },
+  {
+    "quantity": "37",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "from inaccessible locations"
+  },
+  {
+    "quantity": "20%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "from inaccessible locations"
+  }
+]

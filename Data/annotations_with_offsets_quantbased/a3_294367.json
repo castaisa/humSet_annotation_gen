@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "15",
+      "start": 72,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "prioritized",
+      "start": 377,
+      "end": 388
+    },
+    "unit": {
+      "text": "localities",
+      "start": 89,
+      "end": 99
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18",
+      "start": 86,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "have returnees",
+      "start": 114,
+      "end": 128
+    },
+    "unit": {
+      "text": "localities",
+      "start": 89,
+      "end": 99
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five",
+      "start": 422,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "continue to be prioritized",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "return areas",
+      "start": 427,
+      "end": 439
+    }
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "quantity": {
+      "text": "473",
+      "begin": 124,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "survey",
+      "begin": 114,
+      "end": 120
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "companies",
+      "begin": 128,
+      "end": 137
+    }
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 189,
+      "end": 192
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 184,
+      "end": 188
+    },
+    "unit": {
+      "text": "companies",
+      "begin": 196,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "operating at between 0 and 30% of their capacity",
+      "begin": 211,
+      "end": 259
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "84%",
+      "begin": 261,
+      "end": 264
+    },
+    "unit": {
+      "text": "companies",
+      "begin": 196,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "reported a reduction in sales compared to the previous year",
+      "begin": 265,
+      "end": 324
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 330,
+      "end": 333
+    },
+    "unit": {
+      "text": "companies",
+      "begin": 196,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "already reduced their labor force",
+      "begin": 338,
+      "end": 371
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "0 and 30%",
+      "begin": 232,
+      "end": 241
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 224,
+      "end": 231
+    },
+    "unit": {
+      "text": "capacity",
+      "begin": 251,
+      "end": 259
+    }
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "capacity",
+      "begin": 251,
+      "end": 259
+    }
+  },
+  {
+    "quantity": {
+      "text": "0",
+      "begin": 232,
+      "end": 233
+    },
+    "unit": {
+      "text": "capacity",
+      "begin": 251,
+      "end": 259
+    }
+  },
+  {
+    "quantity": {
+      "text": "129",
+      "begin": 391,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "survey",
+      "begin": 381,
+      "end": 387
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "companies",
+      "begin": 395,
+      "end": 404
+    }
+  },
+  {
+    "quantity": {
+      "text": "37%",
+      "begin": 416,
+      "end": 419
+    },
+    "unit": {
+      "text": "companies",
+      "begin": 423,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "planning lay-offs",
+      "begin": 438,
+      "end": 455
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "112,000",
+      "begin": 539,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "reported a reduction",
+      "begin": 508,
+      "end": 528
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "almost",
+      "begin": 532,
+      "end": 538
+    },
+    "unit": {
+      "text": "affiliates",
+      "begin": 547,
+      "end": 557
+    }
+  }
+]

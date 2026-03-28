@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "48 per cent",
+    "unit": "respondents in IDP camps",
+    "eventType": "EventP",
+    "eventDescription": "cited separated children as a concern"
+  },
+  {
+    "quantity": "44 per cent",
+    "unit": "respondents in urban areas",
+    "eventType": "EventP",
+    "eventDescription": "cited separated children as a concern"
+  },
+  {
+    "quantity": "7 per cent",
+    "unit": "respondents in rural locations",
+    "eventType": "EventP",
+    "eventDescription": "cited separated children as a concern"
+  },
+  {
+    "quantity": "68 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported losing parents/children when moving to safer areas as the main cause of family separation",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "62 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "cited that caregivers willingly send their children to work far from home"
+  }
+]

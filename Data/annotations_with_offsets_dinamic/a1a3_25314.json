@@ -1,0 +1,478 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 25,
+      "end": 31
+    },
+    "quantity": {
+      "text": "twenty-three",
+      "start": 32,
+      "end": 44
+    },
+    "unit": {
+      "text": "Boko Haram militants",
+      "start": 45,
+      "end": 65
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 124,
+      "end": 127
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 128,
+      "end": 134
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 164,
+      "end": 167
+    },
+    "unit": {
+      "text": "death",
+      "start": 168,
+      "end": 173
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 234,
+      "end": 237
+    },
+    "unit": {
+      "text": "death",
+      "start": 238,
+      "end": 243
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 264,
+      "end": 267
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 268,
+      "end": 274
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 305,
+      "end": 309
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 310,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 355,
+      "end": 361
+    },
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "policeman",
+      "start": 364,
+      "end": 373
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "abducted",
+      "start": 378,
+      "end": 386
+    },
+    "quantity": {
+      "text": "twenty",
+      "start": 387,
+      "end": 393
+    },
+    "unit": {
+      "text": "Independent National Electoral Commission (INEC) ad hoc staff",
+      "start": 394,
+      "end": 455
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 516,
+      "end": 519
+    },
+    "unit": {
+      "text": "death",
+      "start": 520,
+      "end": 525
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 587,
+      "end": 590
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 591,
+      "end": 597
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 626,
+      "end": 630
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 631,
+      "end": 637
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 699,
+      "end": 702
+    },
+    "unit": {
+      "text": "death",
+      "start": 703,
+      "end": 708
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 774,
+      "end": 777
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 778,
+      "end": 784
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "kidnapped",
+      "start": 841,
+      "end": 850
+    },
+    "quantity": {
+      "text": "six",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "INEC staff",
+      "start": 825,
+      "end": 835
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 918,
+      "end": 924
+    },
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "ballot box snatcher",
+      "start": 894,
+      "end": 913
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 989,
+      "end": 992
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 993,
+      "end": 999
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 1056,
+      "end": 1059
+    },
+    "unit": {
+      "text": "death",
+      "start": 1060,
+      "end": 1065
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 1131,
+      "end": 1134
+    },
+    "unit": {
+      "text": "death",
+      "start": 1135,
+      "end": 1140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "death",
+      "start": 1291,
+      "end": 1296
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 1175,
+      "end": 1181
+    },
+    "quantity": {
+      "text": "four",
+      "start": 1182,
+      "end": 1186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "kidnapped",
+      "start": 1191,
+      "end": 1200
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 1225,
+      "end": 1229
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 1287,
+      "end": 1290
+    },
+    "unit": {
+      "text": "death",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 1317,
+      "end": 1320
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 1321,
+      "end": 1327
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 1365,
+      "end": 1371
+    },
+    "quantity": {
+      "text": "one",
+      "start": 1372,
+      "end": 1375
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "resulted in death",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 1435,
+      "end": 1438
+    },
+    "unit": {
+      "text": "death",
+      "start": 1439,
+      "end": 1444
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "kidnapped",
+      "start": 1485,
+      "end": 1494
+    },
+    "quantity": {
+      "text": "five",
+      "start": 1495,
+      "end": 1499
+    },
+    "unit": {
+      "text": "sailors",
+      "start": 1500,
+      "end": 1507
+    }
+  }
+]

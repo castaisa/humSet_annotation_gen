@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "8.8 million",
+      "begin": 197,
+      "end": 208
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 189,
+      "end": 195
+    },
+    "unit": {
+      "text": "$",
+      "begin": 196,
+      "end": 197
+    },
+    "eventDescription": {
+      "text": "FY 2021 funding",
+      "begin": 212,
+      "end": 227
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 270,
+      "end": 272
+    },
+    "unit": {
+      "text": "NGOs",
+      "begin": 273,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "support critical WASH activities",
+      "begin": 281,
+      "end": 313
+    },
+    "eventType": "EventO"
+  }
+]

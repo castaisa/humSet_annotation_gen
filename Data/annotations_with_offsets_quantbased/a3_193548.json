@@ -1,0 +1,223 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "39 per cent",
+      "start": 58,
+      "end": 69
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 158,
+      "end": 186
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 149,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "36 per cent",
+      "start": 79,
+      "end": 90
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 158,
+      "end": 186
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 149,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "42%",
+      "start": 127,
+      "end": 130
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 158,
+      "end": 186
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 149,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "About half",
+      "start": 188,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 158,
+      "end": 186
+    },
+    "unit": {
+      "text": "the people in 24 per cent of sites",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 188,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "24 per cent",
+      "start": 213,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 250,
+      "end": 278
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 241,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "26%",
+      "start": 236,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 250,
+      "end": 278
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 241,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Everyone",
+      "start": 280,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 250,
+      "end": 278
+    },
+    "unit": {
+      "text": "in 18 per cent of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "18 per cent",
+      "start": 292,
+      "end": 303
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 250,
+      "end": 278
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 317,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1%",
+      "start": 313,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 326,
+      "end": 354
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 317,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "a few",
+      "start": 366,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 326,
+      "end": 354
+    },
+    "unit": {
+      "text": "people at 15 per cent of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "15 per cent",
+      "start": 382,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 326,
+      "end": 354
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 441,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "4 per cent",
+      "start": 501,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 450,
+      "end": 478
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 559,
+      "end": 567
+    }
+  }
+]

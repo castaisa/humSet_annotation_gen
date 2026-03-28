@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": {
+      "text": "2 × 2",
+      "begin": 903,
+      "end": 908
+    },
+    "unit": {
+      "text": "meter area",
+      "begin": 909,
+      "end": 919
+    }
+  }
+]

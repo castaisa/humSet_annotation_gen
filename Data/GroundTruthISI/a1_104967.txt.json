@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "6,000",
+      "begin": 592,
+      "end": 597
+    },
+    "eventDescription": {
+      "text": "provide",
+      "begin": 584,
+      "end": 591
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "asylumseekers",
+      "begin": 598,
+      "end": 611
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,000",
+      "begin": 653,
+      "end": 658
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 643,
+      "end": 652
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 659,
+      "end": 666
+    },
+    "eventDescription": {
+      "text": "met the criteria for insurance coverage",
+      "begin": 672,
+      "end": 711
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "287",
+      "begin": 723,
+      "end": 726
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 659,
+      "end": 666
+    },
+    "eventDescription": {
+      "text": "Venezuelan",
+      "begin": 746,
+      "end": 756
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 879,
+      "end": 882
+    },
+    "eventDescription": {
+      "text": "process",
+      "begin": 871,
+      "end": 878
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "individulas per week",
+      "begin": 883,
+      "end": 903
+    }
+  }
+]

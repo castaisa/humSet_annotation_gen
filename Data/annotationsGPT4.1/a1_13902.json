@@ -1,0 +1,52 @@
+[
+  {
+    "quantity": "169",
+    "unit": "partners",
+    "eventType": "EventO",
+    "eventDescription": "actively coordinated"
+  },
+  {
+    "quantity": "22",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "covered by humanitarian operations"
+  },
+  {
+    "quantity": "over 7.5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "assisted monthly with humanitarian assistance",
+    "modifier": "over"
+  },
+  {
+    "quantity": "7.5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "provided emergency food assistance"
+  },
+  {
+    "quantity": "more than twice",
+    "unit": "the number of people",
+    "eventType": "EventP",
+    "eventDescription": "reached over a year ago",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "6.3 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "benefited from water, sanitation and hygiene services"
+  },
+  {
+    "quantity": "60 per cent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "increase in people benefiting from water, sanitation and hygiene services"
+  },
+  {
+    "quantity": "50 per cent",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "increase in people receiving health services"
+  }
+]

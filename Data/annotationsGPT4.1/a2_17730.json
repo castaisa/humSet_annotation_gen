@@ -1,0 +1,88 @@
+[
+  {
+    "quantity": "29%",
+    "unit": "casualties in Hudaydah",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties"
+  },
+  {
+    "quantity": "19%",
+    "unit": "casualties in Sa\u2019ada",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties"
+  },
+  {
+    "quantity": "12%",
+    "unit": "casualties in Taizz",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties"
+  },
+  {
+    "quantity": "9%",
+    "unit": "casualties in Hajjah",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties"
+  },
+  {
+    "quantity": "7%",
+    "unit": "casualties in Amanat al Asimah",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties"
+  },
+  {
+    "quantity": "more than 480",
+    "unit": "incidents of armed violence",
+    "eventType": "EventO",
+    "eventDescription": "armed violence incidents",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "41%",
+    "unit": "incidents (airstrikes)",
+    "eventType": "EventO",
+    "eventDescription": "airstrike incidents"
+  },
+  {
+    "quantity": "41%",
+    "unit": "incidents (shelling)",
+    "eventType": "EventO",
+    "eventDescription": "shelling incidents"
+  },
+  {
+    "quantity": "7%",
+    "unit": "incidents (landmines, IEDs and UXOs)",
+    "eventType": "EventO",
+    "eventDescription": "landmines, IEDs and UXOs incidents"
+  },
+  {
+    "quantity": "4%",
+    "unit": "incidents (small arms fire)",
+    "eventType": "EventO",
+    "eventDescription": "small arms fire incidents"
+  },
+  {
+    "quantity": "4%",
+    "unit": "incidents (snipers)",
+    "eventType": "EventO",
+    "eventDescription": "sniper incidents"
+  },
+  {
+    "quantity": "one-third",
+    "unit": "civilian casualties (women and children)",
+    "eventType": "EventP",
+    "eventDescription": "women and children casualties"
+  },
+  {
+    "quantity": "6%",
+    "unit": "incidents (health, education, water, food and other protected sites)",
+    "eventType": "EventO",
+    "eventDescription": "incidents striking protected sites"
+  },
+  {
+    "quantity": "more than 7%",
+    "unit": "incidents (civilians in vehicles)",
+    "eventType": "EventP",
+    "eventDescription": "incidents striking civilians in vehicles",
+    "modifier": "more than"
+  }
+]

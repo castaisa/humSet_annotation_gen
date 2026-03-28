@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "15,810",
+      "begin": 25,
+      "end": 31
+    },
+    "unit": {
+      "text": "migrants and refugees",
+      "begin": 32,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "brought back to Libyan shores",
+      "begin": 59,
+      "end": 88
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13,575",
+      "begin": 214,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "rescued or intercepted",
+      "begin": 186,
+      "end": 208
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "migrants and refugees",
+      "begin": 221,
+      "end": 242
+    }
+  }
+]

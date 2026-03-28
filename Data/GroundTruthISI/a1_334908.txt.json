@@ -1,0 +1,200 @@
+[
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 107,
+      "end": 110
+    },
+    "unit": {
+      "text": "nor’wester",
+      "begin": 111,
+      "end": 121
+    },
+    "eventDescription": {
+      "text": "took place",
+      "begin": 122,
+      "end": 132
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 228,
+      "end": 229
+    },
+    "unit": {
+      "text": "person",
+      "begin": 230,
+      "end": 236
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 237,
+      "end": 241
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 276,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "Nor’wester blew over",
+      "begin": 255,
+      "end": 275
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "upazilas of Gaibandha district",
+      "begin": 278,
+      "end": 308
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 318,
+      "end": 320
+    },
+    "unit": {
+      "text": "person",
+      "begin": 321,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "died and caused a great damage to kacha houses",
+      "begin": 328,
+      "end": 374
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 447,
+      "end": 449
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 438,
+      "end": 446
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "upazilas",
+      "begin": 450,
+      "end": 458
+    }
+  },
+  {
+    "quantity": {
+      "text": "25,325",
+      "begin": 487,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "caused huge damage",
+      "begin": 465,
+      "end": 483
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Hactor Boro rice field",
+      "begin": 494,
+      "end": 516
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 539,
+      "end": 540
+    },
+    "unit": {
+      "text": "people",
+      "begin": 541,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 548,
+      "end": 552
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 578,
+      "end": 580
+    },
+    "unit": {
+      "text": "villages",
+      "begin": 581,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "were affected",
+      "begin": 590,
+      "end": 603
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 605,
+      "end": 606
+    },
+    "unit": {
+      "text": "upazilas",
+      "begin": 607,
+      "end": 615
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 644,
+      "end": 652
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "117",
+      "begin": 705,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "causes damage",
+      "begin": 688,
+      "end": 701
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Hactor Rice field",
+      "begin": 709,
+      "end": 726
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 865,
+      "end": 866
+    },
+    "unit": {
+      "text": "person",
+      "begin": 867,
+      "end": 873
+    },
+    "eventDescription": {
+      "text": "died and caused damage",
+      "begin": 874,
+      "end": 896
+    },
+    "eventType": "EventO"
+  }
+]

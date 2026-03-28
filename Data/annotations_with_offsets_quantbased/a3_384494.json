@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 79,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": 69,
+      "end": 78
+    },
+    "unit": {
+      "text": "times",
+      "start": 83,
+      "end": 88
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 99,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": 69,
+      "end": 78
+    },
+    "unit": {
+      "text": "times",
+      "start": 105,
+      "end": 110
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Fifty-four per cent",
+      "start": 112,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "displaced two times",
+      "start": 69,
+      "end": 88
+    },
+    "unit": {
+      "text": "of IDPs",
+      "start": 148,
+      "end": 155
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "66 per cent",
+      "start": 243,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "displaced before",
+      "start": 312,
+      "end": 328
+    },
+    "unit": {
+      "text": "of displaced persons",
+      "start": 271,
+      "end": 291
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4%",
+      "start": 388,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "displaced only once",
+      "start": 438,
+      "end": 457
+    },
+    "unit": {
+      "text": "of IDPs",
+      "start": 407,
+      "end": 414
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "61%",
+      "start": 564,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "displaced more than three times",
+      "start": 592,
+      "end": 623
+    },
+    "unit": {
+      "text": "of people",
+      "start": 553,
+      "end": 562
+    }
+  }
+]

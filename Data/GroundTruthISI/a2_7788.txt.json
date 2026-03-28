@@ -1,0 +1,129 @@
+[
+  {
+    "quantity": {
+      "text": "188",
+      "begin": 126,
+      "end": 129
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 130,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "168",
+      "begin": 115,
+      "end": 118
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 130,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "191",
+      "begin": 500,
+      "end": 503
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 504,
+      "end": 513
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 488,
+      "end": 492
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 504,
+      "end": 513
+    }
+  },
+  {
+    "quantity": {
+      "text": "8.1",
+      "begin": 556,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "hazard and exposure index",
+      "begin": 527,
+      "end": 552
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6.9",
+      "begin": 586,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "vulnerability index",
+      "begin": 563,
+      "end": 582
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7.9",
+      "begin": 629,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "lack of coping capacity index",
+      "begin": 596,
+      "end": 625
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two and a half",
+      "begin": 647,
+      "end": 661
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 640,
+      "end": 646
+    },
+    "unit": {
+      "text": "years",
+      "begin": 662,
+      "end": 667
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 854,
+      "end": 858
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 847,
+      "end": 853
+    },
+    "unit": {
+      "text": "Yemeni population",
+      "begin": 866,
+      "end": 883
+    },
+    "eventDescription": {
+      "text": "high rate of unemployment and the basic social services on the verge to collapse",
+      "begin": 929,
+      "end": 1009
+    },
+    "eventType": "EventO"
+  }
+]

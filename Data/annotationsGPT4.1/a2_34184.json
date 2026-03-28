@@ -1,0 +1,16 @@
+[
+  {
+    "quantity": "4",
+    "unit": "kilometers",
+    "eventType": "EventO",
+    "eventDescription": "distance from Maiduguri",
+    "modifier": "about"
+  },
+  {
+    "quantity": "10",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "at least"
+  }
+]

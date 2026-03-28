@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "23",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "schools closed"
+  },
+  {
+    "quantity": "12",
+    "unit": "independent states",
+    "eventType": "EventO",
+    "eventDescription": "schools closed"
+  },
+  {
+    "quantity": "more than 159 million",
+    "unit": "children and adolescents",
+    "eventType": "EventP",
+    "eventDescription": "affected",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "more than 95%",
+    "unit": "students enrolled",
+    "eventType": "EventP",
+    "eventDescription": "affected",
+    "modifier": "more than"
+  }
+]

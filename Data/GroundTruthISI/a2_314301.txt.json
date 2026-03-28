@@ -1,0 +1,49 @@
+[
+  {
+    "quantity": {
+      "text": "90%",
+      "begin": 708,
+      "end": 711
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 703,
+      "end": 707
+    }
+  },
+  {
+    "quantity": {
+      "text": "9.3%",
+      "begin": 970,
+      "end": 974
+    },
+    "eventDescription": {
+      "text": "formal imports from Uganda declined",
+      "begin": 934,
+      "end": 969
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "year-on-year",
+      "begin": 975,
+      "end": 987
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 995,
+      "end": 1000
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 988,
+      "end": 992
+    },
+    "unit": {
+      "text": "month",
+      "begin": 1001,
+      "end": 1006
+    }
+  }
+]

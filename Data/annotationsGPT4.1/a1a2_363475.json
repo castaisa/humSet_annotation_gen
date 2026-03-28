@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "2",
+    "unit": "collective settlement",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "1",
+    "unit": "host community",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "1",
+    "unit": "host community location",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "400",
+    "unit": "Housing Estate camp",
+    "eventType": "EventO",
+    "eventDescription": "location of damage"
+  },
+  {
+    "quantity": "7",
+    "unit": "shelters",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "100",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "affected",
+    "modifier": "estimated"
+  }
+]

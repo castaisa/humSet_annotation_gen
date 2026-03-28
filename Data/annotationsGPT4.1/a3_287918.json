@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "408",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "COVID-19 associated deaths"
+  },
+  {
+    "quantity": "1.93 %",
+    "unit": "case fatality rate",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate"
+  },
+  {
+    "quantity": "37.4",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "mean age of COVID-19 cases"
+  },
+  {
+    "quantity": "53",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases under the age of five"
+  },
+  {
+    "quantity": "five",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age threshold for cases under five"
+  },
+  {
+    "quantity": "2,172",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases over the age of 60"
+  },
+  {
+    "quantity": "10.3%",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "percentage of cases over the age of 60"
+  },
+  {
+    "quantity": "60",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age threshold for cases over 60"
+  },
+  {
+    "quantity": "94,000",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "samples tested via RT-PCR"
+  },
+  {
+    "quantity": "24.0%",
+    "unit": "test positivity rate",
+    "eventType": "EventO",
+    "eventDescription": "test positivity rate"
+  },
+  {
+    "quantity": "1,554",
+    "unit": "health care workers (HCWs) and health facilities staff",
+    "eventType": "EventP",
+    "eventDescription": "health care workers and staff contracted COVID-19"
+  },
+  {
+    "quantity": "7.4 percent",
+    "unit": "health care workers (HCWs) and health facilities staff",
+    "eventType": "EventP",
+    "eventDescription": "percentage of health care workers and staff contracted COVID-19"
+  },
+  {
+    "quantity": "1,136",
+    "unit": "other staff",
+    "eventType": "EventP",
+    "eventDescription": "other staff working in healthcare facilities or community health workers contracted COVID-19"
+  },
+  {
+    "quantity": "5.4 percent",
+    "unit": "other staff",
+    "eventType": "EventP",
+    "eventDescription": "percentage of other staff contracted COVID-19"
+  }
+]

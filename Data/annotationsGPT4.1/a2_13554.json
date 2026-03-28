@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "200",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "took shelter"
+  },
+  {
+    "quantity": "5",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "sheltered displaced families"
+  }
+]

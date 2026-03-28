@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Rohingya household expenditure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "735",
+      "start": 534,
+      "end": 537
+    },
+    "unit": {
+      "text": "BDT per capita per month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Rohingya household expenditure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 554,
+      "end": 555
+    },
+    "unit": {
+      "text": "USD per capita per month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "host community household expenditure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2378",
+      "start": 595,
+      "end": 599
+    },
+    "unit": {
+      "text": "BDT per capita per month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "host community household expenditure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28",
+      "start": 616,
+      "end": 618
+    },
+    "unit": {
+      "text": "USD per capita per month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Rohingya household expenditure including food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1908",
+      "start": 728,
+      "end": 732
+    },
+    "unit": {
+      "text": "BDT per capita per month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Rohingya household expenditure including food assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23",
+      "start": 751,
+      "end": 753
+    },
+    "unit": {
+      "text": "USD per capita per month",
+      "start": null,
+      "end": null
+    }
+  }
+]

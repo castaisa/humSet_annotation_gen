@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "868",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average selling price of tomato"
+  },
+  {
+    "quantity": "28 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase on tomato prices"
+  },
+  {
+    "quantity": "700",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price of tomatoes in Rural Damascus"
+  },
+  {
+    "quantity": "42 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in tomato selling price in Rural Damascus"
+  },
+  {
+    "quantity": "1 050",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "selling price of tomatoes in Aleppo in March"
+  },
+  {
+    "quantity": "717",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "selling price of tomatoes in Aleppo in April"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in Dar\u00e1 governorate"
+  },
+  {
+    "quantity": "one",
+    "unit": "kilogram of tomatoes",
+    "eventType": "EventO",
+    "eventDescription": "selling at 868 SYP per kg"
+  },
+  {
+    "quantity": "868",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "selling price of one kilogram of tomatoes"
+  }
+]

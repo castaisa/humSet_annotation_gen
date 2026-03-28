@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "53%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "paid for health care"
+  },
+  {
+    "quantity": "83%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "paid for health care"
+  },
+  {
+    "quantity": "4%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "sought community support"
+  },
+  {
+    "quantity": "16%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "sought community support"
+  },
+  {
+    "quantity": "53%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "went into debt to cover health expenses"
+  },
+  {
+    "quantity": "34%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "went into debt to cover health expenses"
+  },
+  {
+    "quantity": "23%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "did not adopt any health-related coping strategies"
+  },
+  {
+    "quantity": "0%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "did not adopt any health-related coping strategies"
+  }
+]

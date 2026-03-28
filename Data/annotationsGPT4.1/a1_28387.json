@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": "34%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with high or very high needs"
+  },
+  {
+    "quantity": "93%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households exhibiting needs in food security"
+  },
+  {
+    "quantity": "84%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households exhibiting needs in shelter/NFI"
+  },
+  {
+    "quantity": "68%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households exhibiting needs in livelihoods"
+  },
+  {
+    "quantity": "18%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households exhibiting needs in nutrition"
+  },
+  {
+    "quantity": "21.2",
+    "unit": "severity of needs",
+    "eventType": "EventO",
+    "eventDescription": "severity of needs"
+  },
+  {
+    "quantity": "5.7",
+    "unit": "severity of shelter/NFI needs",
+    "eventType": "EventO",
+    "eventDescription": "severity of shelter/NFI needs"
+  },
+  {
+    "quantity": "5.6",
+    "unit": "severity of food security needs",
+    "eventType": "EventO",
+    "eventDescription": "severity of food security needs"
+  },
+  {
+    "quantity": "5.7",
+    "unit": "severity of shelter/NFI needs",
+    "eventType": "EventO",
+    "eventDescription": "severity of shelter/NFI needs in Monguno"
+  },
+  {
+    "quantity": "79%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households having inadequate shelter"
+  },
+  {
+    "quantity": "75%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households sharing accommodations with multiple families"
+  },
+  {
+    "quantity": "41%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with one or more vulnerabilities",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "53%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with one or more vulnerabilities in Borno State"
+  }
+]

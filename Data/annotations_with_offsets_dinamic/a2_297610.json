@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported their children had no access to electricity for learning purposes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "65%",
+      "start": 501,
+      "end": 504
+    },
+    "unit": {
+      "text": "caregivers",
+      "start": 369,
+      "end": 379
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had access to electricity for learning purposes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "82%",
+      "start": 641,
+      "end": 644
+    },
+    "unit": {
+      "text": "children",
+      "start": 549,
+      "end": 557
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had access to electricity for learning purposes",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 687,
+      "end": 695
+    },
+    "quantity": {
+      "text": "at least 6 hrs/day",
+      "start": 687,
+      "end": 705
+    },
+    "unit": {
+      "text": "children",
+      "start": 648,
+      "end": 656
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported facing electricity problems",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 716,
+      "end": 719
+    },
+    "unit": {
+      "text": "caregiver KIs",
+      "start": 720,
+      "end": 733
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "166",
+    "unit": "SYP per pack",
+    "eventType": "EventO",
+    "eventDescription": "selling price of bread"
+  },
+  {
+    "quantity": "5 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m increase"
+  },
+  {
+    "quantity": "250",
+    "unit": "SYP per pack",
+    "eventType": "EventO",
+    "eventDescription": "selling price of bread"
+  },
+  {
+    "quantity": "5 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m decrease"
+  },
+  {
+    "quantity": "22 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-o-m increase"
+  },
+  {
+    "quantity": "195",
+    "unit": "SYP per pack",
+    "eventType": "EventO",
+    "eventDescription": "selling price of bread"
+  },
+  {
+    "quantity": "160",
+    "unit": "SYP per pack",
+    "eventType": "EventO",
+    "eventDescription": "selling price of bread"
+  },
+  {
+    "quantity": "18 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "m-om increase"
+  }
+]

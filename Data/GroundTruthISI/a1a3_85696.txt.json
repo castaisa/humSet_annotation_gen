@@ -1,0 +1,192 @@
+[
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 473,
+      "end": 475
+    },
+    "unit": {
+      "text": "students of secondary school age",
+      "begin": 476,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "have been assisted by the Government of Guyana",
+      "begin": 509,
+      "end": 555
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "108",
+      "begin": 1063,
+      "end": 1066
+    },
+    "unit": {
+      "text": "Venezuelan children",
+      "begin": 1067,
+      "end": 1086
+    },
+    "eventDescription": {
+      "text": "enrolled",
+      "begin": 1087,
+      "end": 1095
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "46",
+      "begin": 1129,
+      "end": 1131
+    },
+    "unit": {
+      "text": "Venezuelan children",
+      "begin": 1067,
+      "end": 1086
+    },
+    "eventDescription": {
+      "text": "Mabaruma Primary School",
+      "begin": 1135,
+      "end": 1158
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36",
+      "begin": 1160,
+      "end": 1162
+    },
+    "unit": {
+      "text": "Venezuelan children",
+      "begin": 1067,
+      "end": 1086
+    },
+    "eventDescription": {
+      "text": "Wauna Primary School",
+      "begin": 1166,
+      "end": 1186
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "26",
+      "begin": 1192,
+      "end": 1194
+    },
+    "unit": {
+      "text": "Venezuelan children",
+      "begin": 1067,
+      "end": 1086
+    },
+    "eventDescription": {
+      "text": "Whitewater Primary School",
+      "begin": 1198,
+      "end": 1223
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 1242,
+      "end": 1244
+    },
+    "unit": {
+      "text": "males",
+      "begin": 1249,
+      "end": 1254
+    },
+    "eventDescription": {
+      "text": "enrolled",
+      "begin": 1255,
+      "end": 1263
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "63",
+      "begin": 1268,
+      "end": 1270
+    },
+    "unit": {
+      "text": "females",
+      "begin": 1275,
+      "end": 1282
+    },
+    "eventDescription": {
+      "text": "enrolled",
+      "begin": 1283,
+      "end": 1291
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 1892,
+      "end": 1894
+    },
+    "eventDescription": {
+      "text": "Cases of pregnancies among girls as young",
+      "begin": 1847,
+      "end": 1888
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "years",
+      "begin": 1895,
+      "end": 1900
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 1998,
+      "end": 2000
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 2008,
+      "end": 2017
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 1990,
+      "end": 1997
+    },
+    "eventDescription": {
+      "text": "being victims of trafficking in persons in bars and brothels in Guyana, particularly in the mining areas",
+      "begin": 2018,
+      "end": 2122
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 2005,
+      "end": 2007
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 2008,
+      "end": 2017
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 1990,
+      "end": 1997
+    },
+    "eventDescription": {
+      "text": "being victims of trafficking in persons in bars and brothels in Guyana, particularly in the mining areas",
+      "begin": 2018,
+      "end": 2122
+    },
+    "eventType": "EventO"
+  }
+]

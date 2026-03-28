@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "observed at FMPs on a daily basis",
+      "start": 111,
+      "end": 144
+    },
+    "modifier": {
+      "text": "on average",
+      "start": 76,
+      "end": 86
+    },
+    "quantity": {
+      "text": "1,298",
+      "start": 88,
+      "end": 93
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 94,
+      "end": 105
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "decrease in comparison",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 per cent",
+      "start": 176,
+      "end": 186
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "observed on a daily basis",
+      "start": 226,
+      "end": 251
+    },
+    "quantity": {
+      "text": "1,336",
+      "start": 208,
+      "end": 213
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 214,
+      "end": 225
+    }
+  }
+]

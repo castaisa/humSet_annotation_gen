@@ -1,0 +1,75 @@
+[
+  {
+    "quantity": "39 per cent",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "36 per cent",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "42%",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "About half",
+    "unit": "the people in 24 per cent of sites",
+    "eventType": "EventP",
+    "eventDescription": "had access to soap and water",
+    "modifier": "about"
+  },
+  {
+    "quantity": "24 per cent",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "26%",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "Everyone",
+    "unit": "in 18 per cent of sites",
+    "eventType": "EventP",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "18 per cent",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "1%",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "a few",
+    "unit": "people at 15 per cent of sites",
+    "eventType": "EventP",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "15 per cent",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  },
+  {
+    "quantity": "4 per cent",
+    "unit": "of sites",
+    "eventType": "EventA",
+    "eventDescription": "had access to soap and water"
+  }
+]

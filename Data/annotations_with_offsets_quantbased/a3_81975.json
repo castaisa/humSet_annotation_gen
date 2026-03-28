@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "68 percent",
+      "start": 655,
+      "end": 665
+    },
+    "eventDescription": {
+      "text": "resources allocated to the Venezuelan migration crisis",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "resources",
+      "start": 679,
+      "end": 688
+    },
+    "modifier": {
+      "text": "about",
+      "start": 649,
+      "end": 654
+    }
+  },
+  {
+    "eventType": "",
+    "quantity": {
+      "text": "2019",
+      "start": 702,
+      "end": 706
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one in five",
+      "start": 1192,
+      "end": 1203
+    },
+    "eventDescription": {
+      "text": "consultations related to sexual and reproductive health issue",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "consultations",
+      "start": 1204,
+      "end": 1217
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 1178,
+      "end": 1191
+    }
+  }
+]

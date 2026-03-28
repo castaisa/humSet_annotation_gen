@@ -1,0 +1,138 @@
+[
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 94,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "estimated",
+      "begin": 113,
+      "end": 122
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "displaced households",
+      "begin": 127,
+      "end": 147
+    }
+  },
+  {
+    "quantity": {
+      "text": "729",
+      "begin": 123,
+      "end": 126
+    },
+    "eventDescription": {
+      "text": "estimated",
+      "begin": 113,
+      "end": 122
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "displaced households",
+      "begin": 127,
+      "end": 147
+    }
+  },
+  {
+    "quantity": {
+      "text": "26 per cent",
+      "begin": 193,
+      "end": 204
+    },
+    "eventDescription": {
+      "text": "estimated",
+      "begin": 113,
+      "end": 122
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "displaced households",
+      "begin": 127,
+      "end": 147
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 227,
+      "end": 231
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 217,
+      "end": 226
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 239,
+      "end": 243
+    },
+    "eventDescription": {
+      "text": "are women",
+      "begin": 244,
+      "end": 253
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "46 per cent",
+      "begin": 260,
+      "end": 271
+    },
+    "modifier": {
+      "text": "Only",
+      "begin": 255,
+      "end": 259
+    },
+    "unit": {
+      "text": "assessed population",
+      "begin": 279,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "have access to drinking water and to personal hygiene facilities",
+      "begin": 299,
+      "end": 363
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 397,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "assessment conducted",
+      "begin": 373,
+      "end": 393
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "districts",
+      "begin": 402,
+      "end": 411
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 480,
+      "end": 484
+    },
+    "unit": {
+      "text": "of the displaced children",
+      "begin": 485,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "are not attending school",
+      "begin": 511,
+      "end": 535
+    },
+    "eventType": "EventO"
+  }
+]

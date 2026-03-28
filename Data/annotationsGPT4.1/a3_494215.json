@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "two percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in wheat flour price"
+  },
+  {
+    "quantity": "1,913/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "wheat flour price"
+  },
+  {
+    "quantity": "26 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in wheat flour price"
+  },
+  {
+    "quantity": "88 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in wheat flour price"
+  },
+  {
+    "quantity": "2,096/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "highest wheat flour price"
+  },
+  {
+    "quantity": "10 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in wheat flour price"
+  },
+  {
+    "quantity": "2,088/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "wheat flour price"
+  },
+  {
+    "quantity": "four percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in wheat flour price"
+  },
+  {
+    "quantity": "1,569/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "lowest wheat flour price"
+  },
+  {
+    "quantity": "one percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in wheat flour price"
+  },
+  {
+    "quantity": "1,695/kg",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "wheat flour price"
+  },
+  {
+    "quantity": "three percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in wheat flour price"
+  }
+]

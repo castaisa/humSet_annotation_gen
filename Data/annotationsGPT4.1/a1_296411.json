@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "273,500",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "followers of the group",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "11",
+    "unit": "supervisors",
+    "eventType": "EventP",
+    "eventDescription": "included in the group"
+  },
+  {
+    "quantity": "50",
+    "unit": "volunteers",
+    "eventType": "EventP",
+    "eventDescription": "included in the group"
+  },
+  {
+    "quantity": "20",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "included in the group"
+  },
+  {
+    "quantity": "24-hour",
+    "unit": "telephone medical service",
+    "eventType": "EventA",
+    "eventDescription": "provided by the group"
+  }
+]

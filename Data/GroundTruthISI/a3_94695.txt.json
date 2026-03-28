@@ -1,0 +1,266 @@
+[
+  {
+    "quantity": {
+      "text": "62%",
+      "begin": 146,
+      "end": 149
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 175,
+      "end": 178
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 192,
+      "end": 195
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 210,
+      "end": 213
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "37%",
+      "begin": 231,
+      "end": 234
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "61%",
+      "begin": 252,
+      "end": 255
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "56%",
+      "begin": 273,
+      "end": 276
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "77%",
+      "begin": 293,
+      "end": 296
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "61%",
+      "begin": 317,
+      "end": 320
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 329,
+      "end": 331
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    }
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 351,
+      "end": 353
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 370,
+      "end": 372
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "59%",
+      "begin": 385,
+      "end": 388
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "58%",
+      "begin": 411,
+      "end": 414
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 120,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "saying they were aware of such incidents",
+      "begin": 416,
+      "end": 456
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 477,
+      "end": 479
+    },
+    "unit": {
+      "text": "camps",
+      "begin": 480,
+      "end": 485
+    },
+    "eventDescription": {
+      "text": "reported significant challenges",
+      "begin": 486,
+      "end": 517
+    },
+    "eventType": "EventO"
+  }
+]

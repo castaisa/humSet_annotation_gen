@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "at least seven",
+      "start": 35,
+      "end": 49
+    },
+    "eventDescription": {
+      "text": "closed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 50,
+      "end": 67
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 35,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 395,
+      "end": 398
+    },
+    "eventDescription": {
+      "text": "at increased risk of damage",
+      "start": 450,
+      "end": 477
+    },
+    "unit": {
+      "text": "primary public hospitals",
+      "start": 421,
+      "end": 445
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "40",
+      "start": 553,
+      "end": 555
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "start": 543,
+      "end": 552
+    },
+    "unit": {
+      "text": "inpatient beds",
+      "start": 556,
+      "end": 570
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "nine",
+      "start": 572,
+      "end": 576
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "start": 543,
+      "end": 552
+    },
+    "unit": {
+      "text": "intensive care unit beds",
+      "start": 577,
+      "end": 601
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "5.6 million liters",
+      "start": 607,
+      "end": 625
+    },
+    "eventDescription": {
+      "text": "delivered",
+      "start": 543,
+      "end": 552
+    },
+    "unit": {
+      "text": "water",
+      "start": 629,
+      "end": 634
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "three",
+      "start": 638,
+      "end": 643
+    },
+    "eventDescription": {
+      "text": "received aid",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "public hospitals",
+      "start": 644,
+      "end": 660
+    }
+  }
+]

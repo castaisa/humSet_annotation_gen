@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "8,239",
+    "unit": "civilian casualties",
+    "eventType": "EventP",
+    "eventDescription": "documented"
+  },
+  {
+    "quantity": "2,563",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "documented"
+  },
+  {
+    "quantity": "5,676",
+    "unit": "injured",
+    "eventType": "EventP",
+    "eventDescription": "documented"
+  }
+]

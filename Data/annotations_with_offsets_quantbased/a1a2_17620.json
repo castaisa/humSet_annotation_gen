@@ -1,0 +1,254 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18,815",
+      "start": 106,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "provided psycho-social support services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children and care-givers",
+      "start": 113,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,106",
+      "start": 139,
+      "end": 144
+    },
+    "eventDescription": {
+      "text": "received psycho-social support services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 145,
+      "end": 150
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "705",
+      "start": 152,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "received psycho-social support services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 156,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11,801",
+      "start": 162,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "received psycho-social support services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "women",
+      "start": 169,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,203",
+      "start": 179,
+      "end": 184
+    },
+    "eventDescription": {
+      "text": "received psycho-social support services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "men",
+      "start": 185,
+      "end": 188
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18,815",
+      "start": 276,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "attended mine risk awareness sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 283,
+      "end": 289
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "146",
+      "start": 335,
+      "end": 338
+    },
+    "eventDescription": {
+      "text": "received case management services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 339,
+      "end": 347
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "76",
+      "start": 349,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "received case management services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 352,
+      "end": 357
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70",
+      "start": 362,
+      "end": 364
+    },
+    "eventDescription": {
+      "text": "received case management services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 365,
+      "end": 369
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "46,778",
+      "start": 477,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "reached by mine risk education awareness sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 484,
+      "end": 490
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15,336",
+      "start": 492,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "reached by mine risk education awareness sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 499,
+      "end": 504
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14,438",
+      "start": 506,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "reached by mine risk education awareness sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 513,
+      "end": 517
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11,801",
+      "start": 519,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "reached by mine risk education awareness sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "women",
+      "start": 526,
+      "end": 531
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,203",
+      "start": 536,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "reached by mine risk education awareness sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "men",
+      "start": 542,
+      "end": 545
+    }
+  }
+]

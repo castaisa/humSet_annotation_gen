@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported loss of one or more sources of income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "53 percent",
+      "start": 253,
+      "end": 263
+    },
+    "unit": {
+      "text": "households",
+      "start": 241,
+      "end": 251
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "lost by households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 293,
+      "end": 296
+    },
+    "unit": {
+      "text": "sources of income",
+      "start": 305,
+      "end": 322
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported loss of one or more sources of income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "47 percent",
+      "start": 434,
+      "end": 444
+    },
+    "unit": {
+      "text": "breadwinners having university degrees",
+      "start": 394,
+      "end": 432
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported loss of one or more sources of income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "63 percent",
+      "start": 502,
+      "end": 512
+    },
+    "unit": {
+      "text": "displaced households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported loss of one or more sources of income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "59 percent",
+      "start": 541,
+      "end": 551
+    },
+    "unit": {
+      "text": "returnees’ households",
+      "start": 518,
+      "end": 539
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "decrease in loss of income compared to a month earlier",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "33 percent",
+      "start": 669,
+      "end": 679
+    },
+    "unit": {
+      "text": "resident households",
+      "start": 643,
+      "end": 662
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported loss of one or more sources of income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45 percent",
+      "start": 718,
+      "end": 728
+    },
+    "unit": {
+      "text": "resident households",
+      "start": null,
+      "end": null
+    }
+  }
+]

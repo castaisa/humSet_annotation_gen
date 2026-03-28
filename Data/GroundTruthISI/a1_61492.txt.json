@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 122,
+      "end": 125
+    },
+    "unit": {
+      "text": "case",
+      "begin": 126,
+      "end": 130
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 350,
+      "end": 353
+    },
+    "unit": {
+      "text": "young nephews",
+      "begin": 354,
+      "end": 367
+    },
+    "eventDescription": {
+      "text": "was robbed at knifepoint",
+      "begin": 369,
+      "end": 393
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "300",
+      "begin": 719,
+      "end": 722
+    },
+    "eventDescription": {
+      "text": "surrendered all the money",
+      "begin": 666,
+      "end": 691
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "$",
+      "begin": 718,
+      "end": 719
+    }
+  }
+]

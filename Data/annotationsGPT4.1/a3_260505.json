@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": "4,025",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "reached with psychosocial support (PSS) activities"
+  },
+  {
+    "quantity": "2,204",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "reached with psychosocial support (PSS) activities"
+  },
+  {
+    "quantity": "1,821",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "reached with psychosocial support (PSS) activities"
+  },
+  {
+    "quantity": "19,935",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children reached with psychosocial support (PSS) activities since January 2020"
+  },
+  {
+    "quantity": "73",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "newly identified, registered and documented as unaccompanied and separated children (UASC)"
+  },
+  {
+    "quantity": "44",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "newly identified, registered and documented as unaccompanied and separated children (UASC)"
+  },
+  {
+    "quantity": "29",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "newly identified, registered and documented as unaccompanied and separated children (UASC)"
+  },
+  {
+    "quantity": "1,336",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "reached with MRE key messages in the communities"
+  },
+  {
+    "quantity": "675",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "reached with MRE key messages in the communities"
+  },
+  {
+    "quantity": "661",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "reached with MRE key messages in the communities"
+  },
+  {
+    "quantity": "1,369",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "reached with MRE key messages in the communities"
+  },
+  {
+    "quantity": "603",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "reached with MRE key messages in the communities"
+  },
+  {
+    "quantity": "766",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "reached with MRE key messages in the communities"
+  }
+]

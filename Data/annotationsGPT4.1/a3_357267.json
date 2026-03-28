@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "three",
+    "unit": "gas stations",
+    "eventType": "EventO",
+    "eventDescription": "available in town"
+  },
+  {
+    "quantity": "40 litres",
+    "unit": "petrol",
+    "eventType": "EventA",
+    "eventDescription": "delivered"
+  },
+  {
+    "quantity": "half",
+    "unit": "of that",
+    "eventType": "EventA",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "days",
+    "unit": "line",
+    "eventType": "EventO",
+    "eventDescription": "waiting"
+  }
+]

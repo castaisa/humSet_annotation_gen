@@ -1,0 +1,214 @@
+[
+  {
+    "quantity": {
+      "text": "20.5",
+      "begin": 136,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "national average reduced Coping Strategy Index (rCSI)",
+      "begin": 58,
+      "end": 111
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19.1",
+      "begin": 144,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "national average reduced Coping Strategy Index (rCSI)",
+      "begin": 58,
+      "end": 111
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 182,
+      "end": 185
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 186,
+      "end": 208
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 170,
+      "end": 174
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 186,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "reported applying at least one food-based coping mechanism to meet their food consumption needs",
+      "begin": 222,
+      "end": 317
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "89 percent",
+      "begin": 210,
+      "end": 220
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 186,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "reported applying at least one food-based coping mechanism to meet their food consumption needs",
+      "begin": 222,
+      "end": 317
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "nine percent",
+      "begin": 334,
+      "end": 346
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 186,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "reported applying at least one food-based coping mechanism to meet their food consumption needs",
+      "begin": 222,
+      "end": 317
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "93 percent)",
+      "begin": 429,
+      "end": 440
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 388,
+      "end": 396
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "female-headed households",
+      "begin": 403,
+      "end": 427
+    }
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 559,
+      "end": 564
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 549,
+      "end": 558
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 576,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "indicated that they bought food on credit",
+      "begin": 625,
+      "end": 666
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 572,
+      "end": 575
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 576,
+      "end": 598
+    },
+    "eventDescription": {
+      "text": "indicated that they bought food on credit",
+      "begin": 625,
+      "end": 666
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "73 percent",
+      "begin": 613,
+      "end": 623
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 576,
+      "end": 598
+    }
+  },
+  {
+    "quantity": {
+      "text": "three percentage",
+      "begin": 670,
+      "end": 686
+    },
+    "eventDescription": {
+      "text": "indicated that they bought food on credit",
+      "begin": 625,
+      "end": 666
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "11 percent",
+      "begin": 734,
+      "end": 744
+    },
+    "eventDescription": {
+      "text": "indicated that they bought food on credit",
+      "begin": 625,
+      "end": 666
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "year-on-year",
+      "begin": 745,
+      "end": 757
+    }
+  },
+  {
+    "quantity": {
+      "text": "(80 percent",
+      "begin": 820,
+      "end": 831
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 780,
+      "end": 788
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "female-headed households",
+      "begin": 795,
+      "end": 819
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "4,638",
+      "begin": 58,
+      "end": 63
+    },
+    "eventDescription": {
+      "text": "Survey in NW, SW, Littoral and West region, conducted",
+      "begin": 1,
+      "end": 54
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    }
+  },
+  {
+    "quantity": {
+      "text": "22%",
+      "begin": 229,
+      "end": 232
+    },
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    },
+    "eventDescription": {
+      "text": "consumption of seed stocks held for next season, reported",
+      "begin": 168,
+      "end": 225
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 331,
+      "end": 333
+    },
+    "unit": {
+      "text": "people",
+      "begin": 64,
+      "end": 70
+    },
+    "eventDescription": {
+      "text": "selling of productive and/or domestic assets",
+      "begin": 273,
+      "end": 317
+    },
+    "eventType": "EventO"
+  }
+]

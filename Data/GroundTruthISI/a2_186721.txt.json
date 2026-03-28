@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "28,093",
+      "begin": 133,
+      "end": 139
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 140,
+      "end": 147
+    },
+    "eventDescription": {
+      "text": "sensitized on key messages",
+      "begin": 186,
+      "end": 212
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "9,496",
+      "begin": 149,
+      "end": 154
+    },
+    "unit": {
+      "text": "males",
+      "begin": 155,
+      "end": 160
+    },
+    "eventDescription": {
+      "text": "sensitized on key messages",
+      "begin": 186,
+      "end": 212
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "18,597",
+      "begin": 165,
+      "end": 171
+    },
+    "unit": {
+      "text": "females)",
+      "begin": 172,
+      "end": 180
+    },
+    "eventDescription": {
+      "text": "sensitized on key messages",
+      "begin": 186,
+      "end": 212
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 484,
+      "end": 486
+    },
+    "unit": {
+      "text": "health workers",
+      "begin": 487,
+      "end": 501
+    },
+    "eventDescription": {
+      "text": "participating",
+      "begin": 502,
+      "end": 515
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2,378",
+      "begin": 531,
+      "end": 536
+    },
+    "unit": {
+      "text": "caregivers",
+      "begin": 537,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "trained",
+      "begin": 553,
+      "end": 560
+    },
+    "eventType": "EventA"
+  }
+]

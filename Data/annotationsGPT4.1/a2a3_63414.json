@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": "3,519",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "2,081",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "1,078",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "from Way\u00fau ethnic group in Zulia"
+  },
+  {
+    "quantity": "141",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "from Warao ethnic group in Bol\u00edvar"
+  },
+  {
+    "quantity": "59",
+    "unit": "activities",
+    "eventType": "EventO",
+    "eventDescription": "conducted"
+  },
+  {
+    "quantity": "10,062",
+    "unit": "beneficiaries",
+    "eventType": "EventP",
+    "eventDescription": "served"
+  },
+  {
+    "quantity": "11,060",
+    "unit": "water purification tablets",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "662",
+    "unit": "malnutrition screenings",
+    "eventType": "EventO",
+    "eventDescription": "carried out"
+  },
+  {
+    "quantity": "six",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "issued birth certificates"
+  },
+  {
+    "quantity": "310",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "benefitted from paediatric"
+  },
+  {
+    "quantity": "86",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received handwashing training"
+  },
+  {
+    "quantity": "78",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "registered and received birth certificate"
+  },
+  {
+    "quantity": "164",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "received water purification tablets and training"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "15,755",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "treated with severe acute malnutrition (SAM)"
+  },
+  {
+    "quantity": "21,340",
+    "unit": "pregnant and lactating women",
+    "eventType": "EventP",
+    "eventDescription": "reached with preventative services through supplementary nutrition services"
+  },
+  {
+    "quantity": "93,561",
+    "unit": "primary caregivers of children under two years",
+    "eventType": "EventP",
+    "eventDescription": "receiving appropriate counselling on infant and young child feeding"
+  },
+  {
+    "quantity": "13.4 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "surpassed the annual target"
+  }
+]

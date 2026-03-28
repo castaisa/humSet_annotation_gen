@@ -1,0 +1,161 @@
+[
+  {
+    "quantity": {
+      "text": "67",
+      "begin": 36,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 24,
+      "end": 32
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hospitals",
+      "begin": 39,
+      "end": 48
+    }
+  },
+  {
+    "quantity": {
+      "text": "84 per cent",
+      "begin": 50,
+      "end": 61
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 24,
+      "end": 32
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "24 per cent",
+      "begin": 72,
+      "end": 83
+    },
+    "unit": {
+      "text": "hospitals",
+      "begin": 39,
+      "end": 48
+    }
+  },
+  {
+    "quantity": {
+      "text": "47 per cent",
+      "begin": 234,
+      "end": 245
+    },
+    "eventDescription": {
+      "text": "readiness of the hospitals on emergency services",
+      "begin": 181,
+      "end": 229
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18 per cent",
+      "begin": 265,
+      "end": 276
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 339,
+      "end": 347
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21 per cent)",
+      "begin": 291,
+      "end": 303
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 339,
+      "end": 347
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "(40 per cent",
+      "begin": 320,
+      "end": 332
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 339,
+      "end": 347
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 415,
+      "end": 426
+    },
+    "modifier": {
+      "text": "almost",
+      "begin": 408,
+      "end": 414
+    },
+    "unit": {
+      "text": "pregnancies among women of reproductive age (15-49)",
+      "begin": 430,
+      "end": 481
+    },
+    "eventDescription": {
+      "text": "miscarriage or stillbirth",
+      "begin": 496,
+      "end": 521
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6 per cent",
+      "begin": 551,
+      "end": 561
+    },
+    "modifier": {
+      "text": "Only",
+      "begin": 546,
+      "end": 550
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 565,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "providing specialised services",
+      "begin": 587,
+      "end": 617
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "75 per cent",
+      "begin": 619,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "providing specialised services",
+      "begin": 587,
+      "end": 617
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hospitals",
+      "begin": 635,
+      "end": 644
+    }
+  }
+]

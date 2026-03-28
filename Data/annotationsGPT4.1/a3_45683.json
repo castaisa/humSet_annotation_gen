@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "21%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "in need of protection support"
+  },
+  {
+    "quantity": "11%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "in need of protection support"
+  },
+  {
+    "quantity": "6%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "in need of protection support"
+  },
+  {
+    "quantity": "39%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "reporting movement restrictions"
+  },
+  {
+    "quantity": "25%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "reporting movement restrictions"
+  },
+  {
+    "quantity": "11%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "reporting movement restrictions"
+  },
+  {
+    "quantity": "6%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "reported that they had at least one missing family member",
+    "modifier": "at least"
+  }
+]

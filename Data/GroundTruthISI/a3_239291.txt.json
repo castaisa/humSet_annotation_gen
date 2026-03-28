@@ -1,0 +1,104 @@
+[
+  {
+    "quantity": {
+      "text": "7.57%",
+      "begin": 131,
+      "end": 136
+    },
+    "unit": {
+      "text": "public expenditure",
+      "begin": 97,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "reduced",
+      "begin": 120,
+      "end": 127
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "26.26%",
+      "begin": 169,
+      "end": 175
+    },
+    "unit": {
+      "text": "ADP expenditure",
+      "begin": 138,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "reduced",
+      "begin": 158,
+      "end": 165
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1.28%",
+      "begin": 216,
+      "end": 221
+    },
+    "unit": {
+      "text": "expenditure",
+      "begin": 189,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "reduced",
+      "begin": 205,
+      "end": 212
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 644,
+      "end": 646
+    },
+    "eventDescription": {
+      "text": "rolled out",
+      "begin": 628,
+      "end": 638
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "stimulus packages",
+      "begin": 647,
+      "end": 664
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,24,053 crore",
+      "begin": 692,
+      "end": 706
+    },
+    "eventDescription": {
+      "text": "rolled out",
+      "begin": 628,
+      "end": 638
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Tk",
+      "begin": 690,
+      "end": 692
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.4%",
+      "begin": 722,
+      "end": 726
+    },
+    "unit": {
+      "text": "GDP",
+      "begin": 744,
+      "end": 747
+    }
+  }
+]

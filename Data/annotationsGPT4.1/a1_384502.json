@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "859,127",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "resided"
+  },
+  {
+    "quantity": "290",
+    "unit": "camps and camp-like settlements",
+    "eventType": "EventO",
+    "eventDescription": "resided"
+  },
+  {
+    "quantity": "228",
+    "unit": "camps and camp-like settlements",
+    "eventType": "EventO",
+    "eventDescription": "located in Borno"
+  },
+  {
+    "quantity": "Eighty-six per cent",
+    "unit": "sites",
+    "eventType": "EventO",
+    "eventDescription": "are informal"
+  },
+  {
+    "quantity": "14 per cent",
+    "unit": "sites",
+    "eventType": "EventO",
+    "eventDescription": "are formal"
+  },
+  {
+    "quantity": "96 per cent",
+    "unit": "sites",
+    "eventType": "EventO",
+    "eventDescription": "are spontaneous"
+  },
+  {
+    "quantity": "59 per cent",
+    "unit": "sites",
+    "eventType": "EventO",
+    "eventDescription": "are collective settlements"
+  },
+  {
+    "quantity": "40 per cent",
+    "unit": "sites",
+    "eventType": "EventO",
+    "eventDescription": "are camps"
+  },
+  {
+    "quantity": "57%",
+    "unit": "land ownership in camps and camp-like settings",
+    "eventType": "EventO",
+    "eventDescription": "classified as private"
+  },
+  {
+    "quantity": "42 per cent",
+    "unit": "land ownership in camps and camp-like settings",
+    "eventType": "EventO",
+    "eventDescription": "categorized as government or public buildings"
+  },
+  {
+    "quantity": "1 per cent",
+    "unit": "land ownership in camps and camp-like settings",
+    "eventType": "EventO",
+    "eventDescription": "categorized as ancestral property"
+  }
+]

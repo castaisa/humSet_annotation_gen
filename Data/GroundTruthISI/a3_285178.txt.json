@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 123,
+      "end": 125
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 126,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "within the emergency threshold for acute malnutrition.",
+      "begin": 144,
+      "end": 198
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "27 out of 34",
+      "begin": 113,
+      "end": 125
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 126,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "within the emergency threshold for acute malnutrition.",
+      "begin": 144,
+      "end": 198
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 113,
+      "end": 115
+    },
+    "unit": {
+      "text": "provinces",
+      "begin": 126,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "within the emergency threshold for acute malnutrition.",
+      "begin": 144,
+      "end": 198
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 206,
+      "end": 210
+    },
+    "modifier": {
+      "text": "Almost",
+      "begin": 199,
+      "end": 205
+    },
+    "unit": {
+      "text": "children under five",
+      "begin": 214,
+      "end": 233
+    },
+    "eventDescription": {
+      "text": "need life-saving nutrition support",
+      "begin": 234,
+      "end": 268
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16 per cent",
+      "begin": 475,
+      "end": 486
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 444,
+      "end": 452
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "nutrition needs",
+      "begin": 456,
+      "end": 471
+    }
+  },
+  {
+    "quantity": {
+      "text": "15.3 per cent",
+      "begin": 536,
+      "end": 549
+    },
+    "unit": {
+      "text": "infants under six months",
+      "begin": 553,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "affected by wasting",
+      "begin": 582,
+      "end": 601
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6.2 per cent",
+      "begin": 603,
+      "end": 615
+    },
+    "unit": {
+      "text": "infants under six months",
+      "begin": 553,
+      "end": 577
+    },
+    "eventDescription": {
+      "text": "are severely wasted",
+      "begin": 624,
+      "end": 643
+    },
+    "eventType": "EventP"
+  }
+]

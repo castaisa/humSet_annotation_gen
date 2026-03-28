@@ -1,0 +1,236 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with ES-NFI awareness raising sessions on prevention of COVID-19",
+      "start": 97,
+      "end": 169
+    },
+    "quantity": {
+      "text": "596,399",
+      "start": 66,
+      "end": 73
+    },
+    "unit": {
+      "text": "people",
+      "start": 74,
+      "end": 80
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "provinces reached with ES-NFI awareness raising sessions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16",
+      "start": 84,
+      "end": 86
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 87,
+      "end": 96
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "IEC materials distributed",
+      "start": 178,
+      "end": 203
+    },
+    "quantity": {
+      "text": "12,807",
+      "start": 171,
+      "end": 177
+    },
+    "unit": {
+      "text": "IEC materials",
+      "start": 178,
+      "end": 191
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "provinces where IEC materials distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 211,
+      "end": 212
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 213,
+      "end": 222
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "NFI kits distributed",
+      "start": 230,
+      "end": 250
+    },
+    "quantity": {
+      "text": "1,304",
+      "start": 224,
+      "end": 229
+    },
+    "unit": {
+      "text": "NFI kits",
+      "start": 230,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "provinces where NFI kits distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 258,
+      "end": 259
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 260,
+      "end": 269
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "face masks distributed",
+      "start": 313,
+      "end": 335
+    },
+    "quantity": {
+      "text": "182,663",
+      "start": 305,
+      "end": 312
+    },
+    "unit": {
+      "text": "face masks",
+      "start": 313,
+      "end": 323
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "provinces where face masks distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 370,
+      "end": 371
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 372,
+      "end": 381
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "religious leaders received COVID-19 awareness raising training",
+      "start": 387,
+      "end": 449
+    },
+    "quantity": {
+      "text": "771",
+      "start": 383,
+      "end": 386
+    },
+    "unit": {
+      "text": "religious leaders",
+      "start": 387,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "family tents distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10",
+      "start": 496,
+      "end": 498
+    },
+    "unit": {
+      "text": "family tents",
+      "start": 499,
+      "end": 511
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "multi-purpose tents distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 513,
+      "end": 514
+    },
+    "unit": {
+      "text": "multi-purpose tents",
+      "start": 515,
+      "end": 534
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "refugee housing units distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "81",
+      "start": 539,
+      "end": 541
+    },
+    "unit": {
+      "text": "refugee housing units (RHUs)",
+      "start": 542,
+      "end": 570
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "provinces where tents and RHUs distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5",
+      "start": 590,
+      "end": 591
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 592,
+      "end": 601
+    }
+  }
+]

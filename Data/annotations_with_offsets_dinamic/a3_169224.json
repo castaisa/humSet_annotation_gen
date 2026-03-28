@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported decrease in income",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10.5 per cent",
+      "start": 27,
+      "end": 40
+    },
+    "unit": {
+      "text": "fall in the average actual income",
+      "start": 41,
+      "end": 74
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "jobs lost",
+      "start": 119,
+      "end": 128
+    },
+    "quantity": {
+      "text": "1.5 million",
+      "start": 107,
+      "end": 118
+    },
+    "unit": {
+      "text": "jobs",
+      "start": 119,
+      "end": 123
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "predicted GDP contraction",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12.7 per cent",
+      "start": 192,
+      "end": 205
+    },
+    "unit": {
+      "text": "GDP contraction",
+      "start": 206,
+      "end": 221
+    }
+  }
+]

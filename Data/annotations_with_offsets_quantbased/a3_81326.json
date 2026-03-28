@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.2 million",
+      "start": 83,
+      "end": 94
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 114,
+      "end": 121
+    },
+    "unit": {
+      "text": "beneficiaries",
+      "start": 95,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one percent",
+      "start": 163,
+      "end": 174
+    },
+    "eventDescription": {
+      "text": "higher than the previous month",
+      "start": 175,
+      "end": 205
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "8.4 kg",
+      "start": 383,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "provided",
+      "start": 461,
+      "end": 469
+    },
+    "unit": {
+      "text": "staple food per person per month",
+      "start": 393,
+      "end": 425
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6",
+      "start": 448,
+      "end": 449
+    },
+    "eventDescription": {
+      "text": "in a household",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "members",
+      "start": 450,
+      "end": 457
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "50.4 kg",
+      "start": 475,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "provided",
+      "start": 461,
+      "end": 469
+    },
+    "unit": {
+      "text": "staple food per household per month",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 22,250",
+      "start": 712,
+      "end": 723
+    },
+    "eventDescription": {
+      "text": "housed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 724,
+      "end": 728
+    },
+    "modifier": {
+      "text": "over",
+      "start": 712,
+      "end": 716
+    }
+  }
+]

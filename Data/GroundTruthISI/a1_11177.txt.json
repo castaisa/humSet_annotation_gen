@@ -1,0 +1,130 @@
+[
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 134,
+      "end": 136
+    },
+    "eventDescription": {
+      "text": "displacement",
+      "begin": 104,
+      "end": 116
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "approximately",
+      "begin": 120,
+      "end": 133
+    },
+    "unit": {
+      "text": "families",
+      "begin": 137,
+      "end": 145
+    }
+  },
+  {
+    "quantity": {
+      "text": "four to two",
+      "begin": 465,
+      "end": 476
+    },
+    "unit": {
+      "text": "number of civilian impact incidents",
+      "begin": 381,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "fell",
+      "begin": 417,
+      "end": 421
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "from",
+      "begin": 460,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 465,
+      "end": 469
+    },
+    "unit": {
+      "text": "number of civilian impact incidents",
+      "begin": 381,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "fell",
+      "begin": 417,
+      "end": 421
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "from",
+      "begin": 460,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 473,
+      "end": 476
+    },
+    "unit": {
+      "text": "number of civilian impact incidents",
+      "begin": 381,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "fell",
+      "begin": 417,
+      "end": 421
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "from",
+      "begin": 460,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 478,
+      "end": 481
+    },
+    "unit": {
+      "text": "incidents",
+      "begin": 489,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "incidents",
+      "begin": 489,
+      "end": 498
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 714,
+      "end": 719
+    },
+    "unit": {
+      "text": "civilians",
+      "begin": 720,
+      "end": 729
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 746,
+      "end": 753
+    },
+    "eventType": "EventP"
+  }
+]

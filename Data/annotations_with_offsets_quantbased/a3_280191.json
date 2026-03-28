@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "74 per cent",
+      "start": 131,
+      "end": 142
+    },
+    "eventDescription": {
+      "text": "WASH facilities provided",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 146,
+      "end": 151
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1%",
+      "start": 189,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "increase in WASH facilities provided",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 146,
+      "end": 151
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "26 per cent",
+      "start": 250,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "sites with no WASH facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 265,
+      "end": 270
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1%",
+      "start": 280,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "decrease in sites with no WASH facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sites",
+      "start": 265,
+      "end": 270
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "30 per cent",
+      "start": 351,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "locations with hand pumps",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "locations",
+      "start": 366,
+      "end": 375
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "30 per cent",
+      "start": 488,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "locations with communal boreholes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "locations",
+      "start": 503,
+      "end": 512
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1%",
+      "start": 520,
+      "end": 522
+    },
+    "eventDescription": {
+      "text": "increase in locations with communal boreholes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "locations",
+      "start": 503,
+      "end": 512
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "11 per cent",
+      "start": 556,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "locations with communal wells",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "locations",
+      "start": 571,
+      "end": 580
+    }
+  }
+]

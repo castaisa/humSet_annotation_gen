@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "3 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "living in Idlib province"
+  },
+  {
+    "quantity": "more than half",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "depend on food aid",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "around 1,000",
+    "unit": "U.N. trucks",
+    "eventType": "EventA",
+    "eventDescription": "enter a month"
+  },
+  {
+    "quantity": "three",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "stockpiling period"
+  }
+]

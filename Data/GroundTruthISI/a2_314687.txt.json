@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": {
+      "text": "57 percent",
+      "begin": 546,
+      "end": 556
+    },
+    "eventDescription": {
+      "text": "estimated national cereal production",
+      "begin": 489,
+      "end": 525
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18 percent",
+      "begin": 585,
+      "end": 595
+    },
+    "eventDescription": {
+      "text": "estimated national cereal production",
+      "begin": 489,
+      "end": 525
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "less than",
+      "begin": 596,
+      "end": 605
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 610,
+      "end": 614
+    },
+    "unit": {
+      "text": "-year average",
+      "begin": 614,
+      "end": 627
+    }
+  }
+]

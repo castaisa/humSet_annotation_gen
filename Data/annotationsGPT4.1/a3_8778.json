@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "1,100",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "killed or maimed",
+    "modifier": "More than"
+  },
+  {
+    "quantity": "millions",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "threatened"
+  },
+  {
+    "quantity": "400,000",
+    "unit": "children under 5 years",
+    "eventType": "EventP",
+    "eventDescription": "will suffer from severe acute malnutrition (SAM)",
+    "modifier": "estimated"
+  }
+]

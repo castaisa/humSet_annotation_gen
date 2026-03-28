@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "5,816",
+    "unit": "unaccompanied children",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "16,240",
+    "unit": "separated children",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "2,500",
+    "unit": "UASC",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  }
+]

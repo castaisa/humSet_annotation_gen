@@ -1,0 +1,151 @@
+[
+  {
+    "quantity": {
+      "text": "50,339",
+      "begin": 112,
+      "end": 118
+    },
+    "eventDescription": {
+      "text": "provide life-saving assistance",
+      "begin": 22,
+      "end": 52
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "new arrivals",
+      "begin": 119,
+      "end": 131
+    }
+  },
+  {
+    "quantity": {
+      "text": "16,634",
+      "begin": 210,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "provided NFIs (including hygiene kits)",
+      "begin": 168,
+      "end": 206
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 217,
+      "end": 228
+    }
+  },
+  {
+    "quantity": {
+      "text": "244",
+      "begin": 254,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "temporary shelter",
+      "begin": 233,
+      "end": 250
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals (MRPs)",
+      "begin": 258,
+      "end": 276
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,205",
+      "begin": 328,
+      "end": 333
+    },
+    "unit": {
+      "text": "refugees",
+      "begin": 334,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "returned",
+      "begin": 343,
+      "end": 351
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "430",
+      "begin": 410,
+      "end": 413
+    },
+    "modifier": {
+      "text": "additional",
+      "begin": 399,
+      "end": 409
+    },
+    "unit": {
+      "text": "migrants",
+      "begin": 414,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 428,
+      "end": 436
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 531,
+      "end": 533
+    },
+    "unit": {
+      "text": "families",
+      "begin": 534,
+      "end": 542
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "begin": 565,
+      "end": 591
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "81",
+      "begin": 544,
+      "end": 546
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 547,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "begin": 565,
+      "end": 591
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "68",
+      "begin": 704,
+      "end": 706
+    },
+    "unit": {
+      "text": "Eritreans",
+      "begin": 707,
+      "end": 716
+    },
+    "eventDescription": {
+      "text": "submitted for resettlement",
+      "begin": 722,
+      "end": 748
+    },
+    "eventType": "EventA"
+  }
+]

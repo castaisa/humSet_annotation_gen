@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 361,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "Capacity building initiatives",
+      "begin": 262,
+      "end": 291
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "offices, site management offices, frontline volunteers, Rohingya leaders, Mahjis, religious leaders, service providers, and sector-advocacy",
+      "begin": 363,
+      "end": 502
+    }
+  }
+]

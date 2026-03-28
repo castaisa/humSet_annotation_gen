@@ -1,0 +1,35 @@
+[
+  {
+    "quantity": "1.6 million",
+    "unit": "Libyan individuals",
+    "eventType": "EventP",
+    "eventDescription": "affected by the current conflict",
+    "modifier": "estimated"
+  },
+  {
+    "quantity": "one million",
+    "unit": "of the Libyan population",
+    "eventType": "EventP",
+    "eventDescription": "in need (PIN) of health assistance",
+    "modifier": "More than"
+  },
+  {
+    "quantity": "36. 8 per cent",
+    "unit": "public primary health care facilities",
+    "eventType": "EventO",
+    "eventDescription": "overall general service readiness"
+  },
+  {
+    "quantity": "71 per cent",
+    "unit": "people living with chronic diseases",
+    "eventType": "EventP",
+    "eventDescription": "facing shortage in drugs",
+    "modifier": "More than"
+  },
+  {
+    "quantity": "one out of five",
+    "unit": "Libyan households",
+    "eventType": "EventP",
+    "eventDescription": "reporting that medicines are their priority non-food needs"
+  }
+]

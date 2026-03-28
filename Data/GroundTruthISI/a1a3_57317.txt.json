@@ -1,0 +1,245 @@
+[
+  {
+    "quantity": {
+      "text": "88",
+      "begin": 144,
+      "end": 146
+    },
+    "unit": {
+      "text": "children between the ages of 4 to 17 years",
+      "begin": 147,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "provided with basic English Language support in their host communities",
+      "begin": 239,
+      "end": 309
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 176,
+      "end": 177
+    },
+    "unit": {
+      "text": "years",
+      "begin": 184,
+      "end": 189
+    }
+  },
+  {
+    "quantity": {
+      "text": "17",
+      "begin": 181,
+      "end": 183
+    },
+    "unit": {
+      "text": "years",
+      "begin": 184,
+      "end": 189
+    }
+  },
+  {
+    "quantity": {
+      "text": "50:50",
+      "begin": 191,
+      "end": 196
+    },
+    "unit": {
+      "text": "boys/ girls",
+      "begin": 197,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "provided with basic English Language support in their host communities",
+      "begin": 239,
+      "end": 309
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 337,
+      "end": 340
+    },
+    "unit": {
+      "text": "ECD sessions",
+      "begin": 341,
+      "end": 353
+    },
+    "eventDescription": {
+      "text": "were conducted",
+      "begin": 354,
+      "end": 368
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 422,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "were conducted",
+      "begin": 354,
+      "end": 368
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Region",
+      "begin": 427,
+      "end": 433
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 434,
+      "end": 435
+    },
+    "eventDescription": {
+      "text": "were conducted",
+      "begin": 354,
+      "end": 368
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "host communities",
+      "begin": 436,
+      "end": 452
+    }
+  },
+  {
+    "quantity": {
+      "text": "62",
+      "begin": 476,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "attended",
+      "begin": 464,
+      "end": 472
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children between the ages of 0 to 8 years old",
+      "begin": 479,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "0",
+      "begin": 508,
+      "end": 509
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 515,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 513,
+      "end": 514
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 515,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "150",
+      "begin": 642,
+      "end": 645
+    },
+    "unit": {
+      "text": "children under 12 years old",
+      "begin": 646,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "have the opportunity to participate in community-led activities",
+      "begin": 710,
+      "end": 773
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 661,
+      "end": 663
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 655,
+      "end": 660
+    },
+    "unit": {
+      "text": "years old",
+      "begin": 664,
+      "end": 673
+    }
+  },
+  {
+    "quantity": {
+      "text": "50",
+      "begin": 678,
+      "end": 680
+    },
+    "unit": {
+      "text": "children between 13-18 years",
+      "begin": 681,
+      "end": 709
+    },
+    "eventDescription": {
+      "text": "have the opportunity to participate in community-led activities",
+      "begin": 710,
+      "end": 773
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 698,
+      "end": 700
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 690,
+      "end": 697
+    },
+    "unit": {
+      "text": "years",
+      "begin": 704,
+      "end": 709
+    }
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 701,
+      "end": 703
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 690,
+      "end": 697
+    },
+    "unit": {
+      "text": "years",
+      "begin": 704,
+      "end": 709
+    }
+  }
+]

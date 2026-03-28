@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "450",
+    "unit": "drums",
+    "eventType": "EventA",
+    "eventDescription": "chlorine (HTH) donated"
+  },
+  {
+    "quantity": "45 kg",
+    "unit": "chlorine (HTH)",
+    "eventType": "EventA",
+    "eventDescription": "weight per drum donated"
+  },
+  {
+    "quantity": "873",
+    "unit": "drums",
+    "eventType": "EventA",
+    "eventDescription": "chlorine (HTH) donated"
+  },
+  {
+    "quantity": "45 kg",
+    "unit": "chlorine (HTH)",
+    "eventType": "EventA",
+    "eventDescription": "weight per drum donated"
+  },
+  {
+    "quantity": "five",
+    "unit": "drums",
+    "eventType": "EventA",
+    "eventDescription": "drums released for COVID-19/cholera response"
+  },
+  {
+    "quantity": "10",
+    "unit": "drums",
+    "eventType": "EventA",
+    "eventDescription": "drums provided for health/CMAM centres"
+  },
+  {
+    "quantity": "10",
+    "unit": "health/CMAM centres",
+    "eventType": "EventO",
+    "eventDescription": "centres receiving drums and sprayers"
+  },
+  {
+    "quantity": "two",
+    "unit": "drums",
+    "eventType": "EventA",
+    "eventDescription": "drums of Calcium Hypochlorite (HTH) provided"
+  },
+  {
+    "quantity": "20",
+    "unit": "handwashing facilities",
+    "eventType": "EventA",
+    "eventDescription": "handwashing facilities installed"
+  },
+  {
+    "quantity": "2,000",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "persons benefitting"
+  }
+]

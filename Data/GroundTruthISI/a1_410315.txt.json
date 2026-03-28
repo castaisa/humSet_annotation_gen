@@ -1,0 +1,202 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 38,
+      "end": 41
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 28,
+      "end": 37
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 54,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "reported challenges in accessing medical care services",
+      "begin": 90,
+      "end": 144
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one out of five",
+      "begin": 38,
+      "end": 53
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 28,
+      "end": 37
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 54,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "reported challenges in accessing medical care services",
+      "begin": 90,
+      "end": 144
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 49,
+      "end": 53
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 28,
+      "end": 37
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 54,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "reported challenges in accessing medical care services",
+      "begin": 90,
+      "end": 144
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21 percent",
+      "begin": 78,
+      "end": 88
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 54,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "reported challenges in accessing medical care services",
+      "begin": 90,
+      "end": 144
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "six percentage",
+      "begin": 161,
+      "end": 175
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 149,
+      "end": 157
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "points",
+      "begin": 176,
+      "end": 182
+    }
+  },
+  {
+    "quantity": {
+      "text": "28 percent",
+      "begin": 373,
+      "end": 383
+    },
+    "unit": {
+      "text": "lack of access to hospitals and healthcare facilities",
+      "begin": 286,
+      "end": 339
+    },
+    "eventDescription": {
+      "text": "was more pronounced",
+      "begin": 340,
+      "end": 359
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "28 percent",
+      "begin": 398,
+      "end": 408
+    },
+    "unit": {
+      "text": "lack of access to hospitals and healthcare facilities",
+      "begin": 286,
+      "end": 339
+    },
+    "eventDescription": {
+      "text": "was more pronounced",
+      "begin": 340,
+      "end": 359
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25 percent",
+      "begin": 421,
+      "end": 431
+    },
+    "unit": {
+      "text": "lack of access to hospitals and healthcare facilities",
+      "begin": 286,
+      "end": 339
+    },
+    "eventDescription": {
+      "text": "was more pronounced",
+      "begin": 340,
+      "end": 359
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17 percent",
+      "begin": 503,
+      "end": 513
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 517,
+      "end": 536
+    },
+    "eventDescription": {
+      "text": "have elderly members with chronic diseases",
+      "begin": 537,
+      "end": 579
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "52 percent",
+      "begin": 599,
+      "end": 609
+    },
+    "modifier": {
+      "text": "around",
+      "begin": 592,
+      "end": 598
+    },
+    "unit": {
+      "text": "public hospitals",
+      "begin": 613,
+      "end": 629
+    },
+    "eventDescription": {
+      "text": "were reportedly not fully functioning",
+      "begin": 639,
+      "end": 676
+    },
+    "eventType": "EventO"
+  }
+]

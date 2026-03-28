@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 260,
+      "end": 263
+    },
+    "unit": {
+      "text": "taskforces",
+      "begin": 264,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "developed",
+      "begin": 361,
+      "end": 370
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 728,
+      "end": 733
+    },
+    "unit": {
+      "text": "children",
+      "begin": 734,
+      "end": 742
+    },
+    "eventDescription": {
+      "text": "could come together at a time and learn",
+      "begin": 743,
+      "end": 782
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 720,
+      "end": 724
+    },
+    "unit": {
+      "text": "children",
+      "begin": 734,
+      "end": 742
+    },
+    "eventDescription": {
+      "text": "could come together at a time and learn",
+      "begin": 743,
+      "end": 782
+    },
+    "eventType": "EventO"
+  }
+]

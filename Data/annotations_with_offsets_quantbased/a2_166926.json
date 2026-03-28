@@ -1,0 +1,107 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "90 per cent",
+      "start": 166,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "indicated their children did not have access to formal education",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "parents with school-age children",
+      "start": 181,
+      "end": 213
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 1,300",
+      "start": 307,
+      "end": 317
+    },
+    "eventDescription": {
+      "text": "were pursuing their education at CFS",
+      "start": 327,
+      "end": 363
+    },
+    "unit": {
+      "text": "children",
+      "start": 318,
+      "end": 326
+    },
+    "modifier": {
+      "text": "over",
+      "start": 307,
+      "end": 311
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "around 600",
+      "start": 365,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "were pursuing their education at CFS operated by LWC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 318,
+      "end": 326
+    },
+    "modifier": {
+      "text": "around",
+      "start": 365,
+      "end": 371
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "around 70 per cent",
+      "start": 418,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "were pursuing their education at CFS",
+      "start": 327,
+      "end": 363
+    },
+    "unit": {
+      "text": "school-age migrant children",
+      "start": 440,
+      "end": 467
+    },
+    "modifier": {
+      "text": "around",
+      "start": 418,
+      "end": 424
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "771",
+      "start": 482,
+      "end": 485
+    },
+    "eventDescription": {
+      "text": "had been granted student permits by the Ministry of National Security",
+      "start": 503,
+      "end": 572
+    },
+    "unit": {
+      "text": "migrant children",
+      "start": 486,
+      "end": 502
+    }
+  }
+]

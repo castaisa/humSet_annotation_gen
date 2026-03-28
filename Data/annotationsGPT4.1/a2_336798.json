@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "four",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "refugees surviving off of aid"
+  },
+  {
+    "quantity": "884,041",
+    "unit": "women, men, girls and boys",
+    "eventType": "EventP",
+    "eventDescription": "deserve more"
+  },
+  {
+    "quantity": "more than 440,000",
+    "unit": "Rohingya children",
+    "eventType": "EventP",
+    "eventDescription": "quickly becoming \u2018a lost generation.\u2019",
+    "modifier": "more than"
+  }
+]

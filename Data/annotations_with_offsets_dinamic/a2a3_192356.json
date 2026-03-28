@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "paid for health care",
+      "start": 475,
+      "end": 495
+    },
+    "quantity": {
+      "text": "53%",
+      "start": 511,
+      "end": 514
+    },
+    "unit": {
+      "text": "households",
+      "start": 226,
+      "end": 236
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "paid for health care",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "83%",
+      "start": 518,
+      "end": 521
+    },
+    "unit": {
+      "text": "households",
+      "start": 448,
+      "end": 458
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sought community support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4%",
+      "start": 610,
+      "end": 612
+    },
+    "unit": {
+      "text": "households",
+      "start": 547,
+      "end": 557
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sought community support",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 616,
+      "end": 619
+    },
+    "unit": {
+      "text": "households",
+      "start": 657,
+      "end": 667
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "went into debt to cover health expenses",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "53%",
+      "start": 738,
+      "end": 741
+    },
+    "unit": {
+      "text": "households",
+      "start": 768,
+      "end": 778
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "went into debt to cover health expenses",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34%",
+      "start": 745,
+      "end": 748
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "did not adopt any health-related coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23%",
+      "start": 855,
+      "end": 858
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "did not adopt any health-related coping strategies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0%",
+      "start": 862,
+      "end": 864
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  }
+]

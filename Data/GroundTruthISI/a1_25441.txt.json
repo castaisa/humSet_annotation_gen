@@ -1,0 +1,333 @@
+[
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 88,
+      "end": 92
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 78,
+      "end": 87
+    },
+    "unit": {
+      "text": "households",
+      "begin": 96,
+      "end": 106
+    },
+    "eventDescription": {
+      "text": "having at least one vulnerability",
+      "begin": 107,
+      "end": 140
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 142,
+      "end": 145
+    },
+    "eventDescription": {
+      "text": "having at least one vulnerability",
+      "begin": 107,
+      "end": 140
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one-third",
+      "begin": 162,
+      "end": 171
+    },
+    "modifier": {
+      "text": "Approximately",
+      "begin": 148,
+      "end": 161
+    },
+    "unit": {
+      "text": "households",
+      "begin": 175,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "had a pregnant or breastfeeding woman",
+      "begin": 186,
+      "end": 223
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "32%",
+      "begin": 225,
+      "end": 228
+    },
+    "unit": {
+      "text": "households",
+      "begin": 175,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "had a pregnant or breastfeeding woman",
+      "begin": 186,
+      "end": 223
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 321,
+      "end": 324
+    },
+    "unit": {
+      "text": "households",
+      "begin": 175,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "had high age-dependency ratios",
+      "begin": 289,
+      "end": 319
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "quarter",
+      "begin": 233,
+      "end": 240
+    },
+    "unit": {
+      "text": "households",
+      "begin": 244,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "were female-headed",
+      "begin": 255,
+      "end": 273
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "25%",
+      "begin": 275,
+      "end": 278
+    },
+    "unit": {
+      "text": "households",
+      "begin": 244,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "were female-headed",
+      "begin": 255,
+      "end": 273
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 540,
+      "end": 544
+    },
+    "unit": {
+      "text": "Households in Damboa",
+      "begin": 327,
+      "end": 347
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 533,
+      "end": 539
+    },
+    "eventDescription": {
+      "text": "aving experienced a security incident",
+      "begin": 546,
+      "end": 583
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "44%",
+      "begin": 610,
+      "end": 613
+    },
+    "unit": {
+      "text": "Households in Damboa",
+      "begin": 327,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "aving experienced a security incident",
+      "begin": 546,
+      "end": 583
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 596,
+      "end": 601
+    },
+    "unit": {
+      "text": "months",
+      "begin": 602,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "aving experienced a security incident",
+      "begin": 546,
+      "end": 583
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "last",
+      "begin": 591,
+      "end": 595
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 402,
+      "end": 406
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 395,
+      "end": 401
+    },
+    "unit": {
+      "text": "households",
+      "begin": 410,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "reporting being under threat of eviction",
+      "begin": 421,
+      "end": 461
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 463,
+      "end": 466
+    },
+    "eventDescription": {
+      "text": "reporting being under threat of eviction",
+      "begin": 421,
+      "end": 461
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 527,
+      "end": 530
+    },
+    "unit": {
+      "text": "households",
+      "begin": 474,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "not having adults with any documentation",
+      "begin": 485,
+      "end": 525
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 686,
+      "end": 689
+    },
+    "unit": {
+      "text": "a household member",
+      "begin": 640,
+      "end": 658
+    },
+    "eventDescription": {
+      "text": "being missing or detained",
+      "begin": 659,
+      "end": 684
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one-fifth",
+      "begin": 620,
+      "end": 629
+    },
+    "unit": {
+      "text": "a household member",
+      "begin": 640,
+      "end": 658
+    },
+    "eventDescription": {
+      "text": "being missing or detained",
+      "begin": 659,
+      "end": 684
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 738,
+      "end": 741
+    },
+    "modifier": {
+      "text": "many",
+      "begin": 717,
+      "end": 721
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 722,
+      "end": 726
+    },
+    "eventDescription": {
+      "text": "reported actively making plans to leave within the next six months",
+      "begin": 743,
+      "end": 809
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 799,
+      "end": 802
+    },
+    "eventDescription": {
+      "text": "reported actively making plans to leave within the next six months",
+      "begin": 743,
+      "end": 809
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "next",
+      "begin": 794,
+      "end": 798
+    },
+    "unit": {
+      "text": "months",
+      "begin": 803,
+      "end": 809
+    }
+  }
+]

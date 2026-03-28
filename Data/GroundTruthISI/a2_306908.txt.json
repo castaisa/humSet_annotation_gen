@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 19,
+      "end": 20
+    },
+    "unit": {
+      "text": "SWATs",
+      "begin": 21,
+      "end": 26
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 10,
+      "end": 11
+    },
+    "unit": {
+      "text": "SWATs",
+      "begin": 21,
+      "end": 26
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 412,
+      "end": 413
+    },
+    "unit": {
+      "text": "SWATs",
+      "begin": 414,
+      "end": 419
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 402,
+      "end": 403
+    },
+    "unit": {
+      "text": "SWATs",
+      "begin": 414,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "running out of aluminium sulfate",
+      "begin": 425,
+      "end": 457
+    },
+    "eventType": "EventO"
+  }
+]

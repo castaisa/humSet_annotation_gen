@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "Half",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "one",
+    "unit": "or more friends",
+    "eventType": "EventP",
+    "eventDescription": "with whom children died"
+  },
+  {
+    "quantity": "nine",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "fatal drowning cases where the child was alone"
+  },
+  {
+    "quantity": "45%",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "fatal drowning cases where the child was alone"
+  },
+  {
+    "quantity": "one",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "fatal drowning case where the child was with an adult relative"
+  },
+  {
+    "quantity": "under 5",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "age group of children"
+  }
+]

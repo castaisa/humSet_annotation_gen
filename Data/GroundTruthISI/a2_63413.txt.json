@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "3,823",
+      "begin": 40,
+      "end": 45
+    },
+    "unit": {
+      "text": "children and adolescents",
+      "begin": 46,
+      "end": 70
+    },
+    "eventDescription": {
+      "text": "attended UNICEF-supported child-friendly spaces and community-based activities",
+      "begin": 71,
+      "end": 149
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "171",
+      "begin": 577,
+      "end": 580
+    },
+    "eventDescription": {
+      "text": "UNICEF directly trained",
+      "begin": 553,
+      "end": 576
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 581,
+      "end": 587
+    }
+  },
+  {
+    "quantity": {
+      "text": "14,888",
+      "begin": 747,
+      "end": 753
+    },
+    "unit": {
+      "text": "people",
+      "begin": 754,
+      "end": 760
+    },
+    "eventDescription": {
+      "text": "were reached with prevention of family separation and violence sensitization activities",
+      "begin": 761,
+      "end": 848
+    },
+    "eventType": "EventA"
+  }
+]

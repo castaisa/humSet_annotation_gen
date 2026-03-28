@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "Ninety-three percent",
+    "unit": "Rohingya household heads",
+    "eventType": "EventP",
+    "eventDescription": "have not completed secondary education"
+  },
+  {
+    "quantity": "98 percent",
+    "unit": "host community household heads",
+    "eventType": "EventP",
+    "eventDescription": "have not completed secondary education"
+  },
+  {
+    "quantity": "24 percent",
+    "unit": "Rohingya male household heads",
+    "eventType": "EventP",
+    "eventDescription": "have an educational qualification above secondary level"
+  },
+  {
+    "quantity": "6 percent",
+    "unit": "host community male household heads",
+    "eventType": "EventP",
+    "eventDescription": "have an educational qualification above secondary level"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "quantity": "3,133,602",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "vaccinated"
+  },
+  {
+    "quantity": "99 per cent",
+    "unit": "of the target population",
+    "eventType": "EventP",
+    "eventDescription": "coverage achieved"
+  },
+  {
+    "quantity": "more than 3.9 million",
+    "unit": "bOPV",
+    "eventType": "EventA",
+    "eventDescription": "procured",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "124,479",
+    "unit": "IPV doses",
+    "eventType": "EventA",
+    "eventDescription": "procured"
+  },
+  {
+    "quantity": "24",
+    "unit": "regional cold room facilities",
+    "eventType": "EventO",
+    "eventDescription": "supported"
+  },
+  {
+    "quantity": "one",
+    "unit": "electric backup generator",
+    "eventType": "EventA",
+    "eventDescription": "installed"
+  },
+  {
+    "quantity": "15 kilowatts",
+    "unit": "capacity",
+    "eventType": "EventO",
+    "eventDescription": "generator capacity"
+  },
+  {
+    "quantity": "1.2 million",
+    "unit": "vaccine cards",
+    "eventType": "EventA",
+    "eventDescription": "procured and distributed"
+  },
+  {
+    "quantity": "2.2 million",
+    "unit": "registration forms",
+    "eventType": "EventA",
+    "eventDescription": "procured and distributed"
+  },
+  {
+    "quantity": "850,00",
+    "unit": "monthly tally sheets",
+    "eventType": "EventA",
+    "eventDescription": "procured and distributed"
+  },
+  {
+    "quantity": "12,000",
+    "unit": "data consolidation forms",
+    "eventType": "EventA",
+    "eventDescription": "procured and distributed"
+  },
+  {
+    "quantity": "2,200",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "received long lasting insecticidal nets"
+  }
+]

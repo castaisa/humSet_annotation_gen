@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "30-40 percent",
+    "unit": "cash transactions",
+    "eventType": "EventO",
+    "eventDescription": "declined"
+  },
+  {
+    "quantity": "40 percent",
+    "unit": "remittances",
+    "eventType": "EventO",
+    "eventDescription": "reach an estimated"
+  },
+  {
+    "quantity": "20-30 percent",
+    "unit": "price increases",
+    "eventType": "EventO",
+    "eventDescription": "exhibited steep"
+  },
+  {
+    "quantity": "10-15 percent",
+    "unit": "sorghum prices",
+    "eventType": "EventO",
+    "eventDescription": "declined below 2019"
+  },
+  {
+    "quantity": "7-10 percent",
+    "unit": "sorghum prices",
+    "eventType": "EventO",
+    "eventDescription": "declined below the five-year average"
+  }
+]

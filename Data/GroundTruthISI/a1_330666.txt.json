@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "75%",
+      "begin": 827,
+      "end": 830
+    },
+    "unit": {
+      "text": "adolescents",
+      "begin": 834,
+      "end": 845
+    },
+    "eventDescription": {
+      "text": "reported feeling scared or worried about covid-19",
+      "begin": 846,
+      "end": 895
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 901,
+      "end": 904
+    },
+    "unit": {
+      "text": "adolescents",
+      "begin": 834,
+      "end": 845
+    },
+    "eventDescription": {
+      "text": "reported an increase in household stress",
+      "begin": 905,
+      "end": 945
+    },
+    "eventType": "EventO"
+  }
+]

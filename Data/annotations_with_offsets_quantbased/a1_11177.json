@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "approximately 50",
+      "start": 120,
+      "end": 136
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "families",
+      "start": 137,
+      "end": 145
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 120,
+      "end": 133
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four",
+      "start": 465,
+      "end": 469
+    },
+    "eventDescription": {
+      "text": "civilian impact incidents",
+      "start": 391,
+      "end": 416
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 489,
+      "end": 498
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 473,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "civilian impact incidents",
+      "start": 391,
+      "end": 416
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 489,
+      "end": 498
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 714,
+      "end": 719
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": 746,
+      "end": 753
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 720,
+      "end": 729
+    }
+  }
+]

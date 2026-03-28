@@ -1,0 +1,103 @@
+[
+  {
+    "quantity": {
+      "text": "13.2 million",
+      "begin": 83,
+      "end": 95
+    },
+    "unit": {
+      "text": "adults in the high risk areas",
+      "begin": 44,
+      "end": 73
+    }
+  },
+  {
+    "quantity": {
+      "text": "78%",
+      "begin": 152,
+      "end": 155
+    },
+    "unit": {
+      "text": "adults in the high risk areas",
+      "begin": 44,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "located in rural areas",
+      "begin": 169,
+      "end": 191
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10.2 M",
+      "begin": 157,
+      "end": 163
+    },
+    "unit": {
+      "text": "adults in the high risk areas",
+      "begin": 44,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "located in rural areas",
+      "begin": 169,
+      "end": 191
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13%",
+      "begin": 97,
+      "end": 100
+    },
+    "unit": {
+      "text": "country's total adult population",
+      "begin": 108,
+      "end": 140
+    }
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 199,
+      "end": 201
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 193,
+      "end": 198
+    },
+    "unit": {
+      "text": "total adult population at high risk",
+      "begin": 209,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "is in ZOI (dark red; 0.9M)",
+      "begin": 245,
+      "end": 271
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Half",
+      "begin": 273,
+      "end": 277
+    },
+    "unit": {
+      "text": "top ten hotspots",
+      "begin": 285,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "overlap with the (unofficial) subnational reporting of confirmed cases",
+      "begin": 302,
+      "end": 372
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21%",
+      "start": 102,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "in need of protection support",
+      "start": 167,
+      "end": 196
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 109,
+      "end": 128
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11%",
+      "start": 133,
+      "end": 136
+    },
+    "eventDescription": {
+      "text": "in need of protection support",
+      "start": 167,
+      "end": 196
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 140,
+      "end": 154
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6%",
+      "start": 215,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "in need of protection support",
+      "start": 167,
+      "end": 196
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": 221,
+      "end": 245
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "39%",
+      "start": 360,
+      "end": 363
+    },
+    "eventDescription": {
+      "text": "reporting movement restrictions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 367,
+      "end": 386
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25%",
+      "start": 391,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "reporting movement restrictions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 398,
+      "end": 412
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11%",
+      "start": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "reporting movement restrictions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": 424,
+      "end": 448
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "6%",
+      "start": 653,
+      "end": 655
+    },
+    "eventDescription": {
+      "text": "reported that they had at least one missing family member",
+      "start": 658,
+      "end": 715
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 621,
+      "end": 635
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 681,
+      "end": 689
+    }
+  }
+]

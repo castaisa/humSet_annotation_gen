@@ -1,0 +1,122 @@
+[
+  {
+    "quantity": {
+      "text": "74%",
+      "begin": 266,
+      "end": 269
+    },
+    "unit": {
+      "text": "households",
+      "begin": 211,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "least extreme multi-sectoral needs",
+      "begin": 230,
+      "end": 264
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2.54",
+      "begin": 332,
+      "end": 336
+    },
+    "unit": {
+      "text": "average number of LSGs per household",
+      "begin": 294,
+      "end": 330
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 346,
+      "end": 350
+    },
+    "modifier": {
+      "text": "Around",
+      "begin": 339,
+      "end": 345
+    },
+    "eventDescription": {
+      "text": "had LSGs in three or more sectors",
+      "begin": 389,
+      "end": 422
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "51%",
+      "begin": 352,
+      "end": 355
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 360,
+      "end": 379
+    },
+    "eventDescription": {
+      "text": "had LSGs in three or more sectors",
+      "begin": 389,
+      "end": 422
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 431,
+      "end": 433
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 360,
+      "end": 379
+    },
+    "eventDescription": {
+      "text": "had LSGs in five or more sectors",
+      "begin": 434,
+      "end": 466
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 696,
+      "end": 699
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 591,
+      "end": 610
+    },
+    "eventDescription": {
+      "text": "most likely to have a protection LSG",
+      "begin": 655,
+      "end": 691
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "34%",
+      "begin": 738,
+      "end": 741
+    },
+    "eventDescription": {
+      "text": "most likely to have a protection LSG",
+      "begin": 655,
+      "end": 691
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDP households",
+      "begin": 713,
+      "end": 727
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31.3%",
+      "start": 83,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "inflation rate",
+      "start": 296,
+      "end": 310
+    },
+    "unit": {
+      "text": "inflation",
+      "start": 63,
+      "end": 72
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "18%",
+      "start": 336,
+      "end": 339
+    },
+    "eventDescription": {
+      "text": "inflation rate",
+      "start": 296,
+      "end": 310
+    },
+    "unit": {
+      "text": "inflation",
+      "start": 352,
+      "end": 361
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "49.7%",
+      "start": 377,
+      "end": 382
+    },
+    "eventDescription": {
+      "text": "food inflation rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food inflation",
+      "start": 347,
+      "end": 361
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30.9%",
+      "start": 386,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "food inflation rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food inflation",
+      "start": 347,
+      "end": 361
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "2bn",
+      "start": 427,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "approved letters of credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD in letters of credit",
+      "start": null,
+      "end": null
+    }
+  }
+]

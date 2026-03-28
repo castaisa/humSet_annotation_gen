@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "third",
+    "unit": "quarter requirements",
+    "eventType": "EventA",
+    "eventDescription": "delivery of essential drugs and medical equipment"
+  },
+  {
+    "quantity": "25",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "supported health facilities in Upper Nile and Jonglei States"
+  },
+  {
+    "quantity": "fourth",
+    "unit": "quarter supplies",
+    "eventType": "EventA",
+    "eventDescription": "planning for delivery of supplies"
+  },
+  {
+    "quantity": "193",
+    "unit": "health facilities",
+    "eventType": "EventA",
+    "eventDescription": "delivery of supplies to health facilities"
+  },
+  {
+    "quantity": "15,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "target population for IRRM mission"
+  }
+]

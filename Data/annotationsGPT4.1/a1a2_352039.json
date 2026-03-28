@@ -1,0 +1,16 @@
+[
+  {
+    "quantity": "15",
+    "unit": "coronavirus tests",
+    "eventType": "EventA",
+    "eventDescription": "carried out per day",
+    "modifier": "about"
+  },
+  {
+    "quantity": "500",
+    "unit": "coronavirus tests",
+    "eventType": "EventA",
+    "eventDescription": "carried out per day",
+    "modifier": "about"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "TT$4.5 billion",
+    "unit": "revenue loss",
+    "eventType": "EventO",
+    "eventDescription": "projected revenue loss"
+  },
+  {
+    "quantity": "15 per cent",
+    "unit": "annual budget",
+    "eventType": "EventO",
+    "eventDescription": "portion of annual budget lost"
+  }
+]

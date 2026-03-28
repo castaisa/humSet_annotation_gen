@@ -1,0 +1,403 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "thirty-five",
+      "start": 64,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "new confirmed cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 122,
+      "end": 124
+    },
+    "eventDescription": {
+      "text": "new confirmed cases in Edo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 133,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "new confirmed cases in Ondo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 146,
+      "end": 147
+    },
+    "eventDescription": {
+      "text": "new confirmed cases in Bauchi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 155,
+      "end": 156
+    },
+    "eventDescription": {
+      "text": "new confirmed case in FCT",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5",
+      "start": 167,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "new confirmed cases in Ebonyi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 180,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "new confirmed case in Plateau",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 195,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "new confirmed case in Taraba",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "eight",
+      "start": 210,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "new deaths",
+      "start": 216,
+      "end": 226
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 220,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 236,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "new deaths in Ondo",
+      "start": 216,
+      "end": 234
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 220,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 245,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "new death in Edo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 220,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 257,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "new death in Ebonyi",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 220,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 266,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "new death in FCT",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 220,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 279,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "new death in Plateau",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 220,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 294,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "new death in Taraba",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 220,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "172",
+      "start": 349,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "suspected cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 364,
+      "end": 369
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 400,
+      "end": 402
+    },
+    "eventDescription": {
+      "text": "confirmed positive cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 364,
+      "end": 369
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "112",
+      "start": 431,
+      "end": 434
+    },
+    "eventDescription": {
+      "text": "negative cases (not a case)",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 364,
+      "end": 369
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16",
+      "start": 515,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "deaths among confirmed cases",
+      "start": 518,
+      "end": 546
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 518,
+      "end": 524
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "26.7%",
+      "start": 589,
+      "end": 594
+    },
+    "eventDescription": {
+      "text": "case fatality rate in confirmed cases",
+      "start": 548,
+      "end": 585
+    },
+    "unit": {
+      "text": "Case Fatality Rate",
+      "start": 548,
+      "end": 566
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "eight",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "states with at least one confirmed case",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "states",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "17",
+      "start": 661,
+      "end": 663
+    },
+    "eventDescription": {
+      "text": "LGAs with confirmed cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 664,
+      "end": 668
+    }
+  }
+]

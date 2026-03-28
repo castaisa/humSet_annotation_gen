@@ -1,0 +1,88 @@
+[
+  {
+    "quantity": "125",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "new COVID-19 cases reported"
+  },
+  {
+    "quantity": "five",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths reported"
+  },
+  {
+    "quantity": "3,390",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "total confirmed COVID-19 cases"
+  },
+  {
+    "quantity": "98",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "total deaths"
+  },
+  {
+    "quantity": "at least 14 per cent",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "confirmed cases among health workers",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "250",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "confirmed cases among health workers"
+  },
+  {
+    "quantity": "seven",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "states with confirmed COVID-19 infections"
+  },
+  {
+    "quantity": "more than 44 per cent",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases reported in Banadir State",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "1,535",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases reported in Banadir State"
+  },
+  {
+    "quantity": "55",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths reported in Banadir State"
+  },
+  {
+    "quantity": "934",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases reported in Somaliland"
+  },
+  {
+    "quantity": "31",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths reported in Somaliland"
+  },
+  {
+    "quantity": "496",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "cases reported in Puntland"
+  },
+  {
+    "quantity": "nine",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths reported in Puntland"
+  }
+]

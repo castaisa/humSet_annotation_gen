@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "320,000",
+      "begin": 298,
+      "end": 305
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 306,
+      "end": 312
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 306,
+      "end": 312
+    }
+  },
+  {
+    "quantity": {
+      "text": "third",
+      "begin": 370,
+      "end": 375
+    },
+    "unit": {
+      "text": "leading unintentional injury killer and a serious public health issue",
+      "begin": 376,
+      "end": 445
+    }
+  },
+  {
+    "quantity": {
+      "text": "90%",
+      "begin": 581,
+      "end": 584
+    },
+    "unit": {
+      "text": "drowning incidents occur",
+      "begin": 588,
+      "end": 612
+    },
+    "eventDescription": {
+      "text": "drowning incidents occur",
+      "begin": 588,
+      "end": 612
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 677,
+      "end": 681
+    },
+    "eventDescription": {
+      "text": "drowning deaths",
+      "begin": 689,
+      "end": 704
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "drowning deaths",
+      "begin": 689,
+      "end": 704
+    }
+  }
+]

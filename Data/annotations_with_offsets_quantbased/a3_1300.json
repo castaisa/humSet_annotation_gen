@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,693",
+      "start": 72,
+      "end": 77
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 78,
+      "end": 99
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 262",
+      "start": 169,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "disembarked at Tripoli Naval Base",
+      "start": 195,
+      "end": 228
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 178,
+      "end": 189
+    },
+    "modifier": {
+      "text": "over",
+      "start": 169,
+      "end": 173
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 124",
+      "start": 235,
+      "end": 243
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "start": 256,
+      "end": 267
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 244,
+      "end": 255
+    },
+    "modifier": {
+      "text": "over",
+      "start": 235,
+      "end": 239
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "100",
+      "start": 27,
+      "end": 30
+    },
+    "eventDescription": {
+      "text": "provided",
+      "start": 18,
+      "end": 26
+    },
+    "unit": {
+      "text": "school desks",
+      "start": 31,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "370",
+      "start": 234,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "hosting",
+      "start": 226,
+      "end": 233
+    },
+    "unit": {
+      "text": "families",
+      "start": 238,
+      "end": 246
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,960",
+      "start": 248,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "hosting",
+      "start": 226,
+      "end": 233
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 254,
+      "end": 265
+    }
+  }
+]

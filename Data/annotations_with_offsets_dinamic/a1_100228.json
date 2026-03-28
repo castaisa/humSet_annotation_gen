@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "movements across the three northeast states",
+      "start": 26,
+      "end": 69
+    },
+    "quantity": {
+      "text": "11,322",
+      "start": 19,
+      "end": 25
+    },
+    "unit": {
+      "text": "movements",
+      "start": 26,
+      "end": 35
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arrivals",
+      "start": 95,
+      "end": 103
+    },
+    "quantity": {
+      "text": "8,653",
+      "start": 84,
+      "end": 89
+    },
+    "unit": {
+      "text": "arrivals",
+      "start": 95,
+      "end": 103
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "departures",
+      "start": 115,
+      "end": 125
+    },
+    "quantity": {
+      "text": "2, 669",
+      "start": 108,
+      "end": 114
+    },
+    "unit": {
+      "text": "departures",
+      "start": 115,
+      "end": 125
+    }
+  }
+]

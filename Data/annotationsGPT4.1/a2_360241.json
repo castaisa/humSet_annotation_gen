@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "518,670",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "registered to sit the exams"
+  },
+  {
+    "quantity": "16,507",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "registered from areas outside government control"
+  },
+  {
+    "quantity": "8,557",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "registered from areas outside government control"
+  },
+  {
+    "quantity": "5,783",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "had travelled crossline and cross-border and are staying in the accommodation centres"
+  },
+  {
+    "quantity": "2,993",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "had travelled crossline and cross-border and are staying in the accommodation centres"
+  },
+  {
+    "quantity": "4,495",
+    "unit": "Grade 9",
+    "eventType": "EventP",
+    "eventDescription": "had travelled crossline and cross-border and are staying in the accommodation centres"
+  },
+  {
+    "quantity": "1,288",
+    "unit": "Grade 12",
+    "eventType": "EventP",
+    "eventDescription": "had travelled crossline and cross-border and are staying in the accommodation centres"
+  },
+  {
+    "quantity": "five",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "accommodation centres located"
+  },
+  {
+    "quantity": "4,632",
+    "unit": "Aleppo",
+    "eventType": "EventP",
+    "eventDescription": "students staying in accommodation centres"
+  },
+  {
+    "quantity": "625",
+    "unit": "Ar-Raqqa",
+    "eventType": "EventP",
+    "eventDescription": "students staying in accommodation centres"
+  },
+  {
+    "quantity": "131",
+    "unit": "Dier-ez-Zor",
+    "eventType": "EventP",
+    "eventDescription": "students staying in accommodation centres"
+  },
+  {
+    "quantity": "134",
+    "unit": "Hama",
+    "eventType": "EventP",
+    "eventDescription": "students staying in accommodation centres"
+  },
+  {
+    "quantity": "261",
+    "unit": "Rural Damascus",
+    "eventType": "EventP",
+    "eventDescription": "students staying in accommodation centres"
+  },
+  {
+    "quantity": "55",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "students from newly accessible areas of Idleb travelling crossline daily"
+  },
+  {
+    "quantity": "9,120",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "students from NE of Syria travelling crossline daily"
+  }
+]

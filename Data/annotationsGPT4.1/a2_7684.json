@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "67%",
+    "unit": "baladiyas",
+    "eventType": "EventP",
+    "eventDescription": "IDPs purchased food from the market as their main source of food"
+  },
+  {
+    "quantity": "two percent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "decrease in IDPs purchasing food from the market"
+  },
+  {
+    "quantity": "16%",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "IDPs obtaining food on credit"
+  },
+  {
+    "quantity": "one percent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "decrease in IDPs obtaining food on credit"
+  },
+  {
+    "quantity": "16%",
+    "unit": "baladiyas",
+    "eventType": "EventP",
+    "eventDescription": "main source of food was reported to be from charity or donations"
+  },
+  {
+    "quantity": "1",
+    "unit": "baladiya",
+    "eventType": "EventP",
+    "eventDescription": "reporting family or friends as the main source of food"
+  },
+  {
+    "quantity": "94",
+    "unit": "baladiyas",
+    "eventType": "EventO",
+    "eventDescription": "food was reported as too expensive"
+  },
+  {
+    "quantity": "13%",
+    "unit": "baladiyas",
+    "eventType": "EventP",
+    "eventDescription": "cases of malnutrition reported"
+  }
+]

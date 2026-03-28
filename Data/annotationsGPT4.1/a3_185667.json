@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "8 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "had their access to food disrupted",
+    "modifier": "An estimated"
+  },
+  {
+    "quantity": "3.3 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "will be in moderate food insecurity",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "750,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "will be in severe food insecurity"
+  }
+]

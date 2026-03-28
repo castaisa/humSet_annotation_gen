@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "98",
+    "unit": "civilian casualties",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties recorded"
+  },
+  {
+    "quantity": "29",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths recorded"
+  },
+  {
+    "quantity": "69",
+    "unit": "injured",
+    "eventType": "EventP",
+    "eventDescription": "injured recorded"
+  },
+  {
+    "quantity": "64",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "men casualties recorded"
+  },
+  {
+    "quantity": "13",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "women casualties recorded"
+  },
+  {
+    "quantity": "14",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "boys casualties recorded"
+  },
+  {
+    "quantity": "six",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "girls casualties recorded"
+  },
+  {
+    "quantity": "one",
+    "unit": "male",
+    "eventType": "EventP",
+    "eventDescription": "male casualty of undetermined age recorded"
+  }
+]

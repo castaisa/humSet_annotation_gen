@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with Hygiene Promotion Sessions and Cleaning campaign",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13104",
+      "start": 300,
+      "end": 305
+    },
+    "unit": {
+      "text": "persons",
+      "start": 306,
+      "end": 313
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "supplied",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,450,000",
+      "start": 328,
+      "end": 337
+    },
+    "unit": {
+      "text": "liters of safe water",
+      "start": 338,
+      "end": 358
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "routine chlorination",
+      "start": 364,
+      "end": 384
+    },
+    "quantity": {
+      "text": "11",
+      "start": 388,
+      "end": 390
+    },
+    "unit": {
+      "text": "boreholes",
+      "start": 391,
+      "end": 400
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "routine chlorination",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 405,
+      "end": 406
+    },
+    "unit": {
+      "text": "hand pumps",
+      "start": 407,
+      "end": 417
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "supplied",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "245,000",
+      "start": 458,
+      "end": 465
+    },
+    "unit": {
+      "text": "liters of water",
+      "start": 466,
+      "end": 481
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rehabilitated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 541,
+      "end": 542
+    },
+    "unit": {
+      "text": "blocks of latrine",
+      "start": 543,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rehabilitated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 565,
+      "end": 566
+    },
+    "unit": {
+      "text": "blocks of bathroom",
+      "start": 567,
+      "end": 585
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "disinfected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 602,
+      "end": 604
+    },
+    "unit": {
+      "text": "blocks of latrine",
+      "start": 605,
+      "end": 622
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached with hygiene promotion messaging",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,115",
+      "start": 687,
+      "end": 692
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 693,
+      "end": 704
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through area cleaning campaign",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,778",
+      "start": 837,
+      "end": 842
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 843,
+      "end": 854
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "93",
+    "unit": "media mentions",
+    "eventType": "EventO",
+    "eventDescription": "media mentions generated"
+  },
+  {
+    "quantity": "US$182,000",
+    "unit": "free press",
+    "eventType": "EventA",
+    "eventDescription": "value of free press"
+  },
+  {
+    "quantity": "66 per cent",
+    "unit": "target audience of adults aged 25 and over",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  }
+]

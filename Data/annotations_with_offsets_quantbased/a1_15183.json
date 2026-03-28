@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14,249",
+      "start": 67,
+      "end": 73
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 74,
+      "end": 95
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9,893",
+      "start": 97,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "men",
+      "start": 103,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,126",
+      "start": 108,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "women",
+      "start": 114,
+      "end": 119
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,374",
+      "start": 124,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 130,
+      "end": 138
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "109",
+      "start": 154,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "sea rescue/interception operations",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "operations",
+      "start": 158,
+      "end": 168
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "93",
+      "start": 185,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "disembarked at the Tripoli Naval Base",
+      "start": 215,
+      "end": 252
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 188,
+      "end": 209
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "351",
+      "start": 355,
+      "end": 358
+    },
+    "eventDescription": {
+      "text": "disembarked in Libya in October",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 359,
+      "end": 380
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "45 per cent",
+      "start": 422,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "decrease in disembarkations in October compared to previous months",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "decrease",
+      "start": 434,
+      "end": 442
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "713",
+      "start": 479,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "disembarked in September",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 483,
+      "end": 494
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "552",
+      "start": 512,
+      "end": 515
+    },
+    "eventDescription": {
+      "text": "disembarked in August",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 516,
+      "end": 527
+    }
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": "209,939",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with education on risks posed by mines"
+  },
+  {
+    "quantity": "152,235",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "reached with education on risks posed by mines"
+  },
+  {
+    "quantity": "82,164",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "reached with education on risks posed by mines"
+  },
+  {
+    "quantity": "70,071",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "reached with education on risks posed by mines"
+  },
+  {
+    "quantity": "57,704",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "reached with education on risks posed by mines"
+  },
+  {
+    "quantity": "30,352",
+    "unit": "male",
+    "eventType": "EventP",
+    "eventDescription": "reached with education on risks posed by mines"
+  },
+  {
+    "quantity": "27,352",
+    "unit": "female",
+    "eventType": "EventP",
+    "eventDescription": "reached with education on risks posed by mines"
+  },
+  {
+    "quantity": "six",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "covered by education activities"
+  },
+  {
+    "quantity": "60",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "provided with medical and other services",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "42",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "provided with medical and other services"
+  },
+  {
+    "quantity": "18",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "provided with medical and other services"
+  }
+]

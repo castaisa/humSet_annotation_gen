@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "new views of UNICEF videos",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4,266",
+      "start": 121,
+      "end": 126
+    },
+    "unit": {
+      "text": "views",
+      "start": 131,
+      "end": 136
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total views of UNICEF videos",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7,286",
+      "start": 154,
+      "end": 159
+    },
+    "unit": {
+      "text": "views",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children in foster families provided with food baskets",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "106",
+      "start": 577,
+      "end": 580
+    },
+    "unit": {
+      "text": "children",
+      "start": 311,
+      "end": 319
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "planned provisions of food baskets for the rest of 2020",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 656,
+      "end": 659
+    },
+    "unit": {
+      "text": "provisions of food baskets",
+      "start": 665,
+      "end": 691
+    }
+  }
+]

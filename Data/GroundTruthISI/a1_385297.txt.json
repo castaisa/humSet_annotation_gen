@@ -1,0 +1,48 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 89,
+      "end": 93
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 80,
+      "end": 88
+    },
+    "unit": {
+      "text": "female IDPs",
+      "begin": 94,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "dead and several others wounded",
+      "begin": 106,
+      "end": 137
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "200,000",
+      "begin": 683,
+      "end": 690
+    },
+    "eventDescription": {
+      "text": "largest aid operations",
+      "begin": 629,
+      "end": 651
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "nearly",
+      "begin": 676,
+      "end": 682
+    },
+    "unit": {
+      "text": "people",
+      "begin": 691,
+      "end": 697
+    }
+  }
+]

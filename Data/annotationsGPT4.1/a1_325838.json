@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "65 per cent",
+    "unit": "probability",
+    "eventType": "EventO",
+    "eventDescription": "probability that La Ni\u00f1a conditions would continue"
+  },
+  {
+    "quantity": "57 per cent",
+    "unit": "probability",
+    "eventType": "EventO",
+    "eventDescription": "probability that conditions will worsen due to increased precipitation"
+  },
+  {
+    "quantity": "80 per cent",
+    "unit": "of Valle del Cauca department",
+    "eventType": "EventP",
+    "eventDescription": "affected by higher-than-historical-average rains"
+  },
+  {
+    "quantity": "three",
+    "unit": "heavy rainfall events",
+    "eventType": "EventO",
+    "eventDescription": "caused landslides"
+  }
+]

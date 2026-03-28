@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": {
+      "text": "10%",
+      "begin": 111,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "cereal production",
+      "begin": 51,
+      "end": 68
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "increased by",
+      "begin": 98,
+      "end": 110
+    }
+  },
+  {
+    "quantity": {
+      "text": "818,500",
+      "begin": 195,
+      "end": 202
+    },
+    "unit": {
+      "text": "tons",
+      "begin": 203,
+      "end": 207
+    }
+  },
+  {
+    "quantity": {
+      "text": "744,900",
+      "begin": 221,
+      "end": 228
+    },
+    "unit": {
+      "text": "tons",
+      "begin": 229,
+      "end": 233
+    }
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 445,
+      "end": 447
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 435,
+      "end": 444
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 574,
+      "end": 578
+    },
+    "unit": {
+      "text": "years",
+      "begin": 579,
+      "end": 584
+    }
+  },
+  {
+    "quantity": {
+      "text": "482,500",
+      "begin": 650,
+      "end": 657
+    },
+    "eventDescription": {
+      "text": "overall cereal deficit",
+      "begin": 603,
+      "end": 625
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tons",
+      "begin": 658,
+      "end": 662
+    }
+  }
+]

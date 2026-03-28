@@ -1,0 +1,475 @@
+[
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 40,
+      "end": 41
+    },
+    "eventDescription": {
+      "text": "reporting",
+      "begin": 25,
+      "end": 34
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Week",
+      "begin": 35,
+      "end": 39
+    }
+  },
+  {
+    "quantity": {
+      "text": "thirty-seven",
+      "begin": 67,
+      "end": 79
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 126,
+      "end": 128
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 137,
+      "end": 139
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 150,
+      "end": 151
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 163,
+      "end": 164
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 175,
+      "end": 176
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 186,
+      "end": 187
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 197,
+      "end": 198
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 209,
+      "end": 210
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 223,
+      "end": 224
+    },
+    "unit": {
+      "text": "new confirmediI cases",
+      "begin": 80,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "were reported",
+      "begin": 102,
+      "end": 115
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 261,
+      "end": 262
+    },
+    "unit": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 283,
+      "end": 284
+    },
+    "unit": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 271,
+      "end": 272
+    },
+    "unit": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 299,
+      "end": 300
+    },
+    "unit": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "new deaths",
+      "begin": 242,
+      "end": 252
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "947",
+      "begin": 364,
+      "end": 367
+    },
+    "unit": {
+      "text": "suspectedi cases",
+      "begin": 368,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 395,
+      "end": 403
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "324",
+      "begin": 430,
+      "end": 433
+    },
+    "unit": {
+      "text": "suspectedi cases",
+      "begin": 368,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "confirmed positive",
+      "begin": 439,
+      "end": 457
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 459,
+      "end": 460
+    },
+    "unit": {
+      "text": "suspectedi cases",
+      "begin": 368,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "probable",
+      "begin": 461,
+      "end": 469
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "620",
+      "begin": 474,
+      "end": 477
+    },
+    "unit": {
+      "text": "suspectedi cases",
+      "begin": 368,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "negatives (not a case)",
+      "begin": 478,
+      "end": 500
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 409,
+      "end": 411
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 395,
+      "end": 403
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "States",
+      "begin": 412,
+      "end": 418
+    }
+  },
+  {
+    "quantity": {
+      "text": "67",
+      "begin": 559,
+      "end": 561
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 562,
+      "end": 568
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 562,
+      "end": 568
+    }
+  },
+  {
+    "quantity": {
+      "text": "21.3%",
+      "begin": 633,
+      "end": 638
+    },
+    "eventDescription": {
+      "text": "Case Fatality Rate",
+      "begin": 592,
+      "end": 610
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 614,
+      "end": 629
+    }
+  },
+  {
+    "quantity": {
+      "text": "Twenty",
+      "begin": 643,
+      "end": 649
+    },
+    "unit": {
+      "text": "states",
+      "begin": 650,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 662,
+      "end": 670
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 680,
+      "end": 683
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 662,
+      "end": 670
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "at least",
+      "begin": 671,
+      "end": 679
+    },
+    "unit": {
+      "text": "confirmed case",
+      "begin": 684,
+      "end": 698
+    }
+  },
+  {
+    "quantity": {
+      "text": "54",
+      "begin": 706,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 662,
+      "end": 670
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LGAs",
+      "begin": 709,
+      "end": 713
+    }
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 21,
+      "end": 24
+    },
+    "unit": {
+      "text": "years",
+      "begin": 25,
+      "end": 30
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.8 million",
+      "begin": 82,
+      "end": 93
+    },
+    "unit": {
+      "text": "Nigerians",
+      "begin": 94,
+      "end": 103
+    },
+    "eventDescription": {
+      "text": "currently displaced",
+      "begin": 108,
+      "end": 127
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "226,000",
+      "begin": 196,
+      "end": 203
+    },
+    "unit": {
+      "text": "Nigerians",
+      "begin": 94,
+      "end": 103
+    },
+    "eventDescription": {
+      "text": "currently displaced",
+      "begin": 108,
+      "end": 127
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 139,
+      "end": 144
+    },
+    "unit": {
+      "text": "states",
+      "begin": 145,
+      "end": 151
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.1 million",
+      "begin": 245,
+      "end": 256
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 235,
+      "end": 244
+    },
+    "unit": {
+      "text": "peopl",
+      "begin": 257,
+      "end": 262
+    },
+    "eventDescription": {
+      "text": "rely on humanitarian assistance to survive",
+      "begin": 264,
+      "end": 306
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2 million",
+      "begin": 336,
+      "end": 345
+    },
+    "unit": {
+      "text": "people",
+      "begin": 346,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 357,
+      "end": 366
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "80 per cent",
+      "begin": 420,
+      "end": 431
+    },
+    "eventDescription": {
+      "text": "displaced persons",
+      "begin": 435,
+      "end": 452
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "displaced persons",
+      "begin": 435,
+      "end": 452
+    }
+  },
+  {
+    "quantity": {
+      "text": "276",
+      "begin": 616,
+      "end": 619
+    },
+    "unit": {
+      "text": "schoolgirls",
+      "begin": 620,
+      "end": 631
+    },
+    "eventDescription": {
+      "text": "kidnapped",
+      "begin": 637,
+      "end": 646
+    },
+    "eventType": "EventP"
+  }
+]

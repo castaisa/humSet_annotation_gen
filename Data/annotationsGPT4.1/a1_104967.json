@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "6,000",
+    "unit": "asylumseekers",
+    "eventType": "EventP",
+    "eventDescription": "provided with health insurance"
+  },
+  {
+    "quantity": "4,000",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "met the criteria for insurance coverage",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "287",
+    "unit": "these",
+    "eventType": "EventP",
+    "eventDescription": "were from Venezuelan"
+  },
+  {
+    "quantity": "500",
+    "unit": "individulas",
+    "eventType": "EventP",
+    "eventDescription": "remotely processed per week"
+  }
+]

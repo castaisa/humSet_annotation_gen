@@ -1,0 +1,136 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "24,300",
+      "start": 133,
+      "end": 139
+    },
+    "eventDescription": {
+      "text": "received farming inputs",
+      "start": 92,
+      "end": 115
+    },
+    "unit": {
+      "text": "households",
+      "start": 140,
+      "end": 150
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "16,000",
+      "start": 166,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "received farming inputs",
+      "start": 92,
+      "end": 115
+    },
+    "unit": {
+      "text": "households",
+      "start": 173,
+      "end": 183
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "7,468",
+      "start": 202,
+      "end": 207
+    },
+    "eventDescription": {
+      "text": "received cash",
+      "start": 227,
+      "end": 240
+    },
+    "unit": {
+      "text": "farming households",
+      "start": 208,
+      "end": 226
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "3,600",
+      "start": 302,
+      "end": 307
+    },
+    "eventDescription": {
+      "text": "being delivered",
+      "start": 344,
+      "end": 359
+    },
+    "unit": {
+      "text": "metric tonnes of livestock feed",
+      "start": 308,
+      "end": 339
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "30,000",
+      "start": 363,
+      "end": 369
+    },
+    "eventDescription": {
+      "text": "being delivered livestock feed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 370,
+      "end": 380
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "2,450",
+      "start": 387,
+      "end": 392
+    },
+    "eventDescription": {
+      "text": "registered for cash plus livestock inputs",
+      "start": 404,
+      "end": 445
+    },
+    "unit": {
+      "text": "households",
+      "start": 393,
+      "end": 403
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "US$50.4 million",
+      "start": 472,
+      "end": 487
+    },
+    "eventDescription": {
+      "text": "FAO has received",
+      "start": 455,
+      "end": 471
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "$57 million",
+      "start": 597,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "total requirement",
+      "start": 576,
+      "end": 593
+    }
+  }
+]

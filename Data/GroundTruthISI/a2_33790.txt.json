@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": {
+      "text": "1,000",
+      "begin": 288,
+      "end": 293
+    },
+    "unit": {
+      "text": "dead",
+      "begin": 294,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "dead",
+      "begin": 294,
+      "end": 298
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 482,
+      "end": 486
+    },
+    "unit": {
+      "text": "years",
+      "begin": 487,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "group seized control of much of Nigeria’s Borno state, and began operating in border areas",
+      "begin": 554,
+      "end": 644
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "276",
+      "begin": 838,
+      "end": 841
+    },
+    "unit": {
+      "text": "schoolgirls",
+      "begin": 842,
+      "end": 853
+    }
+  }
+]

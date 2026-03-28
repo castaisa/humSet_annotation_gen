@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "36%",
+    "unit": "population",
+    "eventType": "EventP",
+    "eventDescription": "lives in a single room"
+  },
+  {
+    "quantity": "51%",
+    "unit": "population",
+    "eventType": "EventP",
+    "eventDescription": "shares a room with one or two other people"
+  },
+  {
+    "quantity": "13%",
+    "unit": "population",
+    "eventType": "EventP",
+    "eventDescription": "shares a room with three or more people"
+  },
+  {
+    "quantity": "34%",
+    "unit": "displaced population in Honduras",
+    "eventType": "EventP",
+    "eventDescription": "experiencing overcrowding"
+  },
+  {
+    "quantity": "57%",
+    "unit": "refugees or asylum-seekers in Colombia",
+    "eventType": "EventP",
+    "eventDescription": "experiencing overcrowding",
+    "modifier": "exceeds"
+  },
+  {
+    "quantity": "22%",
+    "unit": "migrants in Colombia",
+    "eventType": "EventP",
+    "eventDescription": "experiencing overcrowding",
+    "modifier": "exceed"
+  },
+  {
+    "quantity": "20%",
+    "unit": "refugees or asylum-seekers in Peru",
+    "eventType": "EventP",
+    "eventDescription": "experiencing overcrowding"
+  }
+]

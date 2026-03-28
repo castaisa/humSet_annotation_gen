@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31400",
+      "start": 83,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "total monthly household expenditure",
+      "start": 44,
+      "end": 79
+    },
+    "unit": {
+      "text": "naira",
+      "start": 89,
+      "end": 94
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1 – 3",
+      "start": 166,
+      "end": 171
+    },
+    "eventDescription": {
+      "text": "household size",
+      "start": 125,
+      "end": 139
+    },
+    "unit": {
+      "text": "members",
+      "start": 172,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24,217",
+      "start": 209,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "monthly expenditures for smaller households",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "naira",
+      "start": 216,
+      "end": 221
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4 – 8",
+      "start": 243,
+      "end": 248
+    },
+    "eventDescription": {
+      "text": "household size",
+      "start": 125,
+      "end": 139
+    },
+    "unit": {
+      "text": "members",
+      "start": 249,
+      "end": 256
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31,817",
+      "start": 319,
+      "end": 325
+    },
+    "eventDescription": {
+      "text": "monthly median expenditures for households with 4 – 8 members",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "naira",
+      "start": 326,
+      "end": 331
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "eight",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "household size",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "members",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "41,300",
+      "start": 336,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "monthly median expenditures for households with above eight members",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "naira",
+      "start": 343,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "70 percent",
+      "start": 370,
+      "end": 380
+    },
+    "eventDescription": {
+      "text": "share of food in expenditure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "median share",
+      "start": 381,
+      "end": 393
+    }
+  }
+]

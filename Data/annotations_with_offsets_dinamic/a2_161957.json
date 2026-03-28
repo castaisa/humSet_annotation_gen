@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed Coronavirus cases",
+      "start": 41,
+      "end": 68
+    },
+    "quantity": {
+      "text": "69",
+      "start": 31,
+      "end": 33
+    },
+    "unit": {
+      "text": "healthcare workers",
+      "start": 97,
+      "end": 115
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "died of COVID-19",
+      "start": 456,
+      "end": 472
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 424,
+      "end": 428
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 429,
+      "end": 436
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "died of COVID-19",
+      "start": 591,
+      "end": 607
+    },
+    "quantity": {
+      "text": "one",
+      "start": 441,
+      "end": 444
+    },
+    "unit": {
+      "text": "pharmacist",
+      "start": 445,
+      "end": 455
+    }
+  }
+]

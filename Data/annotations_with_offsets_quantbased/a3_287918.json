@@ -1,0 +1,254 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "408",
+      "start": 91,
+      "end": 94
+    },
+    "eventDescription": {
+      "text": "COVID-19 associated deaths",
+      "start": 59,
+      "end": 85
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 79,
+      "end": 85
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1.93 %",
+      "start": 125,
+      "end": 131
+    },
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": 103,
+      "end": 121
+    },
+    "unit": {
+      "text": "case fatality rate",
+      "start": 103,
+      "end": 121
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "37.4",
+      "start": 168,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "mean age of COVID-19 cases",
+      "start": 137,
+      "end": 163
+    },
+    "unit": {
+      "text": "years",
+      "start": 173,
+      "end": 178
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "53",
+      "start": 185,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "cases under the age of five",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 188,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "five",
+      "start": 226,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "age threshold for cases under five",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 173,
+      "end": 178
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,172",
+      "start": 235,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "cases over the age of 60",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 249,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10.3%",
+      "start": 242,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "percentage of cases over the age of 60",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 249,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 286,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "age threshold for cases over 60",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 173,
+      "end": 178
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "94,000",
+      "start": 368,
+      "end": 374
+    },
+    "eventDescription": {
+      "text": "samples tested via RT-PCR",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "samples",
+      "start": 375,
+      "end": 382
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "24.0%",
+      "start": 448,
+      "end": 453
+    },
+    "eventDescription": {
+      "text": "test positivity rate",
+      "start": 424,
+      "end": 444
+    },
+    "unit": {
+      "text": "test positivity rate",
+      "start": 424,
+      "end": 444
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,554",
+      "start": 655,
+      "end": 660
+    },
+    "eventDescription": {
+      "text": "health care workers and staff contracted COVID-19",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health care workers (HCWs) and health facilities staff",
+      "start": 487,
+      "end": 541
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7.4 percent",
+      "start": 662,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "percentage of health care workers and staff contracted COVID-19",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health care workers (HCWs) and health facilities staff",
+      "start": 487,
+      "end": 541
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,136",
+      "start": 687,
+      "end": 692
+    },
+    "eventDescription": {
+      "text": "other staff working in healthcare facilities or community health workers contracted COVID-19",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "other staff",
+      "start": 712,
+      "end": 723
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5.4 percent",
+      "start": 694,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "percentage of other staff contracted COVID-19",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "other staff",
+      "start": 712,
+      "end": 723
+    }
+  }
+]

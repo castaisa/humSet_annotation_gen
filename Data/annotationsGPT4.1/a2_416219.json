@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "1.2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "372 000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "300 000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "internally displaced"
+  }
+]

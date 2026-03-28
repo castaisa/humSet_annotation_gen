@@ -1,0 +1,58 @@
+[
+  {
+    "quantity": "473",
+    "unit": "companies",
+    "eventType": "EventO",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "over 80%",
+    "unit": "companies",
+    "eventType": "EventO",
+    "eventDescription": "operating at reduced capacity",
+    "modifier": "over"
+  },
+  {
+    "quantity": "0",
+    "unit": "percent of capacity",
+    "eventType": "EventO",
+    "eventDescription": "operating at reduced capacity"
+  },
+  {
+    "quantity": "30%",
+    "unit": "capacity",
+    "eventType": "EventO",
+    "eventDescription": "operating at reduced capacity"
+  },
+  {
+    "quantity": "84%",
+    "unit": "companies",
+    "eventType": "EventO",
+    "eventDescription": "reported reduction in sales"
+  },
+  {
+    "quantity": "35%",
+    "unit": "companies",
+    "eventType": "EventO",
+    "eventDescription": "reduced labor force"
+  },
+  {
+    "quantity": "129",
+    "unit": "companies",
+    "eventType": "EventO",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "37%",
+    "unit": "companies",
+    "eventType": "EventO",
+    "eventDescription": "planning lay-offs"
+  },
+  {
+    "quantity": "almost 112,000",
+    "unit": "affiliates",
+    "eventType": "EventP",
+    "eventDescription": "reduction in affiliates",
+    "modifier": "about"
+  }
+]

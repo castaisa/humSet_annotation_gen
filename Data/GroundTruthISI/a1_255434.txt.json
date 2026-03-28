@@ -1,0 +1,174 @@
+[
+  {
+    "quantity": {
+      "text": "940,000",
+      "begin": 53,
+      "end": 60
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 43,
+      "end": 52
+    },
+    "unit": {
+      "text": "people",
+      "begin": 61,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 132,
+      "end": 141
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "194,000",
+      "begin": 78,
+      "end": 85
+    },
+    "unit": {
+      "text": "women",
+      "begin": 90,
+      "end": 95
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 132,
+      "end": 141
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "566,000",
+      "begin": 100,
+      "end": 107
+    },
+    "unit": {
+      "text": "children",
+      "begin": 112,
+      "end": 120
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 132,
+      "end": 141
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2.7 million",
+      "begin": 181,
+      "end": 192
+    },
+    "unit": {
+      "text": "people",
+      "begin": 193,
+      "end": 199
+    },
+    "eventDescription": {
+      "text": "already displaced",
+      "begin": 209,
+      "end": 226
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "four million",
+      "begin": 235,
+      "end": 247
+    },
+    "unit": {
+      "text": "people",
+      "begin": 248,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "require urgent humanitarian assistance",
+      "begin": 292,
+      "end": 330
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2.8 million",
+      "begin": 280,
+      "end": 291
+    },
+    "unit": {
+      "text": "people",
+      "begin": 248,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "require urgent humanitarian assistance",
+      "begin": 292,
+      "end": 330
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 643,
+      "end": 646
+    },
+    "unit": {
+      "text": "week",
+      "begin": 647,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 715,
+      "end": 721
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 685,
+      "end": 689
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 676,
+      "end": 684
+    },
+    "unit": {
+      "text": "children",
+      "begin": 690,
+      "end": 698
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 715,
+      "end": 721
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 816,
+      "end": 819
+    },
+    "unit": {
+      "text": "aid workers",
+      "begin": 820,
+      "end": 831
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 860,
+      "end": 866
+    },
+    "eventType": "EventP"
+  }
+]

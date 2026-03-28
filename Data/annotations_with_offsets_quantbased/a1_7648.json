@@ -1,0 +1,187 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "99%",
+      "start": 35,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "intend to return to their place of origin",
+      "start": 62,
+      "end": 103
+    },
+    "unit": {
+      "text": "households",
+      "start": 51,
+      "end": 61
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 500",
+      "start": 42,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "intend to return to their place of origin",
+      "start": 62,
+      "end": 103
+    },
+    "unit": {
+      "text": "households",
+      "start": 51,
+      "end": 61
+    },
+    "modifier": {
+      "text": "over",
+      "start": 42,
+      "end": 46
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1%",
+      "start": 111,
+      "end": 113
+    },
+    "eventDescription": {
+      "text": "remain undecided",
+      "start": 114,
+      "end": 130
+    },
+    "unit": {
+      "text": "households",
+      "start": 136,
+      "end": 146
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "52%",
+      "start": 211,
+      "end": 214
+    },
+    "eventDescription": {
+      "text": "dwellings were destroyed",
+      "start": 249,
+      "end": 273
+    },
+    "unit": {
+      "text": "households",
+      "start": 218,
+      "end": 228
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1%",
+      "start": 284,
+      "end": 286
+    },
+    "eventDescription": {
+      "text": "homes remain intact",
+      "start": 303,
+      "end": 322
+    },
+    "unit": {
+      "text": "households",
+      "start": 331,
+      "end": 341
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11%",
+      "start": 324,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "homes were partially damaged",
+      "start": 354,
+      "end": 382
+    },
+    "unit": {
+      "text": "households",
+      "start": 331,
+      "end": 341
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3%",
+      "start": 398,
+      "end": 400
+    },
+    "eventDescription": {
+      "text": "household dwellings are currently occupied",
+      "start": 416,
+      "end": 458
+    },
+    "unit": {
+      "text": "households",
+      "start": 331,
+      "end": 341
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33%",
+      "start": 536,
+      "end": 539
+    },
+    "eventDescription": {
+      "text": "without information on the status of their dwellings",
+      "start": 471,
+      "end": 523
+    },
+    "unit": {
+      "text": "households",
+      "start": 460,
+      "end": 470
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33%",
+      "start": 625,
+      "end": 628
+    },
+    "eventDescription": {
+      "text": "possess no documentation for their respective properties",
+      "start": 641,
+      "end": 697
+    },
+    "unit": {
+      "text": "families",
+      "start": 632,
+      "end": 640
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "67%",
+      "start": 703,
+      "end": 706
+    },
+    "eventDescription": {
+      "text": "possessing documentation confirming ownership",
+      "start": 707,
+      "end": 752
+    },
+    "unit": {
+      "text": "families",
+      "start": 632,
+      "end": 640
+    }
+  }
+]

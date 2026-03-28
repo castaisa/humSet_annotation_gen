@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "at least 201,168",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "newly displaced",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "172,541",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "IDPs prior to Round 24"
+  },
+  {
+    "quantity": "373,709",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "IDPs in Round 29"
+  },
+  {
+    "quantity": "149,315",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "displaced from Tripoli and surrounding areas"
+  },
+  {
+    "quantity": "29,666",
+    "unit": "new IDPs",
+    "eventType": "EventP",
+    "eventDescription": "displaced from Murzuq in Southern Libya"
+  },
+  {
+    "quantity": "4,650",
+    "unit": "new IDPs",
+    "eventType": "EventP",
+    "eventDescription": "displaced from Abu Gurayn & Sirt in Western Libya"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "86",
+      "start": 11,
+      "end": 13
+    },
+    "eventDescription": {
+      "text": "oriented on COVID-19 risk communication",
+      "start": 111,
+      "end": 150
+    },
+    "unit": {
+      "text": "Community mobilizers",
+      "start": 14,
+      "end": 34
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "208",
+      "start": 39,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "oriented on COVID-19 risk communication",
+      "start": 111,
+      "end": 150
+    },
+    "unit": {
+      "text": "community influencers",
+      "start": 43,
+      "end": 64
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "40",
+      "start": 189,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "partnership programme with radio stations",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "radio stations",
+      "start": 192,
+      "end": 206
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6,326",
+      "start": 219,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "broadcasted on COVID-19",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "radio jingles",
+      "start": 225,
+      "end": 238
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10",
+      "start": 271,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "radio jingles broadcasted in languages",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "languages",
+      "start": 288,
+      "end": 297
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "169",
+      "start": 317,
+      "end": 320
+    },
+    "eventDescription": {
+      "text": "held focusing on COVID-19 and its impact",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "talk shows",
+      "start": 321,
+      "end": 331
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "10",
+      "start": 551,
+      "end": 553
+    },
+    "eventDescription": {
+      "text": "distribution to partners ongoing in states",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "states",
+      "start": 554,
+      "end": 560
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5",
+      "start": 588,
+      "end": 589
+    },
+    "eventDescription": {
+      "text": "materials printed in languages",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "languages",
+      "start": 590,
+      "end": 599
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,700",
+      "start": 641,
+      "end": 646
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": 688,
+      "end": 699
+    },
+    "unit": {
+      "text": "posters",
+      "start": 647,
+      "end": 654
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "350",
+      "start": 656,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": 688,
+      "end": 699
+    },
+    "unit": {
+      "text": "banners",
+      "start": 660,
+      "end": 667
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "35,000",
+      "start": 669,
+      "end": 675
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": 688,
+      "end": 699
+    },
+    "unit": {
+      "text": "fliers",
+      "start": 676,
+      "end": 682
+    }
+  }
+]

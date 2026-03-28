@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "must be delivered to the feed corporation",
+      "start": 178,
+      "end": 219
+    },
+    "quantity": {
+      "text": "50 percent",
+      "start": 143,
+      "end": 153
+    },
+    "unit": {
+      "text": "of the traders’ imports",
+      "start": 154,
+      "end": 177
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "feed price for corn",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.2 million",
+      "start": 273,
+      "end": 284
+    },
+    "unit": {
+      "text": "SYP/MT for corn",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "feed price for soybeans",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2.3 million",
+      "start": 305,
+      "end": 316
+    },
+    "unit": {
+      "text": "SYP/MT for soybeans",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "constitute the feed mix",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "80 percent",
+      "start": 368,
+      "end": 378
+    },
+    "unit": {
+      "text": "of the feed mix",
+      "start": 379,
+      "end": 394
+    }
+  }
+]

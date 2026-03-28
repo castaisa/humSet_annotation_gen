@@ -1,0 +1,76 @@
+[
+  {
+    "quantity": "20.5",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "national average reduced Coping Strategy Index"
+  },
+  {
+    "quantity": "19.1",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "national average reduced Coping Strategy Index"
+  },
+  {
+    "quantity": "nine out of ten",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "interviewed households reported applying food-based coping mechanism"
+  },
+  {
+    "quantity": "89 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "interviewed households reported applying food-based coping mechanism"
+  },
+  {
+    "quantity": "at least one",
+    "unit": "food-based coping mechanism",
+    "eventType": "EventO",
+    "eventDescription": "coping mechanisms applied",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "nine percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase since May 2020"
+  },
+  {
+    "quantity": "93 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "female-headed households reported applying food-based coping mechanism"
+  },
+  {
+    "quantity": "more than seven out of ten",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "interviewed households indicated they bought food on credit",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "73 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "interviewed households indicated they bought food on credit"
+  },
+  {
+    "quantity": "three percentage points",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase from a month earlier"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase year-on-year"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "female-headed households indicated they bought food on credit"
+  }
+]

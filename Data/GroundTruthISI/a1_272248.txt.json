@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "40 percent",
+      "begin": 67,
+      "end": 77
+    },
+    "unit": {
+      "text": "Unemployment",
+      "begin": 29,
+      "end": 41
+    },
+    "eventDescription": {
+      "text": "could soar to as high",
+      "begin": 42,
+      "end": 63
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "33.5 percent",
+      "begin": 204,
+      "end": 216
+    },
+    "unit": {
+      "text": "unemployment",
+      "begin": 166,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "was projected to rise",
+      "begin": 179,
+      "end": 200
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23 percent",
+      "begin": 231,
+      "end": 241
+    },
+    "unit": {
+      "text": "unemployment",
+      "begin": 166,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "was projected to rise",
+      "begin": 179,
+      "end": 200
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one third",
+      "begin": 276,
+      "end": 285
+    },
+    "modifier": {
+      "text": "estimates",
+      "begin": 261,
+      "end": 270
+    },
+    "unit": {
+      "text": "jobs",
+      "begin": 289,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "are at risk",
+      "begin": 333,
+      "end": 344
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 585,
+      "end": 586
+    },
+    "unit": {
+      "text": "workers",
+      "begin": 593,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "reporting a loss of labor income",
+      "begin": 625,
+      "end": 657
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4 in 10",
+      "begin": 585,
+      "end": 592
+    },
+    "unit": {
+      "text": "workers",
+      "begin": 593,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "reporting a loss of labor income",
+      "begin": 625,
+      "end": 657
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 590,
+      "end": 592
+    },
+    "unit": {
+      "text": "workers",
+      "begin": 593,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "reporting a loss of labor income",
+      "begin": 625,
+      "end": 657
+    },
+    "eventType": "EventO"
+  }
+]

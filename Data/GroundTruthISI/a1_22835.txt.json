@@ -1,0 +1,107 @@
+[
+  {
+    "quantity": {
+      "text": "2.4 million",
+      "begin": 343,
+      "end": 354
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 320,
+      "end": 329
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "estimated",
+      "begin": 333,
+      "end": 342
+    },
+    "unit": {
+      "text": "people",
+      "begin": 355,
+      "end": 361
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 554,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "restricted affected populations from accessing basic services",
+      "begin": 485,
+      "end": 546
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "countries",
+      "begin": 559,
+      "end": 568
+    }
+  },
+  {
+    "quantity": {
+      "text": "11 million",
+      "begin": 601,
+      "end": 611
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 594,
+      "end": 600
+    },
+    "unit": {
+      "text": "people",
+      "begin": 612,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "require humanitarian assistance",
+      "begin": 633,
+      "end": 664
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "7.7 million",
+      "begin": 690,
+      "end": 701
+    },
+    "eventDescription": {
+      "text": "require humanitarian assistance",
+      "begin": 633,
+      "end": 664
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "approximately",
+      "begin": 676,
+      "end": 689
+    },
+    "unit": {
+      "text": "people",
+      "begin": 702,
+      "end": 708
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 735,
+      "end": 740
+    },
+    "eventDescription": {
+      "text": "require humanitarian assistance",
+      "begin": 633,
+      "end": 664
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "most-affected states",
+      "begin": 741,
+      "end": 761
+    }
+  }
+]

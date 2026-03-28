@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "27 per cent",
+      "begin": 35,
+      "end": 46
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "had some or all of their enrolled children drop out of school",
+      "begin": 61,
+      "end": 122
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36 per cent",
+      "begin": 208,
+      "end": 219
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "main reasons are associated",
+      "begin": 150,
+      "end": 177
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "33 per cent",
+      "begin": 231,
+      "end": 242
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "main reasons are associated",
+      "begin": 150,
+      "end": 177
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17 per cent",
+      "begin": 279,
+      "end": 290
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "main reasons are associated",
+      "begin": 150,
+      "end": 177
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4 per cent",
+      "begin": 299,
+      "end": 309
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "main reasons are associated",
+      "begin": 150,
+      "end": 177
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6 per cent",
+      "begin": 336,
+      "end": 346
+    },
+    "unit": {
+      "text": "households",
+      "begin": 50,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "main reasons are associated",
+      "begin": 150,
+      "end": 177
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 466,
+      "end": 477
+    },
+    "eventDescription": {
+      "text": "main barrier to accessing education is the cost of school fees, as reported",
+      "begin": 387,
+      "end": 462
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "non-displaced families",
+      "begin": 481,
+      "end": 503
+    }
+  },
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 508,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "main barrier to accessing education is the cost of school fees, as reported",
+      "begin": 387,
+      "end": 462
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "displaced families",
+      "begin": 523,
+      "end": 541
+    }
+  }
+]

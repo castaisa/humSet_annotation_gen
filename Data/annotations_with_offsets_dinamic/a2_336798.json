@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "refugees surviving off of aid",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 41,
+      "end": 45
+    },
+    "unit": {
+      "text": "years",
+      "start": 46,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deserve more",
+      "start": 296,
+      "end": 308
+    },
+    "quantity": {
+      "text": "884,041",
+      "start": 261,
+      "end": 268
+    },
+    "unit": {
+      "text": "women, men, girls and boys",
+      "start": 269,
+      "end": 295
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "quickly becoming ‘a lost generation.’",
+      "start": 354,
+      "end": 391
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 314,
+      "end": 323
+    },
+    "quantity": {
+      "text": "more than 440,000",
+      "start": 314,
+      "end": 331
+    },
+    "unit": {
+      "text": "Rohingya children",
+      "start": 332,
+      "end": 349
+    }
+  }
+]

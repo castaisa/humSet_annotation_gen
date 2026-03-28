@@ -1,0 +1,54 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 139,
+      "end": 142
+    },
+    "unit": {
+      "text": "years",
+      "begin": 143,
+      "end": 148
+    }
+  },
+  {
+    "quantity": {
+      "text": "23,000",
+      "begin": 355,
+      "end": 361
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 345,
+      "end": 354
+    },
+    "unit": {
+      "text": "people",
+      "begin": 362,
+      "end": 368
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,000",
+      "begin": 529,
+      "end": 534
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 524,
+      "end": 528
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 535,
+      "end": 542
+    },
+    "eventDescription": {
+      "text": "remain in the Reception\nCenters",
+      "begin": 543,
+      "end": 574
+    },
+    "eventType": "EventO"
+  }
+]

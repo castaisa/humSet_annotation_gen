@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "97.97 per cent",
+      "begin": 524,
+      "end": 538
+    },
+    "eventDescription": {
+      "text": "achieved",
+      "begin": 471,
+      "end": 479
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "net enrolment rate for primary education",
+      "begin": 482,
+      "end": 522
+    }
+  },
+  {
+    "quantity": {
+      "text": "97.2 per cent",
+      "begin": 557,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "achieved",
+      "begin": 471,
+      "end": 479
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "net enrolment rate for primary education",
+      "begin": 482,
+      "end": 522
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.075",
+      "begin": 668,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "achieved",
+      "begin": 622,
+      "end": 630
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Gender Parity Index",
+      "begin": 635,
+      "end": 654
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.06",
+      "begin": 690,
+      "end": 694
+    },
+    "eventDescription": {
+      "text": "achieved",
+      "begin": 622,
+      "end": 630
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "Gender Parity Index",
+      "begin": 635,
+      "end": 654
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.19",
+      "begin": 868,
+      "end": 872
+    },
+    "eventDescription": {
+      "text": "achieved",
+      "begin": 859,
+      "end": 867
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "GPI value",
+      "begin": 873,
+      "end": 882
+    }
+  },
+  {
+    "quantity": {
+      "text": "0.95",
+      "begin": 904,
+      "end": 908
+    },
+    "eventDescription": {
+      "text": "achieved",
+      "begin": 859,
+      "end": 867
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "GPI value",
+      "begin": 873,
+      "end": 882
+    }
+  }
+]

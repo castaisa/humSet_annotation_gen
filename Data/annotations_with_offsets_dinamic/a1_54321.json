@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "submitted in Metropolitan Region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "75%",
+      "start": 246,
+      "end": 249
+    },
+    "unit": {
+      "text": "applications",
+      "start": 131,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "submitted in Valparaiso Region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.4%",
+      "start": 283,
+      "end": 287
+    },
+    "unit": {
+      "text": "applications",
+      "start": 193,
+      "end": 205
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "submitted in Maule Region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.7%",
+      "start": 308,
+      "end": 312
+    },
+    "unit": {
+      "text": "applications",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are between 15-44 years old",
+      "start": 381,
+      "end": 408
+    },
+    "quantity": {
+      "text": "almost 80%",
+      "start": 370,
+      "end": 380
+    },
+    "unit": {
+      "text": "temporary visa applicants",
+      "start": 334,
+      "end": 359
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "issued",
+      "start": 531,
+      "end": 537
+    },
+    "modifier": {
+      "text": "about",
+      "start": 494,
+      "end": 499
+    },
+    "quantity": {
+      "text": "about 125,000",
+      "start": 494,
+      "end": 507
+    },
+    "unit": {
+      "text": "residence permits",
+      "start": 508,
+      "end": 525
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase from 2015 to 2016",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "273%",
+      "start": 583,
+      "end": 587
+    },
+    "unit": {
+      "text": "temporary visas",
+      "start": 564,
+      "end": 579
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase from 2016 to 2017",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "316%",
+      "start": 614,
+      "end": 618
+    },
+    "unit": {
+      "text": "temporary visas",
+      "start": null,
+      "end": null
+    }
+  }
+]

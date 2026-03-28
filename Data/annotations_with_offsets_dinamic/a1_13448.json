@@ -1,0 +1,69 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported working with more stable arrangements",
+      "start": 443,
+      "end": 489
+    },
+    "quantity": {
+      "text": "two thirds",
+      "start": 386,
+      "end": 396
+    },
+    "unit": {
+      "text": "refugees and migrants from Asian countries",
+      "start": 400,
+      "end": 442
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported working with more stable arrangements",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine out of 18",
+      "start": 508,
+      "end": 522
+    },
+    "unit": {
+      "text": "West African respondents",
+      "start": 523,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had been living in Libya",
+      "start": 704,
+      "end": 728
+    },
+    "quantity": {
+      "text": "one year",
+      "start": 733,
+      "end": 741
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported not having found a more stable work arrangement",
+      "start": 780,
+      "end": 836
+    },
+    "quantity": {
+      "text": "almost half (34 out of 89)",
+      "start": 753,
+      "end": 779
+    },
+    "unit": {
+      "text": "refugee and migrant respondents",
+      "start": 668,
+      "end": 699
+    }
+  }
+]

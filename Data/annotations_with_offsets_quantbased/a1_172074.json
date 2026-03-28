@@ -1,0 +1,318 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "273",
+      "start": 67,
+      "end": 70
+    },
+    "eventDescription": {
+      "text": "tested positive to COVID-19",
+      "start": 94,
+      "end": 121
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "start": 71,
+      "end": 88
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2.6%",
+      "start": 165,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "cumulative share",
+      "start": 127,
+      "end": 143
+    },
+    "unit": {
+      "text": "positive tests",
+      "start": 147,
+      "end": 161
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0-9",
+      "start": 188,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "samples with lowest test positivity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years age group",
+      "start": 192,
+      "end": 207
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Eight",
+      "start": 294,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "reported",
+      "start": 317,
+      "end": 325
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 300,
+      "end": 306
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2.9%",
+      "start": 362,
+      "end": 366
+    },
+    "eventDescription": {
+      "text": "case fatality risk",
+      "start": 340,
+      "end": 358
+    },
+    "unit": {
+      "text": "case fatality risk",
+      "start": 340,
+      "end": 358
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "143",
+      "start": 409,
+      "end": 412
+    },
+    "eventDescription": {
+      "text": "tested positive",
+      "start": 393,
+      "end": 408
+    },
+    "unit": {
+      "text": "Rohingya women",
+      "start": 373,
+      "end": 387
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "52%",
+      "start": 414,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "proportion of women among positive cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Rohingya women tested positive",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21",
+      "start": 428,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "are 60 years or older",
+      "start": 436,
+      "end": 457
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "start": 71,
+      "end": 88
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8%",
+      "start": 432,
+      "end": 434
+    },
+    "eventDescription": {
+      "text": "are 60 years or older",
+      "start": 436,
+      "end": 457
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "start": 71,
+      "end": 88
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23",
+      "start": 487,
+      "end": 489
+    },
+    "eventDescription": {
+      "text": "average age of cases",
+      "start": 463,
+      "end": 483
+    },
+    "unit": {
+      "text": "years",
+      "start": 443,
+      "end": 448
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "119",
+      "start": 666,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "successfully treated",
+      "start": 684,
+      "end": 704
+    },
+    "unit": {
+      "text": "patients",
+      "start": 670,
+      "end": 678
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "44%",
+      "start": 729,
+      "end": 732
+    },
+    "eventDescription": {
+      "text": "recovery rate",
+      "start": 712,
+      "end": 725
+    },
+    "unit": {
+      "text": "recovery rate",
+      "start": 712,
+      "end": 725
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "226",
+      "start": 765,
+      "end": 768
+    },
+    "eventDescription": {
+      "text": "admitted",
+      "start": 744,
+      "end": 752
+    },
+    "unit": {
+      "text": "admitted patients",
+      "start": 744,
+      "end": 761
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "44",
+      "start": 771,
+      "end": 773
+    },
+    "eventDescription": {
+      "text": "experienced moderate/severe symptoms",
+      "start": 780,
+      "end": 816
+    },
+    "unit": {
+      "text": "admitted patients",
+      "start": 744,
+      "end": 761
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22%",
+      "start": 775,
+      "end": 778
+    },
+    "eventDescription": {
+      "text": "experienced moderate/severe symptoms",
+      "start": 780,
+      "end": 816
+    },
+    "unit": {
+      "text": "admitted patients",
+      "start": 744,
+      "end": 761
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16",
+      "start": 821,
+      "end": 823
+    },
+    "eventDescription": {
+      "text": "had at least one comorbidity",
+      "start": 829,
+      "end": 857
+    },
+    "unit": {
+      "text": "admitted patients",
+      "start": 744,
+      "end": 761
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 833,
+      "end": 841
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7%",
+      "start": 825,
+      "end": 827
+    },
+    "eventDescription": {
+      "text": "had at least one comorbidity",
+      "start": 829,
+      "end": 857
+    },
+    "unit": {
+      "text": "admitted patients",
+      "start": 744,
+      "end": 761
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 833,
+      "end": 841
+    }
+  }
+]

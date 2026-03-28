@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arrived",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50,339",
+      "start": 112,
+      "end": 118
+    },
+    "unit": {
+      "text": "new arrivals",
+      "start": 119,
+      "end": 131
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided NFIs (including hygiene kits)",
+      "start": 168,
+      "end": 206
+    },
+    "quantity": {
+      "text": "16,634",
+      "start": 210,
+      "end": 216
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 217,
+      "end": 228
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided temporary shelter",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "244",
+      "start": 254,
+      "end": 257
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 258,
+      "end": 269
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returned to Somalia",
+      "start": 343,
+      "end": 362
+    },
+    "quantity": {
+      "text": "1,205",
+      "start": 328,
+      "end": 333
+    },
+    "unit": {
+      "text": "refugees",
+      "start": 334,
+      "end": 342
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "assisted to return to their country of origin",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "430",
+      "start": 410,
+      "end": 413
+    },
+    "unit": {
+      "text": "migrants",
+      "start": 414,
+      "end": 422
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "submitted for resettlement to Sweden",
+      "start": 565,
+      "end": 601
+    },
+    "quantity": {
+      "text": "22",
+      "start": 531,
+      "end": 533
+    },
+    "unit": {
+      "text": "families",
+      "start": 534,
+      "end": 542
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "submitted for resettlement to Sweden",
+      "start": 722,
+      "end": 758
+    },
+    "quantity": {
+      "text": "81",
+      "start": 544,
+      "end": 546
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 547,
+      "end": 558
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "submitted for resettlement to Sweden",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "68",
+      "start": 704,
+      "end": 706
+    },
+    "unit": {
+      "text": "Eritreans",
+      "start": 707,
+      "end": 716
+    }
+  }
+]

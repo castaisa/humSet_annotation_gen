@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "30",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "period prior to the assessment"
+  },
+  {
+    "quantity": "75.1%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "reporting spending their savings as a coping mechanism"
+  },
+  {
+    "quantity": "12.2%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "having already exhausted this strategy"
+  },
+  {
+    "quantity": "57.5%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "having used this strategy"
+  },
+  {
+    "quantity": "4.8%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "having already exhausted it"
+  },
+  {
+    "quantity": "23.6%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "have spent savings"
+  },
+  {
+    "quantity": "13.9%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "had already exhausted them"
+  },
+  {
+    "quantity": "54.7%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "reported selling gold as a coping strategy"
+  },
+  {
+    "quantity": "53.8%",
+    "unit": "nondisplaced households",
+    "eventType": "EventP",
+    "eventDescription": "reported selling gold as a coping strategy"
+  },
+  {
+    "quantity": "41.6%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "reported selling gold as a coping strategy"
+  },
+  {
+    "quantity": "30",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "period prior to the assessment"
+  }
+]

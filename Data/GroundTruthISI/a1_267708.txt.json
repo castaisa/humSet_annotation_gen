@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 72,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "successful completion",
+      "begin": 37,
+      "end": 58
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks of the nationwide Covid-19 program",
+      "begin": 76,
+      "end": 116
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 549,
+      "end": 552
+    },
+    "eventDescription": {
+      "text": "Bangladesh initiated the EPI",
+      "begin": 515,
+      "end": 543
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "conventional vaccines",
+      "begin": 553,
+      "end": 574
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 153,
+      "end": 156
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "buy food on credit",
+      "begin": 196,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "69 percent",
+      "begin": 181,
+      "end": 191
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "buy food on credit",
+      "begin": 196,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "seven out of ten",
+      "begin": 140,
+      "end": 156
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "buy food on credit",
+      "begin": 196,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 140,
+      "end": 145
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "buy food on credit",
+      "begin": 196,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "five percent",
+      "begin": 244,
+      "end": 256
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 232,
+      "end": 240
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "76 percent",
+      "begin": 332,
+      "end": 342
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "buy food on credit",
+      "begin": 196,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "78 percent",
+      "begin": 678,
+      "end": 688
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "trend was more pronounced",
+      "begin": 642,
+      "end": 667
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "eight percent",
+      "begin": 699,
+      "end": 712
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "increase compared to a month earlier",
+      "begin": 713,
+      "end": 749
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "77 percent",
+      "begin": 845,
+      "end": 855
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 157,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "trend was more pronounced",
+      "begin": 642,
+      "end": 667
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "72 percent",
+      "begin": 412,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "reported adoption of this strategy",
+      "begin": 349,
+      "end": 383
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "IDPs",
+      "begin": 406,
+      "end": 410
+    }
+  },
+  {
+    "quantity": {
+      "text": "71 percent",
+      "begin": 439,
+      "end": 449
+    },
+    "eventDescription": {
+      "text": "reported adoption of this strategy",
+      "begin": 349,
+      "end": 383
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnees",
+      "begin": 428,
+      "end": 437
+    }
+  },
+  {
+    "quantity": {
+      "text": "67 percent",
+      "begin": 502,
+      "end": 512
+    },
+    "eventDescription": {
+      "text": "remained very high",
+      "begin": 461,
+      "end": 479
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "residents",
+      "begin": 491,
+      "end": 500
+    }
+  },
+  {
+    "quantity": {
+      "text": "11 percent",
+      "begin": 1006,
+      "end": 1016
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 1020,
+      "end": 1039
+    },
+    "eventDescription": {
+      "text": "reported taking children of the mandatory education age out of school",
+      "begin": 1051,
+      "end": 1120
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "232",
+      "start": 116,
+      "end": 119
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 120,
+      "end": 129
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50",
+      "start": 141,
+      "end": 143
+    },
+    "unit": {
+      "text": "women",
+      "start": 144,
+      "end": 149
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35",
+      "start": 154,
+      "end": 156
+    },
+    "unit": {
+      "text": "children",
+      "start": 157,
+      "end": 165
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "hanged",
+      "start": 193,
+      "end": 199
+    },
+    "quantity": {
+      "text": "25",
+      "start": 179,
+      "end": 181
+    },
+    "unit": {
+      "text": "women",
+      "start": 182,
+      "end": 187
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "burned alive",
+      "start": 222,
+      "end": 234
+    },
+    "quantity": {
+      "text": "32",
+      "start": 204,
+      "end": 206
+    },
+    "unit": {
+      "text": "civilians",
+      "start": 207,
+      "end": 216
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "raped and gang raped",
+      "start": 354,
+      "end": 374
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 242,
+      "end": 250
+    },
+    "quantity": {
+      "text": "at least 120",
+      "start": 242,
+      "end": 254
+    },
+    "unit": {
+      "text": "women and girls",
+      "start": 255,
+      "end": 270
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age of girls raped",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 333,
+      "end": 337
+    },
+    "unit": {
+      "text": "years old",
+      "start": 338,
+      "end": 347
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "abduction incidents",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 389,
+      "end": 397
+    },
+    "quantity": {
+      "text": "at least 15",
+      "start": 389,
+      "end": 400
+    },
+    "unit": {
+      "text": "incidents of abduction",
+      "start": 401,
+      "end": 423
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "subjected to sexual slavery",
+      "start": 454,
+      "end": 481
+    },
+    "quantity": {
+      "text": "132",
+      "start": 434,
+      "end": 437
+    },
+    "unit": {
+      "text": "women and girls",
+      "start": 438,
+      "end": 453
+    }
+  }
+]

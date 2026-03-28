@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "80 per cent",
+      "start": 155,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "imported",
+      "start": 185,
+      "end": 193
+    },
+    "unit": {
+      "text": "food items",
+      "start": 170,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16.9 per cent",
+      "start": 346,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "increased",
+      "start": 333,
+      "end": 342
+    },
+    "unit": {
+      "text": "food prices",
+      "start": 316,
+      "end": 327
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "9.93 per cent",
+      "start": 420,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "averaged",
+      "start": 411,
+      "end": 419
+    },
+    "unit": {
+      "text": "food inflation",
+      "start": 394,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "38.9 per cent",
+      "start": 485,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "all-time high",
+      "start": 468,
+      "end": 481
+    },
+    "unit": {
+      "text": "food inflation",
+      "start": 394,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "-12.12 per cent",
+      "start": 545,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "record low",
+      "start": 531,
+      "end": 541
+    },
+    "unit": {
+      "text": "food inflation",
+      "start": 623,
+      "end": 637
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33.4 per cent",
+      "start": 646,
+      "end": 659
+    },
+    "eventDescription": {
+      "text": "reached",
+      "start": 638,
+      "end": 645
+    },
+    "unit": {
+      "text": "food inflation",
+      "start": 623,
+      "end": 637
+    }
+  }
+]

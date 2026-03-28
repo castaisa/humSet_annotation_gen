@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "provided",
+      "start": 41,
+      "end": 49
+    },
+    "quantity": {
+      "text": "13,273",
+      "start": 50,
+      "end": 56
+    },
+    "unit": {
+      "text": "outpatient curative consultations",
+      "start": 57,
+      "end": 90
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Acute Respiratory Infection (ARI) cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,807",
+      "start": 237,
+      "end": 242
+    },
+    "unit": {
+      "text": "cases",
+      "start": 243,
+      "end": 248
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "malaria cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "99",
+      "start": 334,
+      "end": 336
+    },
+    "unit": {
+      "text": "cases",
+      "start": 348,
+      "end": 353
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "peptic ulcer treated",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "969",
+      "start": 574,
+      "end": 577
+    },
+    "unit": {
+      "text": "persons",
+      "start": 578,
+      "end": 585
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "hypertension cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "519",
+      "start": 706,
+      "end": 709
+    },
+    "unit": {
+      "text": "cases",
+      "start": 710,
+      "end": 715
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deliveries by skilled birth attendants",
+      "start": 737,
+      "end": 775
+    },
+    "quantity": {
+      "text": "245",
+      "start": 717,
+      "end": 720
+    },
+    "unit": {
+      "text": "health facility deliveries",
+      "start": 721,
+      "end": 747
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "provided family planning services",
+      "start": 800,
+      "end": 833
+    },
+    "quantity": {
+      "text": "120",
+      "start": 837,
+      "end": 840
+    },
+    "unit": {
+      "text": "new clients",
+      "start": 841,
+      "end": 852
+    }
+  }
+]

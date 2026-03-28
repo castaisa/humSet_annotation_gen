@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported funding cuts",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "aid workers",
+      "start": 25,
+      "end": 36
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "stopped supporting",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12",
+      "start": 127,
+      "end": 129
+    },
+    "unit": {
+      "text": "facilities",
+      "start": 140,
+      "end": 150
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "designated to treat Covid-19",
+      "start": 151,
+      "end": 179
+    },
+    "quantity": {
+      "text": "20",
+      "start": 137,
+      "end": 139
+    },
+    "unit": {
+      "text": "facilities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "forced to shut",
+      "start": 381,
+      "end": 395
+    },
+    "quantity": {
+      "text": "two",
+      "start": 360,
+      "end": 363
+    },
+    "unit": {
+      "text": "facilities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "left open",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "six",
+      "start": 427,
+      "end": 430
+    },
+    "unit": {
+      "text": "facilities",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "75.1%",
+    "unit": "of total confirmed cases",
+    "eventType": "EventO",
+    "eventDescription": "proportion of confirmed cases in MMC"
+  },
+  {
+    "quantity": "16.6%",
+    "unit": "of total confirmed cases",
+    "eventType": "EventO",
+    "eventDescription": "proportion of confirmed cases in Jere LGA"
+  },
+  {
+    "quantity": "88",
+    "unit": "contacts",
+    "eventType": "EventP",
+    "eventDescription": "contacts being closely monitored in Borno State"
+  },
+  {
+    "quantity": "595",
+    "unit": "Households",
+    "eventType": "EventP",
+    "eventDescription": "households reached"
+  },
+  {
+    "quantity": "1,939",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "persons reached"
+  },
+  {
+    "quantity": "45",
+    "unit": "contacts",
+    "eventType": "EventP",
+    "eventDescription": "contacts monitored in Yobe State"
+  },
+  {
+    "quantity": "116",
+    "unit": "contacts",
+    "eventType": "EventP",
+    "eventDescription": "contacts being monitored in Adamawa State"
+  },
+  {
+    "quantity": "164",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "samples tested positive"
+  },
+  {
+    "quantity": "1,306",
+    "unit": "samples",
+    "eventType": "EventO",
+    "eventDescription": "samples tested"
+  },
+  {
+    "quantity": "12.6%",
+    "unit": "positivity rate",
+    "eventType": "EventO",
+    "eventDescription": "positivity rate"
+  },
+  {
+    "quantity": "38.4%",
+    "unit": "of confirmed cases",
+    "eventType": "EventO",
+    "eventDescription": "proportion of confirmed cases that are known contacts"
+  },
+  {
+    "quantity": "16.5%",
+    "unit": "of confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "proportion of confirmed cases that are health workers in Adamawa State"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": "one",
+    "unit": "soldier",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "one",
+    "unit": "civilian",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "three",
+    "unit": "Boko Haram militants",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "two",
+    "unit": "suspected cultists",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "nine",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "fifteen",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped"
+  },
+  {
+    "quantity": "sixty-six",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "one",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "two",
+    "unit": "university workers",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped"
+  },
+  {
+    "quantity": "five",
+    "unit": "Biafrans",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "at least two",
+    "unit": "Biafrans",
+    "eventType": "EventP",
+    "eventDescription": "abducted",
+    "modifier": "at least"
+  }
+]

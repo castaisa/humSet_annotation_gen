@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "22.1%",
+    "unit": "households\u2019 members",
+    "eventType": "EventP",
+    "eventDescription": "took treatment for chronic diseases"
+  },
+  {
+    "quantity": "23.8%",
+    "unit": "people from urban areas",
+    "eventType": "EventP",
+    "eventDescription": "got services for chronic diseases"
+  },
+  {
+    "quantity": "20.9%",
+    "unit": "rural level people",
+    "eventType": "EventP",
+    "eventDescription": "got services for chronic diseases"
+  },
+  {
+    "quantity": "69.3%",
+    "unit": "patients with chronic diseases",
+    "eventType": "EventP",
+    "eventDescription": "conducted regular check-ups"
+  },
+  {
+    "quantity": "54.2%",
+    "unit": "patients with chronic diseases",
+    "eventType": "EventP",
+    "eventDescription": "conducted the diagnostic test"
+  },
+  {
+    "quantity": "15.3%",
+    "unit": "patients with chronic diseases",
+    "eventType": "EventP",
+    "eventDescription": "sought emergency treatment"
+  }
+]

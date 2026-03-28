@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": "three",
+    "unit": "airlifts",
+    "eventType": "EventA",
+    "eventDescription": "facilitated airlifts"
+  },
+  {
+    "quantity": "two",
+    "unit": "rotations",
+    "eventType": "EventA",
+    "eventDescription": "airlift rotations"
+  },
+  {
+    "quantity": "37.2 MT",
+    "unit": "MT",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "139 m3",
+    "unit": "m3",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "three",
+    "unit": "rotations",
+    "eventType": "EventA",
+    "eventDescription": "airlift rotations"
+  },
+  {
+    "quantity": "47.5 MT",
+    "unit": "MT",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "247 m3",
+    "unit": "m3",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "13 MT",
+    "unit": "MT",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "69 m3",
+    "unit": "m3",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "65",
+    "unit": "passengers",
+    "eventType": "EventP",
+    "eventDescription": "passengers carried"
+  },
+  {
+    "quantity": "16",
+    "unit": "organisations",
+    "eventType": "EventO",
+    "eventDescription": "organisations involved"
+  },
+  {
+    "quantity": "180 MT",
+    "unit": "MT",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "1,211 m3",
+    "unit": "m3",
+    "eventType": "EventA",
+    "eventDescription": "cargo transported"
+  },
+  {
+    "quantity": "74 MT",
+    "unit": "MT",
+    "eventType": "EventA",
+    "eventDescription": "relief items transported"
+  },
+  {
+    "quantity": "610 m3",
+    "unit": "m3",
+    "eventType": "EventA",
+    "eventDescription": "relief items transported"
+  },
+  {
+    "quantity": "two",
+    "unit": "voyages",
+    "eventType": "EventA",
+    "eventDescription": "voyages made"
+  },
+  {
+    "quantity": "824 MT",
+    "unit": "MT",
+    "eventType": "EventA",
+    "eventDescription": "relief items transported"
+  },
+  {
+    "quantity": "3,851 m3",
+    "unit": "m3",
+    "eventType": "EventA",
+    "eventDescription": "relief items transported"
+  },
+  {
+    "quantity": "81,874,486 litres",
+    "unit": "litres",
+    "eventType": "EventA",
+    "eventDescription": "diesel distributed"
+  },
+  {
+    "quantity": "33,812 litres",
+    "unit": "litres",
+    "eventType": "EventA",
+    "eventDescription": "petrol distributed"
+  },
+  {
+    "quantity": "20",
+    "unit": "organisations",
+    "eventType": "EventO",
+    "eventDescription": "organisations received fuel"
+  }
+]

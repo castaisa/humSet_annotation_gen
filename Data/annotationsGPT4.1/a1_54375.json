@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "3,721",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "received health cards"
+  },
+  {
+    "quantity": "1,866",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "received health cards"
+  },
+  {
+    "quantity": "1,769",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "received health cards"
+  },
+  {
+    "quantity": "86",
+    "unit": "pregnant women",
+    "eventType": "EventP",
+    "eventDescription": "received health cards"
+  },
+  {
+    "quantity": "40,000",
+    "unit": "health cards",
+    "eventType": "EventA",
+    "eventDescription": "donated"
+  },
+  {
+    "quantity": "2,256",
+    "unit": "baby kits",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "1,110",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "received baby kits"
+  },
+  {
+    "quantity": "1,146",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "received baby kits"
+  }
+]

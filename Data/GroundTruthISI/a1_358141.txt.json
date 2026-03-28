@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "25,000",
+      "begin": 267,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "access constraints continue to impact humanitarian programming and response",
+      "begin": 182,
+      "end": 257
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 262,
+      "end": 266
+    },
+    "unit": {
+      "text": "people",
+      "begin": 274,
+      "end": 280
+    }
+  },
+  {
+    "quantity": {
+      "text": "230",
+      "begin": 420,
+      "end": 423
+    },
+    "unit": {
+      "text": "SAM cases",
+      "begin": 424,
+      "end": 433
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 434,
+      "end": 442
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "95",
+      "begin": 474,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 434,
+      "end": 442
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "were discharged after treatment",
+      "begin": 482,
+      "end": 513
+    }
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 518,
+      "end": 520
+    },
+    "unit": {
+      "text": "complicated cases",
+      "begin": 521,
+      "end": 538
+    },
+    "eventDescription": {
+      "text": "transferred to Maiduguri for intensive care",
+      "begin": 539,
+      "end": 582
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "950",
+      "begin": 628,
+      "end": 631
+    },
+    "eventDescription": {
+      "text": "Food Security Sector partners prepositioned",
+      "begin": 584,
+      "end": 627
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "tons of food",
+      "begin": 632,
+      "end": 644
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 653,
+      "end": 656
+    },
+    "eventDescription": {
+      "text": "Food Security Sector partners prepositioned",
+      "begin": 584,
+      "end": 627
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "weeks",
+      "begin": 657,
+      "end": 662
+    }
+  },
+  {
+    "quantity": {
+      "text": "hundreds",
+      "begin": 912,
+      "end": 920
+    },
+    "eventDescription": {
+      "text": "claimed",
+      "begin": 904,
+      "end": 911
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "civilian lives",
+      "begin": 924,
+      "end": 938
+    }
+  }
+]

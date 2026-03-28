@@ -1,0 +1,127 @@
+[
+  {
+    "quantity": {
+      "text": "22.2 million",
+      "begin": 113,
+      "end": 125
+    },
+    "unit": {
+      "text": "people",
+      "begin": 126,
+      "end": 132
+    },
+    "eventDescription": {
+      "text": "requires humanitarian assistance",
+      "begin": 133,
+      "end": 165
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2 million",
+      "begin": 221,
+      "end": 230
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 216,
+      "end": 220
+    },
+    "unit": {
+      "text": "people",
+      "begin": 231,
+      "end": 237
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.25 million",
+      "begin": 244,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "public sector workers without pay for a year",
+      "begin": 257,
+      "end": 301
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16 million",
+      "begin": 423,
+      "end": 433
+    },
+    "unit": {
+      "text": "people",
+      "begin": 434,
+      "end": 440
+    },
+    "eventDescription": {
+      "text": "ack access to safe water",
+      "begin": 442,
+      "end": 466
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1 million",
+      "begin": 486,
+      "end": 495
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 481,
+      "end": 485
+    },
+    "eventDescription": {
+      "text": "suspected cases of acute watery diarrhoea (AWD) and cholera",
+      "begin": 496,
+      "end": 555
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "suspected cases of acute watery diarrhoea (AWD) and cholera",
+      "begin": 496,
+      "end": 555
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,100",
+      "begin": 682,
+      "end": 687
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 672,
+      "end": 681
+    },
+    "unit": {
+      "text": "children",
+      "begin": 688,
+      "end": 696
+    },
+    "eventDescription": {
+      "text": "have been killed or maimed",
+      "begin": 697,
+      "end": 723
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "millions",
+      "begin": 728,
+      "end": 736
+    },
+    "eventDescription": {
+      "text": "threatened by growing food insecurity, poor water and sanitation and the spread of preventable diseases",
+      "begin": 746,
+      "end": 849
+    },
+    "eventType": "EventP"
+  }
+]

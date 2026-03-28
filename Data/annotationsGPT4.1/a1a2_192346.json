@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "9%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "reporting receiving remittances"
+  },
+  {
+    "quantity": "4%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "reporting receiving remittances"
+  },
+  {
+    "quantity": "7%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "indicating other forms of assistance from friends/relatives as a source of income"
+  },
+  {
+    "quantity": "12%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "indicating other forms of assistance from friends/relatives as a source of income"
+  },
+  {
+    "quantity": "2%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "reporting savings as a source of income"
+  },
+  {
+    "quantity": "10%",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "reporting savings as a source of income"
+  },
+  {
+    "quantity": "93%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported diminished income or loss of income sources"
+  }
+]

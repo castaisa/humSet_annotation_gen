@@ -1,0 +1,48 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31 percent",
+      "start": 852,
+      "end": 862
+    },
+    "eventDescription": {
+      "text": "millet prices above average",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "percent",
+      "start": 855,
+      "end": 862
+    },
+    "modifier": {
+      "text": "about",
+      "start": 846,
+      "end": 851
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "80 percent",
+      "start": 900,
+      "end": 910
+    },
+    "eventDescription": {
+      "text": "maize prices above average",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "percent",
+      "start": 903,
+      "end": 910
+    },
+    "modifier": {
+      "text": "about",
+      "start": 894,
+      "end": 899
+    }
+  }
+]

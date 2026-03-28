@@ -1,0 +1,228 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60.8%",
+      "start": 232,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "reported sickness of themselves or family members",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 213,
+      "end": 224
+    },
+    "modifier": {
+      "text": "about",
+      "start": 226,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least once",
+      "start": 300,
+      "end": 313
+    },
+    "eventDescription": {
+      "text": "fell into sickness",
+      "start": 281,
+      "end": 299
+    },
+    "unit": {
+      "text": "times",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 300,
+      "end": 308
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "72.4%",
+      "start": 473,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "experienced common cold",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "start": 392,
+      "end": 428
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "71.8%",
+      "start": 495,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "experienced common fever",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "start": 392,
+      "end": 428
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14.8%",
+      "start": 524,
+      "end": 529
+    },
+    "eventDescription": {
+      "text": "experienced high blood pressure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "start": 392,
+      "end": 428
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12.9%",
+      "start": 542,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "experienced diabetes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "start": 392,
+      "end": 428
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8.0%",
+      "start": 567,
+      "end": 571
+    },
+    "eventDescription": {
+      "text": "experienced hypertension",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "start": 392,
+      "end": 428
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2.1%",
+      "start": 598,
+      "end": 602
+    },
+    "eventDescription": {
+      "text": "had coronavirus infected patients",
+      "start": 617,
+      "end": 650
+    },
+    "unit": {
+      "text": "households",
+      "start": 606,
+      "end": 616
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20",
+      "start": 745,
+      "end": 747
+    },
+    "eventDescription": {
+      "text": "age of family members who fell into sickness",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 752,
+      "end": 754
+    },
+    "eventDescription": {
+      "text": "age of family members who fell into sickness",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "55.1%",
+      "start": 882,
+      "end": 887
+    },
+    "eventDescription": {
+      "text": "male household members affected by diseases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 888,
+      "end": 898
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "64.6%",
+      "start": 921,
+      "end": 926
+    },
+    "eventDescription": {
+      "text": "female household members affected by diseases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 927,
+      "end": 937
+    }
+  }
+]

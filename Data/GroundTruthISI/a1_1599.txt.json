@@ -1,0 +1,133 @@
+[
+  {
+    "quantity": {
+      "text": "1,200",
+      "begin": 46,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "evacuated",
+      "begin": 31,
+      "end": 40
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 41,
+      "end": 45
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "begin": 52,
+      "end": 79
+    }
+  },
+  {
+    "quantity": {
+      "text": "127",
+      "begin": 161,
+      "end": 164
+    },
+    "eventDescription": {
+      "text": "departed",
+      "begin": 132,
+      "end": 140
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "begin": 165,
+      "end": 192
+    }
+  },
+  {
+    "quantity": {
+      "text": "897",
+      "begin": 222,
+      "end": 225
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "begin": 226,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "evacuated",
+      "begin": 259,
+      "end": 268
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "312",
+      "begin": 324,
+      "end": 327
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "begin": 226,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "departed",
+      "begin": 328,
+      "end": 336
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 350,
+      "end": 353
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "begin": 226,
+      "end": 253
+    },
+    "eventDescription": {
+      "text": "departed",
+      "begin": 354,
+      "end": 362
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "460",
+      "begin": 555,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "referred",
+      "begin": 546,
+      "end": 554
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals for resettlement",
+      "begin": 559,
+      "end": 587
+    }
+  },
+  {
+    "quantity": {
+      "text": "333",
+      "begin": 602,
+      "end": 605
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 606,
+      "end": 617
+    },
+    "eventDescription": {
+      "text": "submitted to different resettlement countries",
+      "begin": 636,
+      "end": 681
+    },
+    "eventType": "EventA"
+  }
+]

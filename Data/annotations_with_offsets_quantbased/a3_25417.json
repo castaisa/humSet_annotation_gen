@@ -1,0 +1,292 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "48%",
+      "start": 12,
+      "end": 15
+    },
+    "eventDescription": {
+      "text": "in need of shelter and/or non-food items",
+      "start": 35,
+      "end": 75
+    },
+    "unit": {
+      "text": "households",
+      "start": 19,
+      "end": 29
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "at least half",
+      "start": 131,
+      "end": 144
+    },
+    "eventDescription": {
+      "text": "not owning",
+      "start": 120,
+      "end": 130
+    },
+    "unit": {
+      "text": "basic NFI kit items",
+      "start": 152,
+      "end": 171
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 131,
+      "end": 139
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "63%",
+      "start": 173,
+      "end": 176
+    },
+    "eventDescription": {
+      "text": "not owning at least half of the basic NFI kit items",
+      "start": 120,
+      "end": 171
+    },
+    "unit": {
+      "text": "households",
+      "start": 109,
+      "end": 119
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54%",
+      "start": 225,
+      "end": 228
+    },
+    "eventDescription": {
+      "text": "sharing their shelter with another family",
+      "start": 182,
+      "end": 223
+    },
+    "unit": {
+      "text": "households",
+      "start": 327,
+      "end": 337
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "70%",
+      "start": 296,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "in need",
+      "start": 338,
+      "end": 345
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "67%",
+      "start": 311,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "in need",
+      "start": 338,
+      "end": 345
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 318,
+      "end": 337
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "47%",
+      "start": 362,
+      "end": 365
+    },
+    "eventDescription": {
+      "text": "in need",
+      "start": 338,
+      "end": 345
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "less than 5%",
+      "start": 498,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "reported not having adequate shelter",
+      "start": 446,
+      "end": 482
+    },
+    "unit": {
+      "text": "households",
+      "start": 431,
+      "end": 441
+    },
+    "modifier": {
+      "text": "less than",
+      "start": 498,
+      "end": 507
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over half (55%)",
+      "start": 570,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "had an unmet shelter/NFI need",
+      "start": 608,
+      "end": 637
+    },
+    "unit": {
+      "text": "households",
+      "start": 589,
+      "end": 599
+    },
+    "modifier": {
+      "text": "over",
+      "start": 570,
+      "end": 574
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "61%",
+      "start": 725,
+      "end": 728
+    },
+    "eventDescription": {
+      "text": "lacking at least half of the basic NFI kit items",
+      "start": 675,
+      "end": 723
+    },
+    "unit": {
+      "text": "households",
+      "start": 664,
+      "end": 674
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "at least half",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "lacking",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "basic NFI kit items",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54%",
+      "start": 773,
+      "end": 776
+    },
+    "eventDescription": {
+      "text": "sharing a shelter with another family",
+      "start": 734,
+      "end": 771
+    },
+    "unit": {
+      "text": "households",
+      "start": 855,
+      "end": 865
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "56%",
+      "start": 888,
+      "end": 891
+    },
+    "eventDescription": {
+      "text": "in need",
+      "start": 866,
+      "end": 873
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 882,
+      "end": 886
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "55%",
+      "start": 909,
+      "end": 912
+    },
+    "eventDescription": {
+      "text": "in need",
+      "start": 866,
+      "end": 873
+    },
+    "unit": {
+      "text": "non-displaced",
+      "start": 894,
+      "end": 907
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50%",
+      "start": 928,
+      "end": 931
+    },
+    "eventDescription": {
+      "text": "in need",
+      "start": 866,
+      "end": 873
+    },
+    "unit": {
+      "text": "returnees",
+      "start": 917,
+      "end": 926
+    }
+  }
+]

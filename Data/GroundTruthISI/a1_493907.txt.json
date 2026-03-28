@@ -1,0 +1,179 @@
+[
+  {
+    "quantity": {
+      "text": "60%",
+      "begin": 372,
+      "end": 375
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 359,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "reported humanitarian behaviours as “okay.”",
+      "begin": 377,
+      "end": 420
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 430,
+      "end": 433
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 437,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "reported humanitarian behaviour as worsening",
+      "begin": 449,
+      "end": 493
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 499,
+      "end": 504
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 494,
+      "end": 498
+    },
+    "unit": {
+      "text": "months",
+      "begin": 505,
+      "end": 511
+    }
+  },
+  {
+    "quantity": {
+      "text": "9%",
+      "begin": 543,
+      "end": 545
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 549,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "reported seeing humanitarian responders behaving badly, abusing, or harassing a woman or girl",
+      "begin": 561,
+      "end": 654
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 671,
+      "end": 676
+    },
+    "modifier": {
+      "text": "past",
+      "begin": 666,
+      "end": 670
+    },
+    "unit": {
+      "text": "months",
+      "begin": 677,
+      "end": 683
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 860,
+      "end": 864
+    },
+    "modifier": {
+      "text": "Almost",
+      "begin": 853,
+      "end": 859
+    },
+    "eventDescription": {
+      "text": "had made a complaint about services",
+      "begin": 886,
+      "end": 921
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "45%",
+      "begin": 866,
+      "end": 869
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 874,
+      "end": 885
+    },
+    "eventDescription": {
+      "text": "had made a complaint about services",
+      "begin": 886,
+      "end": 921
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 934,
+      "end": 939
+    },
+    "modifier": {
+      "text": "last",
+      "begin": 929,
+      "end": 933
+    },
+    "unit": {
+      "text": "months",
+      "begin": 940,
+      "end": 946
+    }
+  },
+  {
+    "quantity": {
+      "text": "56%",
+      "begin": 1041,
+      "end": 1044
+    },
+    "unit": {
+      "text": "Households",
+      "begin": 948,
+      "end": 958
+    },
+    "eventDescription": {
+      "text": "stated that their problem was not resolved",
+      "begin": 1045,
+      "end": 1087
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 1100,
+      "end": 1103
+    },
+    "unit": {
+      "text": "Households",
+      "begin": 948,
+      "end": 958
+    },
+    "eventDescription": {
+      "text": "stated that they are still waiting for a response",
+      "begin": 1104,
+      "end": 1153
+    },
+    "eventType": "EventO"
+  }
+]

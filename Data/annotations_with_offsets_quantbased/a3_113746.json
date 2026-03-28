@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "410",
+      "start": 146,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "hygiene kits",
+      "start": 150,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "500",
+      "start": 164,
+      "end": 167
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "bars of soap",
+      "start": 168,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "100",
+      "start": 182,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "buckets",
+      "start": 186,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "30",
+      "start": 275,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "supported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people with special needs",
+      "start": 278,
+      "end": 303
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16",
+      "start": 308,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "supported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "outreach volunteers",
+      "start": 311,
+      "end": 330
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 616,
+      "end": 619
+    },
+    "eventDescription": {
+      "text": "organised",
+      "start": 606,
+      "end": 615
+    },
+    "unit": {
+      "text": "virtual trainings",
+      "start": 620,
+      "end": 637
+    }
+  }
+]

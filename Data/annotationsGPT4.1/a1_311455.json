@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "1,211",
+    "unit": "refugees and asylum-seekers",
+    "eventType": "EventP",
+    "eventDescription": "relocated"
+  },
+  {
+    "quantity": "5,250",
+    "unit": "refugees",
+    "eventType": "EventP",
+    "eventDescription": "relocated"
+  },
+  {
+    "quantity": "490",
+    "unit": "emergency shelters",
+    "eventType": "EventA",
+    "eventDescription": "supported with"
+  },
+  {
+    "quantity": "115",
+    "unit": "hand-washing devices",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "100",
+    "unit": "cartons of soap",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "500",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "supported"
+  },
+  {
+    "quantity": "440",
+    "unit": "families from the refugee",
+    "eventType": "EventP",
+    "eventDescription": "supported"
+  },
+  {
+    "quantity": "60",
+    "unit": "families from the host communities",
+    "eventType": "EventP",
+    "eventDescription": "supported"
+  },
+  {
+    "quantity": "10",
+    "unit": "goats",
+    "eventType": "EventA",
+    "eventDescription": "supported each family with"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "eventType": "",
+    "quantity": {
+      "text": "2019",
+      "start": 31,
+      "end": 35
+    }
+  },
+  {
+    "eventType": "",
+    "quantity": {
+      "text": "2020",
+      "start": 54,
+      "end": 58
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 188,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "classified as IPC AMN Phase",
+      "start": 280,
+      "end": 307
+    },
+    "unit": {
+      "text": "Phase",
+      "start": 182,
+      "end": 187
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "9",
+      "start": 258,
+      "end": 259
+    },
+    "eventDescription": {
+      "text": "classified as IPC AMN Phase 4 (Critical)",
+      "start": 280,
+      "end": 320
+    },
+    "unit": {
+      "text": "counties",
+      "start": 271,
+      "end": 279
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4",
+      "start": 308,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "in Jonglei State",
+      "start": 391,
+      "end": 407
+    },
+    "unit": {
+      "text": "counties",
+      "start": 271,
+      "end": 279
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 409,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "in Jonglei State",
+      "start": 391,
+      "end": 407
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 426,
+      "end": 427
+    },
+    "eventDescription": {
+      "text": "in Unity State",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 447,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "in Lakes State",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 612,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "deteriorated to IPC AMN Phase",
+      "start": 582,
+      "end": 611
+    },
+    "unit": {
+      "text": "Phase",
+      "start": 606,
+      "end": 611
+    }
+  }
+]

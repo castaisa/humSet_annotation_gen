@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "water available per person",
+      "start": 109,
+      "end": 135
+    },
+    "quantity": {
+      "text": "30",
+      "start": 151,
+      "end": 153
+    },
+    "unit": {
+      "text": "liters per day",
+      "start": 160,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "water available per person",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35",
+      "start": 157,
+      "end": 159
+    },
+    "unit": {
+      "text": "liters per day",
+      "start": null,
+      "end": null
+    }
+  }
+]

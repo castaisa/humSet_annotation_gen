@@ -1,0 +1,421 @@
+[
+  {
+    "quantity": {
+      "text": "twenty-three",
+      "begin": 32,
+      "end": 44
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 25,
+      "end": 31
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Boko Haram militants",
+      "begin": 45,
+      "end": 65
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 124,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 93,
+      "end": 120
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 128,
+      "end": 134
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 164,
+      "end": 167
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 93,
+      "end": 120
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 168,
+      "end": 173
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 234,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 203,
+      "end": 230
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 238,
+      "end": 243
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 264,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 203,
+      "end": 230
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 268,
+      "end": 274
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 305,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 203,
+      "end": 230
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 310,
+      "end": 316
+    }
+  },
+  {
+    "quantity": {
+      "text": "twenty",
+      "begin": 387,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "Gunmen killed a policeman and abducted",
+      "begin": 348,
+      "end": 386
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Independent National Electoral Commission (INEC) ad hoc staff",
+      "begin": 394,
+      "end": 455
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 516,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 485,
+      "end": 512
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 520,
+      "end": 525
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 587,
+      "end": 590
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 556,
+      "end": 583
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 591,
+      "end": 597
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 626,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 556,
+      "end": 583
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 631,
+      "end": 637
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 699,
+      "end": 702
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 668,
+      "end": 695
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 703,
+      "end": 708
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 774,
+      "end": 777
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 743,
+      "end": 770
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 778,
+      "end": 784
+    }
+  },
+  {
+    "quantity": {
+      "text": "Six",
+      "begin": 821,
+      "end": 824
+    },
+    "unit": {
+      "text": "INEC staff",
+      "begin": 825,
+      "end": 835
+    },
+    "eventDescription": {
+      "text": "were kidnapped, then released",
+      "begin": 836,
+      "end": 865
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 989,
+      "end": 992
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 958,
+      "end": 985
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 993,
+      "end": 999
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 1056,
+      "end": 1059
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 1025,
+      "end": 1052
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 1060,
+      "end": 1065
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 1131,
+      "end": 1134
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 1100,
+      "end": 1127
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 1135,
+      "end": 1140
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 1182,
+      "end": 1186
+    },
+    "unit": {
+      "text": "Bandits killed",
+      "begin": 1167,
+      "end": 1181
+    },
+    "eventDescription": {
+      "text": "Bandits killed",
+      "begin": 1167,
+      "end": 1181
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 1225,
+      "end": 1229
+    },
+    "unit": {
+      "text": "kidnapped",
+      "begin": 1191,
+      "end": 1200
+    },
+    "eventDescription": {
+      "text": "kidnapped",
+      "begin": 1191,
+      "end": 1200
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "estimated at",
+      "begin": 1212,
+      "end": 1224
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 1287,
+      "end": 1290
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 1256,
+      "end": 1283
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 1291,
+      "end": 1296
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 1317,
+      "end": 1320
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 1256,
+      "end": 1283
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 1321,
+      "end": 1327
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 1372,
+      "end": 1375
+    },
+    "eventDescription": {
+      "text": "Bandits killed",
+      "begin": 1357,
+      "end": 1371
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "Bandits killed",
+      "begin": 1357,
+      "end": 1371
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 1435,
+      "end": 1438
+    },
+    "eventDescription": {
+      "text": "Electoral violence resulted",
+      "begin": 1404,
+      "end": 1431
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 1439,
+      "end": 1444
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 1495,
+      "end": 1499
+    },
+    "eventDescription": {
+      "text": "Pirates kidnapped",
+      "begin": 1477,
+      "end": 1494
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "sailors",
+      "begin": 1500,
+      "end": 1507
+    }
+  }
+]

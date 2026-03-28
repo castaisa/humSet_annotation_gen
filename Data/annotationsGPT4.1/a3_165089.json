@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "250",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  },
+  {
+    "quantity": "2360",
+    "unit": "frontline health workers",
+    "eventType": "EventP",
+    "eventDescription": "training ongoing"
+  },
+  {
+    "quantity": "44",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "training ongoing"
+  },
+  {
+    "quantity": "42,391",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "administered measles reactive vaccination"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "quantity": "22.2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "require humanitarian assistance"
+  },
+  {
+    "quantity": "over 2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "internally displaced",
+    "modifier": "over"
+  },
+  {
+    "quantity": "1.25 million",
+    "unit": "public sector workers",
+    "eventType": "EventP",
+    "eventDescription": "without pay for a year"
+  },
+  {
+    "quantity": "16 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "lack access to safe water"
+  },
+  {
+    "quantity": "over 1 million",
+    "unit": "suspected cases",
+    "eventType": "EventO",
+    "eventDescription": "acute watery diarrhoea (AWD) and cholera",
+    "modifier": "over"
+  },
+  {
+    "quantity": "more than 1,100",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "killed or maimed",
+    "modifier": "more than"
+  }
+]

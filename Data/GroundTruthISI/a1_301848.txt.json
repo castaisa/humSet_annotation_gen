@@ -1,0 +1,236 @@
+[
+  {
+    "quantity": {
+      "text": "0.1%",
+      "begin": 52,
+      "end": 56
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 25,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 39,
+      "end": 48
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8%",
+      "begin": 111,
+      "end": 113
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 25,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "higher than 14 March",
+      "begin": 114,
+      "end": 134
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 170,
+      "end": 172
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 25,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "decrease occurred",
+      "begin": 140,
+      "end": 157
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 194,
+      "end": 196
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 25,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "decrease occurred",
+      "begin": 140,
+      "end": 157
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 308,
+      "end": 310
+    },
+    "unit": {
+      "text": "price",
+      "begin": 267,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 273,
+      "end": 282
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "105",
+      "begin": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "Prices where highest",
+      "begin": 346,
+      "end": 366
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 437,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 422,
+      "end": 425
+    },
+    "eventDescription": {
+      "text": "Prices where highest",
+      "begin": 346,
+      "end": 366
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 437,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "98",
+      "begin": 427,
+      "end": 429
+    },
+    "eventDescription": {
+      "text": "Prices where highest",
+      "begin": 346,
+      "end": 366
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 437,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "98",
+      "begin": 434,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "Prices where highest",
+      "begin": 346,
+      "end": 366
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 437,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "74",
+      "begin": 601,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "prices were lowest",
+      "begin": 538,
+      "end": 556
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 619,
+      "end": 625
+    }
+  },
+  {
+    "quantity": {
+      "text": "75",
+      "begin": 605,
+      "end": 607
+    },
+    "eventDescription": {
+      "text": "prices were lowest",
+      "begin": 538,
+      "end": 556
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 619,
+      "end": 625
+    }
+  },
+  {
+    "quantity": {
+      "text": "76",
+      "begin": 609,
+      "end": 611
+    },
+    "eventDescription": {
+      "text": "prices were lowest",
+      "begin": 538,
+      "end": 556
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 619,
+      "end": 625
+    }
+  },
+  {
+    "quantity": {
+      "text": "78",
+      "begin": 616,
+      "end": 618
+    },
+    "eventDescription": {
+      "text": "prices were lowest",
+      "begin": 538,
+      "end": 556
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "per kg",
+      "begin": 619,
+      "end": 625
+    }
+  }
+]

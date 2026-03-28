@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "14%",
+      "begin": 151,
+      "end": 154
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 27,
+      "end": 47
+    },
+    "eventDescription": {
+      "text": "people left their settlements increased",
+      "begin": 106,
+      "end": 145
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "26%",
+      "begin": 166,
+      "end": 169
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 27,
+      "end": 47
+    },
+    "eventDescription": {
+      "text": "people left their settlements increased",
+      "begin": 106,
+      "end": 145
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "39%",
+      "begin": 576,
+      "end": 579
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 513,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "people left their settlements",
+      "begin": 666,
+      "end": 695
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "43%",
+      "begin": 596,
+      "end": 599
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 513,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "people left their settlements",
+      "begin": 666,
+      "end": 695
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 616,
+      "end": 619
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "begin": 513,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "people left their settlements",
+      "begin": 666,
+      "end": 695
+    },
+    "eventType": "EventP"
+  }
+]

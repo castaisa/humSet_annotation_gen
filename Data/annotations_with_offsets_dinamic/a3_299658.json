@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed cases of Coronavirus in schools",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11",
+      "start": 235,
+      "end": 237
+    },
+    "unit": {
+      "text": "cases",
+      "start": 145,
+      "end": 150
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "new infections recorded last week",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 299,
+      "end": 302
+    },
+    "unit": {
+      "text": "infections",
+      "start": 307,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "infections among educational and administrative staff",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9",
+      "start": 351,
+      "end": 352
+    },
+    "unit": {
+      "text": "infections",
+      "start": 353,
+      "end": 363
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "injuries among students",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two",
+      "start": 421,
+      "end": 424
+    },
+    "unit": {
+      "text": "injuries",
+      "start": 425,
+      "end": 433
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "injuries recovered",
+      "start": 476,
+      "end": 494
+    },
+    "quantity": {
+      "text": "three",
+      "start": 470,
+      "end": 475
+    },
+    "unit": {
+      "text": "injuries",
+      "start": 476,
+      "end": 484
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "injuries under home quarantine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 516,
+      "end": 521
+    },
+    "unit": {
+      "text": "injuries",
+      "start": 522,
+      "end": 530
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "suspected cases recently recorded",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15",
+      "start": 589,
+      "end": 591
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": 592,
+      "end": 607
+    }
+  }
+]

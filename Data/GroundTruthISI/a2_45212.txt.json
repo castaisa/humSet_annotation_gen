@@ -1,0 +1,213 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 27,
+      "end": 31
+    },
+    "unit": {
+      "text": "households",
+      "begin": 32,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "an adult with no identity documentation",
+      "begin": 52,
+      "end": 91
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 18,
+      "end": 23
+    },
+    "unit": {
+      "text": "households",
+      "begin": 32,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "an adult with no identity documentation",
+      "begin": 52,
+      "end": 91
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "70%",
+      "begin": 93,
+      "end": 96
+    },
+    "eventDescription": {
+      "text": "an adult with no identity documentation",
+      "begin": 52,
+      "end": 91
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One-fifth",
+      "begin": 129,
+      "end": 138
+    },
+    "unit": {
+      "text": "households",
+      "begin": 142,
+      "end": 152
+    },
+    "eventDescription": {
+      "text": "missing a family member",
+      "begin": 167,
+      "end": 190
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 192,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "missing a family member",
+      "begin": 167,
+      "end": 190
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "44%",
+      "begin": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "households",
+      "begin": 245,
+      "end": 255
+    },
+    "eventDescription": {
+      "text": "experiencing a security incident",
+      "begin": 265,
+      "end": 297
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 302,
+      "end": 305
+    },
+    "unit": {
+      "text": "months",
+      "begin": 306,
+      "end": 312
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 390,
+      "end": 394
+    },
+    "unit": {
+      "text": "households",
+      "begin": 395,
+      "end": 405
+    },
+    "eventDescription": {
+      "text": "adults without identity documentation",
+      "begin": 415,
+      "end": 452
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 383,
+      "end": 386
+    },
+    "unit": {
+      "text": "households",
+      "begin": 395,
+      "end": 405
+    },
+    "eventDescription": {
+      "text": "adults without identity documentation",
+      "begin": 415,
+      "end": 452
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21%",
+      "begin": 454,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "adults without identity documentation",
+      "begin": 415,
+      "end": 452
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "28%",
+      "begin": 511,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "experienced movement restrictions",
+      "begin": 476,
+      "end": 509
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 464,
+      "end": 467
+    },
+    "eventDescription": {
+      "text": "experienced movement restrictions",
+      "begin": 476,
+      "end": 509
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 471,
+      "end": 475
+    },
+    "eventDescription": {
+      "text": "experienced movement restrictions",
+      "begin": 476,
+      "end": 509
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "86%",
+      "begin": 644,
+      "end": 647
+    },
+    "eventDescription": {
+      "text": "key informants had reported previous explosive incidents",
+      "begin": 586,
+      "end": 642
+    },
+    "eventType": "EventP"
+  }
+]

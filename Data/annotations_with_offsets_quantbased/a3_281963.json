@@ -1,0 +1,46 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4,638",
+      "start": 58,
+      "end": 63
+    },
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 64,
+      "end": 70
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22%",
+      "start": 229,
+      "end": 232
+    },
+    "eventDescription": {
+      "text": "reported consumption of seed stocks",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7%",
+      "start": 331,
+      "end": 333
+    },
+    "eventDescription": {
+      "text": "reported selling of assets",
+      "start": null,
+      "end": null
+    }
+  }
+]

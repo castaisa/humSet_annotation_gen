@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 347,
+      "end": 349
+    },
+    "unit": {
+      "text": "civilians",
+      "begin": 350,
+      "end": 359
+    },
+    "eventDescription": {
+      "text": "injured",
+      "begin": 380,
+      "end": 387
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 469,
+      "end": 474
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 460,
+      "end": 468
+    },
+    "unit": {
+      "text": "civilians",
+      "begin": 475,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "reported killed",
+      "begin": 490,
+      "end": 505
+    },
+    "eventType": "EventP"
+  }
+]

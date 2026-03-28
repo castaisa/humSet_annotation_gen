@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported their children actually used the modalities and technologies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "65%",
+      "start": 231,
+      "end": 234
+    },
+    "unit": {
+      "text": "caregivers in camps",
+      "start": 290,
+      "end": 309
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported their children actually used the modalities and technologies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "83%",
+      "start": 266,
+      "end": 269
+    },
+    "unit": {
+      "text": "caregivers in host communities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported their children had no access to any learning modalities and technologies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "61%",
+      "start": 283,
+      "end": 286
+    },
+    "unit": {
+      "text": "caregivers in camps",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported their children had no access to any learning modalities and technologies",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50%",
+      "start": 451,
+      "end": 454
+    },
+    "unit": {
+      "text": "caregivers in host communities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average number of learning hours per week in the camps",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11",
+      "start": 611,
+      "end": 613
+    },
+    "unit": {
+      "text": "hours per week",
+      "start": 496,
+      "end": 510
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "average number of learning hours per week in the host communities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12",
+      "start": 646,
+      "end": 648
+    },
+    "unit": {
+      "text": "hours per week",
+      "start": 614,
+      "end": 628
+    }
+  }
+]

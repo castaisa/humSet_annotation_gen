@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "1.1 million",
+    "unit": "children and women",
+    "eventType": "EventP",
+    "eventDescription": "in need of immediate nutrition services"
+  },
+  {
+    "quantity": "two-thirds",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "remain damaged by the conflict"
+  },
+  {
+    "quantity": "10.7 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "Global acute malnutrition (GAM) rate recorded in Borno"
+  },
+  {
+    "quantity": "7.5 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "Global acute malnutrition (GAM) rate recorded in Adamawa"
+  },
+  {
+    "quantity": "13.6 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "Global acute malnutrition (GAM) rate recorded in Yobe"
+  },
+  {
+    "quantity": "15 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "global emergency threshold for acute malnutrition"
+  }
+]

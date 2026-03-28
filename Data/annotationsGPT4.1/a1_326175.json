@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "Fifty-four per cent",
+    "unit": "of respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported house totally burnt or destroyed"
+  },
+  {
+    "quantity": "Twenty-eight per cent",
+    "unit": "of respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported house partially burnt or damaged, but still repairable"
+  },
+  {
+    "quantity": "Six per cent",
+    "unit": "of respondents",
+    "eventType": "EventP",
+    "eventDescription": "stated houses were not damaged at all"
+  },
+  {
+    "quantity": "12 per cent",
+    "unit": "of the respondents",
+    "eventType": "EventP",
+    "eventDescription": "current state of house in location of origin was unknown"
+  }
+]

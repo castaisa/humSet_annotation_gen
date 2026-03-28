@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected",
+      "start": 223,
+      "end": 231
+    },
+    "quantity": {
+      "text": "9",
+      "start": 210,
+      "end": 211
+    },
+    "unit": {
+      "text": "camps",
+      "start": 109,
+      "end": 114
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "damaged",
+      "start": 405,
+      "end": 412
+    },
+    "quantity": {
+      "text": "115",
+      "start": 382,
+      "end": 385
+    },
+    "unit": {
+      "text": "makeshift shelters",
+      "start": 386,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "without shelter",
+      "start": 446,
+      "end": 461
+    },
+    "quantity": {
+      "text": "345",
+      "start": 430,
+      "end": 433
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 434,
+      "end": 445
+    }
+  }
+]

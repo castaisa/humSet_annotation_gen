@@ -1,0 +1,9 @@
+[
+  {
+    "quantity": "13",
+    "unit": "asylum-seekers",
+    "eventType": "EventP",
+    "eventDescription": "tested positive for COVID-19 and were quarantined at state facilities",
+    "modifier": "at least"
+  }
+]

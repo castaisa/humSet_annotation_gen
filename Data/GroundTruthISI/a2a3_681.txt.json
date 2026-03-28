@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "74.9%",
+      "begin": 9,
+      "end": 14
+    },
+    "unit": {
+      "text": "households",
+      "begin": 18,
+      "end": 28
+    },
+    "eventDescription": {
+      "text": "irregular access to electricity",
+      "begin": 38,
+      "end": 69
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 345,
+      "end": 346
+    },
+    "unit": {
+      "text": "hours",
+      "begin": 347,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "daily electricity cuts reported by households",
+      "begin": 356,
+      "end": 401
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 491,
+      "end": 492
+    },
+    "eventDescription": {
+      "text": "electricity cuts",
+      "begin": 455,
+      "end": 471
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "hours cuts daily",
+      "begin": 493,
+      "end": 509
+    }
+  }
+]

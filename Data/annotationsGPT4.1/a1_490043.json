@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "641",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "functional in SARI ITCs"
+  },
+  {
+    "quantity": "13",
+    "unit": "Severe Acute Respiratory Infection Isolation and Treatment Centers (SARI ITCs)",
+    "eventType": "EventA",
+    "eventDescription": "centers with functional beds"
+  },
+  {
+    "quantity": "54%",
+    "unit": "bed occupancy",
+    "eventType": "EventA",
+    "eventDescription": "bed occupancy at SARI ITCs"
+  },
+  {
+    "quantity": "517",
+    "unit": "general isolation beds",
+    "eventType": "EventA",
+    "eventDescription": "capacity in the district"
+  },
+  {
+    "quantity": "43",
+    "unit": "beds",
+    "eventType": "EventA",
+    "eventDescription": "ICU/HDU capacity at Cox\u2019s Bazar Sadar Hospital"
+  }
+]

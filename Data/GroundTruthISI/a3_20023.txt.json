@@ -1,0 +1,100 @@
+[
+  {
+    "quantity": {
+      "text": "178th",
+      "begin": 66,
+      "end": 71
+    },
+    "eventDescription": {
+      "text": "ranked",
+      "begin": 59,
+      "end": 65
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "out of",
+      "begin": 72,
+      "end": 78
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 83,
+      "end": 92
+    }
+  },
+  {
+    "quantity": {
+      "text": "189",
+      "begin": 79,
+      "end": 82
+    },
+    "modifier": {
+      "text": "out of",
+      "begin": 72,
+      "end": 78
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 83,
+      "end": 92
+    }
+  },
+  {
+    "quantity": {
+      "text": "178th out of 189",
+      "begin": 66,
+      "end": 82
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 83,
+      "end": 92
+    }
+  },
+  {
+    "quantity": {
+      "text": "50 percent",
+      "begin": 151,
+      "end": 161
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 142,
+      "end": 150
+    },
+    "unit": {
+      "text": "population",
+      "begin": 169,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "estimated to be living in poverty",
+      "begin": 183,
+      "end": 216
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "90 percent",
+      "begin": 232,
+      "end": 242
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 222,
+      "end": 231
+    },
+    "unit": {
+      "text": "food",
+      "begin": 246,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "imported",
+      "begin": 263,
+      "end": 271
+    },
+    "eventType": "EventO"
+  }
+]

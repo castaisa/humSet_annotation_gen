@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 305,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "supporting",
+      "begin": 294,
+      "end": 304
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "stabilization centres",
+      "begin": 311,
+      "end": 332
+    }
+  },
+  {
+    "quantity": {
+      "text": "68 per cent",
+      "begin": 432,
+      "end": 443
+    },
+    "unit": {
+      "text": "children",
+      "begin": 447,
+      "end": 455
+    },
+    "eventDescription": {
+      "text": "admitted",
+      "begin": 470,
+      "end": 478
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "79 per cent",
+      "begin": 488,
+      "end": 499
+    },
+    "unit": {
+      "text": "PLW",
+      "begin": 503,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "received support",
+      "begin": 507,
+      "end": 523
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 571,
+      "end": 582
+    },
+    "unit": {
+      "text": "children",
+      "begin": 586,
+      "end": 594
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 595,
+      "end": 603
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "608",
+      "begin": 674,
+      "end": 677
+    },
+    "eventDescription": {
+      "text": "supported",
+      "begin": 664,
+      "end": 673
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "admissions",
+      "begin": 678,
+      "end": 688
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 692,
+      "end": 694
+    },
+    "eventDescription": {
+      "text": "supported",
+      "begin": 664,
+      "end": 673
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "TFCs",
+      "begin": 695,
+      "end": 699
+    }
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 750,
+      "end": 752
+    },
+    "eventDescription": {
+      "text": "supported",
+      "begin": 664,
+      "end": 673
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "referrals",
+      "begin": 753,
+      "end": 762
+    }
+  }
+]

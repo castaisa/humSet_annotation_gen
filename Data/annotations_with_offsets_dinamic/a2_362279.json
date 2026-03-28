@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "start": 230,
+      "end": 254
+    },
+    "quantity": {
+      "text": "40",
+      "start": 265,
+      "end": 267
+    },
+    "unit": {
+      "text": "cases",
+      "start": 149,
+      "end": 154
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "186",
+      "start": 281,
+      "end": 284
+    },
+    "unit": {
+      "text": "cases",
+      "start": 249,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total COVID-19 cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "168,442",
+      "start": 354,
+      "end": 361
+    },
+    "unit": {
+      "text": "cases",
+      "start": 330,
+      "end": 335
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "COVID-19 deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,122",
+      "start": 367,
+      "end": 372
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 373,
+      "end": 379
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "COVID-19 recoveries",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "164,423",
+      "start": 384,
+      "end": 391
+    },
+    "unit": {
+      "text": "recoveries",
+      "start": 392,
+      "end": 402
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "accounted for by large-scale mechanized federal schemes",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 51,
+      "end": 56
+    },
+    "quantity": {
+      "text": "about 1.26 million",
+      "start": 51,
+      "end": 69
+    },
+    "unit": {
+      "text": "hectares",
+      "start": 70,
+      "end": 78
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "accounted for by large-scale mechanized federal schemes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 million",
+      "start": 80,
+      "end": 89
+    },
+    "unit": {
+      "text": "feddans",
+      "start": 90,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "size of Aj Jazirah Scheme",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 142,
+      "end": 155
+    },
+    "quantity": {
+      "text": "approximately 1 million",
+      "start": 142,
+      "end": 165
+    },
+    "unit": {
+      "text": "hectares",
+      "start": 166,
+      "end": 174
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "size of Aj Jazirah Scheme",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2.38 million",
+      "start": 176,
+      "end": 188
+    },
+    "unit": {
+      "text": "feddans",
+      "start": 189,
+      "end": 196
+    }
+  }
+]

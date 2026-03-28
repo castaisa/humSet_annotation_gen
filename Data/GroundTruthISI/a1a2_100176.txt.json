@@ -1,0 +1,174 @@
+[
+  {
+    "quantity": {
+      "text": "673",
+      "begin": 49,
+      "end": 52
+    },
+    "unit": {
+      "text": "measles cases",
+      "begin": 63,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 143,
+      "end": 151
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 82,
+      "end": 85
+    },
+    "unit": {
+      "text": "measles cases",
+      "begin": 63,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 143,
+      "end": 151
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "0.2 per cent",
+      "begin": 124,
+      "end": 136
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 143,
+      "end": 151
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "case fatality ratio",
+      "begin": 104,
+      "end": 123
+    }
+  },
+  {
+    "quantity": {
+      "text": "57 per cent",
+      "begin": 196,
+      "end": 207
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 235,
+      "end": 243
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "measles cases",
+      "begin": 221,
+      "end": 234
+    }
+  },
+  {
+    "quantity": {
+      "text": "ten years",
+      "begin": 337,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "affected age group",
+      "begin": 283,
+      "end": 301
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "children",
+      "begin": 311,
+      "end": 319
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 320,
+      "end": 325
+    }
+  },
+  {
+    "quantity": {
+      "text": "65 per cent",
+      "begin": 368,
+      "end": 379
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 363,
+      "end": 367
+    },
+    "unit": {
+      "text": "population",
+      "begin": 387,
+      "end": 397
+    },
+    "eventDescription": {
+      "text": "affected",
+      "begin": 398,
+      "end": 406
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21",
+      "begin": 467,
+      "end": 469
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 470,
+      "end": 475
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 481,
+      "end": 489
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 513,
+      "end": 516
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 470,
+      "end": 475
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 528,
+      "end": 534
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 536,
+      "end": 539
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 563,
+      "end": 568
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 574,
+      "end": 582
+    },
+    "eventType": "EventP"
+  }
+]

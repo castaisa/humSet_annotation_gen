@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 73,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "organized",
+      "begin": 63,
+      "end": 72
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mhGAP training sessions",
+      "begin": 77,
+      "end": 100
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 259,
+      "end": 261
+    },
+    "unit": {
+      "text": "doctors",
+      "begin": 262,
+      "end": 269
+    },
+    "eventDescription": {
+      "text": "trained",
+      "begin": 289,
+      "end": 296
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 274,
+      "end": 276
+    },
+    "unit": {
+      "text": "nurses",
+      "begin": 277,
+      "end": 283
+    },
+    "eventDescription": {
+      "text": "trained",
+      "begin": 289,
+      "end": 296
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 318,
+      "end": 320
+    },
+    "unit": {
+      "text": "doctors",
+      "begin": 321,
+      "end": 328
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 377,
+      "end": 384
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "39",
+      "begin": 333,
+      "end": 335
+    },
+    "unit": {
+      "text": "nurses",
+      "begin": 336,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 377,
+      "end": 384
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "34",
+      "begin": 857,
+      "end": 859
+    },
+    "eventDescription": {
+      "text": "organized a mhGAP refresher training",
+      "begin": 816,
+      "end": 852
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "healthcare professionals",
+      "begin": 860,
+      "end": 884
+    }
+  }
+]

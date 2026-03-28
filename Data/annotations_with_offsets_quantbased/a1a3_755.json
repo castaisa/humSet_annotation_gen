@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "24%",
+      "start": 197,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "concerned",
+      "start": 175,
+      "end": 184
+    },
+    "unit": {
+      "text": "households",
+      "start": 185,
+      "end": 195
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "68%",
+      "start": 263,
+      "end": 266
+    },
+    "eventDescription": {
+      "text": "reported deprioritising all but emergency care",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 276,
+      "end": 286
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "57.6%",
+      "start": 336,
+      "end": 341
+    },
+    "eventDescription": {
+      "text": "relied on alternative or traditional medicine",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 276,
+      "end": 286
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25%",
+      "start": 438,
+      "end": 441
+    },
+    "eventDescription": {
+      "text": "sought conventional medical treatment by untrained staff",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 276,
+      "end": 286
+    }
+  }
+]

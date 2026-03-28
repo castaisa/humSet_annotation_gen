@@ -1,0 +1,98 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "300",
+      "start": 432,
+      "end": 435
+    },
+    "unit": {
+      "text": "children",
+      "start": 436,
+      "end": 444
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proxy GAM in Gumuruk",
+      "start": 489,
+      "end": 509
+    },
+    "quantity": {
+      "text": "9.7%",
+      "start": 536,
+      "end": 540
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proxy GAM in Likuangole",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14.2%",
+      "start": 542,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proxy GAM in Pibor",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14.2%",
+      "start": 552,
+      "end": 557
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proxy GAM in Gumuruk (November 2020)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18.1%",
+      "start": 822,
+      "end": 827
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proxy GAM in Likuangole (November 2020)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20.3%",
+      "start": 829,
+      "end": 834
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proxy GAM in Pibor (November 2020)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23.7%",
+      "start": 839,
+      "end": 844
+    }
+  }
+]

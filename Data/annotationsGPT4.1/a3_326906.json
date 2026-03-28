@@ -1,0 +1,47 @@
+[
+  {
+    "quantity": "second",
+    "unit": "recorded disruption",
+    "eventType": "EventO",
+    "eventDescription": "disruption recorded"
+  },
+  {
+    "quantity": "23rd",
+    "unit": "recorded time",
+    "eventType": "EventO",
+    "eventDescription": "operations suspended"
+  },
+  {
+    "quantity": "a few",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "duration of disruptions"
+  },
+  {
+    "quantity": "over a few",
+    "unit": "weeks",
+    "eventType": "EventO",
+    "eventDescription": "duration of disruptions",
+    "modifier": "over"
+  },
+  {
+    "quantity": "approximately one million",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "over 70,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "living in camps and informal settlements",
+    "modifier": "over"
+  },
+  {
+    "quantity": "over 100",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "no water received",
+    "modifier": "over"
+  }
+]

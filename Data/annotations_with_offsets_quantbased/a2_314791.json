@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "38%",
+      "start": 171,
+      "end": 174
+    },
+    "eventDescription": {
+      "text": "reported dependence on crop production as main livelihood source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 182,
+      "end": 192
+    },
+    "modifier": {
+      "text": "about",
+      "start": 165,
+      "end": 170
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13%",
+      "start": 242,
+      "end": 245
+    },
+    "eventDescription": {
+      "text": "reported dependence on livestock as main livelihood source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 182,
+      "end": 192
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8%",
+      "start": 392,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "reported dependence on brewing as main livelihood source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 402,
+      "end": 412
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8%",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "reported dependence on selling firewood as main livelihood source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "7%",
+      "start": 506,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "reported dependence on food assistance as main livelihood source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 516,
+      "end": 526
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5%",
+      "start": 571,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "reported dependence on hunting and gathering as main livelihood source",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 581,
+      "end": 591
+    }
+  }
+]

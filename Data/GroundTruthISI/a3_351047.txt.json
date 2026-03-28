@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": {
+      "text": "two times",
+      "begin": 190,
+      "end": 199
+    },
+    "unit": {
+      "text": "week",
+      "begin": 202,
+      "end": 206
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.6 times",
+      "begin": 455,
+      "end": 464
+    },
+    "eventDescription": {
+      "text": "recorded among surveyed households",
+      "begin": 396,
+      "end": 430
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "a week",
+      "begin": 465,
+      "end": 471
+    }
+  }
+]

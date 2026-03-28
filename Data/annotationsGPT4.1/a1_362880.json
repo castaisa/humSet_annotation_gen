@@ -1,0 +1,40 @@
+[
+  {
+    "quantity": "167,618",
+    "unit": "confirmed COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed cases"
+  },
+  {
+    "quantity": "2120",
+    "unit": "associated deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths"
+  },
+  {
+    "quantity": "about 1.3 percent",
+    "unit": "case fatality rate",
+    "eventType": "EventO",
+    "eventDescription": "case fatality rate",
+    "modifier": "about"
+  },
+  {
+    "quantity": "over 3.5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "received at least one dose of the COVID-19 vaccine",
+    "modifier": "over"
+  },
+  {
+    "quantity": "50",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "public gatherings limit"
+  },
+  {
+    "quantity": "12 to 4",
+    "unit": "am",
+    "eventType": "EventO",
+    "eventDescription": "curfew hours"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people had access to handwashing stations with soap and water",
+      "start": 155,
+      "end": 216
+    },
+    "quantity": {
+      "text": "40 per cent",
+      "start": 58,
+      "end": 69
+    },
+    "unit": {
+      "text": "locations",
+      "start": 77,
+      "end": 86
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people had access to handwashing stations with soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36%",
+      "start": 235,
+      "end": 238
+    },
+    "unit": {
+      "text": "locations",
+      "start": 264,
+      "end": 273
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "about half of the people had access to water and soap",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24 per cent",
+      "start": 249,
+      "end": 260
+    },
+    "unit": {
+      "text": "locations",
+      "start": 379,
+      "end": 388
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had access to water and soap",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 275,
+      "end": 280
+    },
+    "quantity": {
+      "text": "about half",
+      "start": 275,
+      "end": 285
+    },
+    "unit": {
+      "text": "people",
+      "start": 401,
+      "end": 407
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "about half of the people had access to water and soap",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29%",
+      "start": 351,
+      "end": 354
+    },
+    "unit": {
+      "text": "locations",
+      "start": 467,
+      "end": 476
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "only a few people had access",
+      "start": 390,
+      "end": 418
+    },
+    "quantity": {
+      "text": "16 per cent",
+      "start": 360,
+      "end": 371
+    },
+    "unit": {
+      "text": "locations",
+      "start": 598,
+      "end": 607
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "only a few people had access",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "17%",
+      "start": 436,
+      "end": 439
+    },
+    "unit": {
+      "text": "locations",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "everyone had access to handwashing stations filled with water and soap",
+      "start": 478,
+      "end": 548
+    },
+    "quantity": {
+      "text": "16 per cent",
+      "start": 448,
+      "end": 459
+    },
+    "unit": {
+      "text": "locations",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "everyone had access to handwashing stations filled with water and soap",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "17%",
+      "start": 566,
+      "end": 569
+    },
+    "unit": {
+      "text": "locations",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "nobody in their community had access to water and soap",
+      "start": 642,
+      "end": 696
+    },
+    "quantity": {
+      "text": "3 per cent",
+      "start": 580,
+      "end": 590
+    },
+    "unit": {
+      "text": "locations",
+      "start": null,
+      "end": null
+    }
+  }
+]

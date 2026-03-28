@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "about 400,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "rendered food insecure",
+    "modifier": "about"
+  },
+  {
+    "quantity": "10",
+    "unit": "aid workers",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  }
+]

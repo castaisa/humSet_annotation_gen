@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "89 percent",
+    "unit": "female-headed households",
+    "eventType": "EventP",
+    "eventDescription": "engaging in at least one food-based coping mechanism"
+  },
+  {
+    "quantity": "83 percent",
+    "unit": "male-headed households",
+    "eventType": "EventP",
+    "eventDescription": "engaging in at least one food-based coping mechanism"
+  },
+  {
+    "quantity": "14 percent",
+    "unit": "surveyed households",
+    "eventType": "EventP",
+    "eventDescription": "reported to have taken their children out of school"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "households in Al-Hasakeh",
+    "eventType": "EventP",
+    "eventDescription": "reported to have taken their children out of school"
+  },
+  {
+    "quantity": "28 percent",
+    "unit": "households in Deir-ez-Zor",
+    "eventType": "EventP",
+    "eventDescription": "reported to have taken their children out of school"
+  }
+]

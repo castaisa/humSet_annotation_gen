@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "paid for health care",
+      "start": 472,
+      "end": 492
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 508,
+      "end": 511
+    },
+    "unit": {
+      "text": "households",
+      "start": 235,
+      "end": 245
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "paid for health care",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 515,
+      "end": 518
+    },
+    "unit": {
+      "text": "households",
+      "start": 456,
+      "end": 466
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "went into debt to cover health expenses",
+      "start": 558,
+      "end": 597
+    },
+    "quantity": {
+      "text": "66%",
+      "start": 613,
+      "end": 616
+    },
+    "unit": {
+      "text": "households",
+      "start": 542,
+      "end": 552
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "went into debt to cover health expenses",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35%",
+      "start": 620,
+      "end": 623
+    },
+    "unit": {
+      "text": "households",
+      "start": 649,
+      "end": 659
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sought lower quality/cheaper treatment",
+      "start": 665,
+      "end": 703
+    },
+    "quantity": {
+      "text": "12%",
+      "start": 719,
+      "end": 722
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "sought lower quality/cheaper treatment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27%",
+      "start": 726,
+      "end": 729
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  }
+]

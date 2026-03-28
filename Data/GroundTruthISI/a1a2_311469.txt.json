@@ -1,0 +1,107 @@
+[
+  {
+    "quantity": {
+      "text": "93,000",
+      "begin": 82,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "Shelter/CRI Cluster targeted",
+      "begin": 46,
+      "end": 74
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "around",
+      "begin": 75,
+      "end": 81
+    },
+    "unit": {
+      "text": "families",
+      "begin": 89,
+      "end": 97
+    }
+  },
+  {
+    "quantity": {
+      "text": "203, 198",
+      "begin": 105,
+      "end": 113
+    },
+    "unit": {
+      "text": "families",
+      "begin": 89,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "in need",
+      "begin": 114,
+      "end": 121
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4%",
+      "begin": 418,
+      "end": 420
+    },
+    "unit": {
+      "text": "displaced populations",
+      "begin": 382,
+      "end": 403
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 413,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "have been respectively reached",
+      "begin": 428,
+      "end": 458
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 425,
+      "end": 427
+    },
+    "unit": {
+      "text": "displaced populations",
+      "begin": 382,
+      "end": 403
+    },
+    "modifier": {
+      "text": "only",
+      "begin": 413,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "have been respectively reached",
+      "begin": 428,
+      "end": 458
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "3,031",
+      "begin": 533,
+      "end": 538
+    },
+    "unit": {
+      "text": "emergency shelters",
+      "begin": 539,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "were built",
+      "begin": 558,
+      "end": 568
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 232,
+      "end": 234
+    },
+    "eventDescription": {
+      "text": "rehabilitated",
+      "begin": 218,
+      "end": 231
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hand pumps",
+      "begin": 235,
+      "end": 245
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 256,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "rehabilitated",
+      "begin": 218,
+      "end": 231
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hand pumps",
+      "begin": 235,
+      "end": 245
+    }
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 268,
+      "end": 269
+    },
+    "eventDescription": {
+      "text": "rehabilitated",
+      "begin": 218,
+      "end": 231
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hand pumps",
+      "begin": 235,
+      "end": 245
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 283,
+      "end": 284
+    },
+    "eventDescription": {
+      "text": "rehabilitated",
+      "begin": 218,
+      "end": 231
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hand pumps",
+      "begin": 235,
+      "end": 245
+    }
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 327,
+      "end": 329
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "rehabilitation",
+      "begin": 345,
+      "end": 359
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 361,
+      "end": 366
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "completion",
+      "begin": 379,
+      "end": 389
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 458,
+      "end": 459
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "work is in progress",
+      "begin": 409,
+      "end": 428
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 474,
+      "end": 475
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "work is in progress",
+      "begin": 409,
+      "end": 428
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 490,
+      "end": 491
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "work is in progress",
+      "begin": 409,
+      "end": 428
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 506,
+      "end": 507
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "work is in progress",
+      "begin": 409,
+      "end": 428
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 526,
+      "end": 527
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "work is in progress",
+      "begin": 409,
+      "end": 428
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "75%%",
+      "begin": 374,
+      "end": 378
+    },
+    "unit": {
+      "text": "hand pumps",
+      "begin": 330,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "completion",
+      "begin": 379,
+      "end": 389
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 546,
+      "end": 548
+    },
+    "eventDescription": {
+      "text": "DRC handed",
+      "begin": 530,
+      "end": 540
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 541,
+      "end": 545
+    },
+    "unit": {
+      "text": "mechanized water points",
+      "begin": 549,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 628,
+      "end": 629
+    },
+    "eventDescription": {
+      "text": "DRC handed",
+      "begin": 530,
+      "end": 540
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mechanized water points",
+      "begin": 549,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 641,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "DRC handed",
+      "begin": 530,
+      "end": 540
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mechanized water points",
+      "begin": 549,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 657,
+      "end": 658
+    },
+    "eventDescription": {
+      "text": "DRC handed",
+      "begin": 530,
+      "end": 540
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mechanized water points",
+      "begin": 549,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 673,
+      "end": 674
+    },
+    "eventDescription": {
+      "text": "DRC handed",
+      "begin": 530,
+      "end": 540
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mechanized water points",
+      "begin": 549,
+      "end": 572
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 693,
+      "end": 694
+    },
+    "eventDescription": {
+      "text": "DRC handed",
+      "begin": 530,
+      "end": 540
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "mechanized water points",
+      "begin": 549,
+      "end": 572
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "130",
+    "unit": "systems",
+    "eventType": "EventO",
+    "eventDescription": "functioning in Idleb"
+  },
+  {
+    "quantity": "200",
+    "unit": "systems",
+    "eventType": "EventO",
+    "eventDescription": "total in Idleb"
+  },
+  {
+    "quantity": "65 percent",
+    "unit": "systems",
+    "eventType": "EventO",
+    "eventDescription": "functioning in Idleb"
+  },
+  {
+    "quantity": "138",
+    "unit": "systems",
+    "eventType": "EventO",
+    "eventDescription": "functioning in Aleppo"
+  },
+  {
+    "quantity": "244",
+    "unit": "systems",
+    "eventType": "EventO",
+    "eventDescription": "total in Aleppo"
+  },
+  {
+    "quantity": "56 percent",
+    "unit": "systems",
+    "eventType": "EventO",
+    "eventDescription": "functioning in Aleppo"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "stations",
+    "eventType": "EventO",
+    "eventDescription": "running without being chlorinated in Aleppo"
+  },
+  {
+    "quantity": "16 percent",
+    "unit": "stations",
+    "eventType": "EventO",
+    "eventDescription": "running without being chlorinated in Idleb"
+  },
+  {
+    "quantity": "30 per cent",
+    "unit": "total WASH cluster expenditure",
+    "eventType": "EventA",
+    "eventDescription": "cost of fuel accounting for"
+  }
+]

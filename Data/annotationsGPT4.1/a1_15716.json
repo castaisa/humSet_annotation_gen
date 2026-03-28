@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "10",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "location name (Kilo 10)"
+  },
+  {
+    "quantity": "16",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "location name (Kilo 16)"
+  },
+  {
+    "quantity": "11",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "injured in an air attack"
+  },
+  {
+    "quantity": "seven",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "at least"
+  }
+]

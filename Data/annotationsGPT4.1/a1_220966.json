@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "three",
+    "unit": "communes",
+    "eventType": "EventO",
+    "eventDescription": "affected by attacks"
+  },
+  {
+    "quantity": "four",
+    "unit": "communes",
+    "eventType": "EventO",
+    "eventDescription": "total communes in Barsalogho Health District"
+  },
+  {
+    "quantity": "40%",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "IDPs registered in the North-Central region"
+  },
+  {
+    "quantity": "6",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "health facilities in operation"
+  },
+  {
+    "quantity": "15",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "total health facilities"
+  },
+  {
+    "quantity": "2 757",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "COVID-19 cases reported"
+  },
+  {
+    "quantity": "68",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "COVID-19 deaths reported"
+  }
+]

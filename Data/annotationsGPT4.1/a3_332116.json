@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "2,416",
+    "unit": "shelters",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "57%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported shelter as most needed assistance"
+  },
+  {
+    "quantity": "32%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported food as most needed assistance"
+  },
+  {
+    "quantity": "11%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reported NFIs as most needed assistance"
+  }
+]

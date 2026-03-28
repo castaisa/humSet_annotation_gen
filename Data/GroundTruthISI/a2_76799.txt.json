@@ -1,0 +1,243 @@
+[
+  {
+    "quantity": {
+      "text": "81",
+      "begin": 11,
+      "end": 13
+    },
+    "unit": {
+      "text": "suspected cases",
+      "begin": 14,
+      "end": 29
+    },
+    "eventDescription": {
+      "text": "have been reported",
+      "begin": 30,
+      "end": 48
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "39",
+      "begin": 73,
+      "end": 75
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 76,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 97,
+      "end": 105
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 109,
+      "end": 113
+    },
+    "unit": {
+      "text": "states",
+      "begin": 114,
+      "end": 120
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 205,
+      "end": 208
+    },
+    "eventDescription": {
+      "text": "death",
+      "begin": 209,
+      "end": 214
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "death",
+      "begin": 209,
+      "end": 214
+    }
+  },
+  {
+    "quantity": {
+      "text": "59%",
+      "begin": 241,
+      "end": 244
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 224,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "28%",
+      "begin": 273,
+      "end": 276
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 224,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "26%",
+      "begin": 289,
+      "end": 292
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 224,
+      "end": 239
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 254,
+      "end": 257
+    },
+    "unit": {
+      "text": "states",
+      "begin": 258,
+      "end": 264
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 330,
+      "end": 332
+    },
+    "unit": {
+      "text": "years",
+      "begin": 333,
+      "end": 338
+    }
+  },
+  {
+    "quantity": {
+      "text": "21",
+      "begin": 327,
+      "end": 329
+    },
+    "unit": {
+      "text": "years",
+      "begin": 333,
+      "end": 338
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 347,
+      "end": 349
+    },
+    "unit": {
+      "text": "years",
+      "begin": 352,
+      "end": 357
+    }
+  },
+  {
+    "quantity": {
+      "text": "51",
+      "begin": 350,
+      "end": 352
+    },
+    "unit": {
+      "text": "years",
+      "begin": 352,
+      "end": 357
+    }
+  },
+  {
+    "quantity": {
+      "text": "32",
+      "begin": 371,
+      "end": 373
+    },
+    "unit": {
+      "text": "years",
+      "begin": 374,
+      "end": 379
+    }
+  },
+  {
+    "quantity": {
+      "text": "84.6%",
+      "begin": 383,
+      "end": 388
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 392,
+      "end": 407
+    }
+  },
+  {
+    "quantity": {
+      "text": "2.6:1",
+      "begin": 441,
+      "end": 446
+    },
+    "eventDescription": {
+      "text": "male to female ratio",
+      "begin": 418,
+      "end": 438
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "176",
+      "begin": 505,
+      "end": 508
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 509,
+      "end": 524
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 529,
+      "end": 533
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 551,
+      "end": 559
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "deaths",
+      "begin": 534,
+      "end": 540
+    }
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 563,
+      "end": 565
+    },
+    "unit": {
+      "text": "states",
+      "begin": 566,
+      "end": 572
+    }
+  }
+]

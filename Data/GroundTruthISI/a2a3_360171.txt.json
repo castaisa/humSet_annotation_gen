@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 34,
+      "end": 36
+    },
+    "unit": {
+      "text": "Rohingya",
+      "begin": 42,
+      "end": 50
+    },
+    "eventDescription": {
+      "text": "detained in the Cox’s Bazar camps",
+      "begin": 56,
+      "end": 89
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 163,
+      "end": 168
+    },
+    "unit": {
+      "text": "Rohingya",
+      "begin": 169,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "reported to have returned",
+      "begin": 205,
+      "end": 230
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 189,
+      "end": 192
+    },
+    "unit": {
+      "text": "women",
+      "begin": 193,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "reported to have returned",
+      "begin": 205,
+      "end": 230
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 402,
+      "end": 405
+    },
+    "unit": {
+      "text": "Rohingya",
+      "begin": 406,
+      "end": 414
+    },
+    "eventDescription": {
+      "text": "were detained by the Armed Police Battalion (APBn)",
+      "begin": 415,
+      "end": 465
+    },
+    "eventType": "EventP"
+  }
+]

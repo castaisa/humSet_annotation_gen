@@ -1,0 +1,287 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "having at least one vulnerability",
+      "start": 107,
+      "end": 140
+    },
+    "modifier": {
+      "text": "over",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "more than half",
+      "start": 78,
+      "end": 92
+    },
+    "unit": {
+      "text": "households",
+      "start": 96,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "having at least one vulnerability",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 142,
+      "end": 145
+    },
+    "unit": {
+      "text": "households",
+      "start": 175,
+      "end": 185
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had a pregnant or breastfeeding woman",
+      "start": 186,
+      "end": 223
+    },
+    "quantity": {
+      "text": "one-third",
+      "start": 162,
+      "end": 171
+    },
+    "unit": {
+      "text": "households",
+      "start": 244,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had a pregnant or breastfeeding woman",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32%",
+      "start": 225,
+      "end": 228
+    },
+    "unit": {
+      "text": "households",
+      "start": 410,
+      "end": 420
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were female-headed",
+      "start": 255,
+      "end": 273
+    },
+    "quantity": {
+      "text": "a quarter",
+      "start": 231,
+      "end": 240
+    },
+    "unit": {
+      "text": "households",
+      "start": 474,
+      "end": 484
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were female-headed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25%",
+      "start": 275,
+      "end": 278
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "had high age-dependency ratios",
+      "start": 289,
+      "end": 319
+    },
+    "quantity": {
+      "text": "16%",
+      "start": 321,
+      "end": 324
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reporting being under threat of eviction",
+      "start": 421,
+      "end": 461
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nearly half",
+      "start": 395,
+      "end": 406
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reporting being under threat of eviction",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 463,
+      "end": 466
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "not having adults with any documentation",
+      "start": 485,
+      "end": 525
+    },
+    "quantity": {
+      "text": "70%",
+      "start": 527,
+      "end": 530
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "having experienced a security incident in the last three months",
+      "start": 545,
+      "end": 608
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nearly half",
+      "start": 533,
+      "end": 544
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "having experienced a security incident in the last three months",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "44%",
+      "start": 610,
+      "end": 613
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting a household member being missing or detained",
+      "start": 630,
+      "end": 684
+    },
+    "quantity": {
+      "text": "one-fifth",
+      "start": 620,
+      "end": 629
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting a household member being missing or detained",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "19%",
+      "start": 686,
+      "end": 689
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported actively making plans to leave within the next six months",
+      "start": 743,
+      "end": 809
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 738,
+      "end": 741
+    },
+    "unit": {
+      "text": "IDPs in Damboa",
+      "start": 722,
+      "end": 736
+    }
+  }
+]

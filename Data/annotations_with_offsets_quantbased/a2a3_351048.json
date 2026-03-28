@@ -1,0 +1,203 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "20.5",
+      "start": 136,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "national average reduced Coping Strategy Index",
+      "start": 58,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "19.1",
+      "start": 144,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "national average reduced Coping Strategy Index",
+      "start": 58,
+      "end": 104
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "nine out of ten",
+      "start": 170,
+      "end": 185
+    },
+    "eventDescription": {
+      "text": "interviewed households reported applying food-based coping mechanism",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 198,
+      "end": 208
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "89 percent",
+      "start": 210,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "interviewed households reported applying food-based coping mechanism",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 198,
+      "end": 208
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "at least one",
+      "start": 240,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "coping mechanisms applied",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "food-based coping mechanism",
+      "start": 253,
+      "end": 280
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 240,
+      "end": 248
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "nine percent",
+      "start": 334,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "increase since May 2020",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "93 percent",
+      "start": 429,
+      "end": 439
+    },
+    "eventDescription": {
+      "text": "female-headed households reported applying food-based coping mechanism",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "female-headed households",
+      "start": 403,
+      "end": 427
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than seven out of ten",
+      "start": 549,
+      "end": 575
+    },
+    "eventDescription": {
+      "text": "interviewed households indicated they bought food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 537,
+      "end": 547
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 549,
+      "end": 558
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "73 percent",
+      "start": 613,
+      "end": 623
+    },
+    "eventDescription": {
+      "text": "interviewed households indicated they bought food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 588,
+      "end": 598
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three percentage points",
+      "start": 670,
+      "end": 693
+    },
+    "eventDescription": {
+      "text": "increase from a month earlier",
+      "start": 694,
+      "end": 723
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "11 percent",
+      "start": 734,
+      "end": 744
+    },
+    "eventDescription": {
+      "text": "increase year-on-year",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "80 percent",
+      "start": 821,
+      "end": 831
+    },
+    "eventDescription": {
+      "text": "female-headed households indicated they bought food on credit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "female-headed households",
+      "start": 795,
+      "end": 819
+    }
+  }
+]

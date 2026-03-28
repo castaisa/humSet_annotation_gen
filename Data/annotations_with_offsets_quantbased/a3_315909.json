@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "315",
+      "start": 59,
+      "end": 62
+    },
+    "eventDescription": {
+      "text": "registered and wrote exams",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "candidate children",
+      "start": 63,
+      "end": 81
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "121",
+      "start": 83,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "registered and wrote exams",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 87,
+      "end": 92
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "194",
+      "start": 97,
+      "end": 100
+    },
+    "eventDescription": {
+      "text": "registered and wrote exams",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 101,
+      "end": 105
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "134",
+      "start": 369,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "provided with handwashing facilities",
+      "start": 410,
+      "end": 446
+    },
+    "unit": {
+      "text": "schools and examination centres",
+      "start": 373,
+      "end": 404
+    }
+  }
+]

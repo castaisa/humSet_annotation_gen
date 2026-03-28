@@ -1,0 +1,223 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 158,
+      "end": 186
+    },
+    "quantity": {
+      "text": "39 per cent",
+      "start": 58,
+      "end": 69
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 149,
+      "end": 157
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 250,
+      "end": 278
+    },
+    "quantity": {
+      "text": "36 per cent",
+      "start": 79,
+      "end": 90
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 241,
+      "end": 249
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 326,
+      "end": 354
+    },
+    "quantity": {
+      "text": "42%",
+      "start": 127,
+      "end": 130
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 317,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 450,
+      "end": 478
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "About half",
+      "start": 188,
+      "end": 198
+    },
+    "unit": {
+      "text": "the people in 24 per cent of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": 576,
+      "end": 604
+    },
+    "quantity": {
+      "text": "24 per cent",
+      "start": 213,
+      "end": 224
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 441,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26%",
+      "start": 236,
+      "end": 239
+    },
+    "unit": {
+      "text": "of sites",
+      "start": 559,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "Everyone",
+      "start": 280,
+      "end": 288
+    },
+    "unit": {
+      "text": "in 18 per cent of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18 per cent",
+      "start": 292,
+      "end": 303
+    },
+    "unit": {
+      "text": "of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1%",
+      "start": 313,
+      "end": 315
+    },
+    "unit": {
+      "text": "of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "a few",
+      "start": 366,
+      "end": 371
+    },
+    "unit": {
+      "text": "people at 15 per cent of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15 per cent",
+      "start": 382,
+      "end": 393
+    },
+    "unit": {
+      "text": "of sites",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "had access to soap and water",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4 per cent",
+      "start": 501,
+      "end": 511
+    },
+    "unit": {
+      "text": "of sites",
+      "start": null,
+      "end": null
+    }
+  }
+]

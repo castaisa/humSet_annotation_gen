@@ -1,0 +1,181 @@
+[
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 66,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "received a donation",
+      "begin": 43,
+      "end": 62
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "solar fridges",
+      "begin": 68,
+      "end": 81
+    }
+  },
+  {
+    "quantity": {
+      "text": "50,000",
+      "begin": 184,
+      "end": 190
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 158,
+      "end": 166
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kilograms of fodder",
+      "begin": 191,
+      "end": 210
+    }
+  },
+  {
+    "quantity": {
+      "text": "9,300",
+      "begin": 216,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 158,
+      "end": 166
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg of concentrate",
+      "begin": 221,
+      "end": 238
+    }
+  },
+  {
+    "quantity": {
+      "text": "240",
+      "begin": 247,
+      "end": 250
+    },
+    "unit": {
+      "text": "dairy cows",
+      "begin": 251,
+      "end": 261
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 366,
+      "end": 368
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 357,
+      "end": 365
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sprayer tanks",
+      "begin": 369,
+      "end": 382
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 386,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 357,
+      "end": 365
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "liters",
+      "begin": 390,
+      "end": 396
+    },
+    "modifier": {
+      "text": "each",
+      "begin": 397,
+      "end": 401
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 445,
+      "end": 446
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 436,
+      "end": 444
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sprayer tanks",
+      "begin": 468,
+      "end": 481
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 465,
+      "end": 467
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 436,
+      "end": 444
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sprayer tanks",
+      "begin": 468,
+      "end": 481
+    }
+  },
+  {
+    "quantity": {
+      "text": "600",
+      "begin": 485,
+      "end": 488
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 436,
+      "end": 444
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "liters",
+      "begin": 489,
+      "end": 495
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,000",
+      "begin": 522,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "support",
+      "begin": 508,
+      "end": 515
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "farmers",
+      "begin": 528,
+      "end": 535
+    }
+  }
+]

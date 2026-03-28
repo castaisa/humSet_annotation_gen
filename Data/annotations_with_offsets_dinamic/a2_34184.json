@@ -1,0 +1,48 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "distance from Maiduguri",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 262,
+      "end": 267
+    },
+    "quantity": {
+      "text": "4",
+      "start": 268,
+      "end": 269
+    },
+    "unit": {
+      "text": "kilometers",
+      "start": 270,
+      "end": 280
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 400,
+      "end": 406
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 336,
+      "end": 344
+    },
+    "quantity": {
+      "text": "10",
+      "start": 345,
+      "end": 347
+    },
+    "unit": {
+      "text": "people",
+      "start": 348,
+      "end": 354
+    }
+  }
+]

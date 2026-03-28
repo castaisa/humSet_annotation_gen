@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": "more than 70",
+    "unit": "vehicles",
+    "eventType": "EventO",
+    "eventDescription": "carrying families leaving the city",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "half",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "attending schools"
+  },
+  {
+    "quantity": "over 10,000",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "assisted",
+    "modifier": "over"
+  },
+  {
+    "quantity": "nearly 80,000",
+    "unit": "people",
+    "eventType": "EventA",
+    "eventDescription": "assisted",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "more than 17,350",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "registered",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "over 121,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "registered",
+    "modifier": "over"
+  }
+]

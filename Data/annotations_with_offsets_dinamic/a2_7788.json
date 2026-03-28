@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "ranked in Human Development Index",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "168",
+      "start": 115,
+      "end": 118
+    },
+    "unit": {
+      "text": "countries",
+      "start": 130,
+      "end": 139
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "ranked in Human Development Index",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "188",
+      "start": 126,
+      "end": 129
+    },
+    "unit": {
+      "text": "countries",
+      "start": 504,
+      "end": 513
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "ranked in global INFORM index",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 488,
+      "end": 492
+    },
+    "unit": {
+      "text": "countries",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "ranked in global INFORM index",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "191",
+      "start": 500,
+      "end": 503
+    },
+    "unit": {
+      "text": "countries",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "hazard and exposure index value",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8.1",
+      "start": 556,
+      "end": 559
+    },
+    "unit": {
+      "text": "hazard and exposure index",
+      "start": 527,
+      "end": 552
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "vulnerability index value",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6.9",
+      "start": 586,
+      "end": 589
+    },
+    "unit": {
+      "text": "vulnerability index",
+      "start": 563,
+      "end": 582
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "lack of coping capacity index value",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.9",
+      "start": 629,
+      "end": 632
+    },
+    "unit": {
+      "text": "lack of coping capacity index",
+      "start": 596,
+      "end": 625
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "lived below the poverty line",
+      "start": 892,
+      "end": 920
+    },
+    "quantity": {
+      "text": "half",
+      "start": 657,
+      "end": 661
+    },
+    "unit": {
+      "text": "Yemeni population",
+      "start": 866,
+      "end": 883
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22.2 million",
+      "start": 55,
+      "end": 67
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "start": 113,
+      "end": 147
+    },
+    "unit": {
+      "text": "people",
+      "start": 68,
+      "end": 74
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "75 per cent",
+      "start": 77,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "start": 113,
+      "end": 147
+    },
+    "unit": {
+      "text": "of the population",
+      "start": 89,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17.8 million",
+      "start": 149,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "are food insecure",
+      "start": 169,
+      "end": 186
+    },
+    "unit": {
+      "text": "people",
+      "start": 162,
+      "end": 168
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8.4 million",
+      "start": 191,
+      "end": 202
+    },
+    "eventDescription": {
+      "text": "do not know how they will obtain their next meal",
+      "start": 210,
+      "end": 258
+    },
+    "unit": {
+      "text": "people",
+      "start": 203,
+      "end": 209
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "183",
+      "start": 603,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "actively coordinating to deliver assistance",
+      "start": 672,
+      "end": 715
+    },
+    "unit": {
+      "text": "international and national partners",
+      "start": 607,
+      "end": 642
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "22",
+      "start": 771,
+      "end": 773
+    },
+    "eventDescription": {
+      "text": "priority districts across Yemen",
+      "start": 737,
+      "end": 768
+    },
+    "unit": {
+      "text": "governorates",
+      "start": 774,
+      "end": 786
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "over 7.6 million",
+      "start": 817,
+      "end": 833
+    },
+    "eventDescription": {
+      "text": "assisted monthly with some form of humanitarian assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 834,
+      "end": 840
+    },
+    "modifier": {
+      "text": "over",
+      "start": 817,
+      "end": 821
+    }
+  }
+]

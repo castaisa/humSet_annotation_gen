@@ -1,0 +1,71 @@
+[
+  {
+    "quantity": {
+      "text": "2.00",
+      "begin": 184,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "refugee households spending on average",
+      "begin": 137,
+      "end": 175
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "nearly",
+      "begin": 176,
+      "end": 182
+    },
+    "unit": {
+      "text": "more per household member",
+      "begin": 189,
+      "end": 214
+    }
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 681,
+      "end": 685
+    },
+    "unit": {
+      "text": "both refugee and IDP households",
+      "begin": 575,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "humanitarian actors are the main provider of food assistance",
+      "begin": 608,
+      "end": 668
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "around",
+      "begin": 674,
+      "end": 680
+    }
+  },
+  {
+    "quantity": {
+      "text": "three-quarters",
+      "begin": 690,
+      "end": 704
+    },
+    "unit": {
+      "text": "both refugee and IDP households",
+      "begin": 575,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "humanitarian actors are the main provider of food assistance",
+      "begin": 608,
+      "end": 668
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "around",
+      "begin": 674,
+      "end": 680
+    }
+  }
+]

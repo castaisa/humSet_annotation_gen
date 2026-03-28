@@ -1,0 +1,47 @@
+[
+  {
+    "quantity": "31,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached population",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "10,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "maximum capacity"
+  },
+  {
+    "quantity": "266",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "moved"
+  },
+  {
+    "quantity": "1,130",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "moved",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "2,580",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "accommodate",
+    "modifier": "estimated"
+  },
+  {
+    "quantity": "14,200",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "accommodate"
+  },
+  {
+    "quantity": "40 per cent",
+    "unit": "IDP camps",
+    "eventType": "EventO",
+    "eventDescription": "faces challenges of over-congestion"
+  }
+]

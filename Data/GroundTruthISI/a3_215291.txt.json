@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "6,143",
+      "begin": 304,
+      "end": 309
+    },
+    "unit": {
+      "text": "children",
+      "begin": 310,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "recruited by armed forces and armed groups.",
+      "begin": 324,
+      "end": 367
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 410,
+      "end": 413
+    },
+    "eventDescription": {
+      "text": "recruited by armed forces and armed groups.",
+      "begin": 324,
+      "end": 367
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "verified cases",
+      "begin": 417,
+      "end": 431
+    }
+  },
+  {
+    "quantity": {
+      "text": "4,910",
+      "begin": 433,
+      "end": 438
+    },
+    "eventDescription": {
+      "text": "recruited by armed forces and armed groups.",
+      "begin": 324,
+      "end": 367
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "verified cases",
+      "begin": 417,
+      "end": 431
+    }
+  },
+  {
+    "quantity": {
+      "text": "391",
+      "begin": 479,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "recruited by armed forces and armed groups.",
+      "begin": 324,
+      "end": 367
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "verified cases",
+      "begin": 417,
+      "end": 431
+    }
+  },
+  {
+    "quantity": {
+      "text": "172",
+      "begin": 504,
+      "end": 507
+    },
+    "eventDescription": {
+      "text": "recruited by armed forces and armed groups.",
+      "begin": 324,
+      "end": 367
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "verified cases",
+      "begin": 417,
+      "end": 431
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,442",
+      "begin": 525,
+      "end": 530
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 531,
+      "end": 535
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "begin": 554,
+      "end": 562
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "53",
+      "begin": 540,
+      "end": 542
+    },
+    "unit": {
+      "text": "girls",
+      "begin": 543,
+      "end": 548
+    },
+    "eventDescription": {
+      "text": "abducted",
+      "begin": 554,
+      "end": 562
+    },
+    "eventType": "EventP"
+  }
+]

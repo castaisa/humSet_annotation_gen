@@ -1,0 +1,242 @@
+[
+  {
+    "quantity": {
+      "text": "400,000",
+      "begin": 337,
+      "end": 344
+    },
+    "unit": {
+      "text": "individuals and households",
+      "begin": 345,
+      "end": 371
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 498,
+      "end": 501
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 489,
+      "end": 497
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "US$",
+      "begin": 502,
+      "end": 505
+    }
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 506,
+      "end": 508
+    },
+    "unit": {
+      "text": "transfers",
+      "begin": 509,
+      "end": 518
+    }
+  },
+  {
+    "quantity": {
+      "text": "400 000",
+      "begin": 542,
+      "end": 549
+    },
+    "unit": {
+      "text": "households",
+      "begin": 550,
+      "end": 560
+    }
+  },
+  {
+    "quantity": {
+      "text": "352,000",
+      "begin": 1033,
+      "end": 1040
+    },
+    "unit": {
+      "text": "original recipients",
+      "begin": 1048,
+      "end": 1067
+    },
+    "eventDescription": {
+      "text": "collected",
+      "begin": 1072,
+      "end": 1081
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 1108,
+      "end": 1110
+    },
+    "unit": {
+      "text": "dollars",
+      "begin": 1111,
+      "end": 1118
+    }
+  },
+  {
+    "quantity": {
+      "text": "400,000",
+      "begin": 1168,
+      "end": 1175
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 1155,
+      "end": 1162
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 1163,
+      "end": 1167
+    }
+  },
+  {
+    "quantity": {
+      "text": "88%",
+      "begin": 1185,
+      "end": 1188
+    },
+    "unit": {
+      "text": "women",
+      "begin": 1194,
+      "end": 1199
+    }
+  },
+  {
+    "quantity": {
+      "text": "550,000",
+      "begin": 1288,
+      "end": 1295
+    },
+    "unit": {
+      "text": "recipients",
+      "begin": 1296,
+      "end": 1306
+    }
+  },
+  {
+    "quantity": {
+      "text": "950 000",
+      "begin": 1370,
+      "end": 1377
+    },
+    "eventDescription": {
+      "text": "reach to",
+      "begin": 1361,
+      "end": 1369
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 1378,
+      "end": 1389
+    }
+  },
+  {
+    "quantity": {
+      "text": "one million",
+      "begin": 1744,
+      "end": 1755
+    },
+    "unit": {
+      "text": "people",
+      "begin": 1756,
+      "end": 1762
+    }
+  },
+  {
+    "quantity": {
+      "text": "two million",
+      "begin": 1789,
+      "end": 1800
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 1780,
+      "end": 1788
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 1801,
+      "end": 1807
+    }
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 2259,
+      "end": 2262
+    },
+    "unit": {
+      "text": "dollars",
+      "begin": 2263,
+      "end": 2270
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 2514,
+      "end": 2517
+    },
+    "unit": {
+      "text": "weeks",
+      "begin": 2518,
+      "end": 2523
+    }
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 2595,
+      "end": 2598
+    },
+    "eventDescription": {
+      "text": "distribution",
+      "begin": 2575,
+      "end": 2587
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "dollar",
+      "begin": 2599,
+      "end": 2605
+    }
+  },
+  {
+    "quantity": {
+      "text": "second",
+      "begin": 2622,
+      "end": 2628
+    },
+    "unit": {
+      "text": "group of recipients",
+      "begin": 2629,
+      "end": 2648
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 2804,
+      "end": 2807
+    },
+    "unit": {
+      "text": "group",
+      "begin": 2808,
+      "end": 2813
+    }
+  }
+]

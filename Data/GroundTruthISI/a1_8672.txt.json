@@ -1,0 +1,84 @@
+[
+  {
+    "quantity": {
+      "text": "89 percent",
+      "begin": 5,
+      "end": 15
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 19,
+      "end": 23
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 24,
+      "end": 33
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 48,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "displaced",
+      "begin": 24,
+      "end": 33
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "more than",
+      "begin": 38,
+      "end": 47
+    },
+    "unit": {
+      "text": "year",
+      "begin": 52,
+      "end": 56
+    }
+  },
+  {
+    "quantity": {
+      "text": "220,000",
+      "begin": 425,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "reaching",
+      "begin": 411,
+      "end": 419
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 420,
+      "end": 424
+    },
+    "unit": {
+      "text": "people",
+      "begin": 433,
+      "end": 439
+    }
+  },
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 904,
+      "end": 906
+    },
+    "unit": {
+      "text": "Community-Based Protection Networks (CBPNs)",
+      "begin": 907,
+      "end": 950
+    },
+    "eventDescription": {
+      "text": "enhanced community participation and engagement in identification of protection risks, strengthened IDPs’ own capacities to address these risks, as well as helped to develop the common protection service directory for facilitating referrals",
+      "begin": 956,
+      "end": 1196
+    },
+    "eventType": "EventA"
+  }
+]

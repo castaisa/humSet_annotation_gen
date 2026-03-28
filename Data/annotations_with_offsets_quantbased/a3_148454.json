@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "more than 11 million",
+      "start": 80,
+      "end": 100
+    },
+    "eventDescription": {
+      "text": "in need",
+      "start": 121,
+      "end": 128
+    },
+    "unit": {
+      "text": "people",
+      "start": 101,
+      "end": 107
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 80,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 90 percent",
+      "start": 150,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "poverty rate",
+      "start": 134,
+      "end": 146
+    },
+    "unit": {
+      "text": "percent",
+      "start": 158,
+      "end": 165
+    },
+    "modifier": {
+      "text": "over",
+      "start": 150,
+      "end": 154
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1,250",
+      "start": 205,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "official exchange rate",
+      "start": 176,
+      "end": 198
+    },
+    "unit": {
+      "text": "SYP for each USD1.00",
+      "start": 211,
+      "end": 231
+    }
+  }
+]

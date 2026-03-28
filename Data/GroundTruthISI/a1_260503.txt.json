@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "495",
+      "begin": 215,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "distributed essential learning materials and dignity kits",
+      "begin": 154,
+      "end": 211
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 219,
+      "end": 227
+    }
+  },
+  {
+    "quantity": {
+      "text": "220",
+      "begin": 229,
+      "end": 232
+    },
+    "eventDescription": {
+      "text": "distributed essential learning materials and dignity kits",
+      "begin": 154,
+      "end": 211
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 233,
+      "end": 238
+    }
+  },
+  {
+    "quantity": {
+      "text": "275",
+      "begin": 243,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "distributed essential learning materials and dignity kits",
+      "begin": 154,
+      "end": 211
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 247,
+      "end": 251
+    }
+  },
+  {
+    "quantity": {
+      "text": "150",
+      "begin": 412,
+      "end": 415
+    },
+    "modifier": {
+      "text": "additional",
+      "begin": 401,
+      "end": 411
+    },
+    "unit": {
+      "text": "sitting mats",
+      "begin": 416,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "distributed to children in the Unity State cattle camps",
+      "begin": 434,
+      "end": 489
+    },
+    "eventType": "EventA"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "quantity": "Four",
+    "unit": "Boko Haram suicide bombers",
+    "eventType": "EventP",
+    "eventDescription": "killed themselves"
+  },
+  {
+    "quantity": "seven",
+    "unit": "others",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "three",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "twelve",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped"
+  },
+  {
+    "quantity": "Five",
+    "unit": "Boko Haram militants",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "four",
+    "unit": "Nigerian soldiers",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "five",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "Two",
+    "unit": "People's Democratic Party (PDP) supporters",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "Five",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "six",
+    "unit": "Nigerian soldiers",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "Seven",
+    "unit": "soldiers",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "ten",
+    "unit": "Boko Haram militants",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "estimated at"
+  },
+  {
+    "quantity": "Two",
+    "unit": "Nigerian soldiers",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "two",
+    "unit": "Boko Haram militants",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  }
+]

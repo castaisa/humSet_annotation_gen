@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "4",
+    "unit": "health districts",
+    "eventType": "EventO",
+    "eventDescription": "covered in NW"
+  },
+  {
+    "quantity": "5",
+    "unit": "health districts",
+    "eventType": "EventO",
+    "eventDescription": "covered in SW"
+  },
+  {
+    "quantity": "6,485",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received the Measles & Rubella (MR) vaccine"
+  },
+  {
+    "quantity": "3,995",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "vaccinated against Polio"
+  },
+  {
+    "quantity": "3,352",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received Penta vaccines"
+  },
+  {
+    "quantity": "3,369",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received Pneumo vaccines"
+  },
+  {
+    "quantity": "718",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received BCG"
+  },
+  {
+    "quantity": "1,557",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "vaccinated against Yellow Fever"
+  },
+  {
+    "quantity": "1,886",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "vaccinated against Rotavirus"
+  },
+  {
+    "quantity": "2,069",
+    "unit": "pregnant women",
+    "eventType": "EventP",
+    "eventDescription": "received Tetanus & Diphtheria vaccines"
+  },
+  {
+    "quantity": "401",
+    "unit": "pregnant women",
+    "eventType": "EventP",
+    "eventDescription": "received intermittent treatment for malaria in pregnancy (IPT)"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "quantity": {
+      "text": "new COVID-19 cases",
+      "begin": 25,
+      "end": 43
+    },
+    "eventDescription": {
+      "text": "new COVID-19 cases",
+      "begin": 25,
+      "end": 43
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 48,
+      "end": 52
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 53,
+      "end": 59
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 53,
+      "end": 59
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,390",
+      "begin": 168,
+      "end": 173
+    },
+    "eventDescription": {
+      "text": "total number of cases confirmed",
+      "begin": 90,
+      "end": 121
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "total number of cases confirmed",
+      "begin": 90,
+      "end": 121
+    }
+  },
+  {
+    "quantity": {
+      "text": "98",
+      "begin": 179,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 182,
+      "end": 188
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 182,
+      "end": 188
+    }
+  },
+  {
+    "quantity": {
+      "text": "14 per cent",
+      "begin": 219,
+      "end": 230
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 210,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "reported among health workers",
+      "begin": 277,
+      "end": 306
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "the total confirmed cases",
+      "begin": 246,
+      "end": 271
+    }
+  },
+  {
+    "quantity": {
+      "text": "250",
+      "begin": 232,
+      "end": 235
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 236,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "reported among health workers",
+      "begin": 277,
+      "end": 306
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 397,
+      "end": 402
+    },
+    "unit": {
+      "text": "confirmed COVID-19 infections",
+      "begin": 415,
+      "end": 444
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 infections",
+      "begin": 415,
+      "end": 444
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "44 per cent",
+      "begin": 482,
+      "end": 493
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 472,
+      "end": 481
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 529,
+      "end": 543
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1,535",
+      "begin": 495,
+      "end": 500
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 501,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 529,
+      "end": 543
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "55",
+      "begin": 511,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "reported cases",
+      "begin": 529,
+      "end": 543
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 514,
+      "end": 520
+    }
+  },
+  {
+    "quantity": {
+      "text": "934",
+      "begin": 569,
+      "end": 572
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 573,
+      "end": 578
+    }
+  },
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 583,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 586,
+      "end": 592
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 586,
+      "end": 592
+    }
+  },
+  {
+    "quantity": {
+      "text": "496",
+      "begin": 608,
+      "end": 611
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 612,
+      "end": 617
+    }
+  },
+  {
+    "quantity": {
+      "text": "nine",
+      "begin": 622,
+      "end": 626
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 627,
+      "end": 633
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 627,
+      "end": 633
+    }
+  }
+]

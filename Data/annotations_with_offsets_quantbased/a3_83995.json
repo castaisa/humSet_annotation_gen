@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.84 million",
+      "start": 10,
+      "end": 22
+    },
+    "eventDescription": {
+      "text": "internally displaced",
+      "start": 38,
+      "end": 58
+    },
+    "unit": {
+      "text": "people",
+      "start": 23,
+      "end": 29
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 0,
+      "end": 9
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,483,566",
+      "start": 320,
+      "end": 329
+    },
+    "eventDescription": {
+      "text": "internally displaced",
+      "start": 38,
+      "end": 58
+    },
+    "unit": {
+      "text": "persons",
+      "start": 330,
+      "end": 337
+    }
+  }
+]

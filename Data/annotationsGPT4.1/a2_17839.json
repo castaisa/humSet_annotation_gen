@@ -1,0 +1,87 @@
+[
+  {
+    "quantity": "14,949",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "10,493",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "2,177",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "1,423",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "120",
+    "unit": "sea operations",
+    "eventType": "EventO",
+    "eventDescription": "operations conducted"
+  },
+  {
+    "quantity": "62 per cent",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "disembarked at the Tripoli Naval Base"
+  },
+  {
+    "quantity": "19 per cent",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "disembarked at Al Khums port"
+  },
+  {
+    "quantity": "11 per cent",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "disembarked at Azzawya"
+  },
+  {
+    "quantity": "14 per cent",
+    "unit": "Sudanese",
+    "eventType": "EventP",
+    "eventDescription": "nationality among rescued/intercepted"
+  },
+  {
+    "quantity": "12 per cent",
+    "unit": "Nigerians",
+    "eventType": "EventP",
+    "eventDescription": "nationality among rescued/intercepted"
+  },
+  {
+    "quantity": "10 per cent",
+    "unit": "Eritreans",
+    "eventType": "EventP",
+    "eventDescription": "nationality among rescued/intercepted"
+  },
+  {
+    "quantity": "Over 700",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "lost their lives or were declared missing at sea",
+    "modifier": "over"
+  },
+  {
+    "quantity": "9,768",
+    "unit": "non-food item (NFI) sets",
+    "eventType": "EventA",
+    "eventDescription": "provided at disembarkation points"
+  },
+  {
+    "quantity": "1,604",
+    "unit": "medical consultations",
+    "eventType": "EventA",
+    "eventDescription": "provided at disembarkation points"
+  }
+]

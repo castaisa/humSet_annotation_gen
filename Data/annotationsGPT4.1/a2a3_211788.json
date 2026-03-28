@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": "596,399",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with ES-NFI awareness raising sessions on prevention of COVID-19"
+  },
+  {
+    "quantity": "16",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces reached with ES-NFI awareness raising sessions"
+  },
+  {
+    "quantity": "12,807",
+    "unit": "IEC materials",
+    "eventType": "EventA",
+    "eventDescription": "IEC materials distributed"
+  },
+  {
+    "quantity": "9",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces where IEC materials distributed"
+  },
+  {
+    "quantity": "1,304",
+    "unit": "NFI kits",
+    "eventType": "EventA",
+    "eventDescription": "NFI kits distributed"
+  },
+  {
+    "quantity": "6",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces where NFI kits distributed"
+  },
+  {
+    "quantity": "182,663",
+    "unit": "face masks",
+    "eventType": "EventA",
+    "eventDescription": "face masks distributed"
+  },
+  {
+    "quantity": "4",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces where face masks distributed"
+  },
+  {
+    "quantity": "771",
+    "unit": "religious leaders",
+    "eventType": "EventP",
+    "eventDescription": "religious leaders received COVID-19 awareness raising training"
+  },
+  {
+    "quantity": "10",
+    "unit": "family tents",
+    "eventType": "EventA",
+    "eventDescription": "family tents distributed"
+  },
+  {
+    "quantity": "4",
+    "unit": "multi-purpose tents",
+    "eventType": "EventA",
+    "eventDescription": "multi-purpose tents distributed"
+  },
+  {
+    "quantity": "81",
+    "unit": "refugee housing units (RHUs)",
+    "eventType": "EventA",
+    "eventDescription": "refugee housing units distributed"
+  },
+  {
+    "quantity": "5",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces where tents and RHUs distributed"
+  }
+]

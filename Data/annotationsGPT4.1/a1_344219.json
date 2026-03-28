@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "7%",
+    "unit": "price",
+    "eventType": "EventO",
+    "eventDescription": "increase in price"
+  },
+  {
+    "quantity": "96%",
+    "unit": "price",
+    "eventType": "EventO",
+    "eventDescription": "six-month price increase"
+  },
+  {
+    "quantity": "59%",
+    "unit": "vendors",
+    "eventType": "EventO",
+    "eventDescription": "reported as unavailable"
+  },
+  {
+    "quantity": "6",
+    "unit": "percentage points",
+    "eventType": "EventO",
+    "eventDescription": "increase since March"
+  },
+  {
+    "quantity": "98%",
+    "unit": "price",
+    "eventType": "EventO",
+    "eventDescription": "increase since October 2020"
+  },
+  {
+    "quantity": "100%",
+    "unit": "surveyed vendors",
+    "eventType": "EventO",
+    "eventDescription": "recorded as available"
+  }
+]

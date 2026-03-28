@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in civilian impact incidents",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "78 per cent",
+      "start": 311,
+      "end": 322
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 278,
+      "end": 287
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "civilian impact incidents",
+      "start": 262,
+      "end": 287
+    },
+    "quantity": {
+      "text": "16",
+      "start": 324,
+      "end": 326
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 327,
+      "end": 336
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "time period",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5-11",
+      "start": 343,
+      "end": 347
+    },
+    "unit": {
+      "text": "July",
+      "start": 348,
+      "end": 352
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "incidents recorded in At Tuhayat and Zabid districts",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "88 per cent",
+      "start": 405,
+      "end": 416
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 426,
+      "end": 435
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "civilian casualties",
+      "start": 529,
+      "end": 548
+    },
+    "quantity": {
+      "text": "59",
+      "start": 526,
+      "end": 528
+    },
+    "unit": {
+      "text": "civilian casualties",
+      "start": 529,
+      "end": 548
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households affected",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14,424",
+      "start": 768,
+      "end": 774
+    },
+    "unit": {
+      "text": "households",
+      "start": 775,
+      "end": 785
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "incidents caused by airstrikes",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50 per cent",
+      "start": 823,
+      "end": 834
+    },
+    "unit": {
+      "text": "incidents",
+      "start": 842,
+      "end": 851
+    }
+  }
+]

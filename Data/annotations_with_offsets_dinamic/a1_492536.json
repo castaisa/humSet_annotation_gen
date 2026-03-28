@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "returned to their places of origin",
+      "start": 138,
+      "end": 172
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 45,
+      "end": 58
+    },
+    "quantity": {
+      "text": "28,000",
+      "start": 59,
+      "end": 65
+    },
+    "unit": {
+      "text": "people",
+      "start": 80,
+      "end": 86
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced from Dar’a Al-Balad and other areas",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36,000",
+      "start": 73,
+      "end": 79
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in shelters in Dar’a AlMahatta",
+      "start": 213,
+      "end": 243
+    },
+    "modifier": {
+      "text": "estimated",
+      "start": 192,
+      "end": 201
+    },
+    "quantity": {
+      "text": "1,400",
+      "start": 202,
+      "end": 207
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 208,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "residents of the camps in Dar’a Al-Balad",
+      "start": 254,
+      "end": 294
+    },
+    "quantity": {
+      "text": "2,000",
+      "start": 248,
+      "end": 253
+    },
+    "unit": {
+      "text": "residents",
+      "start": 254,
+      "end": 263
+    }
+  }
+]

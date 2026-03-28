@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "one-third",
+      "begin": 35,
+      "end": 44
+    },
+    "unit": {
+      "text": "delivery carried out at home",
+      "begin": 48,
+      "end": 76
+    }
+  },
+  {
+    "quantity": {
+      "text": "106",
+      "begin": 109,
+      "end": 112
+    },
+    "unit": {
+      "text": "babies",
+      "begin": 113,
+      "end": 119
+    }
+  },
+  {
+    "quantity": {
+      "text": "23%",
+      "begin": 277,
+      "end": 280
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 284,
+      "end": 289
+    }
+  }
+]

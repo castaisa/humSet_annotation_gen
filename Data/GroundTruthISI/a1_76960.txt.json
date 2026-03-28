@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 68,
+      "end": 71
+    },
+    "eventDescription": {
+      "text": "closure",
+      "begin": 57,
+      "end": 64
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "aid agencies",
+      "begin": 72,
+      "end": 84
+    }
+  },
+  {
+    "quantity": {
+      "text": "400,000",
+      "begin": 127,
+      "end": 134
+    },
+    "unit": {
+      "text": "people",
+      "begin": 135,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "rendered food insecure",
+      "begin": 146,
+      "end": 168
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 636,
+      "end": 638
+    },
+    "unit": {
+      "text": "months",
+      "begin": 639,
+      "end": 645
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 687,
+      "end": 693
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 646,
+      "end": 648
+    },
+    "unit": {
+      "text": "aid workers",
+      "begin": 649,
+      "end": 660
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 687,
+      "end": 693
+    },
+    "eventType": "EventP"
+  }
+]

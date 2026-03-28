@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": {
+      "text": "10-15",
+      "begin": 1011,
+      "end": 1016
+    },
+    "unit": {
+      "text": "days",
+      "begin": 1017,
+      "end": 1021
+    }
+  }
+]

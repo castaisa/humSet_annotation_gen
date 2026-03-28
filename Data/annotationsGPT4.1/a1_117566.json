@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "suspension period for payments of credit debts and mortgages"
+  },
+  {
+    "quantity": "14 million",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "allocated to increase the number of food supply centres"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "quantity": "4",
+    "unit": "MoH on site",
+    "eventType": "EventO",
+    "eventDescription": "MoH on site"
+  },
+  {
+    "quantity": "3",
+    "unit": "Standard Operating Procedures in place",
+    "eventType": "EventO",
+    "eventDescription": "Standard Operating Procedures in place"
+  },
+  {
+    "quantity": "2",
+    "unit": "Point of Entry staff trained on how to manage flows",
+    "eventType": "EventP",
+    "eventDescription": "Point of Entry staff trained on how to manage flows"
+  },
+  {
+    "quantity": "4",
+    "unit": "Point of Entry information provided",
+    "eventType": "EventA",
+    "eventDescription": "Point of Entry information provided"
+  },
+  {
+    "quantity": "1",
+    "unit": "Travellers know steps to take in case symptoms develop",
+    "eventType": "EventP",
+    "eventDescription": "Travellers know steps to take in case symptoms develop"
+  },
+  {
+    "quantity": "2",
+    "unit": "Traveller screening on site",
+    "eventType": "EventO",
+    "eventDescription": "Traveller screening on site"
+  },
+  {
+    "quantity": "2",
+    "unit": "Travellers know how to seek care",
+    "eventType": "EventP",
+    "eventDescription": "Travellers know how to seek care"
+  },
+  {
+    "quantity": "2",
+    "unit": "Staff trained on SOPs",
+    "eventType": "EventP",
+    "eventDescription": "Staff trained on SOPs"
+  },
+  {
+    "quantity": "2",
+    "unit": "Handwashing stations on site",
+    "eventType": "EventA",
+    "eventDescription": "Handwashing stations on site"
+  },
+  {
+    "quantity": "1",
+    "unit": "Isolation space exists",
+    "eventType": "EventA",
+    "eventDescription": "Isolation space exists"
+  },
+  {
+    "quantity": "2",
+    "unit": "Referral system in place",
+    "eventType": "EventO",
+    "eventDescription": "Referral system in place"
+  },
+  {
+    "quantity": "2",
+    "unit": "Equipped handwashing stations",
+    "eventType": "EventA",
+    "eventDescription": "Equipped handwashing stations"
+  },
+  {
+    "quantity": "2",
+    "unit": "Functional referral system",
+    "eventType": "EventO",
+    "eventDescription": "Functional referral system"
+  },
+  {
+    "quantity": "2",
+    "unit": "Temperatue check included in screening",
+    "eventType": "EventO",
+    "eventDescription": "Temperatue check included in screening"
+  },
+  {
+    "quantity": "2",
+    "unit": "Forms included in screening",
+    "eventType": "EventO",
+    "eventDescription": "Forms included in screening"
+  },
+  {
+    "quantity": "1",
+    "unit": "PPE available and worn",
+    "eventType": "EventA",
+    "eventDescription": "PPE available and worn"
+  }
+]

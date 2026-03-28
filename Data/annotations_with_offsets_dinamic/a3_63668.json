@@ -1,0 +1,87 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported cholera cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "300",
+      "start": 449,
+      "end": 452
+    },
+    "unit": {
+      "text": "cases",
+      "start": 457,
+      "end": 462
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "additional deaths",
+      "start": 533,
+      "end": 550
+    },
+    "quantity": {
+      "text": "two",
+      "start": 529,
+      "end": 532
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 544,
+      "end": 550
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total cholera cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "457",
+      "start": 590,
+      "end": 593
+    },
+    "unit": {
+      "text": "cases",
+      "start": 581,
+      "end": 586
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "total deaths",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 599,
+      "end": 603
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 604,
+      "end": 610
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "case fatality rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.87%",
+      "start": 616,
+      "end": 621
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "2362",
+    "unit": "mul\u019fpurpose Cash Based Interven\u019fons (CBI)",
+    "eventType": "EventA",
+    "eventDescription": "provided"
+  },
+  {
+    "quantity": "83%",
+    "unit": "of cash applicants",
+    "eventType": "EventP",
+    "eventDescription": "reported not being able to meet their basic needs"
+  },
+  {
+    "quantity": "33%",
+    "unit": "of cash applicants",
+    "eventType": "EventP",
+    "eventDescription": "were survivors of GBV"
+  },
+  {
+    "quantity": "75%",
+    "unit": "of cash applicants",
+    "eventType": "EventP",
+    "eventDescription": "cited serious medical concerns"
+  },
+  {
+    "quantity": "39%",
+    "unit": "of cash applicants",
+    "eventType": "EventP",
+    "eventDescription": "faced eviction"
+  },
+  {
+    "quantity": "38%",
+    "unit": "of cash applicants",
+    "eventType": "EventP",
+    "eventDescription": "attributed their application for cash assistance to job loss or reduced working hours"
+  },
+  {
+    "quantity": "143",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "provided their first CBI assistance"
+  },
+  {
+    "quantity": "43",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "received their second CBI assistance"
+  }
+]

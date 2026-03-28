@@ -1,0 +1,380 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported problems in accessing general healthcare services",
+      "start": 50,
+      "end": 108
+    },
+    "quantity": {
+      "text": "one in ten",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 39,
+      "end": 49
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "faced problems during getting treatment from hospitals",
+      "start": 296,
+      "end": 350
+    },
+    "quantity": {
+      "text": "9.9%",
+      "start": 273,
+      "end": 277
+    },
+    "unit": {
+      "text": "households",
+      "start": 261,
+      "end": 271
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reported lack of sufficient doctors",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "70.2%",
+      "start": 401,
+      "end": 406
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 392,
+      "end": 399
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reported lack of sufficient nurse",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "39.6%",
+      "start": 435,
+      "end": 440
+    },
+    "unit": {
+      "text": "nurse",
+      "start": 428,
+      "end": 433
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reported lack of medical equipment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38.8%",
+      "start": 470,
+      "end": 475
+    },
+    "unit": {
+      "text": "medical equipment",
+      "start": 451,
+      "end": 468
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reported lack of medicine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "38.0%",
+      "start": 496,
+      "end": 501
+    },
+    "unit": {
+      "text": "medicine",
+      "start": 486,
+      "end": 494
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reported lack of beds",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26.1%",
+      "start": 518,
+      "end": 523
+    },
+    "unit": {
+      "text": "beds",
+      "start": 512,
+      "end": 516
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reported higher fees of doctors",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20.4%",
+      "start": 553,
+      "end": 558
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 544,
+      "end": 551
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "faced unwillingness of doctors to provide treatment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23.3%",
+      "start": 628,
+      "end": 633
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 598,
+      "end": 605
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "faced unwillingness of hospitals to admit patients",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20.0%",
+      "start": 686,
+      "end": 691
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": 657,
+      "end": 666
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "faced bribery",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13.9%",
+      "start": 706,
+      "end": 711
+    },
+    "unit": {
+      "text": "bribery",
+      "start": 697,
+      "end": 704
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rural people complained about lack of doctors",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "75.0%",
+      "start": 781,
+      "end": 786
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 772,
+      "end": 779
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "urban people complained about lack of doctors",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "63.8%",
+      "start": 791,
+      "end": 796
+    },
+    "unit": {
+      "text": "doctors",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rural people complained about lack of nurses",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42.9%",
+      "start": 810,
+      "end": 815
+    },
+    "unit": {
+      "text": "nurses",
+      "start": 802,
+      "end": 808
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "urban people complained about lack of nurses",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35.2%",
+      "start": 820,
+      "end": 825
+    },
+    "unit": {
+      "text": "nurses",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rural people complained about lack of adequate medical equipment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40.0%",
+      "start": 856,
+      "end": 861
+    },
+    "unit": {
+      "text": "medical equipment",
+      "start": 837,
+      "end": 854
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "urban people complained about lack of adequate medical equipment",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "37.1%",
+      "start": 866,
+      "end": 871
+    },
+    "unit": {
+      "text": "medical equipment",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rural people complained about lack of beds",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29.3%",
+      "start": 880,
+      "end": 885
+    },
+    "unit": {
+      "text": "beds",
+      "start": 874,
+      "end": 878
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "urban people complained about lack of beds",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21.9%",
+      "start": 890,
+      "end": 895
+    },
+    "unit": {
+      "text": "beds",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rural people complained about increase of doctor’s fees",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "23.6%",
+      "start": 928,
+      "end": 933
+    },
+    "unit": {
+      "text": "doctor’s fees",
+      "start": 913,
+      "end": 926
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "urban people complained about increase of doctor’s fees",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16.2%",
+      "start": 937,
+      "end": 942
+    },
+    "unit": {
+      "text": "doctor’s fees",
+      "start": null,
+      "end": null
+    }
+  }
+]

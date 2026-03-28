@@ -1,0 +1,238 @@
+[
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 113,
+      "end": 117
+    },
+    "modifier": {
+      "text": "More than",
+      "begin": 103,
+      "end": 112
+    },
+    "unit": {
+      "text": "households",
+      "begin": 125,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "reported sickness of their family members during the pandemic",
+      "begin": 136,
+      "end": 197
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "60.8%",
+      "begin": 232,
+      "end": 237
+    },
+    "unit": {
+      "text": "households",
+      "begin": 125,
+      "end": 135
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 226,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "reported that they or their family members fell into sickness at least once",
+      "begin": 238,
+      "end": 313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "72.4%",
+      "begin": 473,
+      "end": 478
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "begin": 392,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "common cold",
+      "begin": 460,
+      "end": 471
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "71.8%",
+      "begin": 495,
+      "end": 500
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "begin": 392,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "common fever",
+      "begin": 481,
+      "end": 493
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "14.8%",
+      "begin": 524,
+      "end": 529
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "begin": 392,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "high blood pressure",
+      "begin": 503,
+      "end": 522
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12.9%",
+      "begin": 542,
+      "end": 547
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "begin": 392,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "diabetes",
+      "begin": 532,
+      "end": 540
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8.0%",
+      "begin": 567,
+      "end": 571
+    },
+    "unit": {
+      "text": "respondents and their family members",
+      "begin": 392,
+      "end": 428
+    },
+    "eventDescription": {
+      "text": "hypertension",
+      "begin": 553,
+      "end": 565
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2.1%",
+      "begin": 598,
+      "end": 602
+    },
+    "unit": {
+      "text": "households",
+      "begin": 606,
+      "end": 616
+    },
+    "eventDescription": {
+      "text": "had coronavirus infected patients",
+      "begin": 617,
+      "end": 650
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 745,
+      "end": 747
+    },
+    "eventDescription": {
+      "text": "family members who fell into sickness during the lockdown",
+      "begin": 662,
+      "end": 719
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "aged",
+      "begin": 732,
+      "end": 736
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 737,
+      "end": 744
+    }
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 752,
+      "end": 754
+    },
+    "eventDescription": {
+      "text": "family members who fell into sickness during the lockdown",
+      "begin": 662,
+      "end": 719
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "aged",
+      "begin": 732,
+      "end": 736
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 737,
+      "end": 744
+    }
+  },
+  {
+    "quantity": {
+      "text": "55.1%",
+      "begin": 882,
+      "end": 887
+    },
+    "eventDescription": {
+      "text": "female household members were more affected by different diseases than their male counterparts",
+      "begin": 779,
+      "end": 873
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "households",
+      "begin": 888,
+      "end": 898
+    }
+  },
+  {
+    "quantity": {
+      "text": "64.6%",
+      "begin": 921,
+      "end": 926
+    },
+    "eventDescription": {
+      "text": "female household members were more affected by different diseases than their male counterparts",
+      "begin": 779,
+      "end": 873
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "households",
+      "begin": 927,
+      "end": 937
+    }
+  }
+]

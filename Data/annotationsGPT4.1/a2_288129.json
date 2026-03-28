@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "Over 1.87 million",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "living in crowded settlements",
+    "modifier": "over"
+  },
+  {
+    "quantity": "1.1 million",
+    "unit": "refugees",
+    "eventType": "EventP",
+    "eventDescription": "living in crowded settlements"
+  },
+  {
+    "quantity": "two-week",
+    "unit": "quarantine",
+    "eventType": "EventO",
+    "eventDescription": "placed in quarantine"
+  }
+]

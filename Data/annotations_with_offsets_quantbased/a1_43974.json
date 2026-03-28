@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,420",
+      "start": 82,
+      "end": 87
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 88,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "159",
+      "start": 186,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from FHI360 clinic Banki in Bama",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 179,
+      "end": 184
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "53",
+      "start": 232,
+      "end": 234
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from Gamboru C MCH Clinic in Ngala",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 235,
+      "end": 240
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "53",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from Kurbagayi MCH in Kwaya-Kusar",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Five",
+      "start": 329,
+      "end": 333
+    },
+    "eventDescription": {
+      "text": "associated deaths from severe acute malnutrition reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 345,
+      "end": 351
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 406,
+      "end": 407
+    },
+    "eventDescription": {
+      "text": "associated deaths from severe acute malnutrition reported in UMTH in Jere",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 345,
+      "end": 351
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 434,
+      "end": 435
+    },
+    "eventDescription": {
+      "text": "associated deaths from severe acute malnutrition reported in Gumsuri Clinic in Damboa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 345,
+      "end": 351
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 478,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "associated death from severe acute malnutrition reported in General Hospital Magumeri in Magumeri",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "death",
+      "start": 505,
+      "end": 510
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "One",
+      "start": 512,
+      "end": 515
+    },
+    "eventDescription": {
+      "text": "neonatal death reported through EWARS from UMTH in Jere",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "neonatal death",
+      "start": 516,
+      "end": 530
+    }
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 74,
+      "end": 75
+    },
+    "eventDescription": {
+      "text": "MoH on site",
+      "begin": 61,
+      "end": 72
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 118,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "Standard Operating Procedures in place",
+      "begin": 78,
+      "end": 116
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 175,
+      "end": 176
+    },
+    "eventDescription": {
+      "text": "Point of Entry staff trained on how to manage flows",
+      "begin": 122,
+      "end": 173
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 216,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "Point of Entry information provided",
+      "begin": 179,
+      "end": 214
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 276,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "Travellers know steps to take in case symptoms develop",
+      "begin": 220,
+      "end": 274
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 309,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "Traveller screening on site",
+      "begin": 280,
+      "end": 307
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 347,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "Travellers know how to seek care",
+      "begin": 313,
+      "end": 345
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 374,
+      "end": 375
+    },
+    "eventDescription": {
+      "text": "Staff trained on SOPs",
+      "begin": 351,
+      "end": 372
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 408,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "Handwashing stations on site",
+      "begin": 378,
+      "end": 406
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 436,
+      "end": 437
+    },
+    "eventDescription": {
+      "text": "Isolation space exists",
+      "begin": 412,
+      "end": 434
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2)",
+      "begin": 466,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "Referral system in place",
+      "begin": 440,
+      "end": 464
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "(2",
+      "begin": 500,
+      "end": 502
+    },
+    "eventDescription": {
+      "text": "Equipped handwashing stations",
+      "begin": 470,
+      "end": 499
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 533,
+      "end": 534
+    },
+    "eventDescription": {
+      "text": "Functional referral system",
+      "begin": 505,
+      "end": 531
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 577,
+      "end": 578
+    },
+    "eventDescription": {
+      "text": "Temperatue check included in screening",
+      "begin": 537,
+      "end": 575
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 610,
+      "end": 611
+    },
+    "eventDescription": {
+      "text": "Forms included in screening",
+      "begin": 581,
+      "end": 608
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 638,
+      "end": 639
+    },
+    "eventDescription": {
+      "text": "PPE available and worn",
+      "begin": 614,
+      "end": 636
+    },
+    "eventType": "EventO"
+  }
+]

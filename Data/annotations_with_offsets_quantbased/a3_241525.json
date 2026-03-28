@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "33 per cent",
+      "start": 17,
+      "end": 28
+    },
+    "eventDescription": {
+      "text": "exclusively breastfed",
+      "start": 61,
+      "end": 82
+    },
+    "unit": {
+      "text": "infants below six months",
+      "start": 32,
+      "end": 56
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "46 per cent",
+      "start": 94,
+      "end": 105
+    },
+    "eventDescription": {
+      "text": "continue to breastfeed their infants up to 12 months",
+      "start": 117,
+      "end": 169
+    },
+    "unit": {
+      "text": "mothers",
+      "start": 109,
+      "end": 116
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15 per cent",
+      "start": 176,
+      "end": 187
+    },
+    "eventDescription": {
+      "text": "continue to breastfeed the child up to 24 months",
+      "start": 188,
+      "end": 236
+    },
+    "unit": {
+      "text": "mothers",
+      "start": 109,
+      "end": 116
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15 per cent",
+      "start": 296,
+      "end": 307
+    },
+    "eventDescription": {
+      "text": "receiving the minimum dietary diversity",
+      "start": 332,
+      "end": 371
+    },
+    "unit": {
+      "text": "children 6-23 months",
+      "start": 311,
+      "end": 331
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9 per cent",
+      "start": 382,
+      "end": 392
+    },
+    "eventDescription": {
+      "text": "consuming the minimum acceptable diet",
+      "start": 393,
+      "end": 430
+    },
+    "unit": {
+      "text": "children 6-23 months",
+      "start": 311,
+      "end": 331
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50 per cent",
+      "start": 466,
+      "end": 477
+    },
+    "eventDescription": {
+      "text": "bottle-fed",
+      "start": 501,
+      "end": 511
+    },
+    "unit": {
+      "text": "infants 0-23 months",
+      "start": 481,
+      "end": 500
+    }
+  }
+]

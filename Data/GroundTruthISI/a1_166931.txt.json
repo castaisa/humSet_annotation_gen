@@ -1,0 +1,61 @@
+[
+  {
+    "quantity": {
+      "text": "100 per cent",
+      "begin": 339,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "learning modality has the capacity to run",
+      "begin": 297,
+      "end": 338
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "online",
+      "begin": 352,
+      "end": 358
+    }
+  },
+  {
+    "quantity": {
+      "text": "850",
+      "begin": 529,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "increase in the number of children officially registered",
+      "begin": 434,
+      "end": 490
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 523,
+      "end": 528
+    },
+    "unit": {
+      "text": "children",
+      "begin": 533,
+      "end": 541
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 per cent",
+      "begin": 543,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 555,
+      "end": 563
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children",
+      "begin": 533,
+      "end": 541
+    }
+  }
+]

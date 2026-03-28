@@ -1,0 +1,223 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "vaccinated",
+      "start": 152,
+      "end": 162
+    },
+    "quantity": {
+      "text": "3,133,602",
+      "start": 101,
+      "end": 110
+    },
+    "unit": {
+      "text": "children",
+      "start": 111,
+      "end": 119
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "coverage achieved",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "99 per cent",
+      "start": 188,
+      "end": 199
+    },
+    "unit": {
+      "text": "of the target population",
+      "start": 200,
+      "end": 224
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "procured",
+      "start": 268,
+      "end": 276
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 277,
+      "end": 286
+    },
+    "quantity": {
+      "text": "more than 3.9 million",
+      "start": 277,
+      "end": 298
+    },
+    "unit": {
+      "text": "bOPV",
+      "start": 299,
+      "end": 303
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "procured",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "124,479",
+      "start": 308,
+      "end": 315
+    },
+    "unit": {
+      "text": "IPV doses",
+      "start": 316,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "supported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24",
+      "start": 469,
+      "end": 471
+    },
+    "unit": {
+      "text": "regional cold room facilities",
+      "start": 472,
+      "end": 501
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "installed",
+      "start": 874,
+      "end": 883
+    },
+    "quantity": {
+      "text": "one",
+      "start": 884,
+      "end": 887
+    },
+    "unit": {
+      "text": "electric backup generator",
+      "start": 888,
+      "end": 913
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "generator capacity",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15 kilowatts",
+      "start": 933,
+      "end": 945
+    },
+    "unit": {
+      "text": "capacity",
+      "start": 921,
+      "end": 929
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "procured and distributed",
+      "start": 1276,
+      "end": 1300
+    },
+    "quantity": {
+      "text": "1.2 million",
+      "start": 1301,
+      "end": 1312
+    },
+    "unit": {
+      "text": "vaccine cards",
+      "start": 1313,
+      "end": 1326
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "procured and distributed",
+      "start": 1608,
+      "end": 1632
+    },
+    "quantity": {
+      "text": "2.2 million",
+      "start": 1328,
+      "end": 1339
+    },
+    "unit": {
+      "text": "registration forms",
+      "start": 1340,
+      "end": 1358
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "procured and distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "850,00",
+      "start": 1360,
+      "end": 1366
+    },
+    "unit": {
+      "text": "monthly tally sheets",
+      "start": 1367,
+      "end": 1387
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "procured and distributed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12,000",
+      "start": 1392,
+      "end": 1398
+    },
+    "unit": {
+      "text": "data consolidation forms",
+      "start": 1399,
+      "end": 1423
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "received long lasting insecticidal nets",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,200",
+      "start": 1439,
+      "end": 1444
+    },
+    "unit": {
+      "text": "people",
+      "start": 1445,
+      "end": 1451
+    }
+  }
+]

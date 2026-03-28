@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "10",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "gatherings prohibited in groups larger than"
+  },
+  {
+    "quantity": "one",
+    "unit": "week",
+    "eventType": "EventO",
+    "eventDescription": "land borders closed for"
+  }
+]

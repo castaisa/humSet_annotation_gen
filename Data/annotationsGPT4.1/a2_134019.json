@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "4,266",
+    "unit": "views",
+    "eventType": "EventO",
+    "eventDescription": "new views of UNICEF videos"
+  },
+  {
+    "quantity": "7,286",
+    "unit": "views",
+    "eventType": "EventO",
+    "eventDescription": "total views of UNICEF videos"
+  },
+  {
+    "quantity": "106",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children in foster families provided with food baskets"
+  },
+  {
+    "quantity": "two",
+    "unit": "provisions of food baskets",
+    "eventType": "EventA",
+    "eventDescription": "planned provisions of food baskets for the rest of 2020"
+  }
+]

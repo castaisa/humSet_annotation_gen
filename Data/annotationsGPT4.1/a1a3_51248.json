@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "5,000",
+    "unit": "claims",
+    "eventType": "EventO",
+    "eventDescription": "asylum claims processed",
+    "modifier": "about"
+  },
+  {
+    "quantity": "6,000",
+    "unit": "claims",
+    "eventType": "EventO",
+    "eventDescription": "asylum claims processed",
+    "modifier": "about"
+  },
+  {
+    "quantity": "13,535",
+    "unit": "asylum applications",
+    "eventType": "EventO",
+    "eventDescription": "asylum applications received"
+  },
+  {
+    "quantity": "1.4 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people admitted"
+  }
+]

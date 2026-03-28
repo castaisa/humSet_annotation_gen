@@ -1,0 +1,121 @@
+[
+  {
+    "quantity": {
+      "text": "22.2 million",
+      "begin": 64,
+      "end": 76
+    },
+    "unit": {
+      "text": "people",
+      "begin": 77,
+      "end": 83
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "begin": 122,
+      "end": 156
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "75 per cent",
+      "begin": 86,
+      "end": 97
+    },
+    "unit": {
+      "text": "population",
+      "begin": 105,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance",
+      "begin": 122,
+      "end": 156
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "17.8 million",
+      "begin": 169,
+      "end": 181
+    },
+    "unit": {
+      "text": "people",
+      "begin": 182,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "begin": 193,
+      "end": 206
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8.4 million",
+      "begin": 211,
+      "end": 222
+    },
+    "unit": {
+      "text": "people",
+      "begin": 223,
+      "end": 229
+    },
+    "eventDescription": {
+      "text": "do not know how they will obtain their next meal",
+      "begin": 230,
+      "end": 278
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "234",
+      "begin": 600,
+      "end": 603
+    },
+    "unit": {
+      "text": "international and national partners",
+      "begin": 604,
+      "end": 639
+    }
+  },
+  {
+    "quantity": {
+      "text": "22",
+      "begin": 774,
+      "end": 776
+    },
+    "unit": {
+      "text": "governorates",
+      "begin": 777,
+      "end": 789
+    }
+  },
+  {
+    "quantity": {
+      "text": "7.8 million",
+      "begin": 824,
+      "end": 835
+    },
+    "eventDescription": {
+      "text": "assisted",
+      "begin": 810,
+      "end": 818
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 819,
+      "end": 823
+    },
+    "unit": {
+      "text": "people",
+      "begin": 836,
+      "end": 842
+    }
+  }
+]

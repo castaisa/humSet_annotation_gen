@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 119,
+      "end": 124
+    },
+    "unit": {
+      "text": "editions",
+      "begin": 125,
+      "end": 133
+    }
+  },
+  {
+    "quantity": {
+      "text": "155 million",
+      "begin": 182,
+      "end": 193
+    },
+    "unit": {
+      "text": "people",
+      "begin": 194,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "estimated to be in acute high food insecurity (IPC/CH Phase 3 or above)",
+      "begin": 206,
+      "end": 277
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20 million",
+      "begin": 317,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "estimated to be in acute high food insecurity (IPC/CH Phase 3 or above)",
+      "begin": 206,
+      "end": 277
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "55",
+      "begin": 285,
+      "end": 287
+    },
+    "unit": {
+      "text": "countries/territories",
+      "begin": 288,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "41 million",
+      "begin": 467,
+      "end": 477
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 462,
+      "end": 466
+    },
+    "unit": {
+      "text": "people",
+      "begin": 478,
+      "end": 484
+    },
+    "eventDescription": {
+      "text": "at risk of falling into famine or famine-like conditions",
+      "begin": 503,
+      "end": 559
+    },
+    "eventType": "EventO"
+  }
+]

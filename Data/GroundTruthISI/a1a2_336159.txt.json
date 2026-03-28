@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "86 per cent",
+      "begin": 404,
+      "end": 415
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "begin": 419,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "highly vulnerable",
+      "begin": 442,
+      "end": 459
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "70 per cent",
+      "begin": 491,
+      "end": 502
+    },
+    "unit": {
+      "text": "Rohingya refugees",
+      "begin": 419,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "highly vulnerable",
+      "begin": 442,
+      "end": 459
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "up from",
+      "begin": 483,
+      "end": 490
+    }
+  },
+  {
+    "quantity": {
+      "text": "51 per cent",
+      "begin": 564,
+      "end": 575
+    },
+    "unit": {
+      "text": "local community",
+      "begin": 542,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "moderately or highly vulnerable",
+      "begin": 587,
+      "end": 618
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "41 per cent",
+      "begin": 631,
+      "end": 642
+    },
+    "unit": {
+      "text": "local community",
+      "begin": 542,
+      "end": 557
+    },
+    "eventDescription": {
+      "text": "moderately or highly vulnerable",
+      "begin": 587,
+      "end": 618
+    },
+    "eventType": "EventP"
+  }
+]

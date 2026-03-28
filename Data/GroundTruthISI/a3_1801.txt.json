@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "17.5 per cent",
+      "begin": 493,
+      "end": 506
+    },
+    "unit": {
+      "text": "hospitals",
+      "begin": 510,
+      "end": 519
+    },
+    "eventDescription": {
+      "text": "not operational",
+      "begin": 618,
+      "end": 633
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20 per cent",
+      "begin": 521,
+      "end": 532
+    },
+    "unit": {
+      "text": "primary health care facilities",
+      "begin": 536,
+      "end": 566
+    },
+    "eventDescription": {
+      "text": "not operational",
+      "begin": 618,
+      "end": 633
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "eight per cent",
+      "begin": 571,
+      "end": 585
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 595,
+      "end": 612
+    },
+    "eventDescription": {
+      "text": "not operational",
+      "begin": 618,
+      "end": 633
+    },
+    "eventType": "EventO"
+  }
+]

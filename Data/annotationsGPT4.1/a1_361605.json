@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "36",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths recorded"
+  },
+  {
+    "quantity": "64%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths due to causes classified as 'Others'"
+  },
+  {
+    "quantity": "23",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths due to causes classified as 'Others'"
+  },
+  {
+    "quantity": "8%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as still birth (Born Dead)"
+  },
+  {
+    "quantity": "3",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as still birth (Born Dead)"
+  },
+  {
+    "quantity": "16%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as neonatal (<28 days old)"
+  },
+  {
+    "quantity": "6",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as neonatal (<28 days old)"
+  },
+  {
+    "quantity": "3%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as infectious disease"
+  },
+  {
+    "quantity": "1",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "death as infectious disease"
+  },
+  {
+    "quantity": "6%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as maternal death"
+  },
+  {
+    "quantity": "2",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as maternal death"
+  },
+  {
+    "quantity": "3%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths as severe acute respiratory infection (SARI)"
+  },
+  {
+    "quantity": "1",
+    "unit": "death",
+    "eventType": "EventP",
+    "eventDescription": "death as severe acute respiratory infection (SARI)"
+  },
+  {
+    "quantity": "25%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths occurred in health facilities"
+  },
+  {
+    "quantity": "75%",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths occurred at homes"
+  }
+]

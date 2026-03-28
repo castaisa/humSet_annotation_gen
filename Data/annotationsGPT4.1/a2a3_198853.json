@@ -1,0 +1,45 @@
+[
+  {
+    "quantity": "12 percent",
+    "unit": "red sorghum price increase",
+    "eventType": "EventO",
+    "eventDescription": "price increase"
+  },
+  {
+    "quantity": "5,200",
+    "unit": "SOS",
+    "eventType": "EventO",
+    "eventDescription": "price of red sorghum in first week of June"
+  },
+  {
+    "quantity": "5,800",
+    "unit": "SOS",
+    "eventType": "EventO",
+    "eventDescription": "price of red sorghum in fourth week of June"
+  },
+  {
+    "quantity": "nine percent",
+    "unit": "higher than June 2019",
+    "eventType": "EventO",
+    "eventDescription": "price comparison to June 2019"
+  },
+  {
+    "quantity": "eight percent",
+    "unit": "below the five-year average",
+    "eventType": "EventO",
+    "eventDescription": "price comparison to five-year average"
+  },
+  {
+    "quantity": "20 kg",
+    "unit": "per daily wage",
+    "eventType": "EventO",
+    "eventDescription": "daily wage-to-sorghum terms of trade in May"
+  },
+  {
+    "quantity": "18 kg",
+    "unit": "per daily wage",
+    "eventType": "EventO",
+    "eventDescription": "daily wage-to-sorghum terms of trade in June",
+    "modifier": "nearly"
+  }
+]

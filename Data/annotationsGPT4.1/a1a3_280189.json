@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "Seventy-six per cent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "resided in shelters with walls"
+  },
+  {
+    "quantity": "Eighteen per cent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "were residing in traditional shelters"
+  },
+  {
+    "quantity": "6 per cent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "were living in emergency/makeshift shelters"
+  },
+  {
+    "quantity": "82 per cent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "lived in shelters with walls"
+  },
+  {
+    "quantity": "9 per cent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "were living in emergency/makeshift shelters"
+  },
+  {
+    "quantity": "10 per cent",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "were dwelling in traditional shelters"
+  },
+  {
+    "quantity": "Twenty-six per cent",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "found their houses in their locations of origin either fully or partially damaged"
+  },
+  {
+    "quantity": "Seventyfour per cent",
+    "unit": "houses of returnees",
+    "eventType": "EventO",
+    "eventDescription": "were not damaged upon their return"
+  }
+]

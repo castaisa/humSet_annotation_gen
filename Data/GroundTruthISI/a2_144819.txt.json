@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": {
+      "text": "1,500",
+      "begin": 145,
+      "end": 150
+    },
+    "eventDescription": {
+      "text": "distributing",
+      "begin": 132,
+      "end": 144
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "coat kits",
+      "begin": 151,
+      "end": 160
+    }
+  },
+  {
+    "quantity": {
+      "text": "3,800",
+      "begin": 165,
+      "end": 170
+    },
+    "eventDescription": {
+      "text": "distributing",
+      "begin": 132,
+      "end": 144
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "blankets",
+      "begin": 171,
+      "end": 179
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 283,
+      "end": 287
+    },
+    "unit": {
+      "text": "Venezuelan community organizations",
+      "begin": 288,
+      "end": 322
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 344,
+      "end": 346
+    },
+    "unit": {
+      "text": "delivery points",
+      "begin": 347,
+      "end": 362
+    }
+  },
+  {
+    "quantity": {
+      "text": "450",
+      "begin": 573,
+      "end": 576
+    },
+    "unit": {
+      "text": "kits",
+      "begin": 577,
+      "end": 581
+    },
+    "eventDescription": {
+      "text": "handed out",
+      "begin": 590,
+      "end": 600
+    },
+    "eventType": "EventA"
+  }
+]

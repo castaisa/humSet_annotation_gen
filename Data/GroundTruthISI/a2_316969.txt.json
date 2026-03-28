@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "16 to 22 percent",
+      "begin": 492,
+      "end": 508
+    },
+    "eventDescription": {
+      "text": "indica- tor showed",
+      "begin": 442,
+      "end": 460
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "growth rates",
+      "begin": 470,
+      "end": 482
+    }
+  }
+]

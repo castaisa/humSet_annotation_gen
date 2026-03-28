@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "13.2 million",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "in high risk areas",
+    "modifier": "about"
+  },
+  {
+    "quantity": "13%",
+    "unit": "of the country's total adult population",
+    "eventType": "EventP",
+    "eventDescription": "proportion in high risk areas"
+  },
+  {
+    "quantity": "78%",
+    "unit": "of adults in high risk areas",
+    "eventType": "EventP",
+    "eventDescription": "located in rural areas"
+  },
+  {
+    "quantity": "10.2 M",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "in rural areas"
+  },
+  {
+    "quantity": "1%",
+    "unit": "of the total adult population at high risk",
+    "eventType": "EventP",
+    "eventDescription": "in ZOI",
+    "modifier": "about"
+  },
+  {
+    "quantity": "0.9M",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "in ZOI"
+  },
+  {
+    "quantity": "ten",
+    "unit": "hotspots",
+    "eventType": "EventO",
+    "eventDescription": "top hotspots"
+  }
+]

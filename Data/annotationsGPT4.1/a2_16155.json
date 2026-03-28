@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "five",
+    "unit": "Therapeutic Feeding Centres (TFCs)",
+    "eventType": "EventA",
+    "eventDescription": "providing in-patient management"
+  },
+  {
+    "quantity": "seven",
+    "unit": "stabilization centres",
+    "eventType": "EventA",
+    "eventDescription": "supported by WHO"
+  },
+  {
+    "quantity": "68 per cent",
+    "unit": "children with SAM",
+    "eventType": "EventP",
+    "eventDescription": "admitted to OTPs"
+  },
+  {
+    "quantity": "79 per cent",
+    "unit": "PLW",
+    "eventType": "EventP",
+    "eventDescription": "received support with Infant and Young Child Feeding (IYCF)"
+  },
+  {
+    "quantity": "65 per cent",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received micronutrient supplements"
+  },
+  {
+    "quantity": "608",
+    "unit": "admissions",
+    "eventType": "EventP",
+    "eventDescription": "supported to 14 TFCs"
+  },
+  {
+    "quantity": "14",
+    "unit": "TFCs",
+    "eventType": "EventA",
+    "eventDescription": "received admissions"
+  },
+  {
+    "quantity": "42",
+    "unit": "referrals",
+    "eventType": "EventP",
+    "eventDescription": "from Al Thawra Hospital in Al Hudaydah City"
+  }
+]

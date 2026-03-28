@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "168",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "ranked in Human Development Index"
+  },
+  {
+    "quantity": "188",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "ranked in Human Development Index"
+  },
+  {
+    "quantity": "five",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "ranked in global INFORM index"
+  },
+  {
+    "quantity": "191",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "ranked in global INFORM index"
+  },
+  {
+    "quantity": "8.1",
+    "unit": "hazard and exposure index",
+    "eventType": "EventO",
+    "eventDescription": "hazard and exposure index value"
+  },
+  {
+    "quantity": "6.9",
+    "unit": "vulnerability index",
+    "eventType": "EventO",
+    "eventDescription": "vulnerability index value"
+  },
+  {
+    "quantity": "7.9",
+    "unit": "lack of coping capacity index",
+    "eventType": "EventO",
+    "eventDescription": "lack of coping capacity index value"
+  },
+  {
+    "quantity": "half",
+    "unit": "Yemeni population",
+    "eventType": "EventP",
+    "eventDescription": "lived below the poverty line"
+  }
+]

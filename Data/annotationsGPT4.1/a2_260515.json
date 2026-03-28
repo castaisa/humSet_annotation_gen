@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "ten",
+    "unit": "states",
+    "eventType": "EventO",
+    "eventDescription": "states where RCCE activities continued"
+  },
+  {
+    "quantity": "516,424",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people reached with COVID-19 key mitigation messages"
+  },
+  {
+    "quantity": "224,593",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "males reached with COVID-19 key mitigation messages"
+  },
+  {
+    "quantity": "291,831",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "females reached with COVID-19 key mitigation messages"
+  },
+  {
+    "quantity": "292,308",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people reached through communication with megaphones"
+  },
+  {
+    "quantity": "179",
+    "unit": "community mobilizers",
+    "eventType": "EventP",
+    "eventDescription": "community mobilizers oriented on COVID-19 risk communication"
+  },
+  {
+    "quantity": "659",
+    "unit": "community influencers",
+    "eventType": "EventP",
+    "eventDescription": "community influencers oriented on COVID-19 risk communication"
+  },
+  {
+    "quantity": "40",
+    "unit": "radio stations",
+    "eventType": "EventO",
+    "eventDescription": "radio stations partnered with for COVID-19 communication"
+  },
+  {
+    "quantity": "7,179",
+    "unit": "radio jingles",
+    "eventType": "EventA",
+    "eventDescription": "radio jingles on COVID-19 broadcasted"
+  },
+  {
+    "quantity": "10",
+    "unit": "languages",
+    "eventType": "EventO",
+    "eventDescription": "languages in which radio jingles were broadcasted"
+  },
+  {
+    "quantity": "155",
+    "unit": "talk shows",
+    "eventType": "EventA",
+    "eventDescription": "talk shows focusing on COVID-19 held"
+  },
+  {
+    "quantity": "five",
+    "unit": "radio stations",
+    "eventType": "EventO",
+    "eventDescription": "radio stations broadcasting the drama series"
+  }
+]

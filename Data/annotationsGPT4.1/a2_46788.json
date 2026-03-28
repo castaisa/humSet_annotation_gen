@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "1.8 million",
+    "unit": "Nigerians",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "226,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "7.1 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "rely on humanitarian assistance"
+  },
+  {
+    "quantity": "2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "80 per cent",
+    "unit": "displaced persons",
+    "eventType": "EventP",
+    "eventDescription": "located in Borno state"
+  },
+  {
+    "quantity": "276",
+    "unit": "schoolgirls",
+    "eventType": "EventP",
+    "eventDescription": "kidnapped"
+  }
+]

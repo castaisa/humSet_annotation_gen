@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "180",
+    "unit": "SYP per litre",
+    "eventType": "EventO",
+    "eventDescription": "subsidised fuel price"
+  },
+  {
+    "quantity": "33 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in average diesel fuel price"
+  },
+  {
+    "quantity": "40 000",
+    "unit": "SYP per 20 litres",
+    "eventType": "EventO",
+    "eventDescription": "diesel fuel price in local markets"
+  },
+  {
+    "quantity": "four",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "governorates with significant price increase"
+  },
+  {
+    "quantity": "eight",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "total governorates considered"
+  },
+  {
+    "quantity": "20",
+    "unit": "litre gallon",
+    "eventType": "EventO",
+    "eventDescription": "gallon size for diesel fuel price"
+  },
+  {
+    "quantity": "50 000",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "diesel fuel price in Aleppo"
+  },
+  {
+    "quantity": "45 833",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "diesel fuel price in Tartous"
+  },
+  {
+    "quantity": "43 800",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "diesel fuel price in Hama"
+  },
+  {
+    "quantity": "43 800",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "diesel fuel price in Homs"
+  },
+  {
+    "quantity": "3 167",
+    "unit": "SYP for a 20 liter gallon",
+    "eventType": "EventO",
+    "eventDescription": "lowest diesel fuel price in Al-Hasakeh"
+  }
+]

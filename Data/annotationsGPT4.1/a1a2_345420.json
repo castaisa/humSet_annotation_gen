@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "91%",
+    "unit": "interviewees",
+    "eventType": "EventP",
+    "eventDescription": "could cite one or more symptoms associated with COVID-19"
+  },
+  {
+    "quantity": "58%",
+    "unit": "interviewees",
+    "eventType": "EventP",
+    "eventDescription": "could cite breathing difficulty as a symptom"
+  },
+  {
+    "quantity": "55%",
+    "unit": "interviewees",
+    "eventType": "EventP",
+    "eventDescription": "could cite fever as a symptom"
+  },
+  {
+    "quantity": "24%",
+    "unit": "interviewees",
+    "eventType": "EventP",
+    "eventDescription": "could cite cough as a symptom"
+  },
+  {
+    "quantity": "24%",
+    "unit": "interviewees",
+    "eventType": "EventP",
+    "eventDescription": "could cite sore throat as a symptom"
+  },
+  {
+    "quantity": "19%",
+    "unit": "interviewees",
+    "eventType": "EventP",
+    "eventDescription": "could cite headache as a symptom"
+  },
+  {
+    "quantity": "54 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "said that one should call the COVID-19 emergency number"
+  },
+  {
+    "quantity": "51 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "said that they should stay at home"
+  },
+  {
+    "quantity": "42 per cent",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "said that they should see a doctor"
+  },
+  {
+    "quantity": "84%",
+    "unit": "surveyed individuals",
+    "eventType": "EventP",
+    "eventDescription": "wore face masks as a preventive measure"
+  },
+  {
+    "quantity": "42%",
+    "unit": "surveyed individuals",
+    "eventType": "EventP",
+    "eventDescription": "carried fewer passengers at a time as a preventive measure"
+  },
+  {
+    "quantity": "30%",
+    "unit": "surveyed individuals",
+    "eventType": "EventP",
+    "eventDescription": "disinfected the vehicle as a preventive measure"
+  },
+  {
+    "quantity": "12 per cent",
+    "unit": "surveyed individuals",
+    "eventType": "EventP",
+    "eventDescription": "took no preventive measures against COVID19 in the vehicle"
+  },
+  {
+    "quantity": "Sixty-eight per cent",
+    "unit": "surveyed travellers",
+    "eventType": "EventP",
+    "eventDescription": "mentioned the use of hand sanitizers as the main protective measure to be taken in the event of a COVID-19 case during the travel"
+  }
+]

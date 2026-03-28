@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "on average nearly $2.00",
+    "unit": "per household member",
+    "eventType": "EventO",
+    "eventDescription": "increase in monthly food expenditure",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "half",
+    "unit": "refugee households",
+    "eventType": "EventA",
+    "eventDescription": "reporting receipt of food assistance"
+  },
+  {
+    "quantity": "three-quarters",
+    "unit": "IDP households",
+    "eventType": "EventA",
+    "eventDescription": "reporting receipt of food assistance"
+  }
+]

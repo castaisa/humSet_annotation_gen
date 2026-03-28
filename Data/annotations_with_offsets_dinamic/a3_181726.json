@@ -1,0 +1,141 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "trained",
+      "start": 86,
+      "end": 93
+    },
+    "quantity": {
+      "text": "1416",
+      "start": 44,
+      "end": 48
+    },
+    "unit": {
+      "text": "community health workers",
+      "start": 49,
+      "end": 73
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "conducted",
+      "start": 294,
+      "end": 303
+    },
+    "quantity": {
+      "text": "142 678",
+      "start": 304,
+      "end": 311
+    },
+    "unit": {
+      "text": "household visits",
+      "start": 312,
+      "end": 328
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified with mild respiratory symptoms",
+      "start": 357,
+      "end": 398
+    },
+    "quantity": {
+      "text": "3095",
+      "start": 338,
+      "end": 342
+    },
+    "unit": {
+      "text": "patients",
+      "start": 343,
+      "end": 351
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified with moderate/severe symptoms",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "22",
+      "start": 431,
+      "end": 433
+    },
+    "unit": {
+      "text": "patients",
+      "start": 434,
+      "end": 442
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cumulative number of mild patients",
+      "start": 478,
+      "end": 512
+    },
+    "quantity": {
+      "text": "45 838",
+      "start": 516,
+      "end": 522
+    },
+    "unit": {
+      "text": "patients",
+      "start": 504,
+      "end": 512
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cumulative number of moderate/severe patients",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "199",
+      "start": 528,
+      "end": 531
+    },
+    "unit": {
+      "text": "patients",
+      "start": 549,
+      "end": 557
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "referred to health facilities",
+      "start": 626,
+      "end": 655
+    },
+    "quantity": {
+      "text": "1376",
+      "start": 588,
+      "end": 592
+    },
+    "unit": {
+      "text": "persons",
+      "start": 593,
+      "end": 600
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total to date",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21 045",
+      "start": 672,
+      "end": 678
+    }
+  }
+]

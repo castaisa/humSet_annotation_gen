@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "1,693",
+    "unit": "refugees and migrants",
+    "eventType": "EventP",
+    "eventDescription": "rescued/intercepted at sea"
+  },
+  {
+    "quantity": "over 262",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked at Tripoli Naval Base",
+    "modifier": "over"
+  },
+  {
+    "quantity": "over 124",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "disembarked",
+    "modifier": "over"
+  }
+]

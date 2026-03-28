@@ -1,0 +1,145 @@
+[
+  {
+    "quantity": {
+      "text": "6 684",
+      "begin": 138,
+      "end": 143
+    },
+    "modifier": {
+      "text": "average of",
+      "begin": 127,
+      "end": 137
+    },
+    "unit": {
+      "text": "SYP",
+      "begin": 144,
+      "end": 147
+    },
+    "eventDescription": {
+      "text": "recorded for a crate or pack of 30 eggs",
+      "begin": 154,
+      "end": 193
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 186,
+      "end": 188
+    },
+    "unit": {
+      "text": "eggs",
+      "begin": 189,
+      "end": 193
+    }
+  },
+  {
+    "quantity": {
+      "text": "4 percent",
+      "begin": 195,
+      "end": 204
+    },
+    "unit": {
+      "text": "m-om",
+      "begin": 205,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 210,
+      "end": 218
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7 767",
+      "begin": 340,
+      "end": 345
+    },
+    "eventDescription": {
+      "text": "observed the most significant price increase",
+      "begin": 226,
+      "end": 270
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP a crate or pack 30 eggs",
+      "begin": 346,
+      "end": 373
+    }
+  },
+  {
+    "quantity": {
+      "text": "11 percent",
+      "begin": 272,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 283,
+      "end": 291
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 292,
+      "end": 297
+    }
+  },
+  {
+    "quantity": {
+      "text": "7 600",
+      "begin": 509,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "recorded a very slight decrease",
+      "begin": 411,
+      "end": 442
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per a pack 30 eggs respectively .",
+      "begin": 525,
+      "end": 562
+    }
+  },
+  {
+    "quantity": {
+      "text": "6 980",
+      "begin": 519,
+      "end": 524
+    },
+    "eventDescription": {
+      "text": "recorded a very slight decrease",
+      "begin": 411,
+      "end": 442
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per a pack 30 eggs respectively .",
+      "begin": 525,
+      "end": 562
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 percent",
+      "begin": 444,
+      "end": 453
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 454,
+      "end": 459
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 460,
+      "end": 468
+    },
+    "eventType": "EventO"
+  }
+]

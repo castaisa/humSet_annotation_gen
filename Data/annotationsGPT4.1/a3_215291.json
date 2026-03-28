@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "6,143",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "recruited by armed forces and armed groups"
+  },
+  {
+    "quantity": "80%",
+    "unit": "of verified cases",
+    "eventType": "EventP",
+    "eventDescription": "cases attributed to Al-Shabaab"
+  },
+  {
+    "quantity": "4,910",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases attributed to Al-Shabaab"
+  },
+  {
+    "quantity": "391",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases attributed to the Somali National Army"
+  },
+  {
+    "quantity": "172",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases attributed to the Somali police"
+  },
+  {
+    "quantity": "1,442",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "abducted"
+  },
+  {
+    "quantity": "53",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "abducted"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Three-quarters",
+      "start": 0,
+      "end": 14
+    },
+    "eventDescription": {
+      "text": "claimed they know where to go in case of risk or injury due to violence",
+      "start": 15,
+      "end": 86
+    },
+    "unit": {
+      "text": "participants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60%",
+      "start": 125,
+      "end": 128
+    },
+    "eventDescription": {
+      "text": "said they would go to the police rather than to their own family",
+      "start": 129,
+      "end": 193
+    },
+    "unit": {
+      "text": "participants",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50%",
+      "start": 332,
+      "end": 335
+    },
+    "eventDescription": {
+      "text": "have reported experiencing increased discrimination against a particular group with the onset of the pandemic",
+      "start": 336,
+      "end": 445
+    },
+    "unit": {
+      "text": "migrant children",
+      "start": 259,
+      "end": 275
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "91%",
+      "start": 470,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "showed that discrimination is against them because of their migrant condition coming from Venezuela",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "migrant children",
+      "start": 577,
+      "end": 593
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "About 14%",
+      "start": 564,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "said want to go back to Venezuela",
+      "start": 594,
+      "end": 627
+    },
+    "unit": {
+      "text": "migrant children",
+      "start": 577,
+      "end": 593
+    },
+    "modifier": {
+      "text": "about",
+      "start": 564,
+      "end": 569
+    }
+  }
+]

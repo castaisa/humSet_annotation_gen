@@ -1,0 +1,75 @@
+[
+  {
+    "quantity": {
+      "text": "Three",
+      "begin": 19,
+      "end": 24
+    },
+    "unit": {
+      "text": "aid workers",
+      "begin": 25,
+      "end": 36
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 127,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "the funding cuts also forced aid agencies in March and April to stop supporting",
+      "begin": 47,
+      "end": 126
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 137,
+      "end": 139
+    },
+    "unit": {
+      "text": "facilities",
+      "begin": 140,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 427,
+      "end": 430
+    },
+    "unit": {
+      "text": "facilities",
+      "begin": 140,
+      "end": 150
+    },
+    "eventDescription": {
+      "text": "open",
+      "begin": 431,
+      "end": 435
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 360,
+      "end": 363
+    },
+    "unit": {
+      "text": "others",
+      "begin": 364,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "forced to shut",
+      "begin": 381,
+      "end": 395
+    },
+    "eventType": "EventO"
+  }
+]

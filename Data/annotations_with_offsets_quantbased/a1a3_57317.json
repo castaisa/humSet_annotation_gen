@@ -1,0 +1,236 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "88",
+      "start": 144,
+      "end": 146
+    },
+    "eventDescription": {
+      "text": "provided with basic English Language support",
+      "start": 239,
+      "end": 283
+    },
+    "unit": {
+      "text": "children",
+      "start": 147,
+      "end": 155
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4",
+      "start": 176,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "age of children provided with basic English Language support",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 184,
+      "end": 189
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17",
+      "start": 181,
+      "end": 183
+    },
+    "eventDescription": {
+      "text": "age of children provided with basic English Language support",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 184,
+      "end": 189
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "ten",
+      "start": 337,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "conducted by community volunteers",
+      "start": 359,
+      "end": 392
+    },
+    "unit": {
+      "text": "ECD sessions",
+      "start": 341,
+      "end": 353
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four",
+      "start": 422,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "host communities where ECD sessions were conducted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Region 1 host communities",
+      "start": 427,
+      "end": 452
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "62",
+      "start": 476,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "attended ECD sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 479,
+      "end": 487
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0",
+      "start": 508,
+      "end": 509
+    },
+    "eventDescription": {
+      "text": "age of children attending ECD sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 515,
+      "end": 520
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 513,
+      "end": 514
+    },
+    "eventDescription": {
+      "text": "age of children attending ECD sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 515,
+      "end": 520
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "150",
+      "start": 642,
+      "end": 645
+    },
+    "eventDescription": {
+      "text": "participate in community-led activities",
+      "start": 734,
+      "end": 773
+    },
+    "unit": {
+      "text": "children",
+      "start": 646,
+      "end": 654
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 661,
+      "end": 663
+    },
+    "eventDescription": {
+      "text": "age of children participating in community-led activities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 664,
+      "end": 669
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50",
+      "start": 678,
+      "end": 680
+    },
+    "eventDescription": {
+      "text": "participate in community-led activities",
+      "start": 734,
+      "end": 773
+    },
+    "unit": {
+      "text": "children",
+      "start": 681,
+      "end": 689
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13",
+      "start": 698,
+      "end": 700
+    },
+    "eventDescription": {
+      "text": "age of children participating in community-led activities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 704,
+      "end": 709
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "18",
+      "start": 701,
+      "end": 703
+    },
+    "eventDescription": {
+      "text": "age of children participating in community-led activities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 704,
+      "end": 709
+    }
+  }
+]

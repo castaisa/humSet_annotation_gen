@@ -1,0 +1,117 @@
+[
+  {
+    "quantity": {
+      "text": "1 million",
+      "begin": 89,
+      "end": 98
+    },
+    "unit": {
+      "text": "caseload of acute watery diarrhoea (AWD) and cholera outbreaks",
+      "begin": 4,
+      "end": 66
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 71,
+      "end": 78
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "more than",
+      "begin": 79,
+      "end": 88
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,200",
+      "begin": 152,
+      "end": 157
+    },
+    "eventDescription": {
+      "text": "diphtheria outbreak in 2018 affected",
+      "begin": 106,
+      "end": 142
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "at least",
+      "begin": 143,
+      "end": 151
+    },
+    "unit": {
+      "text": "people",
+      "begin": 158,
+      "end": 164
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,700",
+      "begin": 308,
+      "end": 313
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 298,
+      "end": 307
+    },
+    "unit": {
+      "text": "children",
+      "begin": 314,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "killed or maimed",
+      "begin": 333,
+      "end": 349
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2,700",
+      "begin": 396,
+      "end": 401
+    },
+    "modifier": {
+      "text": "more than",
+      "begin": 386,
+      "end": 395
+    },
+    "unit": {
+      "text": "boys",
+      "begin": 402,
+      "end": 406
+    },
+    "eventDescription": {
+      "text": "recruited into armed forces and groups",
+      "begin": 417,
+      "end": 455
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2 million",
+      "begin": 784,
+      "end": 793
+    },
+    "modifier": {
+      "text": "At least",
+      "begin": 775,
+      "end": 783
+    },
+    "unit": {
+      "text": "children",
+      "begin": 794,
+      "end": 802
+    },
+    "eventDescription": {
+      "text": "out of school",
+      "begin": 816,
+      "end": 829
+    },
+    "eventType": "EventO"
+  }
+]

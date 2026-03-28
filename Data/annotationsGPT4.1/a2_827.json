@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "153",
+    "unit": "humanitarian partners",
+    "eventType": "EventA",
+    "eventDescription": "working in Yemen"
+  },
+  {
+    "quantity": "109",
+    "unit": "national NGOs",
+    "eventType": "EventA",
+    "eventDescription": "working in Yemen"
+  },
+  {
+    "quantity": "36",
+    "unit": "international NGOs",
+    "eventType": "EventA",
+    "eventDescription": "working in Yemen"
+  },
+  {
+    "quantity": "eight",
+    "unit": "UN agencies",
+    "eventType": "EventA",
+    "eventDescription": "working in Yemen"
+  }
+]

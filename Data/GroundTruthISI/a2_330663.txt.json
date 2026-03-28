@@ -1,0 +1,54 @@
+[
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 123,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "Bangladesh’s economic growth rate decreased",
+      "begin": 74,
+      "end": 117
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.2%",
+      "begin": 129,
+      "end": 133
+    },
+    "eventDescription": {
+      "text": "Bangladesh’s economic growth rate decreased",
+      "begin": 74,
+      "end": 117
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 476,
+      "end": 478
+    },
+    "eventDescription": {
+      "text": "Bangladesh’s economic growth rate decreased",
+      "begin": 427,
+      "end": 470
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5.2%",
+      "begin": 482,
+      "end": 486
+    },
+    "eventDescription": {
+      "text": "Bangladesh’s economic growth rate decreased",
+      "begin": 427,
+      "end": 470
+    },
+    "eventType": "EventO"
+  }
+]

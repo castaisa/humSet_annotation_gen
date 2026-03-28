@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "over 3,000",
+      "start": 88,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "ready to issue",
+      "start": 73,
+      "end": 87
+    },
+    "unit": {
+      "text": "government registration cards",
+      "start": 99,
+      "end": 128
+    },
+    "modifier": {
+      "text": "over",
+      "start": 88,
+      "end": 92
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "16,523",
+      "start": 132,
+      "end": 138
+    },
+    "eventDescription": {
+      "text": "registered",
+      "start": 186,
+      "end": 196
+    },
+    "unit": {
+      "text": "adults",
+      "start": 139,
+      "end": 145
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,421",
+      "start": 150,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "registered",
+      "start": 186,
+      "end": 196
+    },
+    "unit": {
+      "text": "children",
+      "start": 156,
+      "end": 164
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six",
+      "start": 403,
+      "end": 406
+    },
+    "eventDescription": {
+      "text": "granted the right to work",
+      "start": 373,
+      "end": 398
+    },
+    "unit": {
+      "text": "months",
+      "start": 407,
+      "end": 413
+    }
+  }
+]

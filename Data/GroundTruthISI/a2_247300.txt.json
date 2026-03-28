@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 162,
+      "end": 164
+    },
+    "unit": {
+      "text": "education boards",
+      "begin": 165,
+      "end": 181
+    }
+  },
+  {
+    "quantity": {
+      "text": "161,807",
+      "begin": 195,
+      "end": 202
+    },
+    "unit": {
+      "text": "students",
+      "begin": 203,
+      "end": 211
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 230,
+      "end": 231
+    },
+    "unit": {
+      "text": "GPA",
+      "begin": 226,
+      "end": 229
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,367,377",
+      "begin": 244,
+      "end": 253
+    },
+    "unit": {
+      "text": "examinees",
+      "begin": 254,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "passed",
+      "begin": 269,
+      "end": 275
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "24,986",
+      "start": 102,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "facilitated access to a better learning environment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "students",
+      "start": 109,
+      "end": 117
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14,990",
+      "start": 119,
+      "end": 125
+    },
+    "eventDescription": {
+      "text": "facilitated access to a better learning environment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 126,
+      "end": 130
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9,996",
+      "start": 132,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "facilitated access to a better learning environment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 138,
+      "end": 143
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "six",
+      "start": 206,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "constructed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "classrooms",
+      "start": 214,
+      "end": 224
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "two",
+      "start": 228,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "constructed classrooms in",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "schools",
+      "start": 232,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "three",
+      "start": 251,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "constructed in each school",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "classrooms",
+      "start": 257,
+      "end": 267
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "32",
+      "start": 310,
+      "end": 312
+    },
+    "eventDescription": {
+      "text": "repaired latrines in",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "schools",
+      "start": 313,
+      "end": 320
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "417",
+      "start": 537,
+      "end": 540
+    },
+    "eventDescription": {
+      "text": "WASH facilities to be repaired",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "schools",
+      "start": 541,
+      "end": 548
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "around 145,000",
+      "start": 607,
+      "end": 621
+    },
+    "eventDescription": {
+      "text": "will benefit",
+      "start": 594,
+      "end": 606
+    },
+    "unit": {
+      "text": "children",
+      "start": 622,
+      "end": 630
+    },
+    "modifier": {
+      "text": "around",
+      "start": 607,
+      "end": 613
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "207",
+      "start": 664,
+      "end": 667
+    },
+    "eventDescription": {
+      "text": "trained on psychosocial support education",
+      "start": 720,
+      "end": 761
+    },
+    "unit": {
+      "text": "teachers and supervisors",
+      "start": 668,
+      "end": 692
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "114",
+      "start": 694,
+      "end": 697
+    },
+    "eventDescription": {
+      "text": "teachers and supervisors trained",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "male",
+      "start": 698,
+      "end": 702
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "93",
+      "start": 704,
+      "end": 706
+    },
+    "eventDescription": {
+      "text": "teachers and supervisors trained",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "female",
+      "start": 707,
+      "end": 713
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,384",
+      "start": 813,
+      "end": 818
+    },
+    "eventDescription": {
+      "text": "teachers and supervisors attended to",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "conflict-affected students",
+      "start": 819,
+      "end": 845
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,322",
+      "start": 847,
+      "end": 852
+    },
+    "eventDescription": {
+      "text": "conflict-affected students attended to",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 853,
+      "end": 857
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3,062",
+      "start": 859,
+      "end": 864
+    },
+    "eventDescription": {
+      "text": "conflict-affected students attended to",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 865,
+      "end": 870
+    }
+  }
+]

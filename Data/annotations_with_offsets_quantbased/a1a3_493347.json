@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,250",
+      "start": 48,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 54,
+      "end": 59
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "85",
+      "start": 152,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from Ngaranam PHC in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 145,
+      "end": 150
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "69",
+      "start": 186,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from AAH Waterboard Extension IDP Camp Clinic in Monguno",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 189,
+      "end": 194
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "69",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from ICRC FSP Clinic in Monguno",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "65",
+      "start": 283,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from AAH Water Board IDP Camp Clinic in Monguno",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 343,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 340,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from Gwange 3 PHC (MSF-F) in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 343,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from ISS IDP Camp Clinic in Ngala",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from Kurbagayi MCH in Kwaya Kusar",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "56",
+      "start": 451,
+      "end": 453
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from Gajiram FSP in Nganzai",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 343,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54",
+      "start": 491,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition reported from AAH GDSS IDP Camp Clinic in Monguno",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 343,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Five (5)",
+      "start": 541,
+      "end": 549
+    },
+    "eventDescription": {
+      "text": "associated deaths reported from Gwange 3 PHC (MSF-F) in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 561,
+      "end": 567
+    }
+  }
+]

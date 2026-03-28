@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": {
+      "text": "12 per cent",
+      "begin": 81,
+      "end": 92
+    },
+    "eventDescription": {
+      "text": "GDP contraction",
+      "begin": 93,
+      "end": 108
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7 per cent",
+      "begin": 124,
+      "end": 134
+    },
+    "eventDescription": {
+      "text": "recovery",
+      "begin": 135,
+      "end": 143
+    },
+    "eventType": "EventO"
+  }
+]

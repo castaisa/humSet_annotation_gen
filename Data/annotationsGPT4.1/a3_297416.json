@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "65%",
+    "unit": "caregivers in camps",
+    "eventType": "EventP",
+    "eventDescription": "reported their children actually used the modalities and technologies"
+  },
+  {
+    "quantity": "83%",
+    "unit": "caregivers in host communities",
+    "eventType": "EventP",
+    "eventDescription": "reported their children actually used the modalities and technologies"
+  },
+  {
+    "quantity": "61%",
+    "unit": "caregivers in camps",
+    "eventType": "EventP",
+    "eventDescription": "reported their children had no access to any learning modalities and technologies"
+  },
+  {
+    "quantity": "50%",
+    "unit": "caregivers in host communities",
+    "eventType": "EventP",
+    "eventDescription": "reported their children had no access to any learning modalities and technologies"
+  },
+  {
+    "quantity": "11",
+    "unit": "hours per week",
+    "eventType": "EventO",
+    "eventDescription": "average number of learning hours per week in the camps"
+  },
+  {
+    "quantity": "12",
+    "unit": "hours per week",
+    "eventType": "EventO",
+    "eventDescription": "average number of learning hours per week in the host communities"
+  }
+]

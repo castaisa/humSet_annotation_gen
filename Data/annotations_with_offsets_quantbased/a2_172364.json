@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 35 per cent",
+      "start": 138,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "cases among HCWs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 163,
+      "end": 168
+    },
+    "modifier": {
+      "text": "over",
+      "start": 138,
+      "end": 142
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25",
+      "start": 156,
+      "end": 158
+    },
+    "eventDescription": {
+      "text": "cases among HCWs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 163,
+      "end": 168
+    }
+  }
+]

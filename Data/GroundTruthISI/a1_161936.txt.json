@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "92%",
+      "begin": 11,
+      "end": 14
+    },
+    "unit": {
+      "text": "respondent",
+      "begin": 22,
+      "end": 32
+    },
+    "eventDescription": {
+      "text": "conducted activities to educate families and communities",
+      "begin": 47,
+      "end": 103
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "96%",
+      "begin": 220,
+      "end": 223
+    },
+    "unit": {
+      "text": "respondent",
+      "begin": 231,
+      "end": 241
+    },
+    "eventDescription": {
+      "text": "conducted activities to educate children",
+      "begin": 256,
+      "end": 296
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "92%",
+      "begin": 403,
+      "end": 406
+    },
+    "unit": {
+      "text": "respondent",
+      "begin": 414,
+      "end": 424
+    },
+    "eventDescription": {
+      "text": "conducted similar activities specifically targeting community members (18 years and above)",
+      "begin": 439,
+      "end": 529
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with high or very high needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34%",
+      "start": 103,
+      "end": 106
+    },
+    "unit": {
+      "text": "households",
+      "start": 41,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households exhibiting needs in food security",
+      "start": 119,
+      "end": 163
+    },
+    "quantity": {
+      "text": "93%",
+      "start": 165,
+      "end": 168
+    },
+    "unit": {
+      "text": "households",
+      "start": 119,
+      "end": 129
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households exhibiting needs in shelter/NFI",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "84%",
+      "start": 184,
+      "end": 187
+    },
+    "unit": {
+      "text": "households",
+      "start": 462,
+      "end": 472
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households exhibiting needs in livelihoods",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "68%",
+      "start": 203,
+      "end": 206
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households exhibiting needs in nutrition",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18%",
+      "start": 224,
+      "end": 227
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "severity of needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21.2",
+      "start": 263,
+      "end": 267
+    },
+    "unit": {
+      "text": "severity of needs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "severity of shelter/NFI needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5.7",
+      "start": 326,
+      "end": 329
+    },
+    "unit": {
+      "text": "severity of shelter/NFI needs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "severity of food security needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5.6",
+      "start": 350,
+      "end": 353
+    },
+    "unit": {
+      "text": "severity of food security needs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "severity of shelter/NFI needs in Monguno",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5.7",
+      "start": 445,
+      "end": 448
+    },
+    "unit": {
+      "text": "severity of shelter/NFI needs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households having inadequate shelter",
+      "start": 462,
+      "end": 498
+    },
+    "quantity": {
+      "text": "79%",
+      "start": 500,
+      "end": 503
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households sharing accommodations with multiple families",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "75%",
+      "start": 556,
+      "end": 559
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with one or more vulnerabilities",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "on average",
+      "start": 643,
+      "end": 653
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 638,
+      "end": 641
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households with one or more vulnerabilities in Borno State",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "53%",
+      "start": 683,
+      "end": 686
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  }
+]

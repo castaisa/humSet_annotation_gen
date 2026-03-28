@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "established by local partners with UNICEF support",
+      "start": 108,
+      "end": 157
+    },
+    "quantity": {
+      "text": "10",
+      "start": 96,
+      "end": 98
+    },
+    "unit": {
+      "text": "CFS",
+      "start": 99,
+      "end": 102
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "established by other organizations",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8",
+      "start": 170,
+      "end": 171
+    },
+    "unit": {
+      "text": "CFS",
+      "start": 266,
+      "end": 269
+    }
+  }
+]

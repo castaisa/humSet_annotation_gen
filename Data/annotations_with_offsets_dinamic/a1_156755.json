@@ -1,0 +1,295 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 76,
+      "end": 85
+    },
+    "quantity": {
+      "text": "334",
+      "start": 72,
+      "end": 75
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 76,
+      "end": 91
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 210,
+      "end": 219
+    },
+    "quantity": {
+      "text": "1 034",
+      "start": 204,
+      "end": 209
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 210,
+      "end": 225
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 299,
+      "end": 301
+    },
+    "unit": {
+      "text": "new cases",
+      "start": 275,
+      "end": 284
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "55",
+      "start": 309,
+      "end": 311
+    },
+    "unit": {
+      "text": "new cases",
+      "start": 312,
+      "end": 321
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 442,
+      "end": 451
+    },
+    "quantity": {
+      "text": "49",
+      "start": 478,
+      "end": 480
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 442,
+      "end": 457
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "added",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 497,
+      "end": 499
+    },
+    "unit": {
+      "text": "new cases",
+      "start": 500,
+      "end": 509
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 677,
+      "end": 686
+    },
+    "quantity": {
+      "text": "33",
+      "start": 674,
+      "end": 676
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32",
+      "start": 708,
+      "end": 710
+    },
+    "unit": {
+      "text": "cases",
+      "start": 635,
+      "end": 640
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "66",
+      "start": 808,
+      "end": 810
+    },
+    "unit": {
+      "text": "cases",
+      "start": 687,
+      "end": 692
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60",
+      "start": 823,
+      "end": 825
+    },
+    "unit": {
+      "text": "cases",
+      "start": 711,
+      "end": 716
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41",
+      "start": 838,
+      "end": 840
+    },
+    "unit": {
+      "text": "cases",
+      "start": 775,
+      "end": 780
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "37",
+      "start": 869,
+      "end": 871
+    },
+    "unit": {
+      "text": "new cases",
+      "start": 872,
+      "end": 881
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 942,
+      "end": 946
+    },
+    "quantity": {
+      "text": "over 30",
+      "start": 942,
+      "end": 949
+    },
+    "unit": {
+      "text": "new cases",
+      "start": 932,
+      "end": 941
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 1030,
+      "end": 1039
+    },
+    "quantity": {
+      "text": "334",
+      "start": 1026,
+      "end": 1029
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 1030,
+      "end": 1045
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "700",
+      "start": 1087,
+      "end": 1090
+    },
+    "unit": {
+      "text": "cases",
+      "start": 1091,
+      "end": 1096
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "duration",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24",
+      "start": 1102,
+      "end": 1104
+    },
+    "unit": {
+      "text": "days",
+      "start": 1105,
+      "end": 1109
+    }
+  }
+]

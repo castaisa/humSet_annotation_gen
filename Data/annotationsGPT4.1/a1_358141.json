@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "over 25,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "impacted by access constraints",
+    "modifier": "over"
+  },
+  {
+    "quantity": "230",
+    "unit": "SAM cases",
+    "eventType": "EventP",
+    "eventDescription": "malnutrition cases recorded"
+  },
+  {
+    "quantity": "95",
+    "unit": "SAM cases",
+    "eventType": "EventP",
+    "eventDescription": "discharged after treatment"
+  },
+  {
+    "quantity": "19",
+    "unit": "complicated cases",
+    "eventType": "EventP",
+    "eventDescription": "transferred to Maiduguri for intensive care"
+  },
+  {
+    "quantity": "950 tons",
+    "unit": "food",
+    "eventType": "EventA",
+    "eventDescription": "prepositioned to Rann"
+  },
+  {
+    "quantity": "hundreds",
+    "unit": "civilian lives",
+    "eventType": "EventP",
+    "eventDescription": "claimed by attacks and clashes"
+  }
+]

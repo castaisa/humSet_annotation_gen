@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "do not have regular access to water or soap",
+      "start": 892,
+      "end": 935
+    },
+    "quantity": {
+      "text": "20 percent",
+      "start": 841,
+      "end": 851
+    },
+    "unit": {
+      "text": "refugees and migrants from Venezuela",
+      "start": 855,
+      "end": 891
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported challenges in accessing sufficient food",
+      "start": 956,
+      "end": 1004
+    },
+    "quantity": {
+      "text": "84 percent",
+      "start": 937,
+      "end": 947
+    },
+    "unit": {
+      "text": "refugees and migrants from Venezuela",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "goes to bed hungry",
+      "start": 1027,
+      "end": 1045
+    },
+    "quantity": {
+      "text": "every third",
+      "start": 1009,
+      "end": 1020
+    },
+    "unit": {
+      "text": "child",
+      "start": 1021,
+      "end": 1026
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "forced to look for cheaper housing",
+      "start": 1138,
+      "end": 1172
+    },
+    "modifier": {
+      "text": "over",
+      "start": 1100,
+      "end": 1104
+    },
+    "quantity": {
+      "text": "over 40 per cent",
+      "start": 1100,
+      "end": 1116
+    },
+    "unit": {
+      "text": "surveyed families",
+      "start": 1120,
+      "end": 1137
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "facing the risk of eviction",
+      "start": 1185,
+      "end": 1212
+    },
+    "quantity": {
+      "text": "28 percent",
+      "start": 1174,
+      "end": 1184
+    },
+    "unit": {
+      "text": "surveyed families",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moving to shelters",
+      "start": 1229,
+      "end": 1247
+    },
+    "quantity": {
+      "text": "6.4 percent",
+      "start": 1217,
+      "end": 1228
+    },
+    "unit": {
+      "text": "surveyed families",
+      "start": null,
+      "end": null
+    }
+  }
+]

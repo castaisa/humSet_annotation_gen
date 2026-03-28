@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "43%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "spent money usually spent on other things or buying water on credit"
+  },
+  {
+    "quantity": "27%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "buying water on credit"
+  },
+  {
+    "quantity": "around 40%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "bathed less frequently and did laundry less frequently"
+  },
+  {
+    "quantity": "7%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "reducing drinking water consumption"
+  },
+  {
+    "quantity": "40%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "drinking water indicated as a WASH priority need"
+  },
+  {
+    "quantity": "28%",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "drinking water indicated as a WASH priority need"
+  }
+]

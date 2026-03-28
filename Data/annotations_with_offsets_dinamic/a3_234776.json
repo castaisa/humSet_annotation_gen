@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received food assistance",
+      "start": 480,
+      "end": 504
+    },
+    "modifier": {
+      "text": "on average",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.85 million",
+      "start": 460,
+      "end": 472
+    },
+    "unit": {
+      "text": "people",
+      "start": 473,
+      "end": 479
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "benefitted from government-led rural and urban safety net programmes",
+      "start": 569,
+      "end": 637
+    },
+    "quantity": {
+      "text": "400,000",
+      "start": 549,
+      "end": 556
+    },
+    "unit": {
+      "text": "people",
+      "start": 557,
+      "end": 563
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "enacted on imported food commodities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20 to100 per cent",
+      "start": 674,
+      "end": 691
+    },
+    "unit": {
+      "text": "tax exemption",
+      "start": 692,
+      "end": 705
+    }
+  }
+]

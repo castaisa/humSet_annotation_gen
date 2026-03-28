@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 86,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "prioritize",
+      "begin": 61,
+      "end": 71
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "localities",
+      "begin": 89,
+      "end": 99
+    }
+  },
+  {
+    "quantity": {
+      "text": "15 out of the 18",
+      "begin": 72,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "prioritize",
+      "begin": 61,
+      "end": 71
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "localities",
+      "begin": 89,
+      "end": 99
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 72,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "prioritize",
+      "begin": 61,
+      "end": 71
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "localities",
+      "begin": 89,
+      "end": 99
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 422,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "prioritized localities",
+      "begin": 377,
+      "end": 399
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "return areas",
+      "begin": 427,
+      "end": 439
+    }
+  }
+]

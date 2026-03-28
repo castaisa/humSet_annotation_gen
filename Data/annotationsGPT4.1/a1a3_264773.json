@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "63.5 percent",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "negatively affected by COVID-related restrictions and economic impact"
+  },
+  {
+    "quantity": "17.6 percent",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "mentioning complete loss of income source"
+  },
+  {
+    "quantity": "30 percent",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "deterioration in income"
+  },
+  {
+    "quantity": "15.9 percent",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "disproportionate increase in the cost of living"
+  },
+  {
+    "quantity": "35 percent",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "witnessed no difference or a change in income source"
+  },
+  {
+    "quantity": "1.8 percent",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "mentioned that it has improved income"
+  },
+  {
+    "quantity": "four percent",
+    "unit": "households",
+    "eventType": "EventO",
+    "eventDescription": "received remittances"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "households who received remittances",
+    "eventType": "EventO",
+    "eventDescription": "mentioned a reduction in amounts",
+    "modifier": "nearly"
+  }
+]

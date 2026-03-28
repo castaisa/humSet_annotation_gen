@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened",
+      "start": 199,
+      "end": 207
+    },
+    "quantity": {
+      "text": "16",
+      "start": 152,
+      "end": 154
+    },
+    "unit": {
+      "text": "children",
+      "start": 155,
+      "end": 163
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "age range",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6-59",
+      "start": 167,
+      "end": 171
+    },
+    "unit": {
+      "text": "months",
+      "start": 172,
+      "end": 178
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "screened",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16",
+      "start": 187,
+      "end": 189
+    },
+    "unit": {
+      "text": "children",
+      "start": 190,
+      "end": 198
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the Yellow category",
+      "start": 286,
+      "end": 308
+    },
+    "quantity": {
+      "text": "5",
+      "start": 279,
+      "end": 280
+    },
+    "unit": {
+      "text": "children",
+      "start": 454,
+      "end": 462
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in the Green category",
+      "start": 330,
+      "end": 351
+    },
+    "quantity": {
+      "text": "11",
+      "start": 313,
+      "end": 315
+    },
+    "unit": {
+      "text": "children",
+      "start": 496,
+      "end": 504
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reports received from",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2",
+      "start": 391,
+      "end": 392
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 396,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "department is focusing",
+      "begin": 370,
+      "end": 392
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "priorities",
+      "begin": 402,
+      "end": 412
+    }
+  }
+]

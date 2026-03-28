@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "four",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "duration of verification period",
+    "modifier": "Over"
+  },
+  {
+    "quantity": "274",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "recruited and used"
+  },
+  {
+    "quantity": "13",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "subjected to sexual violence"
+  },
+  {
+    "quantity": "4",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "subjected to sexual violence"
+  },
+  {
+    "quantity": "467",
+    "unit": "attacks",
+    "eventType": "EventO",
+    "eventDescription": "attacks on schools and education personnel"
+  }
+]

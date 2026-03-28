@@ -1,0 +1,121 @@
+[
+  {
+    "quantity": {
+      "text": "32 percent",
+      "begin": 112,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "Challenges faced in accessing medical facilities",
+      "begin": 28,
+      "end": 76
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "six percentage",
+      "begin": 132,
+      "end": 146
+    },
+    "eventDescription": {
+      "text": "Challenges faced in accessing medical facilities",
+      "begin": 28,
+      "end": 76
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "month-on-month",
+      "begin": 163,
+      "end": 177
+    }
+  },
+  {
+    "quantity": {
+      "text": "30 percent",
+      "begin": 202,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "Challenges faced in accessing medical facilities",
+      "begin": 28,
+      "end": 76
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19 percent",
+      "begin": 221,
+      "end": 231
+    },
+    "unit": {
+      "text": "surveyed households",
+      "begin": 235,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "difficulties in accessing hospitals",
+      "begin": 273,
+      "end": 308
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15 percent",
+      "begin": 384,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "Lack of money",
+      "begin": 369,
+      "end": 382
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "39 percent",
+      "begin": 511,
+      "end": 521
+    },
+    "unit": {
+      "text": "interviewed households",
+      "begin": 525,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "not being able to purchase the necessary medicines",
+      "begin": 557,
+      "end": 607
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "81 percent",
+      "begin": 666,
+      "end": 676
+    },
+    "eventDescription": {
+      "text": "ack of financial resources",
+      "begin": 638,
+      "end": 664
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18 percent",
+      "begin": 719,
+      "end": 729
+    },
+    "eventDescription": {
+      "text": "shortage of medicines in pharmacies",
+      "begin": 682,
+      "end": 717
+    },
+    "eventType": "EventO"
+  }
+]

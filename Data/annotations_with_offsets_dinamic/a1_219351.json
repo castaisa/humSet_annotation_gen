@@ -1,0 +1,118 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported that toilets shared by four or more households were not segregated by sex",
+      "start": 1653,
+      "end": 1735
+    },
+    "quantity": {
+      "text": "45%",
+      "start": 1622,
+      "end": 1625
+    },
+    "unit": {
+      "text": "of all assessed households",
+      "start": 1626,
+      "end": 1652
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "toilets shared by four or more households",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 1685,
+      "end": 1689
+    },
+    "unit": {
+      "text": "households",
+      "start": 1698,
+      "end": 1708
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "percentage for Al Hasakeh reporting toilets not segregated by sex",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "74%",
+      "start": 1777,
+      "end": 1780
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "percentage for Ar Raqqa reporting toilets not segregated by sex",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "59%",
+      "start": 1793,
+      "end": 1796
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "percentage for Deir ez Zor reporting toilets not segregated by sex",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "51%",
+      "start": 1815,
+      "end": 1818
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported at least one protection issue related to toilet facilities",
+      "start": 1858,
+      "end": 1925
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 1867,
+      "end": 1875
+    },
+    "quantity": {
+      "text": "54%",
+      "start": 1827,
+      "end": 1830
+    },
+    "unit": {
+      "text": "of all assessed households",
+      "start": 1831,
+      "end": 1857
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "protection issue related to toilet facilities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 1876,
+      "end": 1879
+    },
+    "unit": {
+      "text": "protection issue",
+      "start": 1880,
+      "end": 1896
+    }
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "quantity": {
+      "text": "189",
+      "begin": 68,
+      "end": 71
+    },
+    "unit": {
+      "text": "boys and girls aged 6-59 months",
+      "begin": 72,
+      "end": 103
+    },
+    "eventDescription": {
+      "text": "screened",
+      "begin": 109,
+      "end": 117
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "189",
+      "begin": 263,
+      "end": 266
+    },
+    "unit": {
+      "text": "children",
+      "begin": 267,
+      "end": 275
+    }
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 277,
+      "end": 279
+    },
+    "unit": {
+      "text": "children",
+      "begin": 267,
+      "end": 275
+    },
+    "eventDescription": {
+      "text": "SAM",
+      "begin": 303,
+      "end": 306
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5.8%",
+      "begin": 281,
+      "end": 285
+    },
+    "unit": {
+      "text": "children",
+      "begin": 267,
+      "end": 275
+    },
+    "eventDescription": {
+      "text": "SAM",
+      "begin": 303,
+      "end": 306
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 313,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "MAM",
+      "begin": 339,
+      "end": 342
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7.9%",
+      "begin": 317,
+      "end": 321
+    },
+    "eventDescription": {
+      "text": "MAM",
+      "begin": 339,
+      "end": 342
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "47",
+      "begin": 355,
+      "end": 357
+    },
+    "eventDescription": {
+      "text": "from other accessible LGAs",
+      "begin": 370,
+      "end": 396
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25%%)",
+      "begin": 359,
+      "end": 364
+    },
+    "eventDescription": {
+      "text": "from other accessible LGAs",
+      "begin": 370,
+      "end": 396
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "105",
+      "begin": 398,
+      "end": 401
+    },
+    "eventDescription": {
+      "text": "neighboring countries of Niger, Cameroon and Chad",
+      "begin": 418,
+      "end": 467
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "55%",
+      "begin": 403,
+      "end": 406
+    },
+    "eventDescription": {
+      "text": "neighboring countries of Niger, Cameroon and Chad",
+      "begin": 418,
+      "end": 467
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "37",
+      "begin": 488,
+      "end": 490
+    },
+    "eventDescription": {
+      "text": "inaccessible locations",
+      "begin": 507,
+      "end": 529
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 492,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "inaccessible locations",
+      "begin": 507,
+      "end": 529
+    },
+    "eventType": "EventO"
+  }
+]

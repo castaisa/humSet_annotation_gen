@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "15 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported living in tents"
+  },
+  {
+    "quantity": "15 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported tent was less than one year old"
+  },
+  {
+    "quantity": "85 percent",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "in a vulnerable situation"
+  },
+  {
+    "quantity": "87 percent",
+    "unit": "households in Idleb",
+    "eventType": "EventP",
+    "eventDescription": "living in tents over one year old"
+  },
+  {
+    "quantity": "79 percent",
+    "unit": "households in Aleppo",
+    "eventType": "EventP",
+    "eventDescription": "living in tents over one year old"
+  },
+  {
+    "quantity": "48 percent",
+    "unit": "households in Aleppo",
+    "eventType": "EventP",
+    "eventDescription": "living in tents over two years old",
+    "modifier": "over"
+  },
+  {
+    "quantity": "30 percent",
+    "unit": "households in Idleb",
+    "eventType": "EventP",
+    "eventDescription": "living in tents over two years old",
+    "modifier": "over"
+  }
+]

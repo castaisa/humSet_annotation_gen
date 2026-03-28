@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "70 per cent",
+    "unit": "of the urban population",
+    "eventType": "EventP",
+    "eventDescription": "living in informal settlements"
+  },
+  {
+    "quantity": "10-day",
+    "unit": "visit",
+    "eventType": "EventO",
+    "eventDescription": "duration of visit"
+  },
+  {
+    "quantity": "22 million",
+    "unit": "units",
+    "eventType": "EventA",
+    "eventDescription": "housing deficit"
+  },
+  {
+    "quantity": "130 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "lacking access to adequate sanitation"
+  }
+]

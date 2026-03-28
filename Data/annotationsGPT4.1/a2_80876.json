@@ -1,0 +1,27 @@
+[
+  {
+    "quantity": "over 3,000",
+    "unit": "government registration cards",
+    "eventType": "EventA",
+    "eventDescription": "ready to issue",
+    "modifier": "over"
+  },
+  {
+    "quantity": "16,523",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "registered"
+  },
+  {
+    "quantity": "2,421",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "registered"
+  },
+  {
+    "quantity": "six",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "granted the right to work"
+  }
+]

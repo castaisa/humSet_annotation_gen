@@ -1,0 +1,112 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "provided safe drinking water",
+      "start": 234,
+      "end": 262
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 266,
+      "end": 275
+    },
+    "quantity": {
+      "text": "more than 27,600",
+      "start": 266,
+      "end": 282
+    },
+    "unit": {
+      "text": "internally displaced persons (IDPs)",
+      "start": 283,
+      "end": 318
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "installed",
+      "start": 488,
+      "end": 497
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 498,
+      "end": 503
+    },
+    "unit": {
+      "text": "water tanks and water points",
+      "start": 504,
+      "end": 532
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "constructed or rehabilitated",
+      "start": 562,
+      "end": 590
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 591,
+      "end": 604
+    },
+    "quantity": {
+      "text": "approximately 120",
+      "start": 591,
+      "end": 608
+    },
+    "unit": {
+      "text": "latrines",
+      "start": 609,
+      "end": 617
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "provided safe drinking water",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 774,
+      "end": 780
+    },
+    "quantity": {
+      "text": "nearly 1,500",
+      "start": 774,
+      "end": 786
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 787,
+      "end": 791
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached through hygiene awareness sessions",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 833,
+      "end": 839
+    },
+    "quantity": {
+      "text": "nearly 1,300",
+      "start": 833,
+      "end": 845
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 846,
+      "end": 850
+    }
+  }
+]

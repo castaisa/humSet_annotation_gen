@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 261,
+      "end": 269
+    },
+    "quantity": {
+      "text": "nine (9)",
+      "start": 220,
+      "end": 228
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "start": 229,
+      "end": 250
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "investigated",
+      "start": 301,
+      "end": 313
+    },
+    "quantity": {
+      "text": "seven (07)",
+      "start": 280,
+      "end": 290
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "investigation ongoing",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two (02)",
+      "start": 383,
+      "end": 391
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reclassified as COVID-19 probable cause",
+      "start": 421,
+      "end": 460
+    },
+    "quantity": {
+      "text": "Three (03)",
+      "start": 393,
+      "end": 403
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 404,
+      "end": 410
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 501,
+      "end": 509
+    },
+    "quantity": {
+      "text": "49",
+      "start": 471,
+      "end": 473
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "start": 474,
+      "end": 495
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "undergone investigation",
+      "start": 553,
+      "end": 576
+    },
+    "quantity": {
+      "text": "45",
+      "start": 550,
+      "end": 552
+    },
+    "unit": {
+      "text": "suspected SARI deaths",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed for COVID-19",
+      "start": 597,
+      "end": 619
+    },
+    "quantity": {
+      "text": "One (01)",
+      "start": 578,
+      "end": 586
+    },
+    "unit": {
+      "text": "death",
+      "start": 587,
+      "end": 592
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "considered probable",
+      "start": 632,
+      "end": 651
+    },
+    "quantity": {
+      "text": "two (2)",
+      "start": 624,
+      "end": 631
+    },
+    "unit": {
+      "text": "deaths",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4,638",
+      "start": 58,
+      "end": 63
+    },
+    "unit": {
+      "text": "people",
+      "start": 64,
+      "end": 70
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified stigmatisation as a risk",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27%",
+      "start": 186,
+      "end": 189
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 193,
+      "end": 204
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported stigmatisation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "33%",
+      "start": 443,
+      "end": 446
+    },
+    "unit": {
+      "text": "NW",
+      "start": 439,
+      "end": 441
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported stigmatisation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27%",
+      "start": 456,
+      "end": 459
+    },
+    "unit": {
+      "text": "SW",
+      "start": 452,
+      "end": 454
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported stigmatisation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14%",
+      "start": 479,
+      "end": 482
+    },
+    "unit": {
+      "text": "West",
+      "start": 473,
+      "end": 477
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported stigmatisation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "19%",
+      "start": 498,
+      "end": 501
+    },
+    "unit": {
+      "text": "Littoral",
+      "start": 488,
+      "end": 496
+    }
+  }
+]

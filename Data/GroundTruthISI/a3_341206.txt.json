@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "Dozens",
+      "begin": 164,
+      "end": 170
+    },
+    "unit": {
+      "text": "people",
+      "begin": 174,
+      "end": 180
+    },
+    "eventDescription": {
+      "text": "took to the streets in the city of Qamishli and other areas calling on the authorities to reverse the price hike",
+      "begin": 181,
+      "end": 293
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 491,
+      "end": 494
+    },
+    "unit": {
+      "text": "protester",
+      "begin": 495,
+      "end": 504
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 509,
+      "end": 515
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 520,
+      "end": 524
+    },
+    "unit": {
+      "text": "protester",
+      "begin": 495,
+      "end": 504
+    },
+    "eventDescription": {
+      "text": "wounded",
+      "begin": 537,
+      "end": 544
+    },
+    "eventType": "EventP"
+  }
+]

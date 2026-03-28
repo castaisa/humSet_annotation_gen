@@ -1,0 +1,272 @@
+[
+  {
+    "quantity": {
+      "text": "19 percent to 33 percent",
+      "begin": 104,
+      "end": 128
+    },
+    "unit": {
+      "text": "prevalence of  chronic malnutrition among children aged 6-59 months",
+      "begin": 21,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 89,
+      "end": 98
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "33 percent",
+      "begin": 118,
+      "end": 128
+    },
+    "unit": {
+      "text": "prevalence of  chronic malnutrition among children aged 6-59 months",
+      "begin": 21,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 89,
+      "end": 98
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "19 percent",
+      "begin": 104,
+      "end": 114
+    },
+    "unit": {
+      "text": "prevalence of  chronic malnutrition among children aged 6-59 months",
+      "begin": 21,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 89,
+      "end": 98
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "35percent",
+      "begin": 130,
+      "end": 139
+    },
+    "unit": {
+      "text": "prevalence of  chronic malnutrition among children aged 6-59 months",
+      "begin": 21,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 89,
+      "end": 98
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "31percent",
+      "begin": 150,
+      "end": 159
+    },
+    "unit": {
+      "text": "prevalence of  chronic malnutrition among children aged 6-59 months",
+      "begin": 21,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 89,
+      "end": 98
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1 percent to 2 percent",
+      "begin": 265,
+      "end": 287
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "begin": 217,
+      "end": 249
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 250,
+      "end": 259
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1 percent",
+      "begin": 265,
+      "end": 274
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "begin": 217,
+      "end": 249
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 250,
+      "end": 259
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2 percent",
+      "begin": 278,
+      "end": 287
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition",
+      "begin": 217,
+      "end": 249
+    },
+    "eventDescription": {
+      "text": "increased",
+      "begin": 250,
+      "end": 259
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11 percent",
+      "begin": 417,
+      "end": 427
+    },
+    "unit": {
+      "text": "prevalence of acute malnutrition across northwest Syria",
+      "begin": 355,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "prevalence of acute malnutrition across northwest Syria",
+      "begin": 355,
+      "end": 410
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4 percent vs. 1 percent",
+      "begin": 622,
+      "end": 645
+    },
+    "unit": {
+      "text": "prevalence  of  acute  malnutrition",
+      "begin": 511,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "higher",
+      "begin": 553,
+      "end": 559
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4 percent",
+      "begin": 622,
+      "end": 631
+    },
+    "unit": {
+      "text": "prevalence  of  acute  malnutrition",
+      "begin": 511,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "higher",
+      "begin": 553,
+      "end": 559
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1 percent",
+      "begin": 636,
+      "end": 645
+    },
+    "unit": {
+      "text": "prevalence  of  acute  malnutrition",
+      "begin": 511,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "higher",
+      "begin": 553,
+      "end": 559
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20 percent vs. 2 percent",
+      "begin": 656,
+      "end": 680
+    },
+    "unit": {
+      "text": "prevalence  of  acute  malnutrition",
+      "begin": 511,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "higher",
+      "begin": 553,
+      "end": 559
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20 percent",
+      "begin": 656,
+      "end": 666
+    },
+    "unit": {
+      "text": "prevalence  of  acute  malnutrition",
+      "begin": 511,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "higher",
+      "begin": 553,
+      "end": 559
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2 percent",
+      "begin": 671,
+      "end": 680
+    },
+    "unit": {
+      "text": "prevalence  of  acute  malnutrition",
+      "begin": 511,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "higher",
+      "begin": 553,
+      "end": 559
+    },
+    "eventType": "EventP"
+  }
+]

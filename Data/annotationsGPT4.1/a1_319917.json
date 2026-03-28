@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "46",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "reunified with their biological families"
+  },
+  {
+    "quantity": "more than 2,742",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "participated in psychosocial support activities",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "1,191",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "participated in psychosocial support activities"
+  },
+  {
+    "quantity": "1,551",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "participated in psychosocial support activities"
+  },
+  {
+    "quantity": "979",
+    "unit": "adults",
+    "eventType": "EventP",
+    "eventDescription": "participated in psychosocial support activities"
+  },
+  {
+    "quantity": "406",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "participated in psychosocial support activities"
+  },
+  {
+    "quantity": "573",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "participated in psychosocial support activities"
+  },
+  {
+    "quantity": "Forty-one",
+    "unit": "case workers",
+    "eventType": "EventP",
+    "eventDescription": "participated in a CP training"
+  },
+  {
+    "quantity": "28",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "participated in a CP training"
+  },
+  {
+    "quantity": "13",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "participated in a CP training"
+  }
+]

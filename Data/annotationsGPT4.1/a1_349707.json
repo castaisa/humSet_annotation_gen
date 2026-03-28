@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "4 556",
+    "unit": "fatalities",
+    "eventType": "EventP",
+    "eventDescription": "fatalities recorded"
+  },
+  {
+    "quantity": "3 188",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "comparison value for fatalities"
+  },
+  {
+    "quantity": "3 858",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "civilian fatalities"
+  },
+  {
+    "quantity": "2 707",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "comparison value for civilian fatalities"
+  },
+  {
+    "quantity": "1 176",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "fatalities in Borno state"
+  },
+  {
+    "quantity": "628",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "fatalities in Kaduna state"
+  },
+  {
+    "quantity": "2 677",
+    "unit": "\u2018lethal incidents\u2019",
+    "eventType": "EventO",
+    "eventDescription": "lethal incidents recorded"
+  },
+  {
+    "quantity": "12 318",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people killed"
+  },
+  {
+    "quantity": "11 277",
+    "unit": "\u2018violent deaths\u2019",
+    "eventType": "EventP",
+    "eventDescription": "violent deaths recorded"
+  },
+  {
+    "quantity": "3 069",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "fatalities in Borno state"
+  },
+  {
+    "quantity": "1 346",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "fatalities in Kaduna"
+  },
+  {
+    "quantity": "1 099",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "fatalities in Katsina"
+  },
+  {
+    "quantity": "831",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "fatalities in Zamfara"
+  },
+  {
+    "quantity": "547",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "fatalities in Niger"
+  }
+]

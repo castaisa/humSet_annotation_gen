@@ -1,0 +1,142 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "bulk foods price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "112,000",
+      "start": 38,
+      "end": 45
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 46,
+      "end": 49
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "bulk foods price",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "35",
+      "start": 51,
+      "end": 53
+    },
+    "unit": {
+      "text": "USD",
+      "start": 54,
+      "end": 57
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "one month price change",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5%",
+      "start": 95,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "six month price change",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25%",
+      "start": 134,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "rice price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12%",
+      "start": 159,
+      "end": 162
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sugar price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9%",
+      "start": 185,
+      "end": 187
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "red lentils price increase",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 216,
+      "end": 218
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "tomato paste price change",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0%",
+      "start": 246,
+      "end": 248
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "salt price change",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0%",
+      "start": 269,
+      "end": 271
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "bulgur price decrease",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "-8%",
+      "start": 293,
+      "end": 296
+    }
+  }
+]

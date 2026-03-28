@@ -1,0 +1,127 @@
+[
+  {
+    "quantity": {
+      "text": "50 000",
+      "begin": 210,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "lowered the tariff",
+      "begin": 177,
+      "end": 195
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "tonnes of\nrice",
+      "begin": 217,
+      "end": 231
+    }
+  },
+  {
+    "quantity": {
+      "text": "one-third",
+      "begin": 233,
+      "end": 242
+    },
+    "unit": {
+      "text": "average imports",
+      "begin": 250,
+      "end": 265
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 282,
+      "end": 286
+    },
+    "unit": {
+      "text": "years",
+      "begin": 287,
+      "end": 292
+    }
+  },
+  {
+    "quantity": {
+      "text": "850 000",
+      "begin": 413,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "distributing\nfood kits",
+      "begin": 387,
+      "end": 409
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "students",
+      "begin": 421,
+      "end": 429
+    }
+  },
+  {
+    "quantity": {
+      "text": "200 000",
+      "begin": 504,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "allocating a monthly subsidy",
+      "begin": 465,
+      "end": 493
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "CRC",
+      "begin": 500,
+      "end": 503
+    }
+  },
+  {
+    "quantity": {
+      "text": "350",
+      "begin": 523,
+      "end": 526
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 513,
+      "end": 518
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 519,
+      "end": 522
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 568,
+      "end": 573
+    },
+    "unit": {
+      "text": "months",
+      "begin": 574,
+      "end": 580
+    }
+  },
+  {
+    "quantity": {
+      "text": "375 000",
+      "begin": 590,
+      "end": 597
+    },
+    "unit": {
+      "text": "households",
+      "begin": 598,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "have been\neconomically affected",
+      "begin": 614,
+      "end": 645
+    },
+    "eventType": "EventP"
+  }
+]

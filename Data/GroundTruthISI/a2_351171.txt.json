@@ -1,0 +1,191 @@
+[
+  {
+    "quantity": {
+      "text": "70 223",
+      "begin": 119,
+      "end": 125
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 126,
+      "end": 136
+    }
+  },
+  {
+    "quantity": {
+      "text": "13 percent",
+      "begin": 138,
+      "end": 148
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 149,
+      "end": 154
+    }
+  },
+  {
+    "quantity": {
+      "text": "22 percent",
+      "begin": 248,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "notable m-o-m decrease in the selling price of herbicides was recorded",
+      "begin": 168,
+      "end": 238
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21 percent",
+      "begin": 270,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "notable m-o-m decrease in the selling price of herbicides was recorded",
+      "begin": 168,
+      "end": 238
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15 percent",
+      "begin": 289,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "notable m-o-m decrease in the selling price of herbicides was recorded",
+      "begin": 168,
+      "end": 238
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15 percent",
+      "begin": 308,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "notable m-o-m decrease in the selling price of herbicides was recorded",
+      "begin": 168,
+      "end": 238
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13 percent)",
+      "begin": 329,
+      "end": 340
+    },
+    "eventDescription": {
+      "text": "notable m-o-m decrease in the selling price of herbicides was recorded",
+      "begin": 168,
+      "end": 238
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "13 percent)",
+      "begin": 351,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "notable m-o-m decrease in the selling price of herbicides was recorded",
+      "begin": 168,
+      "end": 238
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12 percent",
+      "begin": 380,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "notable m-o-m decrease in the selling price of herbicides was recorded",
+      "begin": 168,
+      "end": 238
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "4 percent",
+      "begin": 487,
+      "end": 496
+    },
+    "eventDescription": {
+      "text": "liquid herbicides recorded",
+      "begin": 458,
+      "end": 484
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 497,
+      "end": 502
+    }
+  },
+  {
+    "quantity": {
+      "text": "48 942",
+      "begin": 545,
+      "end": 551
+    },
+    "unit": {
+      "text": "SYP per litre",
+      "begin": 552,
+      "end": 565
+    }
+  },
+  {
+    "quantity": {
+      "text": "14",
+      "begin": 673,
+      "end": 675
+    },
+    "eventDescription": {
+      "text": "All of the monitored governorates witnessed a m-o-m decrease in the average selling price",
+      "begin": 567,
+      "end": 656
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6 percent",
+      "begin": 679,
+      "end": 688
+    },
+    "eventDescription": {
+      "text": "All of the monitored governorates witnessed a m-o-m decrease in the average selling price",
+      "begin": 567,
+      "end": 656
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "27 000",
+      "begin": 776,
+      "end": 782
+    },
+    "eventDescription": {
+      "text": "herbicide price remained constant",
+      "begin": 739,
+      "end": 772
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per litre",
+      "begin": 783,
+      "end": 796
+    }
+  }
+]

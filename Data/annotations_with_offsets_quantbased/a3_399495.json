@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17",
+      "start": 294,
+      "end": 296
+    },
+    "eventDescription": {
+      "text": "community-based structure established",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "protection coordinators",
+      "start": 297,
+      "end": 320
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "100",
+      "start": 327,
+      "end": 330
+    },
+    "eventDescription": {
+      "text": "community-based structure established",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "protection monitors",
+      "start": 331,
+      "end": 350
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "50",
+      "start": 359,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "community-based structure established",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "human rights monitors",
+      "start": 362,
+      "end": 383
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "250",
+      "start": 388,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "community-based structure established",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "protection action group members",
+      "start": 392,
+      "end": 423
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "148,000",
+      "start": 644,
+      "end": 651
+    },
+    "eventDescription": {
+      "text": "benefitted from awareness campaigns",
+      "start": 657,
+      "end": 692
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 652,
+      "end": 656
+    }
+  }
+]

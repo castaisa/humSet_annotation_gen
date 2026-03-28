@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "five",
+    "unit": "days",
+    "eventType": "EventA",
+    "eventDescription": "duration of Immediate Response Rations (IRRs)"
+  },
+  {
+    "quantity": "2 kilograms",
+    "unit": "High Energy Biscuits (HEBs)",
+    "eventType": "EventA",
+    "eventDescription": "provided to families"
+  },
+  {
+    "quantity": "2.4 kilograms",
+    "unit": "date bars",
+    "eventType": "EventA",
+    "eventDescription": "provided to families"
+  },
+  {
+    "quantity": "5,210",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "received Immediate Response Rations (IRRs)"
+  },
+  {
+    "quantity": "4,175",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "received High Energy Biscuits (HEBs)"
+  },
+  {
+    "quantity": "834",
+    "unit": "households",
+    "eventType": "EventA",
+    "eventDescription": "received date bars"
+  }
+]

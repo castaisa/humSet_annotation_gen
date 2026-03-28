@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "10",
+    "unit": "tanks",
+    "eventType": "EventA",
+    "eventDescription": "water tanks provided"
+  },
+  {
+    "quantity": "45,000",
+    "unit": "liters of water",
+    "eventType": "EventA",
+    "eventDescription": "water supplied daily"
+  },
+  {
+    "quantity": "60,000",
+    "unit": "liters of water",
+    "eventType": "EventA",
+    "eventDescription": "water supplied daily"
+  },
+  {
+    "quantity": "45\u00ba",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "temperature reached"
+  },
+  {
+    "quantity": "two",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "frequency of water delivery"
+  },
+  {
+    "quantity": "three",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "frequency of water delivery"
+  }
+]

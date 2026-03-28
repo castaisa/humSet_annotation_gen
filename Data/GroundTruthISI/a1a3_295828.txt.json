@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 285,
+      "end": 288
+    },
+    "unit": {
+      "text": "proportion of assessed settlements",
+      "begin": 162,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "reporting adequate access to food remained comparable",
+      "begin": 197,
+      "end": 250
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "53%",
+      "begin": 304,
+      "end": 307
+    },
+    "unit": {
+      "text": "proportion of assessed settlements",
+      "begin": 162,
+      "end": 196
+    },
+    "eventDescription": {
+      "text": "reporting adequate access to food remained comparable",
+      "begin": 197,
+      "end": 250
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "36%",
+      "begin": 470,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "prevented",
+      "begin": 460,
+      "end": 469
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "population",
+      "begin": 481,
+      "end": 491
+    }
+  }
+]

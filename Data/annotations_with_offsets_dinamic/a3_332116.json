@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "damaged",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,416",
+      "start": 180,
+      "end": 185
+    },
+    "unit": {
+      "text": "shelters",
+      "start": 186,
+      "end": 194
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported shelter as most needed assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 743,
+      "end": 746
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 754,
+      "end": 765
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported food as most needed assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32%",
+      "start": 785,
+      "end": 788
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported NFIs as most needed assistance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11%",
+      "start": 800,
+      "end": 803
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  }
+]

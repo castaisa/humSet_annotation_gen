@@ -1,0 +1,123 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefited from the PEP",
+      "start": 209,
+      "end": 231
+    },
+    "quantity": {
+      "text": "182,000",
+      "start": 194,
+      "end": 201
+    },
+    "unit": {
+      "text": "people",
+      "start": 202,
+      "end": 208
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have legalised their status in Colombia",
+      "start": 513,
+      "end": 552
+    },
+    "modifier": {
+      "text": "nearly",
+      "start": 480,
+      "end": 486
+    },
+    "quantity": {
+      "text": "700,000",
+      "start": 487,
+      "end": 494
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 446,
+      "end": 457
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "have legalised their status in Colombia",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "59%",
+      "start": 508,
+      "end": 511
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are in an irregular situation",
+      "start": 579,
+      "end": 608
+    },
+    "modifier": {
+      "text": "almost",
+      "start": 558,
+      "end": 564
+    },
+    "quantity": {
+      "text": "500,000",
+      "start": 565,
+      "end": 572
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are in an irregular situation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 574,
+      "end": 577
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "hold a Border Mobility Card (TMF)",
+      "start": 671,
+      "end": 704
+    },
+    "quantity": {
+      "text": "2,7 million",
+      "start": 641,
+      "end": 652
+    },
+    "unit": {
+      "text": "Venezuelan people",
+      "start": 653,
+      "end": 670
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "allowed to stay in Colombia with TMF",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 754,
+      "end": 757
+    },
+    "unit": {
+      "text": "week",
+      "start": 758,
+      "end": 762
+    }
+  }
+]

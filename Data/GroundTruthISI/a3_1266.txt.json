@@ -1,0 +1,97 @@
+[
+  {
+    "quantity": {
+      "text": "707",
+      "begin": 16,
+      "end": 19
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 20,
+      "end": 31
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 75,
+      "end": 86
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "138",
+      "begin": 43,
+      "end": 46
+    },
+    "unit": {
+      "text": "women",
+      "begin": 47,
+      "end": 52
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 75,
+      "end": 86
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "85",
+      "begin": 57,
+      "end": 59
+    },
+    "unit": {
+      "text": "children",
+      "begin": 60,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "disembarked",
+      "begin": 75,
+      "end": 86
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "143",
+      "begin": 419,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "identified",
+      "begin": 408,
+      "end": 418
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "refugees and asylumseekers",
+      "begin": 423,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "60 and 100",
+      "begin": 620,
+      "end": 630
+    },
+    "modifier": {
+      "text": "between",
+      "begin": 612,
+      "end": 619
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 631,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "reported as missing",
+      "begin": 648,
+      "end": 667
+    },
+    "eventType": "EventP"
+  }
+]

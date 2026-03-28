@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "29 per cent",
+      "start": 65,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "attending school for more than 3 days per week",
+      "start": 121,
+      "end": 167
+    },
+    "unit": {
+      "text": "girls",
+      "start": 80,
+      "end": 85
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "35 per cent",
+      "start": 90,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "attending school for more than 3 days per week",
+      "start": 121,
+      "end": 167
+    },
+    "unit": {
+      "text": "boys",
+      "start": 105,
+      "end": 109
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 152,
+      "end": 153
+    },
+    "eventDescription": {
+      "text": "attending school for more than 3 days per week",
+      "start": 121,
+      "end": 167
+    },
+    "unit": {
+      "text": "days per week",
+      "start": 154,
+      "end": 167
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 175,
+      "end": 180
+    },
+    "eventDescription": {
+      "text": "prior to data collection",
+      "start": 188,
+      "end": 212
+    },
+    "unit": {
+      "text": "months",
+      "start": 181,
+      "end": 187
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "35 per cent",
+      "start": 515,
+      "end": 526
+    },
+    "eventDescription": {
+      "text": "are qualified",
+      "start": 567,
+      "end": 580
+    },
+    "unit": {
+      "text": "assessed primary school teachers",
+      "start": 534,
+      "end": 566
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1:74",
+      "start": 686,
+      "end": 690
+    },
+    "eventDescription": {
+      "text": "at primary level in some regions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "pupil textbook ratio",
+      "start": 635,
+      "end": 655
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "quantity": "73 000",
+    "unit": "ANC-1 services",
+    "eventType": "EventA",
+    "eventDescription": "provided",
+    "modifier": "More than"
+  },
+  {
+    "quantity": "17%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "increase in ANC-1 service utilization"
+  },
+  {
+    "quantity": "6%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "decrease in ANC-1 service status"
+  },
+  {
+    "quantity": "36 000",
+    "unit": "PNC-1 services",
+    "eventType": "EventA",
+    "eventDescription": "provided",
+    "modifier": "About"
+  },
+  {
+    "quantity": "11%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "decline in PNC service utilization"
+  }
+]

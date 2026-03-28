@@ -1,0 +1,93 @@
+[
+  {
+    "quantity": "318",
+    "unit": "houses",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "2,802",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "431",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "1,716",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "displaced"
+  },
+  {
+    "quantity": "61%",
+    "unit": "of the displaced individuals",
+    "eventType": "EventP",
+    "eventDescription": "hosted"
+  },
+  {
+    "quantity": "549",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "20%",
+    "unit": "of the affected",
+    "eventType": "EventP",
+    "eventDescription": "women"
+  },
+  {
+    "quantity": "1,693",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "60%",
+    "unit": "of the affected",
+    "eventType": "EventP",
+    "eventDescription": "children"
+  },
+  {
+    "quantity": "168",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "elderly"
+  },
+  {
+    "quantity": "Six per cent",
+    "unit": "of the affected",
+    "eventType": "EventP",
+    "eventDescription": "elderly"
+  },
+  {
+    "quantity": "392",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "14%",
+    "unit": "of the affected",
+    "eventType": "EventP",
+    "eventDescription": "men"
+  },
+  {
+    "quantity": "Over 87 per cent",
+    "unit": "of the displaced population",
+    "eventType": "EventP",
+    "eventDescription": "taken refuge",
+    "modifier": "over"
+  },
+  {
+    "quantity": "13 per cent",
+    "unit": "of the displaced population",
+    "eventType": "EventP",
+    "eventDescription": "living in open spaces"
+  }
+]

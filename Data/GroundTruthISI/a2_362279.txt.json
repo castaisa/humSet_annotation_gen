@@ -1,0 +1,76 @@
+[
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 265,
+      "end": 267
+    },
+    "unit": {
+      "text": "confirmed COVID-19 cases",
+      "begin": 230,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "begin": 230,
+      "end": 254
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "186",
+      "begin": 281,
+      "end": 284
+    },
+    "unit": {
+      "text": "confirmed COVID-19 cases",
+      "begin": 230,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "begin": 230,
+      "end": 254
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "168,442",
+      "begin": 354,
+      "end": 361
+    },
+    "unit": {
+      "text": "total number of cases",
+      "begin": 314,
+      "end": 335
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,122",
+      "begin": 367,
+      "end": 372
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 373,
+      "end": 379
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "164,423",
+      "begin": 384,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "recoveries",
+      "begin": 392,
+      "end": 402
+    },
+    "eventType": "EventP"
+  }
+]

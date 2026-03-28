@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 9,
+      "end": 14
+    },
+    "eventDescription": {
+      "text": "explosive incidents occurred",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "separate explosive incidents",
+      "start": 15,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 95,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "INGO staff member",
+      "start": 99,
+      "end": 116
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 118,
+      "end": 123
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 124,
+      "end": 132
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 138,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "female",
+      "start": 142,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "driver",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 175,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": 154,
+      "end": 161
+    },
+    "unit": {
+      "text": "other children",
+      "start": 179,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "water truck",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "driver",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "injured",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "passenger",
+      "start": null,
+      "end": null
+    }
+  }
+]

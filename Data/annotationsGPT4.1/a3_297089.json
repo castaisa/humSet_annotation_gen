@@ -1,0 +1,53 @@
+[
+  {
+    "quantity": "at least one",
+    "unit": "civilian",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "33%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reporting incidents of conflict"
+  },
+  {
+    "quantity": "32%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reporting incidents of conflict"
+  },
+  {
+    "quantity": "at least one",
+    "unit": "fatal incident",
+    "eventType": "EventO",
+    "eventDescription": "reporting fatal incident resulting from conflict",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "seven",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "36%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reporting an incident of conflict"
+  },
+  {
+    "quantity": "at least one",
+    "unit": "civilian",
+    "eventType": "EventP",
+    "eventDescription": "death",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "33%",
+    "unit": "assessed settlements",
+    "eventType": "EventO",
+    "eventDescription": "reported incident of conflict"
+  }
+]

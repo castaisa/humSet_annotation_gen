@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 832,
+      "end": 833
+    },
+    "unit": {
+      "text": "region",
+      "begin": 825,
+      "end": 831
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 838,
+      "end": 839
+    },
+    "unit": {
+      "text": "region",
+      "begin": 825,
+      "end": 831
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 985,
+      "end": 988
+    },
+    "unit": {
+      "text": "participant",
+      "begin": 989,
+      "end": 1000
+    },
+    "eventDescription": {
+      "text": "stated",
+      "begin": 1001,
+      "end": 1007
+    },
+    "eventType": "EventO"
+  }
+]

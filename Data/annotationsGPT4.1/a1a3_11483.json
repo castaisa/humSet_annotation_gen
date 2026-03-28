@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "five",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "reported incidents"
+  },
+  {
+    "quantity": "55 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "drop from the previous week"
+  },
+  {
+    "quantity": "five",
+    "unit": "incidents",
+    "eventType": "EventO",
+    "eventDescription": "incidents caused by airstrikes"
+  },
+  {
+    "quantity": "four",
+    "unit": "civilian casualties",
+    "eventType": "EventP",
+    "eventDescription": "civilian casualties"
+  },
+  {
+    "quantity": "112",
+    "unit": "casualties",
+    "eventType": "EventP",
+    "eventDescription": "casualties in the previous week"
+  },
+  {
+    "quantity": "100",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households potentially lost livelihoods",
+    "modifier": "as many as"
+  },
+  {
+    "quantity": "2,000",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households experienced restricted access to gas supply",
+    "modifier": "as many as"
+  }
+]

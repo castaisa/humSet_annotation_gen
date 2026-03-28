@@ -1,0 +1,112 @@
+[
+  {
+    "quantity": {
+      "text": "27,600",
+      "begin": 276,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "provided safe drinking water",
+      "begin": 234,
+      "end": 262
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "more than",
+      "begin": 266,
+      "end": 275
+    },
+    "unit": {
+      "text": "internally displaced persons (IDPs)",
+      "begin": 283,
+      "end": 318
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 498,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "installed",
+      "begin": 488,
+      "end": 497
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "water tanks and water points",
+      "begin": 504,
+      "end": 532
+    }
+  },
+  {
+    "quantity": {
+      "text": "120",
+      "begin": 605,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "constructed or rehabilitated",
+      "begin": 562,
+      "end": 590
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "approximately",
+      "begin": 591,
+      "end": 604
+    },
+    "unit": {
+      "text": "latrines",
+      "begin": 609,
+      "end": 617
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,500",
+      "begin": 781,
+      "end": 786
+    },
+    "eventDescription": {
+      "text": "providing safe drinking water",
+      "begin": 741,
+      "end": 770
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "nearly",
+      "begin": 774,
+      "end": 780
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 787,
+      "end": 791
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,300",
+      "begin": 840,
+      "end": 845
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 825,
+      "end": 832
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "nearly",
+      "begin": 833,
+      "end": 839
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 846,
+      "end": 850
+    }
+  }
+]

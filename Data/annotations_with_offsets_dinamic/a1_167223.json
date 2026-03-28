@@ -1,0 +1,25 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported to the authorities",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "less than",
+      "start": 367,
+      "end": 376
+    },
+    "quantity": {
+      "text": "less than 40",
+      "start": 367,
+      "end": 379
+    },
+    "unit": {
+      "text": "cases",
+      "start": 380,
+      "end": 385
+    }
+  }
+]

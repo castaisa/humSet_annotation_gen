@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "50",
+      "start": 305,
+      "end": 307
+    },
+    "eventDescription": {
+      "text": "hospital capacity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "bed",
+      "start": 308,
+      "end": 311
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "two",
+      "start": 346,
+      "end": 349
+    },
+    "eventDescription": {
+      "text": "hospital facilities",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "operations rooms",
+      "start": 350,
+      "end": 366
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "3,000",
+      "start": 643,
+      "end": 648
+    },
+    "eventDescription": {
+      "text": "medical supplies provided",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "renal dialysis sessions",
+      "start": 649,
+      "end": 672
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "about 180",
+      "start": 718,
+      "end": 727
+    },
+    "eventDescription": {
+      "text": "patients covered",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "kidney failure patients",
+      "start": 728,
+      "end": 751
+    },
+    "modifier": {
+      "text": "about",
+      "start": 718,
+      "end": 723
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 779,
+      "end": 782
+    },
+    "eventDescription": {
+      "text": "estimated period",
+      "start": 759,
+      "end": 775
+    },
+    "unit": {
+      "text": "months",
+      "start": 783,
+      "end": 789
+    }
+  }
+]

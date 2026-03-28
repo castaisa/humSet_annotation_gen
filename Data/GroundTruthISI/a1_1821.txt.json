@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "Thousands",
+      "begin": 0,
+      "end": 9
+    },
+    "unit": {
+      "text": "Libyans",
+      "begin": 13,
+      "end": 20
+    },
+    "eventDescription": {
+      "text": "have been detained arbitrarily",
+      "begin": 21,
+      "end": 51
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 291,
+      "end": 294
+    },
+    "eventDescription": {
+      "text": "who have been held for periods",
+      "begin": 245,
+      "end": 275
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "years",
+      "begin": 295,
+      "end": 300
+    }
+  },
+  {
+    "quantity": {
+      "text": "Hundreds",
+      "begin": 906,
+      "end": 914
+    },
+    "unit": {
+      "text": "released detainees",
+      "begin": 918,
+      "end": 936
+    },
+    "eventDescription": {
+      "text": "have no access to specialised medical, psychological and rehabilitation services",
+      "begin": 937,
+      "end": 1017
+    },
+    "eventType": "EventO"
+  }
+]

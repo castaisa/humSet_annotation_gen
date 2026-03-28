@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "80,000",
+    "unit": "assorted Information, Education and Communication (IEC) materials",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "500",
+    "unit": "posters",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "15,000",
+    "unit": "traveler information cards",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "10,000",
+    "unit": "leaflets",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "Over 34,683",
+    "unit": "radio jingles",
+    "eventType": "EventA",
+    "eventDescription": "broadcasted",
+    "modifier": "over"
+  },
+  {
+    "quantity": "18",
+    "unit": "radio stations",
+    "eventType": "EventO",
+    "eventDescription": "broadcasted"
+  },
+  {
+    "quantity": "40 percent",
+    "unit": "of the population",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "200-300",
+    "unit": "calls per week",
+    "eventType": "EventO",
+    "eventDescription": "received"
+  }
+]

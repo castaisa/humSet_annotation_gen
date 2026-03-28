@@ -1,0 +1,174 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "55.38%",
+      "start": 92,
+      "end": 98
+    },
+    "eventDescription": {
+      "text": "stayed in the reception centre before relocation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 79,
+      "end": 90
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "44.62 per cent",
+      "start": 186,
+      "end": 200
+    },
+    "eventDescription": {
+      "text": "never stayed in the reception centre",
+      "start": 216,
+      "end": 252
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 272,
+      "end": 283
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "91.09 per cent",
+      "start": 254,
+      "end": 268
+    },
+    "eventDescription": {
+      "text": "lived in the reception centre for more than three days after arrival",
+      "start": 344,
+      "end": 412
+    },
+    "unit": {
+      "text": "respondents who once stayed in the reception centre",
+      "start": 272,
+      "end": 323
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "more than three",
+      "start": 378,
+      "end": 393
+    },
+    "eventDescription": {
+      "text": "duration lived in the reception centre after arrival",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 394,
+      "end": 398
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 378,
+      "end": 387
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5.30 per cent",
+      "start": 414,
+      "end": 427
+    },
+    "eventDescription": {
+      "text": "stayed in the reception centre between one to two days",
+      "start": 438,
+      "end": 492
+    },
+    "unit": {
+      "text": "respondents who once stayed in the reception centre",
+      "start": 272,
+      "end": 323
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one to two",
+      "start": 477,
+      "end": 487
+    },
+    "eventDescription": {
+      "text": "duration stayed in the reception centre",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 488,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "156",
+      "start": 500,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "stayed in the reception centre for about 72 hours before relocation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 519,
+      "end": 530
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.61%",
+      "start": 505,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "stayed in the reception centre for about 72 hours before relocation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 519,
+      "end": 530
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "about 72",
+      "start": 576,
+      "end": 584
+    },
+    "eventDescription": {
+      "text": "duration stayed in the reception centre before relocation",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "hours",
+      "start": 585,
+      "end": 590
+    },
+    "modifier": {
+      "text": "about",
+      "start": 576,
+      "end": 581
+    }
+  }
+]

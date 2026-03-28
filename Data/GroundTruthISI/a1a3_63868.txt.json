@@ -1,0 +1,108 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 124,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "Government of Trinidad and Tobago began issuing registration cards to Venezuelans who had registered",
+      "begin": 16,
+      "end": 116
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "week exercise",
+      "begin": 127,
+      "end": 140
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 255,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "registration cards will allow Venezuelans to work legally",
+      "begin": 193,
+      "end": 250
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "months",
+      "begin": 259,
+      "end": 265
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 301,
+      "end": 304
+    },
+    "eventDescription": {
+      "text": "renewal",
+      "begin": 281,
+      "end": 288
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "another",
+      "begin": 293,
+      "end": 300
+    },
+    "unit": {
+      "text": "months",
+      "begin": 305,
+      "end": 311
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 473,
+      "end": 476
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 464,
+      "end": 472
+    },
+    "unit": {
+      "text": "bank in Trinidad and Tobago",
+      "begin": 477,
+      "end": 504
+    },
+    "eventDescription": {
+      "text": "announced that it will accept it as one of two forms of identification needed to access banking services (savings accounts and ATMs)",
+      "begin": 505,
+      "end": 637
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 541,
+      "end": 544
+    },
+    "unit": {
+      "text": "forms of identification",
+      "begin": 552,
+      "end": 575
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 548,
+      "end": 551
+    },
+    "unit": {
+      "text": "forms of identification",
+      "begin": 552,
+      "end": 575
+    }
+  }
+]

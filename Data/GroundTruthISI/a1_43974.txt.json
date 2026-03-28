@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "1,420",
+      "begin": 82,
+      "end": 87
+    },
+    "unit": {
+      "text": "cases of severe acute malnutrition",
+      "begin": 88,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 128,
+      "end": 136
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "159",
+      "begin": 186,
+      "end": 189
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 170,
+      "end": 178
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 179,
+      "end": 184
+    }
+  },
+  {
+    "quantity": {
+      "text": "53",
+      "begin": 232,
+      "end": 234
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 235,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 251,
+      "end": 259
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Five",
+      "begin": 329,
+      "end": 333
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 334,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition were reported",
+      "begin": 357,
+      "end": 396
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 406,
+      "end": 407
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 334,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition were reported",
+      "begin": 357,
+      "end": 396
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 434,
+      "end": 435
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 334,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition were reported",
+      "begin": 357,
+      "end": 396
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 478,
+      "end": 479
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 334,
+      "end": 351
+    },
+    "eventDescription": {
+      "text": "severe acute malnutrition were reported",
+      "begin": 357,
+      "end": 396
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 512,
+      "end": 515
+    },
+    "unit": {
+      "text": "neonatal death",
+      "begin": 516,
+      "end": 530
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 535,
+      "end": 543
+    },
+    "eventType": "EventO"
+  }
+]

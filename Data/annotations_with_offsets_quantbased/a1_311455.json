@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,211",
+      "start": 56,
+      "end": 61
+    },
+    "eventDescription": {
+      "text": "relocated",
+      "start": 245,
+      "end": 254
+    },
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "start": 62,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "5,250",
+      "start": 230,
+      "end": 235
+    },
+    "eventDescription": {
+      "text": "relocated",
+      "start": 245,
+      "end": 254
+    },
+    "unit": {
+      "text": "refugees",
+      "start": 236,
+      "end": 244
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "490",
+      "start": 353,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "supported with",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "emergency shelters",
+      "start": 357,
+      "end": 375
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "115",
+      "start": 468,
+      "end": 471
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": 456,
+      "end": 467
+    },
+    "unit": {
+      "text": "hand-washing devices",
+      "start": 472,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "100",
+      "start": 497,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "start": 456,
+      "end": 467
+    },
+    "unit": {
+      "text": "cartons of soap",
+      "start": 501,
+      "end": 516
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "500",
+      "start": 531,
+      "end": 534
+    },
+    "eventDescription": {
+      "text": "supported",
+      "start": 615,
+      "end": 624
+    },
+    "unit": {
+      "text": "families",
+      "start": 535,
+      "end": 543
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "440",
+      "start": 555,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "supported",
+      "start": 615,
+      "end": 624
+    },
+    "unit": {
+      "text": "families from the refugee",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60",
+      "start": 580,
+      "end": 582
+    },
+    "eventDescription": {
+      "text": "supported",
+      "start": 615,
+      "end": 624
+    },
+    "unit": {
+      "text": "families from the host communities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "10",
+      "start": 635,
+      "end": 637
+    },
+    "eventDescription": {
+      "text": "supported each family with",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "goats",
+      "start": 638,
+      "end": 643
+    }
+  }
+]

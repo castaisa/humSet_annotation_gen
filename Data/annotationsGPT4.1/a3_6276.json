@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "24 per cent",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "severely food insecure"
+  },
+  {
+    "quantity": "60 per cent",
+    "unit": "internally displaced persons (IDPs) population",
+    "eventType": "EventP",
+    "eventDescription": "struggling with food insecurity"
+  },
+  {
+    "quantity": "20 per cent",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "in need of agricultural support"
+  }
+]

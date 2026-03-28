@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected by attacks",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 346,
+      "end": 351
+    },
+    "unit": {
+      "text": "communes",
+      "start": 364,
+      "end": 372
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total communes in Barsalogho Health District",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "four",
+      "start": 359,
+      "end": 363
+    },
+    "unit": {
+      "text": "communes",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "IDPs registered in the North-Central region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40%",
+      "start": 467,
+      "end": 470
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 488,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "health facilities in operation",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6",
+      "start": 546,
+      "end": 547
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 558,
+      "end": 575
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total health facilities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15",
+      "start": 555,
+      "end": 557
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "COVID-19 cases reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 757",
+      "start": 673,
+      "end": 678
+    },
+    "unit": {
+      "text": "cases",
+      "start": 679,
+      "end": 684
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "COVID-19 deaths reported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "68",
+      "start": 689,
+      "end": 691
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 692,
+      "end": 698
+    }
+  }
+]

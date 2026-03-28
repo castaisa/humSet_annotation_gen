@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "47%",
+      "begin": 36,
+      "end": 39
+    },
+    "unit": {
+      "text": "total discussants",
+      "begin": 47,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "mentioned “understanding better what COVID 19”",
+      "begin": 125,
+      "end": 171
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "28%",
+      "begin": 238,
+      "end": 241
+    },
+    "unit": {
+      "text": "total discussants",
+      "begin": 47,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "said “improving access to water and sanitation”",
+      "begin": 242,
+      "end": 289
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 355,
+      "end": 358
+    },
+    "unit": {
+      "text": "total discussants",
+      "begin": 47,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "indicates that “Reminders and messages (tips)”",
+      "begin": 359,
+      "end": 405
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "5%",
+      "begin": 454,
+      "end": 456
+    },
+    "unit": {
+      "text": "total discussants",
+      "begin": 47,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "said “support from family and community”",
+      "begin": 457,
+      "end": 497
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 566,
+      "end": 568
+    },
+    "unit": {
+      "text": "total discussants",
+      "begin": 47,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "mentioned others",
+      "begin": 569,
+      "end": 585
+    },
+    "eventType": "EventO"
+  }
+]

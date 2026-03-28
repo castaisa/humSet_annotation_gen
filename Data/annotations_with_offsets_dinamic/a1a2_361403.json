@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "unable to attend their learning centres",
+      "start": 526,
+      "end": 565
+    },
+    "quantity": {
+      "text": "315,000",
+      "start": 471,
+      "end": 478
+    },
+    "unit": {
+      "text": "Rohingya refugee children and adolescents",
+      "start": 479,
+      "end": 520
+    }
+  }
+]

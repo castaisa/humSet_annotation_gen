@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "8",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "affected by fire"
+  },
+  {
+    "quantity": "1",
+    "unit": "solid structure",
+    "eventType": "EventO",
+    "eventDescription": "fully destroyed"
+  },
+  {
+    "quantity": "2",
+    "unit": "makeshift shelter",
+    "eventType": "EventO",
+    "eventDescription": "fully destroyed"
+  },
+  {
+    "quantity": "48",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "8",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "31",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "31",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "17",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "2",
+    "unit": "livestock",
+    "eventType": "EventO",
+    "eventDescription": "killed by fire"
+  }
+]

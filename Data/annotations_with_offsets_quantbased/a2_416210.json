@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "155 million",
+      "start": 182,
+      "end": 193
+    },
+    "eventDescription": {
+      "text": "estimated to be in acute high food insecurity",
+      "start": 206,
+      "end": 251
+    },
+    "unit": {
+      "text": "people",
+      "start": 194,
+      "end": 200
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "55",
+      "start": 285,
+      "end": 287
+    },
+    "eventDescription": {
+      "text": "affected by acute high food insecurity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "countries/territories",
+      "start": 288,
+      "end": 309
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "20 million",
+      "start": 317,
+      "end": 327
+    },
+    "eventDescription": {
+      "text": "increase in people in acute high food insecurity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 194,
+      "end": 200
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "over 41 million",
+      "start": 462,
+      "end": 477
+    },
+    "eventDescription": {
+      "text": "at risk of falling into famine or famine-like conditions",
+      "start": 503,
+      "end": 559
+    },
+    "unit": {
+      "text": "people",
+      "start": 478,
+      "end": 484
+    },
+    "modifier": {
+      "text": "over",
+      "start": 462,
+      "end": 466
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 32,
+      "end": 34
+    },
+    "unit": {
+      "text": "-day",
+      "begin": 34,
+      "end": 38
+    },
+    "eventDescription": {
+      "text": "extension to the re-opening of Al Hudaydah and Salif ports",
+      "begin": 39,
+      "end": 97
+    },
+    "eventType": "EventO"
+  }
+]

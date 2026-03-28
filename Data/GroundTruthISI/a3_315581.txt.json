@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "184,815",
+      "begin": 37,
+      "end": 44
+    },
+    "eventDescription": {
+      "text": "hygiene promotion interventions as well as WASH Non-Food Items (NFIs)",
+      "begin": 57,
+      "end": 126
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "people",
+      "begin": 45,
+      "end": 51
+    }
+  },
+  {
+    "quantity": {
+      "text": "66,739",
+      "begin": 141,
+      "end": 147
+    },
+    "unit": {
+      "text": "people",
+      "begin": 148,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "reached with sanitation services.",
+      "begin": 160,
+      "end": 193
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "80,555",
+      "begin": 207,
+      "end": 213
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 214,
+      "end": 225
+    },
+    "eventDescription": {
+      "text": "reached with access to safe water",
+      "begin": 231,
+      "end": 264
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 402,
+      "end": 405
+    },
+    "eventDescription": {
+      "text": "implemented an integrated response",
+      "begin": 364,
+      "end": 398
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "highly food insecure counties",
+      "begin": 406,
+      "end": 435
+    }
+  },
+  {
+    "quantity": {
+      "text": "87,583",
+      "begin": 448,
+      "end": 454
+    },
+    "eventDescription": {
+      "text": "hygiene promotion interventions and WASH NFIs.",
+      "begin": 479,
+      "end": 525
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 455,
+      "end": 466
+    }
+  }
+]

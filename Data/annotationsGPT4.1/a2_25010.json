@@ -1,0 +1,35 @@
+[
+  {
+    "quantity": "30,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "fled their homes",
+    "modifier": "estimated"
+  },
+  {
+    "quantity": "87 per cent",
+    "unit": "of the newly displaced population",
+    "eventType": "EventP",
+    "eventDescription": "make up women and children"
+  },
+  {
+    "quantity": "20,000",
+    "unit": "new arrivals",
+    "eventType": "EventP",
+    "eventDescription": "received in Teachers Village",
+    "modifier": "estimated"
+  },
+  {
+    "quantity": "more than 30,000",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "total camp population",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "10,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "maximum camp capacity"
+  }
+]

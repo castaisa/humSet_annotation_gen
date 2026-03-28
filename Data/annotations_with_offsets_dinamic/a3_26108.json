@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "population",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30 million",
+      "start": 57,
+      "end": 67
+    },
+    "unit": {
+      "text": "people",
+      "start": 601,
+      "end": 607
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "age of Luis Eduardo Alvarez",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "29",
+      "start": 472,
+      "end": 474
+    },
+    "unit": {
+      "text": "years old",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "amount of stock ordered",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "half",
+      "start": 551,
+      "end": 555
+    },
+    "unit": {
+      "text": "stock",
+      "start": null,
+      "end": null
+    }
+  }
+]

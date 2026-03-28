@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "over 100",
+    "unit": "unaccompanied/ children",
+    "eventType": "EventP",
+    "eventDescription": "unaccompanied children",
+    "modifier": "over"
+  },
+  {
+    "quantity": "70 per cent",
+    "unit": "of them",
+    "eventType": "EventP",
+    "eventDescription": "female and aged between 15 and 17",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "four",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "reported cases of potential trafficking of migrant children"
+  },
+  {
+    "quantity": "10",
+    "unit": "other cases",
+    "eventType": "EventO",
+    "eventDescription": "cases of potential sexual exploitation"
+  }
+]

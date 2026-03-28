@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "318",
+      "start": 145,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "regularized",
+      "start": 166,
+      "end": 177
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 149,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21",
+      "start": 200,
+      "end": 202
+    },
+    "eventDescription": {
+      "text": "received training",
+      "start": 247,
+      "end": 264
+    },
+    "unit": {
+      "text": "officials",
+      "start": 203,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "40",
+      "start": 502,
+      "end": 504
+    },
+    "eventDescription": {
+      "text": "participated in a workshop",
+      "start": 619,
+      "end": 645
+    },
+    "unit": {
+      "text": "officials",
+      "start": 517,
+      "end": 526
+    }
+  }
+]

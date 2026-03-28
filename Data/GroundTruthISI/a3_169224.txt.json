@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "10.5 per cent",
+      "begin": 27,
+      "end": 40
+    },
+    "eventDescription": {
+      "text": "fall",
+      "begin": 41,
+      "end": 45
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "average actual income",
+      "begin": 53,
+      "end": 74
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.5 million",
+      "begin": 107,
+      "end": 118
+    },
+    "eventDescription": {
+      "text": "predicts",
+      "begin": 98,
+      "end": 106
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "jobs lost by December",
+      "begin": 119,
+      "end": 140
+    }
+  },
+  {
+    "quantity": {
+      "text": "12.7 per cent",
+      "begin": 192,
+      "end": 205
+    },
+    "eventDescription": {
+      "text": "predicts",
+      "begin": 181,
+      "end": 189
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "GDP contraction",
+      "begin": 206,
+      "end": 221
+    }
+  }
+]

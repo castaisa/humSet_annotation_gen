@@ -1,0 +1,81 @@
+[
+  {
+    "quantity": "1,120",
+    "unit": "house to house teams",
+    "eventType": "EventA",
+    "eventDescription": "sensitized households"
+  },
+  {
+    "quantity": "20",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "teams operated in LGAs"
+  },
+  {
+    "quantity": "1,312",
+    "unit": "house to house teams",
+    "eventType": "EventA",
+    "eventDescription": "sensitized households"
+  },
+  {
+    "quantity": "21",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "teams operated in LGAs"
+  },
+  {
+    "quantity": "130,271",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "sensitized during polio outbreak response"
+  },
+  {
+    "quantity": "199,155",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "sensitized during polio outbreak response"
+  },
+  {
+    "quantity": "530,440",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reached with key cholera messages"
+  },
+  {
+    "quantity": "52%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "proportion of households reached"
+  },
+  {
+    "quantity": "4",
+    "unit": "days",
+    "eventType": "EventO",
+    "eventDescription": "duration of OBR2"
+  },
+  {
+    "quantity": "21",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "OBR2 held in LGAs"
+  },
+  {
+    "quantity": "10",
+    "unit": "suspected cases of cholera",
+    "eventType": "EventP",
+    "eventDescription": "detected and referred for testing"
+  },
+  {
+    "quantity": "at least 200",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "health talks ongoing",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "15",
+    "unit": "LGAs",
+    "eventType": "EventO",
+    "eventDescription": "health talks ongoing in LGAs"
+  }
+]

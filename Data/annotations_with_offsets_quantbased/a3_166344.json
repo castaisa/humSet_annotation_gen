@@ -1,0 +1,25 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13",
+      "start": 808,
+      "end": 810
+    },
+    "eventDescription": {
+      "text": "tested positive for COVID-19 and were quarantined at state facilities",
+      "start": 835,
+      "end": 904
+    },
+    "unit": {
+      "text": "asylum-seekers",
+      "start": 811,
+      "end": 825
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 799,
+      "end": 807
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "quantity": "50%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "classified as either moderately or severely food insecure",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "87%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "either moderately food insecure or severely food insecure"
+  },
+  {
+    "quantity": "49%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "moderately food insecure"
+  },
+  {
+    "quantity": "38%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "severely food insecure"
+  },
+  {
+    "quantity": "74%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "food insecure"
+  },
+  {
+    "quantity": "78",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "food insecure"
+  },
+  {
+    "quantity": "82%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "food insecure"
+  },
+  {
+    "quantity": "70",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "food insecure"
+  },
+  {
+    "quantity": "69%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "food insecure"
+  }
+]

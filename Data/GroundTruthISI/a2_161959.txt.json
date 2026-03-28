@@ -1,0 +1,75 @@
+[
+  {
+    "quantity": {
+      "text": "54",
+      "begin": 270,
+      "end": 272
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 244,
+      "end": 259
+    }
+  },
+  {
+    "quantity": {
+      "text": "656",
+      "begin": 383,
+      "end": 386
+    },
+    "unit": {
+      "text": "known cases",
+      "begin": 399,
+      "end": 410
+    }
+  },
+  {
+    "quantity": {
+      "text": "371",
+      "begin": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "tested",
+      "begin": 431,
+      "end": 437
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "4,605",
+      "begin": 457,
+      "end": 462
+    },
+    "unit": {
+      "text": "tests",
+      "begin": 463,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "begin": 469,
+      "end": 478
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 504,
+      "end": 507
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 508,
+      "end": 513
+    },
+    "eventDescription": {
+      "text": "recovered",
+      "begin": 548,
+      "end": 557
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "50",
+    "unit": "bed",
+    "eventType": "EventA",
+    "eventDescription": "hospital capacity"
+  },
+  {
+    "quantity": "two",
+    "unit": "operations rooms",
+    "eventType": "EventA",
+    "eventDescription": "hospital facilities"
+  },
+  {
+    "quantity": "3,000",
+    "unit": "renal dialysis sessions",
+    "eventType": "EventA",
+    "eventDescription": "medical supplies provided"
+  },
+  {
+    "quantity": "about 180",
+    "unit": "kidney failure patients",
+    "eventType": "EventP",
+    "eventDescription": "patients covered",
+    "modifier": "about"
+  },
+  {
+    "quantity": "two",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "estimated period"
+  }
+]

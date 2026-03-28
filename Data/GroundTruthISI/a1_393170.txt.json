@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "62",
+      "begin": 55,
+      "end": 57
+    },
+    "unit": {
+      "text": "health workers, caregivers and community leaders",
+      "begin": 71,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "domestic and community violence",
+      "begin": 135,
+      "end": 166
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 168,
+      "end": 169
+    },
+    "unit": {
+      "text": "health workers, caregivers and community leaders",
+      "begin": 71,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "family separation",
+      "begin": 175,
+      "end": 192
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "42",
+      "begin": 238,
+      "end": 240
+    },
+    "unit": {
+      "text": "health workers, caregivers and community leaders",
+      "begin": 71,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "lack of livelihood opportunities",
+      "begin": 256,
+      "end": 288
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 290,
+      "end": 292
+    },
+    "unit": {
+      "text": "health workers, caregivers and community leaders",
+      "begin": 71,
+      "end": 119
+    },
+    "eventDescription": {
+      "text": "access to basic services – health",
+      "begin": 323,
+      "end": 356
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 398,
+      "end": 400
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 401,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "problems related to food and water",
+      "begin": 414,
+      "end": 448
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 508,
+      "end": 509
+    },
+    "unit": {
+      "text": "person",
+      "begin": 510,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "problems related to education",
+      "begin": 532,
+      "end": 561
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 686,
+      "end": 688
+    },
+    "unit": {
+      "text": "people",
+      "begin": 689,
+      "end": 695
+    },
+    "eventDescription": {
+      "text": "shelter problems",
+      "begin": 701,
+      "end": 717
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 602,
+      "end": 603
+    },
+    "unit": {
+      "text": "people",
+      "begin": 604,
+      "end": 610
+    },
+    "eventDescription": {
+      "text": "security problems",
+      "begin": 616,
+      "end": 633
+    },
+    "eventType": "EventO"
+  }
+]

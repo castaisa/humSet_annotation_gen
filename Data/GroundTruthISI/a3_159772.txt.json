@@ -1,0 +1,176 @@
+[
+  {
+    "quantity": {
+      "text": "873",
+      "begin": 156,
+      "end": 159
+    },
+    "eventDescription": {
+      "text": "supported water treatment through utilization monitoring",
+      "begin": 20,
+      "end": 76
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "drums",
+      "begin": 160,
+      "end": 165
+    }
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 170,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "supported water treatment through utilization monitoring",
+      "begin": 20,
+      "end": 76
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg",
+      "begin": 173,
+      "end": 175
+    }
+  },
+  {
+    "quantity": {
+      "text": "450",
+      "begin": 80,
+      "end": 83
+    },
+    "eventDescription": {
+      "text": "supported water treatment through utilization monitoring",
+      "begin": 20,
+      "end": 76
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "drums",
+      "begin": 84,
+      "end": 89
+    }
+  },
+  {
+    "quantity": {
+      "text": "45",
+      "begin": 94,
+      "end": 96
+    },
+    "eventDescription": {
+      "text": "supported water treatment through utilization monitoring",
+      "begin": 20,
+      "end": 76
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg",
+      "begin": 97,
+      "end": 99
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 269,
+      "end": 273
+    },
+    "unit": {
+      "text": "drums",
+      "begin": 274,
+      "end": 279
+    },
+    "eventDescription": {
+      "text": "released",
+      "begin": 285,
+      "end": 293
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 349,
+      "end": 351
+    },
+    "unit": {
+      "text": "drums and sprayers",
+      "begin": 352,
+      "end": 370
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 376,
+      "end": 384
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 396,
+      "end": 398
+    },
+    "unit": {
+      "text": "health/CMAM centres",
+      "begin": 399,
+      "end": 418
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 525,
+      "end": 528
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 516,
+      "end": 524
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "drums of Calcium Hypochlorite (HTH) and soaps",
+      "begin": 529,
+      "end": 574
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 589,
+      "end": 591
+    },
+    "eventDescription": {
+      "text": "installed",
+      "begin": 579,
+      "end": 588
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "handwashing facilities",
+      "begin": 592,
+      "end": 614
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,000",
+      "begin": 719,
+      "end": 724
+    },
+    "eventDescription": {
+      "text": "benefitting",
+      "begin": 701,
+      "end": 712
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "persons",
+      "begin": 725,
+      "end": 732
+    }
+  }
+]

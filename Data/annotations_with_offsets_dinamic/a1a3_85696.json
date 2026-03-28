@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "assisted by the Government of Guyana with uniforms, school meals, books and transportation",
+      "start": 519,
+      "end": 609
+    },
+    "quantity": {
+      "text": "15",
+      "start": 473,
+      "end": 475
+    },
+    "unit": {
+      "text": "students",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled in schools in the Mabaruma area",
+      "start": 1087,
+      "end": 1127
+    },
+    "quantity": {
+      "text": "108",
+      "start": 1063,
+      "end": 1066
+    },
+    "unit": {
+      "text": "Venezuelan children",
+      "start": 70,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled at Mabaruma Primary School",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "46",
+      "start": 1129,
+      "end": 1131
+    },
+    "unit": {
+      "text": "students",
+      "start": 476,
+      "end": 484
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled at Wauna Primary School",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36",
+      "start": 1160,
+      "end": 1162
+    },
+    "unit": {
+      "text": "students",
+      "start": 887,
+      "end": 895
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled at Whitewater Primary School",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26",
+      "start": 1192,
+      "end": 1194
+    },
+    "unit": {
+      "text": "students",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled",
+      "start": 1255,
+      "end": 1263
+    },
+    "quantity": {
+      "text": "45",
+      "start": 1242,
+      "end": 1244
+    },
+    "unit": {
+      "text": "males",
+      "start": 1249,
+      "end": 1254
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "enrolled",
+      "start": 1283,
+      "end": 1291
+    },
+    "quantity": {
+      "text": "63",
+      "start": 1268,
+      "end": 1270
+    },
+    "unit": {
+      "text": "females",
+      "start": 1275,
+      "end": 1282
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "pregnancies among girls as young as",
+      "start": 1856,
+      "end": 1891
+    },
+    "quantity": {
+      "text": "12",
+      "start": 1892,
+      "end": 1894
+    },
+    "unit": {
+      "text": "years",
+      "start": 1895,
+      "end": 1900
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Venezuelan adolescent girls being victims of trafficking",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16",
+      "start": 1998,
+      "end": 2000
+    },
+    "unit": {
+      "text": "years old",
+      "start": 2008,
+      "end": 2017
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Venezuelan adolescent girls being victims of trafficking",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "17",
+      "start": 2005,
+      "end": 2007
+    },
+    "unit": {
+      "text": "years old",
+      "start": null,
+      "end": null
+    }
+  }
+]

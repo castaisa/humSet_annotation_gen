@@ -1,0 +1,187 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reunified with their biological families",
+      "start": 74,
+      "end": 114
+    },
+    "quantity": {
+      "text": "46",
+      "start": 29,
+      "end": 31
+    },
+    "unit": {
+      "text": "children",
+      "start": 60,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in psychosocial support activities",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "more than 2,742",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 155,
+      "end": 163
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in psychosocial support activities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,191",
+      "start": 165,
+      "end": 170
+    },
+    "unit": {
+      "text": "boys",
+      "start": 171,
+      "end": 175
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in psychosocial support activities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1,551",
+      "start": 177,
+      "end": 182
+    },
+    "unit": {
+      "text": "girls",
+      "start": 183,
+      "end": 188
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in psychosocial support activities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "979",
+      "start": 194,
+      "end": 197
+    },
+    "unit": {
+      "text": "adults",
+      "start": 198,
+      "end": 204
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in psychosocial support activities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "406",
+      "start": 206,
+      "end": 209
+    },
+    "unit": {
+      "text": "men",
+      "start": 210,
+      "end": 213
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in psychosocial support activities",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "573",
+      "start": 215,
+      "end": 218
+    },
+    "unit": {
+      "text": "women",
+      "start": 219,
+      "end": 224
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in a CP training",
+      "start": 432,
+      "end": 461
+    },
+    "quantity": {
+      "text": "Forty-one",
+      "start": 387,
+      "end": 396
+    },
+    "unit": {
+      "text": "case workers",
+      "start": 397,
+      "end": 409
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in a CP training",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28",
+      "start": 411,
+      "end": 413
+    },
+    "unit": {
+      "text": "women",
+      "start": 414,
+      "end": 419
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "participated in a CP training",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13",
+      "start": 424,
+      "end": 426
+    },
+    "unit": {
+      "text": "men",
+      "start": 427,
+      "end": 430
+    }
+  }
+]

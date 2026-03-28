@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "dispatched",
+      "start": 103,
+      "end": 113
+    },
+    "quantity": {
+      "text": "478,450.43",
+      "start": 87,
+      "end": 97
+    },
+    "unit": {
+      "text": "supplies",
+      "start": 71,
+      "end": 79
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "sent",
+      "start": 176,
+      "end": 180
+    },
+    "quantity": {
+      "text": "35",
+      "start": 161,
+      "end": 163
+    },
+    "unit": {
+      "text": "trucks",
+      "start": 164,
+      "end": 170
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "brought",
+      "start": 387,
+      "end": 394
+    },
+    "quantity": {
+      "text": "962",
+      "start": 490,
+      "end": 493
+    },
+    "unit": {
+      "text": "school in a box",
+      "start": 494,
+      "end": 509
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "brought",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "600",
+      "start": 511,
+      "end": 514
+    },
+    "unit": {
+      "text": "ECD kits",
+      "start": 515,
+      "end": 523
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "brought",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "800",
+      "start": 528,
+      "end": 531
+    },
+    "unit": {
+      "text": "recreation kits",
+      "start": 532,
+      "end": 547
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "benefitting",
+      "start": 735,
+      "end": 746
+    },
+    "quantity": {
+      "text": "360",
+      "start": 723,
+      "end": 726
+    },
+    "unit": {
+      "text": "schools",
+      "start": 727,
+      "end": 734
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefitting",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "108,000",
+      "start": 747,
+      "end": 754
+    },
+    "unit": {
+      "text": "children",
+      "start": 755,
+      "end": 763
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "transported",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15,000",
+      "start": 942,
+      "end": 948
+    },
+    "unit": {
+      "text": "mosquito nets",
+      "start": 949,
+      "end": 962
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "procuring",
+      "start": 1029,
+      "end": 1038
+    },
+    "quantity": {
+      "text": "4,750",
+      "start": 1039,
+      "end": 1044
+    },
+    "unit": {
+      "text": "nets",
+      "start": 1056,
+      "end": 1060
+    }
+  }
+]

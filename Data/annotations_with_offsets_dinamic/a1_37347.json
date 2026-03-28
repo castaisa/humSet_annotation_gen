@@ -1,0 +1,143 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached population",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 88,
+      "end": 97
+    },
+    "quantity": {
+      "text": "31,000",
+      "start": 98,
+      "end": 104
+    },
+    "unit": {
+      "text": "people",
+      "start": 105,
+      "end": 111
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "maximum capacity",
+      "start": 135,
+      "end": 151
+    },
+    "quantity": {
+      "text": "10,000",
+      "start": 156,
+      "end": 162
+    },
+    "unit": {
+      "text": "people",
+      "start": 163,
+      "end": 169
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moved",
+      "start": 574,
+      "end": 579
+    },
+    "quantity": {
+      "text": "266",
+      "start": 520,
+      "end": 523
+    },
+    "unit": {
+      "text": "households",
+      "start": 524,
+      "end": 534
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moved",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 536,
+      "end": 549
+    },
+    "quantity": {
+      "text": "1,130",
+      "start": 550,
+      "end": 555
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 556,
+      "end": 567
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "accommodate",
+      "start": 635,
+      "end": 646
+    },
+    "modifier": {
+      "text": "estimated",
+      "start": 650,
+      "end": 659
+    },
+    "quantity": {
+      "text": "2,580",
+      "start": 660,
+      "end": 665
+    },
+    "unit": {
+      "text": "households",
+      "start": 666,
+      "end": 676
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "accommodate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14,200",
+      "start": 678,
+      "end": 684
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 685,
+      "end": 696
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "faces challenges of over-congestion",
+      "start": 763,
+      "end": 798
+    },
+    "quantity": {
+      "text": "40 per cent",
+      "start": 708,
+      "end": 719
+    },
+    "unit": {
+      "text": "IDP camps",
+      "start": 723,
+      "end": 732
+    }
+  }
+]

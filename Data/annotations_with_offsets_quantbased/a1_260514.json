@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "9,400",
+      "start": 169,
+      "end": 174
+    },
+    "eventDescription": {
+      "text": "targeted",
+      "start": 318,
+      "end": 326
+    },
+    "unit": {
+      "text": "households",
+      "start": 186,
+      "end": 196
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "four",
+      "start": 200,
+      "end": 204
+    },
+    "eventDescription": {
+      "text": "targeted",
+      "start": 318,
+      "end": 326
+    },
+    "unit": {
+      "text": "states",
+      "start": 205,
+      "end": 211
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "500",
+      "start": 258,
+      "end": 261
+    },
+    "eventDescription": {
+      "text": "targeted with cash assistance",
+      "start": 318,
+      "end": 347
+    },
+    "unit": {
+      "text": "households",
+      "start": 283,
+      "end": 293
+    }
+  }
+]

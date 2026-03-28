@@ -1,0 +1,308 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "very high global acute malnutrition (GAM) prevalence",
+      "start": 28,
+      "end": 80
+    },
+    "quantity": {
+      "text": "two",
+      "start": 2,
+      "end": 5
+    },
+    "unit": {
+      "text": "municipalities",
+      "start": 6,
+      "end": 20
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM prevalence in Barsalogho IDP site",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16.1 per cent",
+      "start": 110,
+      "end": 123
+    },
+    "unit": {
+      "text": "GAM",
+      "start": 65,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "SAM prevalence in Barsalogho IDP site",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4.3 per cent",
+      "start": 132,
+      "end": 144
+    },
+    "unit": {
+      "text": "SAM",
+      "start": 145,
+      "end": 148
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "MAG prevalence in Gorom-Gorom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18.4 per cent",
+      "start": 183,
+      "end": 196
+    },
+    "unit": {
+      "text": "Global Acute Malnutrition (MAG)",
+      "start": 197,
+      "end": 228
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "SAM prevalence in Gorom-Gorom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6 per cent",
+      "start": 233,
+      "end": 243
+    },
+    "unit": {
+      "text": "Severe Acute Malnutrition (SAM)",
+      "start": 244,
+      "end": 275
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "high GAM rate",
+      "start": 319,
+      "end": 332
+    },
+    "quantity": {
+      "text": "four",
+      "start": 292,
+      "end": 296
+    },
+    "unit": {
+      "text": "municipalities",
+      "start": 297,
+      "end": 311
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "lower bound of high GAM rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10 per cent",
+      "start": 342,
+      "end": 353
+    },
+    "unit": {
+      "text": "GAM rate",
+      "start": 324,
+      "end": 332
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "upper bound of high GAM rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15 per cent",
+      "start": 358,
+      "end": 369
+    },
+    "unit": {
+      "text": "GAM rate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "moderate prevalence of GAM",
+      "start": 400,
+      "end": 426
+    },
+    "quantity": {
+      "text": "five",
+      "start": 373,
+      "end": 377
+    },
+    "unit": {
+      "text": "municipalities",
+      "start": 378,
+      "end": 392
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "upper bound of moderate GAM prevalence",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10%",
+      "start": 429,
+      "end": 432
+    },
+    "unit": {
+      "text": "GAM",
+      "start": 423,
+      "end": 426
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age group of children more vulnerable to GAM",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6-23",
+      "start": 450,
+      "end": 454
+    },
+    "unit": {
+      "text": "months",
+      "start": 455,
+      "end": 461
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age group of children less vulnerable to GAM",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24-59",
+      "start": 503,
+      "end": 508
+    },
+    "unit": {
+      "text": "months",
+      "start": 509,
+      "end": 515
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "emergency threshold for infant mortality rates",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 per cent",
+      "start": 653,
+      "end": 663
+    },
+    "unit": {
+      "text": "infant mortality rates",
+      "start": 561,
+      "end": 583
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mortality rate in Barsalogho",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.3 per cent",
+      "start": 739,
+      "end": 751
+    },
+    "unit": {
+      "text": "mortality rates",
+      "start": 811,
+      "end": 826
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mortality rate in Gorgadji",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.7 per cent",
+      "start": 790,
+      "end": 802
+    },
+    "unit": {
+      "text": "mortality rates",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mortality rate reached in Gorgadji",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1 per cent",
+      "start": 840,
+      "end": 850
+    },
+    "unit": {
+      "text": "mortality rates",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "municipalities surveyed",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "11",
+      "start": 890,
+      "end": 892
+    },
+    "unit": {
+      "text": "municipalities",
+      "start": 893,
+      "end": 907
+    }
+  }
+]

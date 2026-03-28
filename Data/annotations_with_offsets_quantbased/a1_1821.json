@@ -1,0 +1,72 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Thousands",
+      "start": 0,
+      "end": 9
+    },
+    "eventDescription": {
+      "text": "detained arbitrarily",
+      "start": 31,
+      "end": 51
+    },
+    "unit": {
+      "text": "Libyans",
+      "start": 13,
+      "end": 20
+    }
+  },
+  {
+    "eventType": "",
+    "quantity": {
+      "text": "2011",
+      "start": 77,
+      "end": 81
+    }
+  },
+  {
+    "eventType": "",
+    "quantity": {
+      "text": "2011",
+      "start": 224,
+      "end": 228
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "six",
+      "start": 291,
+      "end": 294
+    },
+    "eventDescription": {
+      "text": "held without charge, trial or opportunity to challenge legality of detention",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 295,
+      "end": 300
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Hundreds",
+      "start": 906,
+      "end": 914
+    },
+    "eventDescription": {
+      "text": "have no access to specialised medical, psychological and rehabilitation services",
+      "start": 937,
+      "end": 1017
+    },
+    "unit": {
+      "text": "released detainees",
+      "start": 918,
+      "end": 936
+    }
+  }
+]

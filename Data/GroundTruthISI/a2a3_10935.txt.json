@@ -1,0 +1,99 @@
+[
+  {
+    "quantity": {
+      "text": "78 per cent",
+      "begin": 311,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "number of civilian impact incidents",
+      "begin": 252,
+      "end": 287
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 324,
+      "end": 326
+    },
+    "eventDescription": {
+      "text": "number of civilian impact incidents",
+      "begin": 252,
+      "end": 287
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "incidents",
+      "begin": 327,
+      "end": 336
+    }
+  },
+  {
+    "quantity": {
+      "text": "88 per cent",
+      "begin": 405,
+      "end": 416
+    },
+    "unit": {
+      "text": "incidents",
+      "begin": 426,
+      "end": 435
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 441,
+      "end": 449
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "59",
+      "begin": 526,
+      "end": 528
+    },
+    "unit": {
+      "text": "civilian casualties",
+      "begin": 529,
+      "end": 548
+    }
+  },
+  {
+    "quantity": {
+      "text": "14,424",
+      "begin": 768,
+      "end": 774
+    },
+    "eventDescription": {
+      "text": "affecting",
+      "begin": 747,
+      "end": 756
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "households",
+      "begin": 775,
+      "end": 785
+    }
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 823,
+      "end": 834
+    },
+    "unit": {
+      "text": "incidents",
+      "begin": 842,
+      "end": 851
+    },
+    "eventDescription": {
+      "text": "caused by airstrikes, followed by shelling",
+      "begin": 857,
+      "end": 899
+    },
+    "eventType": "EventO"
+  }
+]

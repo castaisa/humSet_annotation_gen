@@ -1,0 +1,60 @@
+[
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 163,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "high vulnerability is exhibited",
+      "begin": 100,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "at least",
+      "begin": 154,
+      "end": 162
+    },
+    "unit": {
+      "text": "member with a disability or a chronic illness",
+      "begin": 167,
+      "end": 212
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 297,
+      "end": 301
+    },
+    "eventDescription": {
+      "text": "high vulnerability is exhibited",
+      "begin": 100,
+      "end": 131
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "over",
+      "begin": 292,
+      "end": 296
+    },
+    "unit": {
+      "text": "members",
+      "begin": 302,
+      "end": 309
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 245,
+      "end": 246
+    },
+    "modifier": {
+      "text": "under",
+      "begin": 239,
+      "end": 244
+    }
+  }
+]

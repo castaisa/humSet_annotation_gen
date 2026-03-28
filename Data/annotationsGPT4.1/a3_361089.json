@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "50 percent",
+    "unit": "of the traders\u2019 imports",
+    "eventType": "EventO",
+    "eventDescription": "must be delivered to the feed corporation"
+  },
+  {
+    "quantity": "1.2 million",
+    "unit": "SYP/MT for corn",
+    "eventType": "EventA",
+    "eventDescription": "feed price for corn"
+  },
+  {
+    "quantity": "2.3 million",
+    "unit": "SYP/MT for soybeans",
+    "eventType": "EventA",
+    "eventDescription": "feed price for soybeans"
+  },
+  {
+    "quantity": "80 percent",
+    "unit": "of the feed mix",
+    "eventType": "EventO",
+    "eventDescription": "constitute the feed mix"
+  }
+]

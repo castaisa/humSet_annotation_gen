@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "16.3 million",
+    "unit": "Venezuelans",
+    "eventType": "EventP",
+    "eventDescription": "received CLAP boxes"
+  },
+  {
+    "quantity": "eight",
+    "unit": "days",
+    "eventType": "EventA",
+    "eventDescription": "contents of a box last"
+  },
+  {
+    "quantity": "once",
+    "unit": "a month",
+    "eventType": "EventA",
+    "eventDescription": "households receive CLAP boxes"
+  },
+  {
+    "quantity": "every two",
+    "unit": "months",
+    "eventType": "EventA",
+    "eventDescription": "households receive CLAP boxes"
+  },
+  {
+    "quantity": "53 million percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price of the box increased"
+  }
+]

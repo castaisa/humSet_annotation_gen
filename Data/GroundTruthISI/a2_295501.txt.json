@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 478,
+      "end": 483
+    },
+    "eventDescription": {
+      "text": "fire was put out",
+      "begin": 458,
+      "end": 474
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "camps",
+      "begin": 484,
+      "end": 489
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": "1,698",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "visited"
+  },
+  {
+    "quantity": "six",
+    "unit": "churches",
+    "eventType": "EventO",
+    "eventDescription": "visited"
+  },
+  {
+    "quantity": "one",
+    "unit": "Sangaya",
+    "eventType": "EventO",
+    "eventDescription": "visited"
+  },
+  {
+    "quantity": "8,661",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "1,925",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "2,682",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "1,957",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "2,097",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "10",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "10",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "10",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "5",
+    "unit": "jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  },
+  {
+    "quantity": "5",
+    "unit": "TV jingles per day",
+    "eventType": "EventA",
+    "eventDescription": "broadcast"
+  }
+]

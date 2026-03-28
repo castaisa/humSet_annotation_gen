@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "184,815",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with hygiene promotion interventions as well as WASH Non-Food Items (NFIs)"
+  },
+  {
+    "quantity": "66,739",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with sanitation services"
+  },
+  {
+    "quantity": "80,555",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "reached with access to safe water through the rehabilitation and repair of existing water points"
+  },
+  {
+    "quantity": "six",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "integrated response implemented in highly food insecure counties"
+  },
+  {
+    "quantity": "87,583",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "reached mainly with hygiene promotion interventions and WASH NFIs"
+  }
+]

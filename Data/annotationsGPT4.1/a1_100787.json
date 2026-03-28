@@ -1,0 +1,34 @@
+[
+  {
+    "quantity": "1.8 million",
+    "unit": "hectares",
+    "eventType": "EventO",
+    "eventDescription": "arable land",
+    "modifier": "about"
+  },
+  {
+    "quantity": "15.4 million",
+    "unit": "hectares",
+    "eventType": "EventO",
+    "eventDescription": "total land"
+  },
+  {
+    "quantity": "300 000",
+    "unit": "hectares",
+    "eventType": "EventO",
+    "eventDescription": "covered by permanent crops"
+  },
+  {
+    "quantity": "470 000",
+    "unit": "hectares",
+    "eventType": "EventO",
+    "eventDescription": "suitable for irrigation",
+    "modifier": "about"
+  },
+  {
+    "quantity": "240 000",
+    "unit": "hectares",
+    "eventType": "EventO",
+    "eventDescription": "currently irrigated"
+  }
+]

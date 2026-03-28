@@ -1,0 +1,200 @@
+[
+  {
+    "quantity": {
+      "text": "586",
+      "begin": 352,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "provided different forms of temporary accommodations and emergency shelter",
+      "begin": 274,
+      "end": 348
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "individuals",
+      "begin": 356,
+      "end": 367
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,648",
+      "begin": 468,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "Food assistance was provided",
+      "begin": 436,
+      "end": 464
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Venezuelans",
+      "begin": 474,
+      "end": 485
+    }
+  },
+  {
+    "quantity": {
+      "text": "43",
+      "begin": 556,
+      "end": 558
+    },
+    "unit": {
+      "text": "caregivers with children between 0-23 months",
+      "begin": 559,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "counselled on Infant and Young Child Feeding (IYCF).",
+      "begin": 609,
+      "end": 661
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "0-23",
+      "begin": 592,
+      "end": 596
+    },
+    "unit": {
+      "text": "months",
+      "begin": 597,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 594,
+      "end": 596
+    },
+    "unit": {
+      "text": "months",
+      "begin": 597,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "0",
+      "begin": 592,
+      "end": 593
+    },
+    "unit": {
+      "text": "months",
+      "begin": 597,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "68",
+      "begin": 746,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "Early childhood development sessions were undertaken",
+      "begin": 662,
+      "end": 714
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 749,
+      "end": 757
+    }
+  },
+  {
+    "quantity": {
+      "text": "27",
+      "begin": 759,
+      "end": 761
+    },
+    "eventDescription": {
+      "text": "Early childhood development sessions were undertaken",
+      "begin": 662,
+      "end": 714
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 762,
+      "end": 767
+    }
+  },
+  {
+    "quantity": {
+      "text": "41",
+      "begin": 769,
+      "end": 771
+    },
+    "eventDescription": {
+      "text": "Early childhood development sessions were undertaken",
+      "begin": 662,
+      "end": 714
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 772,
+      "end": 776
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 782,
+      "end": 784
+    },
+    "eventDescription": {
+      "text": "Early childhood development sessions were undertaken",
+      "begin": 662,
+      "end": 714
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "adults",
+      "begin": 785,
+      "end": 791
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 793,
+      "end": 798
+    },
+    "eventDescription": {
+      "text": "Early childhood development sessions were undertaken",
+      "begin": 662,
+      "end": 714
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "female",
+      "begin": 799,
+      "end": 805
+    }
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 807,
+      "end": 811
+    },
+    "eventDescription": {
+      "text": "Early childhood development sessions were undertaken",
+      "begin": 662,
+      "end": 714
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "male",
+      "begin": 812,
+      "end": 816
+    }
+  }
+]

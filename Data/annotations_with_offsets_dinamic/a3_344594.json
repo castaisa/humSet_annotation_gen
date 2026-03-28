@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "lives in a single room",
+      "start": 36,
+      "end": 58
+    },
+    "quantity": {
+      "text": "36%",
+      "start": 60,
+      "end": 63
+    },
+    "unit": {
+      "text": "population",
+      "start": 25,
+      "end": 35
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "shares a room with one or two other people",
+      "start": 94,
+      "end": 136
+    },
+    "quantity": {
+      "text": "51%",
+      "start": 138,
+      "end": 141
+    },
+    "unit": {
+      "text": "population",
+      "start": 282,
+      "end": 292
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "shares a room with three or more people",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13%",
+      "start": 243,
+      "end": 246
+    },
+    "unit": {
+      "text": "population",
+      "start": 342,
+      "end": 352
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "experiencing overcrowding",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34%",
+      "start": 354,
+      "end": 357
+    },
+    "unit": {
+      "text": "displaced population in Honduras",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "experiencing overcrowding",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "exceeds",
+      "start": 416,
+      "end": 423
+    },
+    "quantity": {
+      "text": "57%",
+      "start": 450,
+      "end": 453
+    },
+    "unit": {
+      "text": "refugees or asylum-seekers in Colombia",
+      "start": 370,
+      "end": 408
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "experiencing overcrowding",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "exceed",
+      "start": 503,
+      "end": 509
+    },
+    "quantity": {
+      "text": "22%",
+      "start": 536,
+      "end": 539
+    },
+    "unit": {
+      "text": "migrants in Colombia",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "experiencing overcrowding",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20%",
+      "start": 607,
+      "end": 610
+    },
+    "unit": {
+      "text": "refugees or asylum-seekers in Peru",
+      "start": 571,
+      "end": 605
+    }
+  }
+]

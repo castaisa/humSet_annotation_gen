@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 250,
+      "end": 254
+    },
+    "unit": {
+      "text": "times",
+      "begin": 255,
+      "end": 260
+    },
+    "eventDescription": {
+      "text": "more likely",
+      "begin": 261,
+      "end": 272
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3 percent",
+      "begin": 348,
+      "end": 357
+    },
+    "modifier": {
+      "text": "About",
+      "begin": 342,
+      "end": 347
+    },
+    "unit": {
+      "text": "women who are in cooperatives",
+      "begin": 365,
+      "end": 394
+    },
+    "eventDescription": {
+      "text": "hold such positions",
+      "begin": 395,
+      "end": 414
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15 percent",
+      "begin": 422,
+      "end": 432
+    },
+    "unit": {
+      "text": "male cooperative members",
+      "begin": 436,
+      "end": 460
+    },
+    "eventDescription": {
+      "text": "have some leadership roles",
+      "begin": 461,
+      "end": 487
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "25 percent",
+      "begin": 569,
+      "end": 579
+    },
+    "eventDescription": {
+      "text": "executive posts",
+      "begin": 587,
+      "end": 602
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "less than",
+      "begin": 559,
+      "end": 568
+    }
+  }
+]

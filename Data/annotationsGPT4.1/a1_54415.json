@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": "ten",
+    "unit": "water filters",
+    "eventType": "EventA",
+    "eventDescription": "installed"
+  },
+  {
+    "quantity": "24/7",
+    "unit": "toilet facilities",
+    "eventType": "EventO",
+    "eventDescription": "kept open"
+  },
+  {
+    "quantity": "5,330",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "attended hygiene promotion workshops"
+  },
+  {
+    "quantity": "1,915",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "attended hygiene promotion workshops"
+  },
+  {
+    "quantity": "1,961",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "attended hygiene promotion workshops"
+  },
+  {
+    "quantity": "769",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "attended hygiene promotion workshops"
+  },
+  {
+    "quantity": "685",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "attended hygiene promotion workshops"
+  },
+  {
+    "quantity": "1,230",
+    "unit": "water containers",
+    "eventType": "EventA",
+    "eventDescription": "distributed"
+  },
+  {
+    "quantity": "3,844",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "benefitted from distribution"
+  },
+  {
+    "quantity": "810",
+    "unit": "family hygiene kits",
+    "eventType": "EventA",
+    "eventDescription": "received as donation"
+  },
+  {
+    "quantity": "two",
+    "unit": "sets of toilet facilities",
+    "eventType": "EventO",
+    "eventDescription": "rehabilitated"
+  },
+  {
+    "quantity": "three",
+    "unit": "border points",
+    "eventType": "EventO",
+    "eventDescription": "workshops held/distribution sites"
+  }
+]

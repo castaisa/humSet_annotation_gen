@@ -1,0 +1,90 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "0%",
+      "start": 163,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "reported adequate access to food",
+      "start": 190,
+      "end": 222
+    },
+    "unit": {
+      "text": "of assessed settlements",
+      "start": 166,
+      "end": 189
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60%",
+      "start": 254,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "reported adequate access to food",
+      "start": 190,
+      "end": 222
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "63%",
+      "start": 270,
+      "end": 273
+    },
+    "eventDescription": {
+      "text": "reported adequate access to food",
+      "start": 190,
+      "end": 222
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "36%",
+      "start": 338,
+      "end": 341
+    },
+    "eventDescription": {
+      "text": "reported fighting destroying crops",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21%",
+      "start": 357,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "reported flooding destroying crops",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "6,486",
+      "start": 549,
+      "end": 554
+    },
+    "eventDescription": {
+      "text": "reported deficit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of metric tons of cereals",
+      "start": 555,
+      "end": 580
+    }
+  }
+]

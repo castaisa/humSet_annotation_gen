@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "payment requested per incident",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "20,000",
+      "start": 318,
+      "end": 324
+    },
+    "unit": {
+      "text": "Guyanese dollars",
+      "start": 325,
+      "end": 341
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "payment requested per incident",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "96",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 345,
+      "end": 348
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "female police officers available to assist",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two (2)",
+      "start": 1048,
+      "end": 1055
+    },
+    "unit": {
+      "text": "female police officers",
+      "start": 1056,
+      "end": 1078
+    }
+  }
+]

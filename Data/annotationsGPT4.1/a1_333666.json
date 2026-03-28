@@ -1,0 +1,69 @@
+[
+  {
+    "quantity": "1 meter",
+    "unit": "distance",
+    "eventType": "EventO",
+    "eventDescription": "social distance kept in the school office"
+  },
+  {
+    "quantity": "76%",
+    "unit": "schools",
+    "eventType": "EventP",
+    "eventDescription": "schools adhere to social distance in the school office"
+  },
+  {
+    "quantity": "77%",
+    "unit": "schools",
+    "eventType": "EventP",
+    "eventDescription": "schools adhere to social distance in the classroom"
+  },
+  {
+    "quantity": "59%",
+    "unit": "schools",
+    "eventType": "EventP",
+    "eventDescription": "schools adhere to social distance in the playground"
+  },
+  {
+    "quantity": "61%",
+    "unit": "schools",
+    "eventType": "EventP",
+    "eventDescription": "schools adhere to social distance in the hostel"
+  },
+  {
+    "quantity": "62%",
+    "unit": "schools",
+    "eventType": "EventP",
+    "eventDescription": "schools adhere to social distance in the dining hall"
+  },
+  {
+    "quantity": "74%",
+    "unit": "schools",
+    "eventType": "EventP",
+    "eventDescription": "schools adhere to social distance in the assembly ground"
+  },
+  {
+    "quantity": "64%",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "participants agreed that their schools monitor temperature regularly"
+  },
+  {
+    "quantity": "61%",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "participants agreed on the presence of a holding sick bay"
+  },
+  {
+    "quantity": "about 1 meter",
+    "unit": "distance",
+    "eventType": "EventO",
+    "eventDescription": "distance not kept in listed places",
+    "modifier": "about"
+  },
+  {
+    "quantity": "80%",
+    "unit": "participants",
+    "eventType": "EventP",
+    "eventDescription": "participants said lack of facilities was the reason for not keeping distance"
+  }
+]

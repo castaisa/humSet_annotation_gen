@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13.1 million",
+      "start": 67,
+      "end": 79
+    },
+    "eventDescription": {
+      "text": "facing acute food insecurity",
+      "start": 136,
+      "end": 164
+    },
+    "unit": {
+      "text": "people",
+      "start": 80,
+      "end": 86
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "42%",
+      "start": 88,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "facing acute food insecurity",
+      "start": 136,
+      "end": 164
+    },
+    "unit": {
+      "text": "of the total population",
+      "start": 92,
+      "end": 115
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "3",
+      "start": 217,
+      "end": 218
+    },
+    "eventDescription": {
+      "text": "food insecurity classification",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IPC Phase",
+      "start": 207,
+      "end": 216
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16%",
+      "start": 249,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "increase in people facing acute food insecurity",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "increase",
+      "start": 253,
+      "end": 261
+    }
+  }
+]

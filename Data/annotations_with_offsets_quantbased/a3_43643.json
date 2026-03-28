@@ -1,0 +1,326 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "six hundred and seventy-eight",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "678",
+      "start": 50,
+      "end": 53
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 73,
+      "end": 78
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "137",
+      "start": 142,
+      "end": 145
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported from Gwange PHC in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 135,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "137",
+      "start": 175,
+      "end": 178
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported from FHI360 clinic Banki in Bama",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 135,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "45",
+      "start": 218,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported from Banki Health clinic in Bama",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 135,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27",
+      "start": 260,
+      "end": 262
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported from PUI mobile clinics in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 135,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported from General Hospital IDP camp clinic in Damboa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25",
+      "start": 361,
+      "end": 363
+    },
+    "eventDescription": {
+      "text": "suspected measles cases reported from Herwa Peace PHC in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 487,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "four",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "associated deaths reported from MSF Gwange PHC in MMC",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "deaths",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "thirty-eight",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "additional suspected measles cases reported through IDSR",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17",
+      "start": 535,
+      "end": 537
+    },
+    "eventDescription": {
+      "text": "additional suspected measles cases reported from Monguno",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 487,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11",
+      "start": 547,
+      "end": 549
+    },
+    "eventDescription": {
+      "text": "additional suspected measles cases reported from Gubio",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 487,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 558,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "additional suspected measles cases reported from Mafa",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 487,
+      "end": 492
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3",
+      "start": 575,
+      "end": 576
+    },
+    "eventDescription": {
+      "text": "additional suspected measles cases reported from Kwaya Kusar",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 658,
+      "end": 663
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2",
+      "start": 584,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "additional suspected measles cases reported from Biu",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 658,
+      "end": 663
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 595,
+      "end": 596
+    },
+    "eventDescription": {
+      "text": "additional suspected measles case reported from Hawul",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 658,
+      "end": 662
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1",
+      "start": 610,
+      "end": 611
+    },
+    "eventDescription": {
+      "text": "additional suspected measles case reported from Gwoza",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 658,
+      "end": 662
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "716",
+      "start": 636,
+      "end": 639
+    },
+    "eventDescription": {
+      "text": "total suspected measles cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 658,
+      "end": 663
+    }
+  }
+]

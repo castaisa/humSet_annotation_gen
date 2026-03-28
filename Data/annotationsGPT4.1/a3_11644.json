@@ -1,0 +1,30 @@
+[
+  {
+    "quantity": "7.16 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "provided with emergency food assistance",
+    "modifier": "on average"
+  },
+  {
+    "quantity": "about 871,000",
+    "unit": "beneficiaries",
+    "eventType": "EventP",
+    "eventDescription": "got livelihoods assistance",
+    "modifier": "about"
+  },
+  {
+    "quantity": "about 82,000",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "provided food assistance",
+    "modifier": "about"
+  },
+  {
+    "quantity": "approximately 7.6 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "provided with general food assistance",
+    "modifier": "approximately"
+  }
+]

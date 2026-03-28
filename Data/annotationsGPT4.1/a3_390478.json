@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "105",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "104",
+    "unit": "dengue patients",
+    "eventType": "EventP",
+    "eventDescription": "admitted"
+  },
+  {
+    "quantity": "85",
+    "unit": "dengue patients",
+    "eventType": "EventP",
+    "eventDescription": "admitted"
+  },
+  {
+    "quantity": "1,679",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "admitted"
+  },
+  {
+    "quantity": "1,216",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "released after recovery"
+  },
+  {
+    "quantity": "1,193",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "three",
+    "unit": "dengue-related deaths",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "101,354",
+    "unit": "dengue cases",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  },
+  {
+    "quantity": "179",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "recorded"
+  }
+]

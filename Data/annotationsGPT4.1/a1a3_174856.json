@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "one- third",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "1 163 million",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reached"
+  },
+  {
+    "quantity": "35,000",
+    "unit": "irregularities",
+    "eventType": "EventO",
+    "eventDescription": "irregularities in registration for benefits"
+  },
+  {
+    "quantity": "99.4%",
+    "unit": "registrations",
+    "eventType": "EventO",
+    "eventDescription": "registrations were correct"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "quantity": {
+      "text": "140",
+      "begin": 69,
+      "end": 72
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 55,
+      "end": 68
+    },
+    "unit": {
+      "text": "individuals",
+      "begin": 73,
+      "end": 84
+    },
+    "eventDescription": {
+      "text": "managed to escape captivity",
+      "begin": 120,
+      "end": 147
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two dozen",
+      "begin": 313,
+      "end": 322
+    },
+    "modifier": {
+      "text": "approximately",
+      "begin": 299,
+      "end": 312
+    },
+    "unit": {
+      "text": "severely injured persons",
+      "begin": 323,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "were brought to the public hospital",
+      "begin": 348,
+      "end": 383
+    },
+    "eventType": "EventP"
+  }
+]

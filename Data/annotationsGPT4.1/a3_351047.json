@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "two",
+    "unit": "times a week",
+    "eventType": "EventO",
+    "eventDescription": "consumption rate of animal-source protein"
+  },
+  {
+    "quantity": "4.6",
+    "unit": "times a week",
+    "eventType": "EventO",
+    "eventDescription": "consumption of vegetables"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "five percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in ToT between wheat flour and wage labour"
+  },
+  {
+    "quantity": "3.8 kgs",
+    "unit": "wheat flour/non-skilled daily wage",
+    "eventType": "EventO",
+    "eventDescription": "ToT between wheat flour and wage labour"
+  },
+  {
+    "quantity": "3.6 kgs",
+    "unit": "wheat flour",
+    "eventType": "EventO",
+    "eventDescription": "ToT between wheat flour and wage labour"
+  },
+  {
+    "quantity": "five percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in ToT compared to January 2021"
+  },
+  {
+    "quantity": "four percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in ToT compared to July 2020"
+  },
+  {
+    "quantity": "3.8 kgs",
+    "unit": "wheat flour",
+    "eventType": "EventO",
+    "eventDescription": "amount of wheat flour a non-skilled labourer could buy in July 2021"
+  },
+  {
+    "quantity": "four kgs",
+    "unit": "wheat flour",
+    "eventType": "EventO",
+    "eventDescription": "amount of wheat flour a non-skilled labourer could buy in January 2021"
+  },
+  {
+    "quantity": "3.9 kgs",
+    "unit": "wheat flour",
+    "eventType": "EventO",
+    "eventDescription": "amount of wheat flour a non-skilled labourer could buy in July 2020"
+  }
+]

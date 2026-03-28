@@ -1,0 +1,290 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "MoH on site",
+      "start": 61,
+      "end": 72
+    },
+    "quantity": {
+      "text": "4",
+      "start": 74,
+      "end": 75
+    },
+    "unit": {
+      "text": "MoH on site",
+      "start": 61,
+      "end": 72
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Standard Operating Procedures in place",
+      "start": 78,
+      "end": 116
+    },
+    "quantity": {
+      "text": "3",
+      "start": 118,
+      "end": 119
+    },
+    "unit": {
+      "text": "Standard Operating Procedures in place",
+      "start": 78,
+      "end": 116
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Point of Entry staff trained on how to manage flows",
+      "start": 122,
+      "end": 173
+    },
+    "quantity": {
+      "text": "2",
+      "start": 175,
+      "end": 176
+    },
+    "unit": {
+      "text": "Point of Entry staff trained on how to manage flows",
+      "start": 122,
+      "end": 173
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Point of Entry information provided",
+      "start": 179,
+      "end": 214
+    },
+    "quantity": {
+      "text": "4",
+      "start": 216,
+      "end": 217
+    },
+    "unit": {
+      "text": "Point of Entry information provided",
+      "start": 179,
+      "end": 214
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Travellers know steps to take in case symptoms develop",
+      "start": 220,
+      "end": 274
+    },
+    "quantity": {
+      "text": "1",
+      "start": 276,
+      "end": 277
+    },
+    "unit": {
+      "text": "Travellers know steps to take in case symptoms develop",
+      "start": 220,
+      "end": 274
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Traveller screening on site",
+      "start": 280,
+      "end": 307
+    },
+    "quantity": {
+      "text": "2",
+      "start": 309,
+      "end": 310
+    },
+    "unit": {
+      "text": "Traveller screening on site",
+      "start": 280,
+      "end": 307
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Travellers know how to seek care",
+      "start": 313,
+      "end": 345
+    },
+    "quantity": {
+      "text": "2",
+      "start": 347,
+      "end": 348
+    },
+    "unit": {
+      "text": "Travellers know how to seek care",
+      "start": 313,
+      "end": 345
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "Staff trained on SOPs",
+      "start": 351,
+      "end": 372
+    },
+    "quantity": {
+      "text": "2",
+      "start": 374,
+      "end": 375
+    },
+    "unit": {
+      "text": "Staff trained on SOPs",
+      "start": 351,
+      "end": 372
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Handwashing stations on site",
+      "start": 378,
+      "end": 406
+    },
+    "quantity": {
+      "text": "2",
+      "start": 408,
+      "end": 409
+    },
+    "unit": {
+      "text": "Handwashing stations on site",
+      "start": 378,
+      "end": 406
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Isolation space exists",
+      "start": 412,
+      "end": 434
+    },
+    "quantity": {
+      "text": "1",
+      "start": 436,
+      "end": 437
+    },
+    "unit": {
+      "text": "Isolation space exists",
+      "start": 412,
+      "end": 434
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Referral system in place",
+      "start": 440,
+      "end": 464
+    },
+    "quantity": {
+      "text": "2",
+      "start": 466,
+      "end": 467
+    },
+    "unit": {
+      "text": "Referral system in place",
+      "start": 440,
+      "end": 464
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "Equipped handwashing stations",
+      "start": 470,
+      "end": 499
+    },
+    "quantity": {
+      "text": "2",
+      "start": 501,
+      "end": 502
+    },
+    "unit": {
+      "text": "Equipped handwashing stations",
+      "start": 470,
+      "end": 499
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Functional referral system",
+      "start": 505,
+      "end": 531
+    },
+    "quantity": {
+      "text": "2",
+      "start": 533,
+      "end": 534
+    },
+    "unit": {
+      "text": "Functional referral system",
+      "start": 505,
+      "end": 531
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Temperatue check included in screening",
+      "start": 537,
+      "end": 575
+    },
+    "quantity": {
+      "text": "2",
+      "start": 577,
+      "end": 578
+    },
+    "unit": {
+      "text": "Temperatue check included in screening",
+      "start": 537,
+      "end": 575
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Forms included in screening",
+      "start": 581,
+      "end": 608
+    },
+    "quantity": {
+      "text": "2",
+      "start": 610,
+      "end": 611
+    },
+    "unit": {
+      "text": "Forms included in screening",
+      "start": 581,
+      "end": 608
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "PPE available and worn",
+      "start": 614,
+      "end": 636
+    },
+    "quantity": {
+      "text": "1",
+      "start": 638,
+      "end": 639
+    },
+    "unit": {
+      "text": "PPE available and worn",
+      "start": 614,
+      "end": 636
+    }
+  }
+]

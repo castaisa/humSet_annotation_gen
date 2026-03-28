@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "over 15,000",
+    "unit": "host community",
+    "eventType": "EventP",
+    "eventDescription": "benefit from innovative teaching and learning approaches",
+    "modifier": "over"
+  },
+  {
+    "quantity": "over 800",
+    "unit": "migrant children",
+    "eventType": "EventP",
+    "eventDescription": "benefit from innovative teaching and learning approaches",
+    "modifier": "over"
+  },
+  {
+    "quantity": "50:50",
+    "unit": "boys/girls",
+    "eventType": "EventP",
+    "eventDescription": "gender distribution of migrant children"
+  }
+]

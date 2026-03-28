@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "920",
+      "start": 96,
+      "end": 99
+    },
+    "eventDescription": {
+      "text": "admitted into the program",
+      "start": 107,
+      "end": 132
+    },
+    "unit": {
+      "text": "people",
+      "start": 100,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "thousands",
+      "start": 271,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "controlled by Boko Haram factions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 284,
+      "end": 290
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23",
+      "start": 316,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "interviewed by Crisis Group",
+      "start": 350,
+      "end": 377
+    },
+    "unit": {
+      "text": "former Safe Corridor internees",
+      "start": 319,
+      "end": 349
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one quarter",
+      "start": 398,
+      "end": 409
+    },
+    "eventDescription": {
+      "text": "from the low-level but committed jihadist recruits",
+      "start": 443,
+      "end": 493
+    },
+    "unit": {
+      "text": "of the cohort at Mallam Sidi",
+      "start": 410,
+      "end": 438
+    },
+    "modifier": {
+      "text": "at most",
+      "start": 390,
+      "end": 397
+    }
+  }
+]

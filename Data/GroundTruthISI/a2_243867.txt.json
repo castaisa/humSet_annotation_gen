@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "3,560",
+      "begin": 177,
+      "end": 182
+    },
+    "unit": {
+      "text": "participants",
+      "begin": 183,
+      "end": 195
+    }
+  },
+  {
+    "quantity": {
+      "text": "16",
+      "begin": 201,
+      "end": 203
+    },
+    "unit": {
+      "text": "upazilas",
+      "begin": 204,
+      "end": 212
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 216,
+      "end": 221
+    },
+    "unit": {
+      "text": "divisions",
+      "begin": 222,
+      "end": 231
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 236,
+      "end": 239
+    },
+    "unit": {
+      "text": "Dhaka city corporations",
+      "begin": 240,
+      "end": 263
+    }
+  },
+  {
+    "quantity": {
+      "text": "52%",
+      "begin": 325,
+      "end": 328
+    },
+    "unit": {
+      "text": "respondents",
+      "begin": 336,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "did not want to take the vaccine immediately",
+      "begin": 348,
+      "end": 392
+    },
+    "eventType": "EventO"
+  }
+]

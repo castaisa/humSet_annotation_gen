@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "30",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "figure reference"
+  },
+  {
+    "quantity": "37",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "footnote or reference"
+  }
+]

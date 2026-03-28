@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "percentage of rural work force that are women",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "60",
+      "start": 76,
+      "end": 78
+    },
+    "unit": {
+      "text": "per cent",
+      "start": 85,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "percentage of rural work force that are women",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "79",
+      "start": 82,
+      "end": 84
+    },
+    "unit": {
+      "text": "per cent",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "likelihood of males owning land compared to females",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 200,
+      "end": 204
+    },
+    "unit": {
+      "text": "times",
+      "start": 205,
+      "end": 210
+    }
+  }
+]

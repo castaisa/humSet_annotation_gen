@@ -1,0 +1,117 @@
+[
+  {
+    "quantity": {
+      "text": "65%",
+      "begin": 237,
+      "end": 240
+    },
+    "eventDescription": {
+      "text": "maternal mortality",
+      "begin": 200,
+      "end": 218
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "over",
+      "begin": 232,
+      "end": 236
+    }
+  },
+  {
+    "quantity": {
+      "text": "756",
+      "begin": 264,
+      "end": 267
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 268,
+      "end": 274
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 280,
+      "end": 288
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "21.1",
+      "begin": 372,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 377,
+      "end": 383
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "per 1,000 live birth",
+      "begin": 384,
+      "end": 404
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.4",
+      "begin": 413,
+      "end": 416
+    },
+    "unit": {
+      "text": "times",
+      "begin": 417,
+      "end": 422
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 441,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "begin": 444,
+      "end": 450
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "per 1,000 live birth)",
+      "begin": 451,
+      "end": 472
+    }
+  },
+  {
+    "quantity": {
+      "text": "25,000",
+      "begin": 687,
+      "end": 693
+    },
+    "unit": {
+      "text": "pregnant women",
+      "begin": 694,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "did not receive prenatal care",
+      "begin": 709,
+      "end": 738
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7,500",
+      "begin": 749,
+      "end": 754
+    },
+    "eventDescription": {
+      "text": "only checked in the eighth and ninth months of their pregnancy",
+      "begin": 760,
+      "end": 822
+    },
+    "eventType": "EventO"
+  }
+]

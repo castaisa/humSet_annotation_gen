@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "required to meet the food security needs",
+      "start": 28,
+      "end": 68
+    },
+    "modifier": {
+      "text": "More than",
+      "start": 2,
+      "end": 11
+    },
+    "quantity": {
+      "text": "263 million",
+      "start": 13,
+      "end": 24
+    },
+    "unit": {
+      "text": "dollars",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need of food security",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2.7 million",
+      "start": 72,
+      "end": 83
+    },
+    "unit": {
+      "text": "Nigerians",
+      "start": 84,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "decrease in severe acute malnutrition (SAM) cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16 percent",
+      "start": 241,
+      "end": 251
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "severe acute malnutrition cases in 2018",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "439,000",
+      "start": 264,
+      "end": 271
+    },
+    "unit": {
+      "text": "SAM cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "increase in moderate acute malnutrition cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "44 percent",
+      "start": 352,
+      "end": 362
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moderate acute malnutrition cases",
+      "start": 305,
+      "end": 338
+    },
+    "quantity": {
+      "text": "723,000",
+      "start": 366,
+      "end": 373
+    },
+    "unit": {
+      "text": "moderate acute malnutrition cases",
+      "start": 305,
+      "end": 338
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "moderate acute malnutrition cases in 2018",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "502,000",
+      "start": 387,
+      "end": 394
+    },
+    "unit": {
+      "text": "moderate acute malnutrition cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children ages five years and younger experiencing acute malnutrition",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 432,
+      "end": 441
+    },
+    "quantity": {
+      "text": "1 million",
+      "start": 442,
+      "end": 451
+    },
+    "unit": {
+      "text": "children",
+      "start": 452,
+      "end": 460
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age of children experiencing acute malnutrition",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "five",
+      "start": 477,
+      "end": 481
+    },
+    "unit": {
+      "text": "years",
+      "start": 482,
+      "end": 487
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children suffering from SAM",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "367,000",
+      "start": 536,
+      "end": 543
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "requested to meet the nutrition needs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "106 million",
+      "start": 607,
+      "end": 618
+    },
+    "unit": {
+      "text": "dollars",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "people in need of nutrition",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2 million",
+      "start": 650,
+      "end": 659
+    },
+    "unit": {
+      "text": "people",
+      "start": 660,
+      "end": 666
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "quantity": {
+      "text": "nine out of ten",
+      "begin": 53,
+      "end": 68
+    },
+    "unit": {
+      "text": "households",
+      "begin": 81,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "applying at least one food-based coping strategy to meet their food consumption needs",
+      "begin": 114,
+      "end": 199
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "(91 percent)",
+      "begin": 92,
+      "end": 104
+    },
+    "eventDescription": {
+      "text": "applying at least one food-based coping strategy to meet their food consumption needs",
+      "begin": 114,
+      "end": 199
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "seven out of ten",
+      "begin": 334,
+      "end": 350
+    },
+    "unit": {
+      "text": "households",
+      "begin": 363,
+      "end": 373
+    },
+    "eventDescription": {
+      "text": "they bought food on credit",
+      "begin": 401,
+      "end": 427
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "76 percent",
+      "begin": 618,
+      "end": 628
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 607,
+      "end": 616
+    }
+  },
+  {
+    "quantity": {
+      "text": "76 percent",
+      "begin": 640,
+      "end": 650
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 634,
+      "end": 638
+    }
+  },
+  {
+    "quantity": {
+      "text": "67 percent",
+      "begin": 703,
+      "end": 713
+    },
+    "unit": {
+      "text": "residents",
+      "begin": 692,
+      "end": 701
+    }
+  }
+]

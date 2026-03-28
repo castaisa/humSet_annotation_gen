@@ -1,0 +1,78 @@
+[
+  {
+    "quantity": {
+      "text": "89",
+      "begin": 42,
+      "end": 44
+    },
+    "unit": {
+      "text": "Peru ranked",
+      "begin": 30,
+      "end": 41
+    },
+    "eventDescription": {
+      "text": "in the human development index",
+      "begin": 45,
+      "end": 75
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "72.5 percent",
+      "begin": 465,
+      "end": 477
+    },
+    "unit": {
+      "text": "informality rates",
+      "begin": 432,
+      "end": 449
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 654,
+      "end": 659
+    },
+    "modifier": {
+      "text": "top",
+      "begin": 650,
+      "end": 653
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 660,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "begin": 675,
+      "end": 699
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 732,
+      "end": 735
+    },
+    "unit": {
+      "text": "countries",
+      "begin": 660,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases",
+      "begin": 675,
+      "end": 699
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "top",
+      "begin": 728,
+      "end": 731
+    }
+  }
+]

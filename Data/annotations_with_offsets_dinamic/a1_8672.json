@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "displaced for more than one year",
+      "start": 24,
+      "end": 56
+    },
+    "quantity": {
+      "text": "89 percent",
+      "start": 5,
+      "end": 15
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 19,
+      "end": 23
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached by protection monitoring",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "over",
+      "start": 420,
+      "end": 424
+    },
+    "quantity": {
+      "text": "over 220,000",
+      "start": 420,
+      "end": 432
+    },
+    "unit": {
+      "text": "people",
+      "start": 433,
+      "end": 439
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reached by protection monitoring",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2017",
+      "start": 443,
+      "end": 447
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "backbone of the IDP protection response",
+      "start": 469,
+      "end": 508
+    },
+    "quantity": {
+      "text": "2018",
+      "start": 513,
+      "end": 517
+    },
+    "unit": {
+      "text": "IDP protection response",
+      "start": 485,
+      "end": 508
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reinforced by UNHCR",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "31",
+      "start": 904,
+      "end": 906
+    },
+    "unit": {
+      "text": "Community-Based Protection Networks (CBPNs)",
+      "start": 907,
+      "end": 950
+    }
+  }
+]

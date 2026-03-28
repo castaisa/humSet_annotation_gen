@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in high risk areas",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 77,
+      "end": 82
+    },
+    "quantity": {
+      "text": "13.2 million",
+      "start": 83,
+      "end": 95
+    },
+    "unit": {
+      "text": "adults",
+      "start": 44,
+      "end": 50
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proportion in high risk areas",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13%",
+      "start": 97,
+      "end": 100
+    },
+    "unit": {
+      "text": "of the country's total adult population",
+      "start": 101,
+      "end": 140
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "located in rural areas",
+      "start": 169,
+      "end": 191
+    },
+    "quantity": {
+      "text": "78%",
+      "start": 152,
+      "end": 155
+    },
+    "unit": {
+      "text": "of adults in high risk areas",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in rural areas",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10.2 M",
+      "start": 157,
+      "end": 163
+    },
+    "unit": {
+      "text": "adults",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in ZOI",
+      "start": 248,
+      "end": 254
+    },
+    "modifier": {
+      "text": "about",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1%",
+      "start": 199,
+      "end": 201
+    },
+    "unit": {
+      "text": "of the total adult population at high risk",
+      "start": 202,
+      "end": 244
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in ZOI",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.9M",
+      "start": 266,
+      "end": 270
+    },
+    "unit": {
+      "text": "adults",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "top hotspots",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "ten",
+      "start": 289,
+      "end": 292
+    },
+    "unit": {
+      "text": "hotspots",
+      "start": 293,
+      "end": 301
+    }
+  }
+]

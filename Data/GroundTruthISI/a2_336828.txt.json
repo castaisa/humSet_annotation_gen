@@ -1,0 +1,48 @@
+[
+  {
+    "quantity": {
+      "text": "7,000",
+      "begin": 76,
+      "end": 81
+    },
+    "eventDescription": {
+      "text": "WFP printed",
+      "begin": 59,
+      "end": 70
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 71,
+      "end": 75
+    },
+    "unit": {
+      "text": "SCOPECARDs",
+      "begin": 82,
+      "end": 92
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,100",
+      "begin": 192,
+      "end": 197
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 167,
+      "end": 178
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "over",
+      "begin": 187,
+      "end": 191
+    },
+    "unit": {
+      "text": "households",
+      "begin": 198,
+      "end": 208
+    }
+  }
+]

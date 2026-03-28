@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "550",
+    "unit": "formal businesses",
+    "eventType": "EventO",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "five",
+    "unit": "cities",
+    "eventType": "EventO",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "about 30%",
+    "unit": "sales and employment",
+    "eventType": "EventO",
+    "eventDescription": "contracted",
+    "modifier": "about"
+  }
+]

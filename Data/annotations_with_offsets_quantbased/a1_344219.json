@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7%",
+      "start": 118,
+      "end": 120
+    },
+    "eventDescription": {
+      "text": "increase in price",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "price",
+      "start": 124,
+      "end": 129
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "96%",
+      "start": 161,
+      "end": 164
+    },
+    "eventDescription": {
+      "text": "six-month price increase",
+      "start": 165,
+      "end": 189
+    },
+    "unit": {
+      "text": "price",
+      "start": 175,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "59%",
+      "start": 344,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "reported as unavailable",
+      "start": 317,
+      "end": 340
+    },
+    "unit": {
+      "text": "vendors",
+      "start": 351,
+      "end": 358
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6",
+      "start": 375,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "increase since March",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "percentage points",
+      "start": 377,
+      "end": 394
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "98%",
+      "start": 495,
+      "end": 498
+    },
+    "eventDescription": {
+      "text": "increase since October 2020",
+      "start": 181,
+      "end": 208
+    },
+    "unit": {
+      "text": "price",
+      "start": 424,
+      "end": 429
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "100%",
+      "start": 563,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "recorded as available",
+      "start": 538,
+      "end": 559
+    },
+    "unit": {
+      "text": "surveyed vendors",
+      "start": 571,
+      "end": 587
+    }
+  }
+]

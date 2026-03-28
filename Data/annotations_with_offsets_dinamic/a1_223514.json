@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": 236,
+      "end": 241
+    },
+    "quantity": {
+      "text": "250 SSP",
+      "start": 249,
+      "end": 256
+    },
+    "unit": {
+      "text": "cup of sorghum",
+      "start": 221,
+      "end": 235
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": 280,
+      "end": 285
+    },
+    "quantity": {
+      "text": "30 SSP",
+      "start": 286,
+      "end": 292
+    },
+    "unit": {
+      "text": "piece of biscuit",
+      "start": 263,
+      "end": 279
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": 317,
+      "end": 322
+    },
+    "quantity": {
+      "text": "200 SSP",
+      "start": 323,
+      "end": 330
+    },
+    "unit": {
+      "text": "half kilogram of sugar",
+      "start": 294,
+      "end": 316
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "cost",
+      "start": 357,
+      "end": 361
+    },
+    "quantity": {
+      "text": "250 SSP",
+      "start": 362,
+      "end": 369
+    },
+    "unit": {
+      "text": "maize flour small packet",
+      "start": 332,
+      "end": 356
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": 423,
+      "end": 428
+    },
+    "quantity": {
+      "text": "250 SSP",
+      "start": 436,
+      "end": 443
+    },
+    "unit": {
+      "text": "cup of sorghum",
+      "start": 408,
+      "end": 422
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": 475,
+      "end": 480
+    },
+    "quantity": {
+      "text": "30SSP",
+      "start": 481,
+      "end": 486
+    },
+    "unit": {
+      "text": "small packet of biscuits",
+      "start": 450,
+      "end": 474
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": 504,
+      "end": 509
+    },
+    "quantity": {
+      "text": "200SSP",
+      "start": 510,
+      "end": 516
+    },
+    "unit": {
+      "text": "half kg sugar",
+      "start": 490,
+      "end": 503
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": 553,
+      "end": 558
+    },
+    "quantity": {
+      "text": "125ml",
+      "start": 546,
+      "end": 551
+    },
+    "unit": {
+      "text": "small cup of maize flour",
+      "start": 520,
+      "end": 544
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "costs",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "250SSP",
+      "start": 559,
+      "end": 565
+    },
+    "unit": {
+      "text": "small cup of maize flour (125ml)",
+      "start": null,
+      "end": null
+    }
+  }
+]

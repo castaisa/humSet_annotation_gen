@@ -1,0 +1,218 @@
+[
+  {
+    "quantity": {
+      "text": "28,135",
+      "begin": 60,
+      "end": 66
+    },
+    "unit": {
+      "text": "conflict affected households",
+      "begin": 67,
+      "end": 95
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "196,917",
+      "begin": 97,
+      "end": 104
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 105,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 200,
+      "end": 202
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg of rice",
+      "begin": 202,
+      "end": 212
+    }
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 214,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg of beans",
+      "begin": 216,
+      "end": 227
+    }
+  },
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 229,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg of lentils",
+      "begin": 231,
+      "end": 244
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 246,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg sugar",
+      "begin": 247,
+      "end": 255
+    }
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 257,
+      "end": 258
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg tomato paste",
+      "begin": 258,
+      "end": 273
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 275,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "L sunflower oil",
+      "begin": 277,
+      "end": 292
+    }
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 294,
+      "end": 295
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg salt",
+      "begin": 295,
+      "end": 302
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 308,
+      "end": 310
+    },
+    "eventDescription": {
+      "text": "received food assistance",
+      "begin": 161,
+      "end": 185
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "sachets of the nutritional supplement",
+      "begin": 311,
+      "end": 348
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 454,
+      "end": 456
+    },
+    "eventDescription": {
+      "text": "each household received",
+      "begin": 430,
+      "end": 453
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "soaps",
+      "begin": 457,
+      "end": 462
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 479,
+      "end": 482
+    },
+    "unit": {
+      "text": "food parcels",
+      "begin": 483,
+      "end": 495
+    },
+    "eventDescription": {
+      "text": "donated",
+      "begin": 501,
+      "end": 508
+    },
+    "eventType": "EventA"
+  }
+]

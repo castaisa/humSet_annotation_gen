@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "1.9 million",
+      "begin": 406,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "identified",
+      "begin": 395,
+      "end": 405
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "poor and vulnerable households",
+      "begin": 418,
+      "end": 448
+    }
+  },
+  {
+    "quantity": {
+      "text": "740 000",
+      "begin": 703,
+      "end": 710
+    },
+    "unit": {
+      "text": "people",
+      "begin": 711,
+      "end": 717
+    },
+    "eventDescription": {
+      "text": "have bank accounts",
+      "begin": 722,
+      "end": 740
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "600,000",
+      "begin": 949,
+      "end": 956
+    },
+    "unit": {
+      "text": "people",
+      "begin": 957,
+      "end": 963
+    },
+    "eventDescription": {
+      "text": "still not been reached",
+      "begin": 968,
+      "end": 990
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "337,000",
+      "begin": 2367,
+      "end": 2374
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 2359,
+      "end": 2366
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 2375,
+      "end": 2385
+    }
+  },
+  {
+    "quantity": {
+      "text": "130 000",
+      "begin": 2631,
+      "end": 2638
+    },
+    "unit": {
+      "text": "households",
+      "begin": 2639,
+      "end": 2649
+    },
+    "eventDescription": {
+      "text": "had registered for and received aid",
+      "begin": 2650,
+      "end": 2685
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "300,000",
+      "begin": 2775,
+      "end": 2782
+    },
+    "unit": {
+      "text": "households",
+      "begin": 2783,
+      "end": 2793
+    },
+    "eventDescription": {
+      "text": "had received aid",
+      "begin": 2794,
+      "end": 2810
+    },
+    "eventType": "EventA"
+  }
+]

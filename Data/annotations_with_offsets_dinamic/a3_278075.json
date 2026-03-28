@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "affected by measles epidemic",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "118",
+      "start": 297,
+      "end": 300
+    },
+    "unit": {
+      "text": "health districts",
+      "start": 312,
+      "end": 328
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "total health districts referenced",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "126",
+      "start": 308,
+      "end": 311
+    },
+    "unit": {
+      "text": "health districts",
+      "start": 479,
+      "end": 495
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "in a declared measles epidemic",
+      "start": 501,
+      "end": 531
+    },
+    "quantity": {
+      "text": "28",
+      "start": 476,
+      "end": 478
+    },
+    "unit": {
+      "text": "health districts",
+      "start": 667,
+      "end": 683
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported",
+      "start": 563,
+      "end": 571
+    },
+    "quantity": {
+      "text": "7,635",
+      "start": 572,
+      "end": 577
+    },
+    "unit": {
+      "text": "suspected cases",
+      "start": null,
+      "end": null
+    }
+  }
+]

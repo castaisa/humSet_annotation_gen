@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "13.1 million",
+      "begin": 67,
+      "end": 79
+    },
+    "unit": {
+      "text": "people",
+      "begin": 80,
+      "end": 86
+    },
+    "eventDescription": {
+      "text": "expected to be facing acute food insecurity",
+      "begin": 121,
+      "end": 164
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "42%",
+      "begin": 88,
+      "end": 91
+    },
+    "unit": {
+      "text": "total population",
+      "begin": 99,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "expected to be facing acute food insecurity",
+      "begin": 121,
+      "end": 164
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 249,
+      "end": 252
+    },
+    "unit": {
+      "text": "total population",
+      "begin": 99,
+      "end": 115
+    },
+    "eventDescription": {
+      "text": "increase",
+      "begin": 253,
+      "end": 261
+    },
+    "eventType": "EventO"
+  }
+]

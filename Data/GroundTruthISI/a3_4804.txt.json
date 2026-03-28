@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": {
+      "text": "16 million",
+      "begin": 196,
+      "end": 206
+    },
+    "unit": {
+      "text": "people",
+      "begin": 207,
+      "end": 213
+    },
+    "eventDescription": {
+      "text": "lack health care",
+      "begin": 214,
+      "end": 230
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1.5 million",
+      "begin": 232,
+      "end": 243
+    },
+    "unit": {
+      "text": "children",
+      "begin": 244,
+      "end": 252
+    },
+    "eventDescription": {
+      "text": "malnourished",
+      "begin": 257,
+      "end": 269
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 290,
+      "end": 301
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 305,
+      "end": 322
+    },
+    "eventDescription": {
+      "text": "partially or completely closed",
+      "begin": 327,
+      "end": 357
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17 million",
+      "begin": 359,
+      "end": 369
+    },
+    "unit": {
+      "text": "people",
+      "begin": 370,
+      "end": 376
+    },
+    "eventDescription": {
+      "text": "suffering from food insecurity, drinking water shortages and services such as electricity and others.",
+      "begin": 381,
+      "end": 482
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "50 per cent",
+      "begin": 502,
+      "end": 513
+    },
+    "unit": {
+      "text": "health facilities",
+      "begin": 517,
+      "end": 534
+    },
+    "eventDescription": {
+      "text": "partially or completely closed",
+      "begin": 539,
+      "end": 569
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "17 million",
+      "begin": 571,
+      "end": 581
+    },
+    "unit": {
+      "text": "people",
+      "begin": 582,
+      "end": 588
+    },
+    "eventDescription": {
+      "text": "suffering from food insecurity, drinking water shortages and services such as electricity and others.",
+      "begin": 593,
+      "end": 694
+    },
+    "eventType": "EventO"
+  }
+]

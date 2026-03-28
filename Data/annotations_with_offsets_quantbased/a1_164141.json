@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13",
+      "start": 35,
+      "end": 37
+    },
+    "eventDescription": {
+      "text": "new Coronavirus cases recorded",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 42,
+      "end": 47
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 90,
+      "end": 91
+    },
+    "eventDescription": {
+      "text": "cases distributed in Al-Bab",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 126,
+      "end": 129
+    },
+    "eventDescription": {
+      "text": "cases in Jarablus",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 143,
+      "end": 146
+    },
+    "eventDescription": {
+      "text": "case in Azaz",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 92,
+      "end": 96
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 156,
+      "end": 159
+    },
+    "eventDescription": {
+      "text": "case in Afrin",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 92,
+      "end": 96
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one",
+      "start": 174,
+      "end": 177
+    },
+    "eventDescription": {
+      "text": "infection in Idlib",
+      "start": 178,
+      "end": 196
+    },
+    "unit": {
+      "text": "infection",
+      "start": 178,
+      "end": 187
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "151",
+      "start": 325,
+      "end": 328
+    },
+    "eventDescription": {
+      "text": "number of casualties since the 9th of July",
+      "start": 257,
+      "end": 299
+    },
+    "unit": {
+      "text": "casualties",
+      "start": 267,
+      "end": 277
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 344,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "doctors who were residing in Turkey",
+      "start": 348,
+      "end": 383
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 348,
+      "end": 355
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "58",
+      "start": 389,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "people including medical personnel in Hayat Tahrir Al-Sham areas",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 392,
+      "end": 398
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "91",
+      "start": 534,
+      "end": 536
+    },
+    "eventDescription": {
+      "text": "infected in areas of the pro-Turkish factions north of Aleppo",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "infected",
+      "start": 537,
+      "end": 545
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "8.0 million",
+      "begin": 559,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "government has allocated a COVID-19 fund",
+      "begin": 511,
+      "end": 551
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 555,
+      "end": 558
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.0 million",
+      "begin": 586,
+      "end": 597
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 582,
+      "end": 585
+    },
+    "eventDescription": {
+      "text": "allocated to the Ministry of Health to combat the pandemic",
+      "begin": 602,
+      "end": 660
+    },
+    "eventType": "EventO"
+  }
+]

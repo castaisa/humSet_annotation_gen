@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "9",
+    "unit": "camps",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "115",
+    "unit": "makeshift shelters",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "345",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "without shelter"
+  }
+]

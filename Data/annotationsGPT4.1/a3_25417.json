@@ -1,0 +1,96 @@
+[
+  {
+    "quantity": "48%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "in need of shelter and/or non-food items"
+  },
+  {
+    "quantity": "at least half",
+    "unit": "basic NFI kit items",
+    "eventType": "EventA",
+    "eventDescription": "not owning",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "63%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "not owning at least half of the basic NFI kit items"
+  },
+  {
+    "quantity": "54%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "sharing their shelter with another family"
+  },
+  {
+    "quantity": "70%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  },
+  {
+    "quantity": "67%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  },
+  {
+    "quantity": "47%",
+    "unit": "non-displaced households",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  },
+  {
+    "quantity": "less than 5%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported not having adequate shelter",
+    "modifier": "less than"
+  },
+  {
+    "quantity": "over half (55%)",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "had an unmet shelter/NFI need",
+    "modifier": "over"
+  },
+  {
+    "quantity": "61%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "lacking at least half of the basic NFI kit items"
+  },
+  {
+    "quantity": "at least half",
+    "unit": "basic NFI kit items",
+    "eventType": "EventA",
+    "eventDescription": "lacking",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "54%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "sharing a shelter with another family"
+  },
+  {
+    "quantity": "56%",
+    "unit": "IDPs",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  },
+  {
+    "quantity": "55%",
+    "unit": "non-displaced",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  },
+  {
+    "quantity": "50%",
+    "unit": "returnees",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  }
+]

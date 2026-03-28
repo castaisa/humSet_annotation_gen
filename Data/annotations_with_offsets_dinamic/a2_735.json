@@ -1,0 +1,254 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "scoring ‘borderline’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "12.5%",
+      "start": 72,
+      "end": 77
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 0,
+      "end": 14
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "scoring ‘poor’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.9%",
+      "start": 103,
+      "end": 107
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "scoring ‘borderline’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.8%",
+      "start": 140,
+      "end": 144
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": 158,
+      "end": 182
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "scoring ‘poor’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.8%",
+      "start": 149,
+      "end": 153
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "scoring ‘borderline’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.9%",
+      "start": 188,
+      "end": 192
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 206,
+      "end": 225
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "scoring ‘poor’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "1.3%",
+      "start": 197,
+      "end": 201
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 804,
+      "end": 823
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified with ‘poor’ and ‘borderline’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21.3%",
+      "start": 714,
+      "end": 719
+    },
+    "unit": {
+      "text": "households in Sebha",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified with ‘poor’ and ‘borderline’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "37.8%",
+      "start": 731,
+      "end": 736
+    },
+    "unit": {
+      "text": "households in Tripoli",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified with ‘poor’ and ‘borderline’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41.8%",
+      "start": 753,
+      "end": 758
+    },
+    "unit": {
+      "text": "households in Al Margab",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "identified with ‘poor’ and ‘borderline’ FCS",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5.0%",
+      "start": 784,
+      "end": 788
+    },
+    "unit": {
+      "text": "overall households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "average FCS score",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "79.2",
+      "start": 925,
+      "end": 929
+    },
+    "unit": {
+      "text": "returnee households in Al Jabal Al Gharbi",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "average FCS score",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "95.6",
+      "start": 934,
+      "end": 938
+    },
+    "unit": {
+      "text": "non-displaced households in Al Jabal Al Gharbi",
+      "start": 860,
+      "end": 906
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "average FCS score",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "72.7",
+      "start": 970,
+      "end": 974
+    },
+    "unit": {
+      "text": "returnee households in Ghat",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "average FCS score",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "82.1",
+      "start": 979,
+      "end": 983
+    },
+    "unit": {
+      "text": "non-displaced households in Ghat",
+      "start": null,
+      "end": null
+    }
+  }
+]

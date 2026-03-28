@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 183,
+      "end": 184
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 178,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "irrigation farming as a source of food",
+      "begin": 201,
+      "end": 239
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 341,
+      "end": 342
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 178,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "exchange of food",
+      "begin": 323,
+      "end": 339
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 355,
+      "end": 356
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 178,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "foraging",
+      "begin": 345,
+      "end": 353
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 376,
+      "end": 377
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 178,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "food assistance",
+      "begin": 359,
+      "end": 374
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1",
+      "begin": 412,
+      "end": 413
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 178,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "buying things in the market",
+      "begin": 383,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "One",
+      "begin": 416,
+      "end": 419
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 427,
+      "end": 430
+    },
+    "eventDescription": {
+      "text": "forced labour in exchange of food as a source of food",
+      "begin": 442,
+      "end": 495
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 582,
+      "end": 583
+    },
+    "unit": {
+      "text": "KIs",
+      "begin": 584,
+      "end": 587
+    },
+    "eventDescription": {
+      "text": "reported that people in their settlement only had one source of food",
+      "begin": 588,
+      "end": 656
+    },
+    "eventType": "EventO"
+  }
+]

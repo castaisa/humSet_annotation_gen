@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "30 percent",
+    "unit": "above quarter 1 2020 prices",
+    "eventType": "EventO",
+    "eventDescription": "increase in prices"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "above Q1 2020 prices",
+    "eventType": "EventO",
+    "eventDescription": "increase in rice prices"
+  },
+  {
+    "quantity": "58 percent",
+    "unit": "higher than same period in 2019",
+    "eventType": "EventO",
+    "eventDescription": "increase in lentils imports"
+  }
+]

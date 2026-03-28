@@ -1,0 +1,146 @@
+[
+  {
+    "quantity": {
+      "text": "Seventy-six per cent",
+      "begin": 69,
+      "end": 89
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 93,
+      "end": 102
+    },
+    "eventDescription": {
+      "text": "resided in shelters with walls",
+      "begin": 103,
+      "end": 133
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Eighteen per cent",
+      "begin": 135,
+      "end": 152
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 156,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "were residing in traditional shelters",
+      "begin": 166,
+      "end": 203
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6 per cent",
+      "begin": 208,
+      "end": 218
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 156,
+      "end": 165
+    },
+    "eventDescription": {
+      "text": "were living in emergency/makeshift shelters",
+      "begin": 219,
+      "end": 262
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "82 per cent",
+      "begin": 274,
+      "end": 285
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 289,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "lived in shelters with walls",
+      "begin": 299,
+      "end": 327
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "9 per cent",
+      "begin": 334,
+      "end": 344
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 289,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "were living in emergency/makeshift shelters",
+      "begin": 345,
+      "end": 388
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "10 per cent",
+      "begin": 393,
+      "end": 404
+    },
+    "unit": {
+      "text": "returnees",
+      "begin": 289,
+      "end": 298
+    },
+    "eventDescription": {
+      "text": "were dwelling in traditional shelters",
+      "begin": 405,
+      "end": 442
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Twenty-six per cent",
+      "begin": 490,
+      "end": 509
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 513,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "found their houses in their locations of origin either fully or partially damaged",
+      "begin": 533,
+      "end": 614
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Seventyfour per cent",
+      "begin": 616,
+      "end": 636
+    },
+    "unit": {
+      "text": "houses of returnees",
+      "begin": 644,
+      "end": 663
+    },
+    "eventDescription": {
+      "text": "were not damaged",
+      "begin": 664,
+      "end": 680
+    },
+    "eventType": "EventO"
+  }
+]

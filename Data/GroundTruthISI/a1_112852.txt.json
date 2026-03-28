@@ -1,0 +1,179 @@
+[
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 149,
+      "end": 152
+    },
+    "modifier": {
+      "text": "average of",
+      "begin": 138,
+      "end": 148
+    },
+    "unit": {
+      "text": "doctors per 1,000 population",
+      "begin": 153,
+      "end": 181
+    },
+    "eventDescription": {
+      "text": "doctors per 1,000 population",
+      "begin": 153,
+      "end": 181
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3.5",
+      "begin": 239,
+      "end": 242
+    },
+    "eventDescription": {
+      "text": "doctors per 1,000 population",
+      "begin": 153,
+      "end": 181
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "OECD average of",
+      "begin": 223,
+      "end": 238
+    }
+  },
+  {
+    "quantity": {
+      "text": "2.1",
+      "begin": 341,
+      "end": 344
+    },
+    "eventDescription": {
+      "text": "hospital beds",
+      "begin": 317,
+      "end": 330
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "per 1,000 population",
+      "begin": 345,
+      "end": 365
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.7",
+      "begin": 413,
+      "end": 416
+    },
+    "eventDescription": {
+      "text": "hospital beds",
+      "begin": 317,
+      "end": 330
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "OECD average of",
+      "begin": 397,
+      "end": 412
+    }
+  },
+  {
+    "quantity": {
+      "text": "less than half",
+      "begin": 375,
+      "end": 389
+    },
+    "eventDescription": {
+      "text": "hospital beds",
+      "begin": 317,
+      "end": 330
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "OECD average of",
+      "begin": 397,
+      "end": 412
+    }
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 521,
+      "end": 524
+    },
+    "modifier": {
+      "text": "below",
+      "begin": 515,
+      "end": 520
+    },
+    "unit": {
+      "text": "hospital bed per 1,000 population",
+      "begin": 525,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "hospital bed per 1,000 population",
+      "begin": 525,
+      "end": 558
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9.1",
+      "begin": 711,
+      "end": 714
+    },
+    "unit": {
+      "text": "Intensive Care Unit (ICU) average beds per 100,000 population",
+      "begin": 715,
+      "end": 776
+    },
+    "eventDescription": {
+      "text": "Intensive Care Unit (ICU) average beds per 100,000 population",
+      "begin": 715,
+      "end": 776
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 780,
+      "end": 782
+    },
+    "eventDescription": {
+      "text": "Intensive Care Unit (ICU) average beds per 100,000 population",
+      "begin": 715,
+      "end": 776
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "LAC countries",
+      "begin": 783,
+      "end": 796
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 827,
+      "end": 829
+    },
+    "modifier": {
+      "text": "much lower than",
+      "begin": 807,
+      "end": 822
+    },
+    "unit": {
+      "text": "ICU average beds per 100,000 population",
+      "begin": 830,
+      "end": 869
+    },
+    "eventDescription": {
+      "text": "ICU average beds per 100,000 population",
+      "begin": 830,
+      "end": 869
+    },
+    "eventType": "EventP"
+  }
+]

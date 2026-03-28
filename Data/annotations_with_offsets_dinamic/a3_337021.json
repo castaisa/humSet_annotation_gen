@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "targeted for food security and resilience",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "100%",
+      "start": 221,
+      "end": 225
+    },
+    "unit": {
+      "text": "Rohingya population living inside the camps",
+      "start": 229,
+      "end": 272
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "targeted for food security and resilience",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "70%",
+      "start": 277,
+      "end": 280
+    },
+    "unit": {
+      "text": "host community population in Ukhiya and Teknaf upazila",
+      "start": 284,
+      "end": 338
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported 5Ws in April",
+      "start": 662,
+      "end": 683
+    },
+    "quantity": {
+      "text": "24",
+      "start": 650,
+      "end": 652
+    },
+    "unit": {
+      "text": "partners",
+      "start": 653,
+      "end": 661
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported 5Ws in March",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26",
+      "start": 685,
+      "end": 687
+    },
+    "unit": {
+      "text": "partners",
+      "start": null,
+      "end": null
+    }
+  }
+]

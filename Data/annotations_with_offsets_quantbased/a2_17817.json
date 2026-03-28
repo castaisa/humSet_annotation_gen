@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "206",
+      "start": 138,
+      "end": 141
+    },
+    "eventDescription": {
+      "text": "received cash grants for rehabilitation/reconstruction",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "families",
+      "start": 142,
+      "end": 150
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "227",
+      "start": 333,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "received EESKs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "families",
+      "start": 337,
+      "end": 345
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "297",
+      "start": 358,
+      "end": 361
+    },
+    "eventDescription": {
+      "text": "received NFIs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "families",
+      "start": 362,
+      "end": 370
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "70",
+      "start": 545,
+      "end": 547
+    },
+    "eventDescription": {
+      "text": "received NFIs",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDP families",
+      "start": 548,
+      "end": 560
+    }
+  }
+]

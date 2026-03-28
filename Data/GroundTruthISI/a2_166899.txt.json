@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "130",
+      "begin": 197,
+      "end": 200
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 201,
+      "end": 216
+    }
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 218,
+      "end": 220
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "begin": 201,
+      "end": 216
+    },
+    "eventDescription": {
+      "text": "had come from a single cruise ship",
+      "begin": 230,
+      "end": 264
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 279,
+      "end": 280
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 281,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 293,
+      "end": 297
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 344,
+      "end": 346
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 347,
+      "end": 352
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "begin": 363,
+      "end": 372
+    },
+    "eventType": "EventP"
+  }
+]

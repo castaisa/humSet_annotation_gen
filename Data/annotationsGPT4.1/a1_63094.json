@@ -1,0 +1,192 @@
+[
+  {
+    "quantity": "0.44%",
+    "unit": "malaria cases",
+    "eventType": "EventP",
+    "eventDescription": "proportion of malaria cases in the Americas"
+  },
+  {
+    "quantity": "975,700",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "malaria cases in the Americas"
+  },
+  {
+    "quantity": "42%",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "malaria cases reported by WHO in Venezuela"
+  },
+  {
+    "quantity": "519,109",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "malaria cases reported by WHO in Venezuela"
+  },
+  {
+    "quantity": "16",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "countries with autochthonous transmission of malaria in the Americas"
+  },
+  {
+    "quantity": "0.22%",
+    "unit": "global cases",
+    "eventType": "EventP",
+    "eventDescription": "proportion of global malaria cases"
+  },
+  {
+    "quantity": "approximately 120,000",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "HIV cases in Venezuela",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "6,500",
+    "unit": "new infections",
+    "eventType": "EventP",
+    "eventDescription": "new HIV infections in Venezuela"
+  },
+  {
+    "quantity": "2,500",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "AIDS-related deaths in Venezuela"
+  },
+  {
+    "quantity": "10,185",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "tuberculosis (TB) cases in Venezuela"
+  },
+  {
+    "quantity": "41%",
+    "unit": "increase",
+    "eventType": "EventO",
+    "eventDescription": "increase in TB cases compared to 2014"
+  },
+  {
+    "quantity": "6,063",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "TB cases reported in 2014"
+  },
+  {
+    "quantity": "32.4",
+    "unit": "per 100,000 inhabitants",
+    "eventType": "EventP",
+    "eventDescription": "incidence rate of TB"
+  },
+  {
+    "quantity": "more than 40",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "highest TB incidence in years",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "15",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age range of males with increased TB cases"
+  },
+  {
+    "quantity": "34",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age range of males with increased TB cases"
+  },
+  {
+    "quantity": "25 per cent",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "TB cases in two vulnerable groups"
+  },
+  {
+    "quantity": "15.7%",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "TB cases in people in prisons"
+  },
+  {
+    "quantity": "6.8%",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "TB cases in indigenous groups"
+  },
+  {
+    "quantity": "2014",
+    "unit": "",
+    "eventType": "",
+    "eventDescription": ""
+  },
+  {
+    "quantity": "2017",
+    "unit": "",
+    "eventType": "",
+    "eventDescription": ""
+  },
+  {
+    "quantity": "39",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "drug-resistant TB cases (start of period)"
+  },
+  {
+    "quantity": "79",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "drug-resistant TB cases (end of period)"
+  },
+  {
+    "quantity": "4.8%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "TB/HIV co-infection rate"
+  },
+  {
+    "quantity": "5%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "association of TB and Diabetes"
+  },
+  {
+    "quantity": "2.2",
+    "unit": "per 100,000 inhabitants",
+    "eventType": "EventP",
+    "eventDescription": "mortality rate of TB patients"
+  },
+  {
+    "quantity": "more than 30%",
+    "unit": "population",
+    "eventType": "EventP",
+    "eventDescription": "population suffering from Non-Communicable Diseases",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "approximately 280,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children at risk of death due to food shortage",
+    "modifier": "approximately"
+  },
+  {
+    "quantity": "50%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children presenting different stages of malnutrition"
+  },
+  {
+    "quantity": "2%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "children with severe malnutrition (previous status)"
+  },
+  {
+    "quantity": "14%",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "children with severe malnutrition (current status)"
+  }
+]

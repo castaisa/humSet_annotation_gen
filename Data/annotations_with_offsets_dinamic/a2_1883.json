@@ -1,0 +1,187 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "provided emergency services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "67",
+      "start": 36,
+      "end": 38
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": 39,
+      "end": 48
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "provided emergency services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "84 per cent",
+      "start": 50,
+      "end": 61
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": 198,
+      "end": 207
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "only offer emergency services in the non-emergency outpatient service area",
+      "start": 93,
+      "end": 167
+    },
+    "quantity": {
+      "text": "24 per cent",
+      "start": 72,
+      "end": 83
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "overall readiness on emergency services",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "47 per cent",
+      "start": 234,
+      "end": 245
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported lack of training",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "18 per cent",
+      "start": 265,
+      "end": 276
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported lack of guidelines",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21 per cent",
+      "start": 291,
+      "end": 302
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported lack of diagnostics",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40 per cent",
+      "start": 321,
+      "end": 332
+    },
+    "unit": {
+      "text": "hospitals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "ended up with miscarriage or stillbirth",
+      "start": 482,
+      "end": 521
+    },
+    "modifier": {
+      "text": "almost",
+      "start": 408,
+      "end": 414
+    },
+    "quantity": {
+      "text": "almost 20 per cent",
+      "start": 408,
+      "end": 426
+    },
+    "unit": {
+      "text": "pregnancies among women of reproductive age (15-49)",
+      "start": 430,
+      "end": 481
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "are providing specialised services",
+      "start": 583,
+      "end": 617
+    },
+    "quantity": {
+      "text": "6 per cent",
+      "start": 551,
+      "end": 561
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 565,
+      "end": 582
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "are hospitals",
+      "start": 631,
+      "end": 644
+    },
+    "quantity": {
+      "text": "75 per cent",
+      "start": 619,
+      "end": 630
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": null,
+      "end": null
+    }
+  }
+]

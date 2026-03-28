@@ -1,0 +1,76 @@
+[
+  {
+    "quantity": "14,330",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "assisted with non-food items (NFI) kits"
+  },
+  {
+    "quantity": "334,999",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "assisted with NFIs"
+  },
+  {
+    "quantity": "About 28,695",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "assisted with Shelter Kits",
+    "modifier": "about"
+  },
+  {
+    "quantity": "241,115",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "assisted with emergency shelter"
+  },
+  {
+    "quantity": "10",
+    "unit": "distribution exercises",
+    "eventType": "EventO",
+    "eventDescription": "Post Distribution Monitoring (PDMs) conducted"
+  },
+  {
+    "quantity": "127",
+    "unit": "PDM",
+    "eventType": "EventO",
+    "eventDescription": "PDM conducted"
+  },
+  {
+    "quantity": "42 per cent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "PDM conducted"
+  },
+  {
+    "quantity": "306",
+    "unit": "completed projects",
+    "eventType": "EventO",
+    "eventDescription": "projects completed"
+  },
+  {
+    "quantity": "About 14",
+    "unit": "Community Response and feedback mechanisms (CRFM)",
+    "eventType": "EventO",
+    "eventDescription": "CRFM established",
+    "modifier": "about"
+  },
+  {
+    "quantity": "139",
+    "unit": "CRFM",
+    "eventType": "EventO",
+    "eventDescription": "CRFM established"
+  },
+  {
+    "quantity": "45%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "CRFM established"
+  },
+  {
+    "quantity": "306",
+    "unit": "completed projects",
+    "eventType": "EventO",
+    "eventDescription": "projects completed"
+  }
+]

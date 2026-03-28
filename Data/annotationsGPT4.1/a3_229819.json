@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "29 per cent",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "attending school for more than 3 days per week"
+  },
+  {
+    "quantity": "35 per cent",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "attending school for more than 3 days per week"
+  },
+  {
+    "quantity": "3",
+    "unit": "days per week",
+    "eventType": "EventO",
+    "eventDescription": "attending school for more than 3 days per week"
+  },
+  {
+    "quantity": "three",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "prior to data collection"
+  },
+  {
+    "quantity": "35 per cent",
+    "unit": "assessed primary school teachers",
+    "eventType": "EventP",
+    "eventDescription": "are qualified"
+  },
+  {
+    "quantity": "1:74",
+    "unit": "pupil textbook ratio",
+    "eventType": "EventA",
+    "eventDescription": "at primary level in some regions"
+  }
+]

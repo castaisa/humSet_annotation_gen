@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "closed",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 35,
+      "end": 43
+    },
+    "quantity": {
+      "text": "at least seven",
+      "start": 35,
+      "end": 49
+    },
+    "unit": {
+      "text": "health facilities",
+      "start": 50,
+      "end": 67
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "at increased risk of damage",
+      "start": 450,
+      "end": 477
+    },
+    "quantity": {
+      "text": "two",
+      "start": 395,
+      "end": 398
+    },
+    "unit": {
+      "text": "primary public hospitals",
+      "start": 421,
+      "end": 445
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "delivered",
+      "start": 543,
+      "end": 552
+    },
+    "quantity": {
+      "text": "40",
+      "start": 553,
+      "end": 555
+    },
+    "unit": {
+      "text": "inpatient beds",
+      "start": 556,
+      "end": 570
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "delivered",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 572,
+      "end": 576
+    },
+    "unit": {
+      "text": "intensive care unit beds",
+      "start": 577,
+      "end": 601
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "delivered",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "5.6 million liters",
+      "start": 607,
+      "end": 625
+    },
+    "unit": {
+      "text": "water",
+      "start": 629,
+      "end": 634
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "received aid",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 638,
+      "end": 643
+    },
+    "unit": {
+      "text": "public hospitals",
+      "start": 644,
+      "end": 660
+    }
+  }
+]

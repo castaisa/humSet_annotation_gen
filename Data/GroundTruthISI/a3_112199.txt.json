@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "7.5 M",
+      "begin": 92,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "agreed to contribute",
+      "begin": 71,
+      "end": 91
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Canadian dollars",
+      "begin": 98,
+      "end": 114
+    }
+  },
+  {
+    "quantity": {
+      "text": "5.3 million",
+      "begin": 126,
+      "end": 137
+    },
+    "eventDescription": {
+      "text": "agreed to contribute",
+      "begin": 71,
+      "end": 91
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "USD$",
+      "begin": 122,
+      "end": 126
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 218,
+      "end": 220
+    },
+    "eventDescription": {
+      "text": "agreed to contribute",
+      "begin": 71,
+      "end": 91
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "countries",
+      "begin": 221,
+      "end": 230
+    }
+  },
+  {
+    "quantity": {
+      "text": "fifteen",
+      "begin": 290,
+      "end": 297
+    },
+    "eventDescription": {
+      "text": "will benefit",
+      "begin": 266,
+      "end": 278
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "Caribbean countries",
+      "begin": 298,
+      "end": 317
+    }
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 522,
+      "end": 527
+    },
+    "eventDescription": {
+      "text": "will benefit",
+      "begin": 266,
+      "end": 278
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "countries",
+      "begin": 528,
+      "end": 537
+    }
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arbitrary arrests",
+      "start": 230,
+      "end": 247
+    },
+    "modifier": {
+      "text": "over",
+      "start": 221,
+      "end": 225
+    },
+    "quantity": {
+      "text": "over 900",
+      "start": 221,
+      "end": 229
+    },
+    "unit": {
+      "text": "arbitrary arrests",
+      "start": 230,
+      "end": 247
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arbitrary arrests",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "770",
+      "start": 259,
+      "end": 262
+    },
+    "unit": {
+      "text": "arbitrary arrests",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "deaths",
+      "start": 290,
+      "end": 296
+    },
+    "quantity": {
+      "text": "41",
+      "start": 287,
+      "end": 289
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 290,
+      "end": 296
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": 609,
+      "end": 615
+    },
+    "quantity": {
+      "text": "14",
+      "start": 594,
+      "end": 596
+    },
+    "unit": {
+      "text": "people",
+      "start": 597,
+      "end": 603
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "wounded",
+      "start": 621,
+      "end": 628
+    },
+    "quantity": {
+      "text": "287",
+      "start": 617,
+      "end": 620
+    },
+    "unit": {
+      "text": "wounded",
+      "start": 621,
+      "end": 628
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "wounded by gunfire",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "59",
+      "start": 640,
+      "end": 642
+    },
+    "unit": {
+      "text": "wounded by gunfire",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "detained",
+      "start": 667,
+      "end": 675
+    },
+    "modifier": {
+      "text": "over",
+      "start": 659,
+      "end": 663
+    },
+    "quantity": {
+      "text": "over 50",
+      "start": 659,
+      "end": 666
+    },
+    "unit": {
+      "text": "detained",
+      "start": 667,
+      "end": 675
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "quantity": "40 per cent",
+    "unit": "health facilities",
+    "eventType": "EventO",
+    "eventDescription": "damaged or destroyed"
+  },
+  {
+    "quantity": "935",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "closed"
+  },
+  {
+    "quantity": "over 1.4 million",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "out of school",
+    "modifier": "over"
+  },
+  {
+    "quantity": "nearly 1.3 million",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "out of school",
+    "modifier": "nearly"
+  },
+  {
+    "quantity": "$622.5 million",
+    "unit": "funds",
+    "eventType": "EventA",
+    "eventDescription": "mobilized"
+  },
+  {
+    "quantity": "58 per cent",
+    "unit": "HRP requirements",
+    "eventType": "EventA",
+    "eventDescription": "met"
+  }
+]

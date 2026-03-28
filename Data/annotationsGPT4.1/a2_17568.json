@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "three",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "one",
+    "unit": "civilian",
+    "eventType": "EventP",
+    "eventDescription": "killed"
+  },
+  {
+    "quantity": "four",
+    "unit": "injured",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  }
+]

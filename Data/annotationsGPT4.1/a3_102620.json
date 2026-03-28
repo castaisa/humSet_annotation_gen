@@ -1,0 +1,116 @@
+[
+  {
+    "quantity": "Two (2)",
+    "unit": "confirmed cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "forty-nine (49)",
+    "unit": "confirmed COVID-19 case(s)",
+    "eventType": "EventP",
+    "eventDescription": "remains"
+  },
+  {
+    "quantity": "Twenty (20)",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "from Damaturu"
+  },
+  {
+    "quantity": "eleven (11)",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "from Nguru"
+  },
+  {
+    "quantity": "nine (9)",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "from Bade"
+  },
+  {
+    "quantity": "three (3)",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "from Potiskum"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "from Geidam"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "from Tarmuwa"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "from Bursari"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "from Fika"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "from Gulani"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "case",
+    "eventType": "EventP",
+    "eventDescription": "from Gujba"
+  },
+  {
+    "quantity": "thirteen (13)",
+    "unit": "confirmed case(s) of COVID-19 amongst Health Care Workers (HCWs)",
+    "eventType": "EventP",
+    "eventDescription": "in the state"
+  },
+  {
+    "quantity": "Seven (7)",
+    "unit": "nurses",
+    "eventType": "EventP",
+    "eventDescription": "amongst confirmed HCW cases"
+  },
+  {
+    "quantity": "four (4)",
+    "unit": "doctors",
+    "eventType": "EventP",
+    "eventDescription": "amongst confirmed HCW cases"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "physiotherapist",
+    "eventType": "EventP",
+    "eventDescription": "amongst confirmed HCW cases"
+  },
+  {
+    "quantity": "one (1)",
+    "unit": "laboratory scientist",
+    "eventType": "EventP",
+    "eventDescription": "amongst confirmed HCW cases"
+  },
+  {
+    "quantity": "six (6)",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "due to COVID-19 in the state"
+  }
+]

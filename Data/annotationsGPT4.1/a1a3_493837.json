@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "51%",
+    "unit": "household respondents",
+    "eventType": "EventP",
+    "eventDescription": "believe they have less access to adequate healthcare than needed"
+  },
+  {
+    "quantity": "25%",
+    "unit": "household respondents",
+    "eventType": "EventP",
+    "eventDescription": "report no access to adequate healthcare services"
+  },
+  {
+    "quantity": "22",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "reported not spending any money on medication"
+  },
+  {
+    "quantity": "243",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "5.24%",
+      "start": 164,
+      "end": 169
+    },
+    "eventDescription": {
+      "text": "growth rate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2,064",
+      "start": 319,
+      "end": 324
+    },
+    "eventDescription": {
+      "text": "per capita income",
+      "start": 268,
+      "end": 285
+    },
+    "unit": {
+      "text": "dollars",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "4,15,548",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "overall public expenditure",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "crore",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "6.03%",
+      "start": 601,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "increase in public expenditure",
+      "start": null,
+      "end": null
+    }
+  }
+]

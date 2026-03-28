@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "7.5 M",
+    "unit": "Canadian dollars",
+    "eventType": "EventA",
+    "eventDescription": "contributed for COVID-19 response"
+  },
+  {
+    "quantity": "about USD$5.3 million",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "contributed for COVID-19 response",
+    "modifier": "about"
+  },
+  {
+    "quantity": "23",
+    "unit": "countries",
+    "eventType": "EventO",
+    "eventDescription": "COVID-19 response coverage"
+  },
+  {
+    "quantity": "fifteen",
+    "unit": "Caribbean countries",
+    "eventType": "EventO",
+    "eventDescription": "beneficiaries of contribution"
+  },
+  {
+    "quantity": "eight",
+    "unit": "countries in Central and South America",
+    "eventType": "EventO",
+    "eventDescription": "beneficiaries of contribution"
+  }
+]

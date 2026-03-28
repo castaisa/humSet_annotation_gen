@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 441,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "focusing",
+      "begin": 415,
+      "end": 423
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "strategic response areas",
+      "begin": 444,
+      "end": 468
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "586",
+      "start": 352,
+      "end": 355
+    },
+    "eventDescription": {
+      "text": "provided with temporary accommodations and emergency shelter",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 356,
+      "end": 367
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,648",
+      "start": 468,
+      "end": 473
+    },
+    "eventDescription": {
+      "text": "provided with food assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Venezuelans",
+      "start": 474,
+      "end": 485
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "43",
+      "start": 556,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "counselled on Infant and Young Child Feeding (IYCF)",
+      "start": 609,
+      "end": 660
+    },
+    "unit": {
+      "text": "caregivers",
+      "start": 559,
+      "end": 569
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "0-23",
+      "start": 592,
+      "end": 596
+    },
+    "eventDescription": {
+      "text": "age range of children of caregivers counselled",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "months",
+      "start": 597,
+      "end": 603
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "68",
+      "start": 746,
+      "end": 748
+    },
+    "eventDescription": {
+      "text": "engaged in early childhood development sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 749,
+      "end": 757
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27",
+      "start": 759,
+      "end": 761
+    },
+    "eventDescription": {
+      "text": "girls engaged in early childhood development sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 762,
+      "end": 767
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41",
+      "start": 769,
+      "end": 771
+    },
+    "eventDescription": {
+      "text": "boys engaged in early childhood development sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 772,
+      "end": 776
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 782,
+      "end": 784
+    },
+    "eventDescription": {
+      "text": "adults engaged in early childhood development sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "adults",
+      "start": 785,
+      "end": 791
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "eight",
+      "start": 793,
+      "end": 798
+    },
+    "eventDescription": {
+      "text": "female adults engaged in early childhood development sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "female",
+      "start": 799,
+      "end": 805
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "four",
+      "start": 807,
+      "end": 811
+    },
+    "eventDescription": {
+      "text": "male adults engaged in early childhood development sessions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "male",
+      "start": 812,
+      "end": 816
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 828,
+      "end": 829
+    },
+    "eventDescription": {
+      "text": "region where sessions were held",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Region",
+      "start": 821,
+      "end": 827
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "9",
+      "start": 834,
+      "end": 835
+    },
+    "eventDescription": {
+      "text": "region where sessions were held",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Region",
+      "start": 821,
+      "end": 827
+    }
+  }
+]

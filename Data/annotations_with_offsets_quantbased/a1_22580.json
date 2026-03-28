@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "16",
+      "start": 43,
+      "end": 45
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 34,
+      "end": 42
+    },
+    "unit": {
+      "text": "states",
+      "start": 46,
+      "end": 52
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "213",
+      "start": 171,
+      "end": 174
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 175,
+      "end": 184
+    },
+    "unit": {
+      "text": "cases",
+      "start": 185,
+      "end": 190
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "42",
+      "start": 210,
+      "end": 212
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 213,
+      "end": 219
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 213,
+      "end": 219
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "four",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "infected",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "health workers",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12",
+      "start": 450,
+      "end": 452
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 469,
+      "end": 478
+    },
+    "unit": {
+      "text": "cases",
+      "start": 453,
+      "end": 458
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 533,
+      "end": 536
+    },
+    "eventDescription": {
+      "text": "deaths",
+      "start": 537,
+      "end": 543
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 537,
+      "end": 543
+    }
+  }
+]

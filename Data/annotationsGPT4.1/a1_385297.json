@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "at least five",
+    "unit": "female IDPs",
+    "eventType": "EventP",
+    "eventDescription": "dead",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "200,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "hosting"
+  }
+]

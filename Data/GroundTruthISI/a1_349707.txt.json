@@ -1,0 +1,272 @@
+[
+  {
+    "quantity": {
+      "text": "4 556",
+      "begin": 71,
+      "end": 76
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "fatalities",
+      "begin": 77,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 188",
+      "begin": 109,
+      "end": 114
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "fatalities",
+      "begin": 77,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 858",
+      "begin": 134,
+      "end": 139
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "fatalities",
+      "begin": 77,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 707",
+      "begin": 153,
+      "end": 158
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "fatalities",
+      "begin": 77,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 176",
+      "begin": 378,
+      "end": 383
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "fatalities",
+      "begin": 77,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "628",
+      "begin": 412,
+      "end": 415
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 53,
+      "end": 61
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "fatalities",
+      "begin": 77,
+      "end": 87
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 677",
+      "begin": 441,
+      "end": 446
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 432,
+      "end": 440
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "lethal incidents",
+      "begin": 448,
+      "end": 464
+    }
+  },
+  {
+    "quantity": {
+      "text": "12 318",
+      "begin": 487,
+      "end": 493
+    },
+    "unit": {
+      "text": "people",
+      "begin": 494,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 506,
+      "end": 512
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "539",
+      "begin": 567,
+      "end": 570
+    },
+    "unit": {
+      "text": "people",
+      "begin": 494,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 506,
+      "end": 512
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11 277",
+      "begin": 526,
+      "end": 532
+    },
+    "eventDescription": {
+      "text": "recorded",
+      "begin": 533,
+      "end": 541
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "violent deaths",
+      "begin": 543,
+      "end": 557
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 069",
+      "begin": 633,
+      "end": 638
+    },
+    "eventDescription": {
+      "text": "recording the highest number of fatalities",
+      "begin": 589,
+      "end": 631
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 639,
+      "end": 645
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 346",
+      "begin": 668,
+      "end": 673
+    },
+    "eventDescription": {
+      "text": "recording the highest number of fatalities",
+      "begin": 589,
+      "end": 631
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 639,
+      "end": 645
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 099",
+      "begin": 685,
+      "end": 690
+    },
+    "eventDescription": {
+      "text": "recording the highest number of fatalities",
+      "begin": 589,
+      "end": 631
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 639,
+      "end": 645
+    }
+  },
+  {
+    "quantity": {
+      "text": "831",
+      "begin": 702,
+      "end": 705
+    },
+    "eventDescription": {
+      "text": "recording the highest number of fatalities",
+      "begin": 589,
+      "end": 631
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 639,
+      "end": 645
+    }
+  },
+  {
+    "quantity": {
+      "text": "547",
+      "begin": 718,
+      "end": 721
+    },
+    "eventDescription": {
+      "text": "recording the highest number of fatalities",
+      "begin": 589,
+      "end": 631
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "deaths",
+      "begin": 639,
+      "end": 645
+    }
+  }
+]

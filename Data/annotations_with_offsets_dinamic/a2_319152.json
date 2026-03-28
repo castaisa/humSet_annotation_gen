@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "infected with the virus",
+      "start": 515,
+      "end": 538
+    },
+    "modifier": {
+      "text": "can reach",
+      "start": 372,
+      "end": 381
+    },
+    "quantity": {
+      "text": "90 percent",
+      "start": 382,
+      "end": 392
+    },
+    "unit": {
+      "text": "doctors",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "died",
+      "start": 570,
+      "end": 574
+    },
+    "quantity": {
+      "text": "75",
+      "start": 593,
+      "end": 595
+    },
+    "unit": {
+      "text": "dentists",
+      "start": 501,
+      "end": 509
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "died due to Corona",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "about",
+      "start": 607,
+      "end": 612
+    },
+    "quantity": {
+      "text": "about 10",
+      "start": 607,
+      "end": 615
+    },
+    "unit": {
+      "text": "doctors",
+      "start": 616,
+      "end": 623
+    }
+  }
+]

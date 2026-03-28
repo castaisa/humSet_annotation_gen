@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "provided with health insurance",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6,000",
+      "start": 592,
+      "end": 597
+    },
+    "unit": {
+      "text": "asylumseekers",
+      "start": 598,
+      "end": 611
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "met the criteria for insurance coverage",
+      "start": 672,
+      "end": 711
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 643,
+      "end": 652
+    },
+    "quantity": {
+      "text": "4,000",
+      "start": 653,
+      "end": 658
+    },
+    "unit": {
+      "text": "persons",
+      "start": 659,
+      "end": 666
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "were from Venezuelan",
+      "start": 736,
+      "end": 756
+    },
+    "quantity": {
+      "text": "287",
+      "start": 723,
+      "end": 726
+    },
+    "unit": {
+      "text": "these",
+      "start": 730,
+      "end": 735
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "remotely processed per week",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "500",
+      "start": 879,
+      "end": 882
+    },
+    "unit": {
+      "text": "individulas",
+      "start": 883,
+      "end": 894
+    }
+  }
+]

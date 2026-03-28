@@ -1,0 +1,85 @@
+[
+  {
+    "quantity": {
+      "text": "20,000",
+      "begin": 5,
+      "end": 11
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 0,
+      "end": 4
+    },
+    "unit": {
+      "text": "displaced persons",
+      "begin": 12,
+      "end": 29
+    },
+    "eventDescription": {
+      "text": "sleeping out in the open",
+      "begin": 34,
+      "end": 58
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "99",
+      "begin": 309,
+      "end": 311
+    },
+    "unit": {
+      "text": "people",
+      "begin": 312,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "using one latrine",
+      "begin": 319,
+      "end": 336
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 325,
+      "end": 328
+    },
+    "unit": {
+      "text": "latrine",
+      "begin": 329,
+      "end": 336
+    }
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 422,
+      "end": 424
+    },
+    "unit": {
+      "text": "people per latrine",
+      "begin": 425,
+      "end": 443
+    }
+  },
+  {
+    "quantity": {
+      "text": "6,300",
+      "begin": 700,
+      "end": 705
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 706,
+      "end": 711
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 717,
+      "end": 725
+    },
+    "eventType": "EventP"
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 300,
+      "end": 302
+    },
+    "modifier": {
+      "text": "Around",
+      "begin": 293,
+      "end": 299
+    },
+    "unit": {
+      "text": "houses",
+      "begin": 303,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "begin": 334,
+      "end": 343
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 314,
+      "end": 316
+    },
+    "unit": {
+      "text": "small boats",
+      "begin": 317,
+      "end": 328
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "begin": 334,
+      "end": 343
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "56",
+      "begin": 351,
+      "end": 353
+    },
+    "unit": {
+      "text": "camels",
+      "begin": 354,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 406,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1,260",
+      "begin": 369,
+      "end": 374
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 362,
+      "end": 368
+    },
+    "unit": {
+      "text": "goats and sheep",
+      "begin": 375,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 406,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "19",
+      "begin": 395,
+      "end": 397
+    },
+    "unit": {
+      "text": "donkeys",
+      "begin": 398,
+      "end": 405
+    },
+    "eventDescription": {
+      "text": "died",
+      "begin": 406,
+      "end": 410
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "220",
+      "begin": 672,
+      "end": 675
+    },
+    "modifier": {
+      "text": "estimated",
+      "begin": 662,
+      "end": 671
+    },
+    "unit": {
+      "text": "improvised shelters",
+      "begin": 676,
+      "end": 695
+    },
+    "eventDescription": {
+      "text": "were washed away",
+      "begin": 749,
+      "end": 765
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 772,
+      "end": 774
+    },
+    "modifier": {
+      "text": "Some",
+      "begin": 767,
+      "end": 771
+    },
+    "unit": {
+      "text": "boats",
+      "begin": 775,
+      "end": 780
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "begin": 791,
+      "end": 800
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 824,
+      "end": 826
+    },
+    "unit": {
+      "text": "small boats",
+      "begin": 827,
+      "end": 838
+    },
+    "eventDescription": {
+      "text": "destroyed",
+      "begin": 844,
+      "end": 853
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "Two",
+      "begin": 878,
+      "end": 881
+    },
+    "unit": {
+      "text": "deaths",
+      "begin": 882,
+      "end": 888
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 909,
+      "end": 917
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 893,
+      "end": 896
+    },
+    "unit": {
+      "text": "injury",
+      "begin": 897,
+      "end": 903
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 909,
+      "end": 917
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 966,
+      "end": 968
+    },
+    "eventDescription": {
+      "text": "bridge situated",
+      "begin": 936,
+      "end": 951
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "km",
+      "begin": 968,
+      "end": 970
+    }
+  }
+]

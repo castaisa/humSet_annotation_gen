@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": {
+      "text": "28%",
+      "begin": 39,
+      "end": 42
+    },
+    "unit": {
+      "text": "households of Non- IDP settlements",
+      "begin": 50,
+      "end": 84
+    },
+    "eventDescription": {
+      "text": "reported that it takes less than 15 minutes to reach to the nearest education facility",
+      "begin": 85,
+      "end": 171
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "37%",
+      "begin": 178,
+      "end": 181
+    },
+    "unit": {
+      "text": "households of IDP settlements",
+      "begin": 196,
+      "end": 225
+    },
+    "eventDescription": {
+      "text": "reported it takes 15-30 minutes and 30-60minutes to reach to the nearest education facility respectively",
+      "begin": 226,
+      "end": 330
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 186,
+      "end": 188
+    },
+    "unit": {
+      "text": "households of IDP settlements",
+      "begin": 196,
+      "end": 225
+    },
+    "eventDescription": {
+      "text": "reported it takes 15-30 minutes and 30-60minutes to reach to the nearest education facility respectively",
+      "begin": 226,
+      "end": 330
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 332,
+      "end": 334
+    },
+    "unit": {
+      "text": "households of IDP settlements",
+      "begin": 342,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "reported that it takes 1-3 hours to reach to the nearest education facility",
+      "begin": 372,
+      "end": 447
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1%",
+      "begin": 454,
+      "end": 456
+    },
+    "unit": {
+      "text": "households of Non-IDP settlements",
+      "begin": 464,
+      "end": 497
+    },
+    "eventDescription": {
+      "text": "reported that it takes more than 3 hours to reach to the nearest education facility.",
+      "begin": 498,
+      "end": 582
+    },
+    "eventType": "EventO"
+  }
+]

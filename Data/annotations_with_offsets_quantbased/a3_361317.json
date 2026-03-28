@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "66.6 million",
+      "start": 56,
+      "end": 68
+    },
+    "eventDescription": {
+      "text": "drop in the labour force",
+      "start": 69,
+      "end": 93
+    },
+    "unit": {
+      "text": "drop in the labour force",
+      "start": 69,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "22.3 million",
+      "start": 95,
+      "end": 107
+    },
+    "eventDescription": {
+      "text": "drop in agriculture sector",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "drop in agriculture sector",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12.2 million",
+      "start": 109,
+      "end": 121
+    },
+    "eventDescription": {
+      "text": "drop in services sector",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "drop in services sector",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "26.1 million",
+      "start": 127,
+      "end": 139
+    },
+    "eventDescription": {
+      "text": "drop in industrial sector",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "drop in industrial sector",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "60%",
+      "start": 268,
+      "end": 271
+    },
+    "eventDescription": {
+      "text": "drop in service sector",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "drop in service sector",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "around",
+      "start": 259,
+      "end": 265
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17.6%",
+      "start": 433,
+      "end": 438
+    },
+    "eventDescription": {
+      "text": "decrease in income",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "decrease in income",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "66-day",
+      "start": 470,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "general holiday",
+      "start": 477,
+      "end": 492
+    },
+    "unit": {
+      "text": "general holiday",
+      "start": 477,
+      "end": 492
+    }
+  }
+]

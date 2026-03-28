@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting insecurity and conflict as main reasons for leaving",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14%",
+      "start": 151,
+      "end": 154
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 27,
+      "end": 47
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting insecurity and conflict as main reasons for leaving",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26%",
+      "start": 166,
+      "end": 169
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": 513,
+      "end": 533
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting insecurity and killing as main reason for leaving",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "39%",
+      "start": 576,
+      "end": 579
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting insecurity and killing as main reason for leaving",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43%",
+      "start": 596,
+      "end": 599
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reporting insecurity and killing as main reason for leaving",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50%",
+      "start": 616,
+      "end": 619
+    },
+    "unit": {
+      "text": "assessed settlements",
+      "start": null,
+      "end": null
+    }
+  }
+]

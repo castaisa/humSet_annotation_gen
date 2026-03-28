@@ -1,0 +1,188 @@
+[
+  {
+    "quantity": {
+      "text": "0.4%",
+      "begin": 56,
+      "end": 60
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 29,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "begin": 43,
+      "end": 52
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "11%",
+      "begin": 115,
+      "end": 118
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 29,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "higher",
+      "begin": 119,
+      "end": 125
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 207,
+      "end": 209
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 29,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 145,
+      "end": 153
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "2%",
+      "begin": 235,
+      "end": 237
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 29,
+      "end": 42
+    },
+    "eventDescription": {
+      "text": "decrease",
+      "begin": 145,
+      "end": 153
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "3%",
+      "begin": 317,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "prices increased",
+      "begin": 275,
+      "end": 291
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "prices increased",
+      "begin": 275,
+      "end": 291
+    }
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 504,
+      "end": 506
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 507,
+      "end": 517
+    }
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 497,
+      "end": 499
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 507,
+      "end": 517
+    }
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 493,
+      "end": 495
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 507,
+      "end": 517
+    }
+  },
+  {
+    "quantity": {
+      "text": "36",
+      "begin": 489,
+      "end": 491
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 507,
+      "end": 517
+    }
+  },
+  {
+    "quantity": {
+      "text": "30",
+      "begin": 620,
+      "end": 622
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 623,
+      "end": 633
+    }
+  },
+  {
+    "quantity": {
+      "text": "29",
+      "begin": 613,
+      "end": 615
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 623,
+      "end": 633
+    }
+  },
+  {
+    "quantity": {
+      "text": "29",
+      "begin": 609,
+      "end": 611
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 623,
+      "end": 633
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 605,
+      "end": 607
+    },
+    "unit": {
+      "text": "AFN per kg",
+      "begin": 623,
+      "end": 633
+    }
+  }
+]

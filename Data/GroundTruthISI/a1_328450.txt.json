@@ -1,0 +1,158 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 278,
+      "end": 282
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "reported that they were “unable to wash their hands in the prior four weeks after dirty activities”",
+      "begin": 315,
+      "end": 414
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one in four",
+      "begin": 271,
+      "end": 282
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "reported that they were “unable to wash their hands in the prior four weeks after dirty activities”",
+      "begin": 315,
+      "end": 414
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 271,
+      "end": 274
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "reported that they were “unable to wash their hands in the prior four weeks after dirty activities”",
+      "begin": 315,
+      "end": 414
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "23.0%",
+      "begin": 295,
+      "end": 300
+    },
+    "unit": {
+      "text": "households",
+      "begin": 283,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "reported that they were “unable to wash their hands in the prior four weeks after dirty activities”",
+      "begin": 315,
+      "end": 414
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "23.6%",
+      "begin": 518,
+      "end": 523
+    },
+    "unit": {
+      "text": "households with children",
+      "begin": 492,
+      "end": 516
+    },
+    "eventDescription": {
+      "text": "reported being unable to wash their young children’s hands and faces",
+      "begin": 524,
+      "end": 592
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "a third",
+      "begin": 630,
+      "end": 637
+    },
+    "modifier": {
+      "text": "Over",
+      "begin": 625,
+      "end": 629
+    },
+    "eventDescription": {
+      "text": "reported being unable to wash their bodies",
+      "begin": 660,
+      "end": 702
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "33.7%",
+      "begin": 639,
+      "end": 644
+    },
+    "unit": {
+      "text": "households",
+      "begin": 649,
+      "end": 659
+    }
+  },
+  {
+    "quantity": {
+      "text": "4.1%",
+      "begin": 724,
+      "end": 728
+    },
+    "eventDescription": {
+      "text": "reported being unable to wash their bodies",
+      "begin": 660,
+      "end": 702
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "sampled households",
+      "begin": 732,
+      "end": 750
+    }
+  },
+  {
+    "quantity": {
+      "text": "94.8%",
+      "begin": 774,
+      "end": 779
+    },
+    "eventDescription": {
+      "text": "reported being unable to wash their bodies",
+      "begin": 660,
+      "end": 702
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 783,
+      "end": 793
+    }
+  }
+]

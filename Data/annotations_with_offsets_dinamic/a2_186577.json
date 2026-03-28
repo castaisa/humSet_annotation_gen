@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "constitute",
+      "start": 119,
+      "end": 129
+    },
+    "quantity": {
+      "text": "60 percent",
+      "start": 130,
+      "end": 140
+    },
+    "unit": {
+      "text": "general health personnel",
+      "start": 144,
+      "end": 168
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "are women",
+      "start": 194,
+      "end": 203
+    },
+    "quantity": {
+      "text": "81 percent",
+      "start": 173,
+      "end": 183
+    },
+    "unit": {
+      "text": "nurses",
+      "start": 187,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "dropped",
+      "start": 364,
+      "end": 371
+    },
+    "quantity": {
+      "text": "45-60 percent",
+      "start": 372,
+      "end": 385
+    },
+    "unit": {
+      "text": "essential sexual and reproductive health care services",
+      "start": 309,
+      "end": 363
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could increase",
+      "start": 542,
+      "end": 556
+    },
+    "quantity": {
+      "text": "50 percent",
+      "start": 560,
+      "end": 570
+    },
+    "unit": {
+      "text": "maternal mortality",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could die",
+      "start": 612,
+      "end": 621
+    },
+    "quantity": {
+      "text": "2,282",
+      "start": 589,
+      "end": 594
+    },
+    "unit": {
+      "text": "children under 5",
+      "start": 595,
+      "end": 611
+    }
+  }
+]

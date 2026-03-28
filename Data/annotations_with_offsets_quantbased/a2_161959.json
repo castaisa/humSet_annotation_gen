@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "80",
+      "start": 72,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "died",
+      "start": 111,
+      "end": 115
+    },
+    "unit": {
+      "text": "year-old woman",
+      "start": 75,
+      "end": 89
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54",
+      "start": 270,
+      "end": 272
+    },
+    "eventDescription": {
+      "text": "confirmed",
+      "start": 244,
+      "end": 253
+    },
+    "unit": {
+      "text": "confirmed cases",
+      "start": 244,
+      "end": 259
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "656",
+      "start": 383,
+      "end": 386
+    },
+    "eventDescription": {
+      "text": "contacts of known cases",
+      "start": 387,
+      "end": 410
+    },
+    "unit": {
+      "text": "contacts",
+      "start": 387,
+      "end": 395
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "371",
+      "start": 417,
+      "end": 420
+    },
+    "eventDescription": {
+      "text": "tested",
+      "start": 431,
+      "end": 437
+    },
+    "unit": {
+      "text": "contacts",
+      "start": 387,
+      "end": 395
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "4,605",
+      "start": 457,
+      "end": 462
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "start": 469,
+      "end": 478
+    },
+    "unit": {
+      "text": "tests",
+      "start": 463,
+      "end": 468
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Two",
+      "start": 504,
+      "end": 507
+    },
+    "eventDescription": {
+      "text": "recovered",
+      "start": 548,
+      "end": 557
+    },
+    "unit": {
+      "text": "cases",
+      "start": 508,
+      "end": 513
+    }
+  }
+]

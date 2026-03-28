@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.3 million",
+      "start": 116,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "facing Crisis or worse (IPC Phase 3 or higher) outcomes",
+      "start": 139,
+      "end": 194
+    },
+    "unit": {
+      "text": "people",
+      "start": 128,
+      "end": 134
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2.1 million",
+      "start": 307,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "expected to face Crisis or worse (IPC Phase 3 or higher) outcomes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 319,
+      "end": 325
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2.5 million",
+      "start": 406,
+      "end": 417
+    },
+    "eventDescription": {
+      "text": "are Stressed (IPC Phase 2)",
+      "start": 425,
+      "end": 451
+    },
+    "unit": {
+      "text": "people",
+      "start": 418,
+      "end": 424
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3.8 million",
+      "start": 527,
+      "end": 538
+    },
+    "eventDescription": {
+      "text": "experiencing acute food insecurity",
+      "start": 489,
+      "end": 523
+    },
+    "unit": {
+      "text": "people",
+      "start": 482,
+      "end": 488
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "849,900",
+      "start": 553,
+      "end": 560
+    },
+    "eventDescription": {
+      "text": "face acute malnutrition",
+      "start": 598,
+      "end": 621
+    },
+    "unit": {
+      "text": "children under the age of five years",
+      "start": 561,
+      "end": 597
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "143,400",
+      "start": 689,
+      "end": 696
+    },
+    "eventDescription": {
+      "text": "likely to be severely malnourished",
+      "start": 697,
+      "end": 731
+    },
+    "unit": {
+      "text": "children",
+      "start": 561,
+      "end": 569
+    }
+  }
+]

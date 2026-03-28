@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "three",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "custody for serious crimes"
+  },
+  {
+    "quantity": "three",
+    "unit": "days",
+    "eventType": "EventP",
+    "eventDescription": "timeframe to challenge administrative decision"
+  },
+  {
+    "quantity": "three",
+    "unit": "days",
+    "eventType": "EventP",
+    "eventDescription": "timeframe to dispute rejection in court"
+  },
+  {
+    "quantity": "fifteen",
+    "unit": "days",
+    "eventType": "EventP",
+    "eventDescription": "original timeframe to appeal"
+  },
+  {
+    "quantity": "three-day",
+    "unit": "timeframe",
+    "eventType": "EventP",
+    "eventDescription": "timeframe to prove lack of economic means"
+  }
+]

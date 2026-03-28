@@ -1,0 +1,49 @@
+[
+  {
+    "quantity": {
+      "text": "550",
+      "begin": 347,
+      "end": 350
+    },
+    "unit": {
+      "text": "micro-enterprises",
+      "begin": 380,
+      "end": 397
+    }
+  },
+  {
+    "quantity": {
+      "text": "five",
+      "begin": 406,
+      "end": 410
+    },
+    "modifier": {
+      "text": "across",
+      "begin": 399,
+      "end": 405
+    },
+    "unit": {
+      "text": "cities",
+      "begin": 411,
+      "end": 417
+    }
+  },
+  {
+    "quantity": {
+      "text": "30%",
+      "begin": 647,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "contracting sales and employment",
+      "begin": 605,
+      "end": 637
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 641,
+      "end": 646
+    }
+  }
+]

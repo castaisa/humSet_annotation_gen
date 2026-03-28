@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": {
+      "text": "66 percent",
+      "begin": 132,
+      "end": 142
+    },
+    "unit": {
+      "text": "non-government teachers",
+      "begin": 156,
+      "end": 179
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 372,
+      "end": 377
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 347,
+      "end": 355
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "months’",
+      "begin": 378,
+      "end": 385
+    }
+  },
+  {
+    "quantity": {
+      "text": "9",
+      "begin": 467,
+      "end": 468
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 347,
+      "end": 355
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "months",
+      "begin": 469,
+      "end": 475
+    }
+  },
+  {
+    "quantity": {
+      "text": "42 percent",
+      "begin": 560,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "had no access to the full set of textbooks they required for teaching",
+      "begin": 587,
+      "end": 656
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "teachers",
+      "begin": 578,
+      "end": 586
+    }
+  }
+]

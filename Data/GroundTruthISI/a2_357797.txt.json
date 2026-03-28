@@ -1,0 +1,128 @@
+[
+  {
+    "quantity": {
+      "text": "115, 051",
+      "begin": 380,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "Child protection actors provided",
+      "begin": 347,
+      "end": 379
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "children",
+      "begin": 389,
+      "end": 397
+    }
+  },
+  {
+    "quantity": {
+      "text": "59,510",
+      "begin": 406,
+      "end": 412
+    },
+    "eventDescription": {
+      "text": "Child protection actors provided",
+      "begin": 347,
+      "end": 379
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 399,
+      "end": 404
+    }
+  },
+  {
+    "quantity": {
+      "text": "55,541",
+      "begin": 420,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "Child protection actors provided",
+      "begin": 347,
+      "end": 379
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 414,
+      "end": 418
+    }
+  },
+  {
+    "quantity": {
+      "text": "112, 544",
+      "begin": 503,
+      "end": 511
+    },
+    "unit": {
+      "text": "children",
+      "begin": 512,
+      "end": 520
+    },
+    "eventDescription": {
+      "text": "received psychosocial and mental health support services",
+      "begin": 525,
+      "end": 581
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1004",
+      "begin": 582,
+      "end": 586
+    },
+    "unit": {
+      "text": "unaccompanied, separated and children",
+      "begin": 587,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "received integrated case management services",
+      "begin": 659,
+      "end": 703
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1, 885",
+      "begin": 705,
+      "end": 711
+    },
+    "unit": {
+      "text": "child beneficiaries",
+      "begin": 712,
+      "end": 731
+    },
+    "eventDescription": {
+      "text": "of community reintegration services",
+      "begin": 732,
+      "end": 767
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "23, 155",
+      "begin": 772,
+      "end": 779
+    },
+    "unit": {
+      "text": "children/adolescents",
+      "begin": 780,
+      "end": 800
+    },
+    "eventDescription": {
+      "text": "sensitized on child protection issues",
+      "begin": 810,
+      "end": 847
+    },
+    "eventType": "EventA"
+  }
+]

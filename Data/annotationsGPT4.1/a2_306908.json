@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "2",
+    "unit": "SWATs",
+    "eventType": "EventO",
+    "eventDescription": "visited"
+  },
+  {
+    "quantity": "3",
+    "unit": "SWATs",
+    "eventType": "EventO",
+    "eventDescription": "visited"
+  },
+  {
+    "quantity": "3rd",
+    "unit": "one",
+    "eventType": "EventO",
+    "eventDescription": "visited"
+  },
+  {
+    "quantity": "2",
+    "unit": "SWATs",
+    "eventType": "EventO",
+    "eventDescription": "running out of aluminium sulfate"
+  },
+  {
+    "quantity": "3",
+    "unit": "SWATs",
+    "eventType": "EventO",
+    "eventDescription": "running out of aluminium sulfate"
+  }
+]

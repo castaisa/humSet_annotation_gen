@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "313",
+    "unit": "Palestine refugees",
+    "eventType": "EventP",
+    "eventDescription": "confirmed as positive with the COVID-19"
+  },
+  {
+    "quantity": "3,186",
+    "unit": "Palestine refugees",
+    "eventType": "EventP",
+    "eventDescription": "confirmed as positive with the COVID-19"
+  },
+  {
+    "quantity": "1,687",
+    "unit": "Palestine refugees",
+    "eventType": "EventP",
+    "eventDescription": "living in camps"
+  },
+  {
+    "quantity": "53 per cent",
+    "unit": "Palestine refugees",
+    "eventType": "EventP",
+    "eventDescription": "living in camps"
+  },
+  {
+    "quantity": "122",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths among Palestine refugees"
+  },
+  {
+    "quantity": "304",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in home-isolation"
+  },
+  {
+    "quantity": "42",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in hospitals"
+  },
+  {
+    "quantity": "six",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in Sibline isolation centre"
+  },
+  {
+    "quantity": "2,030",
+    "unit": "Syrian refugees",
+    "eventType": "EventP",
+    "eventDescription": "tested positive for the COVID-19"
+  },
+  {
+    "quantity": "16",
+    "unit": "refugees of other nationalities",
+    "eventType": "EventP",
+    "eventDescription": "tested positive for the COVID-19"
+  },
+  {
+    "quantity": "1,529",
+    "unit": "recoveries",
+    "eventType": "EventP",
+    "eventDescription": "recoveries among refugees"
+  },
+  {
+    "quantity": "68",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "deaths among refugees"
+  },
+  {
+    "quantity": "175",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "increase in cases during the reporting period"
+  },
+  {
+    "quantity": "140",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "detected in informal settlements"
+  },
+  {
+    "quantity": "53",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "recovered in informal settlements"
+  }
+]

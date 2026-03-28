@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "6.6",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "household size"
+  },
+  {
+    "quantity": "5.5",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "household size"
+  }
+]

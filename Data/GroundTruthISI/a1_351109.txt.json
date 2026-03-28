@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "200",
+      "begin": 132,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "Agriculture Bank used to provide each farmer with granular nitrate fertilizer at a supported price",
+      "begin": 30,
+      "end": 128
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 136,
+      "end": 146
+    }
+  },
+  {
+    "quantity": {
+      "text": "a third",
+      "begin": 499,
+      "end": 506
+    },
+    "eventDescription": {
+      "text": "needs",
+      "begin": 523,
+      "end": 528
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "almost",
+      "begin": 492,
+      "end": 498
+    },
+    "unit": {
+      "text": "farmers",
+      "begin": 514,
+      "end": 521
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 657",
+      "begin": 631,
+      "end": 636
+    },
+    "eventDescription": {
+      "text": "forcing them to purchase the rest of their requirements from the local market",
+      "begin": 530,
+      "end": 607
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 637,
+      "end": 647
+    }
+  },
+  {
+    "quantity": {
+      "text": "8 percent",
+      "begin": 649,
+      "end": 658
+    },
+    "unit": {
+      "text": "average price",
+      "begin": 614,
+      "end": 627
+    },
+    "eventDescription": {
+      "text": "m-o-m decrease",
+      "begin": 659,
+      "end": 673
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "8.0 million",
+      "start": 559,
+      "end": 570
+    },
+    "eventDescription": {
+      "text": "COVID-19 fund allocated",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "USD",
+      "start": 555,
+      "end": 558
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "5.0 million",
+      "start": 586,
+      "end": 597
+    },
+    "eventDescription": {
+      "text": "allocated to the Ministry of Health",
+      "start": 602,
+      "end": 637
+    },
+    "unit": {
+      "text": "USD",
+      "start": 582,
+      "end": 585
+    }
+  }
+]

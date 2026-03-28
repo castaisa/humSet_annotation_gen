@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "six",
+    "unit": "nor\u2019wester",
+    "eventType": "EventO",
+    "eventDescription": "occurred"
+  },
+  {
+    "quantity": "1",
+    "unit": "person",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "4",
+    "unit": "upazilas",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "10",
+    "unit": "person",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "13",
+    "unit": "upazilas",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "25,325",
+    "unit": "Hactor Boro rice field",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "2",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "10",
+    "unit": "villages",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "6",
+    "unit": "upazilas",
+    "eventType": "EventO",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "117",
+    "unit": "Hactor Rice field",
+    "eventType": "EventO",
+    "eventDescription": "damaged"
+  },
+  {
+    "quantity": "1",
+    "unit": "person",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  }
+]

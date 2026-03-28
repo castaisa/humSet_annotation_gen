@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "C30,000",
+    "unit": "cash transfers",
+    "eventType": "EventA",
+    "eventDescription": "monthly cash transfer amount for Avancemos"
+  },
+  {
+    "quantity": "C40,000",
+    "unit": "cash transfers",
+    "eventType": "EventA",
+    "eventDescription": "monthly cash transfer amount for Avancemos"
+  },
+  {
+    "quantity": "C 18.000",
+    "unit": "cash transfers",
+    "eventType": "EventA",
+    "eventDescription": "monthly cash transfer amount for Crecemos"
+  },
+  {
+    "quantity": "over 400 000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children reached by cash transfer programs",
+    "modifier": "over"
+  },
+  {
+    "quantity": "29%",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "percentage of all children reached by cash transfer programs"
+  }
+]

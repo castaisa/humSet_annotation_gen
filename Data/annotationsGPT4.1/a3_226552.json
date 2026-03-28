@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "74%",
+    "unit": "households",
+    "eventType": "EventP",
+    "eventDescription": "households with at least extreme multi-sectoral needs",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "2.54",
+    "unit": "LSGs per household",
+    "eventType": "EventO",
+    "eventDescription": "average number of LSGs per household"
+  },
+  {
+    "quantity": "51%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "returnee households in Borno had LSGs in three or more sectors"
+  },
+  {
+    "quantity": "6%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "returnee households had LSGs in five or more sectors"
+  },
+  {
+    "quantity": "35%",
+    "unit": "returnee households",
+    "eventType": "EventP",
+    "eventDescription": "returnee households with multi-sectoral needs in Borno were the most likely to have a protection LSG"
+  },
+  {
+    "quantity": "34%",
+    "unit": "IDP households",
+    "eventType": "EventP",
+    "eventDescription": "IDP households in Borno were likely to have a protection LSG"
+  }
+]

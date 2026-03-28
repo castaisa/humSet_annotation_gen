@@ -1,0 +1,97 @@
+[
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 110,
+      "end": 111
+    },
+    "unit": {
+      "text": "new wells",
+      "begin": 112,
+      "end": 121
+    },
+    "eventDescription": {
+      "text": "had been placed in the Alouk area",
+      "begin": 122,
+      "end": 155
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "18",
+      "begin": 288,
+      "end": 290
+    },
+    "eventDescription": {
+      "text": "number of wells operating",
+      "begin": 259,
+      "end": 284
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "wells",
+      "begin": 291,
+      "end": 296
+    }
+  },
+  {
+    "quantity": {
+      "text": "200 thousand",
+      "begin": 307,
+      "end": 319
+    },
+    "eventDescription": {
+      "text": "producing",
+      "begin": 297,
+      "end": 306
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "barrels per day",
+      "begin": 320,
+      "end": 335
+    }
+  },
+  {
+    "quantity": {
+      "text": "300 thousand",
+      "begin": 375,
+      "end": 387
+    },
+    "eventDescription": {
+      "text": "new wells produce",
+      "begin": 357,
+      "end": 374
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "barrels",
+      "begin": 388,
+      "end": 395
+    }
+  },
+  {
+    "quantity": {
+      "text": "80 thousand",
+      "begin": 435,
+      "end": 446
+    },
+    "eventDescription": {
+      "text": "its combined abundance",
+      "begin": 403,
+      "end": 425
+    },
+    "eventType": "EventO",
+    "modifier": {
+      "text": "about",
+      "begin": 429,
+      "end": 434
+    },
+    "unit": {
+      "text": "cubic meters per day",
+      "begin": 447,
+      "end": 467
+    }
+  }
+]

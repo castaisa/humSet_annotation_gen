@@ -1,0 +1,68 @@
+[
+  {
+    "quantity": "25,000",
+    "unit": "L",
+    "eventType": "EventO",
+    "eventDescription": "butane gas cylinder size"
+  },
+  {
+    "quantity": "16 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase"
+  },
+  {
+    "quantity": "4,079",
+    "unit": "SYP / refill",
+    "eventType": "EventO",
+    "eventDescription": "formal market price of one butane gas cylinder"
+  },
+  {
+    "quantity": "25,000",
+    "unit": "L",
+    "eventType": "EventO",
+    "eventDescription": "butane gas cylinder size"
+  },
+  {
+    "quantity": "eight percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "informal market price increase"
+  },
+  {
+    "quantity": "123 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "informal market price increase since April 2020"
+  },
+  {
+    "quantity": "28,643",
+    "unit": "SYP / refill",
+    "eventType": "EventO",
+    "eventDescription": "informal national average price of one butane gas cylinder"
+  },
+  {
+    "quantity": "35,828",
+    "unit": "SYP / refill",
+    "eventType": "EventO",
+    "eventDescription": "highest price recorded in Hama"
+  },
+  {
+    "quantity": "seven percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Hama"
+  },
+  {
+    "quantity": "11,417",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "lowest price recorded in Al-Hasakeh"
+  },
+  {
+    "quantity": "ten percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "price increase in Al-Hasakeh"
+  }
+]

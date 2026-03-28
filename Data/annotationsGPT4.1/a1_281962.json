@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "4,638",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "surveyed"
+  },
+  {
+    "quantity": "46%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "reducing the number or amount of meals"
+  },
+  {
+    "quantity": "20%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "restricting adults\u2019 food so that children can eat"
+  },
+  {
+    "quantity": "76%",
+    "unit": "respondents",
+    "eventType": "EventP",
+    "eventDescription": "borrowing or receiving food and/or borrowing or receiving cash"
+  }
+]

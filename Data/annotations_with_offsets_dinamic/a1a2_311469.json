@@ -1,0 +1,82 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "targeted",
+      "start": 66,
+      "end": 74
+    },
+    "quantity": {
+      "text": "93,000",
+      "start": 82,
+      "end": 88
+    },
+    "unit": {
+      "text": "families",
+      "start": 89,
+      "end": 97
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "in need",
+      "start": 114,
+      "end": 121
+    },
+    "quantity": {
+      "text": "203, 198",
+      "start": 105,
+      "end": 113
+    },
+    "unit": {
+      "text": "families",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reached by shelter interventions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4%",
+      "start": 418,
+      "end": 420
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "reached by CRI interventions",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 425,
+      "end": 427
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "built",
+      "start": 563,
+      "end": 568
+    },
+    "quantity": {
+      "text": "3,031",
+      "start": 533,
+      "end": 538
+    },
+    "unit": {
+      "text": "emergency shelters",
+      "start": 539,
+      "end": 557
+    }
+  }
+]

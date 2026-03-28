@@ -1,0 +1,182 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported multiple floods",
+      "start": 281,
+      "end": 305
+    },
+    "quantity": {
+      "text": "two-thirds",
+      "start": 263,
+      "end": 273
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 277,
+      "end": 280
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported multiple floods",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "66%",
+      "start": 307,
+      "end": 310
+    },
+    "unit": {
+      "text": "KIs",
+      "start": 494,
+      "end": 497
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported one flood resulting in loss of shelter or forced displacement",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "13%",
+      "start": 319,
+      "end": 322
+    },
+    "unit": {
+      "text": "KIs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported greater than two-thirds of households being abandoned due to flooding",
+      "start": 498,
+      "end": 576
+    },
+    "quantity": {
+      "text": "83%",
+      "start": 487,
+      "end": 490
+    },
+    "unit": {
+      "text": "KIs",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households being abandoned due to flooding",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two-thirds",
+      "start": 520,
+      "end": 530
+    },
+    "unit": {
+      "text": "households",
+      "start": 534,
+      "end": 544
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported a partially damaged or completely destroyed shelter",
+      "start": 608,
+      "end": 668
+    },
+    "quantity": {
+      "text": "one-fifth",
+      "start": 584,
+      "end": 593
+    },
+    "unit": {
+      "text": "households",
+      "start": 597,
+      "end": 607
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "reported a partially damaged or completely destroyed shelter",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "21%",
+      "start": 670,
+      "end": 673
+    },
+    "unit": {
+      "text": "households",
+      "start": 759,
+      "end": 769
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households as abandoned",
+      "start": 759,
+      "end": 782
+    },
+    "quantity": {
+      "text": "one-third",
+      "start": 731,
+      "end": 740
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "households as abandoned",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "two-thirds",
+      "start": 745,
+      "end": 755
+    },
+    "unit": {
+      "text": "households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reported between one-third and two-thirds of households as abandoned",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45%",
+      "start": 784,
+      "end": 787
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 9,
+      "end": 13
+    },
+    "modifier": {
+      "text": "Over the",
+      "begin": 0,
+      "end": 8
+    },
+    "unit": {
+      "text": "years",
+      "begin": 14,
+      "end": 19
+    }
+  },
+  {
+    "quantity": {
+      "text": "274",
+      "begin": 69,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "UN also verified the recruitment and use",
+      "begin": 25,
+      "end": 65
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "children",
+      "begin": 73,
+      "end": 81
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 138,
+      "end": 140
+    },
+    "eventDescription": {
+      "text": "UN also verified the recruitment and use",
+      "begin": 25,
+      "end": 65
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "boys",
+      "begin": 141,
+      "end": 145
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 150,
+      "end": 151
+    },
+    "eventDescription": {
+      "text": "UN also verified the recruitment and use",
+      "begin": 25,
+      "end": 65
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "girls",
+      "begin": 152,
+      "end": 157
+    }
+  },
+  {
+    "quantity": {
+      "text": "467",
+      "begin": 163,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "attacks on schools and education personnel",
+      "begin": 167,
+      "end": 209
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "attacks",
+      "begin": 167,
+      "end": 174
+    }
+  }
+]

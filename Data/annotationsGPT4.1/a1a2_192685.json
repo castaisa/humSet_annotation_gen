@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "4.1 per cent",
+    "unit": "GAM",
+    "eventType": "EventO",
+    "eventDescription": "increase in GAM"
+  },
+  {
+    "quantity": "23",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces with increase in GAM"
+  },
+  {
+    "quantity": "3",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "provinces with no change in GAM"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "21",
+      "start": 27,
+      "end": 29
+    },
+    "eventDescription": {
+      "text": "locations where ICRC distributed spare parts",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "villages",
+      "start": 30,
+      "end": 38
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "97,191",
+      "start": 165,
+      "end": 171
+    },
+    "eventDescription": {
+      "text": "people with increased access to safe water",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 172,
+      "end": 183
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "120",
+      "start": 318,
+      "end": 321
+    },
+    "eventDescription": {
+      "text": "hospital beds available",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 322,
+      "end": 326
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "two",
+      "start": 682,
+      "end": 685
+    },
+    "eventDescription": {
+      "text": "tents installed for mass casualty ward and triage area",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "tents",
+      "start": 435,
+      "end": 440
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "two",
+      "start": null,
+      "end": null
+    },
+    "eventDescription": {
+      "text": "air conditions installed for OT Foyer Suit",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "air conditions",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "135",
+      "start": 790,
+      "end": 793
+    },
+    "eventDescription": {
+      "text": "solar panels installed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "solar panels",
+      "start": 794,
+      "end": 806
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "310",
+      "start": 808,
+      "end": 811
+    },
+    "eventDescription": {
+      "text": "power of each solar panel",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "watt each",
+      "start": 812,
+      "end": 821
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27,000",
+      "start": 844,
+      "end": 850
+    },
+    "eventDescription": {
+      "text": "people benefiting from the projects",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 851,
+      "end": 857
+    }
+  }
+]

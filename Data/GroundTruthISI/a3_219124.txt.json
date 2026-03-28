@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "25",
+      "begin": 256,
+      "end": 258
+    },
+    "unit": {
+      "text": "counties",
+      "begin": 259,
+      "end": 267
+    },
+    "eventDescription": {
+      "text": "households are directly affected",
+      "begin": 269,
+      "end": 301
+    },
+    "eventType": "EventO"
+  }
+]

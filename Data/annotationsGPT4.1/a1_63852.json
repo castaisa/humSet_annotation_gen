@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "478,450.43",
+    "unit": "supplies",
+    "eventType": "EventA",
+    "eventDescription": "dispatched"
+  },
+  {
+    "quantity": "35",
+    "unit": "trucks",
+    "eventType": "EventA",
+    "eventDescription": "sent"
+  },
+  {
+    "quantity": "962",
+    "unit": "school in a box",
+    "eventType": "EventA",
+    "eventDescription": "brought"
+  },
+  {
+    "quantity": "600",
+    "unit": "ECD kits",
+    "eventType": "EventA",
+    "eventDescription": "brought"
+  },
+  {
+    "quantity": "800",
+    "unit": "recreation kits",
+    "eventType": "EventA",
+    "eventDescription": "brought"
+  },
+  {
+    "quantity": "360",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "benefitting"
+  },
+  {
+    "quantity": "108,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "benefitting"
+  },
+  {
+    "quantity": "15,000",
+    "unit": "mosquito nets",
+    "eventType": "EventA",
+    "eventDescription": "transported"
+  },
+  {
+    "quantity": "4,750",
+    "unit": "nets",
+    "eventType": "EventA",
+    "eventDescription": "procuring"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 217,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "custody for serious crimes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 223,
+      "end": 228
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 1058,
+      "end": 1063
+    },
+    "eventDescription": {
+      "text": "timeframe to challenge administrative decision",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 1064,
+      "end": 1068
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 1152,
+      "end": 1157
+    },
+    "eventDescription": {
+      "text": "timeframe to dispute rejection in court",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 1163,
+      "end": 1167
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "fifteen",
+      "start": 1259,
+      "end": 1266
+    },
+    "eventDescription": {
+      "text": "original timeframe to appeal",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 1267,
+      "end": 1271
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three-day",
+      "start": 1550,
+      "end": 1559
+    },
+    "eventDescription": {
+      "text": "timeframe to prove lack of economic means",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "timeframe",
+      "start": 1560,
+      "end": 1569
+    }
+  }
+]

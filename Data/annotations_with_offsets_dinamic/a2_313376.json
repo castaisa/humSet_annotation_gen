@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proportion of monthly salaried jobs",
+      "start": 669,
+      "end": 704
+    },
+    "quantity": {
+      "text": "53 percent",
+      "start": 732,
+      "end": 742
+    },
+    "unit": {
+      "text": "monthly salaried jobs in the Rohingya community",
+      "start": 683,
+      "end": 730
+    }
+  }
+]

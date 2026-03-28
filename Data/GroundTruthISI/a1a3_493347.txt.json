@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "2,250",
+      "begin": 48,
+      "end": 53
+    },
+    "unit": {
+      "text": "cases of severe acute malnutrition",
+      "begin": 54,
+      "end": 88
+    },
+    "eventDescription": {
+      "text": "were reported through EWARS",
+      "begin": 89,
+      "end": 116
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 125,
+      "end": 127
+    },
+    "eventDescription": {
+      "text": "were reported through EWARS",
+      "begin": 89,
+      "end": 116
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "week",
+      "begin": 120,
+      "end": 124
+    }
+  },
+  {
+    "quantity": {
+      "text": "85",
+      "begin": 152,
+      "end": 154
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 136,
+      "end": 144
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 145,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "69",
+      "begin": 186,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 136,
+      "end": 144
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 189,
+      "end": 194
+    }
+  },
+  {
+    "quantity": {
+      "text": "65",
+      "begin": 283,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 136,
+      "end": 144
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 145,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 340,
+      "end": 342
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 136,
+      "end": 144
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 343,
+      "end": 348
+    }
+  },
+  {
+    "quantity": {
+      "text": "56",
+      "begin": 451,
+      "end": 453
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 136,
+      "end": 144
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 145,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "54",
+      "begin": 491,
+      "end": 493
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 136,
+      "end": 144
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "cases",
+      "begin": 145,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 547,
+      "end": 548
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 550,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 573,
+      "end": 581
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "Five",
+      "begin": 541,
+      "end": 545
+    },
+    "unit": {
+      "text": "associated deaths",
+      "begin": 550,
+      "end": 567
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 573,
+      "end": 581
+    },
+    "eventType": "EventP"
+  }
+]

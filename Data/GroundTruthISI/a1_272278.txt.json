@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": {
+      "text": "seven",
+      "begin": 294,
+      "end": 299
+    },
+    "eventDescription": {
+      "text": "manufacturing plants were closed",
+      "begin": 250,
+      "end": 282
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "week lockdown",
+      "begin": 300,
+      "end": 313
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 214,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "affected by fire",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 216,
+      "end": 230
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1",
+      "start": 262,
+      "end": 263
+    },
+    "eventDescription": {
+      "text": "fully destroyed",
+      "start": 246,
+      "end": 261
+    },
+    "unit": {
+      "text": "solid structure",
+      "start": 264,
+      "end": 279
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 284,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "fully destroyed",
+      "start": 246,
+      "end": 261
+    },
+    "unit": {
+      "text": "makeshift shelter",
+      "start": 286,
+      "end": 303
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "48",
+      "start": 341,
+      "end": 343
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 377,
+      "end": 385
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 344,
+      "end": 355
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "8",
+      "start": 359,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 377,
+      "end": 385
+    },
+    "unit": {
+      "text": "households",
+      "start": 361,
+      "end": 371
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "31",
+      "start": 406,
+      "end": 408
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 377,
+      "end": 385
+    },
+    "unit": {
+      "text": "children",
+      "start": 409,
+      "end": 417
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "31",
+      "start": 419,
+      "end": 421
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 377,
+      "end": 385
+    },
+    "unit": {
+      "text": "women",
+      "start": 422,
+      "end": 427
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "17",
+      "start": 432,
+      "end": 434
+    },
+    "eventDescription": {
+      "text": "affected",
+      "start": 377,
+      "end": 385
+    },
+    "unit": {
+      "text": "men",
+      "start": 435,
+      "end": 438
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "2",
+      "start": 446,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "killed by fire",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "livestock",
+      "start": 448,
+      "end": 457
+    }
+  }
+]

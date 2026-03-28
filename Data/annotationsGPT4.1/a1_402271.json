@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "112,000",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "bulk foods price"
+  },
+  {
+    "quantity": "35",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "bulk foods price"
+  },
+  {
+    "quantity": "5%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "one month price change"
+  },
+  {
+    "quantity": "25%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "six month price change"
+  },
+  {
+    "quantity": "12%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "rice price increase"
+  },
+  {
+    "quantity": "9%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "sugar price increase"
+  },
+  {
+    "quantity": "2%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "red lentils price increase"
+  },
+  {
+    "quantity": "0%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "tomato paste price change"
+  },
+  {
+    "quantity": "0%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "salt price change"
+  },
+  {
+    "quantity": "-8%",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "bulgur price decrease"
+  }
+]

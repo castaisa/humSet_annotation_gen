@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": "460,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "provided water"
+  },
+  {
+    "quantity": "one million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "impacted"
+  },
+  {
+    "quantity": "10",
+    "unit": "submersible pumps",
+    "eventType": "EventO",
+    "eventDescription": "operational"
+  },
+  {
+    "quantity": "30",
+    "unit": "submersible pumps",
+    "eventType": "EventO",
+    "eventDescription": "total"
+  },
+  {
+    "quantity": "4",
+    "unit": "horizontal pumps",
+    "eventType": "EventO",
+    "eventDescription": "operational"
+  },
+  {
+    "quantity": "12",
+    "unit": "horizontal pumps",
+    "eventType": "EventO",
+    "eventDescription": "total"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "105 000",
+      "start": 44,
+      "end": 51
+    },
+    "eventDescription": {
+      "text": "provided",
+      "start": 72,
+      "end": 80
+    },
+    "unit": {
+      "text": "ANC-1 services",
+      "start": 52,
+      "end": 66
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 34,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "32%",
+      "start": 290,
+      "end": 293
+    },
+    "eventDescription": {
+      "text": "lower than what was provided",
+      "start": 294,
+      "end": 322
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "56 000",
+      "start": 552,
+      "end": 558
+    },
+    "eventDescription": {
+      "text": "provided",
+      "start": 537,
+      "end": 545
+    },
+    "unit": {
+      "text": "PNC-1 services",
+      "start": 559,
+      "end": 573
+    },
+    "modifier": {
+      "text": "about",
+      "start": 546,
+      "end": 551
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "53.4%",
+      "start": 598,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "more than July 2021",
+      "start": 604,
+      "end": 623
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "9%",
+      "start": 679,
+      "end": 681
+    },
+    "eventDescription": {
+      "text": "increased compared to August 2020",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "26%",
+      "start": 810,
+      "end": 813
+    },
+    "eventDescription": {
+      "text": "lower compared to the same month in 2019",
+      "start": null,
+      "end": null
+    }
+  }
+]

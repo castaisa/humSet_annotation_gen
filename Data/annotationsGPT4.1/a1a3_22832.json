@@ -1,0 +1,76 @@
+[
+  {
+    "quantity": "263 million",
+    "unit": "dollars",
+    "eventType": "EventA",
+    "eventDescription": "required to meet the food security needs",
+    "modifier": "More than"
+  },
+  {
+    "quantity": "2.7 million",
+    "unit": "Nigerians",
+    "eventType": "EventP",
+    "eventDescription": "in need of food security"
+  },
+  {
+    "quantity": "16 percent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "decrease in severe acute malnutrition (SAM) cases"
+  },
+  {
+    "quantity": "439,000",
+    "unit": "SAM cases",
+    "eventType": "EventP",
+    "eventDescription": "severe acute malnutrition cases in 2018"
+  },
+  {
+    "quantity": "44 percent",
+    "unit": "",
+    "eventType": "EventP",
+    "eventDescription": "increase in moderate acute malnutrition cases"
+  },
+  {
+    "quantity": "723,000",
+    "unit": "moderate acute malnutrition cases",
+    "eventType": "EventP",
+    "eventDescription": "moderate acute malnutrition cases"
+  },
+  {
+    "quantity": "502,000",
+    "unit": "moderate acute malnutrition cases",
+    "eventType": "EventP",
+    "eventDescription": "moderate acute malnutrition cases in 2018"
+  },
+  {
+    "quantity": "1 million",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children ages five years and younger experiencing acute malnutrition",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "five",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "age of children experiencing acute malnutrition"
+  },
+  {
+    "quantity": "367,000",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "children suffering from SAM"
+  },
+  {
+    "quantity": "106 million",
+    "unit": "dollars",
+    "eventType": "EventA",
+    "eventDescription": "requested to meet the nutrition needs"
+  },
+  {
+    "quantity": "2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people in need of nutrition"
+  }
+]

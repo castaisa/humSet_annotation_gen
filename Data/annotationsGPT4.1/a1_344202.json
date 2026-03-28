@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "411,125",
+    "unit": "SYP",
+    "eventType": "EventO",
+    "eventDescription": "value of the regional Survival Minimum Expenditure Basket (SMEB)"
+  },
+  {
+    "quantity": "3%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "decrease in SMEB value"
+  },
+  {
+    "quantity": "74%",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "long-term increase in SMEB value"
+  },
+  {
+    "quantity": "113",
+    "unit": "USD",
+    "eventType": "EventO",
+    "eventDescription": "SMEB value in March"
+  },
+  {
+    "quantity": "116",
+    "unit": "USD",
+    "eventType": "EventO",
+    "eventDescription": "SMEB value in March"
+  },
+  {
+    "quantity": "113",
+    "unit": "USD",
+    "eventType": "EventO",
+    "eventDescription": "average SMEB value in USD"
+  },
+  {
+    "quantity": "116",
+    "unit": "USD",
+    "eventType": "EventO",
+    "eventDescription": "average SMEB value in USD"
+  }
+]

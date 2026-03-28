@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "working in Yemen",
+      "start": 665,
+      "end": 681
+    },
+    "quantity": {
+      "text": "153",
+      "start": 635,
+      "end": 638
+    },
+    "unit": {
+      "text": "humanitarian partners",
+      "start": 639,
+      "end": 660
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "working in Yemen",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "109",
+      "start": 692,
+      "end": 695
+    },
+    "unit": {
+      "text": "national NGOs",
+      "start": 696,
+      "end": 709
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "working in Yemen",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "36",
+      "start": 711,
+      "end": 713
+    },
+    "unit": {
+      "text": "international NGOs",
+      "start": 714,
+      "end": 732
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "working in Yemen",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "eight",
+      "start": 737,
+      "end": 742
+    },
+    "unit": {
+      "text": "UN agencies",
+      "start": 743,
+      "end": 754
+    }
+  }
+]

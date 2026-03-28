@@ -1,0 +1,33 @@
+[
+  {
+    "quantity": "at least five",
+    "unit": "civilians",
+    "eventType": "EventP",
+    "eventDescription": "died",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "two",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "died"
+  },
+  {
+    "quantity": "11",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  },
+  {
+    "quantity": "four",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "injured"
+  },
+  {
+    "quantity": "125,000",
+    "unit": "residents",
+    "eventType": "EventP",
+    "eventDescription": "affected by electricity and water cut off"
+  }
+]

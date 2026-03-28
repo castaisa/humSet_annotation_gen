@@ -1,0 +1,74 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19",
+      "start": 244,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "housed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "adults",
+      "start": 247,
+      "end": 253
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13",
+      "start": 258,
+      "end": 260
+    },
+    "eventDescription": {
+      "text": "housed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 261,
+      "end": 269
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "six",
+      "start": 407,
+      "end": 410
+    },
+    "eventDescription": {
+      "text": "involved in Cash-for-Work agricultural project",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 411,
+      "end": 432
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "three",
+      "start": 909,
+      "end": 914
+    },
+    "eventDescription": {
+      "text": "provide support",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "locals",
+      "start": 915,
+      "end": 921
+    }
+  }
+]

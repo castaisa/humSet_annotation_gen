@@ -1,0 +1,97 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "more than 60 percent",
+      "start": 83,
+      "end": 103
+    },
+    "eventDescription": {
+      "text": "decreased",
+      "start": 70,
+      "end": 79
+    },
+    "unit": {
+      "text": "food production",
+      "start": 54,
+      "end": 69
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 83,
+      "end": 92
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "a quarter",
+      "start": 495,
+      "end": 504
+    },
+    "eventDescription": {
+      "text": "satisfied",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "national demand",
+      "start": 512,
+      "end": 527
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "eleven",
+      "start": 573,
+      "end": 579
+    },
+    "eventDescription": {
+      "text": "declining steadily",
+      "start": 541,
+      "end": 559
+    },
+    "unit": {
+      "text": "years",
+      "start": 580,
+      "end": 585
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "70 percent",
+      "start": 659,
+      "end": 669
+    },
+    "eventDescription": {
+      "text": "fell",
+      "start": 651,
+      "end": 655
+    },
+    "unit": {
+      "text": "food imports",
+      "start": 631,
+      "end": 643
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "80 percent",
+      "start": 885,
+      "end": 895
+    },
+    "eventDescription": {
+      "text": "food insecure",
+      "start": 910,
+      "end": 923
+    },
+    "unit": {
+      "text": "households",
+      "start": 899,
+      "end": 909
+    }
+  }
+]

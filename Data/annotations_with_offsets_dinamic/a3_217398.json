@@ -1,0 +1,20 @@
+[
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "cost of Sinovac vaccine",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "$60",
+      "start": 709,
+      "end": 712
+    },
+    "unit": {
+      "text": "per person",
+      "start": 713,
+      "end": 723
+    }
+  }
+]

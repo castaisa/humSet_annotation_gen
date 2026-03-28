@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "57%",
+      "start": 508,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "paid for health care",
+      "start": 472,
+      "end": 492
+    },
+    "unit": {
+      "text": "households",
+      "start": 542,
+      "end": 552
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41%",
+      "start": 515,
+      "end": 518
+    },
+    "eventDescription": {
+      "text": "paid for health care",
+      "start": 472,
+      "end": 492
+    },
+    "unit": {
+      "text": "households",
+      "start": 542,
+      "end": 552
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "66%",
+      "start": 613,
+      "end": 616
+    },
+    "eventDescription": {
+      "text": "went into debt to cover health expenses",
+      "start": 558,
+      "end": 597
+    },
+    "unit": {
+      "text": "households",
+      "start": 649,
+      "end": 659
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "35%",
+      "start": 620,
+      "end": 623
+    },
+    "eventDescription": {
+      "text": "went into debt to cover health expenses",
+      "start": 558,
+      "end": 597
+    },
+    "unit": {
+      "text": "households",
+      "start": 649,
+      "end": 659
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12%",
+      "start": 719,
+      "end": 722
+    },
+    "eventDescription": {
+      "text": "sought lower quality/cheaper treatment",
+      "start": 665,
+      "end": 703
+    },
+    "unit": {
+      "text": "households",
+      "start": 649,
+      "end": 659
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "27%",
+      "start": 726,
+      "end": 729
+    },
+    "eventDescription": {
+      "text": "sought lower quality/cheaper treatment",
+      "start": 665,
+      "end": 703
+    },
+    "unit": {
+      "text": "households",
+      "start": 649,
+      "end": 659
+    }
+  }
+]

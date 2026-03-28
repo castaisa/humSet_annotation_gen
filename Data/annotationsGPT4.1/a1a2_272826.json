@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "11",
+    "unit": "new communities",
+    "eventType": "EventO",
+    "eventDescription": "assessed"
+  },
+  {
+    "quantity": "130",
+    "unit": "key informants",
+    "eventType": "EventP",
+    "eventDescription": "interviewed"
+  }
+]

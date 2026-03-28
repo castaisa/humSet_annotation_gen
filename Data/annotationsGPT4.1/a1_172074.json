@@ -1,0 +1,106 @@
+[
+  {
+    "quantity": "273",
+    "unit": "Rohingya refugees",
+    "eventType": "EventP",
+    "eventDescription": "tested positive to COVID-19"
+  },
+  {
+    "quantity": "2.6%",
+    "unit": "positive tests",
+    "eventType": "EventO",
+    "eventDescription": "cumulative share"
+  },
+  {
+    "quantity": "0-9",
+    "unit": "years age group",
+    "eventType": "EventP",
+    "eventDescription": "samples with lowest test positivity"
+  },
+  {
+    "quantity": "Eight",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "2.9%",
+    "unit": "case fatality risk",
+    "eventType": "EventO",
+    "eventDescription": "case fatality risk"
+  },
+  {
+    "quantity": "143",
+    "unit": "Rohingya women",
+    "eventType": "EventP",
+    "eventDescription": "tested positive"
+  },
+  {
+    "quantity": "52%",
+    "unit": "Rohingya women tested positive",
+    "eventType": "EventP",
+    "eventDescription": "proportion of women among positive cases"
+  },
+  {
+    "quantity": "21",
+    "unit": "Rohingya refugees",
+    "eventType": "EventP",
+    "eventDescription": "are 60 years or older"
+  },
+  {
+    "quantity": "8%",
+    "unit": "Rohingya refugees",
+    "eventType": "EventP",
+    "eventDescription": "are 60 years or older"
+  },
+  {
+    "quantity": "23",
+    "unit": "years",
+    "eventType": "EventP",
+    "eventDescription": "average age of cases"
+  },
+  {
+    "quantity": "119",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "successfully treated"
+  },
+  {
+    "quantity": "44%",
+    "unit": "recovery rate",
+    "eventType": "EventO",
+    "eventDescription": "recovery rate"
+  },
+  {
+    "quantity": "226",
+    "unit": "admitted patients",
+    "eventType": "EventP",
+    "eventDescription": "admitted"
+  },
+  {
+    "quantity": "44",
+    "unit": "admitted patients",
+    "eventType": "EventP",
+    "eventDescription": "experienced moderate/severe symptoms"
+  },
+  {
+    "quantity": "22%",
+    "unit": "admitted patients",
+    "eventType": "EventP",
+    "eventDescription": "experienced moderate/severe symptoms"
+  },
+  {
+    "quantity": "16",
+    "unit": "admitted patients",
+    "eventType": "EventP",
+    "eventDescription": "had at least one comorbidity",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "7%",
+    "unit": "admitted patients",
+    "eventType": "EventP",
+    "eventDescription": "had at least one comorbidity",
+    "modifier": "at least"
+  }
+]

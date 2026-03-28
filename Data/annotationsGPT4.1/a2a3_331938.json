@@ -1,0 +1,51 @@
+[
+  {
+    "quantity": "1 220",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "average price of cattle feed for milk production recorded"
+  },
+  {
+    "quantity": "23 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in price of cattle feed for milk production"
+  },
+  {
+    "quantity": "1 800",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest selling price of cattle feed for milk production observed"
+  },
+  {
+    "quantity": "1 100",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "lowest price of cattle feed for milk production recorded"
+  },
+  {
+    "quantity": "46 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in average price of cattle feed for milk production"
+  },
+  {
+    "quantity": "1 400",
+    "unit": "SYP per Kg",
+    "eventType": "EventO",
+    "eventDescription": "price of cattle feed for milk production reached"
+  },
+  {
+    "quantity": "1 161",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "estimated price of cattle feed for meat production"
+  },
+  {
+    "quantity": "1 800",
+    "unit": "SYP per kg",
+    "eventType": "EventO",
+    "eventDescription": "highest price of cattle feed for meat production sold",
+    "modifier": "at least"
+  }
+]

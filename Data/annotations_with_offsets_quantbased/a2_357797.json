@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "115, 051",
+      "start": 380,
+      "end": 388
+    },
+    "eventDescription": {
+      "text": "provided with CP services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 389,
+      "end": 397
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "59,510",
+      "start": 406,
+      "end": 412
+    },
+    "eventDescription": {
+      "text": "provided with CP services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "girls",
+      "start": 399,
+      "end": 404
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "55,541",
+      "start": 420,
+      "end": 426
+    },
+    "eventDescription": {
+      "text": "provided with CP services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys",
+      "start": 414,
+      "end": 418
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "112, 544",
+      "start": 503,
+      "end": 511
+    },
+    "eventDescription": {
+      "text": "received psychosocial and mental health support services",
+      "start": 525,
+      "end": 581
+    },
+    "unit": {
+      "text": "children",
+      "start": 512,
+      "end": 520
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1004",
+      "start": 582,
+      "end": 586
+    },
+    "eventDescription": {
+      "text": "received integrated case management services",
+      "start": 659,
+      "end": 703
+    },
+    "unit": {
+      "text": "unaccompanied, separated and children facing other protection risks",
+      "start": 587,
+      "end": 654
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1, 885",
+      "start": 705,
+      "end": 711
+    },
+    "eventDescription": {
+      "text": "received community reintegration services",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "child beneficiaries",
+      "start": 712,
+      "end": 731
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23, 155",
+      "start": 772,
+      "end": 779
+    },
+    "eventDescription": {
+      "text": "sensitized on child protection issues",
+      "start": 810,
+      "end": 847
+    },
+    "unit": {
+      "text": "children/adolescents",
+      "start": 780,
+      "end": 800
+    }
+  }
+]

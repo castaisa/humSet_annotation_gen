@@ -1,0 +1,73 @@
+[
+  {
+    "quantity": {
+      "text": "11 million",
+      "begin": 90,
+      "end": 100
+    },
+    "eventDescription": {
+      "text": "exacerbated humanitarian needs",
+      "begin": 42,
+      "end": 72
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "people",
+      "begin": 101,
+      "end": 107
+    }
+  },
+  {
+    "quantity": {
+      "text": "90 percent",
+      "begin": 155,
+      "end": 165
+    },
+    "unit": {
+      "text": "poverty rate",
+      "begin": 134,
+      "end": 146
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 150,
+      "end": 154
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,250",
+      "begin": 205,
+      "end": 210
+    },
+    "eventDescription": {
+      "text": "exchange rate",
+      "begin": 185,
+      "end": 198
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP",
+      "begin": 211,
+      "end": 214
+    }
+  },
+  {
+    "quantity": {
+      "text": "1.00",
+      "begin": 227,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "exchange rate",
+      "begin": 185,
+      "end": 198
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "USD",
+      "begin": 224,
+      "end": 227
+    }
+  }
+]

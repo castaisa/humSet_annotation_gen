@@ -1,0 +1,176 @@
+[
+  {
+    "quantity": {
+      "text": "5 percent",
+      "begin": 71,
+      "end": 80
+    },
+    "eventDescription": {
+      "text": "selling price of rice decreased",
+      "begin": 38,
+      "end": 69
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 81,
+      "end": 86
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 678",
+      "begin": 123,
+      "end": 128
+    },
+    "eventDescription": {
+      "text": "selling price reached",
+      "begin": 101,
+      "end": 122
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 129,
+      "end": 139
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 700",
+      "begin": 251,
+      "end": 256
+    },
+    "eventDescription": {
+      "text": "remained constant",
+      "begin": 199,
+      "end": 216
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 267,
+      "end": 277
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 275",
+      "begin": 261,
+      "end": 266
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 267,
+      "end": 277
+    }
+  },
+  {
+    "quantity": {
+      "text": "14 percent",
+      "begin": 338,
+      "end": 348
+    },
+    "eventDescription": {
+      "text": "witnessed a slight decrease",
+      "begin": 309,
+      "end": 336
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 349,
+      "end": 354
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 070",
+      "begin": 390,
+      "end": 395
+    },
+    "eventDescription": {
+      "text": "witnessed a slight decrease",
+      "begin": 309,
+      "end": 336
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 396,
+      "end": 406
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 150",
+      "begin": 498,
+      "end": 503
+    },
+    "eventDescription": {
+      "text": "recorded a decrease",
+      "begin": 449,
+      "end": 468
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 526,
+      "end": 536
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 900",
+      "begin": 505,
+      "end": 510
+    },
+    "eventDescription": {
+      "text": "recorded a decrease",
+      "begin": 449,
+      "end": 468
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 526,
+      "end": 536
+    }
+  },
+  {
+    "quantity": {
+      "text": "2 150",
+      "begin": 512,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "recorded a decrease",
+      "begin": 449,
+      "end": 468
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 526,
+      "end": 536
+    }
+  },
+  {
+    "quantity": {
+      "text": "3 700",
+      "begin": 520,
+      "end": 525
+    },
+    "eventDescription": {
+      "text": "recorded a decrease",
+      "begin": 449,
+      "end": 468
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 526,
+      "end": 536
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arrived/displaced",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8,248",
+      "start": 176,
+      "end": 181
+    },
+    "unit": {
+      "text": "internally displaced persons (IDPs)",
+      "start": 182,
+      "end": 217
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "distance advanced",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 833,
+      "end": 834
+    },
+    "unit": {
+      "text": "kilometers",
+      "start": 835,
+      "end": 845
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "temporarily relocated",
+      "start": 1122,
+      "end": 1143
+    },
+    "quantity": {
+      "text": "133",
+      "start": 1090,
+      "end": 1093
+    },
+    "unit": {
+      "text": "humanitarian personnel",
+      "start": 1094,
+      "end": 1116
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "arrived",
+      "start": 1246,
+      "end": 1253
+    },
+    "modifier": {
+      "text": "about",
+      "start": 1230,
+      "end": 1235
+    },
+    "quantity": {
+      "text": "about 3819",
+      "start": 1230,
+      "end": 1240
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 1241,
+      "end": 1245
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "relocated due to ongoing conflict",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "95 percent",
+      "start": 1439,
+      "end": 1449
+    },
+    "unit": {
+      "text": "of the new arrivals",
+      "start": 1450,
+      "end": 1469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "voluntarily relocated",
+      "start": 1536,
+      "end": 1557
+    },
+    "quantity": {
+      "text": "3 percent",
+      "start": 1526,
+      "end": 1535
+    },
+    "unit": {
+      "text": "of the new arrivals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "relocated due to poor living condition",
+      "start": 1574,
+      "end": 1612
+    },
+    "quantity": {
+      "text": "2 percent",
+      "start": 1564,
+      "end": 1573
+    },
+    "unit": {
+      "text": "of the new arrivals",
+      "start": null,
+      "end": null
+    }
+  }
+]

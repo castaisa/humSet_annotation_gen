@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 95,
+      "end": 97
+    },
+    "unit": {
+      "text": "tanks",
+      "begin": 98,
+      "end": 103
+    }
+  },
+  {
+    "quantity": {
+      "text": "45,000",
+      "begin": 162,
+      "end": 168
+    },
+    "eventDescription": {
+      "text": "provide",
+      "begin": 146,
+      "end": 153
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "liters",
+      "begin": 180,
+      "end": 186
+    }
+  },
+  {
+    "quantity": {
+      "text": "60,000",
+      "begin": 173,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "provide",
+      "begin": 146,
+      "end": 153
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "liters",
+      "begin": 180,
+      "end": 186
+    }
+  },
+  {
+    "quantity": {
+      "text": "three",
+      "begin": 526,
+      "end": 531
+    },
+    "unit": {
+      "text": "days",
+      "begin": 532,
+      "end": 536
+    }
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 519,
+      "end": 522
+    },
+    "unit": {
+      "text": "days",
+      "begin": 532,
+      "end": 536
+    }
+  }
+]

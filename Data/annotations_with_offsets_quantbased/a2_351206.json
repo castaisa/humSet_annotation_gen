@@ -1,0 +1,149 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "868",
+      "start": 135,
+      "end": 138
+    },
+    "eventDescription": {
+      "text": "average selling price of tomato",
+      "start": 30,
+      "end": 61
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 139,
+      "end": 149
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "28 percent",
+      "start": 192,
+      "end": 202
+    },
+    "eventDescription": {
+      "text": "increase on tomato prices",
+      "start": 209,
+      "end": 234
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "700",
+      "start": 330,
+      "end": 333
+    },
+    "eventDescription": {
+      "text": "selling price of tomatoes in Rural Damascus",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 334,
+      "end": 344
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "42 percent",
+      "start": 346,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "decrease in tomato selling price in Rural Damascus",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1 050",
+      "start": 440,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "selling price of tomatoes in Aleppo in March",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 446,
+      "end": 449
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "717",
+      "start": 467,
+      "end": 470
+    },
+    "eventDescription": {
+      "text": "selling price of tomatoes in Aleppo in April",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP",
+      "start": 471,
+      "end": 474
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "33 percent",
+      "start": 531,
+      "end": 541
+    },
+    "eventDescription": {
+      "text": "decrease in Dará governorate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": 561,
+      "end": 564
+    },
+    "eventDescription": {
+      "text": "selling at 868 SYP per kg",
+      "start": 590,
+      "end": 615
+    },
+    "unit": {
+      "text": "kilogram of tomatoes",
+      "start": 565,
+      "end": 585
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "868",
+      "start": 601,
+      "end": 604
+    },
+    "eventDescription": {
+      "text": "selling price of one kilogram of tomatoes",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "start": 605,
+      "end": 615
+    }
+  }
+]

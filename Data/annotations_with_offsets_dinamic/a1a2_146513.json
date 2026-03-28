@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "ranked in the human development index",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "89",
+      "start": 42,
+      "end": 44
+    },
+    "unit": {
+      "text": "rank",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "informality rate in the region",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "72.5 percent",
+      "start": 465,
+      "end": 477
+    },
+    "unit": {
+      "text": "informality rate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "threatened food security",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "millions",
+      "start": 549,
+      "end": 557
+    },
+    "unit": {
+      "text": "Peruvians",
+      "start": 397,
+      "end": 406
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "affected livelihoods",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "millions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 561,
+      "end": 571
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases in the region",
+      "start": 651,
+      "end": 689
+    },
+    "quantity": {
+      "text": "second-most",
+      "start": 639,
+      "end": 650
+    },
+    "unit": {
+      "text": "confirmed COVID-19 cases in the region",
+      "start": 651,
+      "end": 689
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "confirmed COVID-19 cases worldwide",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "fifth-most",
+      "start": 698,
+      "end": 708
+    },
+    "unit": {
+      "text": "confirmed COVID-19 cases worldwide",
+      "start": null,
+      "end": null
+    }
+  }
+]

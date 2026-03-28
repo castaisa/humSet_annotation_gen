@@ -1,0 +1,152 @@
+[
+  {
+    "quantity": {
+      "text": "51 960",
+      "begin": 126,
+      "end": 132
+    },
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 133,
+      "end": 143
+    }
+  },
+  {
+    "quantity": {
+      "text": "90 000",
+      "begin": 256,
+      "end": 262
+    },
+    "eventDescription": {
+      "text": "Dará governorate recorded the highest price increase among the monitored governorates",
+      "begin": 145,
+      "end": 230
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 263,
+      "end": 273
+    }
+  },
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 275,
+      "end": 285
+    },
+    "eventDescription": {
+      "text": "Dará governorate recorded the highest price increase among the monitored governorates",
+      "begin": 145,
+      "end": 230
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 286,
+      "end": 291
+    }
+  },
+  {
+    "quantity": {
+      "text": "six",
+      "begin": 379,
+      "end": 382
+    },
+    "eventDescription": {
+      "text": "moderate decrease in the fungicide selling price was observed",
+      "begin": 314,
+      "end": 375
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "governorates",
+      "begin": 383,
+      "end": 395
+    }
+  },
+  {
+    "quantity": {
+      "text": "15",
+      "begin": 445,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "moderate decrease in the fungicide selling price was observed",
+      "begin": 314,
+      "end": 375
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "m-o-m",
+      "begin": 474,
+      "end": 479
+    }
+  },
+  {
+    "quantity": {
+      "text": "11",
+      "begin": 457,
+      "end": 459
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 474,
+      "end": 479
+    }
+  },
+  {
+    "quantity": {
+      "text": "8 percent",
+      "begin": 464,
+      "end": 473
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 474,
+      "end": 479
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 453,
+      "end": 455
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 474,
+      "end": 479
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 449,
+      "end": 451
+    },
+    "unit": {
+      "text": "m-o-m",
+      "begin": 474,
+      "end": 479
+    }
+  },
+  {
+    "quantity": {
+      "text": "55 000",
+      "begin": 584,
+      "end": 590
+    },
+    "eventDescription": {
+      "text": "selling price for fungicides",
+      "begin": 516,
+      "end": 544
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "SYP per kg",
+      "begin": 591,
+      "end": 601
+    }
+  }
+]

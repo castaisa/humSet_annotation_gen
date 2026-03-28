@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "died",
+      "start": 65,
+      "end": 69
+    },
+    "quantity": {
+      "text": "Half",
+      "start": 44,
+      "end": 48
+    },
+    "unit": {
+      "text": "children",
+      "start": 56,
+      "end": 64
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "with whom children died",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": 82,
+      "end": 85
+    },
+    "unit": {
+      "text": "or more friends",
+      "start": 86,
+      "end": 101
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatal drowning cases where the child was alone",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "nine",
+      "start": 130,
+      "end": 134
+    },
+    "unit": {
+      "text": "cases",
+      "start": 141,
+      "end": 146
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatal drowning cases where the child was alone",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "45%",
+      "start": 136,
+      "end": 139
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "fatal drowning case where the child was with an adult relative",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "one",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 208,
+      "end": 212
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age group of children",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "under 5",
+      "start": 376,
+      "end": 383
+    },
+    "unit": {
+      "text": "children",
+      "start": 367,
+      "end": 375
+    }
+  }
+]

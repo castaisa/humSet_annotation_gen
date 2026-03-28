@@ -1,0 +1,118 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "31",
+      "start": 39,
+      "end": 41
+    },
+    "eventDescription": {
+      "text": "mapped as hotspots for evictions",
+      "start": 57,
+      "end": 89
+    },
+    "unit": {
+      "text": "informal sites",
+      "start": 42,
+      "end": 56
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30 per cent",
+      "start": 168,
+      "end": 179
+    },
+    "eventDescription": {
+      "text": "evictions rate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "50 per cent",
+      "start": 183,
+      "end": 194
+    },
+    "eventDescription": {
+      "text": "evictions rate",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "six",
+      "start": 220,
+      "end": 223
+    },
+    "eventDescription": {
+      "text": "cases registered in MMC and Jere LGAs",
+      "start": 224,
+      "end": 261
+    },
+    "unit": {
+      "text": "cases",
+      "start": 224,
+      "end": 229
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": 279,
+      "end": 282
+    },
+    "eventDescription": {
+      "text": "span of time for cases",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "month",
+      "start": 283,
+      "end": 288
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "one",
+      "start": 315,
+      "end": 318
+    },
+    "eventDescription": {
+      "text": "cases received per month in previous months",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "case",
+      "start": 326,
+      "end": 330
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "two",
+      "start": 322,
+      "end": 325
+    },
+    "eventDescription": {
+      "text": "cases received per month in previous months",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 326,
+      "end": 331
+    }
+  }
+]

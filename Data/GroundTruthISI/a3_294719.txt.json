@@ -1,0 +1,200 @@
+[
+  {
+    "quantity": {
+      "text": "43%",
+      "begin": 7,
+      "end": 10
+    },
+    "unit": {
+      "text": "households",
+      "begin": 13,
+      "end": 23
+    },
+    "eventDescription": {
+      "text": "report that at least one member of their household has needed some medical treatment",
+      "begin": 24,
+      "end": 108
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "49%",
+      "begin": 169,
+      "end": 172
+    },
+    "unit": {
+      "text": "households",
+      "begin": 157,
+      "end": 167
+    },
+    "eventDescription": {
+      "text": "reported that they have had difficulty accessing medical treatment",
+      "begin": 173,
+      "end": 239
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "56%",
+      "begin": 323,
+      "end": 326
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 311,
+      "end": 319
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 330,
+      "end": 340
+    }
+  },
+  {
+    "quantity": {
+      "text": "51%",
+      "begin": 384,
+      "end": 387
+    },
+    "eventDescription": {
+      "text": "high cost of services and medicines",
+      "begin": 347,
+      "end": 382
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 330,
+      "end": 340
+    }
+  },
+  {
+    "quantity": {
+      "text": "80%",
+      "begin": 420,
+      "end": 423
+    },
+    "unit": {
+      "text": "household members",
+      "begin": 431,
+      "end": 448
+    },
+    "eventDescription": {
+      "text": "not affiliated to the health system.",
+      "begin": 453,
+      "end": 489
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "16%",
+      "begin": 490,
+      "end": 493
+    },
+    "unit": {
+      "text": "children aged 0 to 6",
+      "begin": 497,
+      "end": 517
+    },
+    "eventDescription": {
+      "text": "not been vaccinated",
+      "begin": 523,
+      "end": 542
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "24%",
+      "begin": 544,
+      "end": 547
+    },
+    "unit": {
+      "text": "people interviewed",
+      "begin": 555,
+      "end": 573
+    },
+    "eventDescription": {
+      "text": "indicated that, during the 30 days prior to the survey, a member of the household had presented needs related to sexual and reproductive health services",
+      "begin": 574,
+      "end": 726
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "35%",
+      "begin": 855,
+      "end": 858
+    },
+    "unit": {
+      "text": "households",
+      "begin": 866,
+      "end": 876
+    },
+    "eventDescription": {
+      "text": "unable to access these services",
+      "begin": 970,
+      "end": 1001
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "7%",
+      "begin": 937,
+      "end": 939
+    },
+    "eventDescription": {
+      "text": "unable to access these services",
+      "begin": 970,
+      "end": 1001
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "total households",
+      "begin": 947,
+      "end": 963
+    }
+  },
+  {
+    "quantity": {
+      "text": "41%",
+      "begin": 1003,
+      "end": 1006
+    },
+    "unit": {
+      "text": "interviewed",
+      "begin": 1016,
+      "end": 1027
+    },
+    "eventDescription": {
+      "text": "mentioned that one or more members of their household had experienced symptoms of anxiety, reduced sleep or crying episodes",
+      "begin": 1028,
+      "end": 1151
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "12 percentage",
+      "begin": 1235,
+      "end": 1248
+    },
+    "unit": {
+      "text": "point",
+      "begin": 1249,
+      "end": 1254
+    },
+    "eventDescription": {
+      "text": "increase in households that reported at least one symptom such as anxiety, crying episodes or reduced sleep, which could point to a deteriorating mental health situation.",
+      "begin": 1255,
+      "end": 1425
+    },
+    "eventType": "EventP"
+  }
+]

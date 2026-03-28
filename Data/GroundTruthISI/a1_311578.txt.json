@@ -1,0 +1,524 @@
+[
+  {
+    "quantity": {
+      "text": "22%",
+      "begin": 30,
+      "end": 33
+    },
+    "unit": {
+      "text": "returnees age 12-23 with disabilities",
+      "begin": 37,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 79,
+      "end": 95
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "22%",
+      "begin": 97,
+      "end": 100
+    },
+    "unit": {
+      "text": "returnees age 12-23 with disabilities",
+      "begin": 37,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 79,
+      "end": 95
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 54,
+      "end": 56
+    },
+    "unit": {
+      "text": "age",
+      "begin": 47,
+      "end": 50
+    }
+  },
+  {
+    "quantity": {
+      "text": "12-23",
+      "begin": 51,
+      "end": 56
+    },
+    "unit": {
+      "text": "age",
+      "begin": 47,
+      "end": 50
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 51,
+      "end": 53
+    },
+    "unit": {
+      "text": "age",
+      "begin": 47,
+      "end": 50
+    }
+  },
+  {
+    "quantity": {
+      "text": "56%",
+      "begin": 113,
+      "end": 116
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 79,
+      "end": 95
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "returnees without disabilities",
+      "begin": 120,
+      "end": 150
+    }
+  },
+  {
+    "quantity": {
+      "text": "63%",
+      "begin": 179,
+      "end": 182
+    },
+    "unit": {
+      "text": "12-23 year olds without disabilities",
+      "begin": 186,
+      "end": 222
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 227,
+      "end": 243
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12-23",
+      "begin": 186,
+      "end": 191
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 192,
+      "end": 201
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 189,
+      "end": 191
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 192,
+      "end": 201
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 186,
+      "end": 188
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 192,
+      "end": 201
+    }
+  },
+  {
+    "quantity": {
+      "text": "32%",
+      "begin": 257,
+      "end": 260
+    },
+    "unit": {
+      "text": "12-23 year olds with disabilities",
+      "begin": 264,
+      "end": 297
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 302,
+      "end": 318
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 264,
+      "end": 266
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 270,
+      "end": 279
+    }
+  },
+  {
+    "quantity": {
+      "text": "12-23",
+      "begin": 264,
+      "end": 269
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 270,
+      "end": 279
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 267,
+      "end": 269
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 270,
+      "end": 279
+    }
+  },
+  {
+    "quantity": {
+      "text": "56%",
+      "begin": 341,
+      "end": 344
+    },
+    "unit": {
+      "text": "12-23 year olds without disabilities",
+      "begin": 348,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 389,
+      "end": 405
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12-23",
+      "begin": 348,
+      "end": 353
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 354,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 351,
+      "end": 353
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 354,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 348,
+      "end": 350
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 354,
+      "end": 363
+    }
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 419,
+      "end": 422
+    },
+    "unit": {
+      "text": "12-23 year olds with disabilities",
+      "begin": 426,
+      "end": 459
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 464,
+      "end": 480
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12-23",
+      "begin": 426,
+      "end": 431
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 432,
+      "end": 441
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 429,
+      "end": 431
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 432,
+      "end": 441
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 426,
+      "end": 428
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 432,
+      "end": 441
+    }
+  },
+  {
+    "quantity": {
+      "text": "50%",
+      "begin": 498,
+      "end": 501
+    },
+    "unit": {
+      "text": "12-13 years olds without disabilities",
+      "begin": 509,
+      "end": 546
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 551,
+      "end": 567
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12-13",
+      "begin": 509,
+      "end": 514
+    },
+    "unit": {
+      "text": "years olds",
+      "begin": 515,
+      "end": 525
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 512,
+      "end": 514
+    },
+    "unit": {
+      "text": "years olds",
+      "begin": 515,
+      "end": 525
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 509,
+      "end": 511
+    },
+    "unit": {
+      "text": "years olds",
+      "begin": 515,
+      "end": 525
+    }
+  },
+  {
+    "quantity": {
+      "text": "20%",
+      "begin": 581,
+      "end": 584
+    },
+    "unit": {
+      "text": "12-23 year olds with disabilities",
+      "begin": 588,
+      "end": 621
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 626,
+      "end": 642
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12-23",
+      "begin": 588,
+      "end": 593
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 594,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 591,
+      "end": 593
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 594,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 588,
+      "end": 590
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 594,
+      "end": 603
+    }
+  },
+  {
+    "quantity": {
+      "text": "53%",
+      "begin": 664,
+      "end": 667
+    },
+    "unit": {
+      "text": "12-13 year olds with disabilities",
+      "begin": 671,
+      "end": 704
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 709,
+      "end": 725
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12-13",
+      "begin": 671,
+      "end": 676
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 677,
+      "end": 686
+    }
+  },
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 674,
+      "end": 676
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 677,
+      "end": 686
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 671,
+      "end": 673
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 677,
+      "end": 686
+    }
+  },
+  {
+    "quantity": {
+      "text": "19%",
+      "begin": 739,
+      "end": 742
+    },
+    "unit": {
+      "text": "12-23 year olds with disabilities",
+      "begin": 746,
+      "end": 779
+    },
+    "eventDescription": {
+      "text": "attending school",
+      "begin": 784,
+      "end": 800
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12-23",
+      "begin": 746,
+      "end": 751
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 752,
+      "end": 761
+    }
+  },
+  {
+    "quantity": {
+      "text": "23",
+      "begin": 749,
+      "end": 751
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 752,
+      "end": 761
+    }
+  },
+  {
+    "quantity": {
+      "text": "12",
+      "begin": 746,
+      "end": 748
+    },
+    "unit": {
+      "text": "year olds",
+      "begin": 752,
+      "end": 761
+    }
+  }
+]

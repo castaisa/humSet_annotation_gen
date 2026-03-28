@@ -1,0 +1,259 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14,949",
+      "start": 58,
+      "end": 64
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 65,
+      "end": 86
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10,493",
+      "start": 95,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "men",
+      "start": 102,
+      "end": 105
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "2,177",
+      "start": 107,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "women",
+      "start": 113,
+      "end": 118
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1,423",
+      "start": 123,
+      "end": 128
+    },
+    "eventDescription": {
+      "text": "rescued/intercepted at sea",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "children",
+      "start": 129,
+      "end": 137
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "120",
+      "start": 146,
+      "end": 149
+    },
+    "eventDescription": {
+      "text": "operations conducted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "sea operations",
+      "start": 150,
+      "end": 164
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "62 per cent",
+      "start": 269,
+      "end": 280
+    },
+    "eventDescription": {
+      "text": "disembarked at the Tripoli Naval Base",
+      "start": 230,
+      "end": 267
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 203,
+      "end": 224
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "19 per cent",
+      "start": 325,
+      "end": 336
+    },
+    "eventDescription": {
+      "text": "disembarked at Al Khums port",
+      "start": 295,
+      "end": 323
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 203,
+      "end": 224
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "11 per cent",
+      "start": 351,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "disembarked at Azzawya",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "refugees and migrants",
+      "start": 203,
+      "end": 224
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "14 per cent",
+      "start": 408,
+      "end": 419
+    },
+    "eventDescription": {
+      "text": "nationality among rescued/intercepted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Sudanese",
+      "start": 398,
+      "end": 406
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12 per cent",
+      "start": 432,
+      "end": 443
+    },
+    "eventDescription": {
+      "text": "nationality among rescued/intercepted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Nigerians",
+      "start": 421,
+      "end": 430
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "10 per cent",
+      "start": 460,
+      "end": 471
+    },
+    "eventDescription": {
+      "text": "nationality among rescued/intercepted",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "Eritreans",
+      "start": 449,
+      "end": 458
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "Over 700",
+      "start": 474,
+      "end": 482
+    },
+    "eventDescription": {
+      "text": "lost their lives or were declared missing at sea",
+      "start": 495,
+      "end": 543
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 483,
+      "end": 494
+    },
+    "modifier": {
+      "text": "over",
+      "start": 474,
+      "end": 478
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "9,768",
+      "start": 660,
+      "end": 665
+    },
+    "eventDescription": {
+      "text": "provided at disembarkation points",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "non-food item (NFI) sets",
+      "start": 666,
+      "end": 690
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "1,604",
+      "start": 695,
+      "end": 700
+    },
+    "eventDescription": {
+      "text": "provided at disembarkation points",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "medical consultations",
+      "start": 701,
+      "end": 722
+    }
+  }
+]

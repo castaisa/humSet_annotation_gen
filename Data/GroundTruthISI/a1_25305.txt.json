@@ -1,0 +1,160 @@
+[
+  {
+    "quantity": {
+      "text": "66%",
+      "begin": 145,
+      "end": 148
+    },
+    "eventDescription": {
+      "text": "Multi-sectoral needs in Yobe were most commonly driven",
+      "begin": 0,
+      "end": 54
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "needs for services",
+      "begin": 58,
+      "end": 76
+    }
+  },
+  {
+    "quantity": {
+      "text": "77%",
+      "begin": 91,
+      "end": 94
+    },
+    "unit": {
+      "text": "needs for services",
+      "begin": 58,
+      "end": 76
+    }
+  },
+  {
+    "quantity": {
+      "text": "71%",
+      "begin": 108,
+      "end": 111
+    },
+    "unit": {
+      "text": "needs for services",
+      "begin": 58,
+      "end": 76
+    }
+  },
+  {
+    "quantity": {
+      "text": "57%",
+      "begin": 217,
+      "end": 220
+    },
+    "unit": {
+      "text": "Yobe households",
+      "begin": 224,
+      "end": 239
+    },
+    "eventDescription": {
+      "text": "dual need for services",
+      "begin": 254,
+      "end": 276
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "54%",
+      "begin": 392,
+      "end": 395
+    },
+    "unit": {
+      "text": "Yobe households",
+      "begin": 403,
+      "end": 418
+    },
+    "eventDescription": {
+      "text": "reporting simultaneous food security and education needs",
+      "begin": 419,
+      "end": 475
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "77%",
+      "begin": 587,
+      "end": 590
+    },
+    "unit": {
+      "text": "households",
+      "begin": 594,
+      "end": 604
+    },
+    "eventDescription": {
+      "text": "unmet needs in the education sector",
+      "begin": 610,
+      "end": 645
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "46%",
+      "begin": 647,
+      "end": 650
+    },
+    "unit": {
+      "text": "households",
+      "begin": 594,
+      "end": 604
+    },
+    "eventDescription": {
+      "text": "registered a vulnerability",
+      "begin": 651,
+      "end": 677
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 853,
+      "end": 855
+    },
+    "eventDescription": {
+      "text": "reported the highest percentage of households hosting",
+      "begin": 761,
+      "end": 814
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "separated and unaccompanied children",
+      "begin": 815,
+      "end": 851
+    }
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 853,
+      "end": 855
+    },
+    "eventDescription": {
+      "text": "reported the highest percentage of households hosting",
+      "begin": 761,
+      "end": 814
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "6%",
+      "begin": 853,
+      "end": 855
+    },
+    "eventDescription": {
+      "text": "reported the highest percentage of households hosting",
+      "begin": 761,
+      "end": 814
+    },
+    "eventType": "EventP"
+  }
+]

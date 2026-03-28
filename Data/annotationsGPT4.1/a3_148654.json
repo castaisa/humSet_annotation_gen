@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "656",
+    "unit": "contacts",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "0",
+    "unit": "contacts",
+    "eventType": "EventP",
+    "eventDescription": "identified as new"
+  },
+  {
+    "quantity": "371",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "samples collected from"
+  },
+  {
+    "quantity": "0",
+    "unit": "new contacts",
+    "eventType": "EventP",
+    "eventDescription": "sampled"
+  },
+  {
+    "quantity": "4,611",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "collected"
+  },
+  {
+    "quantity": "2,110",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "collected in Aleppo"
+  },
+  {
+    "quantity": "2,501",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "collected in Idleb"
+  },
+  {
+    "quantity": "4,605",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "tested by RT-PCR"
+  },
+  {
+    "quantity": "6",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "pending"
+  },
+  {
+    "quantity": "79",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "new samples collected in the past 24 hours"
+  },
+  {
+    "quantity": "27",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "collected in Aleppo"
+  },
+  {
+    "quantity": "52",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "collected in Idleb"
+  },
+  {
+    "quantity": "2,523",
+    "unit": "samples",
+    "eventType": "EventA",
+    "eventDescription": "tested since reporting of the first case"
+  },
+  {
+    "quantity": "2.0 per cent",
+    "unit": "test positivity rate",
+    "eventType": "EventA",
+    "eventDescription": "test positivity rate"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "14",
+    "unit": "ventilators",
+    "eventType": "EventA",
+    "eventDescription": "available ventilators"
+  },
+  {
+    "quantity": "24",
+    "unit": "ICU beds",
+    "eventType": "EventA",
+    "eventDescription": "available ICU beds"
+  },
+  {
+    "quantity": "1.5",
+    "unit": "doctors per 10,000 people",
+    "eventType": "EventA",
+    "eventDescription": "doctors per 10,000 people"
+  },
+  {
+    "quantity": "202",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "confirmed COVID-19 cases"
+  },
+  {
+    "quantity": "2,362",
+    "unit": "tests",
+    "eventType": "EventA",
+    "eventDescription": "tests conducted"
+  },
+  {
+    "quantity": "1,606",
+    "unit": "COVID-19 cases",
+    "eventType": "EventP",
+    "eventDescription": "total confirmed COVID-19 cases"
+  },
+  {
+    "quantity": "41",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "COVID-19 related deaths"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "20%",
+    "unit": "discussants",
+    "eventType": "EventP",
+    "eventDescription": "indicated displacement as the problem that most affects the community"
+  },
+  {
+    "quantity": "20%",
+    "unit": "discussants",
+    "eventType": "EventP",
+    "eventDescription": "indicate lack of adequate shelter as the problem that most affects their communities"
+  },
+  {
+    "quantity": "14%",
+    "unit": "discussants",
+    "eventType": "EventP",
+    "eventDescription": "said insecurity is the problem that most affects their community"
+  },
+  {
+    "quantity": "13%",
+    "unit": "discussants",
+    "eventType": "EventP",
+    "eventDescription": "said over population is the problem that most affects the community"
+  },
+  {
+    "quantity": "13%",
+    "unit": "discussants",
+    "eventType": "EventA",
+    "eventDescription": "mentioned insufficient of adequate Non \u2013 food Items (NFIs) as the problems that most affects the community"
+  },
+  {
+    "quantity": "13%",
+    "unit": "discussants",
+    "eventType": "EventA",
+    "eventDescription": "mentioned Lack of facemasks, hand sanitizers, soap and adequate water supplies as the problem that most affects the community"
+  },
+  {
+    "quantity": "7%",
+    "unit": "discussants",
+    "eventType": "EventO",
+    "eventDescription": "demonstrates that restrictions of movement and school closure as a result of COVID 19 are the problems that most affects the community"
+  }
+]

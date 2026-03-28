@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "107",
+    "unit": "SYP / bundle",
+    "eventType": "EventA",
+    "eventDescription": "average price of subsidized bread"
+  },
+  {
+    "quantity": "seven percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in bread price"
+  },
+  {
+    "quantity": "50",
+    "unit": "SYP / bundle",
+    "eventType": "EventA",
+    "eventDescription": "subsidized bread price"
+  },
+  {
+    "quantity": "75",
+    "unit": "SYP / bundle",
+    "eventType": "EventA",
+    "eventDescription": "subsidized bread price (sold without nylon bag)"
+  },
+  {
+    "quantity": "100",
+    "unit": "SYP / bundle",
+    "eventType": "EventA",
+    "eventDescription": "subsidized bread price (sold with nylon bag)"
+  },
+  {
+    "quantity": "1.3kg",
+    "unit": "bundle",
+    "eventType": "EventA",
+    "eventDescription": "weight of bread bundle"
+  },
+  {
+    "quantity": "1.1kg",
+    "unit": "bundle",
+    "eventType": "EventA",
+    "eventDescription": "weight of bread bundle"
+  },
+  {
+    "quantity": "95",
+    "unit": "SYP / bundle",
+    "eventType": "EventA",
+    "eventDescription": "subsidized bread price in Ar-Raqqa"
+  },
+  {
+    "quantity": "107",
+    "unit": "SYP / bundle",
+    "eventType": "EventA",
+    "eventDescription": "subsidized bread price in Ar-Raqqa"
+  }
+]

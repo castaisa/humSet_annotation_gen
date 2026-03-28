@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": {
+      "text": "13.15 per cent",
+      "begin": 127,
+      "end": 141
+    },
+    "unit": {
+      "text": "prices of volatile agricultural produce",
+      "begin": 79,
+      "end": 118
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 119,
+      "end": 123
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "12.72 per cent",
+      "begin": 147,
+      "end": 161
+    },
+    "unit": {
+      "text": "prices of volatile agricultural produce",
+      "begin": 79,
+      "end": 118
+    },
+    "eventDescription": {
+      "text": "rose",
+      "begin": 119,
+      "end": 123
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "1.24 per cent",
+      "begin": 241,
+      "end": 254
+    },
+    "unit": {
+      "text": "core sub-index increased",
+      "begin": 213,
+      "end": 237
+    },
+    "eventDescription": {
+      "text": "core sub-index increased",
+      "begin": 213,
+      "end": 237
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "quantity": {
+      "text": "1.2 million",
+      "begin": 83,
+      "end": 94
+    },
+    "modifier": {
+      "text": "about",
+      "begin": 77,
+      "end": 82
+    },
+    "unit": {
+      "text": "beneficiaries",
+      "begin": 95,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 114,
+      "end": 121
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "one percent",
+      "begin": 163,
+      "end": 174
+    },
+    "unit": {
+      "text": "reached",
+      "begin": 114,
+      "end": 121
+    },
+    "eventDescription": {
+      "text": "higher than the previous month",
+      "begin": 175,
+      "end": 205
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "8.4",
+      "begin": 383,
+      "end": 386
+    },
+    "eventDescription": {
+      "text": "The National Emergency Management Agency (NEMA) provides",
+      "begin": 326,
+      "end": 382
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg of staple food per person per month",
+      "begin": 387,
+      "end": 425
+    }
+  },
+  {
+    "quantity": {
+      "text": "6",
+      "begin": 448,
+      "end": 449
+    },
+    "unit": {
+      "text": "members",
+      "begin": 450,
+      "end": 457
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 461,
+      "end": 469
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "50.4",
+      "begin": 475,
+      "end": 479
+    },
+    "eventDescription": {
+      "text": "provided",
+      "begin": 461,
+      "end": 469
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "kg per month",
+      "begin": 480,
+      "end": 492
+    }
+  },
+  {
+    "quantity": {
+      "text": "22,250",
+      "begin": 717,
+      "end": 723
+    },
+    "modifier": {
+      "text": "over",
+      "begin": 712,
+      "end": 716
+    },
+    "unit": {
+      "text": "IDPs",
+      "begin": 724,
+      "end": 728
+    },
+    "eventDescription": {
+      "text": "received their last food distributions on November 20th and September 12th",
+      "begin": 783,
+      "end": 857
+    },
+    "eventType": "EventA"
+  }
+]

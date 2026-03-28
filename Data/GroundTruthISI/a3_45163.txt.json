@@ -1,0 +1,79 @@
+[
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 229,
+      "end": 230
+    },
+    "eventDescription": {
+      "text": "prevalence of households in need of food assistance",
+      "begin": 10,
+      "end": 61
+    },
+    "eventType": "EventA",
+    "modifier": {
+      "text": "averaging",
+      "begin": 195,
+      "end": 204
+    },
+    "unit": {
+      "text": "severity score",
+      "begin": 207,
+      "end": 221
+    }
+  },
+  {
+    "quantity": {
+      "text": "93%",
+      "begin": 538,
+      "end": 541
+    },
+    "unit": {
+      "text": "IDP households",
+      "begin": 545,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "in need of food aid",
+      "begin": 625,
+      "end": 644
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "92%",
+      "begin": 561,
+      "end": 564
+    },
+    "unit": {
+      "text": "returnee households",
+      "begin": 568,
+      "end": 587
+    },
+    "eventDescription": {
+      "text": "in need of food aid",
+      "begin": 625,
+      "end": 644
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "82%",
+      "begin": 593,
+      "end": 596
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "begin": 600,
+      "end": 624
+    },
+    "eventDescription": {
+      "text": "in need of food aid",
+      "begin": 625,
+      "end": 644
+    },
+    "eventType": "EventA"
+  }
+]

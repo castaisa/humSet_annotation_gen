@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "3",
+    "unit": "regions",
+    "eventType": "EventO",
+    "eventDescription": "connectivity proposal coverage"
+  },
+  {
+    "quantity": "74",
+    "unit": "rural communities",
+    "eventType": "EventP",
+    "eventDescription": "communities to be reached"
+  },
+  {
+    "quantity": "4 990",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "students in urban areas to be reached"
+  },
+  {
+    "quantity": "8.7M",
+    "unit": "students",
+    "eventType": "EventP",
+    "eventDescription": "students to be reached by strategic plan"
+  }
+]

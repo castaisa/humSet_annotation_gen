@@ -1,0 +1,43 @@
+[
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 31,
+      "end": 33
+    },
+    "eventDescription": {
+      "text": "killed",
+      "begin": 15,
+      "end": 21
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "at least",
+      "begin": 22,
+      "end": 30
+    },
+    "unit": {
+      "text": "people",
+      "begin": 34,
+      "end": 40
+    }
+  },
+  {
+    "quantity": {
+      "text": "hundreds of",
+      "begin": 624,
+      "end": 635
+    },
+    "eventDescription": {
+      "text": "showed",
+      "begin": 616,
+      "end": 622
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "burned structures",
+      "begin": 636,
+      "end": 653
+    }
+  }
+]

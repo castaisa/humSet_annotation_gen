@@ -1,0 +1,38 @@
+[
+  {
+    "quantity": {
+      "text": "51 percent",
+      "begin": 162,
+      "end": 172
+    },
+    "eventDescription": {
+      "text": "levels of vulnerability have also gone up",
+      "begin": 66,
+      "end": 107
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "population assessed as moderately or highly vulnerable",
+      "begin": 180,
+      "end": 234
+    }
+  },
+  {
+    "quantity": {
+      "text": "41 percent",
+      "begin": 244,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "levels of vulnerability have also gone up",
+      "begin": 66,
+      "end": 107
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "population assessed as moderately or highly vulnerable",
+      "begin": 180,
+      "end": 234
+    }
+  }
+]

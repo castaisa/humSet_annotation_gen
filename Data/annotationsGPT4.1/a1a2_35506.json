@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "1,762,793",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "remain displaced in camps and host communities"
+  },
+  {
+    "quantity": "24,872",
+    "unit": "new arrivals",
+    "eventType": "EventP",
+    "eventDescription": "recorded in the key hotspots"
+  },
+  {
+    "quantity": "four",
+    "unit": "main triggers",
+    "eventType": "EventO",
+    "eventDescription": "triggers for such movement"
+  }
+]

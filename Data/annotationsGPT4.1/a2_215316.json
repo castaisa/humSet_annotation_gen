@@ -1,0 +1,22 @@
+[
+  {
+    "quantity": "700,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "affected by flooding",
+    "modifier": "More than"
+  },
+  {
+    "quantity": "34",
+    "unit": "counties",
+    "eventType": "EventO",
+    "eventDescription": "affected by flooding"
+  },
+  {
+    "quantity": "90 percent",
+    "unit": "of the flood-affected population",
+    "eventType": "EventP",
+    "eventDescription": "in Jonglei, Lakes, and Unity",
+    "modifier": "Nearly"
+  }
+]

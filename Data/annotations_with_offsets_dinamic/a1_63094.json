@@ -1,0 +1,540 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proportion of malaria cases in the Americas",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.44%",
+      "start": 71,
+      "end": 76
+    },
+    "unit": {
+      "text": "malaria cases",
+      "start": 80,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "malaria cases in the Americas",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "975,700",
+      "start": 95,
+      "end": 102
+    },
+    "unit": {
+      "text": "cases",
+      "start": 103,
+      "end": 108
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "malaria cases reported by WHO in Venezuela",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42%",
+      "start": 124,
+      "end": 127
+    },
+    "unit": {
+      "text": "cases",
+      "start": 137,
+      "end": 142
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "malaria cases reported by WHO in Venezuela",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "519,109",
+      "start": 129,
+      "end": 136
+    },
+    "unit": {
+      "text": "cases",
+      "start": 226,
+      "end": 231
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "countries with autochthonous transmission of malaria in the Americas",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "16",
+      "start": 260,
+      "end": 262
+    },
+    "unit": {
+      "text": "countries",
+      "start": 263,
+      "end": 272
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "proportion of global malaria cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.22%",
+      "start": 460,
+      "end": 465
+    },
+    "unit": {
+      "text": "global cases",
+      "start": 469,
+      "end": 481
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "HIV cases in Venezuela",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 544,
+      "end": 557
+    },
+    "quantity": {
+      "text": "approximately 120,000",
+      "start": 544,
+      "end": 565
+    },
+    "unit": {
+      "text": "cases",
+      "start": 566,
+      "end": 571
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "new HIV infections in Venezuela",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6,500",
+      "start": 580,
+      "end": 585
+    },
+    "unit": {
+      "text": "new infections",
+      "start": 586,
+      "end": 600
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "AIDS-related deaths in Venezuela",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,500",
+      "start": 605,
+      "end": 610
+    },
+    "unit": {
+      "text": "deaths",
+      "start": 611,
+      "end": 617
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "tuberculosis (TB) cases in Venezuela",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "10,185",
+      "start": 1215,
+      "end": 1221
+    },
+    "unit": {
+      "text": "cases",
+      "start": 1003,
+      "end": 1008
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "increase in TB cases compared to 2014",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "41%",
+      "start": 1254,
+      "end": 1257
+    },
+    "unit": {
+      "text": "increase",
+      "start": 1242,
+      "end": 1250
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "TB cases reported in 2014",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6,063",
+      "start": 1297,
+      "end": 1302
+    },
+    "unit": {
+      "text": "cases",
+      "start": 1303,
+      "end": 1308
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "incidence rate of TB",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "32.4",
+      "start": 1342,
+      "end": 1346
+    },
+    "unit": {
+      "text": "per 100,000 inhabitants",
+      "start": 1347,
+      "end": 1370
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "highest TB incidence in years",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 1387,
+      "end": 1396
+    },
+    "quantity": {
+      "text": "more than 40",
+      "start": 1387,
+      "end": 1399
+    },
+    "unit": {
+      "text": "years",
+      "start": 1400,
+      "end": 1405
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age range of males with increased TB cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15",
+      "start": 1455,
+      "end": 1457
+    },
+    "unit": {
+      "text": "years",
+      "start": 1465,
+      "end": 1470
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age range of males with increased TB cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "34",
+      "start": 1462,
+      "end": 1464
+    },
+    "unit": {
+      "text": "years",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "TB cases in two vulnerable groups",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "25 per cent",
+      "start": 1527,
+      "end": 1538
+    },
+    "unit": {
+      "text": "cases",
+      "start": 1546,
+      "end": 1551
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "TB cases in people in prisons",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "15.7%",
+      "start": 1615,
+      "end": 1620
+    },
+    "unit": {
+      "text": "cases",
+      "start": 1703,
+      "end": 1708
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "TB cases in indigenous groups",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6.8%",
+      "start": 1645,
+      "end": 1649
+    },
+    "unit": {
+      "text": "cases",
+      "start": 1732,
+      "end": 1737
+    }
+  },
+  {
+    "eventType": "",
+    "quantity": {
+      "text": "2014",
+      "start": 1660,
+      "end": 1664
+    }
+  },
+  {
+    "eventType": "",
+    "quantity": {
+      "text": "2017",
+      "start": 1669,
+      "end": 1673
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "drug-resistant TB cases (start of period)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "39",
+      "start": 1723,
+      "end": 1725
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "drug-resistant TB cases (end of period)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "79",
+      "start": 1729,
+      "end": 1731
+    },
+    "unit": {
+      "text": "cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "TB/HIV co-infection rate",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4.8%",
+      "start": 1776,
+      "end": 1780
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "association of TB and Diabetes",
+      "start": 1789,
+      "end": 1819
+    },
+    "quantity": {
+      "text": "5%",
+      "start": 1824,
+      "end": 1826
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mortality rate of TB patients",
+      "start": 1875,
+      "end": 1904
+    },
+    "quantity": {
+      "text": "2.2",
+      "start": 1922,
+      "end": 1925
+    },
+    "unit": {
+      "text": "per 100,000 inhabitants",
+      "start": 1926,
+      "end": 1949
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "population suffering from Non-Communicable Diseases",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 1976,
+      "end": 1985
+    },
+    "quantity": {
+      "text": "more than 30%",
+      "start": 1976,
+      "end": 1989
+    },
+    "unit": {
+      "text": "population",
+      "start": 1997,
+      "end": 2007
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children at risk of death due to food shortage",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 2309,
+      "end": 2322
+    },
+    "quantity": {
+      "text": "approximately 280,000",
+      "start": 2309,
+      "end": 2330
+    },
+    "unit": {
+      "text": "children",
+      "start": 2331,
+      "end": 2339
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children presenting different stages of malnutrition",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "50%",
+      "start": 2390,
+      "end": 2393
+    },
+    "unit": {
+      "text": "children",
+      "start": 2397,
+      "end": 2405
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children with severe malnutrition (previous status)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2%",
+      "start": 2513,
+      "end": 2515
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children with severe malnutrition (current status)",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "14%",
+      "start": 2519,
+      "end": 2522
+    }
+  }
+]

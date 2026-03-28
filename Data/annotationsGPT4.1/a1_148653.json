@@ -1,0 +1,110 @@
+[
+  {
+    "quantity": "51",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "identified"
+  },
+  {
+    "quantity": "44",
+    "unit": "recoveries",
+    "eventType": "EventP",
+    "eventDescription": "recovered"
+  },
+  {
+    "quantity": "seven",
+    "unit": "active cases",
+    "eventType": "EventP",
+    "eventDescription": "active"
+  },
+  {
+    "quantity": "one",
+    "unit": "active case",
+    "eventType": "EventP",
+    "eventDescription": "active in Idleb district"
+  },
+  {
+    "quantity": "six",
+    "unit": "active cases",
+    "eventType": "EventP",
+    "eventDescription": "active in northern Aleppo governorate"
+  },
+  {
+    "quantity": "three",
+    "unit": "active cases",
+    "eventType": "EventP",
+    "eventDescription": "active in A\u2019zaz"
+  },
+  {
+    "quantity": "one",
+    "unit": "active case",
+    "eventType": "EventP",
+    "eventDescription": "active in Al Bab"
+  },
+  {
+    "quantity": "one",
+    "unit": "active case",
+    "eventType": "EventP",
+    "eventDescription": "active in Afrin"
+  },
+  {
+    "quantity": "one",
+    "unit": "active case",
+    "eventType": "EventP",
+    "eventDescription": "active in Jebel Saman"
+  },
+  {
+    "quantity": "22",
+    "unit": "healthcare workers",
+    "eventType": "EventP",
+    "eventDescription": "cases among healthcare workers"
+  },
+  {
+    "quantity": "43 per cent",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases among healthcare workers"
+  },
+  {
+    "quantity": "29",
+    "unit": "males",
+    "eventType": "EventP",
+    "eventDescription": "cases among males"
+  },
+  {
+    "quantity": "22",
+    "unit": "females",
+    "eventType": "EventP",
+    "eventDescription": "cases among females"
+  },
+  {
+    "quantity": "32",
+    "unit": "years old",
+    "eventType": "EventP",
+    "eventDescription": "mean age of cases"
+  },
+  {
+    "quantity": "two",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases under five years of age"
+  },
+  {
+    "quantity": "five",
+    "unit": "years of age",
+    "eventType": "EventP",
+    "eventDescription": "age threshold for cases under five"
+  },
+  {
+    "quantity": "two",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "cases over 60 years of age"
+  },
+  {
+    "quantity": "60",
+    "unit": "years of age",
+    "eventType": "EventP",
+    "eventDescription": "age threshold for cases over 60"
+  }
+]

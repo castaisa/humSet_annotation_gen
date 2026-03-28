@@ -1,0 +1,61 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "one and a half",
+      "start": 2347,
+      "end": 2361
+    },
+    "eventDescription": {
+      "text": "increase in the Venezuelan presence",
+      "start": 2305,
+      "end": 2340
+    },
+    "unit": {
+      "text": "years",
+      "start": 2362,
+      "end": 2367
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15",
+      "start": 2509,
+      "end": 2511
+    },
+    "eventDescription": {
+      "text": "present themselves to the health centers weekly",
+      "start": 2529,
+      "end": 2576
+    },
+    "unit": {
+      "text": "Venezuelan women",
+      "start": 2512,
+      "end": 2528
+    },
+    "modifier": {
+      "text": "on average",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "two",
+      "start": 2800,
+      "end": 2803
+    },
+    "eventDescription": {
+      "text": "known by the health facility",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "confirmed cases of multidrug resistant tuberculosis",
+      "start": 2804,
+      "end": 2855
+    }
+  }
+]

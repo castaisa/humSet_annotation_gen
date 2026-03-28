@@ -1,0 +1,94 @@
+[
+  {
+    "quantity": "two percent",
+    "unit": "food basket price",
+    "eventType": "EventO",
+    "eventDescription": "decrease"
+  },
+  {
+    "quantity": "176,471",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "reference food basket price"
+  },
+  {
+    "quantity": "71",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "reference food basket price"
+  },
+  {
+    "quantity": "2,500",
+    "unit": "SYP/USD",
+    "eventType": "EventO",
+    "eventDescription": "official exchange rate"
+  },
+  {
+    "quantity": "26 percent",
+    "unit": "informal exchange rate",
+    "eventType": "EventO",
+    "eventDescription": "improvement"
+  },
+  {
+    "quantity": "Eight",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "recorded a decreasing average reference food basket price"
+  },
+  {
+    "quantity": "17 percent",
+    "unit": "food basket price",
+    "eventType": "EventO",
+    "eventDescription": "decrease",
+    "modifier": "highest"
+  },
+  {
+    "quantity": "183,563",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "reference food basket price"
+  },
+  {
+    "quantity": "16 percent",
+    "unit": "food basket price",
+    "eventType": "EventO",
+    "eventDescription": "decrease"
+  },
+  {
+    "quantity": "127,870",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "reference food basket price"
+  },
+  {
+    "quantity": "six",
+    "unit": "governorates",
+    "eventType": "EventO",
+    "eventDescription": "recorded an increasing reference food basket price"
+  },
+  {
+    "quantity": "11 percent",
+    "unit": "food basket price",
+    "eventType": "EventO",
+    "eventDescription": "increase",
+    "modifier": "highest"
+  },
+  {
+    "quantity": "181,118",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "reference food basket price"
+  },
+  {
+    "quantity": "nine percent",
+    "unit": "food basket price",
+    "eventType": "EventO",
+    "eventDescription": "increase"
+  },
+  {
+    "quantity": "180,589",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "reference food basket price"
+  }
+]

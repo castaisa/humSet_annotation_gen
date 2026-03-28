@@ -1,0 +1,26 @@
+[
+  {
+    "quantity": "115",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "screened"
+  },
+  {
+    "quantity": "6-59",
+    "unit": "months of age",
+    "eventType": "EventP",
+    "eventDescription": "age range of children screened"
+  },
+  {
+    "quantity": "eight",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "at risk of acute malnutrition"
+  },
+  {
+    "quantity": "7 percent",
+    "unit": "of the total",
+    "eventType": "EventP",
+    "eventDescription": "at risk of acute malnutrition"
+  }
+]

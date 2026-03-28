@@ -1,0 +1,128 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "48,878",
+      "start": 167,
+      "end": 173
+    },
+    "eventDescription": {
+      "text": "sensitized on COVID-19 prevention",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "males",
+      "start": 174,
+      "end": 179
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "114,959",
+      "start": 184,
+      "end": 191
+    },
+    "eventDescription": {
+      "text": "sensitized on COVID-19 prevention",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "females",
+      "start": 192,
+      "end": 199
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "278",
+      "start": 201,
+      "end": 204
+    },
+    "eventDescription": {
+      "text": "provided integrated nutrition services",
+      "start": 240,
+      "end": 278
+    },
+    "unit": {
+      "text": "UNICEF-supported health facilities",
+      "start": 205,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "40,152",
+      "start": 303,
+      "end": 309
+    },
+    "eventDescription": {
+      "text": "admitted for treatment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "boys and girls aged 6-59 months with SAM",
+      "start": 310,
+      "end": 350
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "five",
+      "start": 579,
+      "end": 583
+    },
+    "eventDescription": {
+      "text": "conducted mother to mother support group meetings",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "LGAs",
+      "start": 584,
+      "end": 588
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "643",
+      "start": 623,
+      "end": 626
+    },
+    "eventDescription": {
+      "text": "reached through support group meetings",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "males",
+      "start": 627,
+      "end": 632
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4,107",
+      "start": 637,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "reached through support group meetings",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "females",
+      "start": 643,
+      "end": 650
+    }
+  }
+]

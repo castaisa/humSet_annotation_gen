@@ -1,0 +1,90 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "7.57%",
+      "start": 131,
+      "end": 136
+    },
+    "eventDescription": {
+      "text": "overall public expenditure reduced",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "26.26%",
+      "start": 169,
+      "end": 175
+    },
+    "eventDescription": {
+      "text": "ADP expenditure reduced",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "1.28%",
+      "start": 216,
+      "end": 221
+    },
+    "eventDescription": {
+      "text": "other expenditure reduced",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "23",
+      "start": 644,
+      "end": 646
+    },
+    "eventDescription": {
+      "text": "stimulus packages rolled out",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "stimulus packages",
+      "start": 647,
+      "end": 664
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "Tk1,24,053 crore",
+      "start": 690,
+      "end": 706
+    },
+    "eventDescription": {
+      "text": "total sum of stimulus packages",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "4.4%",
+      "start": 722,
+      "end": 726
+    },
+    "eventDescription": {
+      "text": "stimulus packages as percentage of GDP",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the country’s GDP",
+      "start": 727,
+      "end": 747
+    }
+  }
+]

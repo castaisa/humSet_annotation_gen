@@ -1,0 +1,62 @@
+[
+  {
+    "quantity": "13104",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "reached with Hygiene Promotion Sessions and Cleaning campaign"
+  },
+  {
+    "quantity": "1,450,000",
+    "unit": "liters of safe water",
+    "eventType": "EventA",
+    "eventDescription": "supplied"
+  },
+  {
+    "quantity": "11",
+    "unit": "boreholes",
+    "eventType": "EventA",
+    "eventDescription": "routine chlorination"
+  },
+  {
+    "quantity": "6",
+    "unit": "hand pumps",
+    "eventType": "EventA",
+    "eventDescription": "routine chlorination"
+  },
+  {
+    "quantity": "245,000",
+    "unit": "liters of water",
+    "eventType": "EventA",
+    "eventDescription": "supplied"
+  },
+  {
+    "quantity": "6",
+    "unit": "blocks of latrine",
+    "eventType": "EventA",
+    "eventDescription": "rehabilitated"
+  },
+  {
+    "quantity": "6",
+    "unit": "blocks of bathroom",
+    "eventType": "EventA",
+    "eventDescription": "rehabilitated"
+  },
+  {
+    "quantity": "40",
+    "unit": "blocks of latrine",
+    "eventType": "EventA",
+    "eventDescription": "disinfected"
+  },
+  {
+    "quantity": "1,115",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "reached with hygiene promotion messaging"
+  },
+  {
+    "quantity": "1,778",
+    "unit": "individuals",
+    "eventType": "EventP",
+    "eventDescription": "reached through area cleaning campaign"
+  }
+]

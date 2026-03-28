@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "10.5 per cent",
+    "unit": "fall in the average actual income",
+    "eventType": "EventO",
+    "eventDescription": "reported decrease in income"
+  },
+  {
+    "quantity": "1.5 million",
+    "unit": "jobs",
+    "eventType": "EventP",
+    "eventDescription": "jobs lost"
+  },
+  {
+    "quantity": "12.7 per cent",
+    "unit": "GDP contraction",
+    "eventType": "EventO",
+    "eventDescription": "predicted GDP contraction"
+  }
+]

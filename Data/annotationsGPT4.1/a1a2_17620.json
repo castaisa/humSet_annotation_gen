@@ -1,0 +1,86 @@
+[
+  {
+    "quantity": "18,815",
+    "unit": "children and care-givers",
+    "eventType": "EventP",
+    "eventDescription": "provided psycho-social support services"
+  },
+  {
+    "quantity": "1,106",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "received psycho-social support services"
+  },
+  {
+    "quantity": "705",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "received psycho-social support services"
+  },
+  {
+    "quantity": "11,801",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "received psycho-social support services"
+  },
+  {
+    "quantity": "5,203",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "received psycho-social support services"
+  },
+  {
+    "quantity": "18,815",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "attended mine risk awareness sessions"
+  },
+  {
+    "quantity": "146",
+    "unit": "children",
+    "eventType": "EventP",
+    "eventDescription": "received case management services"
+  },
+  {
+    "quantity": "76",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "received case management services"
+  },
+  {
+    "quantity": "70",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "received case management services"
+  },
+  {
+    "quantity": "46,778",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached by mine risk education awareness sessions"
+  },
+  {
+    "quantity": "15,336",
+    "unit": "girls",
+    "eventType": "EventP",
+    "eventDescription": "reached by mine risk education awareness sessions"
+  },
+  {
+    "quantity": "14,438",
+    "unit": "boys",
+    "eventType": "EventP",
+    "eventDescription": "reached by mine risk education awareness sessions"
+  },
+  {
+    "quantity": "11,801",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "reached by mine risk education awareness sessions"
+  },
+  {
+    "quantity": "5,203",
+    "unit": "men",
+    "eventType": "EventP",
+    "eventDescription": "reached by mine risk education awareness sessions"
+  }
+]

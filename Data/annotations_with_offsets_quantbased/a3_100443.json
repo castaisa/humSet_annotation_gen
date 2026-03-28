@@ -1,0 +1,115 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "at least 201,168",
+      "start": 67,
+      "end": 83
+    },
+    "eventDescription": {
+      "text": "newly displaced",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 84,
+      "end": 95
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 67,
+      "end": 75
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "172,541",
+      "start": 159,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "IDPs prior to Round 24",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 130,
+      "end": 134
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "373,709",
+      "start": 188,
+      "end": 195
+    },
+    "eventDescription": {
+      "text": "IDPs in Round 29",
+      "start": 196,
+      "end": 212
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 196,
+      "end": 200
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "149,315",
+      "start": 285,
+      "end": 292
+    },
+    "eventDescription": {
+      "text": "displaced from Tripoli and surrounding areas",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDPs",
+      "start": 293,
+      "end": 297
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "29,666",
+      "start": 340,
+      "end": 346
+    },
+    "eventDescription": {
+      "text": "displaced from Murzuq in Southern Libya",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "new IDPs",
+      "start": 347,
+      "end": 355
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4,650",
+      "start": 432,
+      "end": 437
+    },
+    "eventDescription": {
+      "text": "displaced from Abu Gurayn & Sirt in Western Libya",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "new IDPs",
+      "start": 438,
+      "end": 446
+    }
+  }
+]

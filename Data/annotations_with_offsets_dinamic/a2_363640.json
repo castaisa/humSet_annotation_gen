@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Acute Respiratory Infection cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4,996",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "cases",
+      "start": 90,
+      "end": 95
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Acute Diarrheal Disease cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3,355",
+      "start": 228,
+      "end": 233
+    },
+    "unit": {
+      "text": "cases",
+      "start": 234,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "Malaria cases",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "2,698",
+      "start": 319,
+      "end": 324
+    },
+    "unit": {
+      "text": "case",
+      "start": 311,
+      "end": 315
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "referred",
+      "start": 765,
+      "end": 773
+    },
+    "quantity": {
+      "text": "65",
+      "start": 748,
+      "end": 750
+    },
+    "unit": {
+      "text": "patients",
+      "start": 700,
+      "end": 708
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "discharged",
+      "start": 783,
+      "end": 793
+    },
+    "quantity": {
+      "text": "50",
+      "start": 775,
+      "end": 777
+    },
+    "unit": {
+      "text": "patients",
+      "start": 751,
+      "end": 759
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "still on admission",
+      "start": 811,
+      "end": 829
+    },
+    "quantity": {
+      "text": "15",
+      "start": 799,
+      "end": 801
+    },
+    "unit": {
+      "text": "patients",
+      "start": 802,
+      "end": 810
+    }
+  }
+]

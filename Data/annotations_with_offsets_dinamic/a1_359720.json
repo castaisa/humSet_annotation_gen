@@ -1,0 +1,308 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "age range of children",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "6-59",
+      "start": 82,
+      "end": 86
+    },
+    "unit": {
+      "text": "months",
+      "start": 87,
+      "end": 93
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence of acute malnutrition in Ukhiya by WHZ",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9.9%",
+      "start": 157,
+      "end": 161
+    },
+    "unit": {
+      "text": "children",
+      "start": 226,
+      "end": 234
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence of acute malnutrition in Ukhiya by MUAC",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "0.7%",
+      "start": 165,
+      "end": 169
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence of acute malnutrition in Teknaf by WHZ",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "8.9%",
+      "start": 183,
+      "end": 187
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "prevalence of acute malnutrition in Teknaf by MUAC",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3.5%",
+      "start": 191,
+      "end": 195
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases of acute malnutrition in Ukhiya",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43",
+      "start": 445,
+      "end": 447
+    },
+    "unit": {
+      "text": "cases",
+      "start": 409,
+      "end": 414
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "cases of acute malnutrition in Teknaf",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42",
+      "start": 456,
+      "end": 458
+    },
+    "unit": {
+      "text": "cases",
+      "start": 485,
+      "end": 490
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM cases identified by both WHZ and MUAC in Ukhiya",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "7.0%",
+      "start": 466,
+      "end": 470
+    },
+    "unit": {
+      "text": "GAM cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "GAM cases identified by both WHZ and MUAC in Teknaf",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "26.2%",
+      "start": 475,
+      "end": 480
+    },
+    "unit": {
+      "text": "GAM cases",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children acutely malnourished by WHZ only in Ukhiya",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "93.0%",
+      "start": 620,
+      "end": 625
+    },
+    "unit": {
+      "text": "children",
+      "start": 610,
+      "end": 618
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children acutely malnourished by WHZ only in Teknaf",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "64.3%",
+      "start": 640,
+      "end": 645
+    },
+    "unit": {
+      "text": "children",
+      "start": 759,
+      "end": 767
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children acutely malnourished by WHZ only in Ukhiya",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40",
+      "start": 707,
+      "end": 709
+    },
+    "unit": {
+      "text": "children",
+      "start": 1012,
+      "end": 1020
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children acutely malnourished by WHZ only in Teknaf",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "27",
+      "start": 727,
+      "end": 729
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children acutely malnourished by MUAC only in Teknaf",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "9.5%",
+      "start": 769,
+      "end": 773
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "children acutely malnourished by MUAC only in Teknaf",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "4",
+      "start": 844,
+      "end": 845
+    },
+    "unit": {
+      "text": "children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acutely malnourished children in Ukhiya undiagnosed or undetected by MUAC only",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "93.0%",
+      "start": 985,
+      "end": 990
+    },
+    "unit": {
+      "text": "acutely malnourished children",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "acutely malnourished children in Teknaf undiagnosed or undetected by MUAC only",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "64.3%",
+      "start": 1035,
+      "end": 1040
+    },
+    "unit": {
+      "text": "acutely malnourished children",
+      "start": null,
+      "end": null
+    }
+  }
+]

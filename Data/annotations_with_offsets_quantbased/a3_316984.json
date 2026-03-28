@@ -1,0 +1,84 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "five",
+      "start": 250,
+      "end": 254
+    },
+    "eventDescription": {
+      "text": "more likely than women to hold a leadership position",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "times",
+      "start": 255,
+      "end": 260
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "3 percent",
+      "start": 348,
+      "end": 357
+    },
+    "eventDescription": {
+      "text": "hold leadership positions",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the women who are in cooperatives",
+      "start": 358,
+      "end": 394
+    },
+    "modifier": {
+      "text": "about",
+      "start": 342,
+      "end": 347
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15 percent",
+      "start": 422,
+      "end": 432
+    },
+    "eventDescription": {
+      "text": "have some leadership roles",
+      "start": 461,
+      "end": 487
+    },
+    "unit": {
+      "text": "of male cooperative members",
+      "start": 433,
+      "end": 460
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "25 percent",
+      "start": 569,
+      "end": 579
+    },
+    "eventDescription": {
+      "text": "held by women",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "of the executive posts",
+      "start": 580,
+      "end": 602
+    },
+    "modifier": {
+      "text": "less than",
+      "start": 559,
+      "end": 568
+    }
+  }
+]

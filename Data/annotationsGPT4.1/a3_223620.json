@@ -1,0 +1,14 @@
+[
+  {
+    "quantity": "10 percent",
+    "unit": "livestock production",
+    "eventType": "EventO",
+    "eventDescription": "decrease in livestock production"
+  },
+  {
+    "quantity": "60 percent",
+    "unit": "livestock production",
+    "eventType": "EventO",
+    "eventDescription": "decrease in livestock production"
+  }
+]

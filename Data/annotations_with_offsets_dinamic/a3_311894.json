@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "assisted",
+      "start": 136,
+      "end": 144
+    },
+    "quantity": {
+      "text": "37,837",
+      "start": 145,
+      "end": 151
+    },
+    "unit": {
+      "text": "schoolchildren",
+      "start": 152,
+      "end": 166
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "benefiting from take-home rations",
+      "start": 190,
+      "end": 223
+    },
+    "quantity": {
+      "text": "3,510",
+      "start": 178,
+      "end": 183
+    },
+    "unit": {
+      "text": "girls",
+      "start": 184,
+      "end": 189
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "assisted",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "127",
+      "start": 228,
+      "end": 231
+    },
+    "unit": {
+      "text": "schools",
+      "start": 232,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "targeted in schools",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "at least",
+      "start": 354,
+      "end": 362
+    },
+    "quantity": {
+      "text": "10 percent",
+      "start": 363,
+      "end": 373
+    },
+    "unit": {
+      "text": "of displaced students",
+      "start": 374,
+      "end": 395
+    }
+  }
+]

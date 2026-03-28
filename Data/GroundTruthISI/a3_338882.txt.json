@@ -1,0 +1,200 @@
+[
+  {
+    "quantity": {
+      "text": "1,260",
+      "begin": 130,
+      "end": 135
+    },
+    "eventDescription": {
+      "text": "visited",
+      "begin": 122,
+      "end": 129
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "households",
+      "begin": 136,
+      "end": 146
+    }
+  },
+  {
+    "quantity": {
+      "text": "7,411",
+      "begin": 148,
+      "end": 153
+    },
+    "unit": {
+      "text": "persons",
+      "begin": 154,
+      "end": 161
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 167,
+      "end": 174
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "1,710",
+      "begin": 201,
+      "end": 206
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 167,
+      "end": 174
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "men",
+      "begin": 207,
+      "end": 210
+    }
+  },
+  {
+    "quantity": {
+      "text": "2,461",
+      "begin": 212,
+      "end": 217
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 167,
+      "end": 174
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "women",
+      "begin": 218,
+      "end": 223
+    }
+  },
+  {
+    "quantity": {
+      "text": "1, 411",
+      "begin": 225,
+      "end": 231
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 167,
+      "end": 174
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "boys",
+      "begin": 232,
+      "end": 236
+    }
+  },
+  {
+    "quantity": {
+      "text": "1,829",
+      "begin": 241,
+      "end": 246
+    },
+    "eventDescription": {
+      "text": "reached",
+      "begin": 167,
+      "end": 174
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "girls",
+      "begin": 247,
+      "end": 252
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 572,
+      "end": 574
+    },
+    "eventDescription": {
+      "text": "Ongoing daily broadcast",
+      "begin": 545,
+      "end": 568
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "jingles per day in Radio Nigeria Fombina FM",
+      "begin": 575,
+      "end": 618
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 620,
+      "end": 622
+    },
+    "eventDescription": {
+      "text": "Ongoing daily broadcast",
+      "begin": 545,
+      "end": 568
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "jingles per day by Gotel Radio",
+      "begin": 623,
+      "end": 653
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 655,
+      "end": 657
+    },
+    "eventDescription": {
+      "text": "Ongoing daily broadcast",
+      "begin": 545,
+      "end": 568
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "jingles per day by ABC Radio",
+      "begin": 658,
+      "end": 686
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 688,
+      "end": 689
+    },
+    "eventDescription": {
+      "text": "Ongoing daily broadcast",
+      "begin": 545,
+      "end": 568
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "jingles per day by Pulaako FM",
+      "begin": 690,
+      "end": 719
+    }
+  },
+  {
+    "quantity": {
+      "text": "5",
+      "begin": 724,
+      "end": 725
+    },
+    "eventDescription": {
+      "text": "Ongoing daily broadcast",
+      "begin": 545,
+      "end": 568
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "TV jingles per day in Adamawa State Television",
+      "begin": 726,
+      "end": 772
+    }
+  }
+]

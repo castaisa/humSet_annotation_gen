@@ -1,0 +1,362 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "twelve",
+      "start": 11,
+      "end": 17
+    },
+    "eventDescription": {
+      "text": "active isolation sites",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "community isolation sites",
+      "start": 18,
+      "end": 43
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "30",
+      "start": 58,
+      "end": 60
+    },
+    "eventDescription": {
+      "text": "beds in Abbassiyeh isolation site",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 61,
+      "end": 65
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "18",
+      "start": 80,
+      "end": 82
+    },
+    "eventDescription": {
+      "text": "beds in Ain w Zain isolation site",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 83,
+      "end": 87
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "40",
+      "start": 99,
+      "end": 101
+    },
+    "eventDescription": {
+      "text": "beds in Al Aziz isolation site",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 102,
+      "end": 106
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "48",
+      "start": 115,
+      "end": 117
+    },
+    "eventDescription": {
+      "text": "beds in Ayha isolation site",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 118,
+      "end": 122
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "80",
+      "start": 153,
+      "end": 155
+    },
+    "eventDescription": {
+      "text": "beds in Lebanese Canadian Hospital isolation site",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 156,
+      "end": 160
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "42",
+      "start": 186,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "beds in Maad Isolation Centre",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 189,
+      "end": 193
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "20",
+      "start": 222,
+      "end": 224
+    },
+    "eventDescription": {
+      "text": "beds in Mraijat Isolation Centre",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 225,
+      "end": 229
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "40",
+      "start": 255,
+      "end": 257
+    },
+    "eventDescription": {
+      "text": "beds in Qana Isolation centre",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 258,
+      "end": 262
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "101",
+      "start": 285,
+      "end": 288
+    },
+    "eventDescription": {
+      "text": "beds in Quality Inn Maarad",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 289,
+      "end": 293
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "58",
+      "start": 313,
+      "end": 315
+    },
+    "eventDescription": {
+      "text": "beds in Tayouneh centre",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 316,
+      "end": 320
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "50",
+      "start": 343,
+      "end": 345
+    },
+    "eventDescription": {
+      "text": "beds in Tal Hayat Mokayteh",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 346,
+      "end": 350
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "29",
+      "start": 364,
+      "end": 366
+    },
+    "eventDescription": {
+      "text": "beds in Wardanieh",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "beds",
+      "start": 367,
+      "end": 371
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "102",
+      "start": 419,
+      "end": 422
+    },
+    "eventDescription": {
+      "text": "occupied beds",
+      "start": 1067,
+      "end": 1080
+    },
+    "unit": {
+      "text": "beds",
+      "start": 423,
+      "end": 427
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "556",
+      "start": 444,
+      "end": 447
+    },
+    "eventDescription": {
+      "text": "available beds",
+      "start": 448,
+      "end": 462
+    },
+    "unit": {
+      "text": "beds",
+      "start": 458,
+      "end": 462
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "three",
+      "start": 516,
+      "end": 521
+    },
+    "eventDescription": {
+      "text": "new outbreaks reported",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "elderly homes",
+      "start": 522,
+      "end": 535
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "three",
+      "start": 676,
+      "end": 681
+    },
+    "eventDescription": {
+      "text": "facilities supported to contain outbreaks",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "facilities",
+      "start": 682,
+      "end": 692
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "83 per cent",
+      "start": 1050,
+      "end": 1061
+    },
+    "eventDescription": {
+      "text": "ICU bed occupancy rate",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "occupancy rate",
+      "start": 988,
+      "end": 1002
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "382",
+      "start": 1063,
+      "end": 1066
+    },
+    "eventDescription": {
+      "text": "occupied ICU beds",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "occupied beds",
+      "start": 1067,
+      "end": 1080
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "464",
+      "start": 1099,
+      "end": 1102
+    },
+    "eventDescription": {
+      "text": "dedicated ICU beds",
+      "start": 1103,
+      "end": 1121
+    },
+    "unit": {
+      "text": "ICU beds",
+      "start": 1113,
+      "end": 1121
+    }
+  }
+]

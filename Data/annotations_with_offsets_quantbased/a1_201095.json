@@ -1,0 +1,69 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "15,755",
+      "start": 19,
+      "end": 25
+    },
+    "eventDescription": {
+      "text": "treated with severe acute malnutrition (SAM)",
+      "start": 40,
+      "end": 84
+    },
+    "unit": {
+      "text": "children",
+      "start": 26,
+      "end": 34
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "21,340",
+      "start": 469,
+      "end": 475
+    },
+    "eventDescription": {
+      "text": "reached with preventative services through supplementary nutrition services",
+      "start": 389,
+      "end": 464
+    },
+    "unit": {
+      "text": "pregnant and lactating women",
+      "start": 360,
+      "end": 388
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "93,561",
+      "start": 636,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "receiving appropriate counselling on infant and young child feeding",
+      "start": 542,
+      "end": 609
+    },
+    "unit": {
+      "text": "primary caregivers of children under two years",
+      "start": 495,
+      "end": 541
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "13.4 per cent",
+      "start": 678,
+      "end": 691
+    },
+    "eventDescription": {
+      "text": "surpassed the annual target",
+      "start": 647,
+      "end": 674
+    }
+  }
+]

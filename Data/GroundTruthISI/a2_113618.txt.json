@@ -1,0 +1,80 @@
+[
+  {
+    "quantity": {
+      "text": "600 million",
+      "begin": 61,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "support small holder farmers",
+      "begin": 147,
+      "end": 175
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "PEN",
+      "begin": 57,
+      "end": 60
+    }
+  },
+  {
+    "quantity": {
+      "text": "175 million",
+      "begin": 92,
+      "end": 103
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 88,
+      "end": 91
+    }
+  },
+  {
+    "quantity": {
+      "text": "760",
+      "begin": 730,
+      "end": 733
+    },
+    "eventDescription": {
+      "text": "Government also increased social spending",
+      "begin": 640,
+      "end": 681
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "PEN",
+      "begin": 726,
+      "end": 729
+    }
+  },
+  {
+    "quantity": {
+      "text": "1 million",
+      "begin": 753,
+      "end": 762
+    },
+    "eventDescription": {
+      "text": "Government also increased social spending",
+      "begin": 640,
+      "end": 681
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "households",
+      "begin": 780,
+      "end": 790
+    }
+  },
+  {
+    "quantity": {
+      "text": "220",
+      "begin": 745,
+      "end": 748
+    },
+    "unit": {
+      "text": "USD",
+      "begin": 741,
+      "end": 744
+    }
+  }
+]

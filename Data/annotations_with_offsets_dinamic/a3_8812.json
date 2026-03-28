@@ -1,0 +1,66 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "escaped captivity",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 55,
+      "end": 68
+    },
+    "quantity": {
+      "text": "140",
+      "start": 69,
+      "end": 72
+    },
+    "unit": {
+      "text": "individuals",
+      "start": 73,
+      "end": 84
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "sought refuge",
+      "start": 223,
+      "end": 236
+    },
+    "quantity": {
+      "text": "51",
+      "start": 259,
+      "end": 261
+    },
+    "unit": {
+      "text": "Mosque",
+      "start": 252,
+      "end": 258
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "severely injured and brought to hospital",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "approximately",
+      "start": 299,
+      "end": 312
+    },
+    "quantity": {
+      "text": "two dozen",
+      "start": 313,
+      "end": 322
+    },
+    "unit": {
+      "text": "persons",
+      "start": 340,
+      "end": 347
+    }
+  }
+]

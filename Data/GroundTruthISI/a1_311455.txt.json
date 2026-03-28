@@ -1,0 +1,164 @@
+[
+  {
+    "quantity": {
+      "text": "1,211",
+      "begin": 56,
+      "end": 61
+    },
+    "eventDescription": {
+      "text": "UNHCR and CONAREF facilitated the relocation",
+      "begin": 8,
+      "end": 52
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "refugees and asylum-seekers",
+      "begin": 62,
+      "end": 89
+    }
+  },
+  {
+    "quantity": {
+      "text": "5,250",
+      "begin": 230,
+      "end": 235
+    },
+    "unit": {
+      "text": "refugees",
+      "begin": 236,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "relocated to the s",
+      "begin": 245,
+      "end": 263
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "490",
+      "begin": 353,
+      "end": 356
+    },
+    "eventDescription": {
+      "text": "UNHCR and its partners supported",
+      "begin": 310,
+      "end": 342
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "emergency shelters",
+      "begin": 357,
+      "end": 375
+    }
+  },
+  {
+    "quantity": {
+      "text": "115",
+      "begin": 468,
+      "end": 471
+    },
+    "eventDescription": {
+      "text": "UNHCR’s health partners distributed",
+      "begin": 432,
+      "end": 467
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "hand-washing devices",
+      "begin": 472,
+      "end": 492
+    }
+  },
+  {
+    "quantity": {
+      "text": "100",
+      "begin": 497,
+      "end": 500
+    },
+    "eventDescription": {
+      "text": "UNHCR’s health partners distributed",
+      "begin": 432,
+      "end": 467
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "cartons of soap",
+      "begin": 501,
+      "end": 516
+    }
+  },
+  {
+    "quantity": {
+      "text": "500",
+      "begin": 531,
+      "end": 534
+    },
+    "unit": {
+      "text": "families",
+      "begin": 535,
+      "end": 543
+    },
+    "eventDescription": {
+      "text": "were supported",
+      "begin": 610,
+      "end": 624
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "440",
+      "begin": 555,
+      "end": 558
+    },
+    "unit": {
+      "text": "refugee",
+      "begin": 568,
+      "end": 575
+    },
+    "eventDescription": {
+      "text": "were supported",
+      "begin": 610,
+      "end": 624
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "60",
+      "begin": 580,
+      "end": 582
+    },
+    "unit": {
+      "text": "host communities",
+      "begin": 592,
+      "end": 608
+    },
+    "eventDescription": {
+      "text": "were supported",
+      "begin": 610,
+      "end": 624
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 635,
+      "end": 637
+    },
+    "eventDescription": {
+      "text": "were supported",
+      "begin": 610,
+      "end": 624
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "goats",
+      "begin": 638,
+      "end": 643
+    }
+  }
+]

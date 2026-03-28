@@ -1,0 +1,200 @@
+[
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30",
+      "start": 70,
+      "end": 72
+    },
+    "eventDescription": {
+      "text": "period prior to the assessment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 73,
+      "end": 77
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "75.1%",
+      "start": 107,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "reporting spending their savings as a coping mechanism",
+      "start": 113,
+      "end": 167
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 0,
+      "end": 14
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "12.2%",
+      "start": 245,
+      "end": 250
+    },
+    "eventDescription": {
+      "text": "having already exhausted this strategy",
+      "start": 202,
+      "end": 240
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 0,
+      "end": 14
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "57.5%",
+      "start": 358,
+      "end": 363
+    },
+    "eventDescription": {
+      "text": "having used this strategy",
+      "start": 318,
+      "end": 343
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": 293,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "4.8%",
+      "start": 375,
+      "end": 379
+    },
+    "eventDescription": {
+      "text": "having already exhausted it",
+      "start": 380,
+      "end": 407
+    },
+    "unit": {
+      "text": "non-displaced households",
+      "start": 293,
+      "end": 317
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "23.6%",
+      "start": 440,
+      "end": 445
+    },
+    "eventDescription": {
+      "text": "have spent savings",
+      "start": 470,
+      "end": 488
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 450,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "13.9%",
+      "start": 494,
+      "end": 499
+    },
+    "eventDescription": {
+      "text": "had already exhausted them",
+      "start": 500,
+      "end": 526
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 450,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "54.7%",
+      "start": 608,
+      "end": 613
+    },
+    "eventDescription": {
+      "text": "reported selling gold as a coping strategy",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "returnee households",
+      "start": 450,
+      "end": 469
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "53.8%",
+      "start": 627,
+      "end": 632
+    },
+    "eventDescription": {
+      "text": "reported selling gold as a coping strategy",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "nondisplaced households",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "41.6%",
+      "start": 653,
+      "end": 658
+    },
+    "eventDescription": {
+      "text": "reported selling gold as a coping strategy",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "IDP households",
+      "start": 662,
+      "end": 676
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "30",
+      "start": 706,
+      "end": 708
+    },
+    "eventDescription": {
+      "text": "period prior to the assessment",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "days",
+      "start": 709,
+      "end": 713
+    }
+  }
+]

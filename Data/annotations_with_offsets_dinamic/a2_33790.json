@@ -1,0 +1,43 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "killed",
+      "start": null,
+      "end": null
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 278,
+      "end": 287
+    },
+    "quantity": {
+      "text": "more than 1,000",
+      "start": 278,
+      "end": 293
+    },
+    "unit": {
+      "text": "dead",
+      "start": 294,
+      "end": 298
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "kidnapped",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "276",
+      "start": 838,
+      "end": 841
+    },
+    "unit": {
+      "text": "schoolgirls",
+      "start": 842,
+      "end": 853
+    }
+  }
+]

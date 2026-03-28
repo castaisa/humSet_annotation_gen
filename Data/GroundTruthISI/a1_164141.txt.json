@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": {
+      "text": "13",
+      "begin": 35,
+      "end": 37
+    },
+    "eventDescription": {
+      "text": "new cases of the Coronavirus",
+      "begin": 38,
+      "end": 66
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "new cases of the Coronavirus",
+      "begin": 38,
+      "end": 66
+    }
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 90,
+      "end": 91
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 92,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 103,
+      "end": 114
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 126,
+      "end": 129
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 92,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 103,
+      "end": 114
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 143,
+      "end": 146
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 92,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 103,
+      "end": 114
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 156,
+      "end": 159
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 92,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 103,
+      "end": 114
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 174,
+      "end": 177
+    },
+    "unit": {
+      "text": "cases",
+      "begin": 92,
+      "end": 97
+    },
+    "eventDescription": {
+      "text": "distributed",
+      "begin": 103,
+      "end": 114
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "151",
+      "begin": 325,
+      "end": 328
+    },
+    "unit": {
+      "text": "number of casualties",
+      "begin": 257,
+      "end": 277
+    },
+    "eventDescription": {
+      "text": "has risen",
+      "begin": 312,
+      "end": 321
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "two",
+      "begin": 344,
+      "end": 347
+    },
+    "eventDescription": {
+      "text": "has risen",
+      "begin": 312,
+      "end": 321
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "doctors",
+      "begin": 348,
+      "end": 355
+    }
+  },
+  {
+    "quantity": {
+      "text": "58",
+      "begin": 389,
+      "end": 391
+    },
+    "eventDescription": {
+      "text": "has risen",
+      "begin": 312,
+      "end": 321
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "people",
+      "begin": 392,
+      "end": 398
+    }
+  },
+  {
+    "quantity": {
+      "text": "91",
+      "begin": 534,
+      "end": 536
+    },
+    "eventDescription": {
+      "text": "infected",
+      "begin": 537,
+      "end": 545
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "infected",
+      "begin": 537,
+      "end": 545
+    }
+  }
+]

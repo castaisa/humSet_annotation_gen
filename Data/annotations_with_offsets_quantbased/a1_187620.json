@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "five",
+      "start": 41,
+      "end": 45
+    },
+    "eventDescription": {
+      "text": "age of children",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "years",
+      "start": 46,
+      "end": 51
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "25",
+      "start": 186,
+      "end": 188
+    },
+    "eventDescription": {
+      "text": "provinces above emergency level threshold",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 199,
+      "end": 208
+    }
+  },
+  {
+    "eventType": "EventO",
+    "quantity": {
+      "text": "34",
+      "start": 196,
+      "end": 198
+    },
+    "eventDescription": {
+      "text": "total provinces surveyed",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "provinces",
+      "start": 199,
+      "end": 208
+    }
+  }
+]

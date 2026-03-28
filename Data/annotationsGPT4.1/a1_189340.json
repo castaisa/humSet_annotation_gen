@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "one billion",
+    "unit": "col\u00f3n",
+    "eventType": "EventA",
+    "eventDescription": "Protection Plan announced"
+  },
+  {
+    "quantity": "3%",
+    "unit": "of GDP",
+    "eventType": "EventA",
+    "eventDescription": "Protection Plan equivalent"
+  },
+  {
+    "quantity": "50%",
+    "unit": "salaries",
+    "eventType": "EventP",
+    "eventDescription": "reduction of salaries"
+  },
+  {
+    "quantity": "20%",
+    "unit": "income",
+    "eventType": "EventO",
+    "eventDescription": "decrease in company income"
+  },
+  {
+    "quantity": "75%",
+    "unit": "salaries",
+    "eventType": "EventP",
+    "eventDescription": "reduction of salaries"
+  },
+  {
+    "quantity": "60%",
+    "unit": "income",
+    "eventType": "EventO",
+    "eventDescription": "decrease in company income"
+  },
+  {
+    "quantity": "three",
+    "unit": "months",
+    "eventType": "EventO",
+    "eventDescription": "duration of reduction"
+  }
+]

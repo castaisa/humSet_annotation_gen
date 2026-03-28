@@ -1,0 +1,79 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "living in Idlib province",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "3 million",
+      "start": 85,
+      "end": 94
+    },
+    "unit": {
+      "text": "people",
+      "start": 95,
+      "end": 101
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "depend on food aid",
+      "start": 126,
+      "end": 144
+    },
+    "modifier": {
+      "text": "more than",
+      "start": 103,
+      "end": 112
+    },
+    "quantity": {
+      "text": "more than half",
+      "start": 103,
+      "end": 117
+    },
+    "unit": {
+      "text": "people",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventA",
+    "eventDescription": {
+      "text": "enter a month",
+      "start": 240,
+      "end": 253
+    },
+    "quantity": {
+      "text": "around 1,000",
+      "start": 215,
+      "end": 227
+    },
+    "unit": {
+      "text": "U.N. trucks",
+      "start": 228,
+      "end": 239
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "stockpiling period",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "three",
+      "start": 397,
+      "end": 402
+    },
+    "unit": {
+      "text": "months",
+      "start": 403,
+      "end": 409
+    }
+  }
+]

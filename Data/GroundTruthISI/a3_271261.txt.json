@@ -1,0 +1,277 @@
+[
+  {
+    "quantity": {
+      "text": "3,364",
+      "begin": 74,
+      "end": 79
+    },
+    "modifier": {
+      "text": "at least",
+      "begin": 65,
+      "end": 73
+    },
+    "unit": {
+      "text": "health care sector personnel",
+      "begin": 80,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "arrested/ detained or forcibly disappeared",
+      "begin": 119,
+      "end": 161
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3,329",
+      "begin": 219,
+      "end": 224
+    },
+    "unit": {
+      "text": "health care sector personnel",
+      "begin": 80,
+      "end": 108
+    },
+    "eventDescription": {
+      "text": "arrested/ detained or forcibly disappeared",
+      "begin": 119,
+      "end": 161
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "99%",
+      "begin": 287,
+      "end": 290
+    },
+    "unit": {
+      "text": "arrests and enforced disappearances",
+      "begin": 298,
+      "end": 333
+    },
+    "eventDescription": {
+      "text": "arrests and enforced disappearances",
+      "begin": 298,
+      "end": 333
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "744",
+      "begin": 647,
+      "end": 650
+    },
+    "eventDescription": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    }
+  },
+  {
+    "quantity": {
+      "text": "387",
+      "begin": 669,
+      "end": 672
+    },
+    "eventDescription": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    }
+  },
+  {
+    "quantity": {
+      "text": "373",
+      "begin": 683,
+      "end": 686
+    },
+    "eventDescription": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    }
+  },
+  {
+    "quantity": {
+      "text": "288",
+      "begin": 695,
+      "end": 698
+    },
+    "eventDescription": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    }
+  },
+  {
+    "quantity": {
+      "text": "257",
+      "begin": 710,
+      "end": 713
+    },
+    "eventDescription": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "arrests/detention",
+      "begin": 611,
+      "end": 628
+    }
+  },
+  {
+    "quantity": {
+      "text": "647",
+      "begin": 813,
+      "end": 816
+    },
+    "eventDescription": {
+      "text": "trained in first aid",
+      "begin": 725,
+      "end": 745
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "arrested or detained",
+      "begin": 791,
+      "end": 811
+    }
+  },
+  {
+    "quantity": {
+      "text": "643",
+      "begin": 838,
+      "end": 841
+    },
+    "eventDescription": {
+      "text": "trained in first aid",
+      "begin": 725,
+      "end": 745
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "nurse",
+      "begin": 831,
+      "end": 836
+    }
+  },
+  {
+    "quantity": {
+      "text": "436",
+      "begin": 852,
+      "end": 855
+    },
+    "eventDescription": {
+      "text": "trained in first aid",
+      "begin": 725,
+      "end": 745
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "doctor",
+      "begin": 844,
+      "end": 850
+    }
+  },
+  {
+    "quantity": {
+      "text": "426",
+      "begin": 877,
+      "end": 880
+    },
+    "eventDescription": {
+      "text": "trained in first aid",
+      "begin": 725,
+      "end": 745
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "health technician",
+      "begin": 858,
+      "end": 875
+    }
+  },
+  {
+    "quantity": {
+      "text": "421",
+      "begin": 897,
+      "end": 900
+    },
+    "eventDescription": {
+      "text": "trained in first aid",
+      "begin": 725,
+      "end": 745
+    },
+    "eventType": "EventA",
+    "unit": {
+      "text": "paramedic",
+      "begin": 886,
+      "end": 895
+    }
+  },
+  {
+    "quantity": {
+      "text": "56",
+      "begin": 1268,
+      "end": 1270
+    },
+    "unit": {
+      "text": "health care personnel",
+      "begin": 984,
+      "end": 1005
+    },
+    "eventDescription": {
+      "text": "arrested",
+      "begin": 1276,
+      "end": 1284
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "28",
+      "begin": 1313,
+      "end": 1315
+    },
+    "unit": {
+      "text": "health care personnel",
+      "begin": 984,
+      "end": 1005
+    },
+    "eventDescription": {
+      "text": "arrested",
+      "begin": 1276,
+      "end": 1284
+    },
+    "eventType": "EventP"
+  }
+]

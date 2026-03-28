@@ -1,0 +1,115 @@
+[
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 165,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "breakdown of expenditure (both median as well as mean) and the MEB for Maiduguri",
+      "begin": 50,
+      "end": 130
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "HHs",
+      "begin": 167,
+      "end": 170
+    }
+  },
+  {
+    "quantity": {
+      "text": "4",
+      "begin": 161,
+      "end": 162
+    },
+    "eventDescription": {
+      "text": "breakdown of expenditure (both median as well as mean) and the MEB for Maiduguri",
+      "begin": 50,
+      "end": 130
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "HHs",
+      "begin": 167,
+      "end": 170
+    }
+  },
+  {
+    "quantity": {
+      "text": "4 – 8",
+      "begin": 161,
+      "end": 166
+    },
+    "eventDescription": {
+      "text": "breakdown of expenditure (both median as well as mean) and the MEB for Maiduguri",
+      "begin": 50,
+      "end": 130
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "HHs",
+      "begin": 167,
+      "end": 170
+    }
+  },
+  {
+    "quantity": {
+      "text": "80 percent",
+      "begin": 304,
+      "end": 314
+    },
+    "eventDescription": {
+      "text": "Compared to the MEB, the median expenditure values are much lower",
+      "begin": 195,
+      "end": 260
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "food share",
+      "begin": 270,
+      "end": 280
+    },
+    "modifier": {
+      "text": "nearly",
+      "begin": 297,
+      "end": 303
+    }
+  },
+  {
+    "quantity": {
+      "text": "zero",
+      "begin": 380,
+      "end": 384
+    },
+    "eventDescription": {
+      "text": "Compared to the MEB, the median expenditure values are much lower",
+      "begin": 195,
+      "end": 260
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "savings",
+      "begin": 385,
+      "end": 392
+    }
+  },
+  {
+    "quantity": {
+      "text": "zero",
+      "begin": 321,
+      "end": 325
+    },
+    "unit": {
+      "text": "expenses",
+      "begin": 326,
+      "end": 334
+    },
+    "eventDescription": {
+      "text": "reported for water and education",
+      "begin": 335,
+      "end": 367
+    },
+    "eventType": "EventO"
+  }
+]

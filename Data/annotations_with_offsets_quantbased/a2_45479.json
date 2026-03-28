@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "82%",
+      "start": 196,
+      "end": 199
+    },
+    "eventDescription": {
+      "text": "in need of food and agriculture assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 170,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "81%",
+      "start": 204,
+      "end": 207
+    },
+    "eventDescription": {
+      "text": "in need of food and agriculture assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 170,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "66%",
+      "start": 212,
+      "end": 215
+    },
+    "eventDescription": {
+      "text": "in need of food and agriculture assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "households",
+      "start": 170,
+      "end": 180
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "83%",
+      "start": 575,
+      "end": 578
+    },
+    "eventDescription": {
+      "text": "having poor or borderline FCS",
+      "start": 544,
+      "end": 573
+    },
+    "unit": {
+      "text": "households",
+      "start": 533,
+      "end": 543
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "58%",
+      "start": 631,
+      "end": 634
+    },
+    "eventDescription": {
+      "text": "having poor or borderline FCS",
+      "start": 544,
+      "end": 573
+    },
+    "unit": {
+      "text": "households",
+      "start": 619,
+      "end": 629
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "57%",
+      "start": 639,
+      "end": 642
+    },
+    "eventDescription": {
+      "text": "having poor or borderline FCS",
+      "start": 544,
+      "end": 573
+    },
+    "unit": {
+      "text": "households",
+      "start": 619,
+      "end": 629
+    }
+  }
+]

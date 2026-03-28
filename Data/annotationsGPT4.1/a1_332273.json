@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "one",
+    "unit": "dialysis session",
+    "eventType": "EventA",
+    "eventDescription": "received"
+  },
+  {
+    "quantity": "three",
+    "unit": "dialysis sessions",
+    "eventType": "EventA",
+    "eventDescription": "needed"
+  },
+  {
+    "quantity": "one",
+    "unit": "free dialysis session",
+    "eventType": "EventA",
+    "eventDescription": "receive"
+  },
+  {
+    "quantity": "75,000",
+    "unit": "SYP",
+    "eventType": "EventA",
+    "eventDescription": "cost per dialysis session"
+  },
+  {
+    "quantity": "25",
+    "unit": "USD",
+    "eventType": "EventA",
+    "eventDescription": "cost per dialysis session"
+  }
+]

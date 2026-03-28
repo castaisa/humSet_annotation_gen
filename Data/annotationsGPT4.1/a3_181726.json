@@ -1,0 +1,50 @@
+[
+  {
+    "quantity": "1416",
+    "unit": "community health workers",
+    "eventType": "EventP",
+    "eventDescription": "trained"
+  },
+  {
+    "quantity": "142 678",
+    "unit": "household visits",
+    "eventType": "EventO",
+    "eventDescription": "conducted"
+  },
+  {
+    "quantity": "3095",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "identified with mild respiratory symptoms"
+  },
+  {
+    "quantity": "22",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "identified with moderate/severe symptoms"
+  },
+  {
+    "quantity": "45 838",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "cumulative number of mild patients"
+  },
+  {
+    "quantity": "199",
+    "unit": "patients",
+    "eventType": "EventP",
+    "eventDescription": "cumulative number of moderate/severe patients"
+  },
+  {
+    "quantity": "1376",
+    "unit": "persons",
+    "eventType": "EventP",
+    "eventDescription": "referred to health facilities"
+  },
+  {
+    "quantity": "21 045",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "total to date"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quantity": "313",
+    "unit": "SYP per rabta",
+    "eventType": "EventO",
+    "eventDescription": "price of bread"
+  },
+  {
+    "quantity": "136 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in the price of bread"
+  },
+  {
+    "quantity": "460",
+    "unit": "SYP per rabta",
+    "eventType": "EventO",
+    "eventDescription": "price of bread"
+  },
+  {
+    "quantity": "24 percent",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "increase in the price of bread"
+  },
+  {
+    "quantity": "325",
+    "unit": "SYP per rabta",
+    "eventType": "EventO",
+    "eventDescription": "price of bread"
+  }
+]

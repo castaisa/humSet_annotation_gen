@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": {
+      "text": "9% to 4%",
+      "begin": 188,
+      "end": 196
+    },
+    "unit": {
+      "text": "households",
+      "begin": 112,
+      "end": 122
+    },
+    "eventDescription": {
+      "text": "reporting receiving remittances",
+      "begin": 123,
+      "end": 154
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "7% to 12%",
+      "begin": 342,
+      "end": 351
+    },
+    "unit": {
+      "text": "households",
+      "begin": 234,
+      "end": 244
+    },
+    "eventDescription": {
+      "text": "source of income increased",
+      "begin": 310,
+      "end": 336
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "2% to 10%",
+      "begin": 443,
+      "end": 452
+    },
+    "unit": {
+      "text": "households",
+      "begin": 377,
+      "end": 387
+    },
+    "eventDescription": {
+      "text": "source of income increased",
+      "begin": 411,
+      "end": 437
+    },
+    "eventType": "EventA"
+  },
+  {
+    "quantity": {
+      "text": "93%",
+      "begin": 597,
+      "end": 600
+    },
+    "unit": {
+      "text": "households",
+      "begin": 604,
+      "end": 614
+    },
+    "eventDescription": {
+      "text": "report diminished income or loss of income sources",
+      "begin": 619,
+      "end": 669
+    },
+    "eventType": "EventO"
+  }
+]

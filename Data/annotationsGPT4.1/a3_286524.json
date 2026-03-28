@@ -1,0 +1,44 @@
+[
+  {
+    "quantity": "1%",
+    "unit": "children having Minimum Acceptable Diets (MAD) in Adamawa",
+    "eventType": "EventP",
+    "eventDescription": "children with Minimum Acceptable Diets"
+  },
+  {
+    "quantity": "0.9%",
+    "unit": "children having Minimum Acceptable Diets (MAD) in Borno",
+    "eventType": "EventP",
+    "eventDescription": "children with Minimum Acceptable Diets"
+  },
+  {
+    "quantity": "0.4%",
+    "unit": "children having Minimum Acceptable Diets (MAD) in Yobe",
+    "eventType": "EventP",
+    "eventDescription": "children with Minimum Acceptable Diets"
+  },
+  {
+    "quantity": "56.3%",
+    "unit": "exclusive breastfeeding in Adamawa",
+    "eventType": "EventP",
+    "eventDescription": "children exclusively breastfed"
+  },
+  {
+    "quantity": "64.3%",
+    "unit": "exclusive breastfeeding in Borno",
+    "eventType": "EventP",
+    "eventDescription": "children exclusively breastfed"
+  },
+  {
+    "quantity": "37.6%",
+    "unit": "exclusive breastfeeding in Yobe",
+    "eventType": "EventP",
+    "eventDescription": "children exclusively breastfed"
+  },
+  {
+    "quantity": "6-59",
+    "unit": "months (age of children with anaemia)",
+    "eventType": "EventP",
+    "eventDescription": "children with anaemia"
+  }
+]

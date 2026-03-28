@@ -1,0 +1,78 @@
+[
+  {
+    "quantity": "a single",
+    "unit": "case",
+    "eventType": "EventO",
+    "eventDescription": "measles cases recorded"
+  },
+  {
+    "quantity": "9,900",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "measles cases reported",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "6,700",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "measles cases confirmed"
+  },
+  {
+    "quantity": "79",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "measles cases fatal"
+  },
+  {
+    "quantity": "2,800",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "diphtheria cases reported",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "1,700",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "diphtheria cases confirmed"
+  },
+  {
+    "quantity": "286",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "diphtheria cases fatal"
+  },
+  {
+    "quantity": "36,000",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "malaria cases recorded",
+    "modifier": "close to"
+  },
+  {
+    "quantity": "414,000",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "malaria cases",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "6,000",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "tuberculosis cases"
+  },
+  {
+    "quantity": "13,000",
+    "unit": "cases",
+    "eventType": "EventO",
+    "eventDescription": "tuberculosis cases estimated"
+  },
+  {
+    "quantity": "forty",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "highest in years"
+  }
+]

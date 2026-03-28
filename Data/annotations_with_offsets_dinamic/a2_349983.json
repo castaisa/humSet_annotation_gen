@@ -1,0 +1,110 @@
+[
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "spent money usually spent on other things or buying water on credit",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "43%",
+      "start": 146,
+      "end": 149
+    },
+    "unit": {
+      "text": "communities",
+      "start": 165,
+      "end": 176
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "buying water on credit",
+      "start": 120,
+      "end": 142
+    },
+    "quantity": {
+      "text": "27%",
+      "start": 154,
+      "end": 157
+    },
+    "unit": {
+      "text": "communities",
+      "start": 277,
+      "end": 288
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "bathed less frequently and did laundry less frequently",
+      "start": 300,
+      "end": 354
+    },
+    "quantity": {
+      "text": "around 40%",
+      "start": 259,
+      "end": 269
+    },
+    "unit": {
+      "text": "communities",
+      "start": 468,
+      "end": 479
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "reducing drinking water consumption",
+      "start": 369,
+      "end": 404
+    },
+    "quantity": {
+      "text": "7%",
+      "start": 449,
+      "end": 451
+    },
+    "unit": {
+      "text": "communities",
+      "start": 598,
+      "end": 609
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "drinking water indicated as a WASH priority need",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "40%",
+      "start": 578,
+      "end": 581
+    },
+    "unit": {
+      "text": "communities",
+      "start": 643,
+      "end": 654
+    }
+  },
+  {
+    "eventType": "EventO",
+    "eventDescription": {
+      "text": "drinking water indicated as a WASH priority need",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "28%",
+      "start": 636,
+      "end": 639
+    },
+    "unit": {
+      "text": "communities",
+      "start": null,
+      "end": null
+    }
+  }
+]

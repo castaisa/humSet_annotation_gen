@@ -1,0 +1,38 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "122,269",
+      "start": 240,
+      "end": 247
+    },
+    "eventDescription": {
+      "text": "mobilised communal asset creation assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "people",
+      "start": 248,
+      "end": 254
+    }
+  },
+  {
+    "eventType": "EventA",
+    "quantity": {
+      "text": "4.1 million",
+      "start": 280,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "estimated cost of assistance",
+      "start": null,
+      "end": null
+    },
+    "unit": {
+      "text": "dollars",
+      "start": null,
+      "end": null
+    }
+  }
+]

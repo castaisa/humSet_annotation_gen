@@ -1,0 +1,21 @@
+[
+  {
+    "quantity": "4",
+    "unit": "WHO\u2019s Global Response Pillars",
+    "eventType": "EventO",
+    "eventDescription": "focus of IOM support"
+  },
+  {
+    "quantity": "12,000",
+    "unit": "settlements",
+    "eventType": "EventP",
+    "eventDescription": "focus group discussions held in",
+    "modifier": "over"
+  },
+  {
+    "quantity": "34",
+    "unit": "provinces",
+    "eventType": "EventO",
+    "eventDescription": "settlements located in"
+  }
+]

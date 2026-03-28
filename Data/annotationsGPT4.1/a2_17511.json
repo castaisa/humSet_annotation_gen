@@ -1,0 +1,20 @@
+[
+  {
+    "quantity": "40 thousand",
+    "unit": "mines",
+    "eventType": "EventO",
+    "eventDescription": "planted"
+  },
+  {
+    "quantity": "200 thousand",
+    "unit": "mines",
+    "eventType": "EventO",
+    "eventDescription": "removed"
+  },
+  {
+    "quantity": "226209",
+    "unit": "mines, explosive devices, and shells",
+    "eventType": "EventO",
+    "eventDescription": "removed"
+  }
+]

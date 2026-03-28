@@ -1,0 +1,254 @@
+[
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could cite one or more symptoms associated with COVID-19",
+      "start": 69,
+      "end": 125
+    },
+    "quantity": {
+      "text": "91%",
+      "start": 48,
+      "end": 51
+    },
+    "unit": {
+      "text": "interviewees",
+      "start": 56,
+      "end": 68
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could cite breathing difficulty as a symptom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "58%",
+      "start": 159,
+      "end": 162
+    },
+    "unit": {
+      "text": "interviewees",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could cite fever as a symptom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "55%",
+      "start": 172,
+      "end": 175
+    },
+    "unit": {
+      "text": "interviewees",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could cite cough as a symptom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24%",
+      "start": 185,
+      "end": 188
+    },
+    "unit": {
+      "text": "interviewees",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could cite sore throat as a symptom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "24%",
+      "start": 204,
+      "end": 207
+    },
+    "unit": {
+      "text": "interviewees",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "could cite headache as a symptom",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "19%",
+      "start": 223,
+      "end": 226
+    },
+    "unit": {
+      "text": "interviewees",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "said that one should call the COVID-19 emergency number",
+      "start": 319,
+      "end": 374
+    },
+    "quantity": {
+      "text": "54 per cent",
+      "start": 292,
+      "end": 303
+    },
+    "unit": {
+      "text": "respondents",
+      "start": 307,
+      "end": 318
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "said that they should stay at home",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "51 per cent",
+      "start": 376,
+      "end": 387
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "said that they should see a doctor",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42 per cent",
+      "start": 422,
+      "end": 433
+    },
+    "unit": {
+      "text": "respondents",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "wore face masks as a preventive measure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "84%",
+      "start": 565,
+      "end": 568
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "start": 503,
+      "end": 523
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "carried fewer passengers at a time as a preventive measure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "42%",
+      "start": 608,
+      "end": 611
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "start": 674,
+      "end": 694
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "disinfected the vehicle as a preventive measure",
+      "start": null,
+      "end": null
+    },
+    "quantity": {
+      "text": "30%",
+      "start": 644,
+      "end": 647
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "took no preventive measures against COVID19 in the vehicle",
+      "start": 695,
+      "end": 753
+    },
+    "quantity": {
+      "text": "12 per cent",
+      "start": 659,
+      "end": 670
+    },
+    "unit": {
+      "text": "surveyed individuals",
+      "start": null,
+      "end": null
+    }
+  },
+  {
+    "eventType": "EventP",
+    "eventDescription": {
+      "text": "mentioned the use of hand sanitizers as the main protective measure to be taken in the event of a COVID-19 case during the travel",
+      "start": 799,
+      "end": 928
+    },
+    "quantity": {
+      "text": "Sixty-eight per cent",
+      "start": 755,
+      "end": 775
+    },
+    "unit": {
+      "text": "surveyed travellers",
+      "start": 779,
+      "end": 798
+    }
+  }
+]

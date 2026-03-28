@@ -1,0 +1,125 @@
+[
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 142,
+      "end": 145
+    },
+    "eventDescription": {
+      "text": "have witnessed attacks on health care",
+      "begin": 166,
+      "end": 203
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "eight",
+      "begin": 129,
+      "end": 134
+    },
+    "eventDescription": {
+      "text": "have witnessed attacks on health care",
+      "begin": 166,
+      "end": 203
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "four",
+      "begin": 210,
+      "end": 214
+    },
+    "eventDescription": {
+      "text": "have witnessed attacks on health care",
+      "begin": 166,
+      "end": 203
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "20",
+      "begin": 289,
+      "end": 291
+    },
+    "eventDescription": {
+      "text": "have witnessed attacks on health care",
+      "begin": 166,
+      "end": 203
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "923",
+      "begin": 341,
+      "end": 344
+    },
+    "unit": {
+      "text": "medical personnel",
+      "begin": 345,
+      "end": 362
+    },
+    "eventDescription": {
+      "text": "were killed",
+      "begin": 363,
+      "end": 374
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "half",
+      "begin": 510,
+      "end": 514
+    },
+    "unit": {
+      "text": "health care workers",
+      "begin": 457,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "know colleagues who were injured or killed in attacks",
+      "begin": 521,
+      "end": 574
+    },
+    "eventType": "EventP",
+    "modifier": {
+      "text": "almost",
+      "begin": 503,
+      "end": 509
+    }
+  },
+  {
+    "quantity": {
+      "text": "43%",
+      "begin": 516,
+      "end": 519
+    },
+    "unit": {
+      "text": "health care workers",
+      "begin": 457,
+      "end": 476
+    },
+    "eventDescription": {
+      "text": "know colleagues who were injured or killed in attacks",
+      "begin": 521,
+      "end": 574
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "one",
+      "begin": 640,
+      "end": 643
+    },
+    "unit": {
+      "text": "incident",
+      "begin": 644,
+      "end": 652
+    }
+  }
+]

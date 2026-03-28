@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": "13",
+    "unit": "organizations",
+    "eventType": "EventA",
+    "eventDescription": "providing direct emergency assistance"
+  },
+  {
+    "quantity": "1,800",
+    "unit": "arrivals",
+    "eventType": "EventP",
+    "eventDescription": "average arrivals in May"
+  },
+  {
+    "quantity": "3,000",
+    "unit": "arrivals",
+    "eventType": "EventP",
+    "eventDescription": "arrivals before the introduction of the humanitarian visa"
+  },
+  {
+    "quantity": "more than 8,000",
+    "unit": "arrivals",
+    "eventType": "EventP",
+    "eventDescription": "peak arrivals on 14 June",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "less than 400",
+    "unit": "arrivals per day",
+    "eventType": "EventP",
+    "eventDescription": "average arrivals in the last seven days of the month",
+    "modifier": "less than"
+  },
+  {
+    "quantity": "17",
+    "unit": "humanitarian organizations",
+    "eventType": "EventA",
+    "eventDescription": "involved in the response"
+  },
+  {
+    "quantity": "seven",
+    "unit": "government institutions",
+    "eventType": "EventO",
+    "eventDescription": "involved in the response"
+  }
+]

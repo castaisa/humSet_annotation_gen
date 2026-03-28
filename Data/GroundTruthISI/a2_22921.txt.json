@@ -1,0 +1,578 @@
+[
+  {
+    "quantity": {
+      "text": "403",
+      "begin": 27,
+      "end": 30
+    },
+    "unit": {
+      "text": "suspected cases",
+      "begin": 31,
+      "end": 46
+    },
+    "eventDescription": {
+      "text": "reported",
+      "begin": 52,
+      "end": 60
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "363",
+      "begin": 71,
+      "end": 74
+    },
+    "eventDescription": {
+      "text": "Influenza like-illness (ILI)",
+      "begin": 80,
+      "end": 108
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 110,
+      "end": 112
+    },
+    "eventDescription": {
+      "text": "Severe Acute Respiratory Infection (SARI)",
+      "begin": 118,
+      "end": 159
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "ten",
+      "begin": 198,
+      "end": 201
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 202,
+      "end": 209
+    },
+    "eventDescription": {
+      "text": "Influenza like-illness (ILI)",
+      "begin": 238,
+      "end": 266
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "403",
+      "begin": 349,
+      "end": 352
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 353,
+      "end": 360
+    },
+    "eventDescription": {
+      "text": "received",
+      "begin": 366,
+      "end": 374
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "396",
+      "begin": 379,
+      "end": 382
+    },
+    "unit": {
+      "text": "samples",
+      "begin": 383,
+      "end": 390
+    },
+    "eventDescription": {
+      "text": "processed",
+      "begin": 396,
+      "end": 405
+    },
+    "eventType": "EventO"
+  },
+  {
+    "quantity": {
+      "text": "(89.8%",
+      "begin": 436,
+      "end": 442
+    },
+    "eventDescription": {
+      "text": "ILI cases",
+      "begin": 449,
+      "end": 458
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "356",
+      "begin": 433,
+      "end": 436
+    },
+    "eventDescription": {
+      "text": "ILI cases",
+      "begin": 449,
+      "end": 458
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10.1%",
+      "begin": 464,
+      "end": 469
+    },
+    "eventDescription": {
+      "text": "Severe Acute Respiratory Infection (SARI)",
+      "begin": 476,
+      "end": 517
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "356",
+      "begin": 530,
+      "end": 533
+    },
+    "unit": {
+      "text": "processed ILI samples",
+      "begin": 534,
+      "end": 555
+    }
+  },
+  {
+    "quantity": {
+      "text": "39",
+      "begin": 557,
+      "end": 559
+    },
+    "eventDescription": {
+      "text": "positive for Influenza A",
+      "begin": 573,
+      "end": 597
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "11.0%",
+      "begin": 561,
+      "end": 566
+    },
+    "eventDescription": {
+      "text": "positive for Influenza A",
+      "begin": 573,
+      "end": 597
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "33",
+      "begin": 599,
+      "end": 601
+    },
+    "eventDescription": {
+      "text": "positive for Influenza B",
+      "begin": 613,
+      "end": 637
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "9.3%",
+      "begin": 602,
+      "end": 606
+    },
+    "eventDescription": {
+      "text": "positive for Influenza B",
+      "begin": 613,
+      "end": 637
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "284",
+      "begin": 642,
+      "end": 645
+    },
+    "eventDescription": {
+      "text": "negative",
+      "begin": 659,
+      "end": 667
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "79.9%)",
+      "begin": 647,
+      "end": 653
+    },
+    "eventDescription": {
+      "text": "negative",
+      "begin": 659,
+      "end": 667
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "40",
+      "begin": 694,
+      "end": 696
+    },
+    "unit": {
+      "text": "SARI samples",
+      "begin": 697,
+      "end": 709
+    }
+  },
+  {
+    "quantity": {
+      "text": "(17.5%",
+      "begin": 713,
+      "end": 719
+    },
+    "eventDescription": {
+      "text": "positive for Influenza A",
+      "begin": 726,
+      "end": 750
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "7",
+      "begin": 711,
+      "end": 712
+    },
+    "eventDescription": {
+      "text": "positive for Influenza A",
+      "begin": 726,
+      "end": 750
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "2",
+      "begin": 752,
+      "end": 753
+    },
+    "eventDescription": {
+      "text": "positive for Influenza B",
+      "begin": 766,
+      "end": 790
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "5.0%",
+      "begin": 755,
+      "end": 759
+    },
+    "eventDescription": {
+      "text": "positive for Influenza B",
+      "begin": 766,
+      "end": 790
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "31",
+      "begin": 812,
+      "end": 814
+    },
+    "eventDescription": {
+      "text": "negative",
+      "begin": 828,
+      "end": 836
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "77.5%",
+      "begin": 816,
+      "end": 821
+    },
+    "eventDescription": {
+      "text": "negative",
+      "begin": 828,
+      "end": 836
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "396",
+      "begin": 849,
+      "end": 852
+    },
+    "unit": {
+      "text": "processed sample",
+      "begin": 853,
+      "end": 869
+    }
+  },
+  {
+    "quantity": {
+      "text": "81",
+      "begin": 872,
+      "end": 874
+    },
+    "eventDescription": {
+      "text": "positive for Influenza",
+      "begin": 888,
+      "end": 910
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21.8%",
+      "begin": 876,
+      "end": 881
+    },
+    "eventDescription": {
+      "text": "positive for Influenza",
+      "begin": 888,
+      "end": 910
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "46",
+      "begin": 917,
+      "end": 919
+    },
+    "eventDescription": {
+      "text": "positive for Influenza A",
+      "begin": 937,
+      "end": 961
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "56.8%",
+      "begin": 921,
+      "end": 926
+    },
+    "eventDescription": {
+      "text": "positive for Influenza A",
+      "begin": 937,
+      "end": 961
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "35",
+      "begin": 966,
+      "end": 968
+    },
+    "eventDescription": {
+      "text": "positive for Influenza B",
+      "begin": 977,
+      "end": 1001
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "43.2%",
+      "begin": 970,
+      "end": 975
+    },
+    "eventDescription": {
+      "text": "positive for Influenza B",
+      "begin": 977,
+      "end": 1001
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 1077,
+      "end": 1078
+    },
+    "eventDescription": {
+      "text": "A seasonal H3, 2009A/H1N1",
+      "begin": 1020,
+      "end": 1045
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "17.4%",
+      "begin": 1079,
+      "end": 1084
+    },
+    "eventDescription": {
+      "text": "A seasonal H3, 2009A/H1N1",
+      "begin": 1020,
+      "end": 1045
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "28",
+      "begin": 1087,
+      "end": 1089
+    },
+    "eventDescription": {
+      "text": "A/not subtyped",
+      "begin": 1050,
+      "end": 1064
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "60.9%",
+      "begin": 1091,
+      "end": 1096
+    },
+    "eventDescription": {
+      "text": "A/not subtyped",
+      "begin": 1050,
+      "end": 1064
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 1102,
+      "end": 1104
+    },
+    "eventDescription": {
+      "text": "total influenza A positive samples",
+      "begin": 1120,
+      "end": 1154
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "21.7%",
+      "begin": 1106,
+      "end": 1111
+    },
+    "eventDescription": {
+      "text": "total influenza A positive samples",
+      "begin": 1120,
+      "end": 1154
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "24",
+      "begin": 1240,
+      "end": 1242
+    },
+    "eventDescription": {
+      "text": "total influenza B positive samples",
+      "begin": 1279,
+      "end": 1313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "70.6%",
+      "begin": 1243,
+      "end": 1248
+    },
+    "eventDescription": {
+      "text": "subtypes B VICTORIA",
+      "begin": 1177,
+      "end": 1196
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8",
+      "begin": 1251,
+      "end": 1252
+    },
+    "eventDescription": {
+      "text": "total influenza B positive samples",
+      "begin": 1279,
+      "end": 1313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "20.6%",
+      "begin": 1253,
+      "end": 1258
+    },
+    "eventDescription": {
+      "text": "total influenza B positive samples",
+      "begin": 1279,
+      "end": 1313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3",
+      "begin": 1264,
+      "end": 1265
+    },
+    "eventDescription": {
+      "text": "total influenza B positive samples",
+      "begin": 1279,
+      "end": 1313
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "8.8%",
+      "begin": 1266,
+      "end": 1270
+    },
+    "eventDescription": {
+      "text": "B Yamagata",
+      "begin": 1217,
+      "end": 1227
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "100.0%",
+      "begin": 1381,
+      "end": 1387
+    },
+    "eventDescription": {
+      "text": "influenza positive",
+      "begin": 1349,
+      "end": 1367
+    },
+    "eventType": "EventP"
+  }
+]

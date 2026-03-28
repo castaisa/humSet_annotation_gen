@@ -1,0 +1,344 @@
+[
+  {
+    "quantity": {
+      "text": "113 048",
+      "begin": 345,
+      "end": 352
+    },
+    "unit": {
+      "text": "tests for COVID-19",
+      "begin": 353,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "begin": 382,
+      "end": 391
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "97 132",
+      "begin": 401,
+      "end": 407
+    },
+    "unit": {
+      "text": "tests for COVID-19",
+      "begin": 353,
+      "end": 371
+    },
+    "eventDescription": {
+      "text": "conducted",
+      "begin": 382,
+      "end": 391
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "1845",
+      "begin": 637,
+      "end": 641
+    },
+    "eventDescription": {
+      "text": "increase in the number of tests conducted among the Rohingya refugees",
+      "begin": 506,
+      "end": 575
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "tests",
+      "begin": 650,
+      "end": 655
+    }
+  },
+  {
+    "quantity": {
+      "text": "1882",
+      "begin": 645,
+      "end": 649
+    },
+    "eventDescription": {
+      "text": "increase in the number of tests conducted among the Rohingya refugees",
+      "begin": 506,
+      "end": 575
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "tests",
+      "begin": 650,
+      "end": 655
+    }
+  },
+  {
+    "quantity": {
+      "text": "09",
+      "begin": 598,
+      "end": 600
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 580,
+      "end": 588
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks",
+      "begin": 592,
+      "end": 597
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 601,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 580,
+      "end": 588
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks",
+      "begin": 592,
+      "end": 597
+    }
+  },
+  {
+    "quantity": {
+      "text": "09-10",
+      "begin": 598,
+      "end": 603
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 580,
+      "end": 588
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks",
+      "begin": 592,
+      "end": 597
+    }
+  },
+  {
+    "quantity": {
+      "text": "08",
+      "begin": 628,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 580,
+      "end": 588
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks",
+      "begin": 619,
+      "end": 624
+    }
+  },
+  {
+    "quantity": {
+      "text": "07-08",
+      "begin": 625,
+      "end": 630
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 580,
+      "end": 588
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks",
+      "begin": 619,
+      "end": 624
+    }
+  },
+  {
+    "quantity": {
+      "text": "07",
+      "begin": 625,
+      "end": 627
+    },
+    "eventDescription": {
+      "text": "observed",
+      "begin": 580,
+      "end": 588
+    },
+    "eventType": "EventO",
+    "unit": {
+      "text": "weeks",
+      "begin": 619,
+      "end": 624
+    }
+  },
+  {
+    "quantity": {
+      "text": "07-08",
+      "begin": 716,
+      "end": 721
+    },
+    "unit": {
+      "text": "weeks",
+      "begin": 710,
+      "end": 715
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "08",
+      "begin": 719,
+      "end": 721
+    },
+    "unit": {
+      "text": "weeks",
+      "begin": 710,
+      "end": 715
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "07",
+      "begin": 716,
+      "end": 718
+    },
+    "unit": {
+      "text": "weeks",
+      "begin": 710,
+      "end": 715
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "3125",
+      "begin": 702,
+      "end": 706
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    }
+  },
+  {
+    "quantity": {
+      "text": "3345",
+      "begin": 725,
+      "end": 729
+    },
+    "unit": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP"
+  },
+  {
+    "quantity": {
+      "text": "09",
+      "begin": 745,
+      "end": 747
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "weeks",
+      "begin": 739,
+      "end": 744
+    }
+  },
+  {
+    "quantity": {
+      "text": "10",
+      "begin": 748,
+      "end": 750
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "weeks",
+      "begin": 739,
+      "end": 744
+    }
+  },
+  {
+    "quantity": {
+      "text": "09-10",
+      "begin": 745,
+      "end": 750
+    },
+    "eventDescription": {
+      "text": "tests",
+      "begin": 730,
+      "end": 735
+    },
+    "eventType": "EventP",
+    "unit": {
+      "text": "weeks",
+      "begin": 739,
+      "end": 744
+    }
+  },
+  {
+    "quantity": {
+      "text": "26",
+      "begin": 763,
+      "end": 765
+    },
+    "unit": {
+      "text": "sample collection sites",
+      "begin": 766,
+      "end": 789
+    },
+    "eventDescription": {
+      "text": "operating",
+      "begin": 794,
+      "end": 803
+    },
+    "eventType": "EventO"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "1.1 million",
+      "start": 270,
+      "end": 281
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance and protection",
+      "start": 347,
+      "end": 396
+    },
+    "unit": {
+      "text": "people",
+      "start": 282,
+      "end": 288
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "378,000",
+      "start": 299,
+      "end": 306
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance and protection",
+      "start": 347,
+      "end": 396
+    },
+    "unit": {
+      "text": "children",
+      "start": 311,
+      "end": 319
+    }
+  },
+  {
+    "eventType": "EventP",
+    "quantity": {
+      "text": "307,000",
+      "start": 324,
+      "end": 331
+    },
+    "eventDescription": {
+      "text": "in need of humanitarian assistance and protection",
+      "start": 347,
+      "end": 396
+    },
+    "unit": {
+      "text": "women",
+      "start": 336,
+      "end": 341
+    }
+  }
+]

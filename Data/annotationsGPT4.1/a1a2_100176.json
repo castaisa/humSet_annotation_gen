@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "673",
+    "unit": "suspected measles cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "one",
+    "unit": "associated death",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "0.2 per cent",
+    "unit": "case fatality ratio",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "57 per cent",
+    "unit": "suspected measles cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "ten",
+    "unit": "years",
+    "eventType": "EventO",
+    "eventDescription": "age group included"
+  },
+  {
+    "quantity": "over 65 per cent",
+    "unit": "population affected",
+    "eventType": "EventP",
+    "eventDescription": "accounting for",
+    "modifier": "over"
+  },
+  {
+    "quantity": "21",
+    "unit": "cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "two",
+    "unit": "associated deaths",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "Two",
+    "unit": "suspected yellow fever cases",
+    "eventType": "EventP",
+    "eventDescription": "reported"
+  },
+  {
+    "quantity": "1",
+    "unit": "Jaragol Clinic",
+    "eventType": "EventO",
+    "eventDescription": "clinic referenced"
+  }
+]
