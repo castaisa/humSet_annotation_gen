@@ -3,7 +3,7 @@ import json
 import re
 from typing import List, Tuple, Dict
 from functools import lru_cache
-from src.utils import analyze_nulls_all_fields
+from utils import analyze_nulls_all_fields
 
 
 def result_parse(text: str, entities: List[str]) -> Tuple[List[Dict[str, int]], int]:
@@ -162,4 +162,4 @@ def process_dataset(source_dir, annotation_dir, output_dir):
         print("Processed", file)
 
 
-analyze_nulls_all_fields("annotations_with_offsets_dinamic")
+analyze_nulls_all_fields("../Data/annotations_with_offsets_dinamic")
