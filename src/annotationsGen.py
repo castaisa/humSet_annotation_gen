@@ -2,21 +2,19 @@ import os
 import json
 from openai import OpenAI
 
-# -----------------------------
-# Configuración básica
-# -----------------------------
+
 
 
 client = OpenAI(api_key=os.getenv("OPEN_AI_KEY"))
 
-SOURCE_FOLDER = "sources"
-OUTPUT_FOLDER = "annotationsGPT4.1"
+SOURCE_FOLDER = "../Data/text_sources"
+OUTPUT_FOLDER = "../Data/annotationsGPT4.1"
 MAX_FILES = 1000
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # -----------------------------
-# Prompt inicial
+# Initial Prompt
 # -----------------------------
 
 SYSTEM_PROMPT = """
@@ -65,7 +63,7 @@ Now, I will present you with some texts. Acknowledge this.
 """
 
 # -----------------------------
-# Procesamiento
+# Processing
 # -----------------------------
 
 files = sorted([f for f in os.listdir(SOURCE_FOLDER) if f.endswith(".txt")])[:MAX_FILES]
@@ -110,4 +108,4 @@ for filename in files:
     except Exception as e:
         print(f"Error with {filename}: {e}")
 
-print("Listo!")
+print("Done!")

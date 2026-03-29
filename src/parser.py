@@ -3,9 +3,9 @@ import json
 import os
 from pathlib import Path
 
-# Carpetas
-input_base_dir = "annotationsSinParsear"  # Carpeta base con las ~770 carpetas
-output_folder = "GroundTruthISI"         # Carpeta donde se guardarán los .json
+# Folders
+input_base_dir = "../Data/annotationsWithoutParse"  # Carpeta base con las ~770 carpetas
+output_folder = "../Data/GroundTruthISI"         # Carpeta donde se guardarán los .json
 os.makedirs(output_folder, exist_ok=True)
 
 # Namespace map to handle prefixed tags in the XMI

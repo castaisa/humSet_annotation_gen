@@ -1,7 +1,7 @@
 """
 Evaluation script for annotation metrics.
 
-Compares predictions (annotations_with_offsets_quantbased/)
+Compares predictions (annotations_folder/)
 against ground truth (GroundTruthISI/).
 
 Matching strategy:
@@ -25,10 +25,12 @@ Aggregation:
     weights equally regardless of annotation count).
 
 Usage:
-    python evaluate_annotations.py \
-        --gt   GroundTruthISI \
-        --pred annotations_with_offsets_quantbased \
-        [--out  results.csv]
+    python src/metricsCalc.py \
+        --gt   ../Data/GroundTruthISI \
+        --pred ../Data/annotations_folder \
+        --out  ../Data/results.csv
+
+The annotations_folder is a placeholder for the actual directory where the model-generated annotations are stored.
 """
 
 import argparse

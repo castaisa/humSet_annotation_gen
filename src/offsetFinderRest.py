@@ -1,7 +1,7 @@
 import os
 import json
 import re
-from src.utils import analyze_nulls_all_fields
+from utils import analyze_nulls_all_fields
 
 def find_all_spans(text, target):
     spans = []
@@ -140,11 +140,11 @@ def process_existing_offsets(source_dir, existing_offsets_dir, output_dir, windo
         #print("Processed", file)
 
 
-process_existing_offsets(
-    source_dir="text_sources",
-    existing_offsets_dir="annotations_with_offsets_dinamic",
-    output_dir="annotations_with_offsets_quantbased",
-    window=300
-)
+# process_existing_offsets(
+#     source_dir="../Data/text_sources",
+#     existing_offsets_dir="../Data/annotations_with_offsets_dinamic",
+#     output_dir="../Data/annotations_with_offsets_quantbased",
+#     window=300
+# )
 
-analyze_nulls_all_fields("annotations_with_offsets_quantbased")
+analyze_nulls_all_fields("../Data/annotations_with_offsets_quantbased")
