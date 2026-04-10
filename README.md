@@ -10,6 +10,7 @@ This repository contains:
 - Annotation generation with configurable LLM models
 - Metrics evaluation
 - Dynamic offset alignment using two-stage processing
+- Annotation schema originally provided by ISI
 
 ## Architecture
 
