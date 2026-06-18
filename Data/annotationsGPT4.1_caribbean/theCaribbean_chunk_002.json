@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "over 3,000",
+    "unit": "hospital beds",
+    "eventType": "EventA",
+    "eventDescription": "hospital beds affected",
+    "modifier": "over"
+  },
+  {
+    "quantity": "up to 5,200",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "people in Montego Bay may have lost roofs or have severe housing damage",
+    "modifier": "up to"
+  },
+  {
+    "quantity": "6",
+    "unit": "billion",
+    "eventType": "EventO",
+    "eventDescription": "estimated losses in US dollars"
+  },
+  {
+    "quantity": "7",
+    "unit": "billion",
+    "eventType": "EventO",
+    "eventDescription": "estimated losses in US dollars"
+  }
+]

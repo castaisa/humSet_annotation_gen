@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "103,000",
+    "unit": "hectares",
+    "eventType": "EventO",
+    "eventDescription": "agricultural losses"
+  },
+  {
+    "quantity": "dozens",
+    "unit": "communities",
+    "eventType": "EventP",
+    "eventDescription": "isolated"
+  },
+  {
+    "quantity": "more than 1,500",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in temporary shelters",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "at least 43",
+    "unit": "fatalities",
+    "eventType": "EventP",
+    "eventDescription": "confirmed",
+    "modifier": "at least"
+  }
+]

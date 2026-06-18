@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": "more than 5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "at least 75",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "over 770,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced or forced the evacuation",
+    "modifier": "over"
+  },
+  {
+    "quantity": "more than 4.8 million",
+    "unit": "tonnes of debris",
+    "eventType": "EventO",
+    "eventDescription": "block roads and public spaces"
+  },
+  {
+    "quantity": "around 30",
+    "unit": "communities",
+    "eventType": "EventO",
+    "eventDescription": "remain cut off",
+    "modifier": "around"
+  },
+  {
+    "quantity": "US$74 million",
+    "unit": "Plan of Action",
+    "eventType": "EventA",
+    "eventDescription": "launched"
+  },
+  {
+    "quantity": "one million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "to assist"
+  },
+  {
+    "quantity": "four",
+    "unit": "eastern provinces",
+    "eventType": "EventO",
+    "eventDescription": "across"
+  },
+  {
+    "quantity": "43",
+    "unit": "deaths",
+    "eventType": "EventP",
+    "eventDescription": "confirmed"
+  },
+  {
+    "quantity": "over 1,700",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "remain displaced",
+    "modifier": "over"
+  },
+  {
+    "quantity": "10",
+    "unit": "shelters",
+    "eventType": "EventO",
+    "eventDescription": "across"
+  },
+  {
+    "quantity": "more than 5 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "at least 75",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "killed",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "over 778,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "displaced or forced the evacuation",
+    "modifier": "over"
+  }
+]

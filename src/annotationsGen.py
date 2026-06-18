@@ -7,9 +7,9 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPEN_AI_KEY"))
 
-SOURCE_FOLDER = "../Data/text_sources"
-OUTPUT_FOLDER = "../Data/annotationsGPT4.1"
-MAX_FILES = 1000
+SOURCE_FOLDER = "chunks"
+OUTPUT_FOLDER = "../Data/annotationsGPT4.1_caribbean"
+MAX_FILES = 12
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 

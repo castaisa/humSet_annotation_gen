@@ -1,0 +1,28 @@
+[
+  {
+    "quantity": "3,100",
+    "unit": "shelter kits",
+    "eventType": "EventA",
+    "eventDescription": "provided to partners",
+    "modifier": "around"
+  },
+  {
+    "quantity": "2,974",
+    "unit": "families",
+    "eventType": "EventP",
+    "eventDescription": "reached with cash assistance"
+  },
+  {
+    "quantity": "US$192",
+    "unit": "",
+    "eventType": "EventA",
+    "eventDescription": "cash assistance provided",
+    "modifier": "around"
+  },
+  {
+    "quantity": "five",
+    "unit": "new access points",
+    "eventType": "EventO",
+    "eventDescription": "opened by UNHAS"
+  }
+]

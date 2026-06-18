@@ -1,0 +1,66 @@
+[
+  {
+    "quantity": "28\u201332 per cent",
+    "unit": "of Jamaica\u2019s 2024/25 GDP",
+    "eventType": "EventO",
+    "eventDescription": "GDP loss"
+  },
+  {
+    "quantity": "more than 120,000",
+    "unit": "buildings",
+    "eventType": "EventO",
+    "eventDescription": "affected",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "More than a week",
+    "unit": "",
+    "eventType": "EventO",
+    "eventDescription": "since Hurricane Melissa struck",
+    "modifier": "More than"
+  },
+  {
+    "quantity": "more than 54,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "remain evacuated",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "7,500",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "housed in state shelters"
+  },
+  {
+    "quantity": "1.3 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "protected before the hurricane\u2019s landfall"
+  },
+  {
+    "quantity": "over 76,700",
+    "unit": "homes",
+    "eventType": "EventO",
+    "eventDescription": "sustained damage",
+    "modifier": "over"
+  },
+  {
+    "quantity": "642",
+    "unit": "healthcare institutions",
+    "eventType": "EventO",
+    "eventDescription": "impacted"
+  },
+  {
+    "quantity": "2,117",
+    "unit": "schools",
+    "eventType": "EventO",
+    "eventDescription": "impacted"
+  },
+  {
+    "quantity": "41 per cent",
+    "unit": "of schools in affected provinces",
+    "eventType": "EventO",
+    "eventDescription": "suffered some damage"
+  }
+]

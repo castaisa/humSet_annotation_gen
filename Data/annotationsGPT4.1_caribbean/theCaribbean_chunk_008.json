@@ -1,0 +1,15 @@
+[
+  {
+    "quantity": "US$92 million",
+    "unit": "to the Government",
+    "eventType": "EventA",
+    "eventDescription": "disbursed under parametric insurance policies"
+  },
+  {
+    "quantity": "80 per cent",
+    "unit": "service restoration",
+    "eventType": "EventO",
+    "eventDescription": "restoring electricity and water networks",
+    "modifier": "up to"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "quantity": "29",
+    "unit": "new water tanks",
+    "eventType": "EventA",
+    "eventDescription": "delivered"
+  },
+  {
+    "quantity": "236 m\u00b3",
+    "unit": "capacity",
+    "eventType": "EventA",
+    "eventDescription": "delivered"
+  },
+  {
+    "quantity": "69,000",
+    "unit": "water purification tablet packages",
+    "eventType": "EventA",
+    "eventDescription": "delivered"
+  },
+  {
+    "quantity": "16,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "benefiting daily"
+  },
+  {
+    "quantity": "Three",
+    "unit": "additional water purification plants",
+    "eventType": "EventA",
+    "eventDescription": "will provide"
+  },
+  {
+    "quantity": "21,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "will provide safe drinking water for"
+  },
+  {
+    "quantity": "6,000",
+    "unit": "metal roofing sheets",
+    "eventType": "EventA",
+    "eventDescription": "providing"
+  },
+  {
+    "quantity": "3,900",
+    "unit": "tarpaulins",
+    "eventType": "EventA",
+    "eventDescription": "providing"
+  },
+  {
+    "quantity": "140,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "reached with food distributions"
+  }
+]

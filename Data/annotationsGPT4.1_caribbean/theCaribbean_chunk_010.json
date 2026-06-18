@@ -1,0 +1,39 @@
+[
+  {
+    "quantity": "one million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "to be assisted"
+  },
+  {
+    "quantity": "2.2 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "in need"
+  },
+  {
+    "quantity": "US$74 million",
+    "unit": "funds",
+    "eventType": "EventA",
+    "eventDescription": "called for in the Plan of Action"
+  },
+  {
+    "quantity": "US$4 million",
+    "unit": "funds",
+    "eventType": "EventA",
+    "eventDescription": "released ahead of the hurricane"
+  },
+  {
+    "quantity": "US$7 million",
+    "unit": "funds",
+    "eventType": "EventA",
+    "eventDescription": "contributed from UN agencies\u2019 own resources"
+  },
+  {
+    "quantity": "about US$64 million",
+    "unit": "funds",
+    "eventType": "EventA",
+    "eventDescription": "funding gap to meet urgent needs",
+    "modifier": "about"
+  }
+]

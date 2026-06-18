@@ -1,0 +1,40 @@
+[
+  {
+    "quantity": "16",
+    "unit": "members",
+    "eventType": "EventP",
+    "eventDescription": "UNDAC team members deployed"
+  },
+  {
+    "quantity": "more than 60",
+    "unit": "organizations",
+    "eventType": "EventO",
+    "eventDescription": "organizations joined coordination system",
+    "modifier": "more than"
+  },
+  {
+    "quantity": "60",
+    "unit": "personnel",
+    "eventType": "EventP",
+    "eventDescription": "personnel staffed emergency field hospital"
+  },
+  {
+    "quantity": "over 5.5 tons",
+    "unit": "medical supplies and trauma kits",
+    "eventType": "EventA",
+    "eventDescription": "medical supplies and trauma kits delivered",
+    "modifier": "over"
+  },
+  {
+    "quantity": "12",
+    "unit": "technical experts",
+    "eventType": "EventP",
+    "eventDescription": "technical experts deployed"
+  },
+  {
+    "quantity": "US$14.2 million",
+    "unit": "funding",
+    "eventType": "EventA",
+    "eventDescription": "Donor Alert seeking funding"
+  }
+]

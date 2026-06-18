@@ -1,0 +1,63 @@
+[
+  {
+    "quantity": "22",
+    "unit": "humanitarian hubs",
+    "eventType": "EventA",
+    "eventDescription": "established to coordinate relief operations"
+  },
+  {
+    "quantity": "Two",
+    "unit": "international naval vessels",
+    "eventType": "EventA",
+    "eventDescription": "arrived to reinforce logistics operations"
+  },
+  {
+    "quantity": "over 600 m\u00b3",
+    "unit": "WASH, shelter, and medical supplies",
+    "eventType": "EventA",
+    "eventDescription": "delivered by Dutch naval support ship",
+    "modifier": "over"
+  },
+  {
+    "quantity": "US$17.2 million",
+    "unit": "funds",
+    "eventType": "EventA",
+    "eventDescription": "Flash Appeal launched"
+  },
+  {
+    "quantity": "96,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "aims to assist"
+  },
+  {
+    "quantity": "48,000",
+    "unit": "women",
+    "eventType": "EventP",
+    "eventDescription": "included in people to be assisted"
+  },
+  {
+    "quantity": "14,000",
+    "unit": "persons with disabilities",
+    "eventType": "EventP",
+    "eventDescription": "included in people to be assisted"
+  },
+  {
+    "quantity": "four",
+    "unit": "parishes",
+    "eventType": "EventO",
+    "eventDescription": "hardest-hit parishes"
+  },
+  {
+    "quantity": "468,000",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "severely affected"
+  },
+  {
+    "quantity": "92 per cent",
+    "unit": "of the population",
+    "eventType": "EventP",
+    "eventDescription": "severely affected"
+  }
+]

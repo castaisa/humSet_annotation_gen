@@ -1,0 +1,35 @@
+[
+  {
+    "quantity": "1.6 million",
+    "unit": "people",
+    "eventType": "EventP",
+    "eventDescription": "affected"
+  },
+  {
+    "quantity": "over 4.8 million",
+    "unit": "tonnes of debris",
+    "eventType": "EventO",
+    "eventDescription": "debris clogging roads, schools, and public spaces",
+    "modifier": "over"
+  },
+  {
+    "quantity": "about 480,000",
+    "unit": "truckloads",
+    "eventType": "EventO",
+    "eventDescription": "debris clogging roads, schools, and public spaces",
+    "modifier": "about"
+  },
+  {
+    "quantity": "at least 30",
+    "unit": "communities",
+    "eventType": "EventP",
+    "eventDescription": "remain cut off",
+    "modifier": "at least"
+  },
+  {
+    "quantity": "five",
+    "unit": "major hospitals",
+    "eventType": "EventA",
+    "eventDescription": "operating in emergency-only mode"
+  }
+]
