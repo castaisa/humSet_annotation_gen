@@ -75,6 +75,61 @@ def levenshtein_similarity(a: str, b: str) -> float:
 
 ALL_FIELDS = ["quantity", "modifier", "unit", "eventDescription", "eventType"]
 
+# ---------------------------------------------------------------------------
+# Value normalization — compare quantities numerically, not as strings
+# ("5 million" == "5,000,000" == "5000000"; "four" == "4")
+# ---------------------------------------------------------------------------
+
+import re
+
+_WORD_NUMBERS = {
+    "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
+    "seven": 7, "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
+}
+_MULTIPLIERS = {"hundred": 1e2, "thousand": 1e3, "million": 1e6, "billion": 1e9}
+
+
+def normalize_value(text):
+    """Parse a quantity string into a float, or None if not parseable.
+
+    Handles digit groups with commas/spaces ("770,000", "300 000"), scale words
+    ("5 million", "7 billion"), number words ("four"), currency prefixes
+    ("US$74 million"), and percentages ("41 per cent" -> 41.0).
+    """
+    if not text:
+        return None
+    t = str(text).lower().strip()
+    t = re.sub(r"(us\$|usd|\$|€|£)", "", t)
+    t = re.sub(r"\s*(per\s*cent|%)\s*$", "", t)
+    m = re.search(r"\d[\d,\. ]*", t)
+    if m:
+        num_str = m.group(0).replace(",", "").replace(" ", "").rstrip(".")
+        try:
+            value = float(num_str)
+        except ValueError:
+            return None
+    else:
+        value = None
+        for word, v in _WORD_NUMBERS.items():
+            if re.search(rf"\b{word}\b", t):
+                value = float(v)
+                break
+        if value is None:
+            return None
+    for word, mult in _MULTIPLIERS.items():
+        if re.search(rf"\b{word}\b", t):
+            value *= mult
+            break
+    return value
+
+
+def units_compatible(a, b):
+    """Case-insensitive equality or containment ('people' ~ 'people affected')."""
+    if a is None or b is None:
+        return a == b
+    a, b = a.lower().strip(), b.lower().strip()
+    return a == b or a in b or b in a
+
 
 def get_field_text(ann: dict, field: str):
     """
@@ -309,6 +364,56 @@ class FieldAccumulator:
 
 
 # ---------------------------------------------------------------------------
+# Strictness staircase — how much "agreement" survives as criteria tighten.
+#
+# A value-only evaluation overstates quality: two systems can agree on "5"
+# while disagreeing on what the 5 counts, its type, and its bounds. The
+# staircase reports the share of GT annotations that survive each cumulative
+# criterion, exposing the gap a single-number score hides.
+# ---------------------------------------------------------------------------
+
+STAIRCASE_LEVELS = [
+    "1_value_match",        # normalized numeric value equal
+    "2_plus_eventType",     # + eventType equal
+    "3_plus_unit",          # + unit compatible (containment)
+    "4_plus_modifier",      # + modifier equal (absent == absent)
+    "5_exact_span",         # + quantity text exactly equal
+]
+
+
+def staircase_pair(gt_ann: dict, pred_ann: dict) -> dict:
+    gt_q, pred_q = get_field_text(gt_ann, "quantity"), get_field_text(pred_ann, "quantity")
+    gv, pv = normalize_value(gt_q), normalize_value(pred_q)
+    value_ok = gv is not None and pv is not None and gv == pv
+    type_ok = value_ok and get_field_text(gt_ann, "eventType") == get_field_text(pred_ann, "eventType")
+    unit_ok = type_ok and units_compatible(get_field_text(gt_ann, "unit"),
+                                           get_field_text(pred_ann, "unit"))
+    gm = (get_field_text(gt_ann, "modifier") or "").lower().strip()
+    pm = (get_field_text(pred_ann, "modifier") or "").lower().strip()
+    mod_ok = unit_ok and gm == pm
+    span_ok = mod_ok and gt_q == pred_q
+    return {
+        "1_value_match": value_ok,
+        "2_plus_eventType": type_ok,
+        "3_plus_unit": unit_ok,
+        "4_plus_modifier": mod_ok,
+        "5_exact_span": span_ok,
+    }
+
+
+def staircase_document(matched_pairs: list, n_gt: int) -> dict:
+    """Counts (and shares of GT annotations) surviving each cumulative level."""
+    counts = {lvl: 0 for lvl in STAIRCASE_LEVELS}
+    for gt_ann, pred_ann in matched_pairs:
+        result = staircase_pair(gt_ann, pred_ann)
+        for lvl in STAIRCASE_LEVELS:
+            counts[lvl] += result[lvl]
+    return {"n_gt": n_gt, "counts": counts,
+            "shares": {lvl: (counts[lvl] / n_gt if n_gt else 0.0)
+                       for lvl in STAIRCASE_LEVELS}}
+
+
+# ---------------------------------------------------------------------------
 # Per-document evaluation
 # ---------------------------------------------------------------------------
 
@@ -398,7 +503,8 @@ def print_table(title, rows, col_headers):
         print(f"{row[0]:<{field_w}}" + "".join(f"{fmt(v):>{col_w}}" for v in row[1:]))
 
 
-def save_csv(out_path, doc_results, global_accs, macro_doc):
+def save_csv(out_path, doc_results, global_accs, macro_doc,
+             staircase_results=None, global_staircase_counts=None, global_staircase_gt=0):
     import csv
     with open(out_path, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
@@ -418,6 +524,17 @@ def save_csv(out_path, doc_results, global_accs, macro_doc):
                         acc.tp, acc.fp, acc.fn])
         for field, (p, r, f1, lev) in macro_doc.items():
             w.writerow(["global_macro", "ALL", field, p, r, f1, lev, "", "", ""])
+        if staircase_results:
+            for stem, stair in staircase_results:
+                for lvl in STAIRCASE_LEVELS:
+                    share = stair["shares"][lvl]
+                    w.writerow(["staircase", stem, lvl, share, "", "", "",
+                                stair["counts"][lvl], "", stair["n_gt"]])
+            for lvl in STAIRCASE_LEVELS:
+                share = (global_staircase_counts[lvl] / global_staircase_gt
+                         if global_staircase_gt else 0.0)
+                w.writerow(["staircase", "ALL", lvl, share, "", "", "",
+                            global_staircase_counts[lvl], "", global_staircase_gt])
     print(f"\nResults saved to: {out_path}")
 
 
@@ -440,6 +557,9 @@ def main():
 
     doc_results = []
     global_accs = {f: GlobalAccumulator() for f in ALL_FIELDS}
+    staircase_results = []
+    global_staircase_counts = {lvl: 0 for lvl in STAIRCASE_LEVELS}
+    global_staircase_gt = 0
 
     for stem, gt_path, pred_path in pairs:
         gt_list   = load_annotations(gt_path)
@@ -448,6 +568,13 @@ def main():
         doc_results.append((stem, accs))
         for field, acc in accs.items():
             global_accs[field].merge(acc)
+
+        matched_pairs, _, _ = match_annotations(gt_list, pred_list)
+        stair = staircase_document(matched_pairs, len(gt_list))
+        staircase_results.append((stem, stair))
+        for lvl in STAIRCASE_LEVELS:
+            global_staircase_counts[lvl] += stair["counts"][lvl]
+        global_staircase_gt += stair["n_gt"]
 
     # Macro: average per-document metrics.
     # Documents with no annotations for a field contribute 0.0.
@@ -485,8 +612,21 @@ def main():
     print_table("GLOBAL MACRO (average over documents)", rows,
                 ["Precision", "Recall", "F1", "Levenshtein"])
 
+    # Strictness staircase
+    print(f"\n{'='*76}")
+    print("  STRICTNESS STAIRCASE (share of GT annotations surviving each level)")
+    print(f"{'='*76}")
+    print(f"{'Level':<24}{'Count':>10}{'Share':>10}")
+    print("-" * 44)
+    for lvl in STAIRCASE_LEVELS:
+        count = global_staircase_counts[lvl]
+        share = count / global_staircase_gt if global_staircase_gt else 0.0
+        print(f"{lvl:<24}{count:>10}{share:>10.1%}")
+    print(f"{'(total GT annotations)':<24}{global_staircase_gt:>10}")
+
     if args.out:
-        save_csv(args.out, doc_results, global_accs, macro_doc)
+        save_csv(args.out, doc_results, global_accs, macro_doc,
+                 staircase_results, global_staircase_counts, global_staircase_gt)
 
 
 if __name__ == "__main__":
