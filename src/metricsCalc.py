@@ -573,6 +573,10 @@ STAIRCASE_LEVELS = [
 
 CRITERIA = ["value", "eventType", "unit", "modifier", "span_overlap", "span_exact"]
 
+# "lenient": reference fields that are absent are not assessable (primary);
+# "strict": absent reference field vs. present prediction counts as mismatch.
+MISSING_REF_POLICY = "lenient"
+
 
 def criteria_booleans(gt_ann: dict, pred_ann: dict) -> dict:
     """Independent (non-cumulative) pass/fail per criterion for a matched pair."""
@@ -583,13 +587,27 @@ def criteria_booleans(gt_ann: dict, pred_ann: dict) -> dict:
     gb, ge = get_quantity_span(gt_ann)
     pb, pe = get_quantity_span(pred_ann)
     overlap = (None not in (gb, ge, pb, pe)) and max(gb, pb) < min(ge, pe)
+    gt_type = get_field_text(gt_ann, "eventType")
+    gt_unit = get_field_text(gt_ann, "unit")
+    if MISSING_REF_POLICY == "lenient":
+        # A reference record without an event label or unit was never linked to
+        # one by the annotator; the field is not assessable, so a prediction is
+        # not penalised for supplying one. Modifiers stay strict: absence in the
+        # reference means "no hedge", so a predicted hedge is an error.
+        type_ok = True if gt_type is None else gt_type == get_field_text(pred_ann, "eventType")
+        unit_ok = True if gt_unit is None else units_compatible(gt_unit, get_field_text(pred_ann, "unit"))
+    else:
+        type_ok = gt_type == get_field_text(pred_ann, "eventType")
+        unit_ok = units_compatible(gt_unit, get_field_text(pred_ann, "unit"))
     return {
         "value": gv is not None and pv is not None and gv == pv,
-        "eventType": get_field_text(gt_ann, "eventType") == get_field_text(pred_ann, "eventType"),
-        "unit": units_compatible(get_field_text(gt_ann, "unit"), get_field_text(pred_ann, "unit")),
+        "eventType": type_ok,
+        "unit": unit_ok,
         "modifier": gm == pm,
         "span_overlap": overlap,
         "span_exact": gt_q == pred_q,
+        "type_assessable": gt_type is not None,
+        "unit_assessable": gt_unit is not None,
     }
 
 
@@ -826,8 +844,12 @@ def main():
                         help="Number of document-level bootstrap resamples for "
                              "staircase confidence intervals (0 = off)")
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--missing-ref", choices=["lenient", "strict"], default="lenient",
+                        help="how to score eventType/unit when the reference record has none")
     args = parser.parse_args()
 
+    global MISSING_REF_POLICY
+    MISSING_REF_POLICY = args.missing_ref
     pairs = discover_pairs(args.gt, args.pred)
     if not pairs:
         print("No matching file pairs found.")
