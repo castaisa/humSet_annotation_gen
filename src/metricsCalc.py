@@ -297,6 +297,196 @@ def match_annotations(gt_list: list, pred_list: list):
 
 
 # ---------------------------------------------------------------------------
+# Optimal one-to-one matching (position-primary maximum-weight assignment)
+# ---------------------------------------------------------------------------
+
+def _pair_score(gt_ann: dict, pred_ann: dict):
+    """Score a candidate (reference, prediction) pair.
+
+    Position is primary: quantity-span IoU carries the largest weight.
+    Normalized value equality and surface/unit similarity refine the choice
+    among positional ties (repeated values, percentages). A pair is eligible
+    only if the spans overlap or the values/surface forms agree; ineligible
+    pairs can never be matched.
+    """
+    gb, ge = get_quantity_span(gt_ann)
+    pb, pe = get_quantity_span(pred_ann)
+    iou = 0.0
+    if None not in (gb, ge, pb, pe):
+        inter = max(0, min(ge, pe) - max(gb, pb))
+        union = max(ge, pe) - min(gb, pb)
+        iou = inter / union if union else 0.0
+    gv = normalize_value(get_field_text(gt_ann, "quantity"))
+    pv = normalize_value(get_field_text(pred_ann, "quantity"))
+    val = 1.0 if (gv is not None and pv is not None and gv == pv) else 0.0
+    text = 1.0 if get_quantity_text(gt_ann) == get_quantity_text(pred_ann) else 0.0
+    unit = 1.0 if units_compatible(get_field_text(gt_ann, "unit"),
+                                   get_field_text(pred_ann, "unit")) else 0.0
+    eligible = iou > 0 or val > 0 or text > 0
+    if not eligible:
+        return None
+    return 3.0 * iou + 2.0 * val + 0.5 * text + 0.25 * unit
+
+
+def _hungarian_max(score):
+    """Exact maximum-weight assignment (Kuhn-Munkres with potentials).
+
+    score: rectangular matrix (rows x cols) of floats, None = ineligible.
+    Returns list of (row, col) pairs restricted to eligible cells.
+    Deterministic for a given input order.
+    """
+    n, m = len(score), len(score[0]) if score else 0
+    if n == 0 or m == 0:
+        return []
+    size = max(n, m)
+    BIG = 1e9
+    # cost matrix for minimization, padded square
+    a = [[BIG] * (size + 1) for _ in range(size + 1)]
+    for i in range(n):
+        for j in range(m):
+            sc = score[i][j]
+            a[i + 1][j + 1] = BIG if sc is None else -sc
+    INF = float("inf")
+    u = [0.0] * (size + 1)
+    v = [0.0] * (size + 1)
+    p = [0] * (size + 1)
+    way = [0] * (size + 1)
+    for i in range(1, size + 1):
+        p[0] = i
+        j0 = 0
+        minv = [INF] * (size + 1)
+        used = [False] * (size + 1)
+        while True:
+            used[j0] = True
+            i0, delta, j1 = p[j0], INF, 0
+            for j in range(1, size + 1):
+                if not used[j]:
+                    cur = a[i0][j] - u[i0] - v[j]
+                    if cur < minv[j]:
+                        minv[j] = cur
+                        way[j] = j0
+                    if minv[j] < delta:
+                        delta = minv[j]
+                        j1 = j
+            for j in range(size + 1):
+                if used[j]:
+                    u[p[j]] += delta
+                    v[j] -= delta
+                else:
+                    minv[j] -= delta
+            j0 = j1
+            if p[j0] == 0:
+                break
+        while j0:
+            p[j0] = p[way[j0]]
+            j0 = way[j0]
+    pairs = []
+    for j in range(1, size + 1):
+        i = p[j]
+        if 1 <= i <= n and 1 <= j <= m and score[i - 1][j - 1] is not None:
+            pairs.append((i - 1, j - 1))
+    return pairs
+
+
+def _sort_key(ann):
+    b, e = get_quantity_span(ann)
+    return (b if b is not None else 10**9, e if e is not None else 10**9,
+            str(get_quantity_text(ann)))
+
+
+def match_annotations_optimal(gt_list: list, pred_list: list):
+    """Global maximum-weight one-to-one matching over eligible pairs.
+
+    Both lists are sorted by quantity span position before matching, so the
+    procedure is deterministic and independent of file record order.
+    Returns (matched_pairs, unmatched_gt, unmatched_pred).
+    """
+    gt_sorted = sorted(gt_list, key=_sort_key)
+    pred_sorted = sorted(pred_list, key=_sort_key)
+    score = [[_pair_score(g, q) for q in pred_sorted] for g in gt_sorted]
+    pairs = _hungarian_max(score)
+    matched = [(gt_sorted[i], pred_sorted[j]) for i, j in pairs]
+    used_g = {i for i, _ in pairs}
+    used_p = {j for _, j in pairs}
+    unmatched_gt = [g for i, g in enumerate(gt_sorted) if i not in used_g]
+    unmatched_pred = [q for j, q in enumerate(pred_sorted) if j not in used_p]
+    return matched, unmatched_gt, unmatched_pred
+
+
+MATCHERS = {"assignment": match_annotations_optimal, "legacy": match_annotations}
+
+
+# ---------------------------------------------------------------------------
+# Hierarchical attribution (semantic Shapley + localization + boundary)
+# ---------------------------------------------------------------------------
+
+SEMANTIC_CRITERIA = ["value", "eventType", "unit", "modifier"]
+
+
+def hierarchical_attribution(pair_criteria: list, n_gt: int, n_pred: int) -> dict:
+    """Decompose recall and precision loss into non-nested components.
+
+    Components (each a share of the respective denominator):
+      unmatched      reference/prediction had no eligible counterpart
+      semantic       matched but a semantic field is wrong; split over
+                     {value, eventType, unit, modifier} by exact Shapley
+                     with value function v(S) = share of matched pairs
+                     satisfying every criterion in S (v(empty) = 1)
+      localization   semantically correct but quantity spans do not overlap
+      boundary       overlapping but not character-identical spans
+    The semantic Shapley uses only the four non-nested semantic criteria, so
+    no coalition mixes nested span conditions; span conditions are handled
+    hierarchically outside the Shapley computation.
+    """
+    from itertools import combinations
+    from math import factorial
+
+    matched = len(pair_criteria)
+    sem_ok = [c for c in pair_criteria if all(c[x] for x in SEMANTIC_CRITERIA)]
+    loc_ok = [c for c in sem_ok if c["span_overlap"]]
+    full_ok = [c for c in loc_ok if c["span_exact"]]
+
+    def shapley_matched():
+        if not matched:
+            return {c: 0.0 for c in SEMANTIC_CRITERIA}
+        k = len(SEMANTIC_CRITERIA)
+        cache = {}
+        def f(subset):
+            key = frozenset(subset)
+            if key not in cache:
+                good = sum(1 for c in pair_criteria if all(c[x] for x in key))
+                cache[key] = good / matched
+            return cache[key]
+        shap = {}
+        for crit in SEMANTIC_CRITERIA:
+            others = [x for x in SEMANTIC_CRITERIA if x != crit]
+            total = 0.0
+            for r in range(len(others) + 1):
+                for combo in combinations(others, r):
+                    w = factorial(r) * factorial(k - r - 1) / factorial(k)
+                    total += w * (f(combo) - f(combo + (crit,)))
+            shap[crit] = total
+        return shap
+
+    shap = shapley_matched()
+
+    def components(denom):
+        if not denom:
+            return {}
+        m = matched / denom
+        return {
+            "unmatched": (denom - matched) / denom,
+            "semantic": {c: shap[c] * m for c in SEMANTIC_CRITERIA},
+            "semantic_total": (matched - len(sem_ok)) / denom,
+            "localization": (len(sem_ok) - len(loc_ok)) / denom,
+            "boundary": (len(loc_ok) - len(full_ok)) / denom,
+            "surviving": len(full_ok) / denom,
+        }
+
+    return {"recall": components(n_gt), "precision": components(n_pred)}
+
+
+# ---------------------------------------------------------------------------
 # Accumulator
 # ---------------------------------------------------------------------------
 
@@ -492,11 +682,11 @@ def staircase_document(matched_pairs: list, n_gt: int, n_pred: int = None) -> di
 # Per-document evaluation
 # ---------------------------------------------------------------------------
 
-def evaluate_pair(gt_list: list, pred_list: list) -> dict:
+def evaluate_pair(gt_list: list, pred_list: list, matcher: str = "assignment") -> dict:
     """Returns {field: FieldAccumulator} for one document."""
     accs = {f: FieldAccumulator() for f in ALL_FIELDS}
 
-    matched_pairs, unmatched_gt, unmatched_pred = match_annotations(gt_list, pred_list)
+    matched_pairs, unmatched_gt, unmatched_pred = MATCHERS[matcher](gt_list, pred_list)
 
     for gt_ann, pred_ann in matched_pairs:
         for field in ALL_FIELDS:
@@ -629,6 +819,13 @@ def main():
     parser.add_argument("--gt",   required=True, help="Ground truth directory")
     parser.add_argument("--pred", required=True, help="Predictions directory")
     parser.add_argument("--out",  default=None,  help="Optional CSV output path")
+    parser.add_argument("--matcher", choices=["assignment", "legacy"], default="assignment",
+                        help="assignment: position-primary maximum-weight one-to-one "
+                             "matching (default); legacy: surface-form-first greedy")
+    parser.add_argument("--bootstrap", type=int, default=0,
+                        help="Number of document-level bootstrap resamples for "
+                             "staircase confidence intervals (0 = off)")
+    parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
 
     pairs = discover_pairs(args.gt, args.pred)
@@ -648,12 +845,12 @@ def main():
     for stem, gt_path, pred_path in pairs:
         gt_list   = load_annotations(gt_path)
         pred_list = load_annotations(pred_path)
-        accs      = evaluate_pair(gt_list, pred_list)
+        accs      = evaluate_pair(gt_list, pred_list, args.matcher)
         doc_results.append((stem, accs))
         for field, acc in accs.items():
             global_accs[field].merge(acc)
 
-        matched_pairs, _, _ = match_annotations(gt_list, pred_list)
+        matched_pairs, _, _ = MATCHERS[args.matcher](gt_list, pred_list)
         stair = staircase_document(matched_pairs, len(gt_list), len(pred_list))
         staircase_results.append((stem, stair))
         for lvl in STAIRCASE_LEVELS:
@@ -713,18 +910,45 @@ def main():
     print(f"{'(GT annotations)':<24}{global_staircase_gt:>8}")
     print(f"{'(predicted annotations)':<24}{global_staircase_pred:>8}")
 
-    # Order-free attribution
-    shap = shapley_attribution(global_criteria, global_staircase_gt)
-    total_drop = sum(shap.values())
+    # Hierarchical attribution (semantic Shapley + localization + boundary)
+    attr = hierarchical_attribution(global_criteria, global_staircase_gt, global_staircase_pred)
     print(f"\n{'='*76}")
-    print("  ORDER-FREE ATTRIBUTION (Shapley share of full-strictness recall loss)")
+    print("  HIERARCHICAL ATTRIBUTION (share of loss; semantic split by Shapley)")
     print(f"{'='*76}")
-    print(f"{'Criterion':<18}{'Shapley drop':>14}{'share of loss':>16}")
-    print("-" * 48)
-    for crit in CRITERIA:
-        share = shap[crit] / total_drop if total_drop else 0.0
-        print(f"{crit:<18}{shap[crit]:>14.1%}{share:>16.1%}")
-    print(f"{'(total recall loss)':<18}{total_drop:>14.1%}")
+    print(f"{'Component':<22}{'Recall':>10}{'Precision':>12}")
+    print("-" * 46)
+    r, pr = attr["recall"], attr["precision"]
+    print(f"{'unmatched':<22}{r['unmatched']:>10.1%}{pr['unmatched']:>12.1%}")
+    for c in SEMANTIC_CRITERIA:
+        print(f"{'semantic: ' + c:<22}{r['semantic'][c]:>10.1%}{pr['semantic'][c]:>12.1%}")
+    print(f"{'localization':<22}{r['localization']:>10.1%}{pr['localization']:>12.1%}")
+    print(f"{'boundary (exact span)':<22}{r['boundary']:>10.1%}{pr['boundary']:>12.1%}")
+    print(f"{'(surviving, full)':<22}{r['surviving']:>10.1%}{pr['surviving']:>12.1%}")
+
+    # Document-level bootstrap confidence intervals
+    if args.bootstrap:
+        import random
+        rng = random.Random(args.seed)
+        docs = [(st["counts"], st["n_gt"], st["n_pred"]) for _, st in staircase_results]
+        lvls = ["1_value_match", STAIRCASE_LEVELS[-1]]
+        samples = {lvl: [] for lvl in lvls}
+        for _ in range(args.bootstrap):
+            picks = [docs[rng.randrange(len(docs))] for _ in docs]
+            for lvl in lvls:
+                c = sum(d[0][lvl] for d in picks)
+                g = sum(d[1] for d in picks)
+                q = sum(d[2] for d in picks)
+                rr = c / g if g else 0.0
+                pp = c / q if q else 0.0
+                samples[lvl].append(2 * pp * rr / (pp + rr) if (pp + rr) else 0.0)
+        print(f"\n{'='*76}")
+        print(f"  BOOTSTRAP 95% CI (F1, {args.bootstrap} document resamples, seed {args.seed})")
+        print(f"{'='*76}")
+        for lvl in lvls:
+            xs = sorted(samples[lvl])
+            lo = xs[int(0.025 * len(xs))]
+            hi = xs[int(0.975 * len(xs)) - 1]
+            print(f"{lvl:<24}[{lo:.3f}, {hi:.3f}]")
 
     if args.out:
         save_csv(args.out, doc_results, global_accs, macro_doc,
