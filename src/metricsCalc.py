@@ -377,40 +377,115 @@ STAIRCASE_LEVELS = [
     "2_plus_eventType",     # + eventType equal
     "3_plus_unit",          # + unit compatible (containment)
     "4_plus_modifier",      # + modifier equal (absent == absent)
-    "5_exact_span",         # + quantity text exactly equal
+    "5_plus_span_overlap",  # + quantity spans overlap (provenance, relaxed)
+    "6_exact_span",         # + quantity text exactly equal (provenance, strict)
 ]
+
+CRITERIA = ["value", "eventType", "unit", "modifier", "span_overlap", "span_exact"]
+
+
+def criteria_booleans(gt_ann: dict, pred_ann: dict) -> dict:
+    """Independent (non-cumulative) pass/fail per criterion for a matched pair."""
+    gt_q, pred_q = get_field_text(gt_ann, "quantity"), get_field_text(pred_ann, "quantity")
+    gv, pv = normalize_value(gt_q), normalize_value(pred_q)
+    gm = (get_field_text(gt_ann, "modifier") or "").lower().strip()
+    pm = (get_field_text(pred_ann, "modifier") or "").lower().strip()
+    gb, ge = get_quantity_span(gt_ann)
+    pb, pe = get_quantity_span(pred_ann)
+    overlap = (None not in (gb, ge, pb, pe)) and max(gb, pb) < min(ge, pe)
+    return {
+        "value": gv is not None and pv is not None and gv == pv,
+        "eventType": get_field_text(gt_ann, "eventType") == get_field_text(pred_ann, "eventType"),
+        "unit": units_compatible(get_field_text(gt_ann, "unit"), get_field_text(pred_ann, "unit")),
+        "modifier": gm == pm,
+        "span_overlap": overlap,
+        "span_exact": gt_q == pred_q,
+    }
 
 
 def staircase_pair(gt_ann: dict, pred_ann: dict) -> dict:
-    gt_q, pred_q = get_field_text(gt_ann, "quantity"), get_field_text(pred_ann, "quantity")
-    gv, pv = normalize_value(gt_q), normalize_value(pred_q)
-    value_ok = gv is not None and pv is not None and gv == pv
-    type_ok = value_ok and get_field_text(gt_ann, "eventType") == get_field_text(pred_ann, "eventType")
-    unit_ok = type_ok and units_compatible(get_field_text(gt_ann, "unit"),
-                                           get_field_text(pred_ann, "unit"))
-    gm = (get_field_text(gt_ann, "modifier") or "").lower().strip()
-    pm = (get_field_text(pred_ann, "modifier") or "").lower().strip()
-    mod_ok = unit_ok and gm == pm
-    span_ok = mod_ok and gt_q == pred_q
+    c = criteria_booleans(gt_ann, pred_ann)
+    value_ok = c["value"]
+    type_ok = value_ok and c["eventType"]
+    unit_ok = type_ok and c["unit"]
+    mod_ok = unit_ok and c["modifier"]
+    ov_ok = mod_ok and c["span_overlap"]
+    span_ok = ov_ok and c["span_exact"]
     return {
         "1_value_match": value_ok,
         "2_plus_eventType": type_ok,
         "3_plus_unit": unit_ok,
         "4_plus_modifier": mod_ok,
-        "5_exact_span": span_ok,
+        "5_plus_span_overlap": ov_ok,
+        "6_exact_span": span_ok,
     }
 
 
-def staircase_document(matched_pairs: list, n_gt: int) -> dict:
-    """Counts (and shares of GT annotations) surviving each cumulative level."""
+def shapley_attribution(pair_criteria: list, n_gt: int) -> dict:
+    """Order-free attribution: Shapley share of full-strictness failures per criterion.
+
+    The coalition payoff f(S) is the share of reference annotations whose matched
+    pair satisfies every criterion in S (unmatched references satisfy nothing).
+    Reported values are each criterion's Shapley contribution to the total drop
+    1 - f(all criteria); they sum to that drop. This replaces reading error
+    attribution off the (order-dependent) sequential staircase.
+    """
+    from itertools import combinations
+    from math import factorial
+
+    crits = CRITERIA
+    k = len(crits)
+
+    def payoff(subset):
+        if not subset:
+            return 1.0
+        good = sum(1 for c in pair_criteria if all(c[x] for x in subset))
+        return good / n_gt if n_gt else 0.0
+
+    cache = {}
+    def f(subset):
+        key = frozenset(subset)
+        if key not in cache:
+            cache[key] = payoff(key)
+        return cache[key]
+
+    shap = {}
+    for crit in crits:
+        others = [x for x in crits if x != crit]
+        total = 0.0
+        for r in range(len(others) + 1):
+            for combo in combinations(others, r):
+                w = factorial(r) * factorial(k - r - 1) / factorial(k)
+                total += w * (f(combo) - f(combo + (crit,)))
+        shap[crit] = total
+    return shap
+
+
+def staircase_document(matched_pairs: list, n_gt: int, n_pred: int = None) -> dict:
+    """Counts, recall, precision, and F1 per cumulative level, plus per-pair
+    criteria booleans for order-free attribution."""
     counts = {lvl: 0 for lvl in STAIRCASE_LEVELS}
+    pair_criteria = []
     for gt_ann, pred_ann in matched_pairs:
         result = staircase_pair(gt_ann, pred_ann)
+        pair_criteria.append(criteria_booleans(gt_ann, pred_ann))
         for lvl in STAIRCASE_LEVELS:
             counts[lvl] += result[lvl]
-    return {"n_gt": n_gt, "counts": counts,
-            "shares": {lvl: (counts[lvl] / n_gt if n_gt else 0.0)
-                       for lvl in STAIRCASE_LEVELS}}
+    if n_pred is None:
+        n_pred = len(matched_pairs)
+    out = {"n_gt": n_gt, "n_pred": n_pred, "counts": counts,
+           "criteria": pair_criteria,
+           "recall": {}, "precision": {}, "f1": {},
+           "shares": {}}
+    for lvl in STAIRCASE_LEVELS:
+        c = counts[lvl]
+        r = c / n_gt if n_gt else 0.0
+        p = c / n_pred if n_pred else 0.0
+        out["recall"][lvl] = r
+        out["precision"][lvl] = p
+        out["f1"][lvl] = 2 * p * r / (p + r) if (p + r) else 0.0
+        out["shares"][lvl] = r  # kept for backward compatibility
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -504,7 +579,8 @@ def print_table(title, rows, col_headers):
 
 
 def save_csv(out_path, doc_results, global_accs, macro_doc,
-             staircase_results=None, global_staircase_counts=None, global_staircase_gt=0):
+             staircase_results=None, global_staircase_counts=None, global_staircase_gt=0,
+             global_staircase_pred=0, global_criteria=None):
     import csv
     with open(out_path, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
@@ -527,14 +603,20 @@ def save_csv(out_path, doc_results, global_accs, macro_doc,
         if staircase_results:
             for stem, stair in staircase_results:
                 for lvl in STAIRCASE_LEVELS:
-                    share = stair["shares"][lvl]
-                    w.writerow(["staircase", stem, lvl, share, "", "", "",
-                                stair["counts"][lvl], "", stair["n_gt"]])
+                    w.writerow(["staircase", stem, lvl,
+                                stair["precision"][lvl], stair["recall"][lvl],
+                                stair["f1"][lvl], "",
+                                stair["counts"][lvl], stair["n_pred"], stair["n_gt"]])
             for lvl in STAIRCASE_LEVELS:
-                share = (global_staircase_counts[lvl] / global_staircase_gt
-                         if global_staircase_gt else 0.0)
-                w.writerow(["staircase", "ALL", lvl, share, "", "", "",
-                            global_staircase_counts[lvl], "", global_staircase_gt])
+                c = global_staircase_counts[lvl]
+                r = c / global_staircase_gt if global_staircase_gt else 0.0
+                pr = c / global_staircase_pred if global_staircase_pred else 0.0
+                f1 = 2 * pr * r / (pr + r) if (pr + r) else 0.0
+                w.writerow(["staircase", "ALL", lvl, pr, r, f1, "",
+                            c, global_staircase_pred, global_staircase_gt])
+            shap = shapley_attribution(global_criteria, global_staircase_gt)
+            for crit, drop in shap.items():
+                w.writerow(["shapley", "ALL", crit, drop, "", "", "", "", "", ""])
     print(f"\nResults saved to: {out_path}")
 
 
@@ -560,6 +642,8 @@ def main():
     staircase_results = []
     global_staircase_counts = {lvl: 0 for lvl in STAIRCASE_LEVELS}
     global_staircase_gt = 0
+    global_staircase_pred = 0
+    global_criteria = []
 
     for stem, gt_path, pred_path in pairs:
         gt_list   = load_annotations(gt_path)
@@ -570,11 +654,13 @@ def main():
             global_accs[field].merge(acc)
 
         matched_pairs, _, _ = match_annotations(gt_list, pred_list)
-        stair = staircase_document(matched_pairs, len(gt_list))
+        stair = staircase_document(matched_pairs, len(gt_list), len(pred_list))
         staircase_results.append((stem, stair))
         for lvl in STAIRCASE_LEVELS:
             global_staircase_counts[lvl] += stair["counts"][lvl]
         global_staircase_gt += stair["n_gt"]
+        global_staircase_pred += stair["n_pred"]
+        global_criteria.extend(stair["criteria"])
 
     # Macro: average per-document metrics.
     # Documents with no annotations for a field contribute 0.0.
@@ -612,21 +698,38 @@ def main():
     print_table("GLOBAL MACRO (average over documents)", rows,
                 ["Precision", "Recall", "F1", "Levenshtein"])
 
-    # Strictness staircase
+    # Strictness staircase: precision, recall, F1 at every cumulative level
     print(f"\n{'='*76}")
-    print("  STRICTNESS STAIRCASE (share of GT annotations surviving each level)")
+    print("  STRICTNESS STAIRCASE (cumulative criteria; P/R/F1 over all annotations)")
     print(f"{'='*76}")
-    print(f"{'Level':<24}{'Count':>10}{'Share':>10}")
-    print("-" * 44)
+    print(f"{'Level':<24}{'Count':>8}{'Recall':>10}{'Precision':>11}{'F1':>10}")
+    print("-" * 64)
     for lvl in STAIRCASE_LEVELS:
         count = global_staircase_counts[lvl]
-        share = count / global_staircase_gt if global_staircase_gt else 0.0
-        print(f"{lvl:<24}{count:>10}{share:>10.1%}")
-    print(f"{'(total GT annotations)':<24}{global_staircase_gt:>10}")
+        r = count / global_staircase_gt if global_staircase_gt else 0.0
+        pr = count / global_staircase_pred if global_staircase_pred else 0.0
+        f1 = 2 * pr * r / (pr + r) if (pr + r) else 0.0
+        print(f"{lvl:<24}{count:>8}{r:>10.1%}{pr:>11.1%}{f1:>10.3f}")
+    print(f"{'(GT annotations)':<24}{global_staircase_gt:>8}")
+    print(f"{'(predicted annotations)':<24}{global_staircase_pred:>8}")
+
+    # Order-free attribution
+    shap = shapley_attribution(global_criteria, global_staircase_gt)
+    total_drop = sum(shap.values())
+    print(f"\n{'='*76}")
+    print("  ORDER-FREE ATTRIBUTION (Shapley share of full-strictness recall loss)")
+    print(f"{'='*76}")
+    print(f"{'Criterion':<18}{'Shapley drop':>14}{'share of loss':>16}")
+    print("-" * 48)
+    for crit in CRITERIA:
+        share = shap[crit] / total_drop if total_drop else 0.0
+        print(f"{crit:<18}{shap[crit]:>14.1%}{share:>16.1%}")
+    print(f"{'(total recall loss)':<18}{total_drop:>14.1%}")
 
     if args.out:
         save_csv(args.out, doc_results, global_accs, macro_doc,
-                 staircase_results, global_staircase_counts, global_staircase_gt)
+                 staircase_results, global_staircase_counts, global_staircase_gt,
+                 global_staircase_pred, global_criteria)
 
 
 if __name__ == "__main__":
